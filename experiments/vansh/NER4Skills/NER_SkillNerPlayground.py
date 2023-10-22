@@ -27,13 +27,13 @@ nlp = spacy.load("en_core_web_lg")
 # init skill extractor
 skill_extractor = SkillExtractor(nlp, SKILL_DB, PhraseMatcher)
 
-# NOTE: Need to download skills_processed.json and keep it in the same directory
-with open('skills_processed.json', 'r+') as f:
-    SKILL_DB = json.load(f)
-
 import json
 
 import os
+
+# NOTE: Need to download skills_processed.json and keep it in the same directory
+with open('skills_processed.json', 'r+') as f:
+    SKILL_DB = json.load(f)
 
 # %% [markdown]
 # ### Skill Extraction
