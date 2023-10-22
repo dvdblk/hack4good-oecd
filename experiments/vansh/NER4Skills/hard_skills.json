@@ -1,0 +1,14 @@
+{
+    "Web Development": {
+        "skillNameInDoc": "web development",
+        "SkillScore": "1"
+    },
+    "Python (Programming Language)": {
+        "skillNameInDoc": "python",
+        "SkillScore": "1"
+    },
+    "Project Management": {
+        "skillNameInDoc": "manage projects",
+        "SkillScore": "2"
+    }
+}
