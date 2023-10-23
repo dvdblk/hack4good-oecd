@@ -1,0 +1,23 @@
+name: CI
+on:
+  pull_request:
+    paths:
+      - '**.py'
+
+jobs:
+  ci:
+    name: Code Style and linting
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out
+        uses: actions/checkout@v3
+      - name: Setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
+      - name: Install dependencies
+        run: pip install black==23.3.0 isort==5.12.0
+      - name: Code Style
+        run: |
+          isort --profile black -c .
+          black --check --target-version py311 --config pyproject.toml .
