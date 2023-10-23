@@ -4,4 +4,3 @@ channels:
 dependencies:
   - pip=23.2.1
   - python=3.11.5
-prefix: /home/dvdblk/miniconda3/envs/hack4good
