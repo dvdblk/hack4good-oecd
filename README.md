@@ -4,7 +4,10 @@
 
 * https://docs.google.com/spreadsheets/d/1pKb_1Je4hD2X8IfYrFXYqBhWfPg5lgPY/edit?usp=sharing&ouid=110500414719598262605&rtpof=true&sd=true
 
-## Conda Environment
+## Getting started
+
+### Conda Environment
+To run the pipeline (jupyter notebooks) you need to create a conda environment with the required dependencies.
 
 > Requirements: [conda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html)
 
@@ -17,3 +20,8 @@ conda activate hack4good
 # to deactivate the environment (when you're done)
 conda deactivate
 ```
+
+## Contributing
+1. Install [pre-commit](https://pre-commit.com/#installation).
+2. `pre-commit install`
+3. Add changes, commit and pull request to `main` branch.
