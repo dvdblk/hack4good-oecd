@@ -6,20 +6,14 @@
 
 ## Conda Environment
 
-> Requirements: conda
+> Requirements: [conda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html)
 
 To **create** a conda environment after cloning the repo:
 ```
-conda create -n hack4good --file conda-req.txt
-```
-
-To **activate** this environment:
-```
+# from the root of the repo
+conda env create -f environment.yml
+# to activate the environment
 conda activate hack4good
-```
-
-**Deactivate** this environment with:
-```
+# to deactivate the environment (when you're done)
 conda deactivate
 ```
-
