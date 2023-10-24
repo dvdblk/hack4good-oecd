@@ -76,7 +76,7 @@ class PreprocessorManager:
 @_register_preprocessor(PDFElementType.TEXT)
 def remove_newlines(line: str) -> PreprocessResult:
     """Removes all newline occurences in the text."""
-    return ModifiedPreprocessResult(line.replace("\n", ""))
+    return ModifiedPreprocessResult(text=line.replace("\n", ""))
 
 
 @_register_preprocessor(PDFElementType.TEXT)

@@ -44,9 +44,19 @@ class PDFConverter:
 
         # Save to file if needed
         if out_path:
-            out_filename = os.path.basename(file_path)
+            # Create the filename but with .txt instead of .pdf
+            out_filename = os.path.splitext(os.path.basename(file_path))[0] + ".txt"
+            # Open the file
             out_file = open(os.path.join(out_path, out_filename), "w", encoding="utf-8")
-            out_file.write(result)
+
+            # Create the flattened text result that will be saved to file
+            result_flat = ""
+            for page in result:
+                # Join each ExtractedPage's text with a newline
+                result_flat += "\n".join(page.text)
+
+            # Save to file
+            out_file.write(result_flat)
             print(f"Saved to file: {out_path}")
 
             out_file.close()
