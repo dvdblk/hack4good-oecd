@@ -94,6 +94,7 @@ class TextExtractor:
 
             table_num = 0
             first_element = True
+            lower_side, upper_side = 0, 0
             table_extraction_flag = False
 
             page_tables = pdf.pages[page_nr]
