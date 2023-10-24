@@ -36,7 +36,6 @@ class PDFConverter:
         Returns:
             List of strings (one per page).
         """
-        # TODO: Add support for directories
         print("Converting PDF to text ...")
         pdf_file = open(file_path, "rb")
 
@@ -60,7 +59,12 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Convert OECD PDF to text")
     parser.add_argument("-f", "--file", type=str, help="Path to PDF file(s)", required=True)
     parser.add_argument(
-        "-p", "--page", type=int, help="Page number to print", required=False, default=0
+        "-p",
+        "--page",
+        type=int,
+        help="Page number to print (works only with a single pdf file)",
+        required=False,
+        default=0,
     )
     parser.add_argument(
         "-o",
@@ -72,9 +76,23 @@ if __name__ == "__main__":
     )
     args = parser.parse_args()
 
-    # Extract text from PDF
-    print(f"Extracting text from '{args.file}' ...")
     converter = PDFConverter()
-    result = converter.convert(args.file, args.output_dir)
+    # Check if file is directory
+    if os.path.isdir(args.file):
+        # Extract text from all PDFs in the directory
+        print(f"Extracting text from all PDFs in '{args.file}' ...")
+        results = []
+        for file in os.listdir(args.file):
+            if file.endswith(".pdf"):
+                file_path = os.path.join(args.file, file)
+                print(f"Extracting text from '{file_path}' ...")
+                results.append(converter.convert(file_path, args.output_dir))
+        result = results[0]
+    else:
+        # Extract text from PDF
+        print(f"Extracting text from file '{args.file}' ...")
+        result = converter.convert(args.file, args.output_dir)
 
-    print(result[args.page])
+    # Print the result page if needed
+    if args.page is not None:
+        print(result[args.page])
