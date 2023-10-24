@@ -1,6 +1,7 @@
 from typing import Any, Generator, List, Tuple
 
 import pdfplumber
+from pdf2text.preprocess import PreprocessorManager
 from pdfminer.high_level import extract_pages, extract_text
 from pdfminer.layout import LTChar, LTFigure, LTItem, LTRect, LTTextContainer
 
@@ -34,14 +35,17 @@ def table_converter(table):
 class TextExtractor:
     """Analyze each page of a PDF document and extract text (works with tables and images)"""
 
+    def __init__(self) -> None:
+        self.preprocessor = PreprocessorManager()
+
     def _extract_text(
         self, element: LTItem, include_formatting: bool = True
     ) -> Tuple[str, List[Any]]:
         """Extract text and format from a LTItem element"""
         # Extract text from the in-line text element
         line_text = element.get_text()
-        # Remove all newline characters
-        line_text = line_text.replace("\n", "")
+        # Call preprocessors
+        line_text = self.preprocessor.preprocess_text(line_text)
 
         if include_formatting:
             # Find formats of the text
@@ -112,11 +116,12 @@ class TextExtractor:
                     if table_extraction_flag == False:
                         # Use the function to extract the text and format for each text element
                         (line_text, format_per_line) = self._extract_text(element)
-                        # Append the text of each line to the page text
-                        page_text.append(line_text)
-                        # Append the format for each line containing text
-                        line_format.append(format_per_line)
-                        page_content.append(line_text)
+                        if line_text is not None:
+                            # Append the text of each line to the page text
+                            page_text.append(line_text)
+                            # Append the format for each line containing text
+                            line_format.append(format_per_line)
+                            page_content.append(line_text)
                     else:
                         # Omit the text that appeared in a table
                         pass

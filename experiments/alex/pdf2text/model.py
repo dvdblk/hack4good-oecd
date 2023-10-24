@@ -1,5 +1,6 @@
 """Model of a processed page in a PDF document."""
 from dataclasses import dataclass
+from enum import StrEnum
 from typing import List
 
 
@@ -19,3 +20,11 @@ class ExtractedPage:
     """Text from the images in the page."""
     content: List[str]
     """All text from the page."""
+
+
+class PDFElementType(StrEnum):
+    """Describe the different types of elements in a PDF document that we work with."""
+
+    TABLE = "table"
+    IMAGE = "image"
+    TEXT = "text"

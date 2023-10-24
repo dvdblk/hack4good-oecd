@@ -2,7 +2,7 @@ import argparse
 import os
 from typing import List, Optional
 
-from preprocessing.extract import TextExtractor
+from pdf2text.extract import TextExtractor
 
 
 # FIXME: Use a logger instead of prints
