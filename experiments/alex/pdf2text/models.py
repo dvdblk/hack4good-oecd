@@ -1,4 +1,4 @@
-"""Model of a processed page in a PDF document."""
+"""Data models module"""
 from dataclasses import dataclass
 from enum import StrEnum
 from typing import List
@@ -23,8 +23,11 @@ class ExtractedPage:
 
 
 class PDFElementType(StrEnum):
-    """Describe the different types of elements in a PDF document that we work with."""
+    """Enum that describes the different types of elements in a PDF document that we work with."""
 
     TABLE = "table"
+    """Represents a table element in a PDF document."""
     IMAGE = "image"
+    """Represents an image element. E.g. an embedded pdf page or actual image (possibly with text)"""
     TEXT = "text"
+    """Represents a text element."""

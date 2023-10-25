@@ -1,7 +1,7 @@
 from typing import Any, Generator, List, Tuple
 
 import pdfplumber
-from pdf2text.preprocess import PreprocessorManager
+from pdf2text.preprocessing.manager import PreprocessorManager
 from pdfminer.high_level import extract_pages, extract_text
 from pdfminer.layout import LTChar, LTFigure, LTItem, LTRect, LTTextContainer
 
@@ -137,6 +137,8 @@ class TextExtractor:
 
                 # Check if element is a table
                 if isinstance(element, LTRect):
+                    # FIXME: Skip for now
+                    continue
                     # If the first rectangular element
                     if first_element == True and (table_num + 1) <= len(tables):
                         # Find the bounding box of the table
