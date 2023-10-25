@@ -1,5 +1,8 @@
 # Hack4Good - OECD
 
+[![Code style](https://img.shields.io/badge/code%20style-black-000000.svg)](pyproject.toml)
+[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)](.pre-commit-config.yaml)
+
 * https://hackmd.io/g5AYgepnQrqrk4V26DrQMg
 
 * https://docs.google.com/spreadsheets/d/1pKb_1Je4hD2X8IfYrFXYqBhWfPg5lgPY/edit?usp=sharing&ouid=110500414719598262605&rtpof=true&sd=true
@@ -7,9 +10,7 @@
 ## Getting started
 
 ### Conda Environment
-To run the pipeline (jupyter notebooks) you need to create a conda environment with the required dependencies.
-
-> Requirements: [conda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html)
+To run the code in this repo create a [conda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html) environment with the required dependencies:
 
 To **create** a conda environment after cloning the repo:
 ```
