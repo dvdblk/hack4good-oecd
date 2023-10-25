@@ -34,7 +34,7 @@ class PDFConverter:
             out_path: Path to the output file.
 
         Returns:
-            List of strings (one per page).
+            List of strings (one string per page).
         """
         print("Converting PDF to text ...")
         pdf_file = open(file_path, "rb")
@@ -74,7 +74,7 @@ if __name__ == "__main__":
         type=int,
         help="Page number to print (works only with a single pdf file)",
         required=False,
-        default=0,
+        default=None,
     )
     parser.add_argument(
         "-o",
@@ -94,6 +94,9 @@ if __name__ == "__main__":
         results = []
         for file in os.listdir(args.file):
             if file.endswith(".pdf"):
+                # Skip existing text files
+                # If there exists a .txt file
+
                 file_path = os.path.join(args.file, file)
                 print(f"Extracting text from '{file_path}' ...")
                 results.append(converter.convert(file_path, args.output_dir))
