@@ -1,4 +1,4 @@
-from pdf2text.model import PDFElementType
+from pdf2text.models import PDFElementType
 
 _preprocessors = {
     PDFElementType.TABLE: [],

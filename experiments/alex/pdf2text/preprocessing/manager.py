@@ -1,6 +1,6 @@
 from typing import Optional
 
-from pdf2text.model import PDFElementType
+from pdf2text.models import PDFElementType
 from pdf2text.preprocessing.decorator import _preprocessors, _register_preprocessor
 from pdf2text.preprocessing.result import (
     ModifiedPreprocessResult,
