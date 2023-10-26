@@ -11,9 +11,12 @@ class PDFConverter:
 
     Note:
         The full conversion pipeline is as follows:
-        1. `extract` text and formats from PDF (including tables and images)
-            a. `preprocess` the text (remove linebreaks, page numbers, headers, footers, etc.)
-            b. `postprocess` the text (pdf specific postprocessing e.g. remove first few pages of intro, blank pages, etc.)
+        1. `extract` text and formats from PDF (including text from tables and images)
+            a. `preprocess` the text = works on individual text paragraphs, tables, images
+                                        (remove linebreaks, join words, remove whitespace etc.)
+            b. `postprocess` the text = works on full pages of preprocessed text
+                                        (e.g. remove first few pages of intro, blank pages,
+                                        page numbers, etc.)
         2. (optional) `translate`
         3. `format` the text to the desired output
     """

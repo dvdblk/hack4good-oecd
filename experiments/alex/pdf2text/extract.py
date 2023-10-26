@@ -1,11 +1,10 @@
 from typing import Any, Generator, List, Tuple
 
 import pdfplumber
+from pdf2text.models import ExtractedPage
 from pdf2text.preprocessing.manager import PreprocessorManager
 from pdfminer.high_level import extract_pages, extract_text
 from pdfminer.layout import LTChar, LTFigure, LTItem, LTRect, LTTextContainer
-
-from .model import ExtractedPage
 
 
 # TODO: Move this to formatter.py
