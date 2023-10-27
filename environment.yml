@@ -4,3 +4,9 @@ channels:
 dependencies:
   - pip=23.2.1
   - python=3.11.5
+  - pip:
+    - pdfplumber
+    - pdfminer.six
+    - tqdm
+    - torch
+    - nougat-ocr

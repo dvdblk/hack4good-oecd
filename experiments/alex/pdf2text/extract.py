@@ -1,7 +1,7 @@
 from typing import Any, Generator, List, Tuple
 
 import pdfplumber
-from pdf2text.models import ExtractedPage
+from pdf2text.models import ExtractedPage, PDFContentScope
 from pdf2text.preprocessing.manager import PreprocessorManager
 from pdfminer.high_level import extract_pages, extract_text
 from pdfminer.layout import LTChar, LTFigure, LTItem, LTRect, LTTextContainer
@@ -32,37 +32,28 @@ def table_converter(table):
 
 
 class TextExtractor:
-    """Analyze each page of a PDF document and extract text (works with tables and images)"""
+    """Analyze each page of a PDF document and extract text
+    (also transforms tables and images to text)
+    """
 
     def __init__(self) -> None:
         self.preprocessor = PreprocessorManager()
 
-    def _extract_text(
-        self, element: LTItem, include_formatting: bool = True
-    ) -> Tuple[str, List[Any]]:
-        """Extract text and format from a LTItem element"""
-        # Extract text from the in-line text element
-        line_text = element.get_text()
-        # Call preprocessors
-        line_text = self.preprocessor.preprocess_text(line_text)
+    def _extract_text(self, element: LTTextContainer) -> str:
+        """Extract text a LTTextContainer element"""
+        # Extract text from the text element
+        raw_text = element.get_text()
+        # Call preprocessors for a single line of text
+        paragraph_text = ""
+        for line in raw_text.split("\n"):
+            line = self.preprocessor.preprocess_text(line, scope=PDFContentScope.LINE)
+            paragraph_text += line or ""
 
-        if include_formatting:
-            # Find formats of the text
-            # init the list with all the formats that appeared in the line of text
-            line_formats = []
-            for text_line in element:
-                if isinstance(text_line, LTTextContainer):
-                    # For each character in the text line
-                    for character in text_line:
-                        if isinstance(character, LTChar):
-                            line_formats.append(character.fontname)
-                            line_formats.append(character.size)
-
-            format_per_line = list(set(line_formats))
-        else:
-            format_per_line = []
-
-        return line_text, format_per_line
+        # Call preprocessors for a paragraph of text
+        paragraph_text = self.preprocessor.preprocess_text(
+            paragraph_text, scope=PDFContentScope.PARAGRAPH
+        )
+        return paragraph_text
 
     def _extract_table(self, pdf, page_num: int, table_num: int):
         # Find the examined page
@@ -83,13 +74,7 @@ class TextExtractor:
 
         # Iterate over pages
         for page_nr, page in enumerate(extract_pages(pdf_file)):
-            page_text, line_format, text_from_images, text_from_tables, page_content = (
-                [],
-                [],
-                [],
-                [],
-                [],
-            )
+            page_content = []
 
             table_num = 0
             first_element = True
@@ -115,12 +100,9 @@ class TextExtractor:
                     # Check if the text appeared in a table
                     if table_extraction_flag == False:
                         # Use the function to extract the text and format for each text element
-                        (line_text, format_per_line) = self._extract_text(element)
+                        line_text = self._extract_text(element)
                         if line_text is not None:
                             # Append the text of each line to the page text
-                            page_text.append(line_text)
-                            # Append the format for each line containing text
-                            line_format.append(format_per_line)
                             page_content.append(line_text)
                     else:
                         # Omit the text that appeared in a table
@@ -148,15 +130,11 @@ class TextExtractor:
                         # Convert the table information in structured string format
                         table_string = table_converter(table)
                         # Append the table string into a list
-                        text_from_tables.append(table_string)
                         page_content.append(table_string)
                         # Set the flag as True to avoid the content again
                         table_extraction_flag = True
                         # Make it another element
                         first_element = False
-                        # Add a placeholder in the text and format lists
-                        page_text.append("table")
-                        line_format.append("table")
 
                     # Check if we already extracted the tables from the page
                     if element.y0 >= lower_side and element.y1 <= upper_side:
@@ -166,12 +144,13 @@ class TextExtractor:
                         first_element = True
                         table_num += 1
 
+            # Call preprocessors for a full page of text
+            page_content = self.preprocessor.preprocess_text(
+                "\n".join(page_content), scope=PDFContentScope.PAGE
+            )
+
             # Yield result
             yield ExtractedPage(
                 page_nr=page_nr,
-                text=page_text,
-                formats=line_format,
-                tables_text=text_from_tables,
-                images_text=text_from_images,
                 content=page_content,
             )
