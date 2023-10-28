@@ -1,0 +1,984 @@
+[Page #0]
+National AI Strategy
+[Page #1]
+National AI Strategy
+Presented to Parliament
+by the Secretary of State for Digital, Culture, Media and Sport
+by Command of Her Majesty
+September 2021
+Command Paper 525
+Version 1.2
+2
+1
+[Page #2]
+National AI Strategy
+Contents
+Our ten-year plan to make Britain a global AI superpower
+4
+Pillar 2: Ensuring AI benefits all sectors and regions
+40
+Executive summary
+7
+AI deployment – understanding new dynamics
+41
+Summary of key actions
+8
+Creating and protecting Intellectual Property
+42
+Introduction
+10
+Using AI for the public benefit
+42
+10 Year Vision
+11
+Missions
+44
+The UK’s National AI Strategy
+14
+Net Zero
+45
+AI presents unique opportunities and challenges
+16
+Health
+46
+Reflecting and protecting society
+16
+The public sector as a buyer
+46
+Pillar 3: Governing AI effectively
+50
+The longer term
+17
+From Sector Deal to AI Strategy
+18
+Supporting innovation and adoption while protecting the public and building trust
+51
+Pillar 1: Investing in the long-term needs of the AI ecosystem
+22
+Alternative options
+54
+Skills and Talent
+22
+Regulators’ coordination and capacity
+54
+A new approach to research, development and innovation in AI
+28
+International governance and collaboration
+55
+International collaboration on Research & Innovation
+30
+AI and global digital technical standards
+56
+Access to data
+30
+AI Assurance
+58
+Data Foundations and Use in AI Systems
+31
+Public sector as an exemplar
+59
+Public sector data
+32
+AI risk, safety, and long-term development
+60
+Next steps
+62
+Compute
+33
+Finance and VC
+35
+Trade
+36
+Commercialisation
+40
+2
+3
+[Page #3]
+Our ten-year plan tomake Britain a globalAI superpower
+National AI Strategy
+This is the age of artificial intelligence.Whether we know it or not, we allinteract with AI every day - whetherit’s in our social media feeds andsmart speakers, or on our onlinebanking. AI, and the data that fuelsour algorithms, help protect us fromfraud and diagnose serious illness.And this technology is evolving everyday.
+Over the next ten years, the impact ofAI on businesses across the UK andthe wider world will be profound -and UK universities and startups arealready leading the world in buildingthe tools for the new economy.
+We’ve got to make sure we keep up withthe pace of change. The UK is already aworld leader in AI, as the home oftrailblazing pioneers like Alan Turing andAda Lovelace and with our strong historyof research excellence. This Strategyoutlines our vision for how the UK canmaintain and build on its position asother countries also race to deliver theirown economic and technologicaltransformations.
+New discoveries and methods forharnessing the capacity of machines tolearn, aid and assist us in new waysemerge every day from our universitiesand businesses.
+AI gives us new opportunities to growand transform businesses of all sizes,and capture the benefits of innovationright across the UK.
+The challenge now for the UK is to fullyunlock the power of AI and data-driventechnologies, to build on our earlyleadership and legacy, and to lookforward to the opportunities of thiscoming decade.
+As we build back better from thechallenges of the global pandemic, andprepare for new challenges ahead, weare presented with the opportunity tosupercharge our already admirablestarting position on AI and to make thesetechnologies central to our developmentas a global science and innovationsuperpower.
+KWASI KWARTENG
+NADINE DORRIES
+SECRETARY OF STATE FORBUSINESS, ENERGY ANDINDUSTRIAL STRATEGY
+SECRETARY OF STATE FORDIGITAL, CULTURE, MEDIAAND SPORT
+This National AI Strategy will signal to theworld our intention to build the mostpro-innovation regulatory environmentin the world; to drive prosperity acrossthe UK and ensure everyone can benefitfrom AI; and to apply AI to help solveglobal challenges like climate change.
+With the help of our thriving AIecosystem and world leading R&Dsystem, this National AI Strategy willtranslate the tremendous potential of AIinto better growth, prosperity and socialbenefits for the UK, and to lead thecharge in applying AI to the greatestchallenges of the 21st Century.
+AI will be central to how we drive growthand enrich lives, and the vision set out inour strategy will help us achieve both ofthose vital goals.
+4
+5
+[Page #4]
+Executive summary
+Artificial Intelligence (AI) is the fastest growing deep technology1 in the world, with hugepotential to rewrite the rules of entire industries, drive substantial economic growth andtransform all areas of life. The UK is a global superpower in AI and is well placed to lead theworld over the next decade as a genuine research and innovation powerhouse, a hive ofglobal talent and a progressive regulatory and business environment.
+Many of the UK’s successes in AI were supported by the 2017 Industrial Strategy, which set out thegovernment’s vision to make the UK a global centre for AI innovation. In April 2018, the governmentand the UK’s AI ecosystem agreed a near £1 billion AI Sector Deal to boost the UK’s global position asa leader in developing AI technologies.
+This new National AI Strategy builds on the UK’s strengths but also represents the start of a step-change for AI in the UK, recognising the power of AI to increase resilience, productivity, growth andinnovation across the private and public sectors.
+This is how we will prepare the UK for the next ten years, and is built on three assumptions about thecoming decade:
+•
+The key drivers of progress, discovery and strategic advantage in AI are access to people, data,compute and finance – all of which face huge global competition;
+•
+AI will become mainstream in much of the economy and action will be required to ensure everysector and region of the UK benefit from this transition;
+• Our governance and regulatory regimes will need to keep pace with the fast-changing demands
+of AI, maximising growth and competition, driving UK excellence in innovation, and protecting thesafety, security, choices and rights of our citizens.
+The UK’s National AI Strategy therefore aims to:
+•
+Invest and plan for the long-term needs of the AI ecosystem to continue our leadership as ascience and AI superpower;
+•
+Support the transition to an AI-enabled economy, capturing the benefits of innovation in theUK, and ensuring AI benefits all sectors and regions;
+•
+Ensure the UK gets the national and international governance of AI technologies right toencourage innovation, investment, and protect the public and our fundamental values.
+This will be best achieved through broad public trust and support, and by the involvement of thediverse talents and views of society.
+7
+[Page #5]
+National AI Strategy
+Summary of key actions
+Investing in the Long Term Needs of the AI Ecosystem
+Ensuring AI Benefits All Sectors and Regions
+Governing AI Effectively
+■
+■
+■
+Publish a framework for Government's role in enabling better dataavailability in the wider economy
+Begin engagement on the Draft National Strategy for AI-driventechnologies in Health and Social Care, through the NHS AI Lab
+Publish the CDEI AI assurance roadmap
+■ Determine the role of data protection in wider AI governance
+■
+■
+Consult on the role and options for a National Cyber-PhysicalInfrastructure Framework
+Short term(next 3months):
+Publish the Defence AI Strategy, through the Ministry of Defence
+following the Data: A new direction consultation
+■
+■
+Launch a consultation on copyright and patents for AI throughthe IPO
+Publish details of the approaches the Ministry of Defence willuse when adopting and using AI
+■
+Support the development of AI, data science and digital skillsthrough the Department for Education’s Skills Bootcamps
+■ Develop an all-of-government approach to international AI
+activity
+■
+■
+■
+Publish research into what skills are needed to enable employeesto use AI in a business setting and identify how national skillsprovision can meet those needs
+Publish research into opportunities to encourage diffusion of AIacross the economy
+Publish White Paper on a pro-innovation national position ongoverning and regulating AI
+■
+Consider how Innovation Missions include AI capabilities andpromote ambitious mission-based cooperation through bilateraland multilateral efforts
+■
+■
+Evaluate the private funding needs and challenges of AI scaleups
+Complete an in-depth analysis on algorithmic transparency, witha view to develop a cross-government standard
+■
+Support the National Centre for Computing Education to ensure AIprogrammes for schools are accessible
+■
+Mediumterm(next 6months):
+Extend UK aid to support local innovation in developing countries
+■
+Pilot an AI Standards Hub to coordinate UK engagement in AIstandardisation globally
+■
+■
+Support a broader range of people to enter AI-related jobs byensuring career pathways highlight opportunities to work with ordevelop AI
+Build an open repository of AI challenges with real-worldapplications
+■
+Establish medium and long term horizon scanning functions toincrease government’s awareness of AI safety
+■
+Implement the US UK Declaration on Cooperation in AI R&D
+■
+Publish a review into the UK’s compute capacity needs to supportAI innovation, commercialisation and deployment
+■
+Roll out new visa regimes to attract the world's best AI talent tothe UK
+■
+■ Undertake a review of our international and domestic approach to
+■
+Launch joint Office for AI / UKRI programme to stimulate thedevelopment and adoption of AI technologies in high potential,lower-AI-maturity sectors
+Explore with stakeholders the development of an AI technicalstandards engagement toolkit to support the AI ecosystem toengage in the global AI standardisation landscape
+semiconductor supply chains
+■
+Consider what open and machine-readable governmentdatasets can be published for AI models
+■
+■ Work with partners in multilateral and multi-stakeholder fora, and
+Continue supporting the development of capabilities aroundtrustworthiness, adoptability, and transparency of AItechnologies through the National AI Research and InnovationProgramme
+invest in GPAI to shape and support AI governance in line with UKvalues and priorities
+■
+Launch a new National AI Research and Innovation Programmethat will align funding programmes across UKRI and support thewider ecosystem
+■ Work with The Alan Turing Institute to update guidance on AI
+■
+Long term(next 12months andbeyond):
+Join up across government to identify where using AI can providea catalytic contribution to strategic challenges
+ethics and safety in the public sector
+■ Work with global partners on shared R&D challenges,
+■ Work with national security, defence, and leading researchers tounderstand what public sector actions can safely advance AIand mitigate catastrophic risks
+leveraging Overseas Development Assistance to put AI at the heartof partnerships worldwide
+■ Back diversity in AI by continuing existing interventions across top
+talent, PhDs, AI and Data Science Conversion Courses andIndustrial Funded Masters
+■ Monitor and use National Security and Investment Act to protectnational security while keeping the UK open for business
+■
+Include trade deal provisions in emerging technologies,including AI
+8
+9
+[Page #6]
+National AI Strategy
+Introduction
+The UK’s National Artificial Intelligence Strategy aims to:
+•
+Invest and plan for the long term needs of the AI ecosystem to continue our leadership as ascience and AI Superpower;
+•
+Support the transition to an AI-enabled economy, capturing the benefits of innovation in the UK,and ensuring AI benefits all sectors and regions;
+•
+Ensure the UK gets the governance of AI technologies right to encourage innovation, investment,and protect the public and our fundamental values.
+This will be best achieved through broad public trust and support, and by the involvement ofthe diverse talents and views of society.
+Artificial Intelligence technologies (AI)offer the potential to transform the UK’seconomic landscape and improve people’slives across the country, transformingindustries and delivering first-class publicservices.
+prosperity and for shared global challengessuch as net zero, health resilience andenvironmental sustainability. AI capability istherefore vital for the UK's internationalinfluence as a global science superpower.
+10 Year Vision
+research to building and shipping products. Ifyou are a talented AI researcher from abroad,coming to the UK will be easier than everthrough the array of visa routes which areavailable.
+The National AI Strategy for the UnitedKingdom will prepare the UK for the next tenyears, and is built on three assumptionsabout the coming decade:
+AI may be one of the most importantinnovations in human history, and thegovernment believes it is critical to both oureconomic and national security that the UKprepares for the opportunities AI brings, andthat the country is at the forefront of solvingthe complex challenges posed by anincreased use of AI.
+Over the next decade, as transformativetechnologies continue to reshape oureconomy and society, the world is likely to seea shift in the nature and distribution of globalpower. We are seeing how, in the case of AI,rapid technological change seeks to rebalancethe science and technology dominance ofexisting superpowers like the US and China,and wider transnational challenges demandgreater collective action in the face ofcontinued global security and prosperity.
+•
+The key drivers of progress, discovery andstrategic advantage in AI are access topeople, data, compute and finance – all ofwhich face huge global competition;
+If you run a business – whether it is a startup,SME or a large corporate – the governmentwants you to have access to the people,knowledge and infrastructure you need to getyour business ahead of the transformationalchange AI will bring, making the UK a globally-competitive, AI-first economy which benefitsevery region and sector.
+This country has a long and exceptionalhistory in AI – from Alan Turing’s early workthrough to DeepMind’s recent pioneeringdiscoveries. In terms of AI startups andscaleups, private capital invested andconference papers submitted, the UK sits inthe top tier of AI nations globally. The UKranked third in the world for privateinvestment into AI companies in 2020, behindonly the USA and China.
+•
+AI will become mainstream in much of theeconomy and action will be required toensure every sector and region of the UKbenefit from this transition;
+With this in mind, the UK has an opportunityover the next ten years to position itself asthe best place to live and work with AI; withclear rules, applied ethical principles and apro-innovation regulatory environment. Withthe right ingredients in place, we will be botha genuine innovation powerhouse and themost supportive business environment in theworld, where we cooperate on using AI forgood, advocate for international standardsthat reflect our values, and defend against themalign use of AI.
+By leading with our democratic values, the UK willwork with partners around the world to makesure international agreements embed our ethicalvalues, making clear that progress in AI must beachieved responsibly, according to democraticnorms and the rule of law.
+• Our governance and regulatory regimeswill need to keep pace with the fast-changing demands of AI, maximisinggrowth and competition, driving UKexcellence in innovation, and protectingthe safety, security, choices and rights ofour citizens.
+The National AI Strategy builds on the UK’scurrent strengths and represents the start ofa step-change for AI in the UK, recognisingthat maximising the potential of AI willincrease resilience, productivity, growth andinnovation across the private and publicsectors. Building on our strengths in AI willtake a whole-of-society effort that will spanthe next decade. This is a top-level economic,security, health and wellbeing priority. The UKgovernment sees being competitive in AI asvital to our national ambitions on regional
+And by increasing the number and diversity ofpeople working with and developing AI, byputting clear rules of the road in place and byinvesting across the entire country, we willensure the real-world benefits of AI are felt byevery member of society. Whether that is moreaccurate AI-enabled diagnostics in the NHS, thepromise of driverless cars to make our roadssafer and smarter, or the hundreds ofunforeseen benefits that AI could bring toimprove everyday life.
+This document sets out the UK’s strategicintent at a level intended to guide action overthe next ten years, recognising that AI is a fastmoving and dynamic area. Detailed andmeasurable plans for the execution of thefirst stage of this strategy will be publishedlater this year.
+Whether it is making the decision to study AI,work at the cutting edge of research or spinup an AI business, our investments in skills,data and infrastructure will make it easierthan ever to succeed. Our world-leading R&Dsystem will step up its support of innovatorsat every step of their journey, from deep
+10
+11
+[Page #7]
+Introduction
+National AI Strategy
+•
+The forthcoming Digital Strategy, whichwill build on DCMS's Ten Tech Priorities tofurther set out the government’sambitions in the digital sector;
+The National AI Strategy does not stand alone.It purposefully supports and amplifies theother, interconnected work of governmentincluding:
+The goals of this Strategy are that theUK:
+The AI Council
+The AI Council was established in 2019 toprovide expert advice to the government andhigh-level leadership of the AI ecosystem. TheAI Council demonstrates a key commitmentmade in the AI Sector Deal, bringing togetherrespected leaders in their fields from acrossindustry, academia and the public sector.Members meet quarterly to advise the Officefor AI and broader government on its currentpriorities, opportunities and challenges for AIpolicy.
+1. Experiences a significant growth in boththe number and type of discoveries thathappen in the UK, and arecommercialised and exploited here;
+•
+A new Defence AI centre as a keystonepiece of the modernisation of Defence;
+The Plan for Growth and recentInnovation Strategy, which recognisethe need to develop a diverse andinclusive pipeline of AI professionals withthe capacity to supercharge innovation;
+•
+•
+The National Security TechnologyInnovation exchange (NSTIx), a datascience & AI co-creation space that bringstogether National Security stakeholders,industry and academic partners to buildbetter national security capabilities; and
+2. Benefits from the highest amount of
+economic and productivity growth due toAI; and
+The Integrated Review, to find newpaths for UK excellence in AI to deliverprosperity and security at home andabroad, and shape the open internationalorder of the future;
+•
+3. Establishes the most trusted and pro-innovation system for AI governance inthe world.
+In January 2021, the AI Council published its ‘AIRoadmap’ providing 16 recommendations tothe government on the strategic direction forAI. Its central call was for the government todevelop a National AI Strategy, building on thesuccess of investments made through the AISector Deal whilst remaining adaptable tofuture technological disruption. Since then, theCouncil has led a programme of engagementwith the wider AI community to inform thedevelopment of the National AI Strategy.
+•
+The upcoming National ResilienceStrategy, which will in part focus on howthe UK will stay on top of technologicalthreats.
+This vision can be achieved if we build onthree pillars fundamental to the developmentof AI:
+The National Data Strategy, publishedin September 2020, sets out our vision toharness the power of responsible datause to boost productivity, create newbusinesses and jobs, improve publicservices, support a fairer society, anddrive scientific discovery, positioning theUK as the forerunner of the next wave ofinnovation;
+•
+The government’s AI Council has played acentral role in gathering evidence to informthe development of this strategy, includingthrough its roadmap published at thebeginning of the year, which represents avaluable set of recommendations reflectingmuch of the wider AI community in the UK.The wider ecosystem also fed in through asurvey run by the AI Council in collaborationwith The Alan Turing Institute. Thegovernment remains grateful to the AI Councilfor its continued leadership of the AIecosystem, and would like to thank thosefrom across the United Kingdom who sharedtheir views during the course of developingthis strategy.
+1.
+Investing in the needs of the ecosystemto see more people working with AI, moreaccess to data and compute resources totrain and deliver AI systems, and access tofinance and customers to grow sectors;
+2. Supporting the diffusion of AI across thewhole economy to ensure all regions,nations, businesses and sectors canbenefit from AI; and
+To guide the delivery and implementation ofthis strategy the government will renew andstrengthen the role of the AI Council, ensuringit continues to provide expert advice togovernment and high-level leadership of the AIecosystem.
+The Plan for Digital Regulation, whichsets out our pro-innovation approach toregulating digital technologies in a waythat drives prosperity and builds trust intheir use;
+•
+3. Developing a pro-innovation regulatory
+and governance framework that protectsthe public.
+The upcoming National Cyber Strategyto continue the drive for securingemerging technologies, including buildingsecurity into the development of AI;
+•
+12
+13
+[Page #8]
+National AI Strategy
+The UK’s National AI Strategy
+nosV
+To remain an AI and science superpower fit for the next decade
+i
+i
+Strongdomestic AIcapabilities toaddressNationalSecurity issues
+Benefits of AIadoptionshared acrossevery regionand sector
+UK maintainsits position as aglobal leader inAI research &development
+Growth in theUK’s AI sector,contributing toUK GDP growth
+Protect andfurtherfundamentalUK values
+stcapm
+I
+Pillar 1: Investing in thelong term needs of the AIecosystem
+Pillar 2: Ensuring AIbenefits all sectors andregions
+Pillar 3: Governing AIeffectively
+A growing UKsupplier base
+Increased diversity inapplied AI
+Certainty for the UK AIecosystem
+Reduced competitionfor AI skills
+Wider AI adoption inindustries & regions
+Improved public trustin AI
+semoctuO
+New AI scientificbreakthroughs
+Greater UK AI exports
+Greater workforcediversity
+Increased responsibleinnovation
+Public Sector asexemplar for AIprocurement & ethics
+Applied AI technologiesto new use cases
+UK maintains itsposition as a globalleader in AI
+Increased investmentin UK AI companies
+Greater public valuefor money
+seitivitcA
+Government activity in this strategy and over the next 10 years
+14
+15
+[Page #9]
+National AI Strategy
+AI presents uniqueopportunities andchallenges
+The longer term
+‘Artificial Intelligence’ as a term can meana lot of things, and the governmentrecognises that no single definition isgoing to be suitable for every scenario. Ingeneral, the following definition issufficient for our purposes: “Machines thatperform tasks normally requiring humanintelligence, especially when the machineslearn from data how to do those tasks.”The UK government has also set out alegal definition of AI in the NationalSecurity and Investment Act.2
+•
+In regulatory matters, a system’sautonomy raises unique questionsaround liability and fairness as well asrisk and safety – and even ownership ofcreative content3 – in a way which isdistinct to AI, and these questionsincrease with the relative complexity ofthe algorithm. There are also questions oftransparency and bias which arise fromdecisions made by AI systems.
+lives, there are at least three reasons weshould care about diversity in our AIecosystem:
+Making specific predictions about the futureimpact of a technology – as opposed to theneeds of those developing and using it today –has a long history in AI. Since the 1950s varioushype cycles have given way to so-called ‘AIwinters’ as the promises made have perpetuallyremained ‘about 20 years away’.
+• MORAL: As AI becomes an organising
+principle which creates new opportunitiesand changes the shape of industries andthe competitive dynamics across theeconomy, there is a moral imperative toensure people from all backgrounds andparts of the UK are able to participate andthrive in this new AI economy.
+While the emergence of Artificial GeneralIntelligence (AGI) may seem like a science fictionconcept, concern about AI safety and non-human-aligned systems4 is by no meansrestricted to the fringes of the field.5 Thegovernment’s first focus is on the economic andsocial outcomes of autonomous and adaptivesystems that exist today. However, we take thefirm stance that it is critical to watch theevolution of the technology, to take seriously thepossibility of AGI and ‘more general AI’, and toactively direct the technology in a peaceful,human-aligned direction.6
+•
+There are often greater infrastructuralrequirements for AI services than incloud/Software as a Service systems. Inbuilding and deploying some models,access to expensive high performancecomputing and/or large data sets isneeded.
+Much like James Watt’s 1776 steam engine, AIis a ‘general purpose technology’ (or moreaccurately, technologies) that has manypossible applications, and we expect them tohave a transformational impact on the wholeeconomy. Already, AI is used in everydaycontexts like email spam filtering, mediarecommendation systems, navigation apps,payment transaction validation andverification, and many more. AI technologieswill impact the whole economy, all of societyand us as individuals.
+•
+SOCIAL: AI systems make decisionsbased on the data they have been trainedon. If that data - or the system it isembedded in - is not representative, itrisks perpetuating or even cementing newforms of bias in society. It is thereforeimportant that people from diversebackgrounds are included in thedevelopment and deployment of AIsystems.
+• Multiple skills are required to develop,validate and deploy AI systems, and thecommercialisation and productjourney can be longer and moreexpensive because so much starts withfundamental R&D.
+•
+ECONOMIC: There are big economicbenefits to a diverse AI ecosystem. Theseinclude increasing the UK’s human capitalfrom a diverse labour supply, creating awider range of AI services that stimulatedemand, ensuring the best talent isdiscovered from the most diverse talentpool.
+The emergence of full AGI would have atransformational impact on almost every aspectof life, but there are many challenges whichcould be presented by AI which could emergemuch sooner than this. As a general purposetechnology AI will have economic and socialimpacts comparable to the combustion engine,the car, the computer and the internet. As eachof these has disrupted and changed the shape ofthe world we live in - so too could AI, long beforeany system ‘wakes up.’
+Many of the themes in AI policy are similar totech and digital policy more widely: thecommercialisation journeys; the reliance oninternationally mobile talent; the importanceof data; and consolidation of economicfunctions onto platforms. However there aresome key examples of differences derivedfrom the above definition which differentiateAI and require a unique policy response fromthe government.
+Reflecting and protecting society
+AI makes predictions and decisions, and fulfilstasks normally undertaken by humans. Whilediverse opinions, skills, backgrounds andexperience are hugely important in designingany service – digital or otherwise – it isparticularly important in AI because of theexecutive function of the systems. As AIincreasingly becomes an enabler fortransforming the economy and our personal
+16
+17
+[Page #10]
+AI presents unique opportunities and challenges
+National AI Strategy
+AlphaFold & AlphaFold 2
+In November 2020, London-based DeepMind announced that they had solved one of the longestrunning modern challenges in biology: predicting how proteins - the building blocks of life whichunderpin every biological process in every living thing - take shape, or ‘fold’.
+The choices that are made in the here andnow to develop AI will shape the future ofhumanity and the course of internationalaffairs. For example, whether AI is used toenhance peace, or a cause for war; whetherAI is used to strengthen our democracies, orembolden authoritarian regimes. As such wehave a responsibility to not only look at theextreme risks that could be made real withAGI, but also to consider the dual-use threatswe are already faced with today.
+global destination for mobile AI researchersafter the USA.
+The government has invested more than £2.3billion into Artificial Intelligence across a rangeof initiatives since 2014.10 This portfolio ofinvestment includes, but is not limited to:
+•
+£250 million to develop the NHS AI Lab atNHSX to accelerate the safe adoption ofArtificial Intelligence in health and care;
+•
+£250 million into Connected andAutonomous Mobility (CAM) technologythrough the Centre for Connected andAutonomous Vehicles (CCAV) to developthe future of mobility in the UK;
+From Sector Deal to AI Strategy
+The UK is an AI superpower, with particularstrengths in research, investment andinnovation. The UK’s academic andcommercial institutions are well known forconducting world-leading AI research, and theUK ranks 3rd in the world for AI publicationcitations per capita.7 This research strengthwas most recently demonstrated inNovember 2020 when DeepMind, a UK-basedAI company, used AlphaFold to find a solutionto a 50-year-old grand challenge in biology.8
+•
+16 new AI Centres for Doctoral Training atuniversities across the country, backed byup to £100 million and delivering 1,000new PhDs over five years;
+AlphaFold, DeepMind’s deep learning AI system, broke all previous accuracy levels dating back over50 years, and in July 2021 the organisation open sourced the code for AlphaFold together with over350,000 protein structure predictions, including the entire human proteome, via the AlphaFolddatabase in partnership with EMBL-EBI.
+•
+A new industry-funded AI Mastersprogramme and up to 2,500 places for AIand data science conversion courses. Thisincludes up to 1,000 government-fundedscholarships;
+The UK has the 3rd highest number of AIcompanies in the world after the US andChina. Alongside DeepMind, the UK is hometo Graphcore, a Bristol-based machinelearning semiconductor company; Darktrace,a world-leading AI company for cybersecurity;and BenevolentAI, a company changing theway we treat disease. The UK also attractssome of the best AI talent from around theworld9 – the UK was the second most likely
+DeepMind’s decision to share this knowledge openly with the world, demonstrates both theopportunity that AI presents, as well as what this strategy seeks to support: bleeding-edge researchhappening in the UK and with partners around the world, solving big global challenges.
+•
+Investment into The Alan Turing Instituteand over £46 million to support theTuring AI Fellowships to develop the nextgeneration of top AI talent;
+AlphaFold opens up a multitude of new avenues in research – helping to further our understandingof biology and the nature of the world around us. It also has a multitude of potential real-worldapplications, such as deepening our understanding of how bacteria and viruses attack the body inorder to develop more effective prevention and treatment, or support the identification of proteinsand enzymes that can break down industrial or plastic waste.
+• Over £372 million of investment into UK
+AI companies through the BritishBusiness Bank for the growing AI sector;
+18
+19
+[Page #11]
+AI presents unique opportunities and challenges
+National AI Strategy
+the UK has a globally competitive R&D andindustrial strength11 and has been widelycited as a set of technologies in which the UKmust maintain a leading edge to guaranteeour continued security and prosperity in anintensifying geopolitical landscape.
+•
+£172 million of investment through theUKRI into the Hartree National Centre forDigital Innovation, leveraging an additional£38 million of private investment intoHigh Performance Computing.
+Further investments have been made into theTech Nation Applied AI programme – now inits third iteration; establishing the Office forNational Statistics Data Science Campus; theCrown Commercial Service’s public sector AIprocurement portal; and support for theDepartment for International Trade attractingAI related Foreign Direct Investment into theUK.
+As part of the AI Sector Deal, the governmentestablished the AI Council to bring togetherrespected leaders to strengthen theconversation between academia, industry,and the public sector. The Office for ArtificialIntelligence was created as a new team withingovernment to take responsibility foroverarching AI policy across government andto be a focal point for the AI ecosystemthrough its secretariat of the AI Council. TheCentre for Data Ethics and Innovation (CDEI)was established as a government expert bodyfocused on the trustworthy use of data and AIin the public and private sector.
+This strategy builds on the recent history ofgovernment support for AI and considers thenext key steps to harness its potential in theUK for the coming decade. In doing so, theNational AI Strategy leads on from theambitions outlined in the government’sInnovation Strategy to enable UK businessesand innovators to respond to economicopportunities and real-world problemsthrough our national innovation prowess. AIwas identified in the Innovation Strategy asone of the seven technology families where
+20
+21
+[Page #12]
+National AI Strategy
+Pillar 1:Investing in the long-termneeds of the AI ecosystem
+Increasing diversity and closing the skills gap through postgraduate conversion courses indata science and artificial intelligence
+Investing in and planning for the long term needs of the AI ecosystem to remain ascience and AI superpower
+To maintain the UK’s position amongst theglobal AI superpowers and ensure the UKcontinues to lead in the research,development, commercialisation anddeployment of AI, we need to invest in, planfor, secure and unlock the critical inputs thatunderpin AI innovation.
+Government’s aim is to greatly increasethe type, frequency and scale of AIdiscoveries which are developed andexploited in the UK.
+This will be achieved by:
+Skills and Talent
+• Making sure the UK’s research,
+development and innovation systemcontinues to be world leading, providingthe support to allow researchers andentrepreneurs to forge new frontiers inAI;
+Continuing to develop, attract and trainthe best people to build and use AI is atthe core of maintaining the UK’s world-leading position. By inspiring all with thepossibilities AI presents, the UK willcontinue to develop the brightest, mostdiverse workforce.
+• Guaranteeing that the UK has access to adiverse range of people with the skillsneeded to develop the AI of the futureand to deploy it to meet the demands ofthe new economy;
+Building a tech-savvy nation by supportingskills for the future is one of the government’sten tech priorities. The gap between demandand supply of AI skills remains significant andgrowing,12,13 despite a number of new AI skillsinitiatives since the 2018 AI Sector Deal. Inorder to meet demand, the UK needs a largerworkforce with AI expertise. Last year therewas a 16% increase for online AI and DataScience job vacancies and research foundthat 69% of vacancies were hard to fill.14 Datafrom an ecosystem survey conducted by theAI Council and The Alan Turing Instituteshowed that 81% of respondents agreedthere were significant barriers in recruitingand retaining top AI talent in their domainwithin the UK.
+As a result of the growing skills gap in AI and data science, 2,500 new Masters conversion courses inAI and data science are now being delivered across universities in England. The conversion courseprogramme included up to 1,000 scholarships to increase the number of people fromunderrepresented groups and to encourage graduates from diverse backgrounds to consider afuture in AI and Data Science.
+•
+Ensuring innovators have access to thedata and computing resources necessaryto develop and deliver the systems thatwill drive the UK economy for the nextdecade;
+In the first year over 1,200 students enrolled, with 22% awarded scholarships. Over 40% of the totalstudents are women, one quarter are black students and 15% of students are disabled. 70% of thetotal students are studying on courses based outside of London and the South East.
+•
+Supporting growth for AI through a pro-innovation business environment andcapital market, and attracting the bestpeople and firms to set up shop in theUK;
+These conversion courses are providing the opportunity to develop new digital skills or retrain tohelp find new employment in the UK’s cutting-edge AI and data science sectors, ensuring thatindustry and the public sector can access the greatest supply of talent across the whole country.
+•
+Ensuring UK AI developers can accessmarkets around the world.
+Research into the AI Labour Market showedthat technical AI skill gaps are a concern formany firms, with 35% of firms revealing that a
+22
+23
+[Page #13]
+Pillar 1: Investing in the long-term needs of the AI ecosystem
+National AI Strategy
+lack of technical AI skills from existingemployees had prevented them from meetingtheir business goals, and 49% saying that alack of required AI skills from job applicantsalso affected their business outcomes.15 Tosupport the adoption of AI we need to ensurethat non-technical employees understand theopportunities, limitations and ethics of usingAI in a business setting, rather than thesebeing the exclusive domain of technicalpractitioners.
+developing AI, will be key to ensuring the UK’ssuccess in developing AI and investing in thelong term health of our AI ecosystem.
+Government will seek to build upon the £46million Turing AI Fellowships investment toattract, recruit, and retain a substantial cohortof leading researchers and innovators at allcareer stages. Our approach will enableFellows to work flexibly between academiaand other sectors, creating an environmentfor them to discover and develop cutting edgeAI technologies and drive the use of AI toaddress societal, economic andenvironmental challenges in the UK. We notethat recently, research breakthroughs in thefield of AI have been disproportionately drivenby a small number of luminary talents andtheir trainees. In line with the InnovationStrategy, the government affirms ourcommitment to empowering distinguishedacademics.
+‘Understanding the UK AI Labour Market’research
+In 2021, the Office for AI published researchto investigate Artificial Intelligence and Datascience skills in the UK labour market in 2020.Some key findings from the research:
+Use: Empower employers and employees toupskill and understand the opportunities forusing AI in a business setting
+The AI Council ecosystem survey found thatonly 18% agreed there was sufficientprovision of training and development in AIskills available to the current UK workforce. Asthe possibilities to develop and use AI grow,so will people's need to understand and applyAI in their jobs. This will range from peopleworking adjacent to the technical aspectssuch as product managers and compliance,through to those who are applying AI withintheir business, such as in advertising and HR.Below degree level, there is a need to clearlyarticulate the skills employers and employeesneed to use AI effectively in the workplace.For example, industries have expressed theirwillingness to fund employees to undertaketraining but have not found training that suitstheir needs: including training that isbusiness-focused, modular and flexible.
+• Half of surveyed firms’ business plans had
+been impacted by a lack of suitablecandidates with the appropriate AIknowledge and skills.
+We need to inspire a diverse set of peopleacross the UK to ensure the AI that is builtand used in the UK reflects the needs andmake-up of society. To close the skills gap, thegovernment will focus on three areas toattract and train the best people: those whobuild AI, those who use AI, and those wewant to be inspired by AI.
+•
+Two thirds of firms (67%) expected thatthe demand for AI skills in theirorganisation was likely to increase in thenext 12 months.
+Research16 and industry engagement hasdemonstrated the need for graduates withbusiness experience, indicating a need tocontinue supporting industry/academicpartnerships to ensure graduates leaveeducation with business-ready experience.Our particular focus will be on softwareengineers, data scientists, data engineers,machine learning engineers and scientists,product managers, and related roles.
+•
+Diversity in the AI sector was generallylow. Over half of firms (53%) said none oftheir AI employees were female, and 40%said none were from ethnic minoritybackgrounds.
+Build: Train and attract the brightest and bestpeople at developing AI
+To meet the demand seen in industry andacademia, the government will continuesupporting existing interventions across toptalent, PhDs and Masters levels. This includesTuring Fellowships, Centres for DoctoralTraining and Postgraduate Industrial-FundedMasters and AI Conversion Courses.
+•
+There were over 110,000 UK jobvacancies in 2020 for AI and Data Scienceroles.
+The findings from this research will help theOffice for AI address the AI skills challengeand ensure UK businesses can takeadvantage of the potential of AI and DataScience.
+We recognise that global AI talent is scarce,and the topic of fierce competitioninternationally. As announced in theInnovation Strategy, the government isrevitalising and introducing new visa routesthat encourage innovators and entrepreneursto the UK. Support for diverse and inclusiveresearchers and innovators across sectors,and new environments for collaboratively
+24
+25
+[Page #14]
+Pillar 1: Investing in the long-term needs of the AI ecosystem
+National AI Strategy
+Attracting the best AI talent from around the world
+The UK is already the top global destination for AI graduates in the United States and we punch above ourweight globally in attracting talent. The UK nearly leads the world in its proportion of top-skilled AI researchers.Government wants to take this to the next level and make the UK the global home for AI researchers,entrepreneurs, businesses and investors.
+As well as ensuring the UK produces the next generation of AI talent we need, the government is broadening theroutes that talented AI researchers and individuals can work in the UK, through the recently announcedInnovation Strategy.
+•
+The Global Talent visa route is open to those who are leaders or potential leaders in AI - and those whohave won prestigious global prizes automatically qualify. Government is currently looking at how to broadenthis list of prizes.
+explore how these needs can be met andmainstreamed through national skillsprovision.
+Skills for Jobs White Paper
+•
+A new High Potential Individual route will make it as simple as possible for internationally mobileindividuals who demonstrate high potential to come to the UK. Eligibility will be open to applicants who havegraduated from a top global university, with no job offer requirement. This gives individuals the flexibility towork, switch jobs or employers – keeping pace with the UK’s fast-moving AI sector.
+The Skills for Jobs: Lifelong Learning forOpportunity and Growth White Paper waspublished in January 2021 and is focused ongiving people the skills they need, in a waythat suits them, so they can get great jobs insectors the economy needs and boost thecountry’s productivity.
+The government will also support people todevelop skills in AI, machine learning, datascience and digital through the Departmentfor Education’s Skills Bootcamps. TheBootcamps are free, flexible courses of up to16 weeks, giving adults aged 19 and over theopportunity to build up in-demand, sector-specific skills and fast-track to an interviewwith a local employer; improving their jobprospects and supporting the economy.
+•
+A new scale-up route will support UK scale-ups by allowing talented individuals with a high-skilled job offerfrom a qualifying scale-up at the required salary level to come to the UK. Scaleups will be able to applythrough a fast-track verification process to use the route, so long as they can demonstrate an annualaverage revenue or employment growth rate over a three-year period greater than 20%, and a minimum of10 employees at the start of the three-year period.
+These reforms aim to ensure that people canaccess training and learning flexiblythroughout their lives and that they are well-informed about what is on offer, includingopportunities in valuable growth sectors. Thiswill also involve reconfiguring the skills systemto give employers a leading role in deliveringthe reforms and influencing the system togenerate the skills they need to grow.
+•
+A revitalised Innovator route will allow talented innovators and entrepreneurs from overseas to start andoperate a business in the UK that is venture-backed or harnesses innovative technologies, creating jobs forUK workers and boosting growth. We have reviewed the Innovator route to make it even more open to:
+Inspire: Support all to be excited by thepossibilities of AI
+•
+Simplifying and streamlining the business eligibility criteria. Applicants will need to demonstrate that theirbusiness venture has a high potential to grow and add value to the UK and is innovative.
+The AI Council’s Roadmap makes clear thatinspiring those who are not currently using AI,and allowing children to explore and beamazed by the potential of AI, will be integralto ensuring we continue to have a growingand diverse AI-literate workforce.
+•
+Fast-tracking applications. The UK government is exploring a fast-track, lighter touch endorsementprocess for applicants whose business ideas are particularly advanced to match the best-in-classinternational offers. Applicants that have been accepted on to the government’s Global EntrepreneurProgramme will be automatically eligible.
+To more effectively use AI in a businesssetting, employees, including those whowould not have traditionally engaged with AI,will require a clear articulation of the differentskills required, so they can identify whattraining already exists and understand if thereis still a gap.
+Through supporting the National Centre forComputing Education (NCCE) the governmentwill continue to ensure programmes thatengage children with AI concepts areaccessible and reach the widest demographic.
+•
+Building flexibility. Applicants will no longer be required to have at least £50,000 in investment funds toapply for an Innovator visa, provided that the endorsing body is satisfied the applicant has sufficientfunds to grow their business. We will also remove the restriction on doing work outside of theapplicant’s primary business.
+•
+The new Global Business Mobility visa will also allow overseas AI businesses greater flexibility intransferring workers to the UK, in order to establish and expand their business here.
+Using the Skills Value Chain approach pilotedby the Department for Education,17 thegovernment will help industry and providersto identify what skills are needed. Lessonslearned from this pilot will support this workto help businesses adopt the skills needed toget the best from AI. The Office for AI will thenwork with the Department for Education to
+The Office for AI will also work with theDepartment for Education to ensure careerpathways for those working with ordeveloping AI are clearly articulated on careerguidance platforms, including the NationalCareers Service, demonstrating role modelsand opportunities to those exploring AI. Thiswill support a broader range of people to
+These reforms will sit alongside the UK government’s Global Entrepreneur Programme (GEP) which has atrack record of success in attracting high skilled migrant tech founders with IP-rich businesses to the UK. Theprogramme will focus on attracting more international talent to support the growth of technology clustersincluding through working with academic institutions from overseas to access innovative spinouts and overseastalent.
+Through the Graduate Route we are also granting international students with UK degrees 2 years, 3 years forthose with PhDs, to work in the UK post-graduation. This will help ensure that we can attract the best andbrightest from across the world while also giving students time to work on the most challenging AI problems.
+These are all in addition to our existing skills visa schemes for those with UK job offers.
+26
+27
+[Page #15]
+Pillar 1: Investing in the long-term needs of the AI ecosystem
+National AI Strategy
+The National AI Research and Innovation (R&I) Programme has five main aims:
+•
+Discovering and developing transformative new AI technologies, leading the world in the developmentof frontier AI and the key technical capabilities to develop responsible and trustworthy AI. The programmewill support:
+•
+foundational research to develop novel next generation AI technologies and approaches which couldaddress current limitations of AI, focusing on low power and sustainable AI, and AI which can workdifferently with a diverse range of challenging data sets, human-AI interaction, reasoning, and the mathsunderpinning the theoretical foundations of AI.
+•
+technical and socio-technical capability development to overcome current limitations around theresponsible trustworthy nature of AI.
+consider careers in AI. The government willensure that leaders within the National AIResearch and Innovation Programme will playa key role in engaging with the public andinspiring the leaders of the future.
+At the same time, the field of AI is advancingrapidly, with breakthrough innovations beinggenerated by a diverse set of institutions andcountries. The past decade has seen the riseof deep learning, compute-intensive models,routine deployment of vision, speech, andlanguage modelling in the real world, theemergence of responsible AI and AI safety,among other advances. These are beingdeveloped by new types of research labs inprivate companies and public institutionsaround the world. We expect that the nextdecade will bring equally transformativebreakthroughs. Our goal is to make the UKthe starting point for a large proportion ofthem, and to be the fastest at turning theminto benefits for all.
+• Maximising the creativity and adventure of researchers and innovators, building on UK strengths anddeveloping strategic advantage through a diverse range of AI technologies. The programme will support:
+•
+specific routes to enable the exploration of high-risk ideas in the development and application of AI;
+A new approach to research,development and innovation in AI
+•
+follow-on funding to maximise the impact of the ideas with the most potential.
+•
+Building new research and innovation capacity to deliver the ideas, technologies, and workforce ofthe future, recruiting and retaining AI leaders, supporting the development of new collaborative AIecosystems, and developing collaborative, multidisciplinary, multi-partner teams. The programme willsupport:
+Our vision is that the UK builds on ourexcellence in research and innovation in thenext generation of AI technologies.
+The UK has been a leader in AI research sinceit developed as a field, thanks to ourstrengths in computational and mathematicalsciences.18 The UK’s AI base has been builtupon this foundation,19 and the recentlyannounced Advanced Research and InventionAgency (ARIA) will complement our efforts tocement our status as a global sciencesuperpower. The UK also has globallyrecognised institutes such as The Alan TuringInstitute and the high-performing universitieswhich are core to research in AI.20
+•
+the recruitment, retention, training and development of current and future leaders in AI, and flexibleworking across sectoral and organisational interfaces using tools such as fellowships, and building onthe success of the Turing AI Fellowships scheme;
+•
+enhanced UK capacity in key AI professional skills for research and innovation, such as data scientistsand software engineers.
+To do this, UKRI will support thetransformation of the UK’s capability in AIby launching a National AI Research andInnovation (R&I) Programme. Theprogramme will shift us from a rich but siloedand discipline-focused national AI landscapeto an inclusive, interconnected, collaborative,and interdisciplinary research and innovationecosystem. It will work across all the Councilsof UKRI and will be fully-joined up withbusiness of all sizes and governmentdepartments. It will translate fundamentalscientific discoveries into real-world AIapplications, address some limitations in theability of current AI to be effectively used innumerous real world contexts, such astackling complex and undefined problems,and explore using legacy data such as non-digital public records.
+•
+Connecting across the UK AI Research and Innovation ecosystem, building on the success of The AlanTuring Institute as the National Centre for AI and Data Science, and building collaborative partnershipsnationally and regionally between and across sectors, diverse AI research and innovation stakeholders. Theprogramme will support:
+•
+the development of a number of nationally distributed AI ecosystems which enable researchers andinnovators to collaborate in new environments and integrate basic research through application andinnovation. These ecosystems will be networked into a national AI effort with the Alan Turing Institute asits hub, convening and coordinating the national research and innovation programme and enablingbusiness and government departments to access the UK’s AI expertise and skills capability e.g. thecatapult network and compute capability.
+Currently, AI research undertaken in the UK isworld class, and investments in AI R&Dcontribute to the Government’s target ofincreasing overall public and private sectorR&D expenditure to 2.4% of GDP by 2027. Butgenerating economic and societal impactthrough adoption and diffusion of AItechnologies is behind where it could be.21There is a real opportunity to build on ourexisting strengths in fundamental AI researchto ensure they translate into productiveprocesses throughout the economy.
+•
+Supporting the UK's AI Sector and the adoption of AI, connecting research and innovation andsupporting AI adoption and innovation in the private sector. The programme will support:
+•
+challenge-driven AI research and innovation programmes in key UK priorities, such as health and thetransition to net zero;
+•
+collaborative work with the public sector and government organisations to facilitate leading researchersand innovators engaging with the AI transformation of the public sector;
+•
+innovation activities in the private sector, both in terms of supporting the development of the UK’sburgeoning AI sector and the adoption of AI across sectors.
+28
+29
+[Page #16]
+Pillar 1: Investing in the long-term needs of the AI ecosystem
+National AI Strategy
+International collaboration onResearch & Innovation
+Access to data
+The AI Council and the Ada Lovelace Instituterecently explored three legal mechanismsthat could help facilitate responsible datastewardship – data trusts, data cooperativesand corporate and contractual mechanisms.The ongoing Data: A new directionconsultation asks what role the governmentshould have in enabling and engenderingconfidence in responsible data intermediaryactivity. The government is also exploringhow privacy enhancing technologies canremove barriers to data sharing by moreeffectively managing the risks associatedwith sharing commercially sensitive andpersonal data.
+professionals such as data engineers have akey role to play in opening up access to themost critical data and computeinfrastructures on FAIR data principles, and inaccelerating the pathway to using AItechnologies to make best use of the UK’shealthy data ecosystem.
+The National Data Strategy sets out thegovernment's approach to unlocking thepower of data. Access to good quality,representative data from which AI can learn iscritical to the development and application ofrobust and effective AI systems.
+As well as better coordination at home, theUK will work with friends and partners aroundthe world on shared challenges in researchand development and lead the globalconversation on AI.
+Data foundations are crucial to the effectiveuse of AI and it is estimated that, on average,80% of the time spent on an AI project iscleaning, standardising and making the datafit for purpose. Furthermore, when the sourcedata needed to power AI or machine learningis not fit for purpose, it leads to poor orinaccurate results, and to delays in realisingthe benefits of innovation.22 Poor qualitydatasets can also be un-representative,especially when it comes to minority groups,and this can propagate existing biases andexclusions when they are used for AI.
+The UK will participate in Horizon Europe,enabling collaboration with other Europeanresearchers, and will build a strong and variednetwork of international science andtechnology partnerships to support R&Icollaboration. By shaping the responsible useof technology, we will put science andtechnology, including AI, at the heart of ouralliances and partnerships worldwide. We willcontinue to use Official DevelopmentAssistance to support R&D partnershipswith developing countries.
+The AI Sector Deal recognised this and sincethen the government has establishedevidence on which to make policies toharness the positive economic and socialbenefit of increased availability of data. Thisincludes the Open Data Institute’s originalresearch into data trusts as a model of datastewardship to realise the value of data for AI.The research established a repeatable modelfor data trusts which others have begun toapply.
+Data Foundations and Use in AI Systems
+Data foundations refer to variouscharacteristics of data that contribute to itsoverall condition, whether it is fit for purpose,recorded in standardised formats on modern,future-proof systems and held in a conditionthat means it is findable, accessible,interoperable and reusable (FAIR). A recent EYstudy delivered on behalf of DCMS has foundthat organisations that report higher AIadoption levels also have a higher level ofdata foundations.
+Mission 1 of the National Data Strategy seeksto unlock the value of data across theeconomy, and is a vital enabler for AI. Thismission explores how the government canapply six evidenced levers to tackle barriers todata availability. The government willpublish a policy framework in Autumn2021 informed by the outcomes of Mission1, setting out its role in enabling betterdata availability in the wider economy. Thepolicy framework includes supporting theactivities of intermediaries, including datatrusts, and providing stewardship servicesbetween those sharing and accessing data.
+We are also deepening our collaboration withthe United States, implementing the US UKDeclaration on Cooperation in AI Researchand Development. This declaration outlinesa shared vision for driving technologicalbreakthroughs in AI between the US and theUK. As we build materially on this partnership,we will seek to enable UK partnership withother key global actors in AI, to growinfluential R&I collaborations.
+The government is looking to support actionto mitigate the effects of quality issues andunderrepresentation in AI systems. Subjectto the outcomes of the Data: A newdirection consultation, the governmentwill more explicitly permit the collectionand processing of sensitive and protectedcharacteristics data to monitor andmitigate bias in AI systems.
+The government is considering how toimprove data foundations in the private andthird sectors. Through the National AI R&IProgramme and ambitions to lead bestpractices in FAIR data, we will grow ourcapacity in professional AI, software and dataskills, and support the development of keynew data infrastructure capabilities. Technical
+An important outcome for increasing accessto data and improving data foundations is inhow technology will be better able to use thatdata. Technological convergence – thetendency for technologies that were originallyunrelated to become more closely integrated(or even unified) as they advance – means
+30
+31
+[Page #17]
+Pillar 1: Investing in the long-term needs of the AI ecosystem
+National AI Strategy
+that AI will increasingly be deployed togetherwith many other technologies of the future,unlocking new technological, economic andsocial opportunities. For example, AI is anecessary driver of the development ofrobotics and smart machines, and will be acrucial enabling technology for digital twins.These digital replicas of real-world assets,processes or systems, with a two-way link tosensors in the physical world, will help makesense of and create insights and value fromvast quantities of data in increasinglysophisticated ways. And in the future, sometypes of AI will rely on the step-change inprocessing power that quantum computing isexpected to unlock.
+to drive efficiency and improve publicservices. The Central Digital and Data Office(CDDO) has been created within the CabinetOffice to consolidate the core policy andstrategy responsibilities for data foundations,and will work with expert cross-sectorpartners to improve government’s use andreuse of data to support data-driveninnovation across the public sector.
+Digital Catapult’s Machine IntelligenceGarage
+We need to strengthen the way that publicauthorities can engage with private sectordata providers to make better use of datathrough FAIR data and open standards,including making government data moreeasily available through applicationprogramming interfaces (APIs), andencouraging businesses to offer their datathrough APIs. Government will continue topublish authoritative open and machine-readable data on which AI models for bothpublic and commercial benefit candepend. The Office for AI will also workwith teams across government to considerwhat valuable datasets governmentshould purposefully incentivise or curatethat will accelerate the development ofvaluable AI applications.
+For more than three years, Digital Catapult’sMachine Intelligence Garage (MI Garage) hashelped startups accelerate the developmentof their industry-leading AI solutions byaddressing their need for computationalpower.
+The CDDO also leads on the OpenGovernment policy area, a wide-ranging andopen engagement programme that entailsongoing work with Civil Society groups andgovernment departments to target new kindsof data highlighted as having 'high potentialimpact' for release as open data. The UK’songoing investment in open data will serve tofurther bolster the use of AI and machinelearning within government, the privatesector, and the third sector. The application ofstandards and improvements to the quality ofdata collected, processed, and ultimatelyreleased publicly under the OpenGovernment License will create further valuewhen used by organisations looking to trainand optimise AI systems utilising largeamounts of information.
+Some AI solutions being developed requiregreater computing capacity in the form ofHigh Performance Computers (HPC) forunusually large workloads (such as weathersimulation, protein folding and simulation ofmolecular interactions) or access to AIfocussed hardware like Graphcore’sIntelligence Processing Unit (IPU), a newprocessor specifically designed for developingAI. MI Garage provides a channel throughwhich startups can connect with HPC centresand access specialised hardware. HPCpartners include the Hartree National Centrefor Digital Innovation, the Edinburgh ParallelComputing Centre, and the Earlham Institute.MI Garage has also worked with NVIDIA,Graphcore and LightOn to facilitate access tospecial trials to lower the barrier to entry to AIspecialised hardware.
+Government will consult later this year onthe potential value of and options for a UKcapability in digital twinning and wider‘cyber-physical infrastructure.’23 Thisconsultation will help identify how common,interoperable digital tools and platforms, aswell as physical testing and innovation spacescan be brought together to form a digital andphysical shared infrastructure for innovators(e.g. digital twins, test beds and living labs).Supporting and enabling this sharedinfrastructure will help remove time, cost andrisk from the process of bringing innovationto market, enabling accelerated AIdevelopment and applications.
+Compute
+Access to computing power is essential to thedevelopment and use of AI, and has been adominant trend in AI breakthroughs of thepast decade. The computing powerunderpinning AI in the UK comes from arange of sources. The government’s recentreport on large-scale computing24 recognisesits importance in AI innovation, but suggeststhat the UK’s infrastructure is lagging behindother major economies around the worldsuch as the US, China, Japan and Germany.We also recognise the growing compute gapbetween large-scale enterprises andresearchers. Access to compute is both acompetitiveness and a security issue. It is alsonot a one-size-fits-all approach – different AItechnologies need different capabilities.
+The Office for National Statistics (ONS) isleading the Integrated Data Programme incollaboration with partners acrossgovernment, providing real-time evidence,underpinning policy decisions and deliveringbetter outcomes for citizens while maintainingprivacy. The 2021 Declaration on GovernmentReform sets out a focus on strengtheningdata skills across government including seniorleaders.
+Public sector data
+Work is underway within the government tofix its own data foundations as part of Mission3 of the National Data Strategy, which focuseson transforming the government's use of data
+32
+33
+[Page #18]
+Pillar 1: Investing in the long-term needs of the AI ecosystem
+National AI Strategy
+environment. The report will feed into UKRI’swider work on Digital ResearchInfrastructure.26
+Tech Nation
+Tech Nation is a predominantly government-funded programme, built to deliver its owninitiatives that grow and support the UK’sburgeoning digital tech sector. This includesgrowth initiatives aiming to help businessessuccessfully navigate the transition from start-up to scale-up and beyond, network initiativesto connect the UK digital ecosystem, and theTech Nation Visa scheme, which offers a routeinto the UK for exceptionally talentedindividuals from overseas.
+Alongside access to necessary computecapacity, the competitiveness of the AIhardware will be critical to the UK's overallresearch and commercial competitiveness inthe sector. The UK is a world leader in chipand systems design, underpinned byprocessor innovation hubs in Cambridge andBristol. We have world-leading companiessupporting both general purpose AI –Graphcore has built the world's most complexAI chip,27 and for specific applications – XMOSis a leader in AI for IOT. The government iscurrently undertaking a wider review of itsinternational and domestic approach tothe semiconductor sector. Givencommercial and innovation priorities in AI,further support for the chip designcommunity will be considered.
+Recent growth programmes include AppliedAI, their first to help the UK’s most promisingfounders who are applying AI in practicalareas and creating real-world impact; NetZero, a six-month free growth programme fortech companies that are creating a moresustainable future; and Libra, which is focusedon supporting Black founders and addressingracial inequality in UK tech.
+Finance and VC
+The government will continue to evaluatethe state of funding specifically forinnovative firms developing AItechnologies across every region of theUK. This work will explore if there are anysignificant investment gaps or barriers toaccessing funding that AI innovativecompanies are facing that are not beingaddressed. Government commits toreporting on this work in Autumn 2022.
+AI innovation is thriving in the UK, backed byour world-leading financial services industry.In 2020, UK firms that were adopting orcreating AI-based technologies received£1.78bn in funding, compared to £525mraised by French companies and £386mraised in Germany.28 More broadly,investment in UK deep tech companies hasincreased by 291% over the past five years,though deal sizes remain considerablysmaller compared to the US.29
+Sustained public and private investment in arange of facilities from cloud, laboratory andacademic department scale, through tosupercomputing, will be necessary to ensurethat accessing computing power is not abarrier to future AI research and innovation,commercialisation and deployment of AI. InJune 2021, the government announced jointfunding with IBM for the Hartree NationalCentre for Digital Innovation to stimulate highperformance computing enabled innovationin industry and make cutting-edgetechnologies like AI more accessible tobusinesses and public sector organisations.
+Understanding our domestic AI computingcapacity needs and their relationship toenergy use is increasingly important25 if weare to achieve our ambitions. To betterunderstand the UK’s future AI computingrequirements, the Office for AI and UKRIwill evaluate the UK’s computing capacityneeds to support AI innovation,commercialisation and deployment. Thisstudy will look at the hardware and broaderneeds of researchers and organisations, largeand small, developing AI technologies,alongside organisations adopting AI productsand services. The study will also consider thepossible wider impact of future computingrequirements for AI as it relates to areas ofproportional concern, such as the
+34
+35
+[Page #19]
+Pillar 1: Investing in the long-term needs of the AI ecosystem
+National AI Strategy
+Accessing the right finance at the right time iscritical for AI innovators to be able to developtheir idea into a commercially viable productand grow their business, but this iscomplicated by the long timelines oftenneeded for AI research and developmentwork.30,31 The AI Council’s Roadmap suggests afunding gap at series B+, meaning that AIcompanies are struggling to scale and stayunder UK ownership.
+introduced the National Security andInvestment Act that will provide new powersto screen investments effectively andefficiently now and into the future. It will givebusinesses and investors the reassurancethat the UK continues to welcome the righttalent, investment and collaboration thatunderpins our wider economic security.
+Trade
+While the UK’s funding ecosystem is robust,the government is committed to ensuring thesystem is easy for businesses and innovatorsto navigate, and that any existing gaps areaddressed. The recent Innovation Strategysignalled the Government’s efforts to supportinnovators by bringing together effectiveprivate markets with well-targeted publicinvestment. In it, the government set outplans to upskill lenders to assess risk whenlending to innovative businesses and outlinedwork across Innovate UK and the BritishBusiness Bank to investigate how businessesinteract with the public support landscape, tomaximise accessibility for qualifyingbusinesses. A good example of this is theFuture Fund: Breakthrough, a new £375million UK-wide programme launched in July2021, will encourage private investors to co-invest with the government in high-growthinnovative businesses to accelerate thedeployment of breakthrough technologies.
+AI is a key part of the UK’s digital goods andservices exports, which totalled £69.3bn in2019.32 Trade can support the UK’s objectivesto sustain the mature, competitive andinnovative AI developer base the UK needs toaccess customers around the world.
+As part of its free trade agenda, thegovernment is committed to pursuingambitious digital trade chapters to help placethe UK as a global leader. As the UK securesnew trade deals, the government willinclude provisions on emerging digitaltechnologies, including AI, and championinternational data flows, preventingunjustified barriers to data crossing borderswhile maintaining the UK’s high standards forpersonal data protection.
+In doing so, the UK aims to deliver digitaltrade chapters in agreements that: 1) providelegal certainty; 2) support data flows; 3)protect consumers; 4) minimise non-tariffbarriers to digital trade; 5) preventdiscrimination against trade by electronicmeans; and 6) promote internationalcooperation and global AI governance. All ofthese aims support a pro-innovation agenda.
+Our economy’s success and our citizens’safety rely on the government’s ability toprotect national security while keeping the UKopen for business with the rest of the world.Within this context, we will ensure we protectthe growth of welcome investment into theUK’s AI ecosystem. The government has
+36
+37
+[Page #20]
+Pillar 1: Investing in the long-term needs of the AI ecosystem
+National AI Strategy
+Pillar 1 - Investing in the Long Term Needs of the AI Ecosystem
+6. Publish a report on the UK’s compute capacity needs to support AI innovation, commercialisation
+and deployment. The report will feed into UKRI’s wider work on infrastructure.
+Actions:
+7. Continue to publish open and machine-readable data on which AI models for both public and
+1. Launch a new National AI Research and Innovation Programme, that will align funding
+commercial benefit can depend.
+programmes across UKRI Research Councils and Innovate UK, stimulating new investment infundamental AI research while making critical mass investments in particular applications of AI.
+8. Consider what valuable datasets the government should purposefully incentivise or curate that
+will accelerate the development of valuable AI applications.
+2. Lead the global conversation on AI R&D and put AI at the heart of our science and technology
+alliances and partnerships worldwide through:
+9. Undertake a wider review of our international and domestic approach to the semiconductor
+sector. Given commercial and innovation priorities in AI, further support for the chip designcommunity will be considered.
+i1. Work with partners around the world on shared AI challenges, including participation in Horizon
+Europe to enable collaboration with other European researchers.
+10. Evaluate the state of funding specifically for innovative firms developing AI technologies in the UK,
+ii2. Use of Overseas Development Assistance to support partnerships with developing AI nations.
+and report on this work in Autumn 2022.
+11. Protect national security through the National Security & Investment Act while keeping the UKopen for business with the rest of the world, as our economy’s success and our citizens’ safetyrely on the government’s ability to take swift and decisive action against potentially hostile foreigninvestment.
+iii3. Deliver new initiatives through the US UK Declaration on Cooperation in AI R&D.
+3. Develop a diverse and talented workforce which is at the core of maintaining the UK’s world
+leading position through:
+12. Include provisions on emerging digital technologies, including AI, in future trade deals alongsidechampioning international data flows, preventing unjustified barriers to data crossing bordersand maintaining the UK’s high standards for personal data protection.
+i1.
+Scoping what is required to upskill employees to use AI in a business setting. Then, workingwith the Department for Education, explore how skills provision can meet these needsthrough the Skills Value Chain and build out AI and data science skills through SkillsBootcamps.
+ii2.
+Supporting existing interventions across top talent, PhDs and Masters levels and developingworld leading teams and collaborations, the government will continue to attract and developthe brightest and best people to build AI.
+iii3.
+Inspiring all to be excited by the possibilities of AI, by supporting the National Centre forComputing Education (NCCE) to ensure AI programmes for children are accessible and reachthe widest demographic and that career pathways for those working with or developing AIare clearly articulated on career guidance platforms.
+iv4. Promoting the revitalised and new visa routes that encourage innovators and entrepreneurs
+to the UK, making attractive propositions for prospective and leading AI talent.
+4. Publish a policy framework setting the government's role in enabling better data availability in thewider economy. The government is already consulting on the opportunity for data intermediariesto support responsible data sharing and data stewardship in the economy and the interplay of AItechnologies with the UK’s data rights regime.
+5. Consult on the potential role and options for a future national ‘cyber-physical infrastructure’
+framework, to help identify how common interoperable digital tools and platforms and cyber-physical or living labs could come together to form a digital and physical ‘commons’ forinnovators, enabling accelerated AI development and applications.
+38
+39
+[Page #21]
+National AI Strategy
+Pillar 2:Ensuring AI benefits allsectors and regions
+Supporting the transition to an AI-enabled economy, capturing the benefits of AIinnovation in the UK, and ensuring AI technologies benefit all sectors and regions
+To ensure that all sectors and regions of theUK economy can benefit from the positivetransformation that AI will bring, thegovernment will back the domestic designand development of the next generation of AIsystems, and support British business toadopt them, grow and become moreproductive. The UK has historically beenexcellent at developing new technologies butless so at commercialising them into productsand services.
+access to relevant skills discussed above,other challenges reported by businesses arethe lack of engagement with end users,limiting adoption and commercialisation.Commercialisation outcomes are also oftenconstrained by business models rather thantechnical issues and a lack of understandingof AI-related projects’ return on investment.
+more evidence, the Office for AI will publishresearch later this year into the drivers ofAI adoption and diffusion.
+Government’s aim is to diffuse AI acrossthe whole economy to drive the highestamount of economic and productivitygrowth due to AI.
+To stimulate the development andadoption of AI technologies in high-potential, low-AI maturity sectors theOffice for AI and UKRI will launch aprogramme that will:
+This will be achieved by:
+•
+Supporting AI businesses on theircommercial journey, understanding theunique challenges they face and helpingthem get to market and supportinginnovation in high potential sectors andlocations where the market currentlydoesn’t reach;
+•
+Support the identification and creation ofopportunities for businesses, whetherSMEs or larger firms, to use AI and for AIdevelopers to build new products andservices that address these needs;
+AI deployment – understanding newdynamics
+As well as smart action to support bothsuppliers, developers and adopters,government also has a role to play when itcomes to the use of AI, both as a significantmarket pull in terms of public procurement,such as the NHS and the defence sector, witha dedicated Defence AI Strategy and AICentre, but also in terms of using thetechnology to solve big public policychallenges, such as in health and achievingnet zero. Finally, it requires being bold andexperimental, and supporting the use of AI inthe service of mission-led policymaking.
+To grow the market and spread AI to moreareas of our economy, the government aimsto support the demand side as well as themeans for commercialising AI - understandingwhat, why, when and how companies chooseto incorporate AI into their business planningis a prerequisite to any attempt to encouragewider adoption and diffusion across the UK.
+• Understanding better the factors that
+•
+Create a pathway for AI developers tostart companies around new productsand services or to extend and diversifytheir product offering if they are lookingto grow and scale;
+influence the decisions to adopt AI intoorganisations – which includes anunderstanding of when not to;
+•
+Ensuring AI is harnessed to supportoutcomes across the Government’sInnovation Strategy, including bypurposefully leveraging our leading AIcapabilities to tackle real-world problemsfacing the UK and world through ourInnovation Missions,33 while drivingforward discovery;
+•
+Facilitate close engagement betweenbusinesses and AI developers to ensureproducts and services developed addressbusiness needs, are responsiblydeveloped and implemented, anddesigned and deployed so thatbusinesses and developers alike areprepped and primed for AIimplementation; and
+EY research delivered on behalf of DCMSshows that AI remains an emergingtechnology for private sector and third sectororganisations in the UK. 27% of UKorganisations have implemented AItechnologies in business processes; 38% oforganisations are planning and piloting AItechnology; and 33% of organisations havenot adopted AI and are not planning to.Consistent with studies of AI adoption,34 thesize of an organisation was found to be alarge contributing factor to the decision toadopt AI, with large organisations far morelikely to have already done so. Recognisingthat for many sectors this is the cutting edgeof industrial transformation, and the need for
+Commercialisation
+•
+Leveraging the whole public sector’scapacity to create demand for AI andmarkets for new services.
+Developing a commercial AI product orservice is more than just bringing an idea tomarket or accessing the right funding. Recentanalysis from Innovate UK suggests thatobtaining private funding is only one amongmany other obstacles to successfulcommercial outcomes in AI-related projects.As well as the well known barriers such asaccess to data, labour market supply and
+•
+Incentivise investors to learn about thesenew market opportunities, products, andservices, so that, where equity finance isneeded, the right financing is madeavailable to AI developers.
+40
+41
+[Page #22]
+Pillar 2: Ensuring AI benefits all sectors and regions
+National AI Strategy
+AI and COVID-19
+When the pandemic began it created a unique environment where AI technologies were developedto identify the virus more quickly, to help with starting treatments earlier and to reduce the likelihoodthat people will need intensive care.
+Working with Faculty, NHS England and NHS Improvement developed the COVID-19 Early WarningSystem (EWS). A first-of-its-kind toolkit that forecasts vital metrics such as COVID-19 hospitaladmissions and required bed capacity up to three weeks in advance, based on a wide range of datafrom the NHS COVID-19 Data Store. This gave national, regional and local NHS teams the confidenceto plan services for patients amid any potential upticks in COVID-related hospital activity.
+AI and Intellectual Property (IP): Call forViews and Government Response
+An effective Intellectual Property (IP) system isfundamental to the Government’s ambitionfor the UK to be a ‘science superpower’ andthe best place in the world for scientists,researchers and entrepreneurs to innovate.To ensure that IP incentivises innovation, ouraspiration is that the UK’s domestic IPframework gives the UK a competitive edge.
+At the same time over the past year, the NHS AI Lab has collected more than 40,000 X-ray, CT andMRI chest images of over 13,000 patients from 21 NHS trusts through the National COVID-19 ChestImaging Database (NCCID), one of the largest centralised collections of medical images in the UK. TheNCCID is being used to study and understand the COVID-19 illness and to improve the care forpatients hospitalised with severe infection. The database has enabled 13 projects to research new AItechnologies to help speed up the identification, severity assessment and monitoring of COVID-19.
+Creating and protecting IntellectualProperty
+Intellectual Property (IP) plays a significantpart in building a successful business byrewarding people for inventiveness andcreativity and enabling innovation. IP supportsbusiness growth by incentivising investment,safe-guarding assets and enabling the sharingof know-how. The Intellectual Property Office(IPO) recognises that AI researchers anddevelopers need the right support tocommercialise their IP, and helps them tounderstand and identify their intellectualassets, providing them with the skills toprotect, exploit and enforce their rights toimprove their chances of survival and growth.
+UK AI companies have also shown how AI can help accelerate the search for potential drugcandidates, streamline triage and contribute to global research efforts. BenevolentAI, a world-leadingAI company focused on drug discovery and medicine development, used their biomedical knowledgegraph to identify a potential coronavirus treatment from already approved drugs that could berepurposed to defeat the virus. This was later validated through experimental testing fromAstraZeneca. UK AI company DeepMind have adapted their AI-enabled protein folding breakthroughto better understand the virus’ structure, contributing to a wider understanding of how the virus canfunction.
+In support of this ambition, the IPO publishedits AI and IP call for views to put the UK at theforefront of emerging technologicalopportunities, by considering how AI impactson the existing UK intellectual propertyframework and what impacts it might have forAI in the near to medium term.
+In March this year, the government publishedits response to the call for views, whichcommitted to the following next steps:
+These challenges will require public sectorleadership, identifying strategic priorities thatcan maximise the potential of AI for thebetterment of the UK.
+government's strategic goals and where AIcan provide a catalytic contribution,35including through Innovation Missions andthe Integrated Review’s ‘Own-Collaborate-Access’ framework.36
+Using AI for the public benefit
+•
+To consult on the extent to whichcopyright and patents should protect AIgenerated inventions and creative works;
+AI can contribute to solving the greatestchallenges we face. AI has contributed totackling COVID-19, demonstrating how thesetechnologies can be brought to bearalongside other approaches to createeffective, efficient and context-specificsolutions.
+•
+To consult on measures to make it easierto use copyright protected material in AIdevelopment;
+The government has a clear role to play. Instimulating and applying AI innovation topriority applications and wider strategic goals,the government can help incentivise a groupof different actors to harness innovation forimproving lives, simultaneously reinforcingthe innovation cycle that can drive widereconomic benefits – from creating andinvigorating markets, to the role of opensource in the public, private and third sectors,to raising productivity. Over the next six totwelve months, the Office for AI will workclosely with the Office for Science andTechnology Strategy and governmentdepartments to understand the
+The COVID-19 pandemic has shown thatglobal challenges need global solutions. TheUK’s international science and technologypartnerships, global network of science andinnovation officers, and research andinnovation hubs, are working alongside UKuniversities, research institutes and investorsto foster new collaborations to tackle theglobal challenges we all share, including ininnovations on global health and to achievenet zero emissions around the globe.
+•
+An economic study to enhanceunderstanding of the role the IPframework plays in incentivisinginvestment in AI.
+There are many areas of AI development thathave matured to the point that industry andthird sector organisations are investingsignificantly in AI tools, techniques andprocesses. These investments are helping tomove AI from the lab and into commercialproducts and services. But there remain morecomplex, cross-sector challenges thatindustry is unlikely to solve on its own.
+The consultation, on copyright areas ofcomputer generated works and text and datamining, and on patents for AI devisedinventions, will be launched before the end ofthe year so that the UK can harness theopportunities of AI to further supportinnovation and creativity.
+42
+43
+[Page #23]
+Pillar 2: Ensuring AI benefits all sectors and regions
+National AI Strategy
+AI and net zero
+AI works best when presented with specificproblem areas with clear system boundariesand where there are large datasets beingproduced. In these scenarios, AI has thecapability to identify complex patterns, unlocknew insights, and advise on how best tooptimise system inputs in order to bestachieve defined objectives.
+At the same time, well-specified challengeshave also led to some of the most impactfulmoments of progress in AI. Whether throughImagenet, CIFAR-10, MNIST, GLUE, SquAD,Kaggle, or more, challenge-related datasetsand benchmarks have generatedbreakthroughs in vision, language,recommender systems, and other subfields.39The government believes that challengescould be created that simultaneouslyincentivise significant progress in InnovationMissions while rapidly progressing thedevelopment in the technology alongdesirable lines.
+Missions
+Net Zero
+The Innovation Strategy set out thegovernment's plans to stimulate innovation totackle major challenges facing the UK and theworld, and drive capability in key technologies.This will be achieved through InnovationMissions,37 which will draw on multipletechnologies and research disciplines towardsclear and measurable outcomes. They will besupported by Innovation Technologies,38including AI, supporting their capability totackle pressing global and national challengeswhile supporting their adoption in novelareas, boosting growth and helping toconsolidate our position as a science and AIsuperpower.
+The Prime Minister’s Ten Point Plan for aGreen Industrial Revolution highlights thedevelopment of disruptive technologies suchas AI for energy as a key priority, and inconcert with the government’s Ten TechPriorities to use digital innovations to reachnet zero, the UK has the opportunity to leadthe world in climate technologies, supportingus to deliver our ambitious net zero targets.This will be key to meet our stated ambition inthe Sixth Carbon Budget, and with it a need toconsider how to achieve the maximumpossible level of emissions reductions.
+There are a range of climate changemitigation and adaptation challenges that fitthis description. These include:
+•
+using machine vision to monitor theenvironment;
+•
+using machine learning to forecastelectricity generation and demand andcontrol its distribution around thenetwork;
+To this end, the government will develop arepository of short, medium and long termAI challenges to motivate industry andsociety to identify and implement real-world solutions to the strategic priorities.These priorities will be identified through theMissions Programme, and guided by theNational AI R&I Programme.
+Over the last ten years there have been aseries of advances in AI. These advances offeropportunities to rapidly increase theefficiency of energy systems and help reduceemissions across a wide array of climatechange challenges. The AI Council’s AIRoadmap advocates for AI technologies toplay a role in innovating towards solutions toclimate change, and literature is emergingthat shows how ‘exponential technologies’such as AI can increase the pace ofdecarbonisation across the most impactfulsectors. AI is increasingly seen as a criticaltechnology to scale and enable thesesignificant emissions cuts by 2030.40,41,42
+Some of these challenges have beenarticulated and revolve around the futurehealth, wellbeing, prosperity and security ofpeople, the economy, and our environment –in the UK and globally. These challenges areworthwhile and therefore difficult, and willrequire harnessing the combined intellectand diversity of the AI ecosystem and thewhole nation, and will consider a full range ofpossible impacts of a given solution. The paceof AI development is often fast, parallel andnon-linear, and finding the right answer tothese challenges will require a collection ofactors beyond just government departments,agencies and bodies to consider the technicaland social implications of certain solutionsand increase the creativity of problem solving.In doing so, the UK will be able to find newpaths for AI to deliver on our security andprosperity objectives at home and abroad.
+•
+using data analysis to find inefficiencies inemission-heavy industries; and
+•
+using AI to model complex systems, likeEarth’s own climate, so we can betterprepare for future changes.
+Climate change and global health threats areexamples of shared international challenges,and science progresses through openinternational collaboration. This is particularlythe case when AI development is able to takeadvantage of publicly available codingplatforms to produce new algorithms. The UKwill extend its science partnerships and itswork investing UK aid to support localinnovation ecosystems in developingcountries. Through our leadership ininternational development and diplomacy,we will work to ensure internationalcollaboration can unlock the enormouspotential of AI to accelerate progress onglobal challenges, from climate change topoverty.
+AI applications for energy and climatechallenges are already being developed, butthey are predominantly outliers and there aremany applications across sectors that are notyet attempted. A study by Microsoft and PwCestimated that AI can help deliver a globalreduction in emissions of up to 4% by 2030compared to business as usual, with aconcurrent uplift of 4.4% to global GDP. Suchestimates are likely to become more accurateover time as the potential of AI becomesmore apparent.
+44
+45
+[Page #24]
+Pillar 2: Ensuring AI benefits all sectors and regions
+National AI Strategy
+Missions will also be continued through theInnovation Strategy’s Missions Programme,which will form the heart of the government’sapproach to respond to these priorities, andwe will develop these missions in a waythat considers the promise of AItechnologies, particularly in areas ofspecific advantage such as energy.
+provide a facilitative environment to enablethe health and social care system toconfidently adopt safe, effective and ethicalAI-driven technologies at pace and scale.
+processes around public sector culture,expertise and incentive structures. Thiscomplements previous work acrossgovernment to inform and empower buyersin the public sector, helping them to evaluatesuppliers, then confidently and responsiblyprocure AI technologies for the benefit ofcitizens.45
+Ministry of Defence using AI to reducecosts and meet climate goals
+The MOD is trialling a US startups’ SoftwareDefined Electricity (SDE) system, which uses AIto optimise electricity in real time, to helpmeet its climate goals and reduce costs. Initialtests suggest it could reduce energy draw byat least 25% which, given the annual electricitybill for MOD’s non-PFI sites in FY 2018/19 was£203.6M, would equate to savings of £50.9Mevery year and significant reductions in CO2emissions.
+The NHS AI Lab is creating a NationalStrategy for AI in Health and Social Care inline with the National AI Strategy. Thestrategy, which will begin engagement ona draft this year and is expected to launchin early 2022, will consolidate the systemtransformation achieved by the Lab todate and will set the direction for AI inhealth and social care up to 2030.
+Government will ensure that, in key areas ofinternational collaboration such as the US UKDeclaration on Cooperation in AI Researchand Development and the Global Partnershipon AI, we will pursue technologicaldevelopments in world-leading areas ofexpertise in the energy sector to maximiseour strategic advantage.
+The government has outlined how it plans torapidly modernise our Armed Forces,46,47 andhow investments will be guided.48,49 TheMinistry of Defence will soon be publishing itsAI strategy which will contribute to how we willachieve and sustain technological advantage,and be a great science power in defence. Thiswill include the establishment of the newDefence AI Centre which will champion AIdevelopment and use, and enable rapiddevelopment of AI projects. Defence shouldbe a natural partner for the UK AI sector andthe defence strategy will outline how togalvanise a stronger relationship betweenindustry and defence.
+AI Dynamic Purchasing System
+The public sector as a buyer
+The Crown Commercial Service workedclosely with colleagues in the Office for AI andacross government during drafting ofguidelines for AI procurement. This was usedto design their AI Dynamic Purchasing System(DPS) agreement to align with theseguidelines, and included a baselines ethicsassessment so that suppliers commit only tobidding where they are capable and willing todeliver both the ethical and technicaldimensions of a tender.
+Health
+To build a world-leading strategic advantagein AI and build an ecosystem that harnessesinnovation for the public good, the UK willneed to take a number of approaches. As thegovernment, we can also work with industryleaders to develop a shared understandingand vision for the emerging AI ecosystem,creating longer-term certainty that enablesnew supply chains and markets to form.
+In August 2019, the Health Secretaryannounced a £250 million investment43 tocreate the NHS AI Lab in NHSX to acceleratethe safe, ethical and effective developmentand use of AI-driven technologies to helptackle some of the toughest challenges inhealth and social care, including earlier cancerdetection, addressing priorities in the NHSLong Term Plan, and relieving pressure on theworkforce.
+This requires leveraging public procurementand pre-commercial procurement to be morein line with the development of deep andtransformative technologies such as AI. Therecent AI Council ecosystem survey revealedthat 72% agreed the government should takesteps to increase buyer confidence and AIcapability. The Innovation Strategy andforthcoming National Procurement PolicyStatement have recently articulated how wecan further refine public procurement
+The Crown Commercial Service is piloting atraining workshop to help improve the publicsector’s capability to buy AI products andservices, and will continue to work closely withthe Office for AI and others acrossgovernment to ensure we are addressing thekey drivers set out in the National AI Strategy.
+AI-driven technologies have the potential toimprove health outcomes for patients andservice users, and to free up staff time forcare.44 The NHS AI Lab along with partners,such as the Accelerated Access Collaborative,the National Institute of Health and CareExcellence and the Medicines and Healthcareproducts Regulatory Agency, are working to
+46
+47
+[Page #25]
+Pillar 2: Ensuring AI benefits all sectors and regions
+National AI Strategy
+Pillar 2 - Ensuring AI Benefits all Sectors and Regions
+Actions:
+1. Launch a programme as part of UKRI’s National AI R&I Programme, designed to stimulate thedevelopment and adoption of AI technologies in high-potential, lower-AI maturity sectors. Theprogramme will be primed to exploit commercialisation interventions, enabling early innovatorsto access potential market opportunities where their products and services are relevant.
+2. Launch a draft National Strategy for AI in Health and Social Care in line with the National AI
+Strategy. This will set the direction for AI in health and social care up to 2030, and is expected tolaunch in early 2022.
+3. Ensure that AI policy supports the government’s ambition to secure strategic advantage through
+science and technology.
+4. Consider how the development of Innovation Missions also incorporates the potential of AI
+solutions to tackling big, real-world problems such as net zero. This will also be complemented bypursuing ambitious bilateral and multilateral agreements that advance our strategic advantagesin net zero sectors such as energy, and through the extension of UK aid to to support localinnovation ecosystems in developing AI nations.
+5. Build an open repository of AI challenges with real-world applications, to empower wider civilsociety to identify and implement real-world solutions to the strategic priorities identifiedthrough the Missions Programme and guided by the National AI Research and InnovationProgramme.
+6. Publish research into the determinants impacting the diffusion of AI across the economy.
+7. Publish the Ministry of Defence AI Strategy, which will explain how we can achieve and sustaintechnological advantage and be a science superpower in defence, including detail on theestablishment of a new Defence AI Centre.
+48
+49
+[Page #26]
+National AI Strategy
+Pillar 3:Governing AI effectively
+Ensuring that national governance of AI technologies encourages innovation,investment, protects the public and safeguards our fundamental values, whileworking with global partners to promote the responsible development of AIinternationally
+Supporting innovation and adoptionwhile protecting the public andbuilding trust
+Government’s aim is to build the mosttrusted and pro-innovation system for AIgovernance in the world.
+An effective governance regime that supportsscientists, researchers and entrepreneurs toinnovate while ensuring consumer and citizenconfidence in AI technologies is fundamentalto the government’s vision over the nextdecade.
+undermine privacy and human agency; andphysical, economic and financial harms beingenabled or exacerbated by AI technologies.For example, cyber security should beconsidered early in the development anddeployment of AI systems to prevent suchharms from arising, by adopting a ‘secure bydesign’ approach to mitigate against cybersecurity becoming an afterthought.
+This will be achieved by:
+The UK has a strong international reputationfor the rule of law and technologicalbreakthroughs. To build on this thegovernment set out its pro-innovationapproach through its Plan for DigitalRegulation. The Plan recognises that well-designed regulation can have a powerfuleffect on driving growth and shaping athriving digital economy and society, whereaspoorly-designed or restrictive regulation candampen innovation. The Plan alsoacknowledges that digital businesses, whichinclude those developing and using AItechnologies, are currently operating in someinstances without appropriate guardrails. Theexisting rules and norms, which have so farguided business activity, were in many casesnot designed for these modern technologiesand business models. In addition, thesetechnologies are themselves disrupting theseestablished rules and norms.
+•
+Establishing an AI governance frameworkthat addresses the unique challenges andopportunities of AI, while being flexible,proportionate and without creatingunnecessary burdens;
+In a world where systematic internationalcompetition will have significant impacts onsecurity and prosperity around the world, thegovernment wants the UK to be the mosttrustworthy jurisdiction for the developmentand use of AI, one that protects the publicand the consumer while increasingconfidence and investment in AI technologiesin the UK.
+This is not to say that AI is currentlyunregulated. The UK already regulates manyaspects of the development and use of AIthrough ‘cross-sector’ legislation and differentregulators. For example, there is coverage inareas like data protection (InformationCommissioner’s Office), competition(Competition & Markets Authority), humanrights and equality (Equality & Human RightsCommission). As well as through ‘sector-specific’ legislation and regulators, forexample financial services (Financial ConductAuthority) and medical products (Medicinesand Healthcare products Regulatory Agency).
+•
+Enabling AI products and services to betrustworthy, by supporting the developmentof an ecosystem of AI assurance tools andservices to provide meaningful informationabout AI systems to users and regulators;
+Effective, pro-innovation governance of AImeans that (i) the UK has a clear,proportionate and effective framework forregulating AI that supports innovation whileaddressing actual risks and harms, (ii) UKregulators have the flexibility and capabilitiesto respond effectively to the challenges of AI,and (iii) organisations can confidently innovateand adopt AI technologies with the right toolsand infrastructure to address AI risks andharms. The UK public sector will lead the wayby setting an example for the safe and ethicaldeployment of AI through how it governs itsown use of the technology.
+• Growing the UK’s contribution to thedevelopment of global AI technicalstandards, to translate UK R&D fortrustworthy AI into robust, technicalspecifications and processes that cansupport our AI governance model, ensureglobal interoperability and minimise thecosts of regulatory compliance;
+As the use of AI increases, the UK hasresponded by reviewing and adapting theregulatory environment. For example, theData: A new direction consultation, publishedearlier this month, invites views on the role ofthe data protection framework within thebroader context of AI governance. Specifically,the consultation examines the role ofsensitive personal data in bias detection andmitigation in AI systems, and the use of theterm ‘fairness’ in a data protection context.
+This is especially the case for AI which, with itspowerful data processing and analyticalcapabilities, is disrupting traditional businessmodels and processes.50 There is growingawareness in industry and by citizens of thepotential risks and harms associated with AItechnologies. These include concerns aroundfairness, bias and accountability of AI systems.For example, the report from the Commissionon Race and Ethnic Disparities raisedconcerns around the potential for novel waysfor bias to be introduced through AI. Otherconcerns include the ability of AI to
+•
+Building UK regulators’ capacities to useand assess AI, ensuring that they can deliveron their responsibilities as new AI-basedproducts and services come to market;
+•
+Setting an example in the safe and ethicaldeployment of AI, with the governmentleading from the front;
+We will collaborate with key actors andpartners on the global stage to promote theresponsible development and deployment ofAI. The UK will act to protect against efforts toadopt and apply these technologies in theservice of authoritarianism and repression.Through our science partnerships and widerdevelopment and diplomacy work, we willseek to engage early with countries on AIgovernance, to promote open society valuesand defend human rights.
+• Working with our partners around the
+world to promote international agreementsand standards that deliver for ourprosperity and security, and promoteinnovation that harnesses the benefits of AIas we embed our values such as fairness,openness, liberty, security, democracy, ruleof law and respect for human rights.
+50
+51
+[Page #27]
+Pillar 3: Governing AI effectively
+National AI Strategy
+Data: A new direction consultation
+The UK data protection framework (UK General Data Protection Regulations and Data Protection Act2018) is technology neutral and was not intended to comprehensively govern AI systems, or anyother specific technologies. Many AI systems do not use personal data at all.
+Navigating and applying relevant data protection provisions can be perceived as a complex orconfusing exercise for an organisation looking to develop or deploy AI systems, possibly impedinguptake of AI technologies.
+DCMS is currently running a consultation on potential reforms to the data protection framework,closing on the 19th November 2021. The consultation calls for views on specific data protectionprovisions that are currently triggered in the process of developing and deploying AI. In particular,the consultation covers:
+2018, the government agreed with the Houseof Lords’ view that “blanket AI-specificregulation, at this stage, would beinappropriate... [and] that existing sector-specificregulators are best placed to consider the impacton their sector of any subsequent regulationwhich may be needed.”
+connectivity, the move to mobile working,the dominant role of major platforms etc.It is often hard to unpick the specificimpact of AI; focusing regulation on theparticular use cases where there is riskallows risks to be addressed holistically,and simplifies things for innovators.
+•
+Clarifying the use and reuse of personal data for research (including AI development) (Ch 1);
+•
+Clarifying the use and reuse of personal data under the legitimate interests test, including biasdetection and mitigation anonymisation (Ch 1);
+There are some strong reasons why oursector-led approach makes sense:
+Having embraced a strong sector-basedapproach to date, now is the time to decidewhether our existing approach remains theright one.
+•
+Explicitly authorising the use of sensitive personal data (special category data) for bias detectionand mitigation in AI systems (Ch 1);
+1. The boundaries of AI risks and harms
+•
+Clarifying the use of the term ‘fairness’ in a data protection context (Ch 1);
+are grey, because the harms raised bythese technologies are often non-AI, orextensions of non-AI, issues, and alsobecause AI is rapidly developing andtherefore what counts as the AI part of asystem is constantly changing.
+As the UK’s regulators have begun to respondto the emergence of AI, challenges haveemerged. These include:
+•
+Assessing the challenges with the current data protection framework in developing anddeploying AI responsibly (Ch 1);
+•
+Assessing the general suitability and operation of UK GDPR Article 22 (rights relating toautomated decision-making and profiling) (Ch 1);
+•
+Inconsistent or contradictoryapproaches across sectors. While asector-led approach allowsresponsiveness to sector specificchallenges, it could create barriers toadoption across sectors by creatingconfusing or contradictory compliancerequirements;
+2. Use cases for AI, and their wider
+• Mandatory transparency requirements for the use of algorithmic decision-making in the public
+impacts, can be highly complex in theirown right. There is a big limitation inwhat can be covered in cross-cuttinglegislation on AI, and regardless of theoverall regulatory approach, the detail willalways need to be dealt with at the levelof individual harms and use cases.
+sector (Ch 5).
+Working with the AI ecosystem the Office forAI will develop our national position ongoverning and regulating AI, which will beset out in a White Paper in early 2022. TheWhite Paper will set out the government’sposition on the potential risks and harmsposed by AI technologies and our proposal toaddress them.
+These challenges raise the question ofwhether the UK’s current approach isadequate, and whether there is a case forgreater cross-cutting AI regulation or greaterconsistency across regulated sectors.
+• Overlap between regulatory
+mandates, creating uncertainty aboutresponsibility, the potential for issues tofall between the gaps, and increasedneed for coordination;
+3.
+Individual regulators and industriesare already starting to respond to therisks of AI, and to work with innovators intheir sectors to guide on interpretation ofexisting regulations, and on what furtherregulatory responses are appropriate.Enabling and empowering individualbodies to respond is a much quickerresponse to individual harms thanagreeing to an AI regulatory regime thatmakes sense across all sectors.
+At the same time, alternative methods andapproaches to governing AI have emergedfrom multilateral and multi stakeholder fora,at international and regional levels, includingglobal standards development organisations,academia, thought leaders, and businesses.This has raised awareness about theimportance of AI governance, but alsopotentially confusion for the consumer aboutwhat good AI governance looks like andwhere responsibility lies.
+•
+AI regulation could become framednarrowly around prominent, existingcross-cutting frameworks, e.g. the dataprotection framework, while the range ofAI risks and harms is much broader;
+•
+The growing activity in multilateral andmulti stakeholder fora internationally,and global standards developmentorganisations that addresses AI acrosssectors could overtake a national effort tobuild a consistent approach.
+4. AI is not the only ongoing technologychange, and its impacts are ofteninterlinked with other innovations andbehaviour changes, including increased
+52
+53
+[Page #28]
+Pillar 3: Governing AI effectively
+National AI Strategy
+potentially other, options for governing AItechnologies. Having exited the EU, we havethe opportunity to build on our world-leadingregulatory regime by setting out a pro-innovation approach, one that drivesprosperity and builds trust in the use of AI.We will consider what outcomes we want toachieve and how best to realise them, acrossexisting regulators’ remits and consider therole that standards, assurance, andinternational engagement plays.
+Greater cooperation is also being enabledthrough initiatives such as through the DigitalRegulation Cooperation Forum, a recentlyformed voluntary forum comprising theCompetition & Markets Authority (CMA),Financial Conduct Authority (FCA), InformationCommissioner's Office (ICO) and Office ofCommunications (Ofcom) to deliver a joinedup approach to digital regulation.
+helped found the Global Partnership on AI(GPAI), providing significant support forevidence underpinning these initiatives, suchas the recently announced £1m investment inGPAI’s data trust research by BEIS.
+Alternative options
+The UK’s 2018 policy position that “existingsector-specific regulators are best placed toconsider the impact on their sector of anysubsequent regulation which may be needed”will be tested in our work towards thedevelopment of a White Paper, along withpotential alternatives. The main alternativeoptions are:
+The UK will act to protect against efforts toadopt and apply these technologies in theservice of authoritarianism and repressionand through our science partnerships andwider development and diplomacy work seekto engage early with countries on AIgovernance, including when existingtechnology governance is less developed, topromote open society values and defendhuman rights.
+1. Removing some existing regulatory
+International governance andcollaboration
+burdens where there is evidence they arecreating unnecessary barriers toinnovation.
+Regulators’ coordination andcapacity
+The UK will work with partners to support theinternational development of AI governancein line with our values. We will do this byworking with partners around the world toshape approaches to AI governance underdevelopment, such as the proposed EU AI Actand potential Council of Europe legalframework. We will work to reflect the UK’sviews on international AI governance andprevent divergence and friction betweenpartners, and guard against abuse of thiscritical technology.
+2. Retaining the existing sector-basedapproach, ensuring that individualregulators are empowered to workflexibly within their own remits to ensureAI delivers the right outcomes.
+While some regulators are leading the way inunderstanding the implications of AI for theirsector or activity, we need all regulators to beable to do this. The cross-sector anddisruptive nature of AI also raises newchallenges in terms of regulatory overlap. Forexample, concerns around fairness relate toalgorithmic bias and discrimination issuesunder the Equality Act, the use of personaldata (including sensitive personal data) andsector-specific notions of fairness such as theFinancial Conduct Authority’s Fair Treatmentof Customers guidance.
+UK Defence has a strong record ofcollaboration with international partners andallies. Key collaborations include engagementwith NATO allies to lead AI integration andinteroperability across the Alliance, andsupporting the AI Partnership for Defence, a14-nation coalition providing values basedglobal leadership for defence AI.
+3.
+Introducing additional cross-sectorprinciples or rules, specific to AI, tosupplement the role of individualregulators to enable more consistencyacross existing regimes.
+The government will continue to workwith our partners around the world toshape international norms and standardsrelating to AI, including those developedby multilateral and multistakeholderbodies at global and regional level. This willsupport our vision for a global ecosystem thatpromotes innovation and responsibledevelopment and use of technology,underpinned by our shared values offreedom, fairness, and democracy.
+For any of these options, it will be necessaryto ensure that regulators and other relevantbodies are equipped to tackle the challengesraised by AI. This may require additionalcapabilities, capacity, and better coordinationamong existing regulators; new guidance; orstandards to better enable consistency acrossexisting regulatory regimes.
+The UK is already working with like-mindedpartners to ensure that shared values onhuman rights, democratic principles and therule of law shape AI regulation andgovernance frameworks, whether binding ornon-binding, and that an inclusive multi-stakeholder approach is taken throughoutthese processes. As the international debateon these frameworks has gained momentum,the UK has proactively engaged on AI at theOECD,52 Council of Europe and UNESCO, and
+The government is working with The AlanTuring Institute and regulators to examineregulators’ existing AI capacities. In particular,this work is exploring monitoring andassessing products and services using AI anddealing with complexities arising from cross-sectoral AI systems.51
+In developing our White Paper position, theOffice for AI will consider all of these, and
+54
+55
+[Page #29]
+Pillar 3: Governing AI effectively
+National AI Strategy
+What are technical standards and how do they benefit the UK?
+Global technical standards set out good practice that can be consistently applied to ensure thatproducts, processes and services perform as intended – safely and efficiently. They are generallyvoluntary and developed through an industry-led process in global standards developingorganisations, based on the principles of consensus, openness, and transparency, and benefitingfrom global technical expertise and best practice.53
+We want global technical standards for AI to benefit UK citizens, businesses, and the economy by:
+•
+Supporting R&D and Innovation. Technical standards should provide clear definitions andprocesses for innovators and businesses, lowering costs and project complexity and improvingproduct consistency and interoperability, supporting market uptake.
+The government is also exploring withstakeholders to:
+The UK is leading the way on AI technicalstandards internationally
+•
+Supporting trade. Technical standards should facilitate digital trade by minimising regulatoryrequirements and technical barriers to trade.
+The UK’s global approach to AIstandardisation is exemplified by ourleadership in the International Organisationfor Standardisation and InternationalElectrotechnical Commission (ISO/IEC) on fouractive AI projects, as well as the UK’s initiationof and strong engagement in the IndustrySpecification Group on Securing AI at theEuropean Telecommunications StandardsInstitute (ETSI).
+•
+Pilot an AI Standards Hub to expand theUK’s international engagement andthought leadership; and
+• Giving UK businesses more opportunities. Standardisation is a co-creation process that spans
+different roles and sectors, providing businesses with access to market knowledge, newcustomers, and commercial and research partnerships.
+• Develop an AI standards engagementtoolkit to guide multidisciplinary UKstakeholders to engage in the global AIstandardisation landscape.
+• Delivering on safety, security and trust. The Integrated Review set out the role of technicalstandards in embedding transparency and accountability in the design and deployment oftechnologies. AI technical standards (e.g. for accuracy, explainability and reliability) should ensurethat safety, trust and security are at the heart of AI products and services.
+Internationally, the government is:
+•
+Supporting conformity assessments and regulatory compliance. Technical standards shouldsupport testing and certification to ensure the quality, performance, reliability of products beforethey enter the market. This includes providing a means of compliance with requirements set outin legislation.
+At ISO/IEC, the UK, through BSI, is leading thedevelopment of AI international standards inconcepts and terminology; data; bias;governance implications; and data life cycles.At ETSI we have published, among otherdocuments, ETSI GR SAI 002 on Data SupplyChain Security, which was led by the UK’sNational Cyber Security Centre.
+•
+Increasing bilateral engagement withpartners, including strengtheningcoordination and information sharing.
+•
+Bringing together conversations atstandards developing organisations andmultilateral fora. BSI and the governmentare members of the Open Community forEthics in Autonomous and IntelligentSystems (OCEANIS), which unites globalSDOs, businesses, and researchinstitutes.
+AI and global digital technicalstandards
+The UK is taking a global approach to shapingtechnical standards for AI trustworthiness,seeking to embed accuracy, reliability,security, and other facets of trust in AItechnologies from the outset. Thegovernment’s work to date on AI technicalstandards with international partners,industry, and other stakeholders provides apotential foundation to complement ourgovernance and regulatory approach.
+The ISO/IEC work programme includes thedevelopment of an AI Management SystemStandard (MSS), which intends to help solvesome of the implementation challenges of AI.This standard will be known as ISO/IEC 42001and will help an organisation develop or useartificial intelligence responsibly in pursuingits objectives, and deliver its expectedobligations related to interested parties.
+The UK’s Plan for Digital Regulation sets outour ambition to use digital technicalstandards to provide an agile and pro-innovation way to regulate AI technologiesand build consistency in technicalapproaches, as part of a wider suite ofgovernance tools complementing ‘traditional’regulation.
+•
+Engaging in the OECD’s Network ofExperts Group on ImplementingTrustworthy AI, collaborating withgovernments, academics, and experts tobuild guidance.
+Domestically, the government has establisheda strategic coordination initiative with theBritish Standards Institution (BSI) and theNational Physical Laboratory to explore waysto step up the UK’s engagement in globalstandards developing organisations.54
+The integration of standards in our model forAI governance and regulation is crucial forunlocking the benefits of AI for the economyand society, and will play a key role inensuring that the principles of trustworthy AIare translated into robust technicalspecifications and processes that are globally-recognised and interoperable.
+•
+Promoting the 2021 Carbis Bay G7Leaders’ Communiqué, on supportinginclusive, multi-stakeholder approachesto standards development, by ensuringour UK approach to AI standards ismultidisciplinary, and encourages a wideset of stakeholders in standardsdeveloping organisations.
+56
+57
+[Page #30]
+Pillar 3: Governing AI effectively
+National AI Strategy
+AI Assurance
+Public sector as an exemplar
+An AI assurance ecosystem is emerging withinboth the public and private sectors, with arange of companies including establishedaccountancy firms and specialised start-ups,beginning to offer assurance services. Anumber of possible assurance techniques55have been proposed and regulators arebeginning to set out how AI might be assured(for example, the ICO’s Auditing Frameworkfor AI).
+decisions affecting individuals, highlighting theimportance of stewarding AI systems in aresponsible manner to increase overall trustin their use.
+Understanding whether AI systems are safe,fair or are otherwise trustworthy requiresmeasuring, evaluating and communicating avariety of information, including how thesesystems perform, how they are governed andmanaged, whether they are compliant withstandards and regulations, and whether theywill reliably operate as intended. AI assurancewill play an important enabling role, unlockingeconomic and social benefits of AI systems.
+The government must lead from the front andset an example in the safe and ethicaldeployment of AI. The Office for AI and theGovernment Digital Service worked with TheAlan Turing Institute to produce guidance onAI ethics and safety in the public sector in2019. This guidance identifies the potentialharms caused by AI systems and proposesmeasures to counteract them. Thegovernment is working with The AlanTuring Institute to update this guidance inorder to provide public servants with themost current information about the stateof the art in responsible AI innovation. Thisupdate incorporates the delivery of interactiveworkbooks aimed to equip public sectorstakeholders with the practical tools and skillsneeded to bring the content of the originalguidance to life.56
+To ensure that citizens have confidence andtrust in how data is being processed andanalysed to derive insights, the CentralDigital and Data Office (CDDO) isconducting research with a view todeveloping a cross-government standardfor algorithmic transparency in line with thecommitment in the National Data Strategy.
+However, the assurance ecosystem iscurrently fragmented and there have beenseveral calls for better coordination, includingfrom the Committee on Standards in PublicLife and the Office for Statistics Regulation.The CDEI’s recently published review into biasin algorithmic decision-making also points tothe need for an ecosystem of industrystandards and professional services to helporganisations address algorithmic bias in theUK and beyond.
+The CDDO work is being conductedcollaboratively with leading organisations in AIand data ethics and it has been informed by arange of public engagement processes. Todate, no other country has developed astandard for algorithmic transparency at anational level. Proactive transparency in thisfield will be an extension of the UK’s longstanding open data and data ethicsleadership.
+What is Assurance?
+Assurance covers a number of governancemechanisms for third parties to develop trustin the compliance and risk of a system ororganisation. Assurance as a service drawsoriginally from the accounting profession, buthas since been adapted to cover many areassuch as cyber security, product safety, qualityand risk management.
+The Ministry of Defence is moving quicklyagainst a fast-evolving threat picture to securethe benefits of these transformativetechnologies. The Ministry of Defence hasrigorous codes of conduct and regulationwhich uphold responsible AI use, and isworking closely with the widergovernment on approaches to ensureclear alignment with the values and normsof the society we represent.
+Playing this crucial role in the developmentand deployment of AI, assurance is likely tobecome a significant economic activity in itsown right and is an area in which the UK, withparticular strengths in legal and professionalservices, has the potential to excel.
+In these areas, mature ecosystems ofassurance products and services enablepeople to understand whether systems aretrustworthy and direct their trust or distrustappropriately. These products and servicesinclude: process and technical standards;repeatable audits; impact assessments;certification schemes; advisory and trainingservices.
+To support the development of a matureAI assurance ecosystem, the CDEI ispublishing an AI assurance roadmap. Thisroadmap clarifies the set of activities neededto build a mature assurance ecosystem andidentifies the roles and responsibilities ofdifferent stakeholders across these activities.
+As the CDEI conducts its ongoing work toaddress bias in algorithmic decision-making,the Commission on Race and EthnicDisparities recommended that a mandatorytransparency obligation be placed on allpublic sector organisations applyingalgorithms that have an impact on significant
+58
+59
+[Page #31]
+Pillar 3: Governing AI effectively
+National AI Strategy
+Pillar 3 - Governing AI Effectively
+Actions:
+1. Develop a pro-innovation national position on governing and regulating AI, which will be set out
+in a White Paper, to be published in early 2022.
+2. Publish the CDEI assurance roadmap and use this to continue work to develop a mature AI
+AI risk, safety, and long-termdevelopment
+assurance ecosystem in the UK.
+well as using powers through the NationalSecurity & Investment Act to mitigate risksarising from a small number of potentiallyconcerning actors. At a strategic level, theNational Resilience Strategy will review ourapproach to emerging technologies; theMinistry of Defence will set out the details ofthe approaches by which Defence AI isdeveloped and used; the National AI R&IProgramme’s emphasis on AI theory willsupport safety; and central government willwork with the national security apparatus toconsider narrow and more general AI as a top-level security issue.
+3. Pilot an AI Standards Hub to coordinate UK engagement in AI standardisation globally, and
+explore with stakeholders the development of an AI standards engagement toolkit to support theAI ecosystem to engage in the global AI standardisation landscape.
+The government takes the long term risk ofnon-aligned Artificial General Intelligence, andthe unforeseeable changes that it wouldmean for the UK and the world, seriously.
+4. Continue our engagement to help shape international frameworks, and international norms andstandards for governing AI, to reflect human rights, democratic principles, and the rule of law onthe international stage.
+There are also risks, safety and nationalsecurity concerns that must be consideredhere and now - from deepfakes and targetedmisinformation from authoritarian regimes, tosophisticated attacks on consumers or criticalinfrastructure. As AI becomes increasinglyubiquitous, it has the potential to bring risksinto everyday life, into businesses and intonational security and defence. So as AIbecomes more general and is simply used inmore domains, we must maintain a broadperspective on implications and threats, withthe tools to understand its most subtleimpacts, and ensure the UK is protected frombad actors using AI, as well as risks inherent inunsafe future versions of the technology itself.
+5. Support the continuing development of new capabilities around trustworthiness, acceptability,
+adoptability, and transparency of AI technologies via the national AI Research and InnovationProgramme.
+6. Publish details of the approaches which the Ministry of Defence will use when adopting and using
+AI.
+7. Develop a cross-government standard for algorithmic transparency.
+8. Work with The Alan Turing Institute to update the guidance on AI ethics and safety in the public
+sector.
+9. Coordinate cross-government processes to accurately assess long term AI safety and risks, which
+will include activities such as evaluating technical expertise in government and the value ofresearch infrastructure.
+The Office for AI will coordinate cross-government processes to accuratelyassess long term AI safety and risks, whichwill include activities such as evaluatingtechnical expertise in government and thevalue of research infrastructure. Given thespeed at which AI developments areimpacting our world, it is also critical that thegovernment takes a more precise and timelyapproach to monitoring progress on AI, andthe government will work to do so.
+10. Work with national security, defence, and leading researchers to understand how to anticipate
+and prevent catastrophic risks.
+The government will support the safe andethical development of these technologies as
+60
+61
+[Page #32]
+National AI Strategy
+Next steps
+The National AI Strategy proposes three corepillars which, taken together, are areas the UKcan make the biggest impact to set thecountry on its way to being an AI and sciencesuperpower fit for the coming decade.
+The government’s AI Council, an independentexpert group formed to represent high-levelleadership of the UK’s AI ecosystem, hasplayed a key role in reaching a National AIStrategy and informing its direction. As wemove into an implementation phase, the AICouncil will continue to help galvanise actionfrom across the ecosystem in fulfilling ourobjectives and holding the government toaccount on the actions contained in thestrategy. The recently established Office forScience and Technology Strategy, NationalScience and Technology Council and NationalTechnology Adviser will work with the rest ofgovernment to drive forward Whitehall’sscience and technology priorities from thecentre. As a part of this, we will collectivelyidentify the technological capabilities requiredin the UK and in the government to deliverthe Prime Minister’s global sciencesuperpower ambitions through AI.
+By their nature, strategies are a response tothe moment in which they exist - furtheractions will also be required to elaborate onthe paths set out in this document in a waythat responds to the fast-changing landscapein the years to come. A plan to executeagainst the vision set out in this strategy willbe published in the near future. Alongsidethis, we will put mechanisms in place tomonitor and assess progress.
+We will publish a set of quantitative indicators,given the far-ranging and hard-to-defineimpacts AI will have on the economy andsociety. We will publish these indicatorsseparately to this document and at regularintervals to provide transparency on ourprogress and to hold ourselves to account.Given the cross-cutting nature of AI,collaboration across a wide range of sectorsand stakeholders will be paramount. TheOffice for AI will be responsible for overalldelivery of the strategy, monitoring progressand enabling its implementation acrossgovernment, industry, academia and civilsociety.
+We will also continue talking with the widercommunity to get their feedback on AI in theUK. Taken together, this quantitative analysisand qualitative intelligence will enable us totrack progress and course-correct if we are atrisk of falling short in any particular area.
+62
+63
+[Page #33]
+National AI Strategy
+Published in September 2021by the Office for Artificial Intelligence
+© Crown copyright 2021
+This publication is licensed under the terms of the Open Government Licencev3.0 except where otherwise stated. To view this licence,visit: nationalarchives.gov.uk/doc/open-government-licence/version/3
+Where we have identified any third party copyright information you will need toobtain permission from the copyright holders concerned.
+ISBN 978-1-5286-2894-5
+E02674508 09/21
+This publication is available at www.gov.uk/official-documentsAny enquiries regarding this publication should be sent to:enquiries@dcms.gov.uk
+64
+65
+[Page #34]
+Any enquiries regarding this publicationshould be sent to: enquiries@dcms.gov.uk
+ISBN 978-1-5286-2894-5
+E02674508 09/21
+Published in September 2021by the Office for Artificial Intelligence
+© Crown copyright 2021

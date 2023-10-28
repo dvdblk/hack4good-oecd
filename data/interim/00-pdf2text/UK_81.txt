@@ -1,0 +1,920 @@
+[Page #0]
+Green Jobs  & Skills Plan2022
+[Page #1]
+CONTENTS 
+Summary 
+ii 
+1. 
+Introduction ....................................................................................................... 1 
+1.1. 
+1 
+Transition to a low carbon economy in Liverpool City Region 
+2. 
+Demand for Low Carbon Skills ......................................................................... 3 
+2.1. 2.2. 2.3. 
+3 6 
+Low carbon sectors in the UK and LCR Just Transition of the labour market in LCR Labour and skill requirements of major low carbon investment projects in LCR 
+10 
+3. 
+Supply of Labour to the LCR Low Carbon Sector ........................................... 25 
+3.1. 3.2. 3.3. 
+25 29 31 
+New entrants into the low carbon sector Supply of low-carbon skills Can supply meet expected demand? 
+4. 
+Low Carbon Skills Priorities ............................................................................ 32 
+i 
+[Page #2]
+SUMMARY 
+Introduction 
+1. 
+A Climate Emergency was declared by the Liverpool City Region Combined Authority (LCRCA) in June 2019, with the objective that LCR should become net zero carbon by 2040.  The LCR Pathway to Net Zero, published in January 2022, sets a clear series of actions that will require immediate action in order to  meet  this  objective  by  2040  or  sooner.  This  also  aligns  to  the  LCR  zero avoidable  waste  target  for  2040.  LCRCA  have  set  down  Guiding  Principles that will shape an action plan for how this will be achieved: •  achieve  shared  prosperity  whilst  reducing  consumption  of  energy  and 
+resources; 
+•  ensure the resilience of places and citizens to climate change;  •  use  our  geographic  location  and  our  industrial  and  maritime  legacies  to 
+create a new future;  
+•  change our economy without leaving anyone behind; and  • 
+lead and be brave to be at the forefront of change.  
+Our  vision  is  for  a  globally  competitive,  environmentally responsible  and  socially  inclusive  economy.  As  we  emerge from the Covid-19 pandemic, there can be no return to business as usual or the old way of doing things. 
+2. 
+Improving and renewing skills are essential to ensure that LCR residents are best-placed to realise the full benefit of the investments required to be made in achieving the net zero target.  This Low Carbon Skills for Growth Action Plan sets out the key priorities for LCR partners to put in place to provide the LCR skills are ready for the needs of the low carbon economy. Demand and Supply of low carbon skills in LCR 
+3. 
+Liverpool City Region Plan for Prosperity, published in March 2022, sets out the long-term economic and place-based strategy for the City Region over the next  decade  that  emphasises  the  importance  of  an  inclusive  economy  and improving the prosperity including health and wellbeing and quality of life for the  City  Region’s  residents.    In  this  strategic  context  it  is  essential  that  this Action Plan considers not only the skills for the expanding low carbon sectors but  also  actions  to  ensure  a  just  transition  for  those  who  currently  work  in carbon-intensive  industries,  with  45%  of  carbon  emissions  are  from  making and use of products, materials, food (Ellen MacArthur Foundation). 
+4. 
+Estimates vary but around a fifth of UK jobs (21%) would be affected by the transition to a green economy.  The character of the skills change demanded by a Green recovery fall into three broad types: •  Behaviour  changes:  all  jobs  will  require  higher  levels  of  environmental awareness  and  simple  adaptations  to  work  procedures,  with  new  skills developed on the job or through short training programmes, including the need  for  greater  zero  waste  awareness  and  education  across  residents and the workforce to reduce waste. Everyone generates waste daily and has opportunities to reduce this including in their jobs. This is reflected in the LCR Zero Waste Strategic Framework and www.zerowastelcr.com. •  Adapted Skills: augmenting or updating existing skillsets to take account of new technology, regulations or market demands for sustainable goods and services  
+ii 
+[Page #3]
+Summary 
+•  Specialist  skills:  significant  changes  to  existing  professional  skillsets  or application  of  new  knowledge  related  to  climate  change.  Skills  will  be developed  through  technical  pathways  such  as  apprenticeships  and  in-depth  training  at  undergraduate  and  postgraduate  level  and  be  closely connected with industry practice, such as in battery technologies, chemical processes in waste, hydrogen and materials development for insulation etc  
+5. 
+Recent analysis by the Place-based Climate Action Network (PCAN) provides some insight into the scale of transition required across local authority areas in the UK.  According to this analysis LCR has a slightly lower proportion of jobs requiring upskilling but also possesses fewer jobs in higher demand than other  Combined  Authority  areas.    Around  65,000  jobs  will  require  upskilling and  63,000  jobs  will  be  in  higher  demand  in  LCR.    Across  LCR  at  local authority level there is more variation with a greater proportion of jobs affected by the transition in Halton, Knowsley and St Helens, reflecting the location of higher carbon industries. 
+6. 
+The Net Zero North West Economic Investment Prospectus details a range of flagship investments that  will  place  the  NW  and LCR  at  the forefront  of  low carbon power generation technologies tidal, hydrogen generation and storage and carbon capture technologies to add to its existing presence in wind power.  Assuming that investment funds are available, the development timetable for the sixteen projects results in a steep increase in related employment in the North  West  to  2030  –  from  around  10,000  in  2022  to  over  35,000  in  2030 before increasing to around 55,000 in 2040.  LCR’s share of this employment is around 21% or just over 141,000 jobs in total. 
+7. 
+Discussions  with  stakeholders  have  highlighted  that  the  required  skills  and how they relate to existing job roles and skills are complex and dynamic.  While some sub-sectors provide a clear statement of what qualifications are required (e.g. PAS2035 for retrofit skills), this is by no means universal.  A key part of these  skill  progression  is  the  practical  experience  gained  in  delivering  low carbon activities.  As the market for these services expands, this will help open up progression to higher level skills across the sector.   
+8. 
+The timing of when these low carbon opportunities will arise is closely related to  the  pace  of  investment  and  growth  in  demand  both  of  which  remain uncertain.  Currently, there is only limited appetite among low carbon sectors to invest in such skills in advance of demand.  In these circumstances, it will be important for LCR partners to share information on skills and employment opportunities,  how  they  relate  and  the  key  qualifications  that  may  provide access to such job opportunities. 
+9. 
+Stakeholders  also  pointed  to  long-standing  structural  issues  with  some  low carbon occupations: •  Limited attractiveness to young people, especially women and BAME •  Highly  fragmented  sub-contracting  structure  leading  to  instability  and short-termism  and linked  to  a  lack  of  investment in new  technology  and poor  workforce  development  track  record  for  new  recruits  and  existing workforce. 
+•  Ageing workforce and loss of experience and the loss of EU-migrant skilled labour  during  the  pandemic  all  mean  that  recruitment  into  construction skilled trades need to increase significantly to just fill these gaps.  
+iii 
+[Page #4]
+Summary 
+10. 
+The availability of scientific, technical, engineering and mathematical (STEM) skills  and  qualifications  are  essential  for  businesses  in  the  Low  Carbon economy.  National  studies  indicate  a  growing  concern  among  employers about the shortage of new technicians and engineers being trained to replace existing workers due for retirement over the next decade.  A third of current employees  in  the  sector  are  over  50  and  over  half  fall  into  the  25-49  age bracket.  An increasing proportion of over 50s in working in construction has been evident since 2012-13 and had pretty much doubled by 2019-20. 
+11. 
+While the increase young people over the next decade will go some way to addressing this need, in fact it will be largely taken up by replacing experienced workers retiring from low carbon sectors and the total working age population will increase only marginally.  This, in turn suggests that LCR will need to more with  the  existing  resources  it  has  to  hand  –  more  females,  more  BAME employees and more people with STEM qualifications will need to be attracted and  retained  in  the  low  carbon  sectors  to  get  close  to  satisfying  the  major employment opportunities presented by these low carbon developments. 
+12. 
+Taken, together these factors suggest that LCR partners need a broad range of actions that: •  Engage  the  whole  workforce  to  increase  awareness  of  the  impending 
+changes and improve climate literacy in general; 
+•  Focuses  on  increasing  the  pipeline  of  talent  with  the  underpinning technical skills required by many low carbon occupations – STEM skills, engineering  and  electrician  and  heating  engineering  skills  –  in  order  to provide a basis for more specialist low carbon skills; and 
+•  Recognises  that  there  is  a  need  to  diversify  the  talent  opting  for  these occupations particularly from women and people from ethnic minorities. 
+LCR Low carbon skills priorities The low carbon sector in Liverpool City Region is diverse and dynamic with a clear growth trajectory over the past decade and a strong investment potential over  the  next  decade.    The  low  carbon  sector  brings  together  a  number  of specialist  technical  and  craft  skills  with  low  carbon  technologies  that  are evolving alongside industry and building standards regulation and government policy.  This does make for a dynamic demand for low carbon skills often with very specialised qualifications.   
+13. 
+14. 
+LCR partners have developed a detailed insight into low carbon industries and existing relationships with learning providers and employer networks.  Building on these relationships will be vital to stay abreast of developments and ensure that skills investment can occur sufficiently in advance of the proposed large scale investment in low carbon sectors. 
+15. 
+This suggests that the public sector should seek to prioritise on building up the pipeline of craft and technical skills.  This should involve: 
+•  Reinforcing  the  existing  promotion  of  STEM  skills  and  closely  linked  to engineering-related  craft  and  undergraduate  courses.    LCR  along  with England  are  entering  a  decade  where  the  number  of  18-  year  olds  will increase by more than a quarter and numeracy and analytical skills will be at a premium across the labour market. 
+iv 
+[Page #5]
+Summary 
+•  Careers  IAG  highlighting  the  many  roles  associated  with  low  carbon technologies  across  engineering  and  construction  and  related  skills.  Promotion of such career opportunities to women is essential to overcome highly gendered roles and ensure access to a wider pool of talent.   
+•  Female-friendly delivery has been trailed by some LCR providers but this needs  to  implemented  at  scale  including  additional  care  support  for dependents and female only courses. 
+•  Although  there  have  been  no  firm  announcements  it  seems  likely  that Government policy on higher technical qualifications will place a premium on FE and HE collaboration at Level 4, Level 5 and better progression to Level 6.  Improved coherence and co-ordination between LCR FE colleges and HEIs presents an ideal opportunity to: 
+o 
+Improve clarity on the learning offer and explore best route to deliver  such  courses  to  learners  most  often  already  in employment; 
+o  Develop  modular  courses  that  might  attract  funding  from employers  (apprenticeship levy  allocation),  directly levy/ funded,  employee  funded  through  lifelong  loan  entitlement.  Improved offer of Level 4 and 5 modules specific to low carbon sectors  e.g.  offshore  engineering  will  provide  bite-sized  and sector-focused progression; 
+o  Both  of  these  need  a  strong  employer  involvement  to  help ensure investment is in the precise skills required and keep up with  industry  practice  and  equipment.    Digital  practice  and knowledge is essential to keep abreast of new techniques; o  Ensure  that  HE  credits  learning  at  Level  3  to  help  improve access  to  higher  technical  qualifications  for  those  on  work-based learning;   
+o  Work with other agencies engaged with low carbon businesses (e.g.  MCS  certified)  to  develop  workforce  development  offer beyond base PAS 2035; 
+o  Encourage  larger  firms  could  to  invest  in  supply  chain development  to  ensure  continued  improvement  in  quality standards; and 
+o  Provide transition training – an issue here is focusing on people impacted by Covid-19 and seeking to re-train and the visibility of  low  carbon  roles  to  this  group.    Project  management  and customer service skills are potential skills of interest in a range of  low  carbon  roles.    Stakeholder  networks  already  possess expertise  in  re-training  aerospace  engineers  into  marine engineers. 
+•  There  is  a  need to  shape demand  in  sub-sectors  where  sectors  are  still awaiting  standards  e.g.  external  wall  insulation  (EWI).    Liverpool  John Moores  University  are  engaging  with  social  housing  providers  to  collate their individual demand so that there is sufficient scale of EWI activity to achieve some economies of scale.  These networks could also be used to help drive skills development in specialist skills at a scale that would make such courses viable for training providers. 
+v 
+[Page #6]
+Summary 
+•  There is a need to implement a climate literacy programme especially in sectors  where  the  introduction  of  low  carbon  technologies  will  require greater  precision  and  quality  standards  than  may  be  traditional  e.g. groundwork  preparations  for  offsite  construction  etc.    LCR  is  already developing  a  climate  engagement  strategy  but  this  needs  to  build  on practice  elsewhere  (e.g.  Germany)  where  the  focus  is  on  low  carbon technologies  will  change  job  roles.    One  option  here  is  to  engage individuals  through  Trade  Unions  as  well  as  employers  to  highlight  the positive potential of career development in low carbon sectors. 
+•  The  Net  Zero  Carbon  Pathway  steps  be  taken  to  improve  waste management and develop a circular economy in LCR.  This will have skills implications, including skills for industrialisation of reuse and development of a reuse and repair culture across LCR communities.  Further work will be  required  to  engage  more  circular  economy  approaches  in  product design  and  deepen  the  recovery  of  expensive  materials  through  ‘urban mining’ (such as nickel, cobalt and lithium from smart phones etc.) for re-use  in  products  as  an  alternative  to  traditional  sources  from  mining extraction. 
+•  The  LCR  Pathway  to  Net  Zero  report  highlights  the  increasing  role  that natural capital will play in achieving net zero in maintaining and developing biodiversity.    The  forthcoming Environment  Bill  which  may  come in next year  with  requirements  that  all  built  environment  developments  have  to demonstrate  biodiversity  net  gain.    LCR  partners  will  need  to  plan  for greater demand for ecological maintenance and skills in maintaining and developing  biodiversity  sites  both  for  biodiversity  and  carbon  capture across both ‘green’ and ‘blue’ environments in the City Region. 
+Although not directly a skills requirement, there is a broader need for all LCR businesses and particularly SMEs to understand what they will need to do to decarbonise and the role low carbon skills could play in supporting this transition.  This will require LCR partners to bring together business advice and skills support to improve businesses’ understanding of: 
+• 
+their carbon footprint and practical steps to reduce it; regulations  and  new  requirements  coming  through  in  social (and environmental) value in procurement; and 
+• • 
+•  ESG  (Environmental,  Social  and  Corporate  Governance) principles starting feeding down from the larger business and how they can plan for this. 
+vi 
+[Page #7]
+1. 
+INTRODUCTION 
+1.1. 
+Transition to a low carbon economy in Liverpool City Region 
+1.1.1. 
+A Climate Emergency was declared by the Liverpool City Region Combined Authority (LCRCA) in June 2019, with the objective that LCR should become net  zero  carbon  by  2040.    This  ambition  has  been  reinforced  by  LCR’s Pathway to Net Zero 20401 which sets a target of 2040 or sooner.  This target is at least a decade in advance of the UK Government commitment to achieve net zero by 2050.  The Pathway to Net Zero sets a clear ambition that requires immediate  action  in  order  to  meet  this  objective.    LCRCA  have  set  down Guiding Principles2 that will shape an action plan for how this will be achieved: •  achieve  shared  prosperity  whilst  reducing  consumption  of  energy  and 
+resources;  
+•  ensure the resilience of places and citizens to climate change;  •  use  our  geographic  location  and  our  industrial  and  maritime  legacies  to 
+create a new future;  
+•  change our economy without leaving anyone behind; and • 
+lead and be brave to be at the forefront of change.  
+Our  vision  is  for  a  globally  competitive,  environmentally responsible  and  socially  inclusive  economy.  As  we  emerge from the Covid-19 pandemic, there can be no return to business as usual or the old way of doing things. 
+1.1.2. 
+Improving and renewing skills are essential to ensure that LCR residents are best-placed to realise the full benefit of the investments in the net zero target.  This Low Carbon Skills for Growth Action Plan sets out the key priorities for LCR partners to put in place to provide the LCR skills are ready for the needs of the low carbon economy, ensuring that: •  support  is  available  for  new  and  emerging  areas  of  green  skills requirements, in line with technical innovations, in particular, how energy is produced, used and stored;  
+•  support  recognises  that  most  workers  in  2040  are  already  in  the  LCR 
+workforce, and will require the adaptation of existing skillsets;  
+•  a wider and more diverse group of young people are engaged in the low carbon economy as their skills will be required by the sector and in return it will provide employment opportunities for many years into the future; and •  partnership working between government, business, education and skills providers and workforces is central to developing green skills to extract the full potential of the LCR low carbon economy. 
+1.1.3. 
+While the climate emergency is a defining challenge, it is taking place at the same time as employment and skills are being reshaped by digitalisation and the automation of work tasks.  The Covid-19 pandemic has accelerated some aspects of these forces on the economy and skills.  These disruptive forces complicate potential public policy responses and add to the number of people who may need to improve and refocus their skills from declining or high carbon sectors of employment.  LCR’s strong track record in partnership working will 
+1  
+Liverpool City Region Pathway to Net Zero: Our Ambition to reach net zero carbon, January 2022 2040 Climate Action Plan Guiding Principles 
+2  
+1 
+[Page #8]
+Introduction 
+be essential to respond flexibly as these forces impact on the scale and nature of low carbon employment and skills.   
+2 
+[Page #9]
+2. 
+DEMAND FOR LOW CARBON SKILLS 
+2.1. 
+Low carbon sectors in the UK and LCR 
+2.1.1. 
+The UK Government has focused on promoting innovation for ‘clean growth’, challenging  businesses  to  innovate  and  improve  and  their  competitiveness within  international  markets.    The  Government’s  Ten  Point  Plan  sets  out  a £12bn  public  investment  programme  with  as  much  as  three  times  as much from the private sector across the low carbon economy that will support 90,000 jobs across the UK to 2024 and 250,000 by 20303.   
+2.1.2. 
+Investing  in  low  carbon  and  the  renewable  energy  economy  will  not  only support  a  path  to  net  zero  for  the  UK  and  LCR  but  also  offer  a  significant market  for  low  carbon  goods  and  services.    Worldwide  investment  in  zero-carbon technologies in electricity systems will be over $11 trillion4.  
+2.1.3. 
+The UK is well positioned to exploit the opportunities of growing international markets, with world leading expertise in nuclear and green energy production, in  advanced  manufacturing  and  engineering,  materials  science  and professional services such as law, finance and data services. The ONS Low Carbon  and  Renewable  Energy  Economy  Survey  (LCREE)5  shows  that  in 2019  the  sector  generated  some  £42.6  billion  in  turnover  and  employed  an estimated 202,100 FTE employees in the UK earning over £7 billion in exports.  Manufacturing, energy supply and construction sectors accounted for 82% of all UK LCREE turnover in 2019, and 74% of all employment. 
+2.1.4. 
+However, the LCREE sector growth has stalled with no significant change in the  size  of  the  UK  sector  since  2014,  although  larger  firms  (more  than  250 employees) have increased their turnover and employment.  There has been no detailed analysis of why the LCREE has demonstrated little progress over this  period  but  some  commentators  have  pointed  to  the  general  decline  in capital investment in the UK economy relating to the uncertainty over the Brexit process6. 
+3  
+Ten  Point  Plan  for  a  Green  Industrial  Revolution,  Building  back  better,  supporting green jobs and accelerating our path to net zero, HMG, November 2020. https://about.bnef.com/new-energy-outlook/  https://www.ons.gov.uk/economy/environmentalaccounts/bulletins/finalestimates/2019#low-carbon-and-renewable-energy-economy-data The scale of the LCREE survey and self-reported nature of the evidence base means that it is prudent to exercise some caution in interpreting year-on-year changes.  That said even taking into account the confidence intervals, there is no clear progression in the size of the sector 2014-19. 
+4  5  
+6  
+3 
+[Page #10]
+Demand for Low Carbon Skills 
+LCREE FTE Employment in LCREE sectors in England 
+Source: Low Carbon and Renewable Energy Economy (LCREE) survey estimates, UK, 2014 to 2019  
+2.1.5. 
+Although we cannot match this survey result for LCR, other statistics using a different  definition  of  the  low  carbon  sector7  suggests  that  in  LCR  the  low carbon sector has grown significantly over the same period (at almost three times the rate of LCR economy as a whole).  On this definition, LCR had almost 32,000  people  in  employment  in  Low  carbon  Economy  activities in  2019  an increase of over 5,000 since 2015. 
+Employment Percentage Change in Low Carbon Economy Activities, 
+LCR Region 2015 – 2019 
+Source: Source: ONS BRES, 2019 
+2.1.6. 
+The number of firms in the low carbon economy has also increased between 2015  and  2020,  but  almost  all  of  this  growth  has  been  among  micro-
+7  
+LCR low carbon sector definition derived by Oxford Economic Forecasts for their LCR employment forecasting model. 
+4 
+[Page #11]
+Demand for Low Carbon Skills 
+businesses  (0-9  employees).    The  largest  growth  has  been  in  energy production and distribution and construction sectors.  This suggests the low carbon sector is a more dynamic economy, but from a skills perspective, small firms are often much more difficult to engage in formal training programmes.  
+Enterprise Change in Low Carbon Economy Activities, LCR 2015 – 2020 
+Source: ONS UK Business Counts by industry and employment, LCR 2020 
+2.1.7. 
+The occupational structure of the low carbon economy sector has remained relatively stable over the past decade but with an increase in managers and professional occupations (in line with structural shifts in the wider economy) and a reduction in administrative occupations.   
+Low Carbon Economy Sector Occupational Profile, Liverpool City 
+Region 
+Source: ONS Annual Population Survey (workplace), Liverpool City Region 
+2.1.8. 
+In achieving Net Zero targets it is also important to recognise that a number of high-carbon  producing  sectors  will  need to  undergo transition to  low-carbon 
+5 
+[Page #12]
+Demand for Low Carbon Skills 
+production methods, currently available estimates for the scale of the labour market impact of these transitions are set out in the next section. 
+2.1.9. 
+It  is  also  important  to  recognise  that  the  low  carbon  economy  is  not  just focused  on  the  built  environment.  The  LCR’s  Pathway  to  Net  Zero  20408 makes clear that shift to net zero includes the development of natural capital in the City Region and in particular how to maintain and develop biodiversity sites  both  for  biodiversity  and  carbon  capture  and  these  will  also  require additional employment and specialist skills.   
+2.2. 
+Just Transition of the labour market in LCR 
+Liverpool  City  Region  Plan  for  Prosperity9  sets  out  the  long-term  economic and place-based strategy for the City Region over the next decade.  The Plan for Prosperity emphasises the importance of an inclusive economy; the need, and  opportunity  of  the  net  zero  carbon  agenda;  and  the  wider  meaning  of prosperity  to  include  health  and  wellbeing  and  quality  of  life  for  the  City Region’s residents.  In this strategic context it is essential that this Action Plan considers  not  only  the  skills  for  the  expanding  low  carbon  sectors  but  also actions  to  ensure  a  just  transition  for  those  who  currently  work  in  carbon-intensive industries. 
+2.2.1. 
+2.2.2. 
+Estimates vary but around a fifth of UK jobs (21%) would be affected by the transition to a green economy.  The character of the skills change demanded by a Green recovery fall into three broad types10: •  Behaviour  changes:  all  jobs  will  require  higher  levels  of  environmental awareness  and  simple  adaptations  to  work  procedures,  with  new  skills developed on the job or through short training programmes; 
+•  Adapted Skills: augmenting or updating existing skillsets to take account of new technology, regulations or market demands for sustainable goods and services; and  
+•  Specialist  skills:  significant  changes  to  existing  professional  skillsets  or application  of  new  knowledge  related  to  climate  change.  Skills  will  be developed  through  technical  pathways  such  as  apprenticeships  and  in-depth  training  at  undergraduate  and  postgraduate  level  and  be  closely connected with industry practice, such as in battery technologies, chemical processes in waste, hydrogen and materials development for insulation etc  
+2.2.3. 
+Logistical and customer service skills will need to support growth of sharing and re-distribution circular economy business models. In construction a clear focus on the reuse of buildings, reuse of materials will contribute to not only net zero waste, but also net zero carbon. Upskilling and focus on moving to a less wasteful and more sustainable LCR food system across food production, home / local growing, logistics, consumer interfaces, restaurants, hospitality, home/community composting, anaerobic digestion will similarly support LCR ambitions. 
+8  
+Liverpool City Region Pathway to Net Zero: Our Ambition to reach net zero carbon, January 2022 Draft Liverpool City Region Plan for Prosperity, January 2022. Cambridge Policy Consultants (2020) Climate Emergency Evidence Base for a Skills Action Plan, June 2020.  
+9  10  
+6 
+[Page #13]
+Demand for Low Carbon Skills 
+2.2.4. 
+The Resources and Waste Strategy, Environment Act 2021 and the decade of change  towards  Extended  Producer  Responsibility,  will  require  a  focus  and skills to support resource efficient products, reuse and repair (right to repair), product  design  for  easy  reuse  /  recycling.  This  will  require  significant  skills initiatives  e.g.  advanced to  specific  LCR link expansion  and  can manufacturing, national packaging innovation centre. 
+Recent  analysis  by  the  Place-based  Climate  Action  Network11  (PCAN) provides some insight into the scale of transition required across local authority areas  in  the  UK.    The  labour  market  in  each  area  is  classified  into  three categories: 
+2.2.5. 
+Jobs requiring upskilling 
+These are existing jobs that require significant changes in skills, and knowledge. These include specialised jobs in the manufacturing and extractive sectors whose skills need to be adapted to a economy, as such petroleum engineers and heavy equipment operators. These are existing positions that are expected to be in high demand due to their important role in the net-zero economy. These include specialised positions in the green economy, such as wind turbine installers, but also the skills and expertise of welders, builders, engineers already working to building the infrastructure of a green economy.   Not explicitly defined by the authors but taken to be equivalent to the behaviour change group above. 
+Jobs in demand 
+Jobs not significantly affected by transition 
+2.2.6. 
+According to this analysis LCR has a slightly lower proportion of jobs requiring upskilling  but  also  possesses  fewer  jobs  in  higher  demand  than  other Combined  Authority  areas.    Around  65,000  jobs  will  require  upskilling  and 63,000 jobs will be in higher demand in LCR. 
+PCAN Just Transition local employment: Combined Authorities 
+Jobs requiring upskilling 
+Jobs not significantly affected by the transition 
+Jobs in demand 
+Combined authorities 
+Greater Manchester 
+11.0% 
+10.5% 
+78.5% 
+Sheffield City Region 
+10.5% 
+10.9% 
+78.6% 
+West Yorkshire 
+10.9% 
+11.2% 
+77.9% 
+Liverpool City Region 
+9.9% 
+9.7% 
+80.4% 
+Tees Valley 
+10.2% 
+10.3% 
+79.6% 
+West Midlands 
+10.9% 
+11.0% 
+78.2% 
+Cambridgeshire and Peterborough 
+10.7% 
+10.6% 
+78.7% 
+West of England 
+10.4% 
+10.0% 
+79.6% 
+North East 
+10.8% 
+11.6% 
+77.6% 
+North of Tyne 
+9.1% 
+8.9% 
+82.0% 
+Source: PCAN Just Transition Jobs Tracker 
+11  
+Robins,  N.,  Gouldson,  A.,  Irwin,  W.  and  Sudmant,  A.,  2019.  Investing  in  a  just transition  in  the  UK  How  investors  can  integrate  social  impact  and  place-based financing  into  climate  strategies.  London  School  of  Economics.  Available  from <https://www.lse.ac.uk/GranthamInstitute/wp-content/uploads/2019/01/Investing-in-a-just-transition-in-the-UK.pdf> 
+7 
+[Page #14]
+Demand for Low Carbon Skills 
+2.2.7. 
+Across  LCR  at  local  authority  level  there  is  more  variation  with  a  greater proportion of jobs affected by the transition in Halton, Knowsley and St Helens, reflecting the location of higher carbon industries. 
+PCAN Just Transition local employment: LCR Local Authorities Jobs not significantly affected by the transition 
+Jobs requiring upskilling 
+Jobs in demand 
+Knowsley 
+11.2% 
+12.6% 
+76.2% 
+Liverpool 
+8.8% 
+8.0% 
+83.2% 
+Halton 
+12.8% 
+12.9% 
+74.3% 
+Sefton 
+9.2% 
+8.8% 
+82.0% 
+St. Helens 
+11.8% 
+11.3% 
+76.9% 
+Wirral 
+9.2% 
+9.3% 
+81.5% 
+Source: PCAN Just Transition Jobs Tracker 
+8 
+[Page #15]
+Demand for Low Carbon Skills 
+Skills progression maps Building commissioning professional 
+Building scientist 
+Energy Engineer 
+Senior Operations Manager 
+Chief Engineer 
+Building Performance Contractor (Commercial) 
+Mechanical, Electrical, Plumbing (MEP) Contractor (with Green expertise) Commercial Construction Manager (with green building expertise) 
+Building/ Home Performance Contractor 
+HVAC Contractor with heat pump design expertise 
+Energy Efficient Program Director 
+Advanced 
+Mechanical engineer 
+Registered Architect 
+Architectural Engineer 
+Facilities Manager 
+Energy Manager 
+Commercial Building Code Official (with green building expertise) 
+Residential Building Code Official (with green building expertise) Multifamily Quality Control Inspector Quality Control Inspector 
+Lighting designer 
+Heat Pump System Design Engineer 
+Building Engineer 
+Building Science Engineer 
+Sustainable Construction Supervisor/ LEED AP Commercial Lighting Auditor Insulation Journey person/ Mechanic 
+Indoor Environmental Health Specialist Commercial Energy Auditor 
+Sustainability specialist 
+Building operator 
+Building performance diagnostician Junior Engineer 
+Commercial Construction Foreman 
+Multifamily Energy Auditor Building Performance Crew Leader 
+Mid-level 
+Junior architect 
+Building automation systems technician 
+Product Sales Specialist 
+Healthy Home Evaluator 
+Certified home energy Rater/ Assessor/ Home Inspector Draftsperson 
+Real Estate Agent (with Green building expertise) 
+Real Estate Appraiser (with Green building expertise) 
+Residential Energy Auditor 
+Building maintenance technician 
+Energy efficiency sales representative Energy efficiency program Assistant 
+Entry 
+Building automation systems trainee Building maintenance worker 
+Insulation Apprentice 
+Insulation/ Air sealing technician 
+Energy efficiency Technician (Residential) 
+Energy efficiency technician (commercial) Commercial & Institutional Construction & Retrofitting 
+Building Performance Installer 
+Architecture, Engineering & Other Professional Services 
+Building Operations/Facility Management 
+Residential & Multifamily Construction & Retrofitting 
+Source: https://greenbuildingscareermap.org 
+9 
+[Page #16]
+Demand for Low Carbon Skills 
+2.2.8. 
+Some organisations in the city region have already set up re-training activities and this will need to be built upon.  Belcan have successfully re-trained over 200+ engineers from Aerospace into Marine in 2021 due to the downturn in Aerospace workload due to Covid-19. The process can be carried across for many Zero Carbon skills – three examples being:  •  Oil & Gas Engineers can be retrained for Hydrogen Storage and Creation;  •  Vehicle Mechanics can be re-trained to retrofit Diesel & Petrol vehicles into 
+EV & Hydrogen power trains; and  
+•  Bus/Truck  vehicle  design  engineers  can  be  retrained  to  understand  EV and  Hydrogen  safety  and  packaging  allowing  both  new  and  retrofit solutions.  
+2.2.9. 
+There  are  a  range  of  tools  being  produced  that  map  career  connections between different job roles in low carbon sectors such as the Green Building Career Map (see matrix of job roles in the above table), that can provide insight into additional skills and qualifications required to transition between job roles and  progress  careers.    A  key  part  of  these  progression  is  the  practical experience gained in delivering low carbon activities.  As the market for these services  expands,  this  will  help  open  up  progression  to  higher  level  skills across the sector. 
+2.2.10. 
+Discussions  with  stakeholders  have  highlighted  that  the  required  skills  and how they relate to existing job roles and skills are complex and dynamic and while some sub-sectors provide a clear statement of what qualifications are required  (e.g.  PAS2035  for  retrofit  skills),  this  is  by  no  means  universal.    A number felt that it was likely that these messages are not being communicated to young people through careers staff partly because of their complexity but also regulatory and technology changes make keeping track a challenge for all stakeholders.  Some accepted that while these employment opportunities were highly likely to arise, the exact timing of when they may be required is very uncertain.  It will be important for LCR partners to share information on skills and employment opportunities, how they relate and the key qualifications that may provide access to such job opportunities.  
+2.2.11.  While these estimates are in line with national expectations, they provide only limited insight into the likely future trajectory of LCR low carbon economy.  The next section considers the current investment plans in the low carbon economy and their employment and skills implications. 
+2.3. 
+Labour and skill requirements of major low carbon investment projects in LCR 
+2.3.1. 
+The North West has recently undertaken some detailed analysis of major low carbon investments12 in order to predict the scale of demand for low carbon skills.  These flagship investments will place the NW and LCR at the forefront of  a  range  low  carbon  power  generation  technologies  tidal,  hydrogen generation and storage, and carbon capture technologies to add to its existing presence  in  wind  power.    Moreover,  the  programme  of  investment  will  help existing  high  energy  using  sectors  transition  to  a  low  carbon  future  that  will sustain  employment  in  an  industrial  cluster  consisting  of  a  diversity  of industries  including  petrochemicals  and  alternative  fuels  production;  carbon capture,  chemical  manufacture  and  storage;  glass  manufacture; 
+12  
+Net Zero North West Economic Investment Prospectus, draft June 2021. 
+10 
+[Page #17]
+Demand for Low Carbon Skills 
+pharmaceuticals; and food processing and manufacture, with skills needed to support disassembly, re-manufacturing, and resource efficiency.  
+2.3.2. 
+These  investments  will  combine  with  initiatives  to  decarbonise  domestic homes and businesses to further reduce the carbon footprint.  We have taken these  estimates  of  employment  demand  as  a  basis  for  exploring  the implications  for  the  supply  of  green  skills  in  LCR.    Across  the  NW,  these initiatives will require investment of around £200bn and total employment of some  675,000  jobs  to  2040.    This  represents  a  substantial  investment programme (more than 16 times the scale of the Government’s 10 Point Plan to 2030). 
+2.3.3. 
+Nationally, there are a wide range of estimates of the potential employment opportunities across the green skills agenda.  However, many such estimates are  based  on  what  needs  to  be  done  to  meet  net  zero  targets13  and  not necessarily on the investment levels from individual households and industry and government required to fund the shift to low carbon.  While the scale of transition required may be relatively well-known, the pace at which this may occur is less certain. 
+2.3.4. 
+Discussions  with key  stakeholders  also highlighted  that the  demand  for  low carbon  skills  may  also  be  conditioned  by  other  factors  in  the  wider  labour market such as: •  Covid-19 Is likely to leave a legacy of sectoral change with potential long-term  structural  decline  in  Hospitality,  Travel  and  high  street  Retail  but growth in other sectors.  Low carbon skills interventions may be required to  re-balance the  supply  side  of  the  labour  market  with  a  more  detailed understanding  of  customer  service  and  other  skills  (e.g.  project management) that may be relevant in the green economy.  
+•  Closely related to the above, the increasing automation and digitalisation will  impact  on  many  job  roles  but  may  also  provide  an  opportunity  to challenge some widespread perceptions especially among young people of construction-related jobs. 
+2.3.5. 
+Stakeholders  also  pointed  to  long-standing  structural  issues  with  some  low carbon occupations: •  Limited attractiveness to young people, especially women and BAME; •  Highly  fragmented  sub-contracting  structure  leading  to  instability  and short-termism  and linked  to  a  lack  of  investment in new  technology  and poor  workforce  development  track  record  for  new  recruits  and  existing workforce; and 
+•  Ageing workforce and loss of experience and the loss of EU-migrant skilled labour  during  the  pandemic  all  mean  that  recruitment  into  construction skilled trades need to increase significantly to just fill these gaps.  
+2.3.6. 
+The NZNW analysis provides employment numbers for the major low carbon investment  projects  in  the  North  West  and  their  expected  employment requirements  to  2040.    Assuming  that  investment  funds  are  available,  the 
+13  
+The UK is on track to deliver the third legally binding target for 2018 to 2022 but is already forecast miss the fourth (2023-27) by 5.6% and the fifth (2028-32) by 9.6%.  House of Commons, Energy efficiency: building towards net zero, Business, Energy and  Industrial  Strategy  Committee,  Twenty-first  Report  of  Session  2017-19,  9  July 2019. 
+11 
+[Page #18]
+Demand for Low Carbon Skills 
+development timetable for the sixteen projects results in a steep increase in related employment in the North West to 2030 – from around 10,000 in 2022 to  over  35,000  in 2030 before  increasing  to  around 55,000  in 2040.   LCR’s share of this employment is around 21% or just over 141,000 jobs in total14. 
+Proposed investment (£m) and jobs created per annum 
+Source: Net Zero North West Economic Investment Prospectus, Siemens, 2021  
+NWNZ Decarbonisation Investment Projects Investment programme 
+CAPEX (£m) 
+Jobs secured/ created 
+1 - Decarbonising the North West’s industries through Carbon Capture and Storage  2 - Energy Efficiency and Low Carbon Heating for the Industrial and Commercial sectors 3 - Developing the Supply Chain with Process Efficiency and Consulting 4a Invest net zero Cheshire local LC Smart energy grid 4 - Building integrated Smart Energy systems that retain the value locally 5 - Teaching Decarbonisation Skills: Clean Energy and Low Carbon Manufacturing Academies 6 - Decarbonising the homes of the North West 7 - Public Sector assets leading the way on Decarbonisation 8 - Effective use of process resources: Heat and Decentralised Heat Networks 9 - Taking heat from the ground beneath our feet 
+£8,621 
+4% 
+1,450 
+0% 
+£1,433 
+1% 
+19,270 
+3% 
+£60 
+0% 
+10,000 
+1% 
+£85 
+0% 
+8,000 
+1% 
+£835 
+0% 
+78,569 
+12% 
+£2,218 
+1% 
+2,310 
+0% 
+£52,738 
+25% 
+204,550 
+30% 
+£2,284 
+1% 
+26,119 
+4% 
+£7,995 
+4% 
+53,300 
+8% 
+£1,980 
+1% 
+16,500 
+2% 
+14  
+It is not possible to disentangle an LCR timeline for the investment but we believe the employment  generated  towards  the  end  of  the  period  is  closely  associated  with nuclear energy project that represents just over a third of the total investment in NW, whereas the Mersey tidal barrage is toward the front of the investment pipeline and expected to be under construction in 2025/6 and operational in 2030. 
+12 
+[Page #19]
+Demand for Low Carbon Skills 
+Investment programme 
+CAPEX (£m) 
+Jobs secured/ created 
+10 - Community renewable energy schemes 11 - Innovating with Large-scale Tidal renewables 12 - Securing a clean energy baseload with new Nuclear Plants and SMRs 13 - Extending the reach of Wind renewables 14 - Large-scale Solar PV and Storage driving clean generation 15 - Generating Clean Hydrogen for the North West 15a - Hynet 16 - Driving forward transport with electricity and hydrogen 17 - Hydrogen and alternative fuels for larger distances 18 - Storing and Distributing Hydrogen economically Total programme 
+£510 
+0% 
+1,250 
+0% 
+£7,000 
+3% 
+5,000 
+1% 
+£70,172 
+34% 
+64,000 
+9% 
+£17,612 
+8% 
+50,549 
+7% 
+£3,873 
+2% 
+7,747 
+1% 
+£5,000 
+2% 
+5,177 
+1% 
+£900 £10,325 
+0% 5% 
+5,000 82,031 
+1% 12% 
+£9,562 
+5% 
+21,344 
+3% 
+£4,724 
+2% 
+14,724 
+2% 
+£207,927  100% 
+676,890  100% 
+The CITB’s forecast15 for all construction employment in the NW 2021 to 2025 is not directly comparable to the NZNW investment impacts (this forecast does not include employment in non-construction related sector such as operational staff etc).  The NW forecast is for a 4.5% annual average growth 2021-25 with 11.1% growth in 2021 as demand bounces back post-lockdown.  At NW level this would represent almost 12,000 new job opportunities across construction occupations or around 2,600 for LCR16.   
+2.3.7. 
+It  is  not  clear  which,  if  any,  of  the  above  NZNW  investments  have  been included  in  the  CITB  pipeline  analysis  (many  are  not  expected  to  start construction  until  after  the  CITB  forecast  period).    The  CITB  forecast  does however  provide  some  insight  into  the  job  roles  that  are  expected  to  be  in demand  2021-25.    The  table  below  identifies  all  those  construction occupations expected to increase by at least 5% to 2025.  Some occupations, such as Surveyors and Architects are expected to increase by more than 15%. 
+2.3.8. 
+CITB 2021-25 construction occupations with significant growth forecast Higher skill occupations 
+Surveyors, Architects, Construction professionals and technical staff, Civil engineers Construction trades supervisors, Building envelope specialists (cladding), Bricklayers, Civil engineering operatives, Electrical trades & installation Non-construction operatives 
+Mid-range skills 
+Lower level skills 
+Source: Construction Skills Network North West Report, Labour Market Intelligence Report, CITB Analysis and Forecasting, 2021 In most cases, the size of the occupations are such that the expected scale of increase is not that large but construction professional and technical staff will 
+2.3.9. 
+15  
+Construction  Skills  Network  North  West  Report,  Labour  Market  Intelligence  Report, CITB Analysis and Forecasting, 2021. ONS Annual Population Survey Jan – Dec 2020 total Construction employment in LCR is 22.06% of North West region total employment. 
+16  
+13 
+[Page #20]
+Demand for Low Carbon Skills 
+increase by 2,300 employees and Surveyors by a 1,000 across the NW.  We estimate that LCR requirement will be just over a fifth of these. 
+2.3.10. 
+Discussions  with  stakeholders  suggests,  that  in  the  short-medium  term  the most significant demand for low carbon sectors will be: •  Decarbonisation  of  homes  and  public  sector  assets  –  driven  by  public sector investment, collective action across social housing organisations to help improve the unit costs of external wall insulation by working at scale and increasing low carbon standards in new build17 
+•  The implementation of the Mersey Tidal project •  On-going maintenance and additional investment in offshore wind power •  Hynet  hydrogen  production  and  associated  hydrogen  transmission  and 
+storage projects •  Higher  demand 
+to  support  natural  capital developments  in  LCR  and  an  increasing  focus  on  improving  and maintaining biodiversity. 
+for  ecological  skills 
+2.3.11. 
+The implications for LCR skills from each of these are considered below. 
+Retrofitting homes and public sector buildings In  line  with  the  NZNW  estimates,  the  number  of  jobs  associated  with  the decarbonisation of homes and public sector assets will be around a third of all low carbon economy employment.  The skills requirement for these activities have been fully defined by TrustMark and the PAS 2035 standard.  The actual number of jobs arising from retrofit activity will depend on a number of factors, not  least  the  level  of  private  sector  investment  that  residents  are  willing  to invest in more energy efficient homes.  LCRCA have already secured Green Homes Grant Local Authority Delivery (LAD) Ph. 1b and 2 Grants of over £11m and so has the opportunity to help kickstart demand with delivery of retrofitting of some 4,000 properties already underway.  The speed of transition is going to  be  dependent  on  the  pace  of  investment  (and  the  available  skills  in  the labour  market).    Pro  rata  to  NZNW  the  estimate,  some  51,000  jobs  will  be sustained or created in LCR.   
+2.3.12. 
+2.3.13. 
+Nevertheless, achieving this balancing act is going to be a challenge: •  BEIS  whole  house  approach  and  emphasis  on  quality  standards  is essential to overcome the decidedly mixed results from previous initiatives designed  to  increase  investment  in  low  carbon  technology  such  as  the Green Deal18.   
+•  This has centred on the requirement that retrofit firms must register with TrustMark as from January 2021 all publicly funded projects must comply 
+17  
+Discussions  with  stakeholders  also  raised  the  contribution  of  ‘able  to  pay’  retrofit market  where  householders  invest  in  improved  insulation  and  low  carbon  heating systems themselves.  This is seen as an important and growing market by many but also  one  which  “may  be  a  slow  burn”  as  awareness  of  appropriate  actions  and affordability of the works and potential lengthy payback periods may deter investment. BEIS & DCLG, Each Home Counts Independent Review, December 2016 found that previous  schemes  designed  to  improve  energy  efficiency  had  a  number  of  quality issues e.g. 10% of all solid wall insulation projects failed, some measures were applied piecemeal  to  fit  with  available  budget  and  so  did  not  deliver  expected  gains,  poor design  and  overall  too  many  projects  did  not  achieve  predicted  energy  savings undermining return on investment rationale. 
+18  
+14 
+[Page #21]
+Demand for Low Carbon Skills 
+with PAS 2035 (including schemes such as Green Homes Grant19, Public Sector  Decarbonisation  Scheme,  Energy  Company  Obligation  and Microgeneration  Certification  Scheme).    Central  to  securing  TrustMark accreditation  is  the  adoption  of  PAS  2035  standards  for  the  retrofit workforce that sit within a ‘whole house’ approach, designed to invest in the  most  appropriate  energy  efficiency  technologies  and  provide  most value  to  the  householder.    This  should  combine  technical  competence, with good customer service and trading practice.  As a result, there is a hierarchy  of  activity  –  insulation  before  low  carbon  heating  systems  and renewable  energy  generation.    This  is  important,  in  that  the  first  steps installing  effective  insulation  will  reduce  householders’  energy  bills  and help reduce fuel poverty. 
+•  PAS 2035 roles are relatively straightforward to acquire with mostly short courses, however, the prior qualifications can take much longer to secure – electrician and heating and plumbing engineers, architects etc.  This has two implications: o o  skill  shortages  in  underpinning  qualifications  including  craft trades and Surveyors already in high demand due to the strong construction  post-Covid-19  recovery  will  have  placed  greater strain on the potential pipeline 
+the duration to full PAS2035 can be lengthy and 
+•  LCR has taken a fabric first decision to focus investment in improving the energy  efficiency  of  domestic  homes  by  upgrading  home  insulation.  External  wall  cladding  and  skilled  insulation  operatives  and  domestic energy assessors will also be required. These occupations have shorter qualifications  (although  industry  standards  are  yet  to  be  published)  and may offer  potential  routes  into the  industry for  those  who may  have  lost their  jobs  elsewhere  due  to  Covid-19,  but  do  not  have  a  trade-related qualification.   
+19  
+The GHG Local Authority Delivery (LAD) scheme is reserved for LAs to bid to upgrade the  energy  efficiency  of  homes  of  low  income  households  and  help  reduce  fuel poverty.  This is targeted in homes with an EPC of E,F or G.  LCR has been successful in securing £2.8m grants in Round 1 and LCR will administer £11.3m in phase 2 to be delivered by the end of 2021. 
+15 
+[Page #22]
+Demand for Low Carbon Skills 
+PAS 2035 Roles, qualifications and accreditations Role Retrofit Advisor 
+Description Deliver retrofit advice to clients and householders  
+Accreditations required Coordinators must be a member of a TrustMark-approved Retrofit Coordinator Scheme 
+Qualifications required City and Guilds Energy Awareness and Advice Green Deal Advisor Level 5 Diploma in Retrofit Coordination and Risk Management  Level 5 Diploma in Retrofit Coordination and Risk Management (Path A)  Domestic Energy Assessor (Path B & C)  Specialist Level 3 – 6 awards in traditional buildings (Path B and C where building is ‘protected’)  Open College West Midlands Level 5 Diploma in Retrofit Coordination and Risk Management.  Must also be able to demonstrate prior experience and competence in professional practices such as contract management, project management, customer service etc.  Path A: Level 5 Diploma / MCIAT  Path B: As above plus registered Architects, Construction Managers and Building Surveyors  Path C: as above plus CIBSE members who also hold the Level 5 Diploma or specialist traditional building qualifications  Tradesperson in: 
+Carry out Dwelling Assessment and supply data to Coordinator  
+Certified-DEA by a UKAS-accredited assessor body (e.g. Elmhurst, Stroma etc.). Members of a TrustMark-approved Scheme.  
+Retrofit Assessor 
+Person with overall responsibility for each stage of the project, sometimes also fulfilling specific project roles for which they are also qualified  
+Once qualified must be a member of a TrustMark-approved Retrofit Coordinator Scheme 
+Retrofit Co-ordinator 
+Person qualified to prepare a retrofit design  
+Professional Membership of CIOB, CIAT, CARE, AABC, RIBA RICS or RIAS  
+Retrofit Designer 
+Person or organisation undertaking the physical placement of an energy efficiency measure in an existing building  
+Retrofit Installer 
+Internal or External Insulation Glazing Heating Systems and Boilers Renewable Energy Systems 
+Person qualified to monitor and evaluate the effectiveness of a project and provide feedback  
+Level 5 Diploma in Retrofit Coordination and Risk Management  
+Once qualified must be a member of a TrustMark-approved Retrofit Coordinator Scheme 
+Retrofit Evaluator 
+Source: The Retrofit Academy  
+16 
+[Page #23]
+Demand for Low Carbon Skills 
+PAS 2030 certification covers the following energy efficiency measures Insulation Heating Cavity walls Condensing boilers Loft (gas\LPG\oil) Pitched and flat roofs Fired (domestic and non-External and internal walls domestic) Hybrid and floor and draught Heating controls proofing Underfloor heating Flue gas recovery Heating systems insulation (pipes and cylinders) Warm air units 
+Electrical Lighting controls (non-domestic only) Light fittings Storage heaters 
+Renewables Micro CHP Ground source heat pumps Air source heat pumps Biomass boilers Solar thermal Solar photovoltaic 
+17 
+[Page #24]
+Demand for Low Carbon Skills 
+2.3.14. 
+Discussions with stakeholders highlighted that the strength of the construction market  with  many  trades  very  busy  as  households  use  their  involuntary savings made during lockdown to invest in their homes.  The very visible and immediate demand for new bathrooms, kitchens and extensions is making it very difficult to encourage small firms to gain TrustMark accreditation when it is difficult to point to equivalent demand for low carbon investment.  
+2.3.15. 
+LCR has 46 Microgeneration Certification Scheme (MCS) accredited suppliers in March 2021 with 8 of these achieving accreditation in the period September 2020-March 2021.  In general, urban areas have seen lower take-up of low carbon generation schemes to date.  A total of 136 people in 60 organisations in LCR have completed either Retrofit Assessor (118) or Retrofit Co-ordinator (44) up to March 2021.  Some 442 people working in 45 firms have qualified in a range of insulation skills (external wall, cavity wall, loft, floor insulation and glazing  qualifications).    Stakeholders  engaging  with  electrical  and  plumbing firms  highlight  the  future  benefits  to  business  owners  in  terms  of  future-proofing their market.  They report that many firms acknowledge the direction of  travel  in  the  installation  of  low  carbon  equipment  but  those  nearing retirement and not seeking to pass on their business to the next generation feel that there is sufficient ‘traditional’ work to keep them busy. 
+2.3.16. 
+Recent  forecasts  of  two  retrofit  scenarios  for  LCR  highlight  the  likely employment  and  skills  requirement  over  the  medium  term20.    The  focus  on housing  fabric  first  means  that  householders  will  experience  a  reduction  in their  energy  usage  and  costs  as  well  as  lowering  their  carbon  footprint  in keeping with LCR policy objectives.  The two scenarios involve: •  SAP C: £4.5bn over 13 years to ensure that the vast majority of dwellings can achieve at least a Standard Assessment Procedure (SAP) rating of ‘C’ or above21.  Post investment the average SAP score is expected to be 72 when the boundaries for B and C are 69-80.  Just under 482,000 properties will have their SAP improved by 9.5 points and reduce their tCO2 by 1.50.   
+•  Net  Zero:  £12.1bn  over  18  years.    Average  investment  will  be  close  to double SAP C at £18,200 in just over 665,000 dwellings.  This is expected to deliver an improvement of 16.9 points on the SAP rating and an average of 79.1 and reduce average tCO2 by 2.84. 
+2.3.17. 
+Employment estimates arising for these two investment scenarios are set out below  set  against  recent  APS  data  for  LCR.    We  are  assuming  that  these estimates are total employment and that investment in allocated evenly across the time period for each scenario – so that, for example, 24 window fitters are required to undertake work on SAP C each year for 13 years.  The scale of additional job opportunities required by both scenarios highlight two factors: •  Retrofit  specific  occupations  are  in  short  supply  and  are  likely  to  be required at levels that have not been generated over an 18 month period 
+20  21  
+Parity Projects Retrofit Scenarios, September 2021. The  scenarios  assume  some  cost-effectiveness  boundaries  on  the  scale  of  retrofit activity to achieve the maximum SAP rating.  There is a focus on fabric and insulation improvement and replacement of heating systems with low carbon sources e.g. heat pumps and Photovoltaic and/or solar thermal. SAP C is expected to invest £9,400 per dwelling  on  average  with  a  maximum  investment  of  £71,200  Over  a  quarter  of investments  will  be  under  £5k;  Net  Zero  £18,200  on  average  and  a  maximum  of £91,700 with fewer than 1% under £5k.   
+18 
+[Page #25]
+Demand for Low Carbon Skills 
+–  so further  action  is  required  here  to  ramp up the  numbers  qualified  to undertake these roles. 
+•  Employees in other occupations are not currently idle and may have little capacity to absorb this additional demand.  For example, it may be better to  consider the  number of  plasterers  as  being  in  addition to the  existing workforce and the need be around the level of existing capacity. 
+Employment estimates for retrofit scenarios in LCR 
+SAP C  (13 years) 
+Net Zero  (18 years) 
+Currently employed 
+3,5721 2,750  n/k 2,335  961 1,025  3,614 48  1,400 24  4,491 918  3,698 273  1403 738  442 176  - 8,287  Source: Parity Projects Scenario analysis and Annual Population Survey workplace analysis for North West Apr 2020 to Mar 2021, reduced pro rata to LCR in line with total employment in the construction sector Jul 2020 to Jun 2021. 1 Construction and Building Trades n.e.c and may well include Insulation specialists who are not separately identified in APS. 2 Number of people working in LCR-based firms completing Retrofit co-ordinator training in the period September 2020-March 2021.   3 Number of people working in LCR-based firms completing MCS renewable energy training in the period September 2020-March 2021.   
+1,986  1,687  740  35  17  633  197  533  127  5,955  
+General Builders Insulation specialists Plasterers & renderers Carpenters Window fitters Electricians Heating Engineers Renewable heat specialists Retrofit co-ordinators Total employment 
+Mersey Tidal Project 
+2.3.18. 
+The Mersey Tidal Power project has the potential to generate between 1-5 GW of electricity (sufficient to meet all the current LCR energy needs) and has an expected  operational  lifetime  of  up  to  100  years.    This  will  complement  the existing  and  future  offshore  wind  energy  production  and  place  LCR  at  the forefront of the tidal energy sector.  Significant investment is required but the project  is  in  the  latter  stages  of  feasibility  development  with  a  view  to commencing construction in 2025/6 and being operational in 2030.   
+2.3.19. 
+No detailed analysis has been undertaken on the labour and skills requirement as yet but it is possible to get some insight from the construction skills needs modelling  undertaken  in  planning  for  the  Swansea  Bay  tidal  lagoon22.    It  is expected that the employment requirement for Mersey Tidal Power will be two to three times larger.  These are set out below for the construction phase of the project (2025/6 to 2030) but do not include operating employment.   
+22  
+Welsh  Assembly  Government  (2016),  A  study  to  determine  the  construction  labour and skills demand, supply and gaps associated with the creation of the Swansea Bay Tidal Lagoon.  These were developed using CITB’s Labour Forecasting Tool. 
+19 
+[Page #26]
+Demand for Low Carbon Skills 
+Mersey Tidal Power Estimated construction jobs by occupation 
+Tidal low  Tidal high 
+Senior, executive, and business process managers Construction project managers  Other construction process managers  Non-construction professional, technical, IT, and other office-based staff Construction trades supervisors Wood trades and interior fit-out Bricklayers Building envelope specialists Painters and decorators Plasterers Roofers Floorers  Glaziers Specialist building operatives nec Scaffolders Plant operatives Plant mechanics/ fitters Steel erectors/ structural fabrication Labourers nec Electrical trades and installation Plumbing and HVAC Trades Logistics Civil engineering operatives nec Non-Construction Operatives Civil engineers Other construction professionals and technical staff  Architects  Surveyors  Total 
+40 80 10 
+60 120 15 
+1.5% 3.0% 0.4% 
+110 10 480 40 40 60 20 20 20 20 730 20 310 10 10 220 70 70 120 20 
+165 15 720 60 60 90 30 30 30 30 1095 30 465 15 15 330 105 105 180 30 
+4.2% 0.4% 18.1% 1.5% 1.5% 2.3% 0.8% 0.8% 0.8% 0.8% 27.5% 0.8% 11.7% 0.4% 0.4% 8.3% 2.6% 2.6% 4.5% 0.8% 
+30 
+45 
+1.1% 
+60 10 20 2650 
+90 15 30 3975 
+2.3% 0.4% 0.8% 100.0% 
+Source: CPC calculations based on Welsh Assembly Government (2016), A study to determine the construction labour and skills demand, supply and gaps associated with the creation of the Swansea Bay Tidal Lagoon. 
+2.3.20. 
+There  is  limited  information  on  the requisite qualifications required  by  these occupations, however: •  Construction and related plus Logistics roles will require Level 2, 3 and 4 
+in some specialist occupations and form the majority.  
+•  Technical and management roles Level 6 with some senior Professionals 
+at Level 7+ 
+•  Under  10%  of  job  roles  will  be  ‘unskilled’  but  site  safety  and  other 
+requirements will be necessary.  
+2.3.21. 
+There  is  a  potential  overlap  with  offshore  wind  construction  techniques  and since the economy has emerged from lockdown, the limited supply of skilled labour across the economy has become more of a concern.  A real question is whether these individuals will have the underpinning skills from sectors that have suffered in the pandemic (hospitality and non-food retail) to transition to the types of job roles required by the low carbon sector.  It would seem more 
+20 
+[Page #27]
+Demand for Low Carbon Skills 
+likely that low carbon sectors will need to compete for skilled employees with the construction sector (in general).   
+Offshore Wind 
+2.3.22. 
+The  Offshore  Wind  Industry  Council  produced  UK  sector  employment forecasts based on an estimated investment of £60.8bn over the period 2021-2623.    This  is  estimated  to  have  the  effect  of  increasing  the  current  sector workforce of 26,093 by 43,755 to a total of 69,848 in 2026.  This is considerably lower employment estimate than NZNW report even though that is for much lower expenditure over a much longer period to 204024. 
+Offshore wind sector employment by occupation 2026  
+North West 
+UK 
+Corporate Services  Development  HSEQ  Management  Sales / Commercial / Procurement  Semi Skilled Operative  Skilled Manual  Technical / Professional  Other Total 
+135 77 195 586 36 333 2,273 751 336 4,722 
+3% 2% 4% 
+5,080 3,092 2,035 12%  11,560 1% 2,245 7%  15,232 48%  13,825 16%  13,108 1,071 100%  66,062 
+8% 5% 3% 18% 3% 23% 21% 20% 2% 100% 
+7% 
+Source: OWIC Offshore Wind Skills Intelligence Model Report, February 2021 based on survey evidence from employers of around 44% of total sector employment,  NSAR Skills Intelligence Model Survey Results/Opergy Ltd. January 2021. 
+2.3.23. 
+The  model  also  provides  a  regional  forecast  for  the  Offshore  wind  sector employment for NW being 7% of the national sector growth (we assume that this implies 7% of the investment or £4.256bn).  The occupational breakdown of the offshore wind sector in the NW is dominated by Skilled Manual jobs that represent  almost  half  the  jobs  compared  to  a  fifth  nationally.    Other occupations  are  as  a  result  relatively  under-represented  compared  to  the national breakdown.  
+2.3.24. 
+There is no further breakdown available to sub-regional level and so no direct estimates for LCR.  Based on the NZNW report around a fifth of these jobs might be expected in LCR or around 600 new jobs by 2026.   
+2.3.25. 
+The survey also provides insight on employers’ view on the required skill levels for  the  sector  occupations  and  some  insight  into  the  sectors’  use  of Apprenticeships  and  Graduate  placement  schemes  to  develop  a  talent pipeline.    The  predominance  of  occupations  at  Level  4  reflects  the  higher proportion of skilled manual workers but there are fewer employees with skills at Level 5 and above when compared to the national picture.  That said, the two skill levels where future growth in employment in the Offshore wind sector are  Semi-skilled  manual  Level  3  and  Level  4  Skilled  manual  (a  range  of 
+23  24  
+OWIC Offshore Wind Skills Intelligence Model Report, February 2021 The model estimates differ in the cost per job: NZNW report has a cost of just under £350k per job compared to £1.4m in the OWIC report (i.e. around four times higher).  We cannot be certain, but the latter implies a much higher use of capital such as would be the case in the installation of a new offshore wind farm etc. 
+21 
+[Page #28]
+Demand for Low Carbon Skills 
+engineering, electrical and marine skills) and Technical job roles for Graduate engineers.  This would equate to around 320 jobs at this level in LCR to 2026 but that these would demand very similar qualifications to the Tidal project and the wider construction sector. 
+Offshore Wind Sector skills by Level in 2021 direct employees in 
+respondent firms 
+North West 
+UK 
+Skill level 2 Skill level 3 Skill level 4 Skill level 5 Skill level 6 Skill level 7+ Not provided 
+6 63 352 72 214 7 58 772 
+0.8% 8.2% 45.6% 9.3% 27.7% 0.9% 7.5% 
+1.6% 24.9% 19.5% 14.2% 33.6% 4.3% 1.8% 100.0% 
+3 7 
+10 2 
+22 
+Source: OWIC Offshore Wind Skills Intelligence Model Report, February 2021 based on survey evidence from employers of around 44% of total sector employment,  NSAR Skills Intelligence Model Survey Results/Opergy Ltd. January 2021. 
+Offshore Wind Sector use of skill development placements in 
+respondent firms 2021 
+North West 7 2 2 11 1.4% 
+UK 
+Apprenticeships Graduates Trainees Total % of total employment 
+206 103 55 364 3.2% 
+Source: OWIC Offshore Wind Skills Intelligence Model Report, February 2021 based on survey evidence from employers of around 44% of total sector employment,  NSAR Skills Intelligence Model Survey Results/Opergy Ltd. January 2021. 
+The survey suggests that the North West lags the national average take-up of talent  development  for  young  people  in  the  offshore  wind  sector  with  fewer than half the number of young people being recruited on to skill development placements when compared to the national average.  Other regions, Yorkshire and the Humber (6.2%) and North East (4.6%) score well above the average.  Responses are lower in this element of the survey, so some care is required but this suggests that LCR stakeholders need to ensure that if this is the case any  barriers  are  removed  to  ensure  a  more  healthy  talent  pipeline  can  be established. 
+2.3.26. 
+Overview 
+2.3.27. 
+Clearly there are significant issues in scheduling the programme of investment in  low  carbon  technology.    This  is  particularly  the  case  when  many  of  the investment  programmes  – retrofit  of  buildings, tidal,  wind  energy  and  Hynet will place significant demands on the supply of skills in LCR if they are to be developed concurrently.  To attempt to provide a consistent overview we have adjusted the available sector forecasts over the next five years.  This provides a more tangible perspective and makes the best use of forecast evidence. 
+2.3.28. 
+Taking  these  forecasts  to  2025/26  (adjusted  as  necessary)  it  is  clear  that substantial additional technical skills are required.  A large number of jobs are 
+22 
+[Page #29]
+Demand for Low Carbon Skills 
+required by the Mersey Tidal project but these are not expected to commence until  after  2025/26.    Otherwise  the  combination  of  the  retrofit  of  domestic buildings and expansion of Offshore wind are likely to generate a minimum of 1,800 additional job opportunities and a high as large as 12,000.  The skills required  are  similar  –  predominately technical  skills  at  Level  3 and  4  with a significant minority in the region of a quarter at Level 6 or higher.  These are not skills that can be developed overnight but at least those individuals with higher level skills are more mobile.  The next section considers the supply of broadly relevant skills in LCR. 
+23 
+[Page #30]
+Demand for Low Carbon Skills 
+Overview of low carbon employment forecasts by sub sector 
+Key Skills requirements 
+Skill Levels 
+Demand to 2025/26 
+1,200 (NZNW)1 2,600 (CITB)2  
+Retrofit of buildings 
+No specification of skills Surveyors, Architects, Construction professionals and technical staff, Civil engineers, Construction trades supervisors, Building envelope specialists (cladding), Bricklayers, Civil engineering operatives, Electrical trades & installation Retrofit Co-ordinators, Renewable heat specialists, Insulation specialists, Electricians, Heating engineers, Plasterers & General building Professional and Technical marine, construction engineering, construction and related plus Logistics No specification of skills A range of engineering, electrical and marine skills 
+n/a Level 7+, Level 6, Level 5, Level 4, Level 3 & Level 2 
+6,000 - 8,300 (Parity) 2,700-4,0003  
+Level 5, Level 4, Level 3, Level 2 
+Mersey Tidal Project 
+Level 7+ and Level 6 but majority Level 2, 3 & 4 
+5,000 (NZNW) 600 (OWIC) 
+n/a 55% at Level 3 & Level 4, 28% at Level 6, 10% Level 5 n/a 
+Offshore Wind 
+3,600 (NZNW)4 
+No specification of skills 
+1 NZNW forecast to 2040 adjusted by estimated spend to 2026 when overall expenditure is heavily back-loaded and 20.89% for LCR. 2 CITB forecast to 2025 for construction not just low carbon sub-sector.  Adjusted by overall employment ratio in construction to provide LCR estimate. 3 CPC adjusted SBTL project analysis.  Current estimates suggest that construction of this project would commence in 2025/26 at the earliest and so these roles may not arise until then. 4 NZNW forecast to 2040 adjusted by estimated spend to 2026 and 20.89% for LCR. 
+24 
+[Page #31]
+3. 
+SUPPLY OF LABOUR TO THE LCR LOW CARBON SECTOR 
+3.1. 
+New entrants into the low carbon sector 
+3.1.1. 
+The  Low  Carbon  economy  sector  has  a  diverse  mix  of  occupations  and requirement for workforce skills and experience. As described in section two, sector skills are rooted Energy, Manufacturing and Construction sectors and to a large extend reflect the composition and challenges of these industries. There  is  also  a  small  component  within  the  Professional  Services  sector, engaged in specialist legal and financial services for Low Carbon. 
+3.1.2. 
+The availability of scientific, technical, engineering and mathematical (STEM) skills  and  qualifications  are  essential  for  businesses  in  the  Low  Carbon economy.  National  studies  indicate  a  growing  concern  among  employers about the shortage of new technicians and engineers being trained to replace existing workers due for retirement over the next decade.25 A UKCES survey26 found that 60 per cent of employers interviewed in the energy sector stated that not enough individuals are studying STEM subjects at undergraduate or postgraduate levels due to negative perceptions about the difficulty of courses or the lack of career opportunity.  
+3.1.3. 
+It  is  difficult  to  be  precise  on  how  education  qualifications  will  link  with  low carbon skills but there is a clear need for STEM-related qualifications at GCSE and A Level and then STEM subjects in Higher Education degree and post-graduate  courses.   A  Level  entrants for  STEM  subjects  in  LCR  have  varied recently but had picked up in the latest year for which data is available and are now just over 2015-16 levels (just over 5,200 entrants).   
+25  
+Royal Academy of Engineering (2016) The UK STEM Education Landscape – available: https://www.raeng.org.uk/publications/reports/uk-stem-education-landscape Also see Uff, J. (2016) UK Engineering 2016. Available: https://www.raeng.org.uk/publications/other/uk-engineering-2016  UKCES  (2015)  Sector  insights:  skills  and  performance  challenges  in  the  energy sector.  
+26  
+25 
+[Page #32]
+Supply of Labour to the LCR Low Carbon Sector 
+A Level Entrants for STEM Subjects 2015/16 – 2019/20 (indices 2015-15 
+=100) 
+Source: DfE (2020) A level and other 16 – 18 results 2015/16 to 2019/20 (provisional) 
+3.1.4. 
+This  may  be  the  start  of  an  upward  trend  but  STEM  skills  are  in  high  and increasing demand across the economy so a stable number of starts implies that  there  will  be  greater  shortages  in  future.    This  is  already  evidenced  in employer  feedback:  a  recent  survey  by  the  Institution  of  Engineering  and Technology  reported  that  60%  of  their  members  felt  they  were  unable  to deliver the objectives set in the Industrial Strategy due to acute skill shortages. Additionally,  53%  of  survey  respondents  were  concerned  that  the  UK’s shortage of engineers is a threat to their business27.  LCR has effective actions on  STEM  but  there  is  always  further  scope  for  improvement  especially  in developing more gender-balanced approach.  Evidence suggests that there is a need to retain early interest in STEM subjects shown by females as too few take this forward past A Level.  
+Moreover, the National Audit Office reports28 HESA research, which found less than one quarter (24.4 per cent) of STEM graduates in 2015/16 were working in  STEM  occupations  within  six  months  of  graduation.  While  this  does  not account  for  unknown  destinations  and  those  undertaking  further  study  that may have gone into STEM occupations later, it does suggest that there are problems  in  employers  attracting  qualified  individuals  into  scientific  and engineering career pathways. 
+3.1.5. 
+3.1.6. 
+That  said,  HE  Institutions  in  LCR  have  recorded  significant  growth  in enrolments in STEM related subjects at Degree and Postgraduate level – up from  just  over  13,000  in  2014/15  to  just  over  16,000  in  2018/19.    Physical Sciences (28%) and Engineering and Technology graduates were highlighted as being key to the delivery of the NZNW programme of investment.  HE STEM enrolments  are  somewhat  lower,  increasing  by  9%  over  the  same  period 
+27  28  
+IET (2021) Addressing the STEM skills shortage challenge NAO (2018) Delivering STEM skills for the economy. Available: https://www.nao.org.uk/wp-content/uploads/2018/01/Delivering-STEM-Science-technology-engineering-and-mathematics-skills-for-the-economy.pdf  
+26 
+[Page #33]
+Supply of Labour to the LCR Low Carbon Sector 
+suggesting  that  LCR  HE  institutions  are  attracting  proportionately  more students into these subjects.   
+HE Student Enrolments in Low Carbon Relevant Subjects, Liverpool 
+City Region Universities 
+Source: HESA (2020) Includes first degree and post-graduates 
+3.1.7. 
+Graduates  from  these  STEM  subject  areas,  particularly  Engineering  and Technology and Physical sciences should be engaged in career prospects in the  low  carbon  economy  with the  aim  of  increasing  the  proportion  who  use their qualification to work in a STEM job above the benchmark 25%, as this will have a larger impact on numbers working in the sector. 
+3.1.8. 
+In  keeping  with  national  population  trends,  LCR’s  18  year  old  population  is forecast to rise 26% between 2020 and 2030.  This increase matches that of England as a whole  and  slightly  above the  increase  projected  for the  North West region (24%).  By 2030 the number of 18 year olds will increase by just over 4,350 people.  To give an indication of the likely impact of this population shift, the employment demand estimates from NZNW imply an annual net new employee requirement of around 7,350 in LCR by 203029.   
+29  
+LCR employment demand estimated to be around 21% of the total but much depends on the speed and sequencing of investment into the different net zero projects included in the programme. 
+27 
+[Page #34]
+Supply of Labour to the LCR Low Carbon Sector 
+Population projections for 18 year olds to 2030  
+Source: ONS 2018 population projections, Indices 2020=100 
+Working Age and over 65s population projections to 2030 
+Source: ONS 2018 population projections, Indices 2020=100 
+3.1.9. 
+An increase  in  younger age groups  coming  into the  working  age  population will be doubly important for low carbon and construction trades in particular.  A third of current employees in the sector are over 50 and over half fall into the  25-49  age  bracket.    An  increasing  proportion  of  over  50s  in  working  in construction has been evident since 2012-13 and had pretty much doubled by 2019-20. 
+3.1.10. 
+However,  while  the  increase  in  younger  people  entering  the  labour  force  is welcome, it will only marginally increases the available working age population over the next decade as an ageing workforce retires.  This suggests that the population  increase  will  help  but  even  is  all  the  additional  young  people entering the labour market enter the low carbon economy, they will need to be supplemented  by  significant  levels  of  re-training  of  existing  employees  (or importing skills from outwith LCR). 
+28 
+[Page #35]
+Supply of Labour to the LCR Low Carbon Sector 
+Low Carbon Economy Sector Age Profile, LCR 2020 
+Source: ONS Annual Population Survey (workplace), Liverpool City Region year ending June 2020 
+3.2. 
+Supply of low-carbon skills 
+3.2.1. 
+Robust and detailed data on the number people in education and training in subject areas that are relevant to the low carbon sector in LCR is limited.  In combination with the impact of the pandemic on take up of education courses since spring 2020, this means that precise data on Apprentices and learners in FE colleges who are intending on progressing into low carbon job roles is not  available.   Therefore,  what  follows  provides some  insight  into  the  broad contribution to the future low carbon skills pipeline but should be considered upper estimates. 
+LCR Apprenticeship starts Apprenticeships  provide  another  significant  source  of  low  carbon  skills.  Unfortunately, previous data estimates for low carbon employers are no longer accessible  and  therefore  we  cannot  determine  the  sectors  in  which Apprentices  are  working  in  sufficient  detail  to  understand  how  many  are working and learning in low carbon sectors30.   
+3.2.2. 
+3.2.3. 
+Some 952 carbon related Apprentices started in 2018/19 with 758 in 2019/20 which will have been impacted by Covid-19 and associated lockdown.  Data on starts in 2020/21 are only available to Q3 and suggests that there has been a continued fall as a result of Covid-19 but this may prove to be less severe than the previous year. 
+3.2.4. 
+The impact of the pandemic  has impacted on Apprenticeship start numbers across Standards and Frameworks but there also appears to be a trend in the proportion  of  starts  by  Level  with  an  increasing  proportion  of  Level  3,  a reduction  in  Level  2  and  a fall  in  Level  6  in  2020-21  (although  the  2020-21 figures are not for the full year).   
+30  
+Low carbon related Standards and Frameworks have been selected covering Building services,  Construction  trades  and  related,  and  Engineering  and  Engineering technician apprenticeships.  
+29 
+[Page #36]
+Supply of Labour to the LCR Low Carbon Sector 
+LCR low carbon related Apprentice Starts by Level 
+Source: DfE and ESFA Apprenticeship starts to Q3 2021 
+3.2.5. 
+Level  3+  starts  represent  72%  of  all  starts  in  2020-21  compared  to  61%  in 2018-19.  Level 2 starts have declined more dramatically and in 2020/21 are less than half the number in 2018/19 compared to Level 3 that are 71% of their 2018/19 figure in 2020/21.  In part this reflects a national trend towards Level 3+ Apprenticeship starts since the introduction of the Apprenticeship Levy in 2016/17.  At this stage it is not clear how quickly starts on these low carbon related Apprenticeships will return to pre-Covid-19 levels. 
+Education and training in LCR Further Education Colleges   
+3.2.6. 
+Data  on  education  and  training  in  LCR  FE  colleges  in  low  carbon  related subjects  is  less  precise  than  that  available  for  Apprenticeship  starts.  ILR underlying data provides only broad learning area data so low-carbon related sectors cover education and training in the construction, planning and the built environment  and  engineering  and  manufacturing  technologies  (so  relatively broad  subject  areas).    These  enrolments  exclude  Apprenticeships  so  that there is no double-counting with the data in the previous section. 
+3.2.7. 
+The  LCR  FE  sector  recorded  just  under  8,000  enrolments  in  low-carbon related  sectors  for  the  last  full  year  pre-pandemic  from  just  over  67,000 enrolments at all Levels in 2018-19.  The vast majority of these were at Level 2  or  below.    At  best,  this  represents  just  under  4,900  starts  on  low  carbon education and training courses at Level 2 or higher in LCR FE colleges.   
+30 
+[Page #37]
+Supply of Labour to the LCR Low Carbon Sector 
+LCR Further Education and Training 19+ enrolments 2018-19 Total enrolments  % low carbon related 
+Entry Level 
+14,168  
+5% 
+Level 1 
+22,076  
+11% 
+Level 2 
+25,320  
+17% 
+Level 3 
+5,365  
+9% 
+Level 4 
+483  
+12% 
+Level 5 
+193  
+1% 
+Level 6 
+20  
+0% 
+Level 7 
+6  
+0% 
+Total 
+67,631  
+12% 
+Source: DfE FE enrolment ILR data 2018-19 
+3.3. 
+Can supply meet expected demand? 
+3.3.1. 
+As discussed in section 2, there is considerable uncertainty over the pace at which low carbon jobs will be required in LCR.  We think that the majority of the 141,000 jobs estimated for LCR from the NWNZ investment programme will arise in the period 2022 to 2035.  Much depends on the speed at which investment funds can be secured.  This would imply around 2,000 additional jobs in 2022 up to around 7,000 per annum in 2030.   
+3.3.2. 
+While the increase young people over the next decade will go some way to addressing this need, in fact it will be largely taken up by replacing experienced workers retiring from low carbon sectors and the total working age population will increase only marginally.  This, in turn suggests that LCR will need to more with  the  existing  resources  it  has  to  hand  –  more  females,  more  BAME employees and more people with STEM qualifications will need to be attracted and  retained  in  the  low  carbon  sectors  to  get  close  to  satisfying  the  major employment opportunities presented by these low carbon developments. 
+3.3.3. 
+This  will  not  be  an  easy  task.    These  issues  have  been  well  known  in  the construction sector for some time and the sector has yet to demonstrate any sustained progress.   
+31 
+[Page #38]
+4. 
+LOW CARBON SKILLS PRIORITIES 
+4.1. 
+The  low  carbon  sector  in Liverpool  City  Region diverse  and  dynamic  with a clear growth trajectory over the past decade and a strong investment potential over  the  next  decade.    The  low  carbon  sector  brings  together  a  number  of specialist  technical  and  craft  skills  with  low  carbon  technologies  that  are evolving alongside industry and building standards regulation and government policy.  This does make for a dynamic demand for low carbon skills often with very specialised qualifications.   
+4.2. 
+LCR partners have developed a detailed insight into low carbon industries and existing relationships with learning providers and employer networks.  Building on these relationships will be vital to stay abreast of developments and ensure that skills investment can occur sufficiently in advance of the proposed large scale investment in low carbon sectors. 
+4.3. 
+Investing in low carbon and renewable energy economy will not only support a path to net zero for the UK and LCR but also offer a significant market for low  carbon  goods  and  services.    LCR  will  be  a  major  location  for  new investment  in  low  carbon  technology.    The  Net  Zero  North  West  Economic Investment Prospectus outlines a £200 billion investment pipeline for the North West region as part of a coordinated effort to decarbonise industry and make the North West the UK’s first net zero region by 2040.  In particular, LCR will benefit  from  further  offshore  wind  power,  new  tidal  energy  generation  and significant transition from high carbon sectors to low carbon sources of energy, storage and carbon capture technology that would put the city region at the forefront of these sectors. 
+4.4. 
+Estimates vary but around a fifth of UK jobs (21%) would be affected by the transition to a green economy.  These will be split evenly between jobs that now require additional skills or entirely new low carbon occupations and those jobs in high carbon industries that will need to be transitioned into low carbon roles: •  Augmented skills will need to be accessed by those already in work so the 
+provision of such skills will need to delivered flexibly  
+•  Transitional skills will require similar delivery but crucially, more insight is required on which high carbon industry or Covid-19 impacted occupations have the  most  appropriate  base skills  and  competencies  to  transition  to new in-demand low carbon roles. 
+•  New  specialist  skills  will  continue  to  be  developed  through  technical pathways such as apprenticeships and in-depth training at undergraduate and  postgraduate  level  and  be  closely  connected  with  industry  practice, such as in battery technologies, chemical processes in waste, hydrogen and materials development for insulation etc 
+4.5. 
+The  predicting  the  pace  of  investment  in  low  carbon  technologies  is  very challenging.  Although Covid-19 has not helped, the lack of growth in LCREE sectors at a national level suggests investment in low carbon sectors has been less than predicted for the last 7 years.  This suggests that the public sector should seek to prioritise on building up the pipeline of craft and technical skills.  This should involve: •  Reinforcing  the  existing  promotion  of  STEM  skills  and  closely  linked  to engineering-related  craft  and  undergraduate  courses.    LCR  along  with 
+32 
+[Page #39]
+Low Carbon Skills Priorities 
+England  are  entering  a  decade  where  the  number  of  18-  year  olds  will increase by more than a quarter and numeracy and analytical skills will be at a premium across the labour market. 
+•  Careers  IAG  highlighting  the  many  roles  associated  with  low  carbon technologies  across  engineering  and  construction  and  related  skills.  Promotion of such career opportunities to women is essential to overcome highly gendered roles and ensure access to a wider pool of talent.   
+•  Female-friendly delivery has been trailed by some LCR providers but this needs  to  implemented  at  scale  including  additional  care  support  for dependents and female only courses. 
+•  Although  there  have  been  no  firm  announcements  it  seems  likely  that Government policy on higher technical qualifications will place a premium on FE and HE collaboration at Level 4, Level 5 and better progression to Level  6.    Improved  coherence  and  co-ordination  between  LCR  FE Colleges and HEIs presents an ideal opportunity to: 
+o 
+Improve clarity on the learning offer and explore best route to deliver  such  courses  to  learners  most  often  already  in employment 
+o  Modular  courses  that  might  attract  funding  from  employers (apprenticeship levy/ levy allocation), directly funded, employee funded  through  lifelong  loan  entitlement.    Improved  offer  of Level  4  and  5  modules  specific  to  low  carbon  sectors  e.g. offshore engineering will provide bite-sized and sector-focused progression. 
+o  Both  of  these  need  a  strong  employer  involvement  to  help ensure investment is in the precise skills required and keep up with  industry  practice  and  equipment.    Digital  practice  and knowledge is essential to keep abreast of new techniques. o  Ensure  that  HE  credits  learning  at  Level  3  to  help  improve access  to  higher  technical  qualifications  for  those  on  work-based learning.   
+o  Work with other agencies engaged with low carbon businesses (e.g.  MCS  certified)  to  develop  workforce  development  offer beyond base PAS 2035.   
+o  Larger  firms  could  be  encouraged  to  invest  in  supply  chain development  to  ensure  continued  improvement  in  quality standards. 
+o  Provide transition training – an issue here is focusing on people impacted by Covid-19 and seeking to re-train and the viability of  low  carbon  roles  to  this  group.    Project  management  and customer service skills are potential skills of interest in a range of  low  carbon  roles.    Stakeholder  networks  already  possess expertise  in  re-training  aerospace  engineers  into  marine engineers. 
+•  There  is  a  need to  shape demand  in sub-sectors  where sectors  are still awaiting  standards  e.g.  external  wall  insulation  (EWI).    Liverpool  John Moores  University  are  engaging  with  social  housing  providers  to  collate their individual demand so that there is sufficient scale of EWI activity to achieve some economies of scale.  These networks could also be used to help drive skills development in specialist skills at a scale that would make such courses viable for training providers. 
+•  Need  to  implement  a  climate  literacy  programme  especially  in  sectors where  the  introduction  of  low  carbon  technologies  will  require  greater precision  and quality standards than may be  traditional  e.g.  groundwork 
+33 
+[Page #40]
+Low Carbon Skills Priorities 
+preparations  for  offsite  construction  etc.    LCR  is  already  developing  a climate engagement strategy but this needs to build on practice elsewhere (e.g. Germany) where the focus is on low carbon technologies will change job roles.  One option here is to engage individuals through Trade Unions as  well  as  employers  to  highlight  the  positive  potential  of  career development in low carbon sectors. 
+•  The  LCR  Year  One  Climate  Action  Plan  proposes  steps  be  taken  to improve waste management and develop a circular economy in LCR.  This will have skills implications but as yet these have not figured highly in low carbon  plans.    Further  work  will  be  required  to  engage  more  circular economy  approaches  in  product  design  and  deepen  the  recovery  of expensive  materials  through  ‘urban  mining’  (such  as  nickel,  cobalt  and lithium from smart phones etc.) for re-use in products as an alternative to traditional sources from mining extraction. This also aligns to the LCR zero avoidable waste target for 2040, the Strategic Waste Partnership (which the CA are part of) and the agreed LCR Zero Waste Strategic Framework and relevant content on green jobs / skills – detailed in the appendix. •  The LCR Plan for Prosperity (PfP) and LCR Climate plans identify the role of  waste  /  circular  economy.  The  PfP  commits  LCR  to  “Embed  the principles  of  a  circular  economy  to  get  the  most  use  and  value  out  of material  resources”  leading  to  a  2035  outcome  of  “A  growing  circular economy”  –  metrics  include  number  of  people  employed  in  the  circular economy. 
+•  The  LCR  Pathway  to  Net  Zero  report  highlights  the  increasing  role  that natural capital will play in achieving net zero in maintaining and developing biodiversity.  The forthcoming Environment Bill will comes in next year and all  built  environment  developments  have to  demonstrate biodiversity  net gain.    LCR  partners  will  need  to  plan  for  greater  demand  for  ecological maintenance  and  skills  in  maintaining  and  developing  biodiversity  sites both  for  biodiversity  and  carbon  capture  across  both  ‘green’  and  ‘blue’ environments in the City Region. Although not directly a skills requirement, there is a broader need for all LCR businesses and particularly SME’s to understand what they will need to do to decarbonise and the role low carbon skills could play in supporting this transition.  This will require LCR partners to bring together business advice and skills support to improve: 
+• 
+•  businesses  understanding  of practical steps to reduce it 
+their  carbon 
+footprint  and 
+•  All  businesses  understanding  of 
+regulations  and  new requirements  coming  through  in  social  (and  environmental) value in procurement 
+•  All  business  understanding  of   ESG  (Environmental  ,  Social and  Corporate  Governance)  principles  starting  feeding  down from the larger business and how they can plan for this 
+34 
+[Page #41]
+Low Carbon Skills Priorities 
+APPENDIX 
+1) LCR waste – Strategic context 
+a) LCR Zero Waste Strategic Framework 
+•  The framework has 3 themes – People, Planet, Economy. •  Economy theme identifies an opportunity to expand green jobs from transition to a circular LCR, rethinking resource use, designing out waste. 
+•  Strategic outcomes under the Economy theme include ‘Green Jobs’ 
+and ‘Circular Economy’ ‘Green Jobs’ strategic outcome identifies establishment of a reuse hub, growth of remanufacturing industries, expansion of rental / leasing services and investment in reuse / reprocessing capacity.  ‘Circular Economy’ strategic outcome identifies growth in circular business support and education, LCR circular city scan, development of 20 minute neighbourhoods. 
+• 
+• 
+b) LCR Zero Waste Action Plan 
+•  The Strategic Framework is accompanied by an Action Plan. Relevant actions around jobs and circular economy include: •  Engage local authorities / developers to ensure new / retrofit 
+buildings, homes and infrastructure are zero waste in design and construction by 2040. 
+•  Develop reuse and repair skills training programme. •  Encourage development of remanufacturing industry in LCR. •  Support rental / leasing services. •  Attract investment in reuse and reprocessing technologies and 
+increase skills and jobs in this sector.  
+•  Establish business support programmes to expand circular activity in 
+LCR. 
+•  Develop circular economy education tools for all ages. •  Create LCR circular economy clusters to share best practice, improve 
+resource efficiency and business competitiveness. 
+•  Develop LCR as a low carbon, circular region which delivers green 
+jobs and thriving businesses. 
+Relevant actions from the LCR Zero Waste Action Plan The below actions have direct links with the development of skills and green jobs across 
+LCR.  
+Theme 
+Strategic Outcome 
+Action Expand zero waste activity in the community e.g.  community  fridges,  water  refill  points and support for localised food growing.  Engage  with  residents  and  businesses  to develop  a  programme  of  LCR  zero  waste projects. Increase  Reuse  across  LCR.  Including  an LCR for  supporting community reuse and repair. Expand  education  and  behavioural  change activity. 
+People 
+Social Value 
+reuse  hub,  plan 
+Planet 
+Climate & Carbon 
+35 
+[Page #42]
+Low Carbon Skills Priorities 
+Establish an LCR Reuse Network. Establish a net zero carbon 2040 trajectory for LCR Waste.  Engage local  authorities  and  developers  to ensure  new  /  retrofit  buildings,  homes  and infrastructure are zero waste in design and construction by 2040. Invest with a focus on moving up the waste hierarchy.  Develop  reuse  and  repair  skills  training programme. Encourage development of remanufacturing industry in the City Region. Provide support for expanding rental/leasing services  Attract reprocessing skills and jobs in this sector.  Establish  business  support  programmes  to expand circular activity in the LCR.  Develop  circular  economy  education  tools for all ages. Undertake  a  Liverpool  City  Region  City Scan. Create  LCR  circular  economy  clusters  to share  best  practice, improve  resource efficiency and business competitiveness. Develop  LCR  as  a  low  carbon,  circular region which delivers green jobs and thriving businesses.  
+Resource Efficiency 
+Jobs 
+and increase 
+investment 
+reuse 
+in 
+technologies  and 
+Economy 
+Circular Economy 
+2) Green jobs in a circular economy references: 
+According to WRAP increasing refurbishment of products could add over £54 billion to UK Gross Value Added and create over 300,000 jobs. Increasing repair could add  £3.3  billion  to  UK  Gross  Value  Added,  create  over  30,000  jobs  and potentially  revitalise  city  centres.  (Ref:  WRAP:  Net  zero  –  why  resource efficiency holds the answers, 2021). 
+36 
+[Page #43]
+Low Carbon Skills Priorities 
+https://green-alliance.org.uk/Levelling_up_through_circular_economy_jobs.php  
+37 
+[Page #44]
+Low Carbon Skills Priorities 
+https://green-alliance.org.uk/Levelling_up_through_circular_economy_jobs.php 
+38 
+[Page #45]
+Low Carbon Skills Priorities 
+3) Ellen MacArthur – Completing the Circle https://ellenmacarthurfoundation.org/completing-the-picture 
+4) Resources & Waste Strategy for England https://www.gov.uk/government/publications/resources-and-waste-strategy-for-england 
+5) Dept of Education – Sustainability and Climate Change Strategy. April 2022 Sustainability and climate change strategy - GOV.UK (www.gov.uk) Action Area 2 focuses on Green Skills and Careers and links to 
+•  UK Net Zero Strategy •  Skills and Post-16 Education Bill •  Green Jobs Delivery Group •  Skills Bootcamps •  Free Courses for Jobs offer •  General Further Education College Accountability Agreements •  LSIP trailblazers •  Strategic Development Fund pilots 
+39 
+[Page #46]
+None

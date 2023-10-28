@@ -1,0 +1,879 @@
+[Page #0]
+UMSETZUNGSB ERICHT
+Nationale Weiterbildungs-strategie
+JUNI 2021
+[Page #1]
+None
+[Page #2]
+-
+3
+[Page #3]
+2
+[Page #4]
+NWS | Inhalt
+33
+I N H A LT
+ZWEI JAHRE NATIONALE WEITERBILDUNGSSTRATEGIE   ...............................  06  
+1  WO STEHEN WIR MIT DER WEITERBILDUNG 
+IN DEUTSCHLAND? .............................................................................................  08
+Entwicklungen auf dem Arbeitsmarkt  ......................................................................  09
+Ausgangslage und Herausforderungen .....................................................................  10
+Zahlen und Fakten zur beruflichen Weiterbildung  ................................................  12
+2 
+ WAS HABEN WIR BISHER ERREICHT? .............................................................  16
+A | Auf einen Blick: Handlungsfelder und Umsetzungsbeiträge der Nationalen Weiterbildungsstrategie  ............................  17
+B | Ergebnisse aus den zehn Handlungsfeldern .......................................................  23
+C | Im Fokus:Beiträge zur Digitalisierung der Weiterbildung .......................................................  59
+3 
+ WAS BLEIBT ZU TUN? .........................................................................................  64
+4 
+ WIE GEHT ES WEITER?  ......................................................................................  68
+LITERATURVERZEICHNIS .......................................................................................  72
+[Page #5]
+4
+[Page #6]
+55
+Die  Nationale  Weiterbildungsstrategie  (NWS)  wurde  im  Juni  2019  durch  das  Bundesminis-terium  für  Arbeit  und  Soziales  (BMAS),  das  Bundesministerium  für  Bildung  und  Forschung (BMBF), das Bundesministerium für Wirtschaft und Energie (BMWi), die Bundesagentur für Arbeit,  drei  Fachministerkonferenzen  der  Länder  (ASMK,  KMK  und  WMK)  sowie  Gewerk-schaften und Wirtschaftsverbände verabschiedet.
+Innerhalb von zehn definierten Handlungsfeldern haben sich die NWS-Partner auf Maßnah-men und Aktivitäten zur Fortentwicklung des Weiterbildungssystems sowie zur Stärkung der Weiterbildungskultur verständigt. Es wurde festgelegt, im Jahr 2021 den Umsetzungsstand zu überprüfen und gegebenenfalls die Handlungsziele der NWS weiterzuentwickeln.
+Darüber hinaus wurde die Organisation für wirtschaftliche Zusammenarbeit und Entwicklung(OECD) von BMAS und BMBF befragt, den Umsetzungsprozess mit einem Länderbericht zur beruflichen  Weiterbildung  in  Deutschland  fachlich  zu  begleiten.  Dieser  Bericht  wurde  am 23. April 2021 veröffentlicht.
+Der  vorliegende  Umsetzungsbericht  zur  Nationalen  Weiterbildungsstrategie  dokumentiert das  bisher  Erreichte.  Er  gibt  Empfehlungen  zur  Weiterentwicklung  der  bearbeiteten  Hand-lungsfelder und zeigt eine Perspektive für die Fortführung eines strategischen Ansatzes zur Stärkung der beruflichen Weiterbildung sowie der Weiterbildungskultur in Deutschland auf.
+[Page #7]
+NWS | Zwei Jahre Nationale Weiterbildungsstrategie
+6
+Viel bewegt, viel erreicht, noch viel zu tun
+Zwei Jahre Nationale Weiterbildungsstrategie 
+Hinter uns liegt eine bewegte Zeit. Die COVID-19-Pandemie hat uns einmal mehr vor Augen geführt, wie ungemein wertvoll und wichtig die Menschen sind, die in der Krise den Laden am Laufen halten und  Lösungen  entwickeln,  damit  wir  schnell  wieder  auf  die  Beine  kommen.  Das  sind  besonders  die Pflegekräfte, die Lehrerinnen und Lehrer oder die IT-Fachleute, die die vielen Herausforderungen eines neuen und keineswegs alltäglichen Alltags unter Pandemiebedingungen managen mussten – mit ihren Kompetenzen und mitunter auch der Bereitschaft zum Improvisieren. 
+Die Krise ist noch nicht vorbei, aber es gibt Hoffnung auf eine baldige wirtschaftliche Erholung. Gleich-zeitig sehen wir, dass die Pandemie wie ein Beschleuniger des Strukturwandels in der Arbeitswelt wirkt: Die  Digitalisierung  ist  immer  schneller  immer  weiter  vorangeschritten  –  so  ist  z.B.  mobiles  Arbeiten längst selbstverständlich für viele Arbeitnehmerinnen und Arbeitnehmer. Auch auf dem Arbeitsmarkt sind  die  Folgen  der  Krise  spürbar:  Die  Zahl  der  Langzeitarbeitslosen  steigt,  während  gleichzeitig  die Fachkräftelücke in den Mangelberufen wächst, z.B. in der Elektrotechnik, der Fachkrankenpflege oder der Altenpflege.
+Umso mehr gilt: Eine kontinuierliche Weiterqualifizierung ist die Grundlage  für  eine  erfolgreiche  Berufstätigkeit.  Denn  die  Ent-wicklung neuer Produkte und Anwendungen verläuft rasant. Wir sind  hervorragend  aufgestellt,  was  die  duale  berufliche  Ausbil-dung betrifft – sie bildet eine solide Grundlage für das weitere Erwerbsleben.  Aber  in  aller  Regel  reicht  es  nicht,  um  bis  zum Renteneintritt im Berufsalltag auf der Höhe der Zeit zu bleiben. Deshalb  kommt  es  auf  gute  Weiterbildung  an.  Wachstum  und Wohlstand können wir im internationalen Wettbewerb nur durch Innovation  und  deren  Umsetzung  durch  gut  qualifizierte  Fach-kräfte erhalten. Damit die Arbeitnehmerinnen und Arbeitnehmer von heute auch die Arbeit von morgen machen können.
+HUBERTUS HEIL
+ist seit März 2018 Bundesminister für Arbeit und Soziales. 
+Mit  seinem  Amt  verbindet  der studierte  Politikwissenschaft-ler  insbesondere  das  Ziel,  je-dem  Menschen  die  Chance  auf ein  selbstbestimmtes  Leben  zu ermöglichen  und  dabei  Schutz und  Sicherheit  in  Zeiten  des Wandels zu geben.
+Deshalb haben wir uns im breiten politischen und gesellschaft-lichen  Schulterschluss  unter  dem  Dach  der  Nationalen  Weiter-bildungsstrategie (NWS)  zusammengetan. Die 17  NWS-Partner aus Bund und Ländern, Arbeitgeber- und Wirtschaftsverbänden, Gewerkschaften  und  der  Bundesagentur  für  Arbeit  haben  in insgesamt  zehn  Handlungsfeldern im Juni 2019 zahlreiche  Ver-pflichtungen definiert, um die Weiterbildungskultur in Deutsch-land  zu  stärken.  Seitdem  richten  wir  unsere  Arbeit  darauf  aus, diese Verpflichtungen umzusetzen.
+[Page #8]
+NWS | Zwei Jahre Nationale Weiterbildungsstrategie
+7
+Mit  diesem  Vorgehen  stehen  wir  im  internationalen  Vergleich  gut  da. Die  OECD  bescheinigt  uns  im  jüngst  vorgelegten  Länderbericht,  dass Deutschland mit der NWS wichtige Weichen zur Stärkung des Weiterbil-dungssystems und der Wettbewerbsfähigkeit gestellt hat.
+ABER WIE WEIT SIND WIR KONKRET? 
+Zunächst  einmal  haben  die  NWS-Partner  in  Themenlaboren  und  Work-shops  mit vielen  Expertinnen  und  Experten  und  auch  mit  Praktikerinnen und  Praktikern  die  Herausforderungen  diskutiert  und  neue  Lösungswege gefunden. Gemeinsam haben wir bereits drei Viertel unserer Vereinbarun-gen umgesetzt oder die Umsetzung auf einen guten Weg gebracht.
+ANJA KARLICZEK
+ist seit März 2018 Bundesministerin für Bildung und Forschung.
+Nicht  zuletzt  vor  dem  Hinter-grund  ihrer  eigenen  Berufsaus-bildung  und  Erfahrung  als  Aus-bilderin  setzt  sich  die  studierte Betriebswirtin  für  die  Gleich-wertigkeit  von  beruflicher  und akademischer  Ausbildung  und für  mehr  Durchlässigkeit  in  den individuellen Karrierewegen ein.
+Die zurückliegenden zwei Jahre waren für alle Beteiligten ein sehr inten-siver Prozess. Wir danken allen, die sich mit viel Engagement die Natio-nale Weiterbildungsstrategie und ihre Umsetzung zu einem persönlichen Anliegen gemacht haben. Es hat sich gelohnt. Dies zeigt der vorliegende Umsetzungsbericht. Wir haben eine sehr gute Zusammenarbeit auf- und ausgebaut. 
+WIR HABEN VIEL ERREICHT, ABER ES GIBT AUCH NOCH VIEL ZU TUN! 
+Der  Umsetzungsbericht  dokumentiert,  wie  wir  die  Weiterbildungslandschaft  in  Deutschland  weiter verbessern können. Vor allem die Digitalisierung bietet große Chancen, dass Arbeitnehmerinnen und Arbeitnehmer  die  Angebote  zur  Weiterbildung  und  Qualifikation  stärker  wahrnehmen.  Sie  sorgt  für mehr Transparenz der Angebote und auch für eine höhere Flexi bilität bei der Umsetzung von Quali-fizierungsmaßnahmen. 
+Weiterbildung  stark  machen,  um  Fachkräfte  zu  stärken  und  um  die  Wirtschaft  zu  stärken  –  dies  ist im  gemeinsamen  Interesse  der  NWS-Partner.  Gemeinsam  tragen  wir  die  Verantwortung  dafür  –  im  Betrieb, bei den Sozialpartnern, in der Arbeitsverwaltung sowie bei Ländern und dem Bund. Wenn es uns gelingt, gemeinsam neue Zugänge zu Bildung und Arbeit zu öffnen, ist dies alle Mühen wert. Denn wir müssen schon heute in die Zukunft investieren!
+[Page #9]
+K A P I T E L  1
+Wo stehen wir mit der Weiterbildung in Deutschland? 
+[Page #10]
+9
+Entwicklungen auf dem Arbeitsmarkt
+Seit  der Vorstellung  der  Nationalen Weiterbildungsstrategie  (NWS)  im  Sommer  2019  ist  der maßgeblich  durch  Digitalisierung  und  Dekarbonisierung  getriebene  strukturelle Wandel  von Wirtschaft und Arbeitswelt weiter vorangeschritten. In Teilen ist eine weitere Beschleunigung der Veränderungsprozesse zu beobachten. So gewinnt der CO2-neutrale Umbau der Wirtschaft durch  die verstärkten  klimapolitischen  Ziele  auf  EU-Ebene,  aber  auch  durch  nationale  Maß-nahmen,  wie  z.B.  die  Nationale  Wasserstoffstrategie  der  Bundesregierung,  weiter  an  Fahrt. Hinzu kommt, dass sich der demografische Wandel mit dem beginnenden Renteneintritt der sogenannten Babyboomer-Generation auf dem Arbeitsmarkt bemerkbar macht und zu einer schrumpfenden  Erwerbsbevölkerung  beiträgt,  während  gleichzeitig  der  Bedarf  an  Erwerbs-migration zunimmt.
+Unabhängig  von  mittelfristigen  Trends  sind  aktuell  vor  allem  die  Aus-wirkungen  der  COVID-19-Pandemie  auf  die  Gesellschaft  zu  spüren.  Die deutsche  Wirtschaft  ist  infolge  der  Lockdownmaßnahmen  in  der  ersten Jahreshälfte 2020 in eine Rezession gestürzt. Insgesamt schrumpfte das Bruttoinlandsprodukt im Jahr 2020 um fünf Prozent, wobei einzelne Wirt-schaftsbereiche  wie  die  Industrie  oder  das  Gastgewerbe  deutlich  stär-ker  betroffen  waren.  Bis  zu  6  Mio.  Beschäftigte  waren  zwischenzeitlich in Kurzarbeit. Gleichzeitig konnte mit dem Instrument der Kurzarbeit in Verbindung  mit  betriebs-  und  tarifpolitischen  Maßnahmen  zur  Beschäf-tigungssicherung sowie mit finanziellen Überbrückungshilfen der Anstieg der Arbeitslosigkeit begrenzt werden. Ende 2020 war rund eine halbe Mil-lion Menschen mehr arbeitslos als ein Jahr zuvor, darunter mehr als die Hälfte ohne abge-schlossene Berufsausbildung. Auf struktureller Ebene ist gleichzeitig zu beobachten, dass die durch die Pandemie verursachte Krise auch zu einer weiteren Beschleunigung des digitalen Wandels beigetragen hat, etwa durch den Boom im Online-Handel.
+Bis zum Jahr 2040  rechnet das aktuelle Fachkräftemonitoring der Bundesregierung damit, dass rund  5,3 Mio. Arbeitsplätze wegfallen, während  zugleich rund 3,6 Mio. neue entstehen werden. 
+Mit Blick auf die nächsten Jahre zeigen Studien, dass zwischen 10 und 15 Prozent der Beschäf-tigten in Deutschland einem hohen Risiko ausgesetzt sind, dass ihre bisherigen beruflichen Funktionen durch Technologien ersetzt werden.1 Nimmt man in der Betrachtung Arbeitsplät-ze hinzu, für die erhebliche Veränderungen erwartet werden, steigt die Zahl der betroffenen Arbeitsplätze nach Schätzungen der OECD auf über die Hälfte (54 Prozent) an.2 
+Bis  zum  Jahr  2040  rechnet  das  aktuelle  Fachkräftemonitoring  der  Bundesregierung  damit, dass rund 5,3 Mio. Arbeitsplätze wegfallen, während zugleich rund 3,6 Mio. neue entstehen werden.3 Die Berechnungen beziehen u.a. auch die Auswirkungen der COVID-19-Pandemie ein. 
+1  Arntz, M., Gregory, T., Zierahn, U. (2020): Digitalisierung und die Zukunft der Arbeit. In: Wirtschaftsdienst (13),  DOI: 10.1007/s10273-020-2614-6.
+2  Nedelkoska, L., Quintini, G. (2018): Automation, skills use and training. In: OECD Social, Employment and Migration Working Papers,  No. 202, OECD Publishing, Paris. URL: dx.doi.org/10.1787/2e2f4eea-en.
+3  Bundesministerium für Arbeit und Soziales (Hrsg.) (2021), Forschungsbericht 526/3: Aktualisierte BMAS-Prognose.  „Digitalisierte Arbeitswelt“. Bundesministerium für Arbeit und Soziales, Berlin.
+[Page #11]
+10
+Teilweise ist der Wegfall von Arbeitsplätzen auch mit der demografischen Entwicklung und der damit verbundenen geringeren Anzahl an Arbeitskräften zu erklären (1,7 Mio.). Berücksichtigt man den demografiebedingten „Verrentungseffekt“,  halten  sich die aufgrund des Struktur-wandels neu entstehenden und wegfallenden Arbeitsplätze mit jeweils rund 3,6 Mio. die Waa-ge. Dabei findet der Auf- und Abbau von Arbeitsplätzen voraussichtlich in unterschiedlichen Branchen und Wirtschaftszweigen statt, sodass die Notwendigkeit für berufliche Neuanfänge und Umstiege für Beschäftigte deutlich zunehmen wird. Zusätzlich verändern sich die Kompe-tenzanforderungen und Tätigkeiten bestehender Arbeitsplätze. In verschiedenen Wirtschafts-bereichen ist dabei ein Trend zur Höherqualifizierung zu beobachten;4 auch Metakompetenzen wie  die  Fähigkeit  zur  Erfassung  komplexer  Sachverhalte, Teamfähigkeit  oder  Kreativität  und Lösungsfindung  werden  zunehmend  wichtiger.  5 Teilweise  geht  diese  Entwicklung  mit  einem stärkeren Wachstum von Arbeitsplätzen für niedrig qualifizierte Beschäftigte im Vergleich zum mittleren Qualifikationsspektrum einher. Dies gilt beispielsweise für den Maschinenbau.6
+Ausgangslage und Herausforderungen
+Deutschland verfügt  über  eine  komplexe  und  stark  ausdifferenzierte  Landschaft  der  berufli-chen und allgemeinen Weiterbildung, die häufig auf dem bewährten System der beruflichen Erstausbildung aufbaut und Übergänge zwischen allgemeiner und beruflicher Weiterbildung ermöglicht. In dem vorliegenden Umsetzungsbericht geht es gemäß der Zielsetzung der Na-tionalen Weiterbildungsstrategie (NWS) vorrangig um die berufliche Weiterbildung.
+Ein  großer  Teil  der  beruflichen  Weiterbildungsaktivitäten  findet  im  betrieblichen  Kontext statt. Den Sozial- und Betriebspartnern kommt daher eine zentrale Rolle im Gesamtgefüge 
+4  Matthes, B., Müller, G. (2021): Ergebnisse der Machbarkeitsstudie Kompetenz-Kompass zu den Branchen Maschinenbau, IKT und Gesundheitswesen. Bundesministerium für Arbeit und Soziales, Berlin. 
+5  BMAS (2021).  
+6  Matthes, B., Müller, G. (2021).
+[Page #12]
+11
+der  beruflichen  Weiterbildung  zu,  welches  insgesamt  durch  eine  marktförmige  Organisation mit  rund  18.000  öffentlichen  und  privaten Weiterbildungsanbietern  geprägt  ist.7  Gleichzeitig wird  das  System  durch  verschiedene  Regelungsebenen  und  eine  Vielzahl  von  Rechtsgrund-lagen strukturiert: Neben den Wirtschafts- und Sozialpartnern sind der Bund, die Länder und die  Bundesagentur  für  Arbeit  zentrale  Akteure.  Jenseits  tariflicher  und  betrieblicher  Verein-barungen wirken u.a. Regelungen des Berufsbildungsgesetzes, der Handwerksordnung und des Aufstiegsfortbildungsförderungsgesetzes,  des  Betriebsverfassungsgesetzes,  der  Sozialgesetz-bücher II und III, aber auch verschiedene Regelungen auf Landesebene. Beispielhaft sind hier die  Weiterbildungs-,  Bildungsfreistellungs-  und  Hochschulgesetze,  landesspezifische  Regel-ungen zu bestimmten Berufen sowie Förderprogramme der Länder zu nennen. 
+Übergreifend  ist  und  bleibt  handlungsleitend,  dass  Unternehmen,  Beschäftigte  und  die öffentliche Hand eine geteilte Verantwortung und Verpflichtung für die berufliche Weiterbildung und deren Finanzierung tragen. Während diese weiterbildungspolitische Gesamtarchitektur auf der einen Seite u.a. eine regionale Anpassung der Angebote für die jeweilige Zielgruppe ermög-licht, erfordert die vielschichtige Organisationsstruktur der beruflichen Weiterbildung auf der anderen Seite einen hohen Grad der Kooperation und Koordination zwischen den verschiede-nen Akteuren.
+Angesichts  tiefgreifender  struktureller  und  technologischer  Umbrüche  ist  die  Bedeutung von beruflicher Weiterbildung für Betriebe und Beschäftigte ebenso wie für Arbeitsuchende deutlich  gestiegen.  Dies  umfasst  auch  die  Personalplanung  und  -entwicklung  sowie  Quali-fizierungsbedarfsermittlung. Die berufliche Weiterbildung ist zentral, um einerseits die Inno-vations- und Leistungsfähigkeit der Betriebe und andererseits Beschäftigungssicherheit sowie selbstbestimmte  berufliche  Entwicklungsperspektiven  zu  erhalten  und  zu erhöhen und das Einkommen für jede und jeden zu sichern. Dabei gilt es, eine  vorausschauende  und  vorsorgende  Qualifizierung  der  Beschäftigten sicherzustellen. Fachkräfte in ausreichender Zahl mit passgenauen Kompe-tenzen werden auch wesentlich über die Zukunftsfähigkeit der deutschen Volkswirtschaft  entscheiden.  So  empfiehlt  z.B.  das  jüngste  Gutachten  der Expertenkommission  Forschung  und  Innovation  (EFI)  die „Erprobung von Instrumenten  zur  Unterstützung  präventiver  Anpassungsqualifizierungen, die Beschäftigten rechtzeitig den Umstieg zu einem neuen Arbeitgeber er-leichtern und sowohl das abgebende als auch das aufnehmende Unterneh-men angemessen beteiligen“.8
+Die Nationale Weiterbildungsstrategie leistet einen wichtigen Beitrag dazu,  die Chancen der Transformation  für Deutschland zu  nutzen.
+Die  NWS  ist  nicht  nur  Teil  der  Fachkräftestrategie  der  Bundesregierung.9  Sie  dient  auch dazu,  deutliche  Impulse  zu  setzen,  die  Kooperation  der  verschiedenen  Akteure  zu  vertie-fen,  das  Weiterbildungssystem  fortzuentwickeln  und  gemeinsam  die  Weiterbildungskultur in Deutschland zu stärken. Sie leistet einen wichtigen Beitrag dazu, die Chancen der Trans-formation für Deutschland zu nutzen, Zukunft zu gestalten und gleichzeitig Schutz und Be-gleitung im Wandel zu bieten. 
+7  Bundesinstitut für Berufsbildung (2020): Datenreport zum Berufsbildungsbericht 2020. Ratgeber zur beruflichen Weiterbildung.  BIBB, Bonn.
+8  EFI – Expertenkommission Forschung und Innovation (2021): Gutachten zu Forschung, Innovation und technologischer  Leistungsfähigkeit Deutschlands 2021. EFI, Berlin.
+9  Die NWS ist fokussiert auf die berufliche Weiterbildung. Sie hat zum Ziel, die berufliche Handlungsfähigkeit im Rahmen von Anpassungs- bzw. Erhaltungsqualifizierungen zu sichern oder im Rahmen von Entwicklungs- bzw. Aufstiegsqualifizierungen zu erweitern und berufliche Aufstiege zu ermöglichen. Auch Umschulungen oder der nachholende Erwerb von Grundkompetenzen oder eines Berufsabschlusses lassen sich – im weiteren Sinne – zu dem Bereich der beruflichen Weiterbildung zählen. Ziel betrieblicher Weiterbildungen ist, den Qualifikations-bedarf innerhalb von Betrieben zu decken.
+[Page #13]
+12
+Zahlen und Fakten zur beruflichen Weiterbildung
+AKTIVE BEVÖLKERUNG 
+Generell ist die Motivation, an beruflichen Weiterbildungen teilzunehmen, bei vielen Perso-nen hoch. Laut dem Nationalen Bildungspanel (NEPS) würden 30 Prozent der Erwerbstätigen durch eine Weiterbildung sogar gerne einen weiteren Abschluss erwerben.10  Gleichzeitig gibt es auch Personengruppen, die noch stärker für die Bedeutung von beruflicher Weiterbildung sensibilisiert und motiviert werden sollten. Mit Blick auf die tatsächlichen individuellen Wei-terbildungsaktivitäten  zeigen  die  aktuellsten  Daten  des  Adult  Education  Survey  (AES)  aus dem Jahr 2018, dass 54 Prozent der 18- bis 64-Jährigen an Weiterbildungen teilgenommen haben. Dies ist ein Anstieg von vier Prozentpunkten im Vergleich zu 2016.11 Bei differenzierter Betrachtung nach Erwerbssituation und Erwerbsstatus zeigen sich große Unterschiede in der Weiterbildungsbeteiligung. So war der Anteil Erwerbstätiger an Weiterbildung am höchsten (59 Prozent), gefolgt von Personen in schulischer oder beruflicher (Aus-)Bildung (56 Prozent) sowie Arbeitslosen (49 Prozent). Die Weiterbildungsaktivitäten verteilen sich dabei – gemes-sen in aufgewendeter Zeit in Stunden – zu rund 45 Prozent auf betriebliche Weiterbildungs-maßnahmen, zu rund 33 Prozent auf individuell berufsbezogene Weiterbildungsmaßnahmen und zu rund 21 Prozent auf nicht berufsbezogene Weiterbildungsmaßnahmen.12 Die durch-schnittliche Dauer einer Weiterbildung hängt stark vom jeweiligen Segment ab. Betriebliche Weiterbildungen  dauern  laut  AES  durchschnittlich  29  Stunden.  Für  individuelle  berufliche Weiterbildungen werden im Durchschnitt 153 Stunden und für nicht berufsbezogene Weiter-bildungsaktivitäten im Schnitt 56 Stunden aufgewendet.13
+AKTIVE BETRIEBE
+Der Anteil weiterbildungsaktiver Betriebe ist in den letzten Jahren laut dem Betriebspanel des Instituts  für  Arbeitsmarkt-  und  Berufsforschung  (IAB)  weiter  gestiegen.  Im  ersten  Halbjahr 2016 bildeten 53 Prozent der Betriebe weiter.14 Die Beteiligung variiert dabei stark mit der Be-triebsgröße: Während von den Kleinstbetrieben mit weniger als zehn Beschäftigten 44 Prozent weiterbildeten,  waren  es  von  den  Großbetrieben  mit  mindestens  500  Beschäftigten  nahezu alle (98 Prozent).15 Weitere Unternehmensbefragungen ergeben eine deutlich höhere Weiter-bildungsbeteiligung, was u.a. an Unterschieden in den betrachteten Zeiträumen, den zugrunde liegenden Weiterbildungsbegriffen oder der Dauer der abgefragten Weiterbildungsaktivität lie-gen kann. So lag gemäß der IW-Weiterbildungserhebung 2020 die Weiterbildungsbeteiligung von deutschen Unternehmen im Jahr 2019 bei rund 88 Prozent.16 Fast neun von zehn Unter-
+10  Ehlert, M. (2020): Individuelle berufsbezogene Weiterbildung und Umschulung: Aktuelle Daten zu Bedarf und Teilnahme  aus dem NEPS. Präsentation im Rahmen des Fachgesprächs des Gesprächskreises Weiterbildungspolitik am 02.09.2020.  Friedrich-Ebert-Stiftung, Berlin.
+11  Bundesministerium für Bildung und Forschung (Hrsg.) (2019): Weiterbildungsverhalten in Deutschland 2018. Ergebnisse des Adult Education Survey – AES-Trendbericht. BMBF, Bonn, S. 13, Abbildung 2.
+12  Ebd., S. 44, Abbildung 15.
+13  Ebd., S. 43, Abbildung 12.
+14  IAB-Betriebspanel (2017): Daten. IAB-Pressekonferenz „Betriebliche Weiterbildung“ am 22. März 2017.
+15  Bundesinstitut für Berufsbildung (2018): Datenreport zum Berufsbildungsbericht 2018. Informationen und Analysen zur Entwicklung der beruflichen Bildung. BIBB, Bonn, S. 348 f.
+16  Seyda, S., Placke, B. (2020): IW-Weiterbildungserhebung 2020: Weiterbildung auf Wachstumskurs., IW-Trends (04/2020),  Institut der deutschen Wirtschaft e.V. (Hrsg.), Köln. 
+[Page #14]
+13
+Weiterbildungsausgaben
+laut dem Bildungsfinanzbericht
+16,6 
+11,7 
+Mrd.Euro2017
+Mrd. Euro2007
+nehmen sehen Weiterbildung als eine zentrale Antwort auf die Digitalisierung der Arbeitswelt.17 Über 40 Prozent haben bereits eine dezidierte Weiterbildungsstrategie.18
+ANGEBOTE 
+Weiterbildungsangebote  werden  von  mehr  als  18.000  öffentlichen  und  privaten  Anbietern bereitgestellt. Bei der Betrachtung der Anbieterseite von Weiterbildung kann eine idealtypi-sche Zuordnung von Anbietern zu vier Kontexten genutzt werden: Staat mit öffentlich-recht-lichem  Kontext,  Gemeinschaften,  Markt  (kommerzielle  Anbieter)  und  Unternehmen.  2018 entfielen 17 Prozent der im AES erfassten Weiterbildungsaktivitäten auf gemeinschaftliche, 13 Prozent auf staatliche, 22 Prozent auf kommerzielle und mit 45 Prozent knapp die Hälfte auf betriebliche Anbieter.19
+EINFLUSSFAKTOREN 
+Es  gibt  eine Vielzahl von  Faktoren,  die  sich  auf  die  Qualifizierungsbedarfe  und  auf  die Wei-terbildungsbeteiligung auswirken. Hierzu gehören die gesamtwirtschaftlichen Rahmenbedin-gungen, unternehmerische und betriebliche Entscheidungen und letztlich der konkrete weitere Verlauf des Strukturwandels. Weitere Faktoren und Herausforderungen ergeben sich aus der Betrachtung soziodemografischer Aspekte. So nehmen Personen mit Migrationshintergrund (1. Generation) sowie Personen mit einem niedrigen Qualifikationsniveau und gering literalisierte Personen deutlich seltener an Weiterbildungen teil.20 Die Zahl gering literalisierter Erwachse-ner liegt in Deutschland laut einer aktuellen Studie der Universität Hamburg bei rund 6,2 Mio. Menschen. 62,3 Prozent von ihnen sind erwerbstätig.21 Laut der Erwerbstätigenbefragung des Bundesinstituts für Berufsbildung und der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (BIBB/BAuA) 2018 ist die Weiterbildungsquote für Beschäftigte in der Einfacharbeit nur etwa 
+17  Deutscher Industrie- und Handelskammertag (2017): Wachsende Herausforderungen treffen auf größeren Optimismus. Das IHK-Unternehmensbarometer zur Digitalisierung. DIHK, Berlin und Brüssel.
+18  Bitkom/VdTüV (Hrsg.) (2018): Weiterbildung für die digitale Arbeitswelt: Eine repräsentative Untersuchung von Bitkom Research im Auftrag des VdTÜV e.V. und des Bitkom e.V. Berlin. 
+19  Autorengruppe Bildungsberichterstattung (2020): Bildung in Deutschland 2020. Ein indikatorengestützter Bericht mit einer Analyse zuBildung in einer digitalisierten Welt. Gefördert mit Mitteln der Ständigen Konferenz der Kultusminister der Länder in der BundesrepublikDeutschland und des Bundesministeriums für Bildung und Forschung. In: Bildungsbericht.  URL: bildungsbericht.de/static_pdfs/bildungsbericht-2020.pdf. 
+20  Bundesministerium für Bildung und Forschung (Hrsg.) (2019): Weiterbildungsverhalten in Deutschland 2018. Ergebnisse des Adult Education Survey – AES-Trendbericht. BMBF, Bonn, S. 30.
+21  Grotlüschen, A., Buddeberg, K., Dutz, G., Heilmann, L., Stammer, C. (2019): Leo 2018. Leben mit geringer Literalität. Pressebroschüre, Hamburg, S. 20, 170.
+[Page #15]
+14
+halb  so  hoch  wie  für  Beschäftigte  in  qualifizierten  Tätigkeiten.22  In  diesem  Zusammenhang spielen auch die konkreten Tätigkeiten eine wichtige Rolle. Daten zeigen, dass Beschäftigte, bei  deren Arbeitsplätzen  ein  hohes  Substitutionspotenzial  durch  digitale Technologien  be-steht,  im  Durchschnitt  weniger  an Weiterbildung  teilnehmen.23  Zudem  nehmen  Frauen  im Vergleich zu Männern seltener an berufsbezogenen Weiterbildungen teil.24 Die Unterschiede sind dabei zu wesentlichen Teilen auf Unterschiede beim Umfang der Erwerbstätigkeit, bei der beruflichen Stellung, bei der Inzidenz befristeter oder geringfügiger Beschäftigungsver-hältnisse und nicht zuletzt bei der Übernahme von Sorgearbeit im Familienkontext zurück-zuführen.25 Die seitens der potenziell Teilnehmenden am häufigsten genannten Hemmnisse sind fehlende Zeit und finanzielle Aspekte. Je niedriger das Haushaltseinkommen, desto grö-ßer ist die Herausforderung, Weiterbildungsambitionen zu realisieren. Auch das Vorhanden-sein von Kindern oder Pflegebedürftigen im Haushalt reduziert, sowohl bei Männern als auch bei  Frauen,  signifikant  die  Wahrscheinlichkeit,  dass  Weiterbildung  realisiert  wird.26  Zudem wirkt  sich  auch  eine  „Lernentwöhnung“  negativ  auf  die  Motivation  für  Weiterbildung  aus. Gut zwei Drittel der Beschäftigten ohne beruflichen Abschluss stimmten in einer Befragung der Aussage zu, dass sie das Lernen nicht mehr gewohnt seien und dies als Hemmnis wirke.27 Einen weiteren Einflussfaktor stellt hier nicht zuletzt die Frage der Existenz bedarfsgerechter und passgenauer Weiterbildungsangebote dar.
+INVESTITIONEN 
+Die Weiterbildungsausgaben gemäß dem Bildungsfinanzbericht28 lagen 2017 bei insgesamt 16,6 Mrd. Euro.29 Der öffentliche Bereich hatte daran einen Finanzierungsanteil von 5,6 Mrd. Euro. Vor zehn Jahren lagen die Weiterbildungsausgaben bei 11,7 Mrd. Euro mit einem Fi-nanzierungsanteil des öffentlichen Bereichs von 4,0 Mrd. Euro. Entsprechend ist der Finan-zierungsanteil  des  öffentlichen  Bereichs  mit  gut  einem  Drittel  stabil  geblieben.30  Aus  den Daten  der  Weiterbildungserhebung  des  Instituts  der  Deutschen  Wirtschaft  ergibt  sich  für die  Investitionen  der  Betriebe  eine  Steigerung  von  27  Mrd.  Euro  (2009)  auf  41  Mrd.  Euro (2019). Andere Studien kommen dagegen auf wesentlich niedrigere Investitionsbeiträge der Betriebe.31  Festzustellen  bleibt,  dass  hierzu  unterschiedliche  Berechnungsgrundlagen  und Modellrechnungen vorliegen, die unterschiedlich belastbar sind. Eine Studie des IAB zu den gesamtfiskalischen Auswirkungen der Weiterbildungsförderung zeigt in diesem Zusammen-
+22  Hall, A., Sevindik, U. (2018): Einfacharbeit in Deutschland – wer arbeitet was unter welchen Bedingungen?   Ergebnisse aus der BIBB/BAuA-Erwerbstätigenbefragung 2018. BIBB, Bonn. 
+23  Heß, P., Janssen, S., Leber, U. (2019): Beschäftigte, deren Tätigkeiten durch Technologien ersetzbar sind, bilden sich seltener weiter. IAB-Kurzbericht 16/2019. Institut für Arbeitsmarkt- und Berufsforschung, Nürnberg.
+24  Bundesministerium für Bildung und Forschung (2019), S. 32.
+25  Ebd., S. 33.
+26  Ehlert, M. (2020).
+27  Osiander, C., Stephan, G. (2018): Gerade geringqualifizierte Beschäftigte sehen bei der beruflichen Weiterbildung viele Hürden. In: IAB-Forum, 2. August 2018. URL: iab-forum.de/gerade-geringqualifizierte-beschaeftigte-sehen-bei-der-beruflichen-weiterbildung-viele-huerden/.
+28  Der Bildungsfinanzbericht bildet die Weiterbildungsausgaben nur unvollständig ab. Insbesondere die steuerliche Förderung von Weiterbildungskosten ist nicht enthalten, und somit werden die öffentlichen Weiterbildungsausgaben unterschätzt. Der Bericht enthält die Ausgaben für die betriebliche Weiterbildung, die Förderung von Teilnehmenden an Weiterbildung, die Volkshochschulen und sonstige Bildungsangebote.
+29  Statistisches Bundesamt (2020): Bildungsfinanzbericht 2020. Im Auftrag des Bundesministeriums für Bildung und Forschung und der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland. Destatis, Wiesbaden. 
+30  Unter Berücksichtigung der steuerlichen Absetzbarkeit von Weiterbildungskosten im Rahmen der Werbungskosten erhöhen sich die staatlichen Weiterbildungsausgaben um schätzungsweise 6,5 bis 7 Mrd. Euro (vgl. Fußnote 28).
+31  Dohmen, D., Cordes, M. (2019): Kosten der Weiterbildung in Deutschland. Verteilung der Finanzlasten auf Unternehmen, Privatperso-nen, öffentliche Hand. Studie im Rahmen des Projekts „Volks- und regionalwirtschaftliche Kosten, Finanzierungs- und Förderstrukturen und Erträge der Weiterbildung – VoREFFi-WB“. Gefördert vom Bundesministerium für Bildung und Forschung, FiBS Forum Nr. 61. FiBS Forschungsinstitut für Bildungs- und Sozialökonomie, Berlin.
+[Page #16]
+15
+%der 18- bis 64-Jährigen haben 2018 an 9von10
+Anteil der Weiterbildungsbeteiligung:
+59%49% 18.000
+der Erwerbstätigen
+Weiterbildungen teilgenommen.
+der Arbeitslosen
+mehr alsöffentliche und private Anbieterstellen Weiterbildungsangebote bereit
+Unternehmen
+sehen die Weiterbildung als eine zentrale 
+Antwort auf die Digitalisierung der Arbeitswelt. 
+hang, dass höhere Investitionen in berufliche Weiterbildung hohe fiskalische Rückflüsse ge-nerieren können.32 Es ist daher davon auszugehen, dass sich neben dem individuellen Nutzen von Weiterbildungen auch eine hohe gesamtwirtschaftliche Bildungsrendite ergibt. 
+INTERNATIONALER VERGLEICH 
+Deutschland ist bekannt für sein hoch entwickeltes Berufsbildungssystem. Mehr als jeder zwei-te Erwachsene verfügt über einen Berufsabschluss nach ISCED-Level 3-4 (ISCED = Internatio-nal Standard Classification of Education der UNESCO). Das ist der zweithöchste Anteil unter allen OECD-Ländern.33 Lediglich die Slowakei weist mit knapp über 60 Prozent einen noch hö-heren Anteil auf. Deutschland lag bei der letzten europaweiten Erhebung im Jahr 2016 mit einer Beteiligung Erwachsener am lebenslangen Lernen (formales, nonformales und informelles Ler-nen) in Höhe von 52 Prozent deutlich über dem EU-Durchschnitt (knapp 45 Prozent).34 Bezogen auf die Beteiligung an nonformaler Bildung stieg die Quote in Deutschland von 2016 bis 2018 um vier Prozentpunkte auf 54 Prozent. Im Vergleich zu anderen europäischen OECD-Staaten lernen Erwachsene (Altersgruppe 25 bis 64 Jahre) in Deutschland seltener formal und informell sowie häufiger nonformal.35 Betrachtet man die Lernintensität, mit der an formalen Bildungs- und Weiterbildungsaktivitäten teilgenommen wird, weist Deutschland mit großem Abstand die höchsten Werte  auf.  Im  Durchschnitt  summieren  sich  demnach  die  formalen  Bildungs-  und Weiterbildungsaktivitäten  Erwachsener  auf  einen  Umfang  von  872  Unterrichtsstunden  pro Jahr. Das entspricht mehr als fünf Monaten Vollzeitstudium.36
+32  Kruppe, T., Mühlhan, J., Weber, E., Wiemers, J. (2019): Gesamtfiskalische Wirkungen von Weiterbildungsförderung: Öffentliche Ausgaben generieren hohe Rückflüsse. IAB-Kurzbericht 08/2019. Institut für Arbeitsmarkt- und Berufsforschung, Nürnberg.
+33  OECD (2021): Continuing Education and Training in Germany. Getting Skills Right. OECD Publishing, Paris, S. 30, Abbildung 1.9.
+34  Die nächste europäische AES-Erhebung wird im Jahr 2022 durchgeführt. 
+35  Zur formalen Bildung zählen die Bildungsgänge der Primar- und Sekundarstufe sowie der tertiäre Bildungsbereich. Nonformale Bildung umfasst alle organisierten Lehr-/Lernsettings, die nicht in den Nationalen Qualifikationsrahmen eingebunden sind. Unter informellem Lernen wird schließlich jede Form von selbst organisiertem Lernen verstanden, vorausgesetzt es liegt eine Lernintention vor.
+36  OECD (2021), S. 40.
+[Page #17]
+K A P I T E L  2
+Was haben wir  bisher erreicht?
+[Page #18]
+17
+A | AUF EINEN BLICK
+Handlungsfelder und Umsetzungsbeiträge der Nationalen Weiterbildungsstrategie
+Die Transformation auf dem Arbeitsmarkt, insbesondere der digitale und ökologische Wandel, stellt  die  berufliche  Weiterbildung  in  Deutschland  vor  große  Herausforderungen.  Weiterbil-dung muss so ausgerichtet sein, dass sie zum Gelingen des Strukturwandels beiträgt – für die Wirtschaft insgesamt, die Betriebe und für jeden Einzelnen. Die Nationale Weiterbildungsstra-tegie  (NWS)  leistet  dafür  einen  wesentlichen  Beitrag,  indem  sie Weiterbildung  als  selbstver-ständlichen Teil des Lebens versteht und Impulse für eine neue Weiterbildungskultur setzt.
+Im Herbst 2018 wurde ein Konsultations- und Diskussionsprozess mit insgesamt 17 Partner-institutionen aufgesetzt. Ziel war, einen gemeinsamen strategischen Ansatz zur Stärkung der Weiterbildung in Deutschland zu entwickeln. Die Partner einigten sich auf zehn weiter unten aufgeführte Handlungsfelder, und im Juni 2019 wurde ein gemeinsam erarbeitetes Strategie-papier veröffentlicht. Die NWS-Partner haben sich in dem Strategiepapier das Ziel gesetzt, die  berufliche  Teilhabe  und  Handlungsfähigkeit  aller  erwerbsfähigen  Personen,  einschließ-lich arbeitsloser und arbeitsuchender Personen, zu sichern bzw. zu verbessern. Beschäftigte und Betriebe sollen bedarfsgerecht bei der Bewältigung und Gestaltung des Wandels unter-stützt  werden.  Hierfür  sind  Weiterbildungsmaßnahmen  im  Rahmen  von  Anpassungs-  bzw. Erhaltungsqualifizierungen  sowie  Entwicklungs-  und  Aufstiegsqualifizierungen  von  beson-derer Bedeutung. Genauso wichtig sind auch Umschulungen oder der nachholende Erwerb von Grundkompetenzen oder eines Berufsabschlusses. Innerhalb von zehn definierten Hand-lungsfeldern haben die NWS-Partner sich auf konkrete Beiträge und Maßnahmen verpflich-tet, um die Ziele des Strategiepapiers umzusetzen.
+[Page #19]
+18
+HANDLUNGSFELDER DER NWS
+1. 
+Die Transparenz von Weiterbildungsmöglichkeiten und -angeboten unterstützen
+2. Förderlücken schließen, neue Anreize setzen, bestehende Fördersysteme anpassen
+3. Lebensbegleitende Weiterbildungsberatung flächendeckend vernetzen und Quali-fizierungsberatung insbesondere für kleine und mittlere Unternehmen stärken
+4. Die Verantwortung der Sozialpartner stärken
+5. Die Qualität und Qualitätsbewertung von Weiterbildungsangeboten prüfen
+und stärken
+6. Erworbene Kompetenzen von Arbeitnehmerinnen und Arbeitnehmern 
+in der beruflichen Bildung sichtbar machen und anerkennen
+7. Fortbildungsabschlüsse und Weiterbildungsangebote entwickeln
+8. Bildungseinrichtungen als Kompetenzzentren für berufliche Weiterbildung
+strategisch weiterentwickeln
+9. Das Personal in der Weiterbildung stärken und für den digitalen Wandel qualifizieren
+10. Die strategische Vorausschau stärken und die Weiterbildungsstatistik optimieren
+DIE UMSETZUNG DER STRATEGIE
+Im zurückliegenden Umsetzungsprozess haben die NWS-Partner ihre Anstrengungen gebün-delt, um die im Strategieprozess definierten Chancen und Herausforderungen im Bereich der Weiterbildung zu adressieren und gemeinsame Handlungsansätze weiterzuentwickeln. Für die Koordinierung  der  einzelnen  Umsetzungsaktivitäten  und  der  dafür  notwendigen Vernetzung wurde ein Umsetzungsgremium mit allen NWS-Partnern ins Leben gerufen. 
+Im Rahmen von vier Themenlaboren haben die Partner, unter Einbindung von weiteren Ex-pertinnen und Experten, konkrete Lösungsansätze und Empfehlungen zu den folgenden Be-reichen entwickelt: 
+• Strategische Vorausschau und Analyseinstrumente 
+• Alphabetisierung und Grundkompetenzen
+• Beratungsstrukturen in der Weiterbildung
+• Qualitätssicherung in der Weiterbildung
+[Page #20]
+19
+Zudem  wurde  eine  Arbeitsgruppe  zum  Thema  „Beschäftigungsbedingungen  des  Weiterbil-dungspersonals  in  der  öffentlich  finanzierten  Weiterbildung“  eingerichtet.  Darüber  hinaus wurde ein Workshop zum Thema „Digitale Lerninfrastruktur“ und zu den damit verbundenen Chancen und Herausforderungen durch die digitale Transformation durchgeführt.
+Ebenso wurde ein Bund-Länder-Ausschuss ins Leben gerufen. Übergreifendes Ziel dieses Aus-schusses ist es, einen besseren Transfer- und Erfahrungsaustausch zu ermöglichen und die öf-fentliche Förderung der beruflichen Weiterbildung aufeinander abzustimmen.
+In der zurückliegenden Umsetzungsphase haben die NWS-Partner einen Großteil der verein-barten Aktivitäten bereits umgesetzt oder auf den Weg gebracht. An dieser Stelle wird im Über-blick eine Auswahl von hervorgehobenen Maßnahmen und Vereinbarungen aus der zurücklie-genden Umsetzungsphase dokumentiert:
+[Page #21]
+20
+UMSETZUNGSBEITRÄGE ZUR NWS (AUSWAHL)
+Transparenz unterstützen
+• 
+Im Dezember 2020 wurde die Projektdefinitionsphase (PDP) für das vom Bundesministe-rium für Arbeit und Soziales (BMAS) geplante zentrale Eingangsportal NOW! (Nationale  Online-Weiterbildungsplattform)  von  der  Bundesagentur  für  Arbeit  (BA),  eingeleitet. nach deren Abschluss das BMAS und der BA-Verwaltungsrat über die weitere Umsetzung entscheiden.
+• Der vom Bundesministerium für Bildung und Forschung (BMBF) geförderte Innovations-wettbewerb „INVITE“ stärkt den digitalen Weiterbildungsraum mit den im Frühjahr 2021 gestarteten Förderprojekten.
+• Einrichtung des Bund-Länder-Ausschusses zur besseren Abstimmung von Förder-
+maßnahmen.
+Förderangebote weiterentwickeln
+• 
+Mit  dem  Arbeit-von-morgen-Gesetz  wurde  die  Förderung  von  strukturwandelbedingten Qualifizierungen  durch  die  BA  deutlich  ausgebaut,  um  die  Beschäftigungsfähigkeit  von   Erwerbspersonen im digitalen Wandel zu verbessern. Mit dem Gesetz wurde ebenso unter bestimmten Voraussetzungen ein Rechtsanspruch auf Förderung des Nachholens eines   Berufsabschlusses neu geschaffen.
+• Mit  dem  Beschäftigungssicherungsgesetz  wurde  während  der  COVID-19-Pandemie  der Anreiz gestärkt, Zeiten der Kurzarbeit für berufliche Weiterbildung zu nutzen, indem u.a. die Förderung der beruflichen Weiterbildung für diese Fälle vereinfacht und fortent wickelt wurde.
+• Mit der Novelle des Aufstiegsfortbildungsförderungsgesetzes und damit verbundenen 
+erhöhten Fördersätzen, Zuschussanteilen und Freibeträgen werden zusätzliche Anreize zur Stärkung der höherqualifizierenden Berufsbildung gegeben. 
+• Die Länder haben die Regelstrukturen und die Förderung für die Alphabetisierung und 
+Grundbildung bedarfsgerecht und nachhaltig ausgebaut. 
+• Zahlreiche Länder haben ihre Förderprogramme für die Weiterbildung weiterentwickelt 
+und dabei die neuen Bundesförderungen berücksichtigt.
+• Das BMBF fördert im Rahmen der AlphaDekade ab 2021 neue Entwicklungsprojekte  
+zur arbeitsorientierten Alphabetisierung und Grundbildung.
+Beratung stärken
+•  Mit vom BMBF geförderten Projekten der Gewerkschaften und Chemie-Sozialpartner wer-den seit 2020 mithilfe von Weiterbildungsmentorinnen und -mentoren betriebliche Unter-stützungsstrukturen zur Etablierung einer nachhaltigen Bildungsberatung und -begleitung ausgebaut, um Beschäftigte besser für Weiterbildung zu sensibilisieren und zu motivieren. Ein ähnlicher Ansatz wird in einigen Ländern verfolgt.
+[Page #22]
+21
+•  Die regionale Zusammenarbeit zwischen der BA, den Ländern und weiteren Part-
+nern wurde gestärkt und wird weiterentwickelt, um Angebote vor Ort noch besser zu verzahnen.
+Verantwortung der Sozialpartner stärken
+•  Zusammen mit den Sozialpartnern hat das BMAS die ESF-Sozialpartnerrichtlinie weiter-entwickelt und wird in den Jahren 2021 bis 2027 innovative Projekte für Weiterbildung und Gleichstellung fördern.
+•  Tarifliche Regelungen zum Thema Qualifizierung wurden weiterentwickelt vom Bun-
+desarbeitgeberverband Chemie (BAVC), von der IG Bergbau, Chemie, Energie (IG BCE), Gesamtmetall und der IG Metall.
+Qualität stärken
+•  Zentrale Verbesserungen im Akkreditierungs- und Zulassungsverfahren in der Arbeits-
+förderung wurden im Rahmen des Arbeit-von-morgen-Gesetzes umgesetzt. 
+Kompetenzen sichtbar machen
+•  Sozialpartner, BMBF und die Kammerdachorganisationen Deutscher Industrie- und 
+Handelskammertag (DIHK) und Zentralverband des Deutschen Handwerks (ZDH) haben die Prüfung von rechtlichen und finanziellen Rahmenbedingungen vertieft, damit das Validierungsverfahren von beruflichen Kompetenzen in der nächsten Legislaturperiode fortgesetzt und gegebenenfalls auf eine rechtliche Grundlage gestellt werden kann. 
+Angebote entwickeln
+•  Die 2020 gestarteten Förderprojekte im vom BMBF geförderten Bundeswettbewerb „Zu-kunft gestalten – Innovationen für eine exzellente berufliche Bildung – InnoVET“ werden bis 2024 strukturelle Impulse für weiter gehende Aufstiegsperspektiven geben.
+Einrichtungen weiterentwickeln und regionale Vernetzung stärken
+•  Das  2020  gestartete  Bundesprogramm  des  BMAS  zur  Förderung  von  über  40  Weiter-bildungsverbünden  hat  ebenso  wie  einzelne  Programme  der  Länder  das  Ziel,  mithilfe regionaler Koordinierungsstellen die Weiterbildungsperspektive in kleinen und mittleren Unternehmen (KMU) zu stärken.
+Datenlage optimieren
+•  Um das Geschehen in der Weiterbildung besser einschätzen zu können, wurde ein vom BMBF unterstütztes Vorhaben zum Aufbau einer transparenten und systematischen Bericht erstattung im Bereich der beruflichen Weiterbildung gestartet.
+Infobox 1: Auswahl von Umsetzungsbeiträgen der NWS
+[Page #23]
+None
+[Page #24]
+23
+B | Ergebnisse aus den zehn Handlungsfeldern
+H A N D LU N G S F E L D  1
+Die Transparenz von Weiterbildungs­möglichkeiten und ­angeboten unterstützen
+AUSGANGSLAGE UND ZIELSETZUNG
+Die bestehende Vielfalt in der Weiterbildung ist Basis und Chance für bedarfsgerechtes, in-dividuelles und lebensbegleitendes Lernen. Eine große Zahl von Akteuren übernimmt regio-nal und vor Ort Verantwortung. Eine Vielzahl von Bildungsanbietern führt Weiterbildungen entsprechend unterschiedlichsten Bedarfen durch. Relevante Regelungen finden sich sowohl auf Bundes- und Landesebene als auch in zahlreichen Tarifverträgen. Die mit dieser Vielfalt einhergehende Komplexität stellt besondere Anforderungen an die Zusammenarbeit und Ko-ordinierung aller Beteiligten. 
+Im Ergebnis haben Weiterbildungsinteressierte noch zu häufig Schwierig-keiten,  unter  den  bestehenden,  zunehmend  auch  digitalen  Angeboten passende  Weiterbildungen  zu  identifizieren  und  Fördermöglichkeiten in  Anspruch  zu  nehmen,  um  ihre  Bildungsbedarfe  und  -wünsche  zu erkennen  und  zu  realisieren.  Auch  Unternehmen  fällt  es  nicht  immer leicht,  passende  Angebote  zu  finden,  um  Qualifizierungsbedarfe  ihrer Beschäftigten zu decken.37
+Die bestehende  Vielfalt in der  Weiterbildung ist  Basis und Chance für  bedarfsgerechtes,  individuelles und  lebensbegleitendes  Lernen.
+Die  NWS-Partner  haben  sich  daher  zum  Ziel  gesetzt,  „weiterbildungs-interessierten  Personen,  Beschäftigten  und  Personalverantwortlichen  in Unternehmen  eine  zielgerichtete  Navigation  auf  dem  Weiterbildungsmarkt  zu  erleichtern und die Transparenz zu erhöhen“.38
+37 Bundesministerium für Bildung und Forschung (2019), S. 69, Tabelle 22. Müller, N., Wenzelmann, F. (2020): Berufliche Weiterbildung. – Teilnahme und Abstinenz. In: Zeitschrift für Weiterbildungsforschung, ZfW, Nr. 43, S. 47–73. DOI: doi.org/10.1007/s40955-019-0141-0.
+38 Bundesministerium für Arbeit und Soziales, Bundesministerium für Bildung und Forschung (Hrsg.) (2019): Strategiepapier Nationale Weiterbildungsstrategie 2019, BMAS und BMBF, Berlin, S. 6.
+[Page #25]
+24
+WAS WURDE ERREICHT?
+Mit der Einrichtung eines neuen Bund-Länder-Ausschusses wurde eine Plattform für den Aus-tausch und die Koordinierung der Weiterbildungspolitik in der föderalen Zusammenarbeit ge-schaffen.  Das  erleichtert  den  Erfahrungsaustausch  und  die Abstimmung  zu  Förder-  und  Be-ratungsmaßnahmen. 
+Um die Orientierung und Transparenz für weiterbildungsinteressierte Personen und Unterneh-men maßgeblich zu verbessern, wurden mehrere Initiativen auf den Weg gebracht:
+•  Für die Entwicklung eines zentralen Eingangsportals für die berufliche Weiterbildung hat das BMAS in Kooperation mit Tech4Germany einen nutzerzentrierten Prototyp entwickelt. Darauf aufbauend wurde die BA im Rahmen des Beschäftigungssicherungsgesetzes beauf-tragt, den Aufbau und Betrieb eines Weiterbildungsportals zu prüfen. Bis August 2021 läuft hierzu eine vom Verwaltungsrat der BA beschlossene Projektdefinitionsphase (PDP; NOW! – Nationale Online-Weiterbildungsplattform), in die auch bestehende Angebote der BA und anderer Akteure, insbesondere die bestehenden Weiterbildungsportale der Länder, einbe-zogen werden. Im Fokus stehen dabei als Zielgruppen zunächst weiterbildungsinteressierte Beschäftigte sowie KMU und Bildungsanbieter. Nach Abschluss der PDP wird über die wei-teren Umsetzungsschritte entschieden. Seitens des BMAS stehen bis zu 30 Mio. Euro aus der KI-Strategie der Bundesregierung für die weitere Entwicklung zur Verfügung.
+•  Das BMBF hat den Innovationswettbewerb INVITE (Digitale Plattform berufliche Wei-terbildung) zur Gestaltung eines innovativen, nutzerzentrierten und sicheren digitalen Bildungsraums der berufsbezogenen Weiterbildung veröffentlicht. Die ausgewählten Vorhaben sind technologisch innovativ und beinhalten vielversprechende strukturel-le und didaktische Entwicklungsansätze zur Vernetzung und Weiterentwicklung von internetbasierten Plattformen, Applikationen und Diensten (z.B. Suchmaschinen) sowie zur Entwicklung innovativer digitaler Lehr- und Lernangebote für die berufsbezogene Weiterbildung. Die Projektförderung ist am 1. März 2021 gestartet. Das Gesamtvolumen von INVITE  beläuft sich auf 88 Mio. Euro.
+Die beiden Projekte INVITE und NOW! verfolgen sich ergänzende Ansätze. Beide zielen darauf  ab,  die  Transparenz  und  Zugänglichkeit  in  der  beruflichen  Weiterbildung  zu  stärken,  und  werden daher eng aufeinander abgestimmt. 
+Die  BA  betreibt  bereits  ein  vielfältiges  digitales  Informationsangebot,  wie  z.B.  KURSNET, Deutschlands größte Aus- und Weiterbildungsdatenbank, sowie BERUFENET, ein Online-Lexi-kon für Berufe. Mit dem Online-Tool New Plan ist Ende 2020 ein fundiertes Angebot an den Start  gegangen,  um  Beschäftigte  zu  neuen  beruflichen  Wegen  zu  inspirieren  und  berufliche Entwicklungsmöglichkeiten aufzuzeigen. Im Rahmen von NOW! wird eine Zusammenführung dieser Angebote geprüft. 
+Zum Aufbau eines Informationsportals zur wissenschaftlichen Weiterbildung fördert das BMBF bei der Hochschulrektorenkonferenz das Projekt hoch&weit (Laufzeit: 2020 bis 2023). Das Por-tal wird neben Studiengängen auch kürzere Weiterbildungsangebote wie etwa Zertifikatskurse abbilden. Die Umsetzung wird u.a. eng von der Deutschen Gesellschaft für wissenschaftliche Weiterbildung und Fernstudium begleitet und mit den Portalentwicklungen in einzelnen Bun-desländern abgestimmt. 
+[Page #26]
+25
+DIHK  und  ZDH  haben  zugesagt,  für  die  Fortbildungsabschlüsse  in  ihrem  Zuständigkeits-bereich  die  höherqualifizierende  Berufsbildung  (zuvor  „Aufstiegsfortbildung“  genannt)  bekannter zu machen und die Transparenz von Karriere- und Entwicklungsmöglichkeiten zu erhöhen. Im Bereich der Industrie- und Handelskammern fanden diverse Informationsver-anstaltungen  zu  neuen  Abschlüssen  in  der  höherqualifizierenden  Berufsbildung  statt,  u.a. über ein Internetdossier39 sowie Publikationen mit Fokus auf erfolgreiche Erwerbsbiografien in der höheren Berufsbildung40. 
+AUSBLICK
+•  Zur Vertiefung der Zusammenarbeit im Bereich der Weiterbildung und Stärkung der Kohä-renz der Förderangebote streben Bund und Länder ein koordiniertes Vorgehen gegebenen-falls auch im Kontext von „Weiterbildungsketten“ an. Die Fortführung eines Bund-Länder-Ausschusses soll den Informationsaustausch und die Abstimmung zwischen BMBF, BMAS, BA und den Ländern mit Blick auf die öffentlich geförderte Weiterbildung weiter verbessern.
+39 Deutscher Industrie- und Handelskammertag (2021): Berufliche Weiterbildung zahlt sich aus.  In: DIHK. URL: dihk.de/de/themen-und-positionen/fachkraefte/berufliche-weiterbildung-zahlt-sich-aus.
+40 Deutscher Industrie- und Handelskammertag (2020): Top Abschlüsse. Top Perspektiven. Erfolg mit Höherer Berufsbildung.  In: DIHK. URL: dihk-bildung.shop/weiterbildung/informationsmaterialien/hoehere-berufsbildung/.
+[Page #27]
+26
+H A N D LU N G S F E L D  2
+Förderlücken schließen, neue Anreize setzen, bestehende Fördersysteme anpassen
+AUSGANGSLAGE UND ZIELSETZUNG
+Im  Strukturwandel  nehmen  die  Bedarfe  für  Investitionen  in Weiterbildung  und  Qualifizierung deutlich  zu.  Neben  der  betrieblichen  Weiterbildung  und  der  Qualifizierung  von  Erwerbslosen steht zunehmend auch die individuelle berufliche Weiterbildung im Fokus. Da verschiedene Bran-chen und Wirtschaftsbereiche vom strukturwandelbedingten Auf- und Abbau von Arbeitsplätzen sehr unterschiedlich betroffen sind, steigt die Notwendigkeit für Beschäftigte, sich im bisherigen Beruf  weiterzubilden  oder  sich  beruflich  umzuorientieren  und  gegebenenfalls  die  Branche  zu wechseln. Neben der Unterstützung von Beschäftigten in der Transformation geht es insbeson-dere auch darum, die Beteiligung von gering qualifizierten Personen an Weiterbildung ebenso wie den Erwerb von Grundkompetenzen stärker zu fördern. 
+Diesen gestiegenen Anforderungen gerecht zu werden, liegt in der gemeinsamen Verantwor-tung von Unternehmen, Beschäftigten, Sozialpartnern und öffentlicher Hand. Gleichzeitig loh-nen sich Investitionen in Weiterbildung für alle genannten Akteure, weil sie die Anpassungsfä-higkeit und Resilienz des Arbeitsmarkts sowie volkswirtschaftliche Innovationsprozesse gezielt unterstützen können und damit die Beschäftigungs- und Wettbewerbsfähigkeit sichern.
+WAS WURDE ERREICHT?
+Seit  dem  Jahr  2019  ist  das  Aufgabenspektrum  und  Engagement  der  BA in  der  Förderung  der  beruflichen Weiterbildung  aufgrund  des  Qualifizie-rungschancengesetzes  deutlich  gestiegen.41  Beschäftigte  haben  seitdem unabhängig von Alter, Qualifikation und Betriebsgröße unter bestimmten Voraussetzungen Zugang zur Weiterbildungsförderung.
+Neben der  betrieblichen  Weiterbildung und  der Qualifizierung  von Erwerbslosen steht zunehmend auch die individuelle berufliche Weiterbildung  im Fokus.
+Mit  dem  Arbeit-von-morgen-Gesetz  wurde  auf  Initiative  des  BMAS die  Weiterbildungsförderung  durch  die  Arbeitslosenversicherung  für Beschäftigte  nochmals  ausgebaut.  Beschäftigte  und  Betriebe,  die  be-dingt durch den Strukturwandel einen erhöhten Weiterbildungsbedarf haben, können nun deutlich umfangreicher unterstützt werden. Gleich-zeitig  wurde  das  Antragsverfahren  vereinfacht.  Der  Großteil  der  Länder  ergänzt  diesen Förderweg  durch  eigene  Maßnahmen,  die  auf  die  Förderung  der  individuellen  oder  be-trieblichen Weiterbildung zielen. 
+Mit dem Beschäftigungssicherungsgesetz wurde die Förderung der beruflichen Weiterbildung während der Kurzarbeit verbessert. 
+41 Deutscher Bundestag (2021): Bericht der Bundesregierung über die Förderung der beruflichen Weiterbildung im Rahmen der aktiven Arbeitsförderung und die entsprechenden Ausgaben. Drucksache 19/25785. In: Deutscher Bundestag. URL: dip21.bundestag.de/dip21/btd/19/257/1925785.pdf.
+[Page #28]
+27
+Auf Initiative des BMBF haben Bund und Länder mit der vierten Novelle des Aufstiegsfort-bildungsförderungsgesetzes die finanzielle Unterstützung für Menschen, die einen Aufstieg in  der  höherqualifizierenden  Berufsbildung  wahrnehmen,  spürbar  verbessert  und  die  För-derungsmöglichkeiten erweitert. Beispielsweise wurde der Beitrag zum Lebensunterhalt zu einem Vollzuschuss ausgebaut. Darüber hinaus wurde der Zuschussanteil für Lehrgangs- und Prüfungsgebühren  auf  50  Prozent  erhöht  und  die  Darlehenserlassmöglichkeiten  erweitert. Insbesondere wird mit der Novelle ein „Aufstieg Schritt für Schritt“ über bis zu drei Fortbil-dungsstufen gefördert.  
+Um die individuelle Beschäftigungsfähigkeit von arbeitslosen und beschäftigten Arbeitnehme-rinnen und Arbeitnehmern ohne formellen Berufsabschluss zu stärken, wurde mit dem Arbeit-von-morgen-Gesetz  zudem  ein  grundsätzlicher  Rechtsanspruch  auf  Förderung  einer  berufs-abschlussbezogenen Weiterbildung für diese Personengruppe eingeführt, sofern sich dadurch die  individuelle  Beschäftigungsfähigkeit  verbessert  und  Aussichten  auf  einen  Abschluss  der Weiterbildung bestehen. 
+Bei erfolgreichen Zwischen- und Abschlussprüfungen im Rahmen von Umschulungen, die von der BA und den Jobcentern gefördert werden, können auch zukünftig Weiterbildungsprämien gewährt werden. Mit der Verlängerung der entsprechenden Regelung sollen weiterhin zusätz-liche Anreize zur Aufnahme und zum Durchhalten berufsabschlussbezogener Weiterbildungen gesetzt  werden.  Die  Förderung  von  Menschen  mit  geringem  Einkommen  zur  Teilnahme  an berufsbezogenen  Weiterbildungen  ist  ein  wichtiges  Ziel.  Deshalb  wurden  die  Förderperiode des BMBF-Förderprogramms Bildungsprämie für die Antragstellenden bis Ende 2021 und die Einlösemöglichkeit für die vergebenen Bildungsprämien bis Mitte 2022 verlängert. 
+[Page #29]
+28
+Das BMAS hat entsprechend seiner Prüfzusage eigene konzeptionelle Überlegungen für staat-lich  geförderte  Bildungszeiten  und  -teilzeiten  entwickelt.  Ziel  dieser  Überlegungen  ist  es, individuelle  berufliche  Weiterbildungen,  z.B.  für  Berufs-  und  Branchenwechsel,  angesichts struktureller Veränderungen auf dem Arbeitsmarkt stärker zu unterstützen. Perspektivisch gibt es demnach vor allem dort Handlungsbedarf, wo neue individuelle berufliche Ziele angestrebt oder Umstiege notwendig werden. In Ergänzung zur Förderung der beruflichen Weiterbildung nach dem SGB III könnte eine staatlich geförderte Bildungszeit oder -teilzeit Beschäftigungs-optionen  für Arbeitnehmerinnen  und Arbeitnehmer  erweitern  und  ihnen  einen  individuellen Pfad in einen neuen Beruf mit besseren Beschäftigungsperspektiven oder eine Zukunftsbranche eröffnen. Dabei sollte die Bedeutung von Anwartschaften in den Sozialversicherungen während Bildungsphasen mitgedacht werden. In Branchen oder Regionen, die großflächig vom Struktur-wandel betroffen sind, sollte auch über kollektivrechtliche Ansätze der Perspektivqualifizierung über entsprechende Betriebsvereinbarungen oder Tarifverträge nachgedacht werden.
+Zum  Themenfeld  „Alphabetisierung  und  Verbesserung  von  Grundkompetenzen“  wurde  ein Themenlabor eingerichtet.42 Zentrale Fragestellung war, wie die vorhandenen vielfältigen Akti-vitäten aller Beteiligten ausgebaut und besser miteinander verzahnt werden können. Das The-menlabor hat einen Ergebnisbericht mit folgenden Handlungsempfehlungen vorgelegt: 
+•  Zur Verbesserung der Grundkompetenzen von Menschen mit Lese- und Schreibschwierig-keiten strebt das BMAS an, den Erwerb von Grundkompetenzen auch bei nicht abschluss-orientierter  beruflicher  Weiterbildung  befristet  zu  ermöglichen.  Das  Nachholen  eines Hauptschulabschlusses im Rahmen einer von der BA und den Jobcentern geförderten Wei-terbildung soll erleichtert werden. 
+42 Für eine ausführlichere Darstellung siehe den Ergebnisbericht des Themenlabors in der  Begleitbroschüre.
+[Page #30]
+29
+•  Die BA und die Jobcenter werden im Rahmen der arbeitsmarktpolitischen Leistungen die Förderung  gering  literalisierter  Erwachsener  fortführen  und  insbesondere  den  Ausbau von Lernangeboten für gering literalisierte Erwachsene unterstützen. 
+•  Die Länder bauen den Themenbereich auch durch die Beteiligung an der Nationalen De-kade für Alphabetisierung und Grundbildung von Bund und Ländern weiter aus. Zudem stehen  die  Förderung  und  der Ausbau von  Grundbildungszentren  in vielen  Ländern  im Fokus. Darüber hinaus steht bei den Ländern der Aufbau nachhaltiger Strukturen zur Lite-ralisierung im Vordergrund, sowohl über landesweite Koordinierungs- und Fachstellen als auch über landesweite Netzwerke, um die Ansprache gering literalisierter Erwachsener in den Organisationen der Partner aus Wirtschaft und Gesellschaft zu befördern. 
+•  Das BMBF hat im Rahmen der AlphaDekade 2020 eine neue Bekanntmachung zur För-derung von Entwicklungsvorhaben im Bereich der arbeitsorientierten Alphabetisierung und Grundbildung veröffentlicht. Unter dieser Bekanntmachung können grundsätzlich auch Projekte gefördert werden, die auf laufenden Projekten aufbauen. Darüber hin-aus  werden  unter  einer  Ende  2019  veröffentlichten  Förderbekanntmachung  14  For-schungsprojekte zur Alphabetisierung und Grundbildung Erwachsener gefördert. Das BMBF  fördert  auch  den  weiteren  Ausbau  des  vhs-Lernportals  durch  den  Deutschen Volkshochschul-Verband. In der laufenden Förderphase soll u.a. der neue Lernbereich „Digitale Grundbildung“ aufgebaut werden. 
+AUSBLICK
+•  Die  Bekanntheit  und  Inanspruchnahme  der  ausgebauten  Fördermöglichkeiten  für  Be-schäftigte und Unternehmen müssen im Zusammenwirken aller Partner weiter verbessert werden. Zudem gilt es für alle Akteure der beruflichen Weiterbildung, insbesondere vor dem  Hintergrund  des  fortlaufenden  Strukturwandels,  weiterhin  den  Bedarf  einer  Wei-terentwicklung der Unterstützungs- und Förderinstrumente fortwährend zu überprüfen und gegebenenfalls bestehende Förderlücken abgestimmt zu schließen. Im Bereich der individuellen  beruflichen  Weiterbildung  sollen  weitere  Anstrengungen  unternommen werden, um bedarfsgerecht selbstbestimmte Erwerbsbiografien im Strukturwandel in al-len  Einkommens-  und  Qualifizierungsbereichen  geschlechterübergreifend  noch  stärker zu unterstützen. Die Ermutigung der Beschäftigten im Hinblick auf die Realisierung von Weiterbildungsmaßnahmen  sowie  die  Stärkung  individueller  Verwirklichungschancen trägt dabei maßgeblich zu einer neuen Weiterbildungskultur bei.
+•  Die Länder verfolgen das Ziel eines bedarfsgerechten und nachhaltigen Ausbaus der Re-gelstrukturen für die Alphabetisierung und Grundbildung Erwachsener sowie der Förde-rung von Lernangeboten, beispielsweise über Volkshochschulen, Grundbildungszentren oder Kurse. Sie streben an, die Transparenz für die bestehenden Lernangebote zu verbes-sern sowie Kooperationen mit dem Bund im Rahmen der Projektförderung des Bundes oder von Kursen der BA lokal und regional auszubauen und, wo möglich, zu institutiona-lisieren (beispielsweise durch Runde Tische). 
+•  In  diesem  Zusammenhang  soll  eine  gemeinsame  Arbeitsgruppe  von  Bund  (BMAS  und BMBF), Ländern (Kultusministerkonferenz (KMK)), BA und Sozialpartnern, Praktikerinnen und  Praktikern  sowie  Wissenschaftlerinnen  und  Wissenschaftlern  unter  Berücksichti-gung von Praxiserfahrungen prüfen, welche Kursmodelle für eine Umsetzung zielführend sind  und  wie  Projekte  zur  Alphabetisierung  und  Grundbildung  sowie  die  vorhandenen 
+[Page #31]
+30
+Förderinstrumente der BA noch besser eingesetzt werden können. Die Arbeitsgruppe soll auch Empfehlungen für strukturelle Verbesserungen entwickeln.
+•  Die  bundesweiten  und  regionalen  Netzwerke  der  Sozialpartner  sowie  die  von  ihnen  ge-tragenen Bildungseinrichtungen sind unverzichtbare Multiplikatoren, insbesondere für die nachhaltige  Etablierung  arbeitsplatzorientierter  Grundbildung  im  betrieblichen  Kontext. Betriebsberaterinnen und Betriebsberater im Handwerk sowie betriebliche Weiterbildungs-mentorinnen und -mentoren können hier ebenfalls eine zentrale Rolle übernehmen. Der Ausbau und die Weiterentwicklung der Modelle im Bereich der arbeitsorientierten Grund-bildung bedürfen daher einer weiteren Unterstützung. Dabei sollen auch die Potenziale di-gitaler Angebote ergänzend genutzt werden.
+H A N D LU N G S F E L D  3
+Lebensbegleitende Weiterbildungs­beratung flächendeckend vernetzen und Qualifizierungs beratung stärken
+AUSGANGSLAGE UND ZIELSETZUNG
+Weiterbildungsberatung  ist  ein  wichtiges  Unterstützungsangebot  bei  der  Entscheidung  über eine passgenaue Weiterbildung und Qualifizierung sowie über einen beruflichen Um- oder Auf-stieg. Das Handlungsfeld ist daher eng mit den Maßnahmen in Handlungsfeld 1 zur Verbesse-rung der Transparenz verbunden. 
+Aktuelle Ergebnisse des Adult Education Survey zeigen, dass sich Personen, die eine Beratung in Anspruch nehmen, mit höherer Wahrscheinlichkeit weiterbilden.43 Neben der Beratung für Individuen stellt auch die Qualifizierungsberatung für Unternehmen, insbesondere KMU, ein wirkungsvolles  Instrument  dar,  um  Entwicklungspotenziale  und  konkrete  Qualifizierungsbe-darfe Beschäftigter zu identifizieren, Fachkräftepotenziale zu sichern und neue Arbeitskräfte zu gewinnen. Oft fehlt es in den KMU an einer strategischen Personalplanung, die Grundlage für eine Qualifizierungsplanung ist. Die Qualifizierungsberatung kann daher einen wichtigen Bau-stein zur Sicherung der Zukunftsfähigkeit der Betriebe darstellen. 
+Aufgrund der Bedeutung der Beratung im Weiterbildungsprozess wurde im Rahmen der Um-setzungsphase  der  NWS  hierzu  ein  Themenlabor  durchgeführt.  Im  Zentrum  der  Diskussion stand  die  stärkere  regionale  Vernetzung  der  verschiedenen  Beratungsinstitutionen.  Darüber hinaus  wurde  an  der  Frage  gearbeitet,  wie  der  Zugang  zu  entsprechenden Angeboten  nied-rigschwellig gestaltet werden kann, sodass mehr Menschen und Unternehmen von Weiterbil-dungs- bzw. Qualifizierungsberatungen profitieren. 
+43 Bundesministerium für Bildung und Forschung (2019), S. 40. 
+[Page #32]
+31
+Mit der Fortsetzung der Unterstützung des durch das Bundesministerium für Wirtschaft und Energie (BMWi) geförderten Kompetenzzentrums für Fachkräftesicherung (KOFA) werden ins-besondere KMU angesprochen und unterstützt sowie Best Practices in die Fläche gebracht. Das KOFA bietet umfangreiche Informationen für KMU, um sie bei der Auswahl, Planung und Um-setzung individuell passender Maßnahmen zur Personalarbeit zu unterstützen. Weiterbildung spielt dabei eine bedeutende Rolle, insbesondere auch vor dem Hintergrund der Digitalisierung.
+WAS WURDE ERREICHT?
+Um  die  Verfügbarkeit  der  Beratungsangebote  zu  systematisieren  und  zu  optimieren,  ist  die stärkere Vernetzung der bestehenden Angebote erforderlich. Im Themenlabor Beratungsstruk-turen in der Weiterbildung haben sich die NWS-Partner darauf verständigt, die Vernetzung auf regionaler Ebene auf- und auszubauen. Die Beratungs-angebote unterschiedlicher Akteure sollen nicht in Konkurrenz zueinander stehen, sondern sich ergänzen und gut miteinander verzahnt werden. Für die Umsetzung wurden im Rahmen des Themenlabors Gelingensbedingun-gen für die erfolgreiche Kooperation vor Ort erarbeitet.
+Im Themenlabor  Beratungsstrukturen in der Weiterbildung haben sich die  NWS­Partner darauf verständigt, die  Vernetzung auf  regionaler Ebene  auf­ und auszubauen.
+Die  BA  und  die  Länder  haben  einen  gemeinsamen  Prozess  aufgesetzt,  in dem  eine  Bestandsaufnahme  der  regionalen  Kooperationen  angestoßen wurde. Darauf aufbauend sollen der Wissenstransfer verstärkt, gegebenen-falls Empfehlungen für regionale Aktivitäten entwickelt und wo nötig die Ko-operation ausgebaut werden. 
+Mit der Einführung der Lebensbegleitenden Berufsberatung (LBB) in Form der Berufsberatung im Erwerbsleben  wurde ein Meilenstein der Weiterbildungsberatung der BA umgesetzt. Damit steht seitens der BA ein flächendeckendes Beratungsangebot auch für beschäftigte Arbeitnehmerinnen und Arbeitnehmer zur Verfügung, um sie bei berufsbiografischen Entscheidungen und dem Erhalt ihrer Beschäftigungsfähigkeit zu unterstützen. 
+[Page #33]
+32
+Parallel hat die BA das Online-Erkundungs-Tool New Plan entwickelt, das der beruflichen (Um-)Orientierung dient, insbesondere, wenn noch kein konkretes Berufs- oder Weiterbildungsziel vor-liegt. Dabei werden berufliche Vorerfahrungen und persönliche Lebensumstände berücksichtigt. New Plan ist seit Dezember 2020 in einer ersten Projektversion für Nutzerinnen und Nutzer zu-gänglich und wird bis Herbst 2022 in einem Projekt kontinuierlich weiterentwickelt.
+Für die Beratung der Unternehmen wurde seitens der BA die konzeptionelle Überarbeitung der Qualifizierungsberatung durch den Arbeitgeber-Service (AG-S) vorgenommen. Mit der Erprobung sogenannter „Spezialisten für Arbeitsmarktberatung“ wird eine umfassende und präventive Be-ratung für Arbeitgeber zur nachhaltigen Sicherung des Personalbedarfs angestrebt.
+Die Sozialpartner sehen in der Stärkung des Beratungsangebots der BA im Rahmen der LBB und der Qualifizierungsberatung des AG-S eine Chance, um Beschäftigten und Betrieben einen nied-rigschwelligen Zugang zu Weiterbildungen zu ermöglichen, auch im engen Zusammenspiel mit den Betriebspartnern. 
+So stellt z.B. die Absichtserklärung zwischen der BA und den Chemie-Sozialpartnern „Zusammen-arbeit bei der Weiterbildungs- und Qualifizierungsberatung von Unternehmen und Beschäftigten in der Chemischen Industrie“ eine Option dar, die Beratungsangebote der BA in den Betrieben bekannter zu machen und eine enge Kooperation mit den Arbeitsagenturen vor Ort zu erreichen. Ab 2021 wird ein bedarfsorientiertes Beratungsangebot in drei Pilotregionen entwickelt, das im Erfolgsfall auf das gesamte Bundesgebiet ausgerollt werden soll.
+Die  IHK-Organisation  hat  ihre  Angebote  zur  Weiterbildungsberatung  modernisiert  und  wei-terentwickelt.  Dazu  wurden  allgemein  verständliche  Erklärvideos  zur  Weiterbildungsberatung erstellt,  interne  Schulungen  und  Erfahrungsaustausche  durchgeführt  sowie  Pilotkooperatio-nen  von  IHK-Organisationen  (z.B.  Düsseldorf,  Leipzig,  Regensburg)  mit  Arbeitsagenturen  zur Lebensbegleitenden Berufsberatung gestartet.
+Mit den betrieblichen Weiterbildungsmentorinnen und -mentoren, wie sie in BMBF-geförderten Projekten der Gewerkschaften IG Metall, ver.di, NGG und IG BCE etabliert werden, ist ein neuarti-ger Ansatz der direkten Ansprache Beschäftigter geschaffen worden, um sie für Weiterbildungs-bedarfe zu sensibilisieren und zur Weiterbildung zu motivieren. Entsteht konkreter Beratungsbe-darf, erfolgt – je nach Beratungsziel – der Verweis auf die individuelle Berufsberatung der BA oder auf eins der anderen zur Verfügung stehenden Beratungsangebote. Ähnliche Projekte bestehen auch in einzelnen Ländern gemeinsam mit NWS-Partnern auf regionaler Ebene. 
+AUSBLICK
+•  Die Bedeutung und der Ausbau von persönlicher Beratung werden seitens der NWS-Part-ner im Rahmen des Themenlabors als hoch eingestuft. Aus Sicht aller Beteiligten müssen zukünftig mehr Anstrengungen unternommen werden, um die Inanspruchnahme von Be-ratungsangeboten durch Personengruppen mit geringerer Weiterbildungsbeteiligung zu verbessern. Dafür ist es notwendig, die Möglichkeiten eines niedrigschwelligen Zugangs zu verbessern.
+[Page #34]
+33
+•  Aufsuchende Beratung stellt eine Chance dar, mehr Menschen auf den Nutzen und die Vor-teile einer Weiterbildungsberatung hinzuweisen. Bei der Überarbeitung vorhandener bzw. Ausgestaltung neuer Beratungskonzepte sollte die aufsuchende Beratung daher stärker in den Fokus gerückt werden. Der Ausbau des Ansatzes der Weiterbildungsmentorinnen und -mentoren und ähnlicher Angebote kann dabei insbesondere für die Sensibilisierung und Motivierung Beschäftigter eine bedeutsame Rolle spielen. 
+•  Ergänzend zur individuellen Ansprache und zur persönlichen Beratung der bzw. des Ein-zelnen können auch Online-Beratungsangebote dazu beitragen, dass mehr Menschen eine Weiterbildungsberatung in Anspruch nehmen. Die Beratung über digitale Kanäle ist dies-bezüglich als Ergänzung zu bisherigen Beratungsformaten zu betrachten. Im Themenlabor wurde festgestellt, dass zu den Chancen und Herausforderungen der Online-Beratung wei-terer Forschungs- und Entwicklungsbedarf besteht.
+•  Im Sinne einer nutzerfokussierten Multi-Channel-Strategie sollte die klassische Weiter-bildungsberatung  in  Präsenz  mit  neuen  Informationswegen  und  Bewertungsformaten wechselseitig  verstärkt  werden.  So  soll  das  Infotelefon  Weiterbildungsberatung  des BMBF zu einem bundesweiten Bürgerservice „Beratung für lebensbegleitendes Lernen“ ausgebaut werden. Das Eingangsportal NOW! soll in diesem Zusammenhang einen Bei-trag zur Verzahnung leisten. Projekte des Wettbewerbs INVITE werden hierzu mit neuen digitalen Lösungen beitragen. 
+[Page #35]
+34
+H A N D L U N G S F E L D   4
+Die Verantwortung der Sozialpartner stärken
+AUSGANGSLAGE UND ZIELSETZUNG
+Die  Sozialpartner  spielen  eine  zentrale  Rolle,  um  die  Transformation  auf  betrieblicher  und Branchenebene  erfolgreich  zu  gestalten.  Neben  dem  praxisorientierten  Angebot  betriebli-cher Qualifizierungsmaßnahmen und der kompetenten und bedarfsgerechten Mitgestaltung von  Aus-  und  Fortbildungsordnungen  im  Rahmen  der  Ordnungsarbeit gewinnt  auch  die  strategische  und  vorausschauende  Personalplanung der  Betriebe  immer  mehr  an  Bedeutung.  Sie  hilft,  die  individuelle  Be-schäftigungsfähigkeit im Betrieb zu sichern und damit einem Mangel an Fachkräften  in  bestehenden  oder  neuen  Geschäftsfeldern  entgegenzu-wirken sowie die Zukunftsfähigkeit der Betriebe zu sichern. 
+Die Sozialpartner  spielen eine zentrale Rolle, um die  Transformation auf  betrieblicher und Branchenebene erfolgreich zu gestalten.
+Zur  Stärkung  der  Rolle  der  Sozialpartner  haben  sich  die  NWS-Partner auf verschiedene Maßnahmen verständigt. Diese umfassen die Fortset-zung und Weiterentwicklung der bewährten ESF-Sozialpartnerrichtlinie zur Weiterbildung und Gleichstellung im Wandel der Arbeitswelt sowie die Sammlung von Praxisbeispielen der betrieblichen und tariflichen Weiterbildung. Zudem haben die Tarifvertragsparteien, z.B. in der chemischen Industrie, branchenspezifische Ver-einbarungen getroffen.
+WAS WURDE ERREICHT?
+Vor dem Hintergrund der digitalen Transformation haben die Chemie-Sozialpartner im Rahmen der NWS angestrebt, Tarifverträge spezifisch in Bezug auf Qualifizierung weiterzuverfolgen. Sie haben im Rahmen des letzten Tarifabschlusses (November 2019) die „Qualifizierungsof-fensive Chemie“ vereinbart. Neben einem branchenspezifischen Weiterbildungsberatungsan-
+[Page #36]
+35
+gebot (Start der Pilotphase im Frühjahr 2021) und der chemiespezifischen Anpassung des unter dem  Dach  der  Initiative  Neue  Qualität  der  Arbeit  (INQA)  entwickelten  Qualifikationsanaly-setools PYTHIA (Veröffentlichung im Frühsommer 2021) beinhaltet die Offensive auch eine innovative, KI-gestützte Trendanalyse zu den für die Branche relevanten Kompetenzen.44 In der Metall- und Elektroindustrie wurden Firmentarifverträge abgeschlossen, die verbindliche Regelungen zur Bewältigung des Strukturwandels beinhalten. Diese sogenannten Zukunfts-tarifverträge haben zum Ziel, nachhaltige Perspektiven (z.B. Beschäftigungs- und Standortsi-cherung, Investitionen), innovative Qualifizierungswege, verbindliche Qualifizierungsprozesse sowie Instrumente zur Beteiligung von Betriebsräten (z.B. Lenkungsausschüsse) zu sichern. 
+In der Tarifrunde 2021 der Metall- und Elektroindustrie verabredeten die Sozialpartner zudem Rahmenregelungen für Zukunftstarifverträge. Die Betriebs- und Tarifparteien können damit Regelungen zur Bewältigung der Transformation passgenau im Betrieb vereinbaren.  Auf der Basis einer Analyse der betrieblichen Situation können Vereinbarungen beispielsweise zur Per-sonal- und Qualifizierungsplanung und Beschäftigungssicherung getroffen werden. 
+Daran  anknüpfend  fördert  das  BMAS  eine  branchenspezifische  Anpassung  des Qualifikations analysetools PYTHIA für den Automobilsektor, um gerade kleinere Unter-nehmen bei der strategischen Personalplanung und der Ableitung individueller Qualifizie-rungspläne zu unterstützen. Dies wurde im Rahmen der Nationalen Plattform Zukunft der Mobilität (NPM) beschlossen.45
+Über  die  Frage  von  Möglichkeiten  der  besseren  Beteiligung  von  Betriebsräten  an  Weiter-bildung besteht unter den NWS-Partnern kein Konsens. Um das allgemeine Initiativrecht für Betriebsräte in Bezug auf die Weiterbildung zu verbessern, hat das BMAS verschiedene An-satzpunkte geprüft. 
+Das BMAS hat gemeinsam mit den Sozialpartnern und den betroffenen Bundesressorts sowie unter Einbindung der Länder die ESF-Sozialpartnerrichtlinie für eine Neuauflage im Rahmen der ESF-Plus-Förderperiode 2021 bis 2027 weiterentwickelt. Ziel ist die Stärkung der sozial-partnerschaftlichen Gestaltung des Wandels der Arbeitswelt durch die Förderung von Konzep-ten und Maßnahmen in vier Handlungsfeldern:
+1.  Weiterbildung im Wandel fördern
+2.  Gleichstellung gestalten
+3.  Regionale Verbünde zur Stärkung von Weiterbildung und Gleichstellung in KMU und
+4.   Modellentwicklung innovativer Ansätze zur Stärkung von Weiterbildung und  
+Gleichstellung
+Das Programm soll im Herbst 2021 anlaufen.
+44 Bundesarbeitgeberverband Chemie e.V. (BAVC), Industriegewerkschaft Bergbau, Chemie, Energie (IG BCE) undHR Forecast (Hrsg.) (2021): Zukünftige Berufsprofile. Future Skills Report Chemie. BAVC, IG BCE, HR Forecast, München. In: Future Skills Chemie. URL: future-skills-chemie.de.
+45 Nationale Plattform Zukunft der Mobilität (2020): Arbeitsgruppe 4. Sicherung des Mobilitäts- und Produktionsstandortes, Batterie zellproduktion, Rohstoffe und Recycling, Bildung und Qualifizierung. Fokusgruppe Strategische Personalplanung und -entwicklung.  1. Zwischenbericht zur strategischen Personalplanung und -entwicklung im Mobilitätssektor. In: Nationale Plattform Zukunft Mobilität. Berlin. URL: plattform-zukunft-mobilitaet.de/wp-content/uploads/2020/03/NPM-AG-4-1-Zwischenbericht-zur-strategischen-Personalplanung-und-Entwicklung-im-Mobilit%C3%A4tssektor.pdf. 
+[Page #37]
+36
+BMBF  und  Gewerkschaften  haben  sich  darauf  verständigt,  mit  betrieblichen  Weiterbil-dungsmentorinnen und -mentoren einen neuen Ansatz zur Aktivierung der Weiterbildungs-aktivitäten Beschäftigter zu etablieren. Zunächst wurden in den Bereichen Metall, Elektro, Fahrzeug- und Maschinenbau sowie Gesundheit, Ver- und Entsorgung, Versicherungen, öf-fentliche Verwaltung  sowie  in  der  Nahrungs-,  Genussmittel-  und  Getränkeindustrie,  dem Gastgewerbe  und  der  Systemgastronomie  Förderprojekte  gestartet,  die  in  den  Betrieben Betriebs- und Personalräte sowie Vertrauensleute der Gewerkschaften zu Weiterbildungs-mentorinnen  und -mentoren  qualifizieren,  um  Beschäftigte  durch  persönliche Ansprache und individuelle Begleitung für Qualifizierung zu erreichen.
+AUSBLICK
+Zur  Verbesserung  der  Transparenz  von  innovativen  betrieblichen  und  tariflichen  Gestal-tungsansätzen für die berufliche Weiterbildung haben die NWS-Partner basierend auf den Erfahrungen mit der ESF-Sozialpartnerrichtlinie und der Initiative Neue Qualität der Arbeit (INQA) Praxisbeispiele zusammengetragen. Beispielhaft sind hier die folgenden Ansätze in der Infobox. 
+Weiterentwicklungsbedarf besteht bei der Entwicklung von Tools zur Ermittlung von Perso-nalentwicklungs- und Weiterbildungsbedarfen, insbesondere im Bereich der KMU. Mit dem Projekt PYTHIA wurde ein erster Schritt gemacht, auf den aufgebaut werden soll. 
+PROJEKT 1:  GALA-Q: SOZIALPARTNERSCHAFTLICHE QUALIFIZIERUNGSINITIATIVE  GARTEN- UND LANDSCHAFTSBAU 
+Säule I (systematische Weiterbildung): Zur Fachkräftesicherung wurde eine Initiative in der Weiterbildung für langjährig Beschäftigte entwickelt. Auf Grundlage von drei Erhebungen der Mitgliedsbetriebe zum Qualifikationsbedarf wurden mit Branchen-expertinnen und -experten Bildungspläne für verschiedene Inhalte (z.B. Vegetations-flächenpflege,  Führung  und  Kommunikation  im  GaLaBau)  sowie  Zielgruppen  (z.B. Landschaftsgärtnerinnen und -gärtner, Angelernte) entwickelt, die mit einem GaLa-Q-Zertifikat abgeschlossen werden. 
+Säule II (Erhalt der Arbeitsfähigkeit von Beschäftigten/Betriebliches Gesundheits-management): Drei aufeinander aufbauende Projektansätze zum Thema „Gesundes  Arbeiten  im  GaLaBau“  umschließen  u.a.  ein  mobiles  wie  interaktives Ausstellungs-ormat und die Entwicklung von Maßnahmen in einem nachgelagerten betrieblichen Workshop oder einem Online-Kurs zu Gesundheit mit System.
+Sicherung der Nachhaltigkeit: Der Aufbau eines systematischen wie bedarfsgerech-ten Weiterbildungsgeschehens wurde im Projekt erprobt und wird basierend auf den Evaluationsergebnissen von den Sozialpartnern umgesetzt. Die Sicherung der Wort-Bild-Marke  GaLa-Q,  die  Erarbeitung  eines  Zertifikats  und  korrespondierender  Prü-fungsregularien  sowie  eines  transparenten  Produkttransfers  (Bildungspläne)  legten die Grundlage, um den Ansatz von GaLa-Q branchengetragen fortzuführen. 
+[Page #38]
+37
+Projektträger: Inifes – Internationales Institut  für Empirische Sozialökonomie gGmbh
+Das Projekt wurde im Rahmen der Sozialpartnerrichtlinie „Fachkräfte sichern: weiter-bilden und Gleichstellung fördern“ aus ESF-Mitteln und Mitteln des BMAS gefördert.
+Weitere Informationen: galabaucamp.de/projekte/gala-q/
+PROJEKT 2:  ARBEIT UND INNOVATION: KOMPETENZEN STÄRKEN,  ZUKUNFT GESTALTEN (A+I)
+Mit dem Projekt „Arbeit+Innovation: Kompetenzen stärken, Zukunft gestalten“ (A+I) sollten  die  im  Projekttitel  genannten  Herausforderungen  aufgegriffen  werden.  In einem ersten, zentralen Handlungsstrang wurden Beschäftigte zu „Expertinnen und Experten Arbeiten 4.0“ qualifiziert. Dazu wurde eine fünfteilige modulare Qualifizie-rungsreihe mit jeweils drei Tagen entwickelt. In enger Kooperation mit der Gemeinsa-men Arbeitsstelle der Ruhr-Universität Bochum (RUB) und der IG Metall sowie dem Lehrstuhl für Produktionssysteme konnte im Projektverlauf das didaktische Konzept einer arbeitsorientierten Lernfabrik entwickelt werden. Die Bochumer Lernfabrik ist somit  fester  Bestandteil  der  Qualifizierungen.  Die  Bearbeitung  eines  betrieblichen Umsetzungsprojektes, das den Aufbau nachhaltiger Personalentwicklungsstrukturen fördern soll, war ein weiterer Handlungsstrang. Unterstützung fanden die beteiligten Umsetzungsprojekte bei einem externen Expertennetzwerk.
+Eine  Vielzahl  von  regionalen  Netzwerktreffen  und  Praxis-Wissenschafts-Dialogen rundet die begleitenden Unterstützungsangebote ab. Seit dem Projektstart im Feb-ruar 2016 haben sich bundesweit mehr als hundert Pilotbetriebe und -unternehmen beteiligt – von mittelständischen Maschinenbauern bis hin zu automobilen Endher-stellern. Knapp 20 Ausbildungsreihen mit weit mehr als 300 Teilnehmenden wurden durchgeführt.
+Projektträger: IG Metall Vorstand
+Das  Projekt  wurde  im  Rahmen  der  ESF-Sozialpartnerrichtlinie  „Fachkräfte  sichern: weiter bilden und Gleichstellung fördern“ aus Mitteln des Europäischen Sozialfonds und des BMAS gefördert.
+Weitere Informationen: igmetall.de/innovation
+[Page #39]
+38
+PROJEKT 3:  KITA INTERNATIONAL
+In den letzten zehn Jahren hat der Anteil der Kinder unter fünf Jahren mit Migrations-hintergrund  erheblich  zugenommen.  Bei  dem  Ziel,  allen  Kindern  gerechte  Bildungs-  und  Teilhabechancen  zu  ermöglichen,  nimmt  der  Besuch  der  Kindertagesstätte  eine  entscheidende  Rolle  ein.  Vor  diesem  Hintergrund  stellt  der  Fachkräftemangel  der  Branche  eine  gravierende  Herausforderung  dar,  denn  die  pädagogischen  Fachkräfte  beeinflussen die inklusionsrelevante Gestaltung der Kindertagesstätte maßgeblich. 
+Vor  dem  Hintergrund  des  Fachkräftebedarfs  ist  es  notwendig,  die  pädagogischen  Fachkräfte  durch  Personalentwicklung  zu  unterstützen  und  somit  Überforderungen  abzufangen  und  die  Attraktivität  des  Berufsfelds  zu  stärken.  Das  Projekt  dient  der  Nachwuchsförderung und -entwicklung und verbessert durch die Implementierung von Unterstützungssystemen die erfolgreiche Ansprache von Fachkräften. 
+Im Projekt liegt ein besonderer Fokus auf der Sicherung der Nachhaltigkeit: Praxiskon-zepte,  Handlungsempfehlungen  und  Best-Practice-Beispiele  werden  über  die  Sozial-partner verbreitet.  Die  hierarchieübergreifende  Qualifizierung  sowie  die  intensive Aus-bildung von Multiplikatorinnen und Multiplikatoren sichern den Aufbau eines kollegialen Unterstützungssystems auch über das Projektende hinaus. Der Aufbau kollegialer Unter-stützungssysteme sichert zudem die Nachhaltigkeit. 
+Projektträger: Bildungswerk ver.di in Niedersachsen e.V.
+Das Projekt wurde im Rahmen der ESF-Sozialpartnerrichtlinie „Fachkräfte sichern: wei-terbilden und Gleichstellung fördern“ aus Mitteln des Europäischen Sozialfonds und des BMAS gefördert.
+Weitere Informationen: esf-projekte.de/projekte/projektarchiv/kita-international/
+Infobox 2: Projektbeispiele des Handlungsfelds 4 zur Stärkung der Sozialpartner
+[Page #40]
+39
+H A N D LU N G S F E L D  5
+Die Qualität und Qualitätsbewertung von Weiterbildungsangeboten überprüfen und stärken 
+AUSGANGSLAGE UND ZIELSETZUNG
+So  vielfältig  Weiterbildungsangebote  und  -möglichkeiten  sind,  so  unterschiedlich  sind  die Instrumente  der  Qualitätssicherung:  Während  öffentlich  geförderte  Weiterbildung  in  der Regel mit Akkreditierungs- und Zertifizierungsregelungen verbunden ist, erfolgt Qualitätssi-cherung in der geregelten beruflichen Fortbildung entweder auf der Grundlage der zwischen dem Bund und den Wirtschafts- und Sozialpartnern ausgehandelten Fortbildungsordnungen oder in landesrechtlicher Zuständigkeit. Für Angebote auf dem freien Markt wiederum gibt es kaum Vorgaben, allerdings eine Reihe von gut etablierten freiwilligen Qualitätssicherungs-verfahren. So verfügten 2017 nach Zahlen des Weiterbildungsmonitors rund 80 Prozent der Weiterbildungsanbieter  über  mindestens  ein  Qualitätsmanagementsystem.  Das  Auffinden einer geeigneten und für die individuellen Bedürfnisse passenden Weiterbildung kann jedoch für Weiterbildungsinteressierte aufgrund der Vielfalt des Angebots und der Komplexität des Weiterbildungsmarkts aufwendig sein. 
+WAS WURDE ERREICHT? 
+Zur  Erreichung  der  gesetzten  Handlungsziele  haben  die  NWS-Partner verschiedene Ansätze verfolgt, um die Qualität und Qualitätsbewertung von Weiterbildungsangeboten zu stärken.
+Um die Qualität beruflicher Weiterbildungen, die auf dem freien Markt angeboten werden, aus der Perspektive von Nutzerinnen und Nutzern sichtbarer und transparenter zu machen, nah-men  die  NWS-Partner  in  einem  Themenlabor  eine  Bestandsaufnahme  zu  bereits  etablierten 
+[Page #41]
+40
+Ansätzen zur Qualitätssicherung vor. Sie diskutierten mit Vertreterinnen und Vertretern von Bildungsverbänden, ob und welche (zusätzlichen) Instrumente zu einer Verbesserung beitra-gen  können.  Aus  dem  Austausch  und  den  Analysen  im  Rahmen  der  vier  Sitzungen  gingen Empfehlungen für die Sichtbarmachung von Qualität auf der Struktur-, der Anbieter- sowie der  Nachfrageebene  hervor  (für  detaillierte  Erkenntnisse  siehe  Begleitpublikation  zu  den  Themenlaboren, Themenlabor 4, Ergebnisbericht zum Themenlabor).
+Die  Qualitätssicherung  von  Weiterbildungsmaßnahmen  im  Bereich  der  Förderleistungen nach dem Sozialgesetzbuch (SGB) II und III erfolgt durch das Akkreditierungs- und Zulas-sungsverfahren Arbeitsförderung. Eine Evaluation des Verfahrens im Jahr 2019 stellte dabei im Ergebnis eine qualitätsfördernde Wirkung fest, sah jedoch auch Anpassungs- und Fort-entwicklungsbedarfe.  Im  Lichte  dieser  Ergebnisse  und  unter  Einbezug  der  Sozialpartner und zahlreicher Verbände wurden mit der Verabschiedung des Gesetzes zur Förderung der beruflichen Weiterbildung im Strukturwandel und zur Weiterentwicklung der Ausbildungs-förderung (vgl. Arbeit-von-morgen-Gesetz) im Sommer 2020 zentrale Verbesserungen um-gesetzt. So wurden u.a. die erstattungsfähigen Kostensätze für Maßnahmen der beruflichen Weiterbildung deutlich erhöht und flexibilisiert. Hierzu gehören insbesondere eine pauschale Erhöhung der Bundesdurchschnittskostensätze um 20 Prozent zum 1. Juli 2020. Zudem kön-nen darüber hinausgehende Kostensätze bei Vorliegen besonderer Aufwendungen (z.B. zur Verbesserung der Barrierefreiheit) in Höhe von bis zu 25 Prozent durch die Zertifizierungs-agenturen anerkannt werden.
+ÄNDERUNGEN IM AZAV-REGELUNGSGEFÜGE DURCH DAS ARBEIT-VON-MORGEN-GESETZ 
+1.7.2020
+• 
+ Einmalige Anhebung der Bundesdurchschnittskostensätze (B-DKS) für Weiterbildungsmaßnahmen (FbW) in Höhe von 20 Prozent 
+1.10.2020
+• 
+ Zweijährliche (statt jährliche) Ermittlung und Veröffentlichung der B-DKS (ab 2022)
+• 
+ BA kann zukünftig bei der Ermittlung der B-DKS die allgemeine Preisentwicklung oder die Lohnent-wicklung im Bereich der beruflichen Erwachsenenbildung berücksichtigen 
+• 
+ „Überschreitungskorridor“ von 25 Prozent für B-DKS bei Zulassung durch die fachkundige Stelle.  Ab 25 Prozent wie bisher Kostenzustimmung der BA erforderlich. Überschreitung der B-DKS muss  auf notwendige besondere Aufwendungen zurückzuführen sein. 
+• 
+ Grundsätzlich Gruppengröße von zwölf Teilnehmenden
+Infobox 3: Arbeit-von-morgen-Gesetz
+[Page #42]
+41
+Die  Sicherung  der  Qualität  der  von  den  beruflichen  Schulen  vergebenen  Weiterbildungsab-schlüsse der Fachschulen wird über die in den Ländern etablierten Qualitätsmanagement- und Qualitätsentwicklungssysteme gewährleistet, die permanent und sukzessive adaptiert und aus-gebaut  werden.  Im  Kontext  der  politischen Vorhaben  zur „Ländervereinbarung  über  die  ge-meinsame Grundstruktur des Schulwesens und die gesamtstaatliche Verantwortung der Län-der in zentralen bildungspolitischen Fragen“ vom 15. Oktober 2020 haben sich die Länder im Bereich der beruflichen Bildung darauf verständigt, einen umfassenden Qualitätsstandard zu entwickeln, der den beruflichen Schulen die Einhaltung hochwertiger Qualitätsmaßstäbe zerti-fiziert.46  Dies  umfasst  auch  die Abschlüsse  der  Fachschulen  sowie  ergänzende Angebote  zur Höher- und Weiterqualifizierung.
+Für  mehr  Transparenz  über  die  Qualität  eines  Bildungsanbieters  im  Bereich  der  Förderung der beruflichen Weiterbildung soll die durch die BA eingeführte Anbieterbewertung bei Gut-scheinmaßnahmen sorgen. Das Bewertungstool zielt darauf ab, Anreize für Bildungsanbieter zu schaffen, um die Qualität ihrer Maßnahmen zu steigern. Es kann einen Beitrag dazu leisten, dass Bildungsuchende zwischen Bildungsangeboten unterschiedlicher Anbieter vergleichen können.
+Im Hinblick auf das Trägermanagement bei Vergabemaßnahmen wurde bzw. wird die Beurtei-lung der Vertragsausführung durch den Auftraggeber von Arbeitsmarktdienstleistungen suk-zessive bei allen bewerteten Standardprodukten in die Vergabeentscheidung einbezogen. 2021 werden insbesondere die Maßnahmen zur Aktivierung und beruflichen Eingliederung bei einem Träger nach § 45 SGB III und § 16 Abs. 1 SGB II i.V.m. § 45 SGB III einbezogen.
+AUSBLICK
+•  Die  Expertinnen  und  Experten  im  Themenlabor  der  NWS  empfehlen  u.a.  die  Erstellung eines Überblicks über die qualitätssichernden Strukturen, die Entwicklung einer digitalen Checkliste sowie die Analyse bestehender Qualitätssicherungsinstrumente für digitale Bil-dungsangebote  und  darauf  basierend  gegebenenfalls  die  Entwicklung  zusätzlicher,  not-wendiger Qualitätsdeskriptoren.
+•  Um  die Transparenz  der  qualitätssichernden Verfahren  für  die  Nutzenden  zu verbessern, sollte  u.a.  die  Entwicklung  von  anschlussfähigen  digitalen  und  responsiven  Checklisten unterstützt werden. 
+•  Im Rahmen der Qualitätsentwicklung in der Weiterbildung stellen die Digitalisierung und die Anwendung neuer Lehr-/Lerntechnologien wichtige Aufgaben im Hinblick auf die Res-sourcen, die Lerngestaltung und die Kompetenzen des Bildungspersonals dar.
+•  Bei  zukünftigen  Entwicklungen  bzw.  Weiterentwicklungen  von  Plattform-  oder  Daten-bankangeboten  sind  die Aspekte  der  Informationsaufbereitung  und  der Transparenz  aus Nutzerinnen- und Nutzerperspektive zu berücksichtigen. Dabei spielen Aspekte wie Lern-voraussetzungen, -bedingungen, neue Lehr-/Lerntechnologien und -formate sowie valide Lernnachweise eine wichtige Rolle.
+46 Kultusministerkonferenz (2020): Ländervereinbarung über die gemeinsame Grundstruktur des Schulwesens und die gesamtstaatliche Verantwortung der Länder in zentralen bildungspolitischen Fragen. Beschluss der Kultusministerkonferenz vom 15.10.2020. In: KMK. URL: kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2020/2020_10_15-Laendervereinbarung.pdf.
+[Page #43]
+42
+H A N D LU N G S F E L D  6
+Erworbene Kompetenzen von Arbeitnehmerinnen und Arbeitnehmern in der beruflichen Bildung sichtbar machen und anerkennen
+AUSGANGSLAGE UND ZIELSETZUNG
+In Deutschland verfügen mehr als 3 Mio. sozialversicherungspflichtige Beschäftigte über keinen beruflichen Bildungsabschluss.47 Ihre im Arbeitsprozess angeeigneten und in nonformalen Wei-terbildungsmaßnahmen vermittelten berufsrelevanten Kompetenzen sind in der Regel unzurei-chend dokumentiert. Berufliches Fortkommen und gesellschaftliche Teilhabe werden dadurch erschwert. Ebenso können zugewanderte Arbeits- und Fachkräfte Schwierigkeiten haben, eine Beschäftigung zu finden, wenn sie zwar berufliche Kompetenzen haben, diese aber außerhalb des deutschen Berufsbildungssystems erworben haben, ihnen also ein formaler Berufsabschluss fehlt. Das Berufsanerkennungsverfahren nach dem Berufsqualifikationsfeststellungsgesetz bzw. den entsprechenden Fachgesetzen steht solchen Menschen ebenfalls nicht offen. Bisher gibt es die  Möglichkeit,  auch  ohne vorherige Ausbildung  an  einer Ausbildungsabschlussprüfung  teil-zunehmen  („Externenprüfung“).  Daneben  gibt  es  keine  weiteren  gesetzlich  verankerten  Inst-rumente, um informell oder nonformal erworbene berufliche Kompetenzen nach bundesweit einheitlichen Verfahren zu bewerten und zu zertifizieren. 
+Um  faire  Teilhabechancen  zu  ermöglichen  und  gleichzeitig  den  Fach-kräftebedarf zu decken, hat die NWS sich zum Ziel gesetzt, die Sicht-barkeit  und  Verwertbarkeit  informellen  beruflichen  Lernens  durch standardisierte  Validierungsverfahren  zu  verbessern,  ohne  dadurch etablierte  Ausbildungssysteme  zu  ersetzen  oder  zu  schwächen.  Das schließt  die  damit  verbundenen  Möglichkeiten  zum  Ausbau  berufli-cher  Kompetenzen  sowie  beruflicher  Weiterbildung  ein.  Darüber  hin-aus wurde angestrebt, erprobte Validierungsverfahren in die Breite zu transferieren und Kompetenzzentren aufzubauen. 
+Um faire Teilhabe­chancen zu  ermöglichen, hat die NWS sich zum Ziel  gesetzt, die Verwert­barkeit informellen beruflichen Lernens zu verbessern.
+WAS WURDE ERREICHT?
+Das BMBF hat mit den Partnern ZDH und DIHK über die ValiKom-Transferinitiative (ValiKom steht für abschlussbezogene Validierung nonformal und informell erworbener Kompetenzen) zur Umsetzung des in ValiKom entwickelten standardisierten Validierungsverfahrens Kompe-tenzzentren bei den Kammern aufgebaut, an denen für ausgewählte Berufe abschlussbezogene Validierungsverfahren durchgeführt werden können. Bis Oktober 2021 bieten 11 Handwerks-kammern, 17 Industrie- und Handelskammern sowie 2 Landwirtschaftskammern Validierungs-verfahren für über 30 Berufe des dualen Berufsbildungssystems an.
+47 Eigene Berechnung auf Grundlage der Statistik der Bundesagentur für Arbeit (2020): Länderreport über Beschäftigte. Deutschland, West/Ost und Länder. BA, Nürnberg.
+[Page #44]
+43
+Das Testverfahren „MYSKILLS – Berufliche Kompetenzen erkennen“ der BA erfasst als video- und bildgestütztes Verfahren berufliches Handlungswissen in 30 ausgewählten Berufen. Das Angebot  richtet  sich vorrangig  an  Kundinnen  und  Kunden  der  BA,  mit  dem  Ziel,  nonforma-les und informell erworbenes Wissen in berufstypischen Anforderungssituationen sichtbar zu machen  und  dies  im  weiteren  Beratungsprozess  zu  berücksichtigen.  Um  die  Beratungs-  und Vermittlungstätigkeiten  sowie  Weiterbildungsmaßnahmen  durch  Arbeitsagenturen  und  Job-center zu unterstützen, ist MYSKILLS inzwischen in zwölf Sprachen verfügbar und damit auch für Menschen mit Zuwanderungsgeschichte und geringen Deutschkenntnissen zugänglich, die in Unterbeschäftigung und niedrig qualifizierter Beschäftigung deutlich überrepräsentiert sind. 
+5
+28
+volle Gleichwertigkeit
+Maler/in und Lackierer/in
+teilweise Gleichwertigkeit
+23
+11
+keine Gleichwertigkeit
+Koch/Köchin
+26
+9
+Kaufmann/frau im Einzelhandel
+12
+21
+4
+Elektroniker/in
+17
+23
+Fachkraft Lagerlogistik
+6
+36
+Fachkraft Metalltechnik
+40
+20
+Fachlagerist/in
+62
+6
+Maschinen- und Anlageführer/in
+23
+8
+56
+Friseur/in
+29
+104
+Kaufmann/frau Büromanagement
+Abbildung 1: Top-10-Berufe auf Basis von 787 durchgeführten Validierungsverfahren im Rahmen von ValiKom zwischen November 2018 und Februar 202148
+48 Westdeutscher Handwerkskammertag (2021): Projektkoordination ValiKom-Transfer. Bundesministerium für Bildung und Forschung, Projektbericht vom 28.02.2021.
+[Page #45]
+44
+AUSBLICK
+•  Auf Grundlage der Erkenntnisse aus ValiKom und ValiKom-Transfer prüft das BMBF Opti-onen und Möglichkeiten einer bundesweit verbindlichen Verankerung des Validierungsver-fahrens und hat zum weiteren Vorgehen erste Sondierungsgespräche mit den Sozialpart-nern, den Ländern und den Kammerdachverbänden DIHK und ZDH geführt. Unabhängig von der Frage einer gegebenenfalls auch gesetzlichen Verankerung beabsichtigt das BMBF, die bereits aufgebauten Strukturen zunächst weiterzuführen, und prüft derzeit Optionen der Förderung des bestehenden ValiKom-Transfer-Netzwerks über Oktober 2021 hinaus. 
+•  Die Voraussetzungen für die Einführung einer gesetzlichen Grundlage für die Validierung informell  und  nonformal  erworbener  berufsbezogener  Kompetenzen von  arbeitserfahre-nen Personen in der nächsten Legislaturperiode des Deutschen Bundestags sollen geklärt werden. 
+•  Gemeinsam von Bund, Ländern, Sozialpartnern, BA und Kammerorganisationen ist zu ge-währleisten, dass im Zusammenhang mit den perspektivisch umfassend zu etablierenden Validierungsprozessen  keine  parallelen  Strukturen  zum  bestehenden  und  etablierten  ab-schlussbezogenen Berufsbildungssystem geschaffen werden.
+•  In  diesem  Zusammenhang  soll  auch  geprüft  werden,  ob  und  wie  weitere  Berufs-  und   Branchenbereiche  [jenseits  der  durch  Berufsbildungsgesetz  (BBiG)  oder  Handwerksord-nung (HwO) geregelten Berufe] in einen einheitlichen Rahmen einbezogen werden können.
+•  Das  BMAS  hat  die  Durchführung  eines  Forschungsprojekts  zum  Einsatz  und  Bedarf  von Kompetenzfeststellungsverfahren in der Arbeitsverwaltung durch das IAB (Laufzeit 2021–2024) vereinbart.
+•  Querbezug: Aus Perspektive der Menschen ohne bzw. ohne verwertbaren formalen Berufs-abschluss sollte eine Prozessbeschreibung erarbeitet werden, in der – aufbauend auf Be-ratungsangeboten und einer Validierung informell und nonformal erworbener beruflicher Handlungskompetenzen  sowie  gegebenenfalls  ergänzenden  Qualifizierungsangeboten (z.B. in Form von Teilqualifikationen oder Anpassungsweiterbildungen) – auch der Weg zur Externenprüfung  und  damit  zum  nachträglichen  Berufsabschluss  geebnet  werden  kann. Insbesondere für Menschen, bei denen nach einer Validierung noch keine volle Vergleich-barkeit mit anerkannten Qualifikationen vorliegt, sollen ergänzende Qualifizierungsange-bote flächendeckend gemacht werden können. 
+•  Querbezug: Die NWS-Partner sollten diskutieren, wie Zusammenhänge zwischen Validie-rung,  Anerkennungsverfahren  für  ausländische  Qualifikationen,  Weiterbildungsberatung und Nach-, Anpassungs-, Ausgleichs- sowie Ergänzungsqualifizierung identifiziert und ein im Interesse der Nutzerinnen und Nutzer stimmiger Rahmen entwickelt werden kann.
+[Page #46]
+45
+H A N D LU N G S F E L D  7
+Fortbildungsabschlüsse und Weiterbildungsangebote weiterentwickeln
+AUSGANGSLAGE UND ZIELSETZUNG
+Die zunehmende Digitalisierung der Arbeitswelt sowie der Strukturwandel verändern viele Tä-tigkeitsprofile und Kompetenzanforderungen. Ein Ziel der NWS ist es, die Weiterentwicklung von Fort- und Weiterbildungsangeboten zu unterstützen, sodass sie den veränderten Kompe-tenzanforderungen Rechnung tragen. 
+Die zunehmende  Digitalisierung der Arbeitswelt sowie  der Strukturwandel  verändern viele  Tätigkeitsprofile  und Kompetenz­anforderungen.
+Im  Rahmen  dieser  Zielsetzung  werden  die  NWS-Partner  die  Entwicklung bundeseinheitlicher  Qualifikationsprofile  entsprechend  ihrer  jeweiligen  Zu-ständigkeit bedarfsgerecht fortführen und die Möglichkeiten von abschlussbe-zogenen Qualifizierungsangeboten, z.B. auch in Form von Teilqualifikationen oder weiteren Anpassungsqualifizierungen, systemisch weiterentwickeln. Der Bedarf  der  Unternehmen  an  qualifizierten  Fachkräften  sowie  die  individuel-le berufliche Entwicklung von Arbeitnehmerinnen und Arbeitnehmern geben hierfür die Richtung vor. 
+WAS WURDE ERREICHT?
+Mit  der  Novelle  des  Berufsbildungsgesetzes  zum  1.  Januar  2020  wurde  die  Einführung  der neuen  Abschlussbezeichnungen  Master  Professional,  Bachelor  Professional  und  geprüfter Berufsspezialist eingeführt. Diese gesetzlich verankerten Fortbildungsstufen haben zum Ziel, die  Transparenz  der  beruflichen  Karriere-  und  Entwicklungsmöglichkeiten  zu  erhöhen.  Mit dem Geprüften Betriebswirt bzw. der Geprüften Betriebswirtin nach dem Berufsbildungsge-setz wurde der erste kaufmännische und mit dem Geprüften Restaurator bzw. der Geprüften Restauratorin im Handwerk der erste gewerblich-technische Master-Professional-Abschluss eingeführt.  Zugleich  wurden  auch  sieben  Bachelor-Professional-Abschlüsse  etabliert,  wie beispielsweise  der  Geprüfte  Fachwirt  bzw.  die  Geprüfte  Fachwirtin  im  Einkauf  –  Bachelor  Professional in Procurement. Die Handwerkskammern haben seit dem 1. Januar 2020 mehr als  20.000  Handwerksmeisterinnen  und  Handwerksmeistern  den  Meisterbrief  überreicht. Sie bzw. er sowie alle Absolventinnen und Absolventen, die in der Vergangenheit einen Ab-schluss zum Meister oder zur Meisterin erlangt haben, dürfen die Zusatzbezeichnung Bachelor  Professional  im  jeweiligen  Gewerk  führen.  Für  bereits  bestehende  Fortbildungsabschlüsse nach BBiG ist diese Rückwirkung im Gesetz nicht vorgesehen.
+Mit Blick auf die sich wandelnde Arbeitswelt werden von den zuständigen Bundesministerien gemeinsam mit den Wirtschafts- und Sozialpartnern in den bewährten Verfahren Fortbildungs-abschlüsse  sowie  Meisterprüfungsverordnungen  fortlaufend  auf  ihre  Aktualität  geprüft  und novelliert. Das Bundesinstitut für Berufsbildung (BIBB) oder das Forschungsinstitut für Berufs-bildung im Handwerk begleiten diese Prozesse. Hier sind z.B. die in den Jahren 2019 und 2020 in  Kraft  getretenen,  modernisierten  Abschlüsse  in  der  Medien-  und  Veranstaltungs branche (Geprüfter  Medienfachwirt/Geprüfte  Medienfachwirtin,  Geprüfter  Industriemeister/Ge prüfte Industriemeisterin  Fachrichtung  Printmedien,  Geprüfter  Meister/Geprüfte  Meisterin  für 
+[Page #47]
+46
+Veranstaltungstechnik), die Fortbildung zum Geprüften Restaurator oder zur Geprüften Restau-ratorin im Handwerk oder etwa die Meisterabschlüsse im Metallblasinstrumentenmacher-Hand-werk, im Karosserie- und Fahrzeugbauer-Handwerk oder im Parkettleger-Handwerk zu nennen.
+Über das vereinbarte Sozialpartnermonitoring haben IG Metall, Gesamtmetall, der Verband Deutscher Maschinen- und Anlagenbau und der Zentralverband Elektrotechnik- und Elek-tronikindustrie  u.a.  erfolgreich  Qualifizierungsstandards  für  die  Industrie  4.0  geschaffen und entwickeln aktuell ein Laufbahnkonzept für die höherqualifizierende Berufsbildung in der Branche. 
+Die  innovative  Anpassung  und  Weiterentwicklung  der  Weiterbildungen  an  Fachschulen  wird durch die Kultusministerkonferenz mit der Entwicklung bundeseinheitlicher Qualifikationsprofile vorangetrieben. Damit wird den durch die Digitalisierung entstehenden Qualifizierungsbedarfen und Veränderungen  der Arbeits-,  Geschäfts-  und  Produktionsprozesse  begegnet.  Eine  passge-naue  Integration  in  die  jeweiligen  Fachrichtungen  und  ihre  Schwerpunkte  erfolgt  über  unter-schiedliche  Niveaustufen.  Entsprechende  Qualifikationsprofile  wurden  bisher  für  die Themen-bereiche „Industrie 4.0“ und „Wirtschaft 4.0“ veröffentlicht.  Derzeit wird geprüft, in welchen Fachbereichen (z.B. Agrarwirtschaft und Gestaltung) weitere Qualifikationsprofile erforderlich und umsetzbar sind.
+Abbildung 2: KMK-Qualifikationsprofil für Wirtschaft 4.049
+49 Kultusministerkonferenz (2019): Kompetenzorientiertes Qualifikationsprofil zur Integration der Thematik „Wirtschaft 4.0“ in die Ausbildung an Fachschulen für Wirtschaft. Beschluss der Kultusministerkonferenz vom 13.12.2019. Berlin, S. 2. 
+[Page #48]
+47
+Mit dem Ziel, die Attraktivität, Qualität und Gleichwertigkeit der beruflichen Bildung zu stei-gern,  werden  seit  Herbst  2020  im  Rahmen  des vom  BMBF  geförderten  Bundeswettbewerbs InnoVET strukturbildende Konzepte entwickelt. In sogenannten Innovationsclustern, dem Zu-sammenspiel regionaler und branchenspezifischer Akteure, arbeiten 17 Verbundprojekte daran, für junge Menschen attraktive Qualifizierungsangebote für eine berufliche Aus- oder Fortbil-dung  zu  schaffen.  So  werden  z.B.  die  Berufsbilder  der  Land-  und  Baumaschinenbranche  mit einem  überarbeiteten  Berufslaufbahnkonzept  und  einem  fortlaufenden  Berufsmonitoring  im Rahmen des Projektes LBT (LandBauTechnik) Forward modernisiert.50
+Zudem fördert das BMBF in Kooperation mit dem DIHK und der Bundesvereinigung der Deut-schen Arbeitgeberverbände (BDA) eine qualitätsgesicherte Entwicklung von Teilqualifikationen (TQ)  für  die  Nachqualifizierung.  Diese  sollen  perspektivisch  in  besonders  nachgefragten  Be-rufen bundesweit standardisiert umgesetzt werden. Als Grundlage dienen auch die bisherigen Entwicklungsarbeiten des BIBB und der BA, die am Bedarf orientiert fortgeführt und ergänzt werden.  Ziel  dieser  Teilqualifikationen  ist  es,  formal  gering  qualifizierte  Personen,  darunter auch Arbeitnehmerinnen und Arbeitnehmer ohne Berufsabschluss, aber mit Berufserfahrung, dabei zu unterstützen, schrittweise  einen Berufsabschluss  nachzuholen. Jüngere Personen (bis zum 25. Lebensjahr) sollen weiterhin Zielgruppe der dualen Berufsausbildung bleiben. Von den einzelnen Partnern wurden verschiedene Maßnahmen geprüft und Projekte gestartet, die sich noch in der Umsetzung befinden. In den Projekten „Chancen Nutzen! Mit Teilqualifikationen Richtung Berufsabschluss“ (DIHK) und „ETAPP – mit Teilqualifizierung zum Berufsabschluss“ (BDA) werden in Kooperation mit dem Projekt „BIBB-TQ“ (BIBB) standardisierte, qualitätsgesi-cherte Grundlagen für eine Nachqualifizierung durch Teilqualifikationen entwickelt.
+Das BMAS hat die Fördermöglichkeiten und -leistungen bei berufsabschlussbezogenen Wei-terbildungen kontinuierlich ausgebaut, die auch Teilnehmenden von Teilqualifikationen zugu-tekommen.  So  kann  der  Erwerb von  Grundkompetenzen  bei  abschlussbezogenen Weiterbil-dungen  durch  die  BA  gefördert  werden. Teilnehmende  können  zur  Stärkung von  Motivation und Durchhaltevermögen eine Weiterbildungsprämie von 1.500 Euro erhalten, wenn sie nach Absolvierung der TQs die Externenprüfung erfolgreich absolvieren. Darüber hinaus wurde im Jahr 2020 für Geringqualifizierte ein grundsätzlicher Rechtsanspruch auf Förderung einer be-rufsabschlussbezogenen Weiterbildung in die Arbeitsförderung eingeführt.
+AUSBLICK
+•  Die Sozialpartner entwickeln die Industriemeisterfortbildungen Metall, Elektro und Mecha-tronik zu einem Laufbahnkonzept auf Grundlage der höherqualifizierenden Berufsbildung weiter.  Es  werden  Fortbildungsabschlüsse  auf  den  Ebenen  Berufsspezialisten,  Bachelor Professional und Master Professional entwickelt. Auch für den industrienahen kaufmänni-schen Bereich soll ein Laufbahnkonzept angestoßen werden.
+•  Die  Förderung von  Nachqualifizierung  in  Form von TQ  soll  eng  an  das  Ziel  des  Erwerbs eines Berufsabschlusses geknüpft werden. Berufsabschlüsse sind am Arbeitsmarkt eine we-sentliche Voraussetzung für eine dauerhafte Beschäftigung.
+•  Ziel  ist  die  Entwicklung  einer  bundeseinheitlichen,  standardisierten  Struktur  für  die  be-darfsgerechte  Entwicklung  von  TQ  auf  der  Basis  der  Ausbildungsordnungen.  Das  BMBF 
+50 Bundesministerium für Bildung und Forschung (2020a): InnoVet. In: BMBF, Innovet. URL: inno-vet.de/de/lbt-forward.html.
+[Page #49]
+48
+wird  im  Rahmen  des  Projekts „ETAPP –  mit Teilqualifizierung  zum  Berufsabschluss“,  das seit Dezember 2020 projektübergreifend mit den BMBF-geförderten Projekten „Chancen Nutzen!“  (DIHK  Service  GmbH)  und  „BIBB-TQ“  (Bundesinstitut  für  Berufsbildung)  zu-sammenarbeitet, den Prozess durch den auch mit NWS-Partnern besetzten gemeinsamen Beirat51 voranbringen. Ziel ist die Schaffung größerer zeitlicher und räumlicher Flexibilität durch transparente und mit der Option des Berufsabschlusses kompatible TQ-Angebote.
+•  Identifikation  und  wo  nötig  Abbau  von  Hemmnissen  zur  Erreichung  eines  anerkannten Berufsabschlusses  durch  zertifizierte  TQ  unter  Einbezug  der  Empfehlungen  des  BIBB-Hauptausschusses.
+•  Das  BMAS  wird  hierzu  prüfen,  ob  förderrechtlich  zusätzliche  finanzielle  Anreize  für  die Nachqualifizierung  (im  Rahmen  der  Förderung  beruflicher  Weiterbildung  insgesamt)  er-möglicht werden können. Ziel bleibt die Erhöhung der Motivation und des Durchhaltever-mögens bei den besonders relevanten Teilnehmergruppen.
+•  Die BA wird ihre Aktivitäten im Bereich der Förderung und der Beratungen gering quali-fizierter Arbeitnehmerinnen und Arbeitnehmer mit Blick auf das Nachholen eines Berufs-abschlusses intensivieren und bei den Förderteilnehmenden von TQ verstärkt auf die Ziel-erreichung des Erwerbs eines Berufsabschlusses ausrichten.
+H A N D LU N G S F E L D  8
+Bildungseinrichtungen als Kompetenz­zentren für berufliche Weiterbildung strategisch weiterentwickeln
+AUSGANGSLAGE UND ZIELSETZUNG 
+Weiterbildung  in Deutschland  ist vielfältig  und  häufig regional  organisiert.  Es  gibt  eine Viel-zahl an Angeboten von Betrieben, öffentlichen und privaten Einrichtungen sowie weiteren zu-ständigen Stellen. Ebenfalls gibt es mehrere an verschiedenen Zielgruppen orientierte Förder-instrumente.  Das  ermöglicht  es, Weiterbildungsangebote  für  Menschen  in  unterschiedlichen Lebenslagen bereitzustellen und flexibel auf wechselnde Anforderungen zu reagieren. Um die Durchlässigkeit des Systems weiter zu erhöhen und Synergien zu verstärken, sollen berufliche und allgemeine Bildung gemeinsam weiterentwickelt, die verschiedenen Weiterbildungsange-bote nach Möglichkeit noch stärker aufeinander abgestimmt und verzahnt und hierzu Netz-werke zwischen den Akteuren von Weiterbildung verstärkt ausgebaut werden. Mit Modellen der  Lernortkooperation  und  der  regionalen Weiterbildungsverbünde  könnten  z.B.  große  und kleinere Betriebe noch stärker zusammenarbeiten und so gemeinsam Synergien in der Organi-sation und Durchführung von Weiterbildungsmaßnahmen schaffen.
+51 Mitglieder im gemeinsamen Beirat der TQ-Projekte sind BMBF, BMAS, BIBB, BA, DIHK, BDA, f-bb, IHK Arnsberg, Bertelsmann Stiftung und AgenturQ.
+[Page #50]
+49
+1
+2
+1
+1
+1
+4
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+3
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+3
+4
+Abbildung 3: Geförderte Projekte im Rahmen des Bundesprogramms zum Aufbau von Weiterbildungsverbünden (Stand: Mai 2021)
+[Page #51]
+50
+WAS WURDE ERREICHT?
+In  einzelnen  Ländern  wurde  ein  erfolgreiches  System  von  Qualifizierungsverbünden  auf-gebaut. Das BMAS setzt darüber hinaus mit dem Bundesprogramm „Aufbau von Weiterbil-dungsverbünden“ eine Vereinbarung der NWS um. Dabei sollen mithilfe regionaler Koordi-nierungsstellen Kooperations- und Vernetzungsstrukturen u.a. zwischen Unternehmen sowie Bildungs- und Beratungseinrichtungen aufgebaut werden, um die Weiterbildungsbeteiligung von Beschäftigten, insbesondere in KMU, zu erhöhen sowie regionale Wirtschafts- und Inno-vationsnetzwerke zu stärken. Im Rahmen des dafür aufgelegten Programms werden aufgrund der großen Nachfrage rund 40 anstatt der zunächst geplanten 10 Projekte gefördert. Die ers-ten beiden Weiterbildungsverbünde haben ihre Arbeit bereits im Dezember 2020 in Berlin und Thüringen aufgenommen. Zusätzlich wird die Veröffentlichung einer zweiten Förderrichtlinie vorbereitet, sodass weitere Weiterbildungsverbünde sowie eine Koordinierungsstelle unter-stützt werden können. Ausgehend von einem Beschluss der Konzertierten Aktion Mobilität vom November 2020 soll der Transformationsgedanke, der die Qualifizierung von Beschäftig-ten der Fahrzeugindustrie in andere Branchen und Wirtschaftszweige hinein berücksichtigt, noch stärker im Fokus stehen.
+Zentrale öffentliche bzw. öffentlich geförderte Institutionen wie die BA, die überbetrieblichen Berufsbildungsstätten (ÜBS) oder die beruflichen Schulen und Volkshochschulen üben in der Region eine wichtige Koordinationsfunktion aus. Hinsichtlich der Förderung von Digitalisierung in der beruflichen Bildung sind die Sonderprogramme des BMBF und des BMWi zur ÜBS-Di-gitalisierung von besonderer Bedeutung.
+Im  Rahmen  des  Sonderprogramms  „Digitale  Ausstattung“  zugunsten  der  mittelständischen Fort-  und  Weiterbildungseinrichtungen  in  Deutschland  fördert  das  BMWi  seit  dem  Jahr 2019 die Beschaffung modernster Ausstattungen. Mit einem Fördersatz von 90 Prozent bei ei-nem Eigenanteil von nur 10 Prozent ist hier die Förderquote so hoch, dass alle Bildungsstätten die teils sehr teuren Maschinen anschaffen können. 
+AUSBLICK
+Mit der Umsetzung der NWS wurden zusätzliche Aktivitäten zur Stärkung von Bildungsträgern auf den Weg gebracht. Die Frage der Vernetzung und Zusammenarbeit der Akteure hat eine immer größere Bedeutung erhalten:
+•  Mit der Etablierung neuer regionaler Verbünde ist ein gutes Zusammenspiel öffentlich ge-
+förderter Initiativen zu gewährleisten. 
+•  Querbezug:  Um  Synergien  und  Erfahrungen  zu  nutzen,  könnte  zwischen  den  Betrieben eine stärkere Verzahnung der Weiterbildungsangebote angestrebt werden. Kleine Betriebe könnten von einer stärkeren Kooperation mit größeren Unternehmen profitieren.
+[Page #52]
+51
+H A N D LU N G S F E L D  9
+Das Personal in der Weiterbildung stärken und für den digitalen Wandel qualifizieren
+AUSGANGSLAGE UND ZIELSETZUNG
+Digitalisierungsprozesse  führen  nicht  nur  in  den  Branchen  und  Betrieben  zu  neuen Arbeits-aufgaben sowie Qualifikations- und Fachkräftebedarfen, sondern stellen auch Bildungsdienst-leister und -einrichtungen sowie deren Personal vor wachsende Herausforderungen. Lehr- und Lernprozesse  sollen  mithilfe  moderner  Informations-  und  Kommunikationstechnologien  ge-staltet,  passende  Weiterbildungsangebote  entwickelt,  erprobt  und  angeboten  werden.  Die NWS  verfolgt  daher  das  Ziel,  das  Personal  in  der  Weiterbildung  bei  der  Bewältigung  dieser Anforderungen zu unterstützen. In diesem Kontext befassten sich die NWS-Partner mit den Arbeits- und Beschäftigungsbedingungen des Weiterbildungspersonals in der öffentlich finan-zierten beruflichen Weiterbildung und sprachen Empfehlungen insbesondere im Hinblick auf eine anforderungsgerechte Qualifizierung aus. 
+[Page #53]
+52
+WAS WURDE ERREICHT?
+In Zusammenarbeit mit den Sozialpartnern haben Bund und Länder in einer Arbeitsgruppe die Arbeits-  und  Beschäftigungsbedingungen  des  Personals  in  der  öffentlich  finanzierten  beruf-lichen Weiterbildung geprüft. Folgende Schwerpunkte wurden dabei festgelegt:
+•  Bestandsaufnahme/Transparenz der Arbeits- und Beschäftigungsbedingungen des Perso-
+nals in der öffentlich geförderten Weiterbildung
+•  Bestandsaufnahme von Maßnahmen/Angeboten und Aktivitäten zur Kompetenz-
+entwicklung und Qualifizierung des Weiterbildungspersonals 
+Die  NWS-Partner  verfolgen  folgende  Maßnahmen,  um  die  Beschäftigungsbedingungen  des Weiterbildungspersonals weiter zu verbessern und neue Qualifizierungsangebote zu schaffen: 
+Mit der Qualifizierungsinitiative Digitaler Wandel Q 4.0 fördert das BMBF in Zusammenarbeit mit dem BIBB und  den  Praxispartnern –  zunächst  bis Ende  2022 – die Entwicklung und Er-probung von Weiterbildungskonzepten für das Berufsbildungspersonal im digitalen Zeitalter. Dabei  werden  digitale  Lernmanagementsysteme  aufgebaut,  die  den  bundesweiten  Transfer der  Qualifizierungsformate  erleichtern.  In  sogenannten  MIKA-Seminaren  (Medien-  und  IT-Kompetenz für Ausbildungspersonal) lernen und erproben die Teilnehmenden, wie sie digitale Medien  passgenau  und  gewinnbringend  in  betrieblichen  Lehr-  und  Lernprozessen  einsetzen können.  Daneben  fördert  das  BMBF  ein  bundesweites  „Netzwerk  Q  4.0“  mit  Fokus  auf  die Qualifizierung zur Anpassung der Ausbildung an den digitalen Wandel. In Zusammenarbeit mit dem Institut der deutschen Wirtschaft und den Bildungswerken der Wirtschaft werden sowohl branchen-  als  auch  regionalspezifische Weiterbildungsmodule  entwickelt  und  erprobt.  Erste Ergebnisse  der  Projektarbeit  des  „Netzwerks  Q  4.0“  werden  im  Juni  2021  im  Rahmen  einer Halbzeitkonferenz der Fachöffentlichkeit vorgestellt.
+Ein entscheidender Punkt ist die Qualifizierung der Kursleitenden. Eine Arbeitsgruppe des Ku-ratoriums  der AlphaDekade  hat  dazu  unter  Federführung  der  Länder  neue „Handlungsemp-fehlungen für die Aus- und Fortbildung der Kursleitenden in der Alphabetisierung und Grund-bildung“ vorgelegt,  die von  der  Kultusministerkonferenz  und  dem  Kuratorium verabschiedet worden sind. Sie formulieren länderübergreifende unverbindliche Kriterien für die zukünftige Aus-  und  Fortbildung  der  Kursleitenden.  Fortbildungen  werden  in  nahezu  allen  Ländern  für Lehrkräfte organisiert. Eine große Nachfrage gibt es für Online-Fortbildungen (Webinare), die von Grundbildungszentren oder Landesorganisationen der Weiterbildung für Kursleitende an-geboten werden.
+Mit dem Ziel, nachhaltiges Wirtschaften durch Weiterbildung und Qualifizierung von Fachkräf-ten  und Ausbildenden  (auch  im  Kontext  der  Digitalisierung)  zu  stärken,  setzte  das  BMBF  im Frühjahr 2020 die Förderrichtlinie „BBNE-Transfer 2020 bis 2022“ (BBNE = Berufsbildung für nachhaltige Entwicklung) auf. Sie trägt zur Verbreitung und Verstetigung erfolgreicher, nach-haltigkeitsbezogener Konzepte zur Weiterbildung des betrieblichen Ausbildungspersonals bei, die im Förderschwerpunkt „BBNE 2015–2019“ entwickelt wurden. Der Fokus wurde dabei auf nachhaltige Kompetenzentwicklung zur Gestaltung veränderter Arbeitsprozesse in der Ausbil-dung gelegt. Seit November 2020 wird die nachhaltigkeitsbezogene Weiterbildung des betrieb-lichen Ausbildungspersonals im Rahmen von sieben Modellversuchen gefördert.
+[Page #54]
+53
+AUSBLICK
+•  Vor dem Hintergrund der gemeinsam festgestellten unzureichenden Datenlage begrüßt die NWS-Arbeitsgruppe das vom Deutschen Institut für Erwachsenenbildung in Kooperation mit dem BIBB durchgeführte und vom BMBF geförderte Projektvorhaben iWBBe (Integ-rierte  Weiterbildungsberichterstattung  –  Aufbau  einer  systematischen  Berichterstattung zur beruflichen Weiterbildung). 
+•  Die Arbeitsgruppe empfiehlt eine Bestandsaufnahme bei den von Bund und Ländern ge-förderten beruflichen Weiterbildungsmaßnahmen hinsichtlich der Frage, mit welchen Ins-trumenten die Qualifikation des eingesetzten Personals bei der Förder-, Zulassungs- oder Vergabeentscheidung berücksichtigt wird.
+•  Die  Arbeitsgruppe  empfiehlt,  die  Transparenz,  den  Austausch  und  die  Kommunikation der Akteure im Bereich arbeitsmarktpolitischer Maßnahmen zu erhöhen, wie dies auch in Punkt 7 der Stellungnahme des Beirats nach § 182 SGB III (AZAV-Beirat, AZAV = Akkredi-tierungs- und Zulassungsverordnung Arbeitsförderung) zur Evaluation des Verfahrens zur Akkreditierung von fachkundigen Stellen und zur Zulassung von Trägern und Maßnahmen der Arbeitsförderung nach dem SGB III formuliert ist.52 Das würde dazu beitragen, den be-stehenden Handlungsspielraum zur Berücksichtigung der Arbeits- und Beschäftigungsbe-dingungen bei der Maßnahmenzulassung besser auszuschöpfen. 
+•  Die Kultusministerkonferenz der Länder prüft die Erarbeitung von Handlungsempfehlun-gen zur Stärkung der digitalen Kompetenzen des Personals in der öffentlich geförderten Weiterbildung. 
+•  Die Länder setzen sich dafür ein, u.a. für Grundbildungszentren die Fortbildung von Kurs-leitenden auch online-gestützt zu ermöglichen. Die gemeinsam mit dem Kuratorium der AlphaDekade verabschiedeten „Handlungsempfehlungen für die Aus- und Fortbildung von Kursleitenden in der Alphabetisierung und Grundbildung“ bilden eine wichtige Grundlage, die  gemeinsam von  den  Einrichtungen,  ihren Trägern,  den Weiterbildungsverbänden  und den Ländern begleitet werden sollen. Ziel ist es, die Qualitätsanforderungen zu erfüllen, die sich vor allem durch die große Heterogenität in den Kursen als Herausforderung ergeben.
+•  Es  ist  deutlich  geworden,  dass  es  eines  Instruments  bedarf,  um  Gute  Praxis  im  Hinblick auf digitale Kompetenzen im Lehr- und Lernkontext zu identifizieren, sich darüber auszu-tauschen und Transparenz herzustellen. Wichtig sei, dass der Austauschprozess fortgesetzt wird; in welcher Form blieb offen. Dazu gehören auch die Erfahrungen, die im Umgang mit der Pandemie gemacht wurden.
+52 Zenzen, J., Patuzzi, M. (2019): Stellungnahme des AZAV-Beirats zur AZAV-Evaluation, 10. Oktober 2019. In: Bundesagentur für Arbeit. URL: arbeitsagentur.de/datei/ba900145.pdf.
+[Page #55]
+54
+H A N D LU N G S F E L D  10
+Die strategische Vorausschau stärken und die Weiterbildungsstatistik optimieren
+AUSGANGSLAGE UND ZIELSETZUNG
+Bedingt durch übergeordnete Megatrends auf dem Arbeitsmarkt, die unterschiedlich auf Regi-onen und Branchen wirken und Veränderungen von Berufsbildern und Kompetenzanforderun-gen mit sich bringen, wächst der Orientierungsbedarf zur beruflichen Aus- und Weiterbildung bei verschiedenen Zielgruppen.
+Die  Erfassung  und  Analyse  von  Berufsbildern  und  Qualifikationsprofi-len im Wandel der Arbeitswelt ist essenziell, um eine vorausschauende und vorsorgende Qualifizierung zu zukünftigen Kompetenzbedarfen für Beschäftigte sowie Arbeitsuchende zu entwickeln und zur Verfügung zu stellen.  Die  NWS-Partner  haben  sich  mit  dem  Strategiepapier  das  Ziel gesetzt,  die  statistische  Berichterstattung  zu  verbessern,  Instrumente für eine strategische Vorausschau weiterzuentwickeln und die Informa-tionswege insbesondere in Richtung KMU zu verbessern.
+Die Erfassung  und Analyse von  Berufsbildern und  Qualifikationsprofilen im Wandel der  Arbeitswelt ist  essenziell.
+WAS WURDE ERREICHT? 
+Um die Zielsetzung des Handlungsfelds anzugehen, wurde ein partizipativer Prozess im Rah-men eines Themenlabors aufgesetzt. Dafür hat sich ein breites Bündnis aus NWS-Partnern sowie weiteren Institutionen zusammengetan.
+Für eine praxisnahe Verwertbarkeit der Erkenntnisse wurde folgende übergeordnete Frage-stellung identifiziert: Welche Instrumente sind für welche Zielgruppe und für welchen Zweck dienlich? Als Grundvoraussetzung für ein zielgerichtetes Angebot für Aus- und Weiterbildung ist es erforderlich, geeignete Instrumente zur Analyse und Erfassung von vorhandenen und zukünftig benötigten Kompetenzen zu identifizieren und bei Bedarf weiterzuentwickeln. Ge-meinsam wurden folgende Meilensteine vereinbart:
+•  Bestandsaufnahme vorhandener Forschung und Analyseinstrumente zur Herstellung 
+von Transparenz;
+•  Systematisierung und Nutzung von Synergien bei den zahlreichen Vorhaben; 
+•  Verbesserung  der  Informationswege  (Verbesserung  der  Zielgruppen-/Nutzerorientie-
+rung), insbesondere in Richtung KMU.
+Folgende  Erkenntnisse  sind  erarbeitet  worden:  Die  Bestandsaufnahme  aus  dem  Kreis  der NWS-Partner  zeigt,  dass  die  Beispiele  der  strategischen  Vorausschau  und  Analyseinstru-mente auf unterschiedlichen Abstraktionsebenen wichtige Grundlagen zur Orientierung der beruflichen Weiterbildung  in  Deutschland  liefern.  Für  die  Schaffung von  passgenauen An-geboten und Unterstützungsmöglichkeiten müssen die spezifischen Orientierungs- und In-formationsbedarfe in Bezug auf Qualifikationen und Kompetenzen der Zielgruppen erfasst werden. Für die Hauptzielgruppen (Bundes- und Landesbehörden, Wirtschafts- und Sozial-
+[Page #56]
+55
+partner, Personalverantwortliche, Betriebsräte, Weiterbildungsanbieter/Dienstleister und In-dividuen (Beschäftigte/Arbeitsuchende)) wurden diese exemplarisch identifiziert. 
+Eine der Grundherausforderungen ist eine Verbesserung der Informationswege zwischen Wis-senschaft und Praxis. Jede Zielgruppe hat spezifische Bedarfe, die es zu adressieren gilt. Um eine praxisnahe Verwertbarkeit der Erkenntnisse für die Zielgruppen zu ermöglichen, braucht es  eine  Systematisierung  dieser  Informationswege.  Es  wurden  exemplarisch  zielgruppen-spezifische Formate und Produkte zur Erreichung der einzelnen Zielgruppen entwickelt. Dar-über hinaus sind folgende zielgruppenübergreifende Empfehlungen identifiziert worden: 
+•  Die  Analyseinstrumente  sollten  in  das  bereits  vorhandene  Ökosystem  eingebettet  wer-den. So könnte die Anknüpfung an vorhandene und im Aufbau befindliche regionale und branchenspezifische Netzwerk- und Beratungsstrukturen verbessert werden, z.B. regionale Weiterbildungsverbünde, die Zukunftszentren sowie betriebliche Mentorinnen- und Men-torenprogramme oder Weiterbildungsberaterinnen und -berater. Dabei sollten auch kon-krete Bedarfe vor Ort an die Forschung zurückgespielt werden. 
+•  Besonders für KMU und (interessierte) Individuen braucht es Produkte und Formate mit niedrigschwelligem Zugang. Auch sollte hier der Nutzen der Instrumente für die Zielgrup-pe besser sichtbar gemacht werden. Beispielhaft könnten hier Informationskampagnen mit Erfolgsgeschichten  als  Unterstützungsfunktion  entwickelt  und  auch vermehrt Anreizme-chanismen zur Nutzung dieser Informationen geschaffen werden.
+•  Zur  Verbesserung  der  Orientierung  und  Übersicht  zu  den  Instrumentarien  ist  die  Er-stellung  einer  „One-Stop-Shop“-Website,  auf  der  die  Erkenntnisse  zielgruppengerecht aufgearbeitet sind, zu prüfen. Dabei wäre die Verbindung zu anderen Online-Angeboten mitzudenken.
+Um das Geschehen in der Weiterbildung besser einschätzen zu können, fördert das BMBF ein gemeinsames Projekt des BIBB und des Deutschen Instituts für Erwachsenenbildung zur Ent-wicklung einer integrierten Weiterbildungsstatistik. Das Projekt wird in enger Abstimmung mit den Ländern und weiteren relevanten Statistikakteuren umgesetzt. Ein erstes Fachgespräch hat im Januar 2021 stattgefunden.
+[Page #57]
+56
+AUSBLICK
+• Die  NWS-Partner  arbeiten  weiter  an  der Verbesserung  der  Kommunikation von Wissen-schaft  zur  Praxis  und  umgekehrt,  um  eine  bessere  Nutzbarkeit  und  Verwertung  der  Er-kenntnisse für verschiedene Zielgruppen, insbesondere KMU, zu unterstützen. Dafür wird die  Fortführung  eines  Austausches  zu  der  Frage  empfohlen,  wie  in  einem  kooperativen Prozess  die  Erkenntnisse  der  Analyseinstrumente  für  eine  zielgruppenspezifische  Hand-habung aufbereitet werden können. Dabei sollte auf etablierten Austauschstrukturen auf-gebaut werden. Positiv hervorgehoben wurden in diesem Zusammenhang die vielfältigen bestehenden Kooperationen zwischen den wissenschaftlichen Institutionen.
+•  Für  die  Entwicklung  von  Analyseinstrumenten  wird  empfohlen,  die Anwendung innovativer Methoden (z.B. Einsatz von KI, Data Mining und Big Data) weiter auszubauen.
+Die NWS­Partner arbeiten weiter an der Verbesserung der Kommunikation von Wissenschaft zur Praxis und umgekehrt.
+• Das BMAS wird dementsprechend das Fachkräftemonitoring weiter-entwickeln  und  die  Aktivitäten  zur  Verbesserung  der  Erhebung  von zukünftigen  Kompetenzbedarfen  im  Zusammenhang  mit  dem  For-schungsprojekt Kompetenz-Kompass fortsetzen.
+• Das  BIBB  prüft,  ein  systematisches  Monitoring  in  Bezug  auf  die  für  Ordnungsfragen  der beruflichen Bildung relevanten Veränderungen (durch engere Verzahnung relevanter Ins-trumente) aufzubauen und relevante Forschungsprojekte und Vorhaben fortzuführen und weiterzuentwickeln.
+• Zusätzlich prüft das BIBB eine weiter gehende Verzahnung der Analyseinstrumente mit den einschlägigen zugänglichen Informations- und Datenquellen sowie eine zielgerichtete Auf-bereitung und Darstellung der betrieblichen Kompetenzanforderungen und darauf basie-renden beruflichen Matchingmöglichkeiten auf dem deutschen Arbeitsmarkt.
+• Die  Chemie-Sozialpartner  haben  eine  KI-gestützte  Trendanalyse  zu  Kompetenzen  ent-wickelt,  die  für  die  Branche  besonders  relevant  sind.53  Darüber  hinaus  passen  sie  das  im Rahmen der Initiative „Neue Qualität der Arbeit“ (INQA) erstellte Qualifikationsanalysetool PYTHIA54 an chemiespezifische Bedarfe an (Veröffentlichung im Frühsommer 2021). Nach Bereitstellung  beider  Tools  wird  eine  sozialpartnerschaftliche  Kommunikationsstrategie verfolgt, um die Nutzung der Ergebnisse sowie den Einsatz der Analyseinstrumente in den Betrieben zu gewährleisten.
+53 BAVC, IG BCE, HR Forecast (2021).
+54 Das Tool ist einzusehen über https://personal-pythia.de/
+[Page #58]
+None
+[Page #59]
+None
+[Page #60]
+59
+C | IM FOKUS 
+Beiträge zur Digitalisierung in der Weiterbildung
+Zentraler Ausgangspunkt der NWS im Jahr 2019 war die fortschreitende Digitalisierung der Ar-beitswelt, welche auch die Rahmenbedingungen für Qualifizierung und Weiterbildung grund-legend verändert  hat.  Spätestens  mit  der  COVID-19-Pandemie  und  den  damit verbundenen Herausforderungen ist  die  Digitalisierung der Weiterbildung  als Handlungsfeld in den  Fokus gerückt.  Als  Querschnittsthema  spielt  sie  in  den  unterschiedlichen  Austauschformaten  der NWS und in dem begleitenden Bund-Länder-Ausschuss eine wichtige Rolle. Zusätzlich wurde das Thema in einem separaten Workshop mit einem breiten Kreis von Expertinnen und Exper-ten sowie Praktikerinnen und Praktikern diskutiert.  
+Ein  wichtiges  Ziel  der  NWS-Partner  ist  es,  weiterbildungsinteressierten Personen, Beschäftigten und Personalverantwortlichen eine zielgerichtete Navigation auf dem Weiterbildungsmarkt zu erleichtern und die Übersicht-lichkeit  der Weiterbildungs-  und  Beratungsangebote  zu verbessern.  Pers-pektivisch  sind  der Abbau von  Barrieren  im  Bereich  der  digitalen Weiter-bildung und die Entwicklung eines inklusiven digitalen Bildungsraums eine zentrale Aufgabe für die weitere Umsetzung der gemeinsamen Strategie.
+Spätestens mit der COVID-19-Pandemie ist die Digitalisierung der Weiterbildung als Handlungsfeld in den Fokus gerückt.
+PANDEMIEKRISE ALS TREIBER 
+Die Digitalisierung der Weiterbildung reicht von digitalen Informationsangeboten, digitalen oder hybrid durchgeführten Qualifizierungsmaßnahmen bis zu digital zertifizierten Abschlüs-sen  und  deren  Speicherung.  Mit  digitalen  Weiterbildungsmaßnahmen  und  Angeboten  zur Information und Dokumentation sind große Erwartungen und Potenziale verbunden. Unter-nehmen  erhoffen  sich  durch  digitale  Lernangebote,  die  Qualifizierung  ihrer  Beschäftigten leichter in die Arbeitsabläufe integrieren zu können und mehr Möglichkeiten für selbst ge-steuertes Lernen zu schaffen.55 Durch Technologien kann Lernen individualisiert und flexibel in den Arbeitsalltag integriert werden. Darüber hinaus kann für Beschäftigte die örtliche und zeitliche Flexibilität digitaler Angebote die Vereinbarkeit mit anderen Verpflichtungen oder ein Lernen in Teilzeit erleichtern. 
+55 Klös, H.-P., Seyda, S., Werner, D. (2020): Berufliche Qualifizierung und Digitalisierung: Eine empirische Bestandsaufnahme. In: IW-Report, No. 40/2020. Institut der deutschen Wirtschaft (Hrsg.), Köln.
+[Page #61]
+60
+Microlearning
+92 %
+Wissensplattformen mit kleinen Lernangeboten, die bedarfsabhängig abgerufen werden können
+Multimodales Lernen
+86  %
+Ansprache von unterschiedlichen Sinneskanälen, z.B. Audio, Video
+Virtual Reality
+65  %
+Trainingsangebote in simulierten Arbeitsumgebungen
+Virutal Mentoring
+59  %
+Mentoring in virtuellen Lernumgebungen
+Personalisierte Lernangebote
+59  %
+Lernangebote auf der Basis von Prüfungen oder Analysen
+Gamification
+57  %
+Lernprozesse in Spiel- oder Wettbewerbsform
+Data Analytics
+54  %
+Echtzeitanalyse von Arbeitsergebnissen
+Augmented Reality
+54  %
+Trainingsangebote, z.B. mit Datenbrillen in der realen Arbeitsumgebung
+Integration Big Data
+43  %
+Lernangebote mit Big Data
+Peer Assessed Training
+19  %
+Zukünftige Bedeutung 
+„hoch“ bzw „sehr hoch“
+Bewertung von Lernergebnissen durch Kollegen
+Abbildung 4: Betriebliche Weiterbildung: Ergebnisse einer Anbieterbefragung zur zukünftigen Bedeutung digitaler Angebote. Aufgelistet sind Angebote mit hoher bis sehr hoher Bedeutung.
+Abbildung 4 gibt in diesem Zusammenhang für den Bereich der betrieblichen Weiterbildung Ergebnisse aus einer Umfrage aus Sicht der Weiterbildungsanbieter dazu wieder, welche digita-len Innovationen künftig von Bedeutung sein werden. 
+Bereits vor der Pandemie standen sowohl Unternehmen als auch Beschäftigte digitalen Wei-terbildungen tendenziell positiv gegenüber.56 Unter den Bildungsanbietern setzte bereits eine große Mehrheit (80 Prozent) digitale Medien in ihrer Arbeit ein. Allerdings geschah dies weitge-hend im Präsenzunterricht.57 Lediglich jeder zwanzigste Bildungsanbieter setzte überwiegend auf virtuelle Formate58 und nur vier Prozent aller Bildungsaktivitäten für Erwachsene fanden im Jahr 2018 als reine Online-Formate statt.59
+56 Bitkom/VdTüV (2018); Bundesministerium für Bildung und Forschung (2020): Digitalisierung in der Weiterbildung: Ergebnisse einer Zusatzstudie zum Adult Education Survey 2018. BMBF, Bonn.
+57 Christ, J. et al. (2020): Digitalisierung. Ergebnisse der wbmonitor Umfrage 2019. BIBB, Bonn. 
+58 Ebd.
+59 Bundesministerium für Bildung und Forschung (2020). 
+[Page #62]
+61
+Aufgrund der Pandemie musste ein Großteil der Weiterbildungsaktivitäten vor Ort zwischen-zeitlich  ausgesetzt  werden.  In  der  Folge  haben  viele  Anbieter  kurzfristig  versucht,  ihre  An-gebote  zu  digitalisieren.  Die  Weiterbildung  insgesamt  hat  notwendigerweise  einen  Digita-lisierungsschub erfahren.60 Im Bereich der geförderten Weiterbildung wurde im Rahmen der AZAV-Zertifizierung  ein  vereinfachtes  Verfahren  eingeführt,  um  die  Durchführung  von  Prä-senzmaßnahmen kurzfristig auch digital zu ermöglichen. Auch die Zahl der Unternehmen, die gezielt in die digitale Weiterbildung investiert haben, war 2020 fast um ein Viertel höher als noch zwei Jahre zuvor.61 Häufig sind dies größere Unternehmen, die in der Krise davon profitiert haben, dass sie umfangreiche interne digitale Personalentwicklungs- und Weiterbildungsplatt-formen aufgebaut hatten. 
+CHANCEN UND HERAUSFORDERUNGEN
+Die  Pandemie  wirkt  für  die  Digitalisierung  der  Weiterbildung  wie  ein  Brennglas  und  macht Chancen, aber auch Herausforderungen, die bereits vor der pandemiebedingten Krise bestan-den, besonders klar erkennbar. Es zeigte sich deutlich das Potenzial digitaler Werkzeuge und Angebote. Anbieter betrieblicher Weiterbildungen sehen laut einer aktuellen Umfrage große Chancen beispielsweise bei bedarfsabhängig abrufbaren, kleineren Lernmodulen (sogenanntes Microlearning) oder personalisierten Weiterbildungsangeboten und Lernpfaden (vgl. Abbildung 4). Deutlich geworden ist aber auch, dass es noch große Unterschiede bei der Erfahrung mit digital gestütztem Lernen gibt. Ebenfalls sind die entsprechenden technischen und räumlichen Voraussetzungen nicht überall in ausreichendem Maße vorhanden.62
+Um  digitale  Zugänge  zum  lebensbegleitenden  Lernen  zu  ermöglichen,  kommt  den  digitalen Lerninfrastrukturen  eine  besondere  Bedeutung  zu.  Es  gilt  sicherzustellen,  dass  sich  für  Per-sonen mit niedriger Weiterbildungsbeteiligung bestehende Hemmschwellen beim Zugang zu beruflicher Weiterbildung  durch  deren  Digitalisierung  nicht  weiter verstärken.  Neben  digita-len Grundkompetenzen und einer grundsätzlichen Offenheit benötigen Lehrkräfte zusätzlich Kenntnisse digitaler Didaktik, um Lernprozesse digital begleiten zu können. Insgesamt wachsen so die Anforderungen und Qualifizierungsbedarfe an sie bzw. verändern sich signifikant.63 64
+Bildungsträger  benötigen  für  die  Entwicklung  digitaler Angebote  sowohl  das  entsprechende Know-how als auch Investitionsmittel, was einige Träger vor Herausforderungen stellt. Andere Träger profitieren von bereits in der Vergangenheit getätigten Investitionen in diesem Bereich. Laut einer Studie des BIBB rechnen manche Beobachter in diesem Zusammenhang mit einer Verringerung der Unternehmenszahl auf dem Weiterbildungsmarkt aufgrund von Insolvenzen oder Übernahmen.65
+60 Bundesinstitut für Berufsbildung (2020a): Stimmungsbild im Rahmen der Nationalen Weiterbildungsstrategie zu den Auswirkungen der Corona-Krise auf die berufsbezogene Weiterbildung, insbesondere hinsichtlich der Nutzung und des Potenzials digitalisierter Weiterbildungsangebote und -strukturen. BIBB, Bonn.
+61 Bitkom (2020): Bitkom Digital Office Index 2020. In: Bitkom. DOI: bitkom.org/doi-2020
+62 Dos Santos, S., Ehlert, M., Hornberg, C., Scholl, F., Solga, H. (2020): Zu wenig Zeit, zu wenig Platz. In der Krise viele Hindernisse für Weiterbildung. In: WZB Mitteilungen, Heft 168, S. 63–65. Wissenschaftszentrum Berlin für Sozialforschung, Berlin.  
+63 Autorengruppe Bildungsberichterstattung (2020). 
+64 Vgl. Handlungsfeld 9 zu den Arbeits- und Beschäftigungsbedingungen des Personals in der Weiterbildung sowie den Bericht der Arbeitsgruppe „Gute Arbeit in der Weiterbildung – Arbeits- und Beschäftigungsbedingungen in der öffentlich geförderten beruflichen Weiterbildung“ im Rahmen der Begleitbroschüre.
+65 Bundesinstitut für Berufsbildung (2020a). 
+[Page #63]
+62
+Darüber hinaus stellen sich aus praktischer Sicht übergreifende Fragen, beispielsweise mit Blick auf  die  Dokumentation  und  gegebenenfalls  die Anerkennung von  digitalen  Lernergebnissen. Damit verbundene offene Punkte der Qualitätssicherung, der Förderfähigkeit digitaler Weiter-bildungsangebote sowie des Datenschutzes und der Verwendung anfallender und verfügbarer (Lern-)Daten gilt es zu klären, um Verlässlichkeit zu bieten und Vertrauen schaffen zu können. 
+Für die Akzeptanz und den Lernerfolg digitaler Lehr-/Lerntechnologien kommt es darauf an, diese gut in den Lernprozess zu integrieren und sinnvoll mit didaktischen Konzepten zu verbin-den. Erfahrungen zeigen, dass spielerische Ansätze (z.B. „Gamification“) im Lehr-/Lernprozess dazu beitragen können, die Lernmotivation deutlich zu steigern bzw. aufrechtzuerhalten.66 Glei-ches gilt für die Dokumentation einzelner Lernergebnisse, z.B. mittels sogenannter „Badges“ oder  im  Rahmen  von  „Mikro-  und  Nanodegrees“,  die  insbesondere  im  Bereich  der  IT-Kom-petenzen zunehmend zum Einsatz kommen. Wenn diese Möglichkeiten für niedrigschwellige Lernangebote genutzt werden, können hiervon gerade auch Personen mit negativen Lernerfah-rungen bzw. lernentwöhnte und formal gering qualifizierte Personen profitieren.67 Unterneh-men, die attraktive digitale Lernportale zur Unterstützung der Weiterbildungskultur aufgebaut haben, konnten eine deutliche Zunahme der Lernbereitschaft verzeichnen. 68
+66 Schuldt, J. (2020): Lernspiele und Gamification. In: Niegemann, H., Weinberger, A. (Hrsg.): Handbuch Bildungstechnologie. Springer, Berlin/Heidelberg. DOI: doi.org/10.1007/978-3-662-54368-9_18
+67 Seyda, S. (2019): Wie die Digitalisierung genutzt werden kann, um Geringqualifizierte weiterzubilden. Handlungsempfehlung an Individuen, Unternehmen und Bildungsanbieter sowie die Bundesagentur für Arbeit. Institut der deutschen Wirtschaft, IW-Policy Paper No. 7/2019. Institut der deutschen Wirtschaft, Köln.
+68 Die Unternehmen Deutsche Telekom, IBM oder die Deutsche Bahn können hier beispielhaft genannt werden. Jacobs, J. C., Kagermann, H., Spath, D. (2020): Lebenslanges Lernen fördern. Gute Beispiele aus der Praxis. Ein Good-Practice-Bericht des Human-Resources-Kreises von acatech. Lessons Learned, wissenschaftliche Analysen und Handlungsoptionen (acatech DISKUSSION). acatech – Deutsche Academy der Technikwissenschaften, München.
+[Page #64]
+63
+AUSBLICK
+Im Zuge der Umsetzung der NWS wurden bereits verschiedene Maßnahmen vereinbart und um-gesetzt, um die Digitalisierung der Weiterbildung zu unterstützen:
+•  Mit dem Innovationswettbewerb INVITE werden Projekte gefördert, die die Grundlage für einen innovativen und inklusiven digitalen Weiterbildungsraum schaffen und KI-unterstützt individualisierte und personalisierte Digitalangebote entwickeln.
+•  Die Entwicklung eines zentralen Online-Einstiegsportals für die berufliche Weiterbildung wird 
+auf seine Machbarkeit hin überprüft (Projektdefinitionsphase).
+•  Die Qualifizierungsinitiative „Digitaler Wandel Q 4.0“ entwickelt und erprobt neuartige Quali-
+fizierungsformate für das Berufsbildungspersonal.
+•  Die AZAV wurde durch das Gesetz zur Förderung der beruflichen Weiterbildung im Struktur-wandel  und  zur  Weiterentwicklung  der  Ausbildungsförderung  (Arbeit-von-morgen-Gesetz) mit dem Ziel weiterentwickelt, auch digitale Lernformate förderfähig zu machen.
+•  Der erste Prototyp der Infrastruktur zur Ausstellung von digitalen Fähigkeitsnachweisen (EDCI-Issuer, EDCI = Europass Digital Credential Infrastructure) wurde nach Beteiligung deutscher Bildungsinstitutionen an der Pilotinitiative mit der Veröffentlichung des neuen EUROPASS-Portals freigeschaltet. Die Erfahrungen fließen in Folgeaktivitäten zu Digital Credentials u.a. in Teilprojekte von INVITE ein.
+Eine besondere Bedeutung kommt künftig der Entwicklung eines digitalen Weiterbildungsraums zu. Im Sinne eines Leitbildes steht der Begriff des digitalen Bildungsraums für eine digitale Archi-tektur im Bereich Weiterbildung, die den Zugang zu Weiterbildung möglichst niedrigschwellig ge-staltet und Angebote unterbreitet, die auf individuelle Bedürfnisse hinsichtlich Inhalt, Format und Umfang zugeschnitten sind. Dadurch soll es Menschen möglichst einfach gemacht werden, sich stetig weiterzubilden. 
+In diesem Zusammenhang braucht es eine Diskussion darüber, welche übergreifenden digitalen Standards benötigt werden, u.a. zur Maßnahmendurchführung, zur Dokumentation von Kompe-tenzen oder für regionale Kooperationen, und wie konkrete betriebliche Konzepte aussehen kön-nen. Auch ist zu diskutieren, welche digitalen Kompetenzen benötigt werden und welche „nicht digitalen“ Kompetenzen grundsätzlich digital vermittelt werden können.
+Zur Realisierung und nachhaltigen Ausgestaltung eines nutzerorientierten digitalen Raums der be-ruflichen Weiterbildung sollte ein regelmäßiges Austausch- und Beteiligungsformat auch im Rah-men der NWS vorgesehen werden.
+Mit dem Start der Initiative Digitale Bildung der Bundesregierung sollen die Voraussetzungen ge-schaffen werden, bestehende und neue digitale Bildungsplattformen bildungsübergreifend zu einem anschlussfähigen Plattformökosystem zu verknüpfen. Für den Aufbau dieser übergeordneten Platt-form wird das BMBF 2021 in einem ersten Schritt die Entwicklung mehrerer Prototypen fördern.
+Die Stärkung von Bildung in der digitalen Welt ist eine gesamtgesellschaftliche Herausforderung. Die Rahmenbedingungen der Weiterbildung in der digitalen Welt sind ganzheitlich und kontinu-ierlich weiter zu verbessern. Die Schaffung eines digitalen Weiterbildungsraums bedarf der engen Beteiligung aller relevanten Partner.
+[Page #65]
+K A P I T E L  3
+Was bleibt zu tun?
+[Page #66]
+65
+Kapitel  2  hat  die  Umsetzungsbeiträge  der  Partner  der  Nationalen  Weiterbildungsstrategie (NWS) aufgezeigt und die Ergebnisse aus den Themenlaboren dokumentiert. Ein Großteil der vereinbarten  Maßnahmen  aus  dem  NWS-Strategiepapier  wurde  bereits  umgesetzt  bzw.  be-findet sich in der Umsetzung. Vertiefungsthemen wie Alphabetisierung und Grundbildung, Be-ratung oder Qualitätssicherung wurden unter dem Eindruck der sich beschleunigenden Digita-lisierung der Weiterbildung in Themenlaboren und Workshops vorangetrieben. Auch vor dem Hintergrund  einer  internationalen  Einordnung  leitet  der  Länderbericht  der  Organisation  für wirtschaftliche Zusammenarbeit und Entwicklung Empfehlungen ab, die aus Sicht der Organi-sation mögliche Anknüpfungspunkte für eine Weiterentwicklung einer jeweils nationalen Wei-terbildungsstrategie geben. Im Fokus stehen dabei die stärkere Erreichung und Förderung von gering qualifizierten Personen mit niedriger Weiterbildungsbeteiligung sowie eine gesteigerte Kohärenz zwischen bestehenden Förderangeboten und insgesamt eine weitere Steigerung der Weiterbildungsinvestitionen.69
+Der  NWS-Umsetzungsprozess  hat  eine  neue  Kooperationskultur  zwi-schen  den  beteiligten  Entscheidungsträgern  und  weiteren  Akteuren aus  Wissenschaft  und  Praxis  etabliert.  Um  die  Weiterbildungskultur  in Deutschland nachhaltig zu stärken, müssen die aufgegriffenen Themen in  den  Handlungsfeldern  weiterentwickelt  werden.  Die  Themenlabore und die Arbeitsgruppe der NWS haben hierfür mit einer systematischen Bestandsaufnahme  und  der  Entwicklung  von  spezifischen  Handlungs-empfehlungen  eine  wichtige  Grundlage  gelegt.  Diese  bietet  Anknüp-fungspunkte für die weitere Arbeit. 
+Der NWS-Umsetzungs prozess hat eine neue Kooperationskultur zwischen den beteiligten Entscheidungsträgern und weiteren Akteuren aus Wissenschaft und Praxis etabliert.
+Über  die  Handlungsfelder  und  Themenlabore  der  NWS  hinweg  sehen die Partner für den weiteren Umsetzungsprozess der Nationalen Weiter-bildungsstrategie insbesondere vier zentrale Querschnittsthemen: 
+•  Zugänge erleichtern zu Beratung, Förderung und Weiterbildungsangeboten, unter 
+Einbeziehung von finanziellen und zeitlichen Rahmenbedingungen; 
+•  Kooperation vertiefen in Regionen und Branchen; 
+•  Konzepte weiterentwickeln für Kompetenzen der Zukunft, Qualifizierungsplanung im 
+Betrieb sowie betriebliche und tarifliche Ansätze zur Stärkung der Weiterbildung;
+•  digitale Weiterbildung stärken mit mehr Transparenz und innovativen Lernangeboten.  
+Nachfolgend soll themenbezogen ein Überblick über zentrale Ableitungen aus der zurücklie-genden Umsetzungsphase gegeben werden. Hierbei soll auch aufgezeigt werden, mit welchen Lösungswegen und nächsten Schritten die berufliche Weiterbildung in Deutschland in den ge-nannten Gestaltungsfeldern gestärkt werden kann.
+69  OECD (2021): Continuing Education and Training in Germany, Getting Skills Right. OECD Publishing, Paris.
+[Page #67]
+66
+ZENTRALE EMPFEHLUNGEN UND NÄCHSTE SCHRITTE
+Anschlüsse: Für Menschen ohne verwertbaren Berufsabschluss sollte eine Prozessbeschrei-bung erarbeitet werden, damit ihnen aufbauend auf Beratungsangeboten, der Validierung in-formell und nonformal erworbener beruflicher Handlungskompetenzen sowie ergänzenden Qualifizierungsangeboten der Weg bis hin zum nachträglichen Berufsabschluss geebnet wer-den kann. So wird es möglich, Fachkräfte zu entwickeln und individuelle berufliche Entwick-lungsperspektiven zu vergrößern.
+Beratung und Orientierung: In der Weiterbildungsberatung soll – auch unterstützt durch die  nationale  Weiterbildungsplattform  –  die  Kooperation  und  Vernetzung  der  beratenden Institutionen  ausgebaut  und  verbessert  werden.  Maßgabe  ist  zudem,  die  Beratung,  z.B. durch  Weiterbildungsmentorinnen  und  -mentoren,  adressatengerechter  auszugestalten. Insbesondere  ist  die  Inanspruchnahme  von  Beratungsangeboten  durch  Personengruppen mit geringerer Weiterbildungsbeteiligung, wie z.B. Migrantinnen und Migranten, zu er höhen. Bestehende  Instrumente  der  Qualitätssicherung  sind  auf  die  Passgenauigkeit  hinsichtlich digi taler Bildungsangebote zu analysieren. Darüber hinaus sollte eine digitale Checkliste ent-wickelt werden.
+Alphabetisierung  und  Grundbildung:  Die  öffentliche  Förderung  und  die  strukturellen Rahmen bedingungen für die arbeitsorientierte Alphabetisierung und Grundbildung Erwach-sener sollen weiter gestärkt werden. Eine Arbeitsgruppe unter Einbeziehung der Sozialpart-ner soll anhand von Praxiserfahrungen prüfen, welche Kursmodelle zielführend sein können und wie Projekte zur Alphabetisierung und Grundbildung sowie die vorhandenen Förderins-trumente der Bundesagentur für Arbeit (BA) in diesem Zusammenhang sinnvoll einzusetzen sind.  Die  Länder  verfolgen  das  Ziel  eines  bedarfsgerechten  und  nachhaltigen  Ausbaus  der Regelstrukturen für die Alphabetisierung und Grundbildung Erwachsener. Dazu gehören die Förderung von Lernangeboten über Volkshochschulen und andere Weiterbildungseinrichtun-gen, Kurse oder gegebenenfalls Grundbildungszentren. Das BMAS strebt an, den Erwerb von Grundkompetenzen auch bei nicht abschlussorientierter beruflicher Weiterbildung befristet zu ermöglichen und das Nachholen eines Hauptschulabschlusses im Rahmen der Förderung beruflicher  Weiterbildung  zu  erleichtern.  Die  BA  wird  sich  dafür  einsetzen,  dass  die  beste-henden  Fördermöglichkeiten  stärker  genutzt  werden,  um  auch  gering  Literalisierte  an  eine Weiter bildung heranzuführen. 
+Förderangebote:  Die  Weiterbildungsförderung  für  Beschäftigte  wurde  deutlich  ausgebaut und  die  Unterstützung  von  Unternehmen  bei  der  betrieblichen  Weiterbildung  maßgeblich verstärkt. Die Bekanntheit und Inanspruchnahme müssen im Zusammenwirken aller Partner weiter gesteigert werden. Zudem gilt es vor dem Hintergrund des fortlaufenden digitalen und ökologischen  Strukturwandels  für  alle  Akteure  der  beruflichen  Weiterbildung,  den  Bedarf einer Weiterentwicklung der Unterstützungs- und Förderinstrumente fortwährend zu über-prüfen. Auch im Bereich der individuellen beruflichen Weiterbildung sollen weitere Anstren-gungen geprüft werden, um Erwerbsbiografien im Strukturwandel in allen Einkommens- und Qualifizierungsbereichen und geschlechterübergreifend stärker zu unterstützen.
+[Page #68]
+67
+Vernetzung:  Zentrale  öffentliche  bzw.  öffentlich  geförderte  Institutionen  wie  die  BA,  die überbetrieblichen Berufsbildungsstätten, die beruflichen Schulen und die Volkshochschulen üben in der Region eine wichtige Koordinationsfunktion aus. Mit der Etablierung neuer regio-naler Verbünde kann ein wichtiger Beitrag zur Vernetzung entstehen, wenn alle relevanten Akteure  beteiligt  sind.  Die  hier  gemachten  Schritte  gilt  es  auszubauen.  Auch  zwischen  Be-trieben sollte eine stärkere Verzahnung der Weiterbildungsangebote, wie z.B. beim Bundes-programm „Aufbau von Weiterbildungsverbünden“, angestrebt werden. Im 3. Quartal 2021 wird hierzu ein zweiter Förderaufruf gestartet.
+Bund  und  Länder:  Zur  Vertiefung  der  Zusammenarbeit  im  Bereich  der  Weiterbildung  und Stärkung der Kohärenz der Förderangebote streben Bund und Länder ein koordiniertes Vor-gehen gegebenenfalls auch im Kontext von „Weiterbildungsketten“ an. 
+Personal in der Weiterbildung: Gute Arbeit und die kontinuierliche Qualifizierung des Wei-terbildungspersonals sind Voraussetzungen für die Stabilisierung und Weiterentwicklung der Attraktivität und Qualität von Weiterbildungsmaßnahmen. Mit Fokus auf das Thema „Stär-kung des Weiterbildungspersonals für digitale Kompetenzen“ soll eine KMK-Initiative zur Ab-stimmung entsprechender Handlungsempfehlungen für die Aus- und Fortbildung von Kurs-leitenden geprüft werden. 
+Strategische  Vorausschau:  Um  zukünftige  Kompetenz-  und  Weiterbildungsbedarfe  besser einschätzen zu können, braucht es neben der Weiterentwicklung innovativer Forschungsan-sätze gerade für kleine und mittlere Unternehmen und Beschäftigte Produkte und Formate mit niedrigschwelligem Zugang. Hier besteht weiterhin Bedarf bei der Entwicklung von Tools zur Ermittlung von Personalentwicklungs- und Weiterbildungsbedarfen. 
+Digitalisierung der Weiterbildung: Die Stärkung von Bildung in der digitalen Welt ist eine gesamtgesellschaftliche  Herausforderung.  Die  Rahmenbedingungen  der  Weiterbildung  im digitalen  Raum  sind  systematisch  und  kontinuierlich  zu  verbessern  –  von  der  Infrastruk-tur,  digitalen  Informationsangeboten,  digitalen  und  hybriden  Maßnahmen  bis  zu  digital zertifizierten  Abschlüssen.  Die  Schaffung  eines  digitalen  Weiterbildungsraums  bedarf  der engen  Beteiligung  aller  relevanten  Partner.  Der  Innovationswettbewerb  INVITE  soll  die Nutzerorientierung  von  digitalen  Weiterbildungsplattformen  sowie  die  Transparenz  von Weiterbildungsangeboten  steigern  und  den  Bestand  digitaler,  individualisierter  Weiterbil-dungsangebote ausbauen. Die im Rahmen der NWS gemeinsam diskutierte Nationale On-line-Weiterbildungsplattform  (NOW!)  wird  in  enger  Abstimmung  mit  den  Bundesländern und den Sozialpartnern weiter ausgestaltet werden. Als Teil der „Initiative Digitale Bildung“ der Bundesregierung soll eine Nationale Bildungsplattform entstehen, die bildungsbereichs-übergreifend bestehende und neue Plattformen und Lernangebote mit dem Ziel vernetzt, Bildungsangebote leichter auffindbar und für den konkreten Kontext und individuellen Be-darf  passfähig  bereitzustellen.  Hierbei  werden  gemeinsame,  offene  Standards  und  beste-hende Kontexte – insbesondere das Onlinezugangsgesetz – genutzt und weiterentwickelt. Die sich ergänzenden Projekte gilt es synergetisch aufeinander zu beziehen.
+[Page #69]
+K A P I T E L  4
+Wie geht es weiter?
+[Page #70]
+69
+Mit der Nationalen Weiterbildungsstrategie (NWS) ist ein langfristig angelegter, übergreifender und partnerschaftlicher Austauschprozess zur Weiterbildungspolitik gelungen. Dieser Prozess wurde  ressortübergreifend  konzipiert  und  verantwortet.  Gleichzeitig  ist  durch    die  COVID-19-Pandemie die Notwendigkeit nach einer auf die beschleunigte Transformation ausgerichte-ten Weiterbildungsstrategie noch einmal stark gestiegen.
+Gerade die COVID-19-Pandemie hat einmal mehr deutlich gemacht, dass berufliche Weiter-bildung einen zentralen Stellenwert einnimmt, um die Resilienz von Menschen und Organisa-tionen auch für außergewöhnliche Situationen zu stärken. Berufliche Weiterbildung wird damit zu einer entscheidenden Zukunftsfrage für die wirtschaftliche Stabilität und den gesellschaft-lichen Zusammenhalt. Die Auseinandersetzung mit Weiterbildung und Qualifizierung erfordert einen breiten politischen und gesellschaftlichen Dialog und die gemeinsame Suche nach lang-fristig tragfähigen und zukunftsweisenden Lösungen. Die hohe Verlässlichkeit und systemati-sche Verknüpfung des Strategie- und Umsetzungsprozesses zeichnen die NWS aus und haben neue Impulse und zahlreiche Fortschritte bewirken können. 
+Von Beginn an wurden bei der Erarbeitung des Strategiepapiers offene und ko-kreative Forma-te der Politikgestaltung integriert. Durch die konkreten Beiträge und Zusagen aller Partner im Strategiepapier ist eine hohe Verbindlichkeit für den Umsetzungsprozess geschaffen worden, der über das Ende dieser Legislaturperiode hinausreicht. Auch die Organisation für wirtschaft-liche Zusammenarbeit und Entwicklung würdigt in ihrem die NWS begleitenden Länderbericht die Kooperation zwischen den nationalen Stakeholdern und empfiehlt eine Weiterentwicklung und Vertiefung der Beteiligungsstrukturen.70
+Die  17  NWS-Partner  schlagen  eine  konsequente  Fortführung  der  gestar-teten Aktivitäten sowie Beratungs- und Austauschprozesse der Nationalen Weiterbildungsstrategie vor. Hierbei kann auf der in der NWS entstandenen Kooperationskultur  sowie  auf  den  bewährten  institutionellen  Austausch-formaten – wie z.B. dem NWS-Gremium und dem Bund-Länder-Ausschuss zur Begleitung der NWS – aufgebaut werden. 
+Die 17 Partner schlagen eine konsequente Fortführung der gestarteten Aktivitäten sowie Beratungs- und Austauschprozesse der NWS vor.
+Die  Arbeits-  und  Kooperationsstruktur  sollte  mit  Blick  auf  noch  ausste-hende  Umsetzungsschritte  sowie  durch  die  Pandemie  entstandene  neue Herausforderungen  gezielt  weiterentwickelt  werden.  Dies  ist  bereits  im NWS-Strategiepapier wie folgt angelegt worden: „Im Jahr 2021 wird ein ge-meinsamer Bericht vorgelegt werden, mit dem der Umsetzungsstand und die Handlungsziele der NWS überprüft und ggf. weiterentwickelt werden.“71
+70 OECD (2021).
+71 Bundesministerium für Arbeit und Soziales, Bundesministerium für Bildung und Forschung (Hrsg.) (2019): Strategiepapier Nationale Weiterbildungsstrategie. BMAS und BMBF, Berlin, S. 23.
+[Page #71]
+70
+Auch auf Grundlage der zurückliegenden Arbeit in den Themenlaboren der NWS ist für einen zukünftigen strategischen Ansatz zu prüfen, in welcher Organisationsform und mit welchem inhaltlichen  Zuschnitt  die Themenfelder  der  NWS  weiterentwickelt  werden  sollen.  Es  könn-ten zudem neue relevante Themenschwerpunkte, z.B. vor dem Hintergrund der ökologischen Transformation,  diskutiert  bzw.  vorhandene  Themenschwerpunkte  vertieft  werden.72  Wie bereits im Erarbeitungsprozess der NWS punktuell erprobt, sollen auch in den nächsten Jahren agile Arbeitsmethoden eingesetzt werden. Weiterhin ist eine Einbindung von Expertise aus Pra-xis und Wissenschaft zu prüfen. Die bestehenden Ansätze zum Nachhalten zentraler Meilen-steine und Umsetzungsfortschritte sollten gezielt weitergeführt werden.
+Die Fortführung der Nationalen Weiterbildungsstrategie wird davon profitieren, wenn die Part-ner  sich  auch  außerhalb  des  Gremiums  zielgerichtet  vernetzen  und  koordinieren.  In  diesem Sinne wird der Bund-Länder-Ausschuss als sinnvolles Instrument der Koordinierung von Bund und Ländern fortgeführt werden.
+Im  Hinblick  auf  die  internationale  Perspektive  sehen  die  Partner  die Weiterentwicklung  der NWS als konkreten Beitrag und „good practice“ zur Umsetzung der aktualisierten „Skills Agen-da“ der Europäischen Kommission sowie der im Rahmen der deutschen Ratspräsidentschaft im November 2020 verabschiedeten Osnabrücker Erklärung zur beruflichen Bildung. Beide Initia-tiven unterstreichen die Bedeutung nationaler Qualifizierungsstrategien für hochwertiges und inklusives lebenslanges Lernen. Mit der Nationalen Weiterbildungsstrategie gibt Deutschland zugleich einen wichtigen Impuls für die Berufsbildung in Europa.
+72 Sachverständigenkommission für den Dritten Gleichstellungsbericht der Bundesregierung (2021): Digitalisierung geschlechtergerecht gestalten. Gutachten für den Dritten Gleichstellungsbericht der Bundesregierung. Geschäftsstelle Dritter Gleichstellungsbericht, Berlin, S. 90.
+[Page #72]
+None
+[Page #73]
+NWS | Literaturverzeichnis
+72
+LITERATURVERZEICHNIS
+Arntz, M., Gregory, T., Zierahn, U. (2020): Digitalisierung und die Zukunft der Arbeit.  In: Wirtschaftsdienst (13). DOI: doi.org/10.1007/s10273-020-2614-6.
+Autorengruppe Bildungsberichterstattung (2020): Bildung in Deutschland 2020.  Ein indikatorengestützter Bericht mit einer Analyse zu Bildung in einer digitalisierten  Welt. Gefördert mit Mitteln der Ständigen Konferenz der Kultusminister der Länder in  der Bundesrepublik Deutschland und des Bundesministeriums für Bildung und Forschung. In: Bildungsbericht. URL: bildungsbericht.de/static_pdfs/bildungsbericht-2020.pdf.
+Bitkom (2020): Bitkom Digital Office Index 2020. In: Bitkom. DOI: bitkom.org/doi-2020.
+Bitkom/VdTüV (Hrsg.) (2018): Weiterbildung für die digitale Arbeitswelt: Eine repräsentative Untersuchung von Bitkom Research im Auftrag des VdTÜV e.V. und des Bitkom e. V. Berlin.
+Bundesagentur für Arbeit (2020): Länderreport über Beschäftigte. Deutschland, West/Ost und Länder. BA, Nürnberg.
+Bundesarbeitgeberverband Chemie e. V. (BAVC), Industriegewerkschaft Bergbau, Chemie, Energie (IG BCE) und HR Forecast (Hrsg.) (2021): Zukünftige Berufsprofile. Future Skills Report Chemie. BAVC, IG BCE, HR Forecast, München. In: Future Skills Chemie. URL: future-skills-chemie.de. 
+Bundesinstitut für Berufsbildung (2018): Datenreport zum Berufsbildungsbericht 2018. Informationen und Analysen zur Entwicklung der beruflichen Bildung. BIBB, Bonn.
+Bundesinstitut für Berufsbildung (2020): Datenreport zum Berufsbildungsbericht 2020. Ratgeber zur beruflichen Weiterbildung. BIBB, Bonn.
+Bundesinstitut für Berufsbildung (2020a): Stimmungsbild im Rahmen der Nationalen Weiterbildungsstrategie zu den Auswirkungen der Corona-Krise auf die berufsbezogene Weiterbildung, insbesondere hinsichtlich der Nutzung und des Potenzials digitalisierter Weiterbildungsangebote und -strukturen. BIBB, Bonn.
+Bundesministerium für Arbeit und Soziales (Hrsg.) (2021), Forschungsbericht 526/3:Aktualisierte BMAS-Prognose. „Digitalisierte Arbeitswelt“. Bundesministerium für Arbeit und Soziales, Berlin.
+Bundesministerium für Arbeit und Soziales, Bundesministerium für Bildung und Forschung (Hrsg.) (2019): Strategiepapier Nationale Weiterbildungsstrategie 2019, BMAS und BMBF, Berlin.
+[Page #74]
+NWS | Literaturverzeichnis
+73
+Bundesministerium für Bildung und Forschung (2020): Digitalisierung in der Weiterbildung: Ergebnisse einer Zusatzstudie zum Adult Education Survey 2018. BMBF, Bonn.
+Bundesministerium für Bildung und Forschung (2020a): InnoVet. In: BMBF, Innovet.  URL: inno-vet.de/de/lbt-forward.html.
+Bundesministerium für Bildung und Forschung (Hrsg.) (2019): Weiterbildungsverhalten in Deutschland 2018. Ergebnisse des Adult Education Survey – AES-Trendbericht. BMBF, Bonn.
+Christ, J. et al. (2020): Digitalisierung. Ergebnisse der wbmonitor Umfrage 2019. BIBB, Bonn.
+Deutscher Bundestag (2021): Bericht der Bundesregierung über die Förderung 
+entsprechenden Ausgaben. Drucksache 19/25785. In: Deutscher Bundestag. URL: dip21.bundestag.de/dip21/btd/19/257/1925785.pdf.
+Deutscher Industrie- und Handelskammertag (2017): Wachsende Herausforderungen treffen auf größeren Optimismus. Das IHK-Unternehmensbarometer zur Digitalisierung. DIHK, Berlin und Brüssel.
+Deutscher Industrie- und Handelskammertag (2020): Top Abschlüsse. Top Perspektiven. Erfolg mit Höherer Berufsbildung. In: DIHK. URL: dihk-bildungs-gmbh.de/weiterbildung/erfolg-mit-hoeherer-berufsbildung/.
+Deutscher Industrie- und Handelskammertag (2021): Berufliche Weiterbildung zahlt sich aus. In: DIHK. URL: https://www.dihk.de/de/themen-und-positionen/fachkraefte/beruf-liche-weiterbildung-zahlt-sich-aus.
+Dohmen, D., Cordes, M. (2019): Kosten der Weiterbildung in Deutschland. Verteilung der Finanzlasten auf Unternehmen, Privatpersonen, öffentliche Hand. Studie im Rahmen des Projekts „Volks- und regionalwirtschaftliche Kosten, Finanzierungs- und Förderstrukturen und Erträge der Weiterbildung – VoREFFi-WB“. Gefördert vom Bundesministerium für Bildung und Forschung, FiBS Forum Nr. 61. FiBS – Forschungsinstitut für Bildungs- und Sozialökonomie, Berlin.
+Dos Santos, S., Ehlert, M., Hornberg, C., Scholl, F., Solga, H. (2020): Zu wenig Zeit, zu wenig Platz. In der Krise viele Hindernisse für Weiterbildung. In: WZB Mitteilungen, Heft 168. Wissenschaftszentrum Berlin für Sozialforschung, Berlin.
+EFI – Expertenkommission Forschung und Innovation (2021): Gutachten zu Forschung, Innovation und technologischer Leistungsfähigkeit Deutschlands 2021. EFI, Berlin.
+Ehlert, M. (2020): Individuelle berufsbezogene Weiterbildung und Umschulung: Aktuelle Daten zu Bedarf und Teilnahme aus dem NEPS. Präsentation im Rahmen des Fachgesprächs des Gesprächskreises Weiterbildungspolitik am 02.09.2020. Friedrich-Ebert-Stiftung, Berlin.
+[Page #75]
+NWS | Literaturverzeichnis
+74
+Grotlüschen, A., Buddeberg, K., Dutz, G., Heilmann, L., Stammer, C. (2019):Leo 2018. Leben mit geringer Literalität. Pressebroschüre, Hamburg.
+Hall, A., Sevindik, U. (2018): Einfacharbeit in Deutschland – wer arbeitet was unter welchen Bedingungen? Ergebnisse aus der BIBB/BAuA-Erwerbstätigenbefragung 2018. BIBB, Bonn.
+Heß, P., Janssen, S., Leber, U. (2019): Beschäftigte, deren Tätigkeiten durch Technologien ersetzbar sind, bilden sich seltener weiter. IAB-Kurzbericht 16/2019. Institut für Arbeits-markt- und Berufsforschung, Nürnberg.
+IAB-Betriebspanel (2017): Daten. IAB-Pressekonferenz „Betriebliche Weiterbildung“ am 22. März 2017.
+Jacobs, J. C., Kagermann, H., Spath, D. (2020): Lebenslanges Lernen fördern. Gute Beispiele aus der Praxis. Ein Good-Practice-Bericht des Human-Resources-Kreises von acatech. Lessons Learned, wissenschaftliche Analysen und Handlungsoptionen (acatech DISKUS-SION). achatech – Deutsche Academy der Technikwissenschaften, München.
+Klös, H.-P., Seyda, S., Werner, D. (2020): Berufliche Qualifizierung und Digitalisierung: Eine empirische Bestandsaufnahme. In: IW-Report, No. 40/2020. Institut der deutschen Wirtschaft (Hrsg.), Köln.
+Kruppe, T., Mühlhan, J., Weber, E., Wiemers, J. (2019): Gesamtfiskalische Wirkungen von Weiterbildungsförderung: Öffentliche Ausgaben generieren hohe Rückflüsse. IAB-Kurzbericht 08/2019. Institut für Arbeitsmarkt- und Berufsforschung, Nürnberg.
+Kultusministerkonferenz (2019): Kompetenzorientiertes Qualifikationsprofil zur Integration der Thematik „Wirtschaft 4.0“ in die Ausbildung an Fachschulen für Wirtschaft. Beschluss der Kultusministerkonferenz vom 13.12.2019. Berlin.
+Kultusministerkonferenz (2020): Ländervereinbarung über die gemeinsame Grundstruktur des Schulwesens und die gesamtstaatliche Verantwortung der Länder in zentralen bildungs-politischen Fragen. Beschluss der Kultusministerkonferenz vom 15.10.2020. In: KMK. URL: kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2020/2020_10_15-Laendervereinbarung.pdf.
+Matthes, B., Müller, G. (2021): Ergebnisse der Machbarkeitsstudie Kompetenz-Kompass zu den Branchen Maschinenbau, IKT und Gesundheitswesen. Bundesministerium für Arbeit und Soziales, Berlin.
+Müller, N., Wenzelmann, F. (2020): Berufliche Weiterbildung. Teilnahme und Abstinenz. In: Zeitschrift für Weiterbildungsforschung, ZfW, Nr. 43. DOI: doi.org/10.1007/s40955-019-0141-0.
+[Page #76]
+NWS | Literaturverzeichnis
+75
+Nationale Plattform Zukunft der Mobilität (2020): Arbeitsgruppe 4. Sicherung des Mobili-täts- und Produktionsstandortes, Batteriezellproduktion, Rohstoffe und Recycling, Bildung und Qualifizierung. Fokusgruppe Strategische Personalplanung und -entwicklung. 1. Zwischenbericht zur strategischen Personalplanung und -entwicklung im Mobilitätssektor. In: Nationale Plattform Zukunft Mobilität. Berlin. URL: plattform-zukunft-mobilitaet.de/wp-content/uploads/2020/03/NPM-AG-4-1-Zwischenbericht-zur-strategischen-Personal-planung-und-Entwicklung-im-Mobilit%C3%A4tssektor.pdf.
+Nedelkoska, L., Quintini, G. (2018): Automation, skills use and training.  In: OECD Social, Employment and Migration Working Papers, No. 202, OECD Publishing, Paris. URL: dx.doi.org/10.1787/2e2f4eea-en.
+OECD (2021): Continuing Education and Training in Germany, Getting Skills Right.  OECD Publishing, Paris.
+Osiander, C., Stephan, G. (2018): Gerade geringqualifizierte Beschäftigte sehen bei der beruflichen Weiterbildung viele Hürden. In: IAB-Forum, 2. August 2018.  URL: iab-forum.de/gerade-geringqualifizierte-beschaeftigte-sehen-bei-der-beruflichen-weiterbildung-viele-huerden/.
+Sachverständigenkommission für den Dritten Gleichstellungsbericht der Bundesregierung (2021): Digitalisierung geschlechtergerecht gestalten. Gutachten für den Dritten Gleichstel-lungsbericht der Bundesregierung. Geschäftsstelle Dritter Gleichstellungsbericht, Berlin.
+Schuldt, J. (2020): Lernspiele und Gamification. In: Niegemann, H., Weinberger, A. (Hrsg.): Handbuch Bildungstechnologie. Springer, Berlin, Heidelberg.  DOI: doi.org/10.1007/978-3-662-54368-9_18.
+Seyda, S. (2019): Wie die Digitalisierung genutzt werden kann, um Geringqualifizierte weiterzubilden. Handlungsempfehlung an Individuen, Unternehmen und Bildungsanbieter sowie die Bundesagentur für Arbeit. Institut der deutschen Wirtschaft, IW-Policy Paper  No. 7/2019. Institut der deutschen Wirtschaft, Köln.
+Seyda, S., Placke, B. (2020): IW-Weiterbildungserhebung 2020: Weiterbildung  auf Wachstumskurs. Institut der deutschen Wirtschaft e. V., IW-Trends (04/2020),  Institut der deutschen Wirtschaft e. V. (Hrsg.), Köln.
+Statistisches Bundesamt (2020): Bildungsfinanzbericht 2020. Im Auftrag des Bundes-ministeriums für Bildung und Forschung und der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland. Destatis, Wiesbaden.
+Westdeutscher Handwerkskammertag (2021): Projektkoordination ValiKom-Transfer. Bundesministerium für Bildung und Forschung, Projektbericht vom 28.02.2021.
+Zenzen, J., Patuzzi, M. (2019): Stellungnahme des AZAV-Beirats zur AZAV-Evaluation,  10. Oktober 2019. In: Bundesagentur für Arbeit. URL: arbeitsagentur.de/datei/ba900145.pdf.
+[Page #77]
+76
+Impressum
+HerausgeberBundesministerium für Arbeit und SozialesGeschäftsstelle Nationale Weiterbildungsstrategie Wilhelmstraße 49, 10117 Berlin
+Wenn Sie aus dieser Publikation zitieren möchten, dann bitte mit genauer Angabe der Herausgeber, des Titels und des Stands der Veröffentlichung. Bitte senden Sie zusätzlich ein Belegexemplar an die Herausgeber. 
+Bundesministerium für Bildung und ForschungReferat 315 – Berufliche WeiterbildungKapelle-Ufer 1, 10117 Berlin
+Die Publikation wird im Rahmen der Öffentlichkeitsarbeit der Bundesministerien für Arbeit und Soziales sowie für Bildung und Forschung kostenlos heraus gegeben. Sie darf weder von Parteien noch von Wahlbewerberinnen und Wahlbewerbern sowie Wahl-helferinnen und Wahlhelfern während eines Wahlkampfs zum Zwecke der Wahlwerbung verwendet werden. Dies gilt für Euro-pa-, Bundestags-, Landtags- und Kommunalwahlen. Missbräuch-lich sind insbesondere die Verteilung auf Wahlveranstaltungen oder an Informationsständen der Parteien sowie das Einlegen, Aufdrucken oder Aufkleben parteipolitischer Informationen oder Werbemittel. Untersagt ist gleichfalls die Weitergabe an Dritte zum Zwecke der Wahlwerbung. Unabhängig davon, wann, auf welchem Weg und in welcher Anzahl diese Publikation dem Empfänger oder der Empfängerin zugegangen ist, darf sie auch ohne zeitlichen Bezug zu einer bevorstehenden Wahl nicht in einer Weise verwendet werden, die als Parteinahme der Bundes-regierung zugunsten einzelner politischer Gruppen verstanden werden kann.
+Stand: Juni 2021
+ProjektkoordinationDr. Sven Rahner (BMAS), Stefan Angermüller (BMBF), Michael Schulze (BMAS), Marie Ullmann (BMAS), Dr. Michael Dörsam (BIBB), Aileen Körfer (BIBB)
+RedaktionsteamStefan Angermüller (BMBF), Dr. Nicole Cujai (BA), Dr. Michael Dörsam (BIBB), Thomas Friedrich (BA), Dr. Oliver Heikaus (DIHK), Frank Ißleib (MWVLW RLP/WMK), Stefanie Janczyk (IG Metall), Aileen Körfer (BIBB), Katja Lack (BMAS), Susanne Müller (BDA), Mario Patuzzi (DGB), Dr. Sven Rahner (BMAS), Dr. Ulrich Raiser (SENBJF BE/KMK), Michael Schulze (BMAS), Marie Ullmann (BMAS), Giovanni Viola (BIBB)
+Außerdem ist diese kostenlose Publikation, gleichgültig wann, auf welchem Weg und in welcher Anzahl sie dem Empfänger oder der Empfängerin zugegangen ist, nicht zum Weiterverkauf bestimmt. 
+Design und ProduktionKOMPAKTMEDIEN Agentur für  Kommunikation GmbH
+Alle Rechte einschließlich der bildmechanischen Wiedergabe und des auszugsweisen Nachdrucks vorbehalten. Dieser Umsetzungs-bericht ist auch verfügbar in englischer Sprache sowie online auf bmas.de und bmbf.de.
+Wigwam eG
+BildmaterialSeite 8: BMAS/Dominik ButzmannSeite 9: BMBF/Laurence ChaperonSeite 10: iStock/vmSeite 17: iStock/VioletaStoimenovaSeite 19: iStock/DuxXSeite 22: iStock/BongkarnThanyakijSeite 25: iStock/CasarsaGuruSeite 27: Getty Images/10‘000 HoursSeite 28: iStock/Drazen_Seite 31: iStock/alvarezSeite 33: iStock/oatawaSeite 34: iStock/TzidoSeite 39: iStock/Drazen ZigicSeite 51: Getty Images/Thomas BarwickSeite 55: iStock/andresrSeite 57: Getty Images/Westend61Seite 58: iStock/seksan mongkhonkhamsaoSeite 62: iStock/FG TradeSeite 71: iStock/stockfour
+BESTELLSERVICE
+Wenn Sie eine Bestellung aufgeben möchtenBest.-Nr. A805
+Telefon: 030 182 722 721Telefax: 030 18 102 722 721E-Mail: publikationen@bundesregierung.deInternet: bmas.de, bmbf.deSchriftlich: Publikationsversand der Bundesregierung: Postfach 48 10 09 / 18132 Rostock
+Gehörlosen-/Hörgeschädigten-ServiceE-Mail: info.gehoerlos@bmas.bund.deTelefax: 030 221 911 017Gebärdentelefon: gebaerdentelefon.de/bmas
+Druck Hausdruckerei Bundesministerium für Arbeit  und Soziales, Bonn  Gedruckt auf 100 % Recyclingpapier 
+[Page #78]
+None
+[Page #79]
+None

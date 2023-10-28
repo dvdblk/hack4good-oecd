@@ -1,0 +1,196 @@
+[Page #0]
+POLICY PAPER 
+Future Skills –  Diskussionspapier 5 
+DIE ZUKUNFT DER QUALIFIZIERUNG  IN UNTERNEHMEN NACH CORONA 
+Julian Kirchherr | Julia Klier | Volker Meyer-Guckel | Mathias Winde  
+[Page #1]
+FUTURE SKILLS 
+DISKUSSIONSPAPIER 5 
+DIE ZUKUNFT VON QUALIFIZIERUNG IN UNTERNEHMEN NACH CORONA 
+Vom Krisenmodus zum Aufbau relevanter Future Skills  
+» Die Corona-Krise beschleunigt die Digitalisierung der Fort- und Wei-terbildungsangebote und setzt neue Impulse für die Qualifizierung. Eine aktuelle Umfrage unter deutschen Unternehmen zeigt: Vor Be-ginn der Pandemie wurden nur 35 Prozent aller Qualifizierungsmaß-nahmen digital angeboten; inzwischen sind es bereits 54 Prozent. » Die deutsche Wirtschaft hat die Bedeutung von Qualifizierung in Kri-senzeiten erkannt: 84 Prozent der befragten Unternehmen geben an, dass Fort- und Weiterbildung Thema auf der Vorstandsagenda ist. Dennoch sank während der Pandemie das entsprechende Budget bei 21 Prozent der Befragten; bei 49 Prozent stagnierte es. 
+» Nach Einschätzung der Unternehmen werden Zukunftsfähigkeiten (Future Skills) im Zuge der Corona-Krise noch bedeutender und er-höhen den Qualifizierungsbedarf. So ist zum Beispiel der Anteil an Weiterbildungen im Bereich der digitalen Schlüsselqualifikationen seit März um 75 Prozent gestiegen. 
+» Nicht nur die Corona-Krise erfordert, dass Unternehmen die Aus- 
+und Weiterbildung von Mitarbeitern neu denken müssen. Erfolgsvo-raussetzung hierfür sind innovative Lernformate, mehr Transparenz bei den tatsächlich benötigten Fähigkeiten, systematische Evaluati-onen von Lernerfolgen, ein klarer Business Case für Qualifizierung und der Aufbau adäquater IT-Infrastruktur, die dezentrales Lernen unterstützt. 
+» Politik, Verbände und Sozialpartner haben verschiedene Möglichkei-ten, Qualifizierung in Deutschland gezielt zu unterstützen. Dazu ge-hören Impulse zu branchenspezifischen Future Skills-Taxonomien, die von der Bundesregierung angestoßene Verknüpfung von Kurzar-beit und Qualifizierung sowie ein leichterer Zugang zu Fördermit-teln gemäß des Qualifizierungschancengesetzes. Darüber hinaus sollte geprüft werden, ob der Status Quo zur steuerlichen Begünsti-gung in der Anschaffung privater Endgeräte für Arbeit und Qualifi-zierung im Homeoffice noch zeitgemäß ist. 
+2 
+[Page #2]
+FUTURE SKILLS 
+DISKUSSIONSPAPIER 5 
+1. WIE SICH UNTERNEMEN ERFOLGREICH AUF DIE NEUE NORMALITÄT EIN-GESTELLT HABEN 
+Die Corona-Krise verändert Arbeitsmarkt und Arbeitsalltag grundlegend. Ihre Fol-gen haben in Deutschland zur schlimmsten Wirtschaftskrise seit der Großen De-pression in den 1930er Jahren geführt. Zu Beginn der Pandemie im April 2020 er-hielten 5,95 Millionen Arbeitnehmer Kurzarbeitergeld, bis Juli hat sich dieser Wert auf 4,24 Millionen reduziert mit weiter sinkender Tendenz (Stand Ende Sep-tember 2020). Die Zahl der Arbeitslosen lag im September 2020 bei etwa 2,85 Millionen. Noch ist nicht absehbar, wie sich der Arbeitsmarkt in den kommenden Monaten entwickeln wird – weitere Entlassungen und Freistellungen sind nicht auszuschließen. Gleichzeitig verändert die Pandemie den Arbeitsalltag: Sie be-schleunigt bereits angestoßene Digitalisierungsprozesse und beeinflusst tradierte Handlungs- und Denkmuster. Arbeitsmodelle mit mehr Heimarbeit sind Teil der neuen Normalität. Vor diesem Hintergrund haben Stifterverband und McKinsey deutsche Unternehmen zum Thema Qualifizierung befragt. 
+KONTEXT UND METHODIK DIESER STUDIE  
+Das vorliegende Diskussionspapier wurde vom Stifterverband für die Deutsche Wissenschaft e.V. in Zusammenarbeit mit McKinsey & Com-pany, Inc. erstellt. Methodisch basieren die im Folgenden dargestellten Ergebnisse auf einer im August 2020 durchgeführten Onlineumfrage zum Thema Qualifizierungsmaßnahmen. Mehr als 550 Unternehmen mit min-destens 50 Mitarbeitern aus allen Branchen in Deutschland haben sich daran beteiligt. Befragt wurden leitende Angestellte und Personalverant-wortliche zu den Auswirkungen der Corona-Krise. Zusätzlich wurde auch eine Reihe von qualitativen Interviews mit führenden Personalverant-wortlichen durchgeführt. Ziel war es, herauszufinden, wie sich die Pan-demie auf Aus- und Weiterbildung von Unternehmen ausgewirkt hat. 
+Dieses Diskussionspapier gibt einen Überblick über die Ergebnisse der Umfrage, zeigt konkrete Handlungsempfehlungen für Unternehmen auf und erläutert wie Politik, Verbände und Sozialpartner einen Beitrag leis-ten können. Zusätzlich berücksichtigt wurden Erkenntnisse der Future Skills-Initiative des Stifterverbandes sowie Arbeiten von McKinsey zu die-sem Thema. 
+Fort- und Weiterbildung ist für erfolgreiche Unternehmen wichtiger denn je. Der Qualifizierungsbedarf wird künftig weiter steigen und die Dringlichkeit infolge der Corona-Pandemie noch zunehmen. Dabei müssen Qualifizierungen sukzessive in den Arbeitsalltag eingebunden werden, um einen nachhaltigen Aufbau von Fä-higkeiten sicherzustellen. Unternehmen haben die Bedeutung von Fort- und Wei-terbildung klar erkannt: Doch obwohl Qualifizierung ein Thema auf Vorstands-ebene ist, wird der Qualifizierungsbedarf in der Praxis jedoch häufig nicht voll-ständig abgedeckt. So ergab eine 2018 vom Stifterverband und McKinsey durch-geführte Befragung, dass ein Arbeitnehmer im Schnitt 3,7 Tage pro Jahr an for-mellen Weiterbildungen teilnimmt. In der Corona-Krise müssen Unternehmen den Spagat zwischen Sparzwang und steigendem Qualifizierungsbedarf schaffen: Ei-nerseits sind Unternehmen großem finanziellem Druck ausgesetzt und es liegt nahe, am Qualifizierungsbudget zu sparen. Andererseits gewinnen Fort- und 
+3 
+[Page #3]
+FUTURE SKILLS 
+DISKUSSIONSPAPIER 5 
+Weiterbildungen zunehmend an strategischer Bedeutung. Die Umfrage zeigt: Bei 21 Prozent der befragten Unternehmen ist das entsprechende Budget im Zuge der Corona-Pandemie gesunken, bei 49 Prozent ist es unverändert geblieben.  
+Viele Unternehmen haben mit neuen Fort- und Weiterbildungsangeboten schnell und gut auf die Herausforderungen der Corona-Krise reagiert. 39 Prozent der Un-ternehmen betonen, dass sie seit Ausbruch der Pandemie verstärkt den Fokus auf Qualifizierung gelegt haben. Dennoch zeigt sich eine Diskrepanz zwischen kom-munizierter Bedeutung und tatsächlicher Allokation von Ressourcen: Das Qualifi-zierungsbudget stagniert oder sinkt im Zuge der Corona-Krise gar bei 70 Prozent der befragten Unternehmen. 
+» In 70 Prozent der Unternehmen stagniert oder sinkt das Budget für Fort- und Wei-terbildungen. 
+Unternehmen übernehmen gesellschaftliche Verantwortung und begleiten Frei-stellungen häufig mit Qualifizierungsangeboten. Freigestellte Mitarbeiter, die auch langfristig nicht in der Organisation bleiben, profitieren von Fort- und Wei-terbildungsangeboten. Die aktuelle Umfrage zeigt, dass sich Unternehmen dieser Verantwortung trotz der herausfordernden Situation bewusst sind und sie ernst nehmen: 44 Prozent geben an, dass sie freigestellte Mitarbeiter mit Angeboten zur Weiterqualifizierung unterstützen. Damit leisten Unternehmen einen wert-vollen Beitrag zur Entwicklung gut ausgebildeter Arbeitskräfte und damit von Wirtschaft und Gesellschaft insgesamt. 
+» 44 Prozent der Unternehmen unterstüt-zen auch freigestellte Mitarbeiter mit Qualifizierungsangeboten, selbst wenn sie perspektivisch nicht Teil der Organisation bleiben. 
+Unternehmen treiben Digitalisierung von Fort- und Weiterbildungen voran. Laut Umfrage stellen Unternehmen bereits 54 Prozent ihrer Qualifizierungsangebote digital zur Verfügung – vor der Krise waren es nur 35 Prozent. Dieser Trend dürfte sich in Zukunft noch verstärken. Im Schnitt planen Unternehmen, auch langfristig mehr als die Hälfte der Fort- und Weiterbildungen im Digitalformat anzubieten. 
+» Im Schnitt planen Unternehmen auch 
+langfristig mehr als 50 Prozent der Fort- und Weiterbildungen im Digitalformat an-zubieten. 
+2. WELCHE FUTURE SKILLS IN ZUKUNFT WICHTIG SIND 
+Die Vermittlung von Future Skills wird für den Standort Deutschland in den kom-menden Jahren noch wichtiger als bisher. Bereits vor der Corona-Pandemie ha-ben disruptive Geschäftsmodelle die Arbeitswelt stark verändert. Jetzt beschleu-nigt die Krise den digitalen Wandel und beeinflusst bestehende Geschäftsmodelle mit noch größerer Dynamik. Ob im Einzelhandel, in der Logistik oder im verarbei-tenden Gewerbe – es entsteht eine neue Normalität, die durch die verstärkte Nutzung von digitalen Technologien geprägt ist. Um erfolgreich in dezentralen und digitalen Arbeitsstrukturen wirken zu können, brauchen Mitarbeiter neue Schlüsselqualifikationen. Im Jahr 2018 haben der Stifterverband und McKinsey 18 zentrale Future Skills in den Bereichen „Technologische Fähigkeiten“, „Digitale Schlüsselqualifikationen“ und „Nicht-digitale Schlüsselqualifikationen“ identifi-ziert. Die aktuelle Umfrage mit 550 Unternehmen belegt, dass diese Fähigkeiten künftig noch relevanter werden und verstärkt im Fokus des Fort- und Weiterbil-dungsangebotes stehen müssen.  
+4 
+[Page #4]
+FUTURE SKILLS 
+DISKUSSIONSPAPIER 5 
+WAS SIND FUTURE SKILLS?  
+Future Skills sind Fähigkeiten, die in den kommenden Jahren in allen Branchen für das Berufsleben und die gesellschaftliche Teilhabe wichti-ger werden. Sie gliedern sich in „Digitale Schlüsselfähigkeiten“, „Tech-nologische Fähigkeiten“ und „Nicht-digitale Schlüsselfähigkeiten“. Nä-here Angaben zu den 18 Fähigkeiten werden im Appendix aufgeführt 
+Unternehmen fördern als Reaktion auf die Corona-Krise vermehrt digitale Future Skills. Die Umfrage zeigt, dass kurzfristig die dringendsten Fortbildungsdefizite im Mittelpunkt stehen, also digitale Schlüsselqualifikationen, hauptsächlich in den Bereichen „Digitale Interaktion“, „Digital Learning“ und „Digital Literacy“. Die Momentaufnahme zeigt, dass die Unternehmen mit ihren Qualifizierungsmaß-nahmen dringend benötigte Digitalkompetenzen der Mitarbeiter geschult haben, die digitales Arbeiten und Lernen ermöglichen. Zukünftig ist es wichtig, rele-vante technologische Fähigkeiten wie nutzerzentriertes Design oder komplexe Datenanalyse verstärkt zu priorisieren (siehe Abbildung 1).  
+» Digitale Schlüsselqualifikationen werden besonders häufig qualifiziert: 79 Prozent der Teilnehmer bilden sich während der Corona-Krise zum Thema „Digital Learn-ing“ fort, 76 Prozent im Bereich „Digitale Interaktionen“.   
+ABBILDUNG 1: MOMENTAUFNAHME VERÄNDERUNGEN BEIM BEDARF AN FUTURE SKILLS vor versus seit der Corona-Krise 
+Quelle: Stifterverband, McKinsey (2020)  
+3. WIE UNTERNEHMEN ZUKUNFTSORIENTIERTE FORT- UND WEITERBIL-DUNGEN GESTALTEN KÖNNEN 
+Um den gestiegenen Qualifizierungsbedarf künftig angemessen durch geeignete digitale und analoge Formate bedienen zu können, ist ein Neudenken von Qualifi-zierungen erforderlich. Der Stifterverband und McKinsey haben acht Elemente identifiziert, die zu einer nutzerorientierten, digitalen, flexiblen und effizienten Qualifizierung beitragen können. Dazu zählen neben einer strategischen Vision 
+5 
+[Page #5]
+FUTURE SKILLS 
+DISKUSSIONSPAPIER 5 
+eine klare Vorstellung über die benötigten Mitarbeiterfähigkeiten, entsprechende Qualifikationsinhalte, eine zeitgemäße Umsetzung der Angebote, eine adäquate Erfolgsmessung sowie eine Organisationsstruktur, die spezifische Lernanforderun-gen unterstützt. Darüber hinaus bedarf es technischer und operativer Vorausset-zungen sowie einer allgegenwärtigen Lernkultur, die Fort- und Weiterbildungen fördert und fordert (siehe Abbildung 2). 
+ABBILDUNG 2: FRAMEWORK FÜR QUALIFIZIERUNGEN 
+Quelle: Stifterverband, McKinsey (2020)  
+Unternehmen brauchen eine klare Fort- und Weiterbildungsstrategie, die sich aus den strategischen Unternehmenszielen ableitet. Jedes Unternehmen muss seine Beschäftigten im Hinblick auf zentrale Zukunftsfähigkeiten fort- und weiterbil-den. Qualifizierte Mitarbeiter sind die zentrale Voraussetzung, um für die Zu-kunft gerüstet zu sein und sich als Unternehmen in einer disruptiven Umwelt gut aufzustellen. Immerhin: 84 Prozent der befragten Unternehmen geben an, dass Fort- und Weiterbildung ein wichtiges Thema auf der Vorstandsagenda sei. 
+» 84 Prozent der Unternehmen geben an, dass Fort- und Weiterbildung ein wichti-ges Thema auf der Vorstandsagenda ist. 
+Unternehmen brauchen Transparenz hinsichtlich der in Zukunft benötigten Fähig-keiten. Durch die klare Analyse der in einem Unternehmen benötigten Fähigkei-ten können maßgeschneiderte Qualifizierungsangebote entwickelt werden. Doch bis dahin ist es oft ein weiter Weg: Laut Umfrage stimmen lediglich 40 Prozent der Unternehmen der Aussage zu, ein klares Bild der bestehenden und benötig-ten Fähigkeiten ihrer Beschäftigten zu haben. Unternehmen müssen ihre Mitar-beiter darüber informieren, welche Fähigkeiten für den beruflichen Erfolg wich-tig sind, um sie für entsprechende Fort- und Weiterbildungen zu gewinnen und für das Lernen zu begeistern. Auch nach außen muss klarer kommuniziert wer-den, welche Fähigkeiten verschiedene Branchen erwarten: Potenzielle Bewerber können so schon während des Studiums oder in der Ausbildung gezielt Schwer-punkte setzen, um die verlangten Fähigkeiten zu erwerben. 
+» Nur 40 Prozent der Unternehmen geben an, ein klares Bild der bestehenden und benötigten Fähigkeiten ihrer Mitarbeiter zu haben. 
+6 
+[Page #6]
+FUTURE SKILLS 
+DISKUSSIONSPAPIER 5 
+Fort- und Weiterbildungsstrategien benötigen eine integrale und unternehmens-weite Kultur des lebenslangen Lernens. In der Umfrage geben mehr als 90 Pro-zent der Unternehmen an, eine Kultur des kontinuierlichen Lernens zu leben. Doch die Realität sieht anders aus: 42 Prozent der Personalverantwortlichen der befragten Unternehmen klagen über die mangelnde Zeit der Mitarbeiter für Fort- und Weiterbildung, 35 Prozent mangelt es an finanziellen Ressourcen. Auch wenn Unternehmen die Bedeutung von Qualifizierung erkannt haben, ist die Umsetzung häufig unzureichend. 
+» 42 Prozent der Personalverantwortlichen der befragten Unternehmen klagen über die mangelnde Zeit der Mitarbeiter für Fort- und Weiterbildungen. 
+Didaktische Formate müssen auf benötigte Qualifikationen und vorhandene Strukturen abgestimmt sein. 51 Prozent der Unternehmen wollen nach eigenen Angaben langfristig die Hälfte ihrer Qualifizierungsmaßnahmen digital durchfüh-ren. Bereits vor der Corona-Krise hatten durchschnittlich 35 Prozent ihre Qualifi-zierungsangebote digital bereitgestellt. Während der Krise erhöhte sich dieser Anteil auf 54 Prozent. Dabei wurden insbesondere kurze Qualifizierungsformate (66 Prozent) und ganztägige Seminarformate (51 Prozent) genutzt. Allerdings gibt nur jedes dritte Unternehmen an, das Lernerlebnis didaktisch differenziert für On- und Offline-Formate aufzubereiten. In Zukunft benötigen Unternehmen des-halb didaktisch angepasste und ergänzende digitale Lernformate, die das beste-hende Portfolio an Fort- und Weiterbildungen sinnvoll erweitern.  
+Das Ökosystem für Qualifizierungsangebote kann durch verstärkte Kooperationen mit strategischen Partnern bereichert werden. Durch enge Kooperationen mit ex-ternen Partnern können Unternehmen den Zugang zu zukunftsrelevanten Qualifi-zierungsangeboten sicherstellen. 39 Prozent der befragten Unternehmen geben an, dass die Bedeutung der Hochschulen als potenzielle Partner für die Fort- und Weiterbildung seit der Corona-Krise zugenommen hat. Eine Möglichkeit zur Er-probung der engeren Zusammenarbeit von Hochschulen und Unternehmen ist die Nutzung bestehender Innovationscluster. Diese könnten in Zukunft noch stärker auf die Fort- und Weiterbildung von Arbeitnehmern ausgerichtet werden. Eine solche Zusammenarbeit würde zudem den Austausch zwischen Studierenden, Be-rufseinsteigern und Unternehmen vereinfachen. Ein Beispiel hierfür ist das Cyber Valley in Tübingen und Stuttgart, das mit Partnern aus Wissenschaft und Indust-rie im Bereich der künstlichen Intelligenz zusammenarbeitet. Das Bundesministe-rium für Arbeit und Soziales hat das Bundesprogramm zum Aufbau von Weiterbil-dungsverbünden gestartet, das verbindliche Kooperations- und Vernetzungsstruk-turen zwischen Unternehmen, Bildungs- und Beratungseinrichtungen sowie allen weiteren wichtigen Akteuren der Weiterbildungslandschaft aufbauen soll. Ziel ist die Stärkung der regionalen Wirtschafts- und Innovationsnetzwerke. 
+Der Erfolg von Fort- und Weiterbildungen braucht messbare Business Cases. Laut der Umfrage werden die internen Fort- und Weiterbildungsprozesse in vielen Un-ternehmen noch nicht ausreichend analysiert. Einerseits mangelt es an einer sys-tematischen Datenauswertung – nur 30 Prozent der befragten Unternehmen eva-luieren die Wirksamkeit ihrer Qualifizierungsmaßnahmen mithilfe von Data Analy-tics. Andererseits fehlen häufig elementare Messsysteme und Zertifizierungen von Qualifizierungsangeboten. Selbst Lerninhalte und Lernergebnisse werden oft nicht adäquat erfasst. Lediglich 36 Prozent der befragten Unternehmen messen oder überprüfen den Kompetenzzuwachs der Mitarbeiter nach der Fort- oder Weiterbildung. Feedback zu Lerninhalten und Referenten weisen nur 48 Prozent der Firmen nach. 
+» Keine systematische Datenauswertung: Lediglich 30 Prozent der Unternehmen evaluieren datenbasiert die Wirksamkeit von Qualifizierungsmaßnahmen. 
+7 
+[Page #7]
+FUTURE SKILLS 
+DISKUSSIONSPAPIER 5 
+Zur Umsetzung der Fort- und Weiterbildungsstrategie bedarf es einer adäquaten Infrastruktur. Der Trend zu Heimarbeit und Remote Learning stellt Unternehmen vor neue Herausforderungen. In der Corona-Krise behalfen sich Unternehmen oft mit Übergangslösungen: Mitarbeiter nutzten zum Beispiel auch private Endge-räte. Die Umfrage bestätigt: Lediglich 38 Prozent der Unternehmen geben an, Mitarbeiter mit der notwendigen IT-Hardware ausgestattet zu haben. 
+» Nur 38 Prozent der befragten Unterneh-men stimmen der Aussage zu, dass alle relevanten Mitarbeiter mit der benötig-ten IT-Hardware ausgestattet sind. 
+ABBILDUNG 3: ZUSAMMENFASSUNG DER HANDLUNGSEMPFEHLUNGEN FÜR DIE QUALIFIZIUNG IN UNTERNEHMEN 
+Unternehmen benötigen eine Fort- und Weiterbildungsstrategie, die sich aus der Strate-gie des Unternehmens ableitet 
+STRATEGIE 
+QUALIFIKATIONS- ANFORDERUNGEN 
+Unternehmen müssen Transparenz über zukünftige benötigte Fähigkeiten schaffen 
+Unternehmen beziehen Lerninhalte über ein Partnerökosystem (z.B. Bildungsanbieter, Education Start-ups, Hochschulen); weitere Inhalte erarbeiten sie sich selbst in agilen und fachübergreifenden Teams; die Qualifizierungsfunktion setzt auf Lernen im Netz-werk 
+QUALIFIKATIONS- INHALTE 
+QUALIFIKATIONS- DURCHFÜHRUNG 
+Unternehmen benötigen didaktisch differenzierte Online-, Offline- und hybride Qualifi-zierungsformate 
+Unternehmen müssen in Evaluationsprozesse investieren und die Wirkung von Qualifizie-rung messen („Return on Learning“) 
+ERFOLGSMESSUNG 
+Die Fort- und Weiterbildungsfunktion muss sich als Orchestrator im Netzwerk verstehen, welche die Gestaltung von Lernprozessen unterstützt 
+OPERATIONALISIERUNG 
+Lernangebote sind auf einer State-of-the-Art-Lernplattform gebündelt; Unternehmen sollen sicherstellen, dass Mitarbeiter auch zu Hause Zugang zur benötigten IT-Infra-struktur (z.B. Hardware wie Laptops) haben, um auf die Plattform zugreifen zu können 
+INFRASTRUKTUR 
+Unternehmen müssen eine Kultur des lebenslangen Lernens etablieren und Anreize zur Umsetzung schaffen; dies erfordert auch von jedem Einzelnen Verantwortung für seinen Lernpfad zu übernehmen 
+LERNKULTUR 
+Quelle: Stifterverband, McKinsey (2020) 
+8 
+[Page #8]
+FUTURE SKILLS 
+DISKUSSIONSPAPIER 5 
+STIMMEN AUS DER WIRTSCHAFT  
+Für das vorliegende Diskussionspapier wurde die durchgeführten Onlineum-frage zum Thema Qualifizierungsmaßnahmen durch systematische Interviews aus deutschen Unternehmen ergänzt. Dazu wurden Führungskräfte auf C-Le-vel strukturiert zum Thema Qualifizierung interviewt. 
+Heike Eckert, Mitglied des Vorstands, Deutsche Börse AG 
+„Um als Führungskraft – und im Team – auch über Distanz im virtuellen Raum effizient arbeiten und Ergebnisse liefern zu können, bedarf es eines stärke-ren Austauschs - etwa durch tägliche statt wöchentliche Teammeetings.“ 
+„Alte, auf Präsenz konzipierte Qualifizierungsprogramme nur anzupassen, wird nicht ausreichen – Trainings müssen neu gedacht und an die digitale Welt angepasst werden.“ 
+„Mitarbeiter sind für ihre eigene Qualifizierung mitverantwortlich – dies muss in der Unternehmenslernkultur verankert sein.“ 
+Peter Fieser, Senior Vice President Head of Human Resources, Hensoldt AG  
+„Aufgrund der weiter steigenden individuellen Digitalisierung hatten wir be-reits letztes Jahr in unserer Betriebsvereinbarung festgelegt, dass  40 Prozent der Arbeit im Homeoffice stattfinden kann. Dieser Schritt hat uns in der Corona-Zeit sehr geholfen.“  
+„Gute Qualifizierung gibt es nur, wenn der Mitarbeiter dahintersteht. Selbst-motivation und freiwillige Weiterbildung müssen deshalb in den Fokus rü-cken.“  
+„Qualifizierung braucht einen klaren Business Case über drei bis fünf Jahre. Erst auf diese Weise wird ihr Wert sichtbar. Es wird sich zeigen, dass viele Schulungen überflüssig sind.“ 
+„Wir prüfen aktuell, mit welchen Organisationen wir Qualifizierungs-Partner-schaften eingehen können. Beim Thema Ausbildung haben wir bereits Part-nerschaften mit anderen Unternehmen aufgebaut und uns eng vernetzt. Das war ein großer Erfolg. 
+Claudia Klug, Mitglied der Geschäftsführung und Arbeitsdirektorin, Schwä-bisch Hall Kreditservice GmbH  
+„In der Corona-Krise haben wir fast alle Angebote auf digitale Formate um-gestellt. Beschäftigte haben die Notwendigkeit zur Qualifizierung erkannt und unsere Lernangebote 50 Prozent häufiger genutzt.“  
+„Eine überraschende Erkenntnis bei der Umstellung auf digitale Qualifizie-rung war, dass auch im virtuellen Raum Intimität geschaffen werden kann, mit der sich Beschäftigte wohl fühlen.“ 
+9 
+[Page #9]
+FUTURE SKILLS 
+DISKUSSIONSPAPIER 5 
+„Wir haben uns bereits vor Corona zu einem Zielbild der Arbeitswelt der Zu-kunft verpflichtet, das Fähigkeiten der Zukunft, Arbeitsorte, Arbeitszeiten, Arbeitsweisen und Arbeitskultur neu denkt.“ 
+Frauke von Polier, SVP, COO People, SAP SE 
+„Im digitalen Zeitalter ist es vor allem wichtig, vom Kunden aus zu denken und sie ins Zentrum der Lösung zu stellen.“ 
+„Wir müssen beim Thema Qualifizierung zwischen Online-Interaktionen und digitalen Fähigkeiten unterscheiden. Eine Online-Interaktion wie Zoom ge-hört zu den Basics und bringt Unternehmen keinen entscheidenden Wettbe-werbsvorteil. Digitale, kunden-zentrierte Fähigkeiten, wie Data Analytics  oder Programmieren, sind viel entscheidender.“ 
+„Die Zukunft des Lernens muss vollkommen neu gedacht werden: Mitarbei-ter, Kunden und Partner werden als Teil eines Ökosystems auf einer gemein-samen Plattform lernen.“ 
+„Zielgerichtete Qualifizierung geht weit über den Aufbau einer reinen ‚Fähigkeitendatenbank‘ hinaus. Datenbasierte Ansätze liefern hier ein aussa-gefähiges Gesamtbild als Grundlage für Qualifizierung.“ 
+4. WIE UND WO POLITK, VERBÄNDE UND SOZIALPARTNER JETZT UNTER-STÜTZUNG LEISTEN KÖNNEN 
+Die Befragung der Unternehmen zeigt eine Reihe von Herausforderungen bei Fort- und Weiterbildungen. In Kapitel 3 wurde deutlich, dass Unternehmen beim Thema Qualifizierung vor einem großen Transformationsprozess stehen. Unter-nehmen müssen diese Herausforderungen nun angehen und ihre Qualifizierungen effektiv aufstellen. Die Politik kann diesen Prozess mit einer Reihe von Maßnah-men unterstützen. 
+Impulse für die Entwicklung von branchenspezifischen Future-Skills-Anforderun-gen: Angesichts der Tatsache, dass nur 40 Prozent der Unternehmen ein klares Bild über benötigte Mitarbeiterfähigkeiten haben, könnten Verbände, Industrie-vertreter und Sozialpartner einen Impuls für konkrete branchenspezifische Zu-kunftsfähigkeiten formulieren. Insbesondere für KMUs stellt es eine enorme Her-ausforderung dar, diese zu benennen. So wäre zum Beispiel denkbar, für die Au-tomobilindustrie 50 bis 70 Zukunftsfähigkeiten zu definieren, die im Ökosystem von OEMs (Original Equipment Manufacturer) und Zulieferern benötigt werden. Entsprechende Weiterbildungsangebote könnten im nächsten Schritt auf einer gemeinsamen Plattform zur Verfügung gestellt werden. Eine solche Initiative könnte als branchenspezifische Requalifizierungsallianz den Fähigkeitswandel un-terstützen. Auch Bildungsträger könnten auf diese Weise verstärkt die curriculare 
+10 
+[Page #10]
+FUTURE SKILLS 
+DISKUSSIONSPAPIER 5 
+Vermittlung von Zukunftsfähigkeiten adressieren, um bedarfsgerechte und at-traktive Angebote zu schaffen.  
+Überprüfung der Förderungen für Remote Learning: Da nur 38 Prozent der Un-ternehmen ihre Mitarbeiter mit Hardware für Remote Work und Learning ausstat-ten, ist es denkbar, auch die steuerliche Begünstigung der Anschaffung von priva-ten Endgeräten für die Arbeit im Homeoffice zu prüfen. Hierbei sollten insbeson-dere Möglichkeiten zur steuerlichen Geltendmachung von privaten Endgeräten zur Teilnahme an Fort- und Weiterbildungen eruiert werden. Durch neue Arbeits-modelle zeichnet sich ab, dass Beschäftigte zukünftig verstärkt von Zuhause ar-beiten und dabei auch privaten Wohnraum für Arbeit und Weiterbildung nutzen. Um Homeoffice steuerlich absetzen zu können, müssen derzeit zahlreiche Vo-raussetzungen erfüllt werden: So muss es sich unter anderem um einen abge-schlossenen Raum handeln, der Arbeitgeber darf keinen individuellen Arbeits-platz zur Verfügung stellen oder der häusliche Arbeitsplatz muss Mittelpunkt der beruflichen/betrieblichen Tätigkeit sein. Es ist fraglich, ob diese Regelung ange-sichts von Corona und neuen Arbeitsmodellen noch zeitgemäß ist.   
+Stärkere Verknüpfung von Qualifizierung und Kurzarbeit: Die Bundesregierung hat durch die Erstattung von Sozialversicherungsbeiträgen, die nur im Fall der Qualifizierung während des Bezugs von Kurzarbeitergeld erfolgt, einen Anreiz ge-schaffen, Zeiten der Kurzarbeit stärker zur Qualifizierung der Beschäftigten zu nutzen. Die Nutzung von Kurzarbeit ist auch eine Antwort auf die 40 Prozent der Unternehmen, die fehlende Zeit auf Seiten der Mitarbeiter als Begründung für den Qualifizierungsmangel nennen. Die Förderprozesse sollten noch weiter ver-einfacht werden, zum Beispiel durch eine schnellere Prüfung von Qualifizierungs-maßnahmen, Ausweitung der Weiterbildungsträger oder die noch engere Ver-knüpfung von Qualifizierung und Kurzarbeit.    
+Zugang zu Mitteln aus dem Qualifizierungschancengesetz erleichtern: Schon heute fördert der Staat auf vielfältige Weise Fort- und Weiterbildungen. Die För-dermittel werden derzeit jedoch noch nicht in vollem Umfang abgerufen. Einer-seits geben lediglich 30 Prozent der befragten Unternehmen an, öffentliche För-dermittel in Anspruch genommen zu haben – obwohl die aktuelle Krisensituation eine Gelegenheit bietet, Mitarbeiter in wichtigen Schlüsselfähigkeiten fort- und weiterzubilden. Andererseits klagen 35 Prozent der Unternehmen über fehlende Ressourcen für eine erfolgreiche Umsetzung der Qualifizierungen. Um öffentliche Mittel zu erhalten, müssen Unternehmen zahlreiche Voraussetzungen erfüllen: So muss etwa der Umfang der Weiterbildungsmaßnahme mindestens 120 Stunden betragen und die Durchführung durch einen zur Weiterbildungsförderung zugelas-senen Träger erfolgen. Fraglich ist hierbei, inwieweit die Voraussetzungen für öf-fentliche Förderungen den akuten Anforderungsbedarf an Qualifizierung wider-spiegeln. 
+Die Corona-Pandemie hat fehlende Mitarbeiterfähigkeiten, aber auch Mängel in den Fort- und Weiterbildungsprozessen von Unternehmen offenbart. Nachdem Unternehmen in den vergangenen Monaten gut reagiert haben, müssen nun die Grundsteine für die gezielte Entwicklung einer Fort- und Weiterbildungsstrategie für die nächste Dekade unseres digitalen Jahrhunderts gelegt werden. Nur durch die gemeinsame Kraftanstrengung von Unternehmen, Beschäftigten und Politik kann die Wettbewerbsfähigkeit der deutschen Wirtschaft langfristig gesichert werden, deren leistungsfähige Arbeitskräfte die wichtigste Ressource darstellt.
+11 
+[Page #11]
+FUTURE SKILLS 
+DISKUSSIONSPAPIER 5 
+Anhang 
+DAS FUTURE-SKILLS-FRAMEWORK: 18 SKILLS IN DREI KATEGORIEN 
+KATEGORIE 
+FÄHIGKEIT 
+BESCHREIBUNG 
+Technologische     Fähigkeiten 
+Komplexe Datenanalyse 
+Große Datenmengen effizient mit analytischen Methoden untersuchen, um Informationen zu gewinnen; dies umfasst auch das Entwickeln von Künstlicher Intelligenz (KI) 
+Smart Hardware-/Robotik-Entwicklung 
+Physische Komponenten für „intelligente“ Hardware-Soft-ware-Systeme („Internet of Things“), z.B. Roboter, entwi-ckeln 
+Web-Entwicklung 
+Programmiersprachen zur Back- und Frontend-Entwicklung für Web-Applikationen (insbesondere mobil) beherrschen 
+Nutzerzentriertes Designen (UX) 
+Produkte so entwerfen, dass sie auf eine optimierte Funkti-onalität bei intuitiver Anwendbarkeit und somit attraktive Nutzererfahrung abzielen 
+Konzeption und Administra-tion vernetzter IT-Systeme 
+Komplexe IT-Infrastruktur, auch in der Cloud, mit Schnitt-stellen zu weiteren IT-Systemen aufsetzen sowie kontinu-ierlich verwalten und weiterentwickeln 
+Blockchain-Technologie- Entwicklung 
+Dezentrale Datenbanken („Distributed Ledgers“) mit Hilfe der Blockchain-Technologie aufbauen 
+Tech-Translation 
+Zwischen Technologie-Experten und involvierten Nicht-Fachleuten moderieren 
+Digital Literacy 
+Grundlegende digitale Skills beherrschen, z.B. sorgsamer Umgang mit digitalen persönlichen Daten, Nutzen gängiger Software, Interagieren mit KI 
+Digitale           Grundfähigkeiten 
+Digitale Interaktion 
+Bei Interaktion über Online-Kanäle andere verstehen und sich ihnen gegenüber angemessen verhalten („Digitaler Knigge“) 
+Kollaboration 
+Unabhängig von räumlicher Nähe und über verschiedene Disziplinen und Kulturen hinweg effektiv und effizient in Projekten zusammenarbeiten, um als Team bessere Resul-tate als Einzelpersonen zu erzielen 
+Agiles Arbeiten 
+In einem für ein Endprodukt verantwortlichen Team itera-tiv („Rapid Prototyping“) genau das erarbeiten, was dem Kunden Mehrwert stiftet 
+Digital Learning 
+Aus einer Vielzahl digitaler Informationen valides Wissen zu ausgewählten Themengebieten aufbauen 
+Digital Ethics 
+Digitale Informationen sowie Auswirkungen des eigenen di-gitalen Handelns kritisch hinterfragen und entsprechende ethische Entscheidungen treffen 
+12 
+[Page #12]
+FUTURE SKILLS 
+DISKUSSIONSPAPIER 5 
+Problemlösungsfähigkeit 
+Konkrete Aufgabenstellungen, für die es keinen vorgefer-tigten Lösungsansatz gibt, durch einen strukturierten An-satz und Urteilskraft lösen 
+Klassische            Fähigkeiten 
+Kreativität 
+Originelle Verbesserungsideen (z.B. für bestehende Ge-schäftsprozesse) oder Ideen für Innovationen (z.B. für neue Produkte) entwickeln 
+Unternehmerisches Handeln & Eigeninitiative 
+Eigenständig und aus eigenem Antrieb im Sinne eines Pro-jekts oder einer Organisation arbeiten 
+Adaptionsfähigkeit 
+Sich auf neue (technologische) Entwicklungen einlassen, sie vorteilhaft nutzen und auf verschiedene Situationen trans-ferieren können 
+Durchhaltevermögen 
+Übernommene Aufgaben, z.B. herausfordernde Projekte, fokussiert, verantwortlich und auch gegen Widerstände zu Ende führen 
+IMPRESSUM 
+Herausgeber Stifterverband für die Deutsche Wissenschaft e.V. Barkhovenallee 1  .  45239 Essen T 0201 8401-0   mail@stifterverband.de www.stifterverband.org 
+Inhaltliche Leitung und Ansprechpartner  Mathias Winde, Stifterverband Julia Klier, McKinsey & Company 
+Projektteam Stifterverband Volker Meyer-Guckel  .  Anna Held  .  Eike Schröder  . Alexander Tiefenbacher  .  Said D. Werner  .  Mathias Winde    
+Projektteam McKinsey & Company Barbara Gumbmann  .  Solveigh Hieronimus  . Julia Klier  .   Julian Kirchherr  .  Mathias Keller    
+Redaktion Kirsten Best-Werbunat  .  Peggy Groß 
+Bilder: iStock/damircudic (Titel), Heike Eckert: Deutsche Börse AG (S.9), Peter Fieser: HENSOLDT (S. 9), Claudia Klug: Jürgen Weller Foto-grafie, 17.01.2020 (S. 9), Frauke von Polier: SVP, COO People SAP SE (S. 10) 
+13 

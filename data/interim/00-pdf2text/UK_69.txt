@@ -1,0 +1,5616 @@
+[Page #0]
+Employer Skills Survey 2019: Apprenticeships and Traineeships Research report  
+November 2020 
+Authors: IFF Research 
+[Page #1]
+Contents 
+List of figures 
+4 
+List of tables 
+6 
+Executive Summary 
+7 
+Introduction 
+7 
+Engagement with apprenticeships 
+7 
+Routes into apprenticeships 
+9 
+Traineeships 
+9 
+Awareness and impacts of apprenticeship policy reforms 
+10 
+Future engagement in apprenticeships 
+11 
+1. 
+Introduction and Background 
+12 
+Background to the Employer Skills Survey 
+12 
+Policy background 
+13 
+Methodological overview 
+16 
+Sampling 
+16 
+Questionnaire 
+17 
+Fieldwork 
+17 
+Weighting 
+18 
+Report coverage 
+18 
+Reporting conventions 
+18 
+2.  Engagement with apprenticeships 
+20 
+Chapter summary 
+20 
+Introduction 
+21 
+Engagement with apprenticeships 
+21 
+Reasons for offering apprenticeships 
+28 
+Reasons for not offering apprenticeships 
+32 
+Number of apprentices 
+34 
+Apprentices as a proportion of employees 
+35 
+Apprenticeship retention 
+39 
+3.  Routes into apprenticeships 
+42 
+2 
+[Page #2]
+Chapter summary 
+42 
+Introduction 
+43 
+Age groups to which offer apprenticeships 
+43 
+Apprenticeships for new recruits and/or existing employees 
+43 
+Use of work placements to check suitability of prospective apprentices 
+45 
+4.  Awareness and provision of traineeships in England and Wales 
+47 
+England 
+47 
+Wales 
+48 
+5.  Awareness and impacts of the apprenticeship policy reforms 
+50 
+Chapter summary 
+50 
+Introduction 
+51 
+Awareness of recent policy changes 
+51 
+Impact of the apprenticeship reforms to date 
+55 
+6.  Future engagement in apprenticeships 
+57 
+Chapter summary 
+57 
+Introduction 
+58 
+Future demand for Apprenticeships 
+58 
+Reasons for planning to enter or exit the apprenticeships market 
+60 
+Expected change in apprentice numbers 
+63 
+Reasons for expected change in apprentice numbers 
+64 
+Conclusions 
+66 
+Appendix A: Supplementary tables 
+68 
+Appendix B: Definitions for reasons groupings 
+92 
+Appendix C: Industry coding 
+97 
+Appendix D: Sampling Error and Statistical Confidence (summary) 
+100 
+Appendix E: Survey population estimates (weighted) 
+101 
+3 
+[Page #3]
+List of figures 
+Figure 2-1 Changes over time in the proportion of employers offering apprenticeships, by country ............................................................................................................................. 22 
+Figure 2-2 Proportion of establishments offering apprenticeships (by country, size and sector) .............................................................................................................................. 23 
+Figure 2-3 Changes over time in the proportion offering apprenticeships, by size of establishment ................................................................................................................... 24 
+Figure 2-4 Changes over time in the proportion offering apprenticeships, by sector in each country .................................................................................................................... 26 
+Figure 2-5 Proportion offering apprenticeships: comparison between those who have and do not have skill-shortage vacancies and skills gaps ....................................................... 27 
+Figure 2-6 Reasons for starting to offer apprenticeships in the last three years (unprompted) ................................................................................................................... 29 
+Figure 2-7 Proportion of establishments that were approached by external organisations or individuals when deciding to offer apprenticeships, and the types of organisations or individuals that made the approach ................................................................................. 31 
+Figure 2-8 Reasons for not offering apprenticeships (unprompted) ................................. 32 
+Figure 2-9 Number of apprentices at each site that has current apprentices (banded), by size of establishment ....................................................................................................... 34 
+Figure 2-10 Number of current apprentices per 1,000 employees, by size of establishment ................................................................................................................... 36 
+Figure 2-11 Change in apprenticeship numbers since first started offering apprenticeships (by country, size and sector) .................................................................. 39 
+Figure 2-12 Reasons for not retaining apprentices in a permanent role (unprompted) .... 41 
+Figure 3-1 Whether employers offer apprenticeships to new recruits, existing employees or both over time, and by size in 2019 ............................................................................. 44 
+Figure 4-1 Awareness of traineeships in England ............................................................ 48 
+Figure 5-1 Awareness of the apprenticeship levy, by size of establishment .................... 52 
+Figure 5-2 Awareness of the details of the apprenticeship levy among employers aware of the levy ........................................................................................................................ 53 
+4 
+[Page #4]
+Figure 5-3 Awareness of other reforms affecting England only among employers aware of apprenticeships, by establishment size ........................................................................ 54 
+Figure 5-4 Changes in numbers of apprentices in different categories as result of reforms ......................................................................................................................................... 56 
+Figure 6-1 Future plans for apprenticeship offerings ....................................................... 58 
+Figure 6-2 Reasons for planning to start offering apprenticeships in future (unprompted) ......................................................................................................................................... 61 
+Figure 6-3 Reasons for planning to stop offering apprenticeships (unprompted) ............. 62 
+Figure 6-4 Reasons for expected increase, decrease or no change in apprenticeship numbers (unprompted) .................................................................................................... 65 
+5 
+[Page #5]
+List of tables 
+Table 2-1 Changes in broad motivations for offering apprenticeships over time .............. 30 
+Table 2-2 Number of current apprentices per 1,000 employees, by size of establishment in 2016 and 2019 ............................................................................................................. 37 
+Table 2-3 Number of current apprentices per 1,000 employees, by sector of establishment in 2016 and 2019 ...................................................................................... 38 
+Table 3-1 Whether employers offer apprenticeships to existing employers at all, by size of establishment over time ............................................................................................... 45 
+Table 6-1 Expectations that the number of apprentices at the site will increase, by size of establishment, comparing 2016 and 2019 ....................................................................... 64 
+6 
+[Page #6]
+Executive Summary 
+Introduction 
+The Employer Skills Survey (ESS) has run biennially since 2011, providing a vital source of intelligence on the skills issues employers face. ESS traditionally has an inward-looking focus assessing the current skills position and skills needs of employers. It has sat alongside the Employer Perspectives Survey, which is primarily outward-looking, covering provision of and engagement with the wider skills system. In ESS 2019, the two surveys were, in effect, merged, by incorporating EPS questions as modules.1 In total, 16,070 respondents across England, Northern Ireland and Wales answered questions from the apprenticeships and traineeships module. 
+This report focuses on findings relating to apprenticeships and traineeships, making up one of four thematic reports to supplement the core ESS findings on skill-shortage vacancies, skills gaps and key training measures.  
+Engagement with apprenticeships 
+Overall nearly one in five establishments reported that they either currently have apprentices at their site (10%), or that they offer apprenticeships but do not have anyone undertaking one currently (8%). This is consistent with the figure seen in 2016. However, the profile of employers offering apprenticeships has seen considerable change, in particular in relation to the size of establishment. Medium and large establishments (25 or more staff) were much more likely to report that they currently offer apprenticeships in 2019 than they were in 2016 or 2014. Over the same period the proportion of smaller establishments (fewer than 25 staff) doing so was much reduced2. 
+The most common reasons for offering apprenticeships were to do with acquiring talent, both for the establishment and for the industry. Overall half (50%) of establishments that had recently started offering apprenticeships gave this as a reason. Approaching a quarter (23%) gave altruistic reasons for offering apprenticeships and a fifth (21%) saw apprenticeships as a good way of nurturing talent.  
+1 From 2010 to 2017 , the ESS survey and the EPS were conducted in alternate years (UK EPS was not undertaken in 2018). This means that comparisons over time refer to different survey years depending on whether the measure being referred to originated from the ESS or EPS survey prior to 2019. The report commonly refers to the last two waves of these surveys (i.e. ESS 2015 and 2017 and EPS 2014 and 2016). 2 This mirrors changes in apprenticeship starts in England (Apprenticeships in England by Industry Characteristics 2018/19 Academic Year).  
+7 
+[Page #7]
+Financial reasons were mentioned by 9% of employers that offered apprenticeships, however this rose to 36% among those with 100 or more staff. This was specifically with regards to the introduction of the levy, suggesting that among this group one of the impacts of the apprenticeship funding reforms is that the financial motivators for offering apprenticeships now take precedence over the need to acquire talented people and over the desire to do “a good thing” for the young people involved. 
+Employers that did not use apprenticeships most commonly believed they were not suitable for their size of establishment (20%) or that they were not planning to take on new staff (18%). Smaller establishments with 2 to 4 staff were more likely to mention various barriers including apprenticeships not being suitable due to their size (25%), their not looking to recruit any staff (22%) and apprentices not being needed because their staff were fully skilled (15% vs. 13%). 
+Among those who had apprentices the majority (60%) had just one, but 3% reported having 10 or more. Looking at apprentices as a proportion of employees shows there were 47 apprentices for every 1,000 employees in establishments with apprentices, and 18 apprentices per 1,000 employees across the economy as a whole.3 In large employers the number of apprentices per 1,000 employees had almost doubled since 2016, showing that not only are more engaging with apprenticeships but also offering them to more people than previously. Administrative data corroborates these findings, showing that apprenticeship starts have become more concentrated among larger employers since the introduction of the levy and other reforms to the apprenticeship system in England.  
+In terms of using apprenticeships as a means to recruit staff, overall 62% of employers that had recruited people specifically as apprentices in the last three years had retained at least one of their apprentices onto a permanent contract once their apprentices finished. Of the 25% who had not taken on any, it was most commonly the apprentice’s decision not to stay, although some also said it was because the apprentice was not capable enough in their role. 
+3 Note that all volumetric data covered in this report reflect the number of current apprentices reported at the time of interview based on survey data, collected at establishment level across England, Wales and Northern Ireland. Administrative data on apprenticeship starts at enterprise level by academic year in England can be found here: DfE: Apprenticeships in England by industry characteristics 2018 to 2019. 
+8 
+[Page #8]
+Routes into apprenticeships 
+Most establishments offering apprenticeships (88%) offered them to young people (for the purposes of this section “young people” is taken to mean anyone under the age of 25). This was lower than seen in 2016 (93%). Apprenticeships are also available for those aged 25 or over, and 57% of establishment offering apprenticeships had at least one apprentice in this age group; this was higher than in 2016 (48%). 
+The majority of employers that offered apprenticeships (87%) offered them to new employees who they recruited specifically as apprentices. Nearly half (46%) offered apprenticeships only to this group (i.e. they did not also offer them to existing staff). Around half of employers offering apprenticeships (52%) did so to existing employees, and one-in-ten (10%) offered apprenticeships only to this group. This was most common among large establishments, with 100 or more staff, with the proportion of establishments offering apprenticeships to existing staff increasing almost 1.5 times, from around a half to around three-quarters in establishments in this size band. This suggests that in order to utilise their levy payments to their own benefit, they are increasing the number of existing employees they offer apprenticeships to. 
+Among employers that currently offer apprenticeships to new recruits, almost two-fifths (37%, equivalent to around a third (32%) of all employers offering apprenticeships) had used work experience placements to determine whether an individual would be suitable for an apprenticeship prior to recruiting them as an apprentice 
+Traineeships  
+In England, approaching half (45%) of employers reported that they were aware of Traineeships, although around two-fifths (43%) of those aware (equivalent to 20% of all employers) did not know anything more than the name. The proportion that had had someone undertake a Traineeship in the previous 12 months was 3%, up from 1% in 2016. 
+In Wales, just over a quarter (28%) said they had heard of the Traineeship programme in Wales, and 2% had taken someone on as part of the Traineeship programme in Wales. 
+9 
+[Page #9]
+Awareness and impacts of apprenticeship policy reforms 
+Approaching two-fifths (37%) of all employers were aware of the introduction of the levy payment. Awareness of the finer details of the levy payment among those who had heard of it were mixed, however. Around six-in-ten (58%) were aware that it applies to employers with a wage bill of £3m or higher and 52% were aware the amount levied was 0.5% of the wage bill. Two-thirds (68%) of employers that had heard of the levy in England (the only country this element of the reforms affects) were aware the levy money can be used to offset an employer’s own apprenticeship costs.  
+In England, the proportion aware of the requirement to contribute 5% towards the cost of an apprenticeship was lower than awareness of the levy, with just over a quarter (27%) of those aware of apprenticeships were aware that this was the case. Fewer than a quarter (22%) were aware that training providers receive a premium for recruiting apprentices from deprived areas; and 35% knew that a minimum of 20% of the apprentices’ paid hours needed to be allocated to off-the-job training.  
+Awareness of the levy reforms was higher among the larger establishments across the board, particularly with regards to the levy payment. 
+Just under a quarter (23%) of employers that were aware of any of the recent reforms and also currently offered apprenticeships said there had been changes in the apprenticeship offering at the site. This was most commonly changes to the proportion of apprenticeship starts at the site that were undertaken by existing employees (14%), and the overall number of apprentices at the site (12%). In the majority of cases this change had been an increase, although a few had stopped offering or decreased their apprenticeship numbers. 
+10 
+[Page #10]
+Future engagement in apprenticeships 
+Of those that had any apprentices or offered apprenticeships at the time of interview, the majority (87%) said they planned to continue offering apprenticeships, and approaching a fifth (18%) of establishments that did not offer them planned to do so in the future. This equates to 30% of all employers having planned to offer apprenticeships in the future. It is known from previous editions of the Employer Perspectives Survey series that employers’ stated intentions for offering apprenticeships in the future do not necessarily materialise, at least not to their fullest extent; furthermore, employer intentions will often have been affected by the Covid-19 pandemic.4 Nevertheless it is useful to be able to identify the potential number of employers interested in offering apprenticeships and to identify the characteristics of these employers. 
+Three-in-ten (30%) employers that offered apprenticeships and planned to continue doing so had expected the number of apprentices at their site to increase in the next two years, most commonly due to business growth. This compares with just 4% who expect the number to decrease; the main reason given by these employers was that they were not looking to take on any new staff.  
+Hotels and Restaurants (50%) and Public Administration (46%) establishments were more likely to have expected an increase, matching patterns reported in 2016. By size, smaller employers with 2 to 4 staff were less likely to expect an increase in apprentice numbers compared with 2016. 
+4 Given that survey fieldwork took place some months prior to the Covid-19 pandemic, results that present a picture of employers’ future intentions in relation to apprenticeships are likely to have changed radically. Caution should therefore be taken in interpreting these findings, particularly in terms of the scale of employers’ intentions. However, the results provide a useful picture of how future intentions at the time had changed compared with 2016 and provide a pre-Covid-19 baseline on which to compare future survey findings.  
+11 
+[Page #11]
+1.  Introduction and Background 
+Background to the Employer Skills Survey 
+Since 2011, the Employer Skills Survey (ESS) has been conducted biennially, providing a vital source of intelligence on skills challenges faced by employers, both in terms of those faced when recruiting and those relating to employees in their current workforce. The survey also explores the relationship between skills issues and training activity. The 2019 survey marks a change from previous waves of ESS, by, in effect, merging the content of ESS with that of the Employer Perspectives Survey (EPS), which traditionally has had a more outward-looking focus, covering employer engagement with the wider skills system5. 
+To integrate the two surveys, EPS questions were run as separate modules within the survey, with each module answered by a random subgroup of respondents. This approach meant that EPS measures were covered without adding considerable length to the survey, and at the same time enabled sufficient sample sizes to be achieved for detailed analysis of these measures. The Apprenticeships and Traineeships module was asked of 16,070 respondents across England, Northern Ireland and Wales (a full breakdown is provided in Table A.2.1 in Appendix A. 
+A separate ‘core’ report covers the key inward-looking ESS measures including recruitment and skill-shortage vacancies; their internal skills challenges; and the key aspects of training and workforce development. We report modular measures in separate thematic reports. This report specifically explores employer engagement with, and attitudes towards, apprenticeships, as well as potential future engagement in apprenticeships, with a view to exploring where and how engagement with apprenticeships can be increased. The other thematic reports explore training and workforce development; current and future skills needs of employers; and the skills pipeline. 
+5 The EPS survey was last run as a standalone survey in 2016, and covered the whole UK (see: https://www.gov.uk/government/publications/employer-perspectives-survey-2016). It was also run separately in Scotland in 2019:  
+12 
+[Page #12]
+Policy background 
+Apprenticeships are paid jobs which incorporate on- and off-the-job training, and hence combine practical training in a job with study. Apprentices work alongside experienced staff, gain job-specific skills, earn a wage and get holiday paid, and are given time for study related to their role. Apprenticeships are available at a number of levels, from Level 2 (called Intermediate apprenticeships in England and Foundation apprenticeships in Wales) through to those at Level 6 and 7 (Degree apprenticeships). 
+Skills and training (and hence apprenticeships) are devolved policy areas.  
+In England, the Government’s Productivity Plan and ‘English Apprenticeships: Our 2020 Vision’ both made the case for apprenticeships improving productivity and helping economic prosperity, confirmed the target of 3 million apprentice starts by 2020, and continued the drive to deliver high quality apprenticeships. More generally, apprenticeships are central to the Government’s vision to improve skills, build sustainable growth and to enable individuals to succeed and progress in their careers. Recent policy developments have been oriented toward driving up quality while at the same time delivering increased apprenticeship starts, and with a focus on the central role of employers in the design of suitable apprenticeships. These policy developments have included: 
+•  The move from frameworks to standards, with frameworks being gradually phased 
+out; 
+•  New requirements for minimum levels of off-the-job training; 
+•  Changes to the approach to apprenticeship assessment (standards require end 
+point assessment); 
+•  The establishment of the Institute for Apprenticeships and Technical Education to oversee quality and to approve apprenticeship standards and assessment plans; and 
+• 
+Increased emphasis on Maths and English. 
+13 
+[Page #13]
+This has been accompanied by changes to the funding of apprenticeships, seeking to address perceived employer under-investment in training coupled with the need to fund the desired increase in apprenticeship volumes. The apprenticeship levy was introduced from May 2017, payable at 0.5% of the pay bill of employers in the UK whose annual pay bill exceeds £3m (estimated to be some 2% of all employers). Employers in England can access their levy funds through digital service account to pay for approved apprenticeship training. Non-levy payers need to make a 5% contribution toward the cost of apprenticeship off-the-job training, with the Government covering the remainder. Funding bands have been put in place to determine the maximum amount the Government is prepared to contribute towards off-the-job training and assessment for an apprenticeship: there are now 30 of these funding bands for different apprenticeship standards and frameworks, ranging from £1,500 to £27,000. 
+In Wales, the Welsh Government’s latest apprenticeship policy was published in February 2017.6 This expressed the aim to deliver a minimum of 100,000 apprenticeship places up to 2022 to meet and support the process of aligning the skills people gain and the skills the economy needs. The Welsh Government pays for the training element whilst the employer pays for the employment costs, such as salary. The funding supports both new entrants as well as those that are already in employment wishing to up-skill. 
+The Welsh Government’s Apprenticeships skills policy plan outlined several key delivery priorities relating to Apprenticeships for the 2016-2022 period, including: 
+•  Using apprenticeships to address acute skills shortages by developing apprenticeships in key growth sectors and emerging job categories; 
+• 
+Introducing an all-age approach for apprenticeships; 
+•  Contributing to growth by focusing on apprenticeships at higher skill levels; 
+• 
+Improving performance measures via a greater focus on the achievement of meaningful and sustainable employment; 
+• 
+Improving access, equality and equity of opportunity; 
+•  Delivering opportunities to undertake apprenticeships in Welsh; 
+•  Developing skills pathways via stronger cooperation between academic and 
+vocational education; and  
+•  Establishing a new system for framework review and development to ensure 
+apprenticeships are designed to meet employer needs.7 
+6 Welsh Government, Aligning the Apprenticeship model to the needs of the Welsh economy (2017) 7 Ibid. 
+14 
+[Page #14]
+Northern Ireland’s strategy on apprenticeships was published in 2014, outlining 20 policy commitments. These focused on establishing the components of an apprenticeships; increasing participation by diversifying the apprenticeship offer and providing financial support; facilitating partnerships with key stakeholders in the apprenticeship system; and introducing measures to improve apprenticeship quality.8 
+Key aspects of the strategy that have been implemented include: 
+•  The establishment of a Strategic Advisory Forum to guide strategy 
+implementation; 
+•  The establishment of Sectoral Partnerships to give employers a say in 
+apprenticeship training curriculum; 
+•  Sector Partnership review of over 50 apprenticeship frameworks or framework 
+pathways; and 
+•  Responding to increasing employer demand for Higher Level Apprenticeships by working with local further education colleges and universities to fund programme development and delivery. 
+In Northern Ireland, funding for the off-the-job training element of Level 2, Level 3 and Higher-Level apprenticeships at Level 4 and Level 5 is funded, provided through the Northern Ireland European Social Fund (ESF) Programme 2014-2020 and the Department for the Economy (DfE).9 
+Working alongside apprenticeship provision, traineeships were first introduced in England in 2013,10 with the objective of equipping young people with the skills and experience needed to secure an apprenticeship or other job, therefore supporting young people’s progression into employment, and reducing the proportion of young people who are not in education, employment or training (NEET). Traineeships are funded by the Education and Skills Funding Agency (ESFA),11 and combine work preparation training with a training provider, alongside support in maths and English where required, and an unpaid work placement with an employer. Traineeships are open to 16 to 24-year olds, or 25-year olds with an education, health and care (EHC) place, and last for between 6 weeks and 6 months. 
+8 Department for the Economy (NI), Securing our Success – the Northern Ireland strategy on apprenticeships (2014) 9 Nibusinessinfo.co.uk, Finances and funding for Apprenticeships [accessed April 2020] 10 Department for Education (DfE) and the Department for Business, Innovation and Skills, Traineeships: Supporting young people to develop the skills for apprenticeships and sustainable employment: Framework for Delivery” (2013) 11 Education and Skills Funding Agency, ESFA funding for traineeships (2019) 
+15 
+[Page #15]
+While similar to apprenticeships in terms of the combination of training and work experience, traineeships differ in that they are not jobs, and are only open to young people; they are therefore regarded as an important stepping stone into apprenticeships for young people who would otherwise lack the entry requirements.  
+The Traineeship scheme in Wales, which is separate to the English scheme, is funded by the European Social Fund (ESF) and aimed at young people aged 16 to 18 in Wales. Traineeships are available at three levels (Engagement, Level 1 and Level 2) and involve training at a training provider alongside work placements, with the aim of preparing the learner to move into paid work, an apprenticeship or further education.12 
+In Northern Ireland, the Training for Success programme currently delivers vocational training to young people at Entry Level to Level 3. From September 2021, this will be replaced by the NI Traineeship (primarily for Level 2) and Skills for Life and Work (an interim programme primarily for Entry Level and Level 1). These programmes involve training, achievement of qualifications, and work placements.  
+Methodological overview 
+This section briefly summarises the key features of the methodology for ESS 2019, further detail of which can be found in the published technical report on the gov.uk website. As in previous iterations of ESS, the survey was carried out in two parts, both of which were conducted by telephone: a core survey of establishments and a follow-up survey looking at the investment employers had made in providing training to employees in the previous 12 months (the “Investment in Training Survey”).13  
+Sampling 
+The population covered by the survey comprised employers in England, Northern Ireland and Wales at the establishment level (rather than at an organisational level)14 with at least two staff on the payroll. Sole traders with a single person on the payroll were excluded.  
+12 Careers Wales, Traineeships [Accessed April 2020] 13 More information about the methodology for the Investment in Training Survey can be found in the ‘Training and Workforce Development’ thematic report 14 i.e. multiple sites (or premises) of a larger organisation were in scope for the research and were thus counted separately for sampling purposes. This was in recognition of the influence that local labour markets have on skill issues and the fact that skills issues are felt most acutely at the site level. 
+16 
+[Page #16]
+The survey covered all sectors of the economy (the commercial, public and charitable spheres). The profile of this population was established through Office for National Statistics (ONS) data from the March 2018 Inter-Departmental Business Register (IDBR), the most up to date business population figures available at the time of the survey. 
+The sample of establishments was primarily sourced from the commercial data supplier Market Location. This was supplemented by records supplied directly through the IDBR to improve coverage of establishments in specific sectors and parts of sectors that are underrepresented in Market Location’s database. 
+Quotas for the main survey were set by size within sector separately for Wales, Northern Ireland and eight English regions, while in one region, the West Midlands, a slightly different approach was adopted. In this region a Random Probability Sampling method was trialled, with no quotas and instead interviews were attempted with all sample records loaded.  
+Questionnaire 
+ESS 2019 was designed to merge the ESS and EPS surveys to provide greater efficiency and to enhance the potential for cross analysis. The surveys were required to be combined in such a way that interview length stayed below 25 minutes: a longer survey would have impacted on response rates and the quality of information provided. To avoid an excessively long questionnaire the merger of two surveys required more extensive modularisation of the questionnaire than undertaken previously. 
+Questions that were included in the merged questionnaire were designed to be as consistent as possible with previous versions of the same question in order to ensure comparability over time.  
+Fieldwork 
+Fieldwork for the core survey was undertaken between May and December 2019 and involved 81,013 interviews. Fieldwork was conducted by three research agencies (IFF Research, BMG Research and Ipsos MORI). An overall response rate of 41% was achieved for the core survey.  
+17 
+[Page #17]
+Weighting 
+Findings from the core survey have been weighted and grossed up to accurately represent the total population of establishments in England, Northern Ireland and Wales with at least two people on their payroll, calculated using the March 2019 IDBR population statistics. This has been done on a size, sector and geographic basis. Separate weights were generated which allow findings to be presented (a) based on the number of workplaces reporting a particular experience, and (b) based on the number of employees and/or job roles affected by different challenges. For questions that were modularised (i.e. only asked of a random selected sample of respondents), modular versions of the workplace and employee weights were created. 
+Report coverage 
+This report covers: 
+•  The proportion of employers offering apprenticeships, the number of apprentices they currently have, the type of apprenticeships they offer, why employers that have started offering apprenticeships in the last three years did so, and the retention of apprentices over the last three years within the workforce; 
+•  Awareness and impact of recent policy developments, particularly in relation to the 
+apprenticeship levy (for employers in England and Wales); 
+•  For those that do not offer apprenticeships, their level of knowledge about 
+apprenticeships, and why they do not offer them; and 
+•  Employers’ future engagement in apprenticeships.15 
+Reporting conventions 
+The terms “establishment”, “employer” and “workplace” are used interchangeably throughout this report to avoid excessive repetition. 
+Throughout the report unweighted base figures are shown on tables and charts to give an indication of the statistical reliability of the figures.  
+15 It is likely that future intentions will be heavily affected by the Covid-19 pandemic, however these results are still useful in terms of understanding which types of employers tend to have an appetite to take on apprentices. 
+18 
+[Page #18]
+From 2010 to 2017, the ESS survey and the UK EPS were conducted in alternate years (UK EPS was not conducted in 2018). This means that comparisons over time refer to different survey years depending on whether the measure being referred to originated from the ESS or EPS survey prior to 2019. The report commonly refers to the last two waves of these surveys (i.e. ESS 2015 and 2017 and EPS 2014 and 2016). 
+In tables, “zero” is denoted as a dash (“-“); and an asterisk is used (“*”) if the figure is larger than zero but less than 0.5%. 
+Throughout the report, figures with a base size of fewer than 30 establishments are not reported (a double asterisk, “**”, is displayed instead), and figures with a base size of 30 to 49 are italicised and should be treated with caution. 
+The scale and scope of data collected in ESS 2019 means that it is a valuable research resource supporting detailed and complex statistical analysis of the inter-relationships between employer characteristics and their practices and experiences. The findings presented in this report reflect a descriptive exploration of the data. All differences referred to in the text are statistically significant at the 95% level of confidence. Further statistical information can be found in Appendix D. 
+19 
+[Page #19]
+2.  Engagement with apprenticeships 
+Chapter summary 
+Around a fifth of employers either employed apprentices at the time of interview (10%) or offered them but did not have any current apprentices (8%). The overall proportion of employers offering apprenticeships (18%) was the same as in 2016 (after an increase from 15% in 2014). The likelihood of offering apprenticeships increases with size, from 9% among those with 2-4 staff to 80% among establishments with 250 or more staff. Offering apprenticeships was most common in sectors dominated by large and / or public sector establishments such as Education (36%), Public Administration (25%), Health & Social Work (25%) and “traditional” apprenticeship industries such as Construction (24%). In contrast, only around one in ten employers in the Primary Sector and Utilities (9%); Information and Communications (10%); and Transport and Storage (11%) offered apprenticeships. 
+In line with 2016, the most common reasons for starting to offer apprenticeships were related to acquiring talent (50%), such as their being a good way to acquire skilled staff (37%). Around a quarter (23%) mentioned altruistic reasons, in particular, offering them to give young people a chance (20%), while a fifth (21%) started offering them as a good way of nurturing talent.  
+Among those not offering apprenticeships, around three-fifths (62%) mentioned perceived structural barriers, including, most commonly, apprenticeships not being suitable for the size of their establishment (20%). A third (32%) said they had made an active choice not to offer apprenticeships, while one in ten (9%) mentioned reasons indicating a lack of awareness or knowledge of apprenticeships. 
+Among those that had recruited people specifically as apprentices in the past three years and had seen apprenticeship completers, seven in ten (70%) had retained some of their apprentices as permanent staff, and approaching half (44%) had retained all their apprentices. The most common reasons for not doing so related to it being the apprentice’s decision (51%), including them not wanting to stay in their role (29%). 
+20 
+[Page #20]
+Introduction 
+This chapter explores employers’ level of engagement with apprenticeships at the time they were interviewed in terms of whether they currently have apprentices or offer apprenticeships and apprentice volumes per 1,000 employees. It also explores employers’ reasons for offering or not offering apprenticeships and the extent to which employers retain apprentices as permanent employees. 
+Engagement with apprenticeships 
+Nearly one in five employers either had apprentices at their site at the time of the interview (10%) or offered apprenticeships but did not have any current apprentices (8%). The overall proportion offering apprenticeships (18%) was the same in 2016, and remained higher than 2014 (15%). The overall proportion with current apprentices in 2019 (10%) was lower than in 2016 (12%).  
+The proportion of establishments offering apprenticeships was higher in England (19%) than in Wales (16%) or Northern Ireland (12%). Figure 2-1 shows the breakdown by country over time. While the overall proportion offering apprenticeships has not changed significantly in each nation, there has been a fall compared with 2016 in the proportion of establishments with apprentices at the time of the survey in Northern Ireland (by two percentage points) and in England (by one percentage point). 
+21 
+[Page #21]
+Figure 2-1 Changes over time in the proportion of employers offering apprenticeships, by country16 
+Offer apprenticeships  but none  currently
+Have  apprentices  at time of survey
+19%
+19%
+18% 18%
+16%
+15%
+15%
+15%
+7%
+7%
+13%
+8%
+12%
+13%
+8%
+6%
+5%
+5%
+6%
+9%
+3%
+5%
+6%
+4%
+12%
+12%
+11%
+10%
+10%
+10%
+10%
+9%
+9%
+8%
+6%
+5%
+4102
+6102
+9102
+4102
+6102
+9102
+4102
+6102
+9102
+4102
+6102
+9102
+England / NI / Wales
+England
+NorthernIreland
+Wales
+Base for 2019: All establishments: UK (16,070), England (13,358), Northern Ireland (1,008), Wales (1,704). See Table A.2.1 in Appendix A for 2014 and 2016 base sizes.
+Produced by IFF Research
+Figure 2-2 shows the breakdown by country, sector and size in the proportion offering apprenticeships. 
+The likelihood of offering apprenticeships increases with size, from 9% among those with 2-4 staff to 80% among establishments with 250 or more staff. Whilst the overall proportion of establishments offering apprenticeships has not changed since 2016, there have been changes by establishment size, as shown in Figure 2-3. 
+16 In Figure 2-1, the header for the columns for the combined England/NI/Wales figure in 2016 and 2019 both show 18% despite looking as though they are a different size. The difference in the size of the columns is due to the rounding of the figures in the chart. 
+22 
+[Page #22]
+Figure 2-2 Proportion of establishments offering apprenticeships (by country, size and sector) 
+36%
+All: 18%of establishments offered apprenticeships
+25% 25% 24% 23%
+21%
+19%
+17% 16%
+14%
+Base: All establishments (16,070)
+11% 10% 9%
+gnirutcafunaM
+li
+secvreSssensuB
+smmoC&ofnI
+.nmdAc
+&
+rehtO&str
+&
+stnaruatseR
+noitacudE
+secvreS
+l
+noitcurtsnoC
+acoS&htlaeH
+ateR&easeohW
+i
+&setoH
+egarotS
+i
+rotceSyram
+tropsnarT
+i
+i
+seitilit
+l
+kroW
+il
+l
+buP
+acnanF
+l
+U
+A
+i
+l
+i
+ir
+P
+i
+12%
+80%
+59%
+19%
+44%
+16%
+41%
+24%
+9%
+2-4
+25-49
+50-99
+100-249
+250+
+5-24
+Base: All establishments: for base sizes see Appendix A, Table A.2.1
+Produced by IFF Research
+Establishments with 25 or more staff were much more likely to offer apprenticeships in 2019 than in 2016 or 2014, with this increase particularly large among those with 100 or more staff. This was true for all nations; the biggest increase occurred in Wales, where there was an 18 percentage point increase in the proportion of employers with 100 or more staff offering apprenticeships (68%, compared with 50% in 2016), compared a with 14 percentage point increase in England (from 52% in 2016) and a 12 percentage point increase in Northern Ireland (from 34% in 2016).17 Compared with 2019, fewer of the smallest establishments (with fewer than five staff) offered apprenticeships (a fall of two percentage points).  
+The majority of the difference among large establishments with 100 or more staff was in the proportion who had apprentices at the time of the survey (41% in 2016 rising to 55% in 2019). The reasons for these changes are explored in the section below. 
+17 Increase in Northern Ireland should be treated as indicative due to low sample size in 2019 of 45 respondents. 
+23 
+[Page #23]
+Figure 2-3 Changes over time in the proportion offering apprenticeships, by size of establishment 
+80%
+2019 % of establishments that have/offer apprenticeships
+2016
+2014
+59%
+%2% 685
+44%
+41%
+%64
+%54
+%9% 363
+%63
+%03
+24%
+18%
+%3% 2
+%8% 151
+81
+9%
+%1% 18
+4102
+6102
+9102
+4102
+6102
+9102
+4102
+6102
+9102
+4102
+6102
+9102
+4102
+6102
+9102
+4102
+6102
+9102
+4102
+6102
+9102
+Total
+2 to 4
+5 to 24
+25 to 49
+50 to 99
+100 to 249
+250+
+Establishment size
+Base for 2019: All establishments: Total (16,070), 2-4 (3,908), 5-24 (8,080), 25-49 (2,146), 50-99 (1,153), 100-249 (592), 250+ (191)See Table A.2.1 in Appendix A for 2014 and 2016 base sizes.
+Produced by IFF Research
+There were also considerable differences in the proportion of employers offering apprenticeships by sector. Sectors dominated by large and/or public sector establishments and those in “traditional” apprenticeship industries (such as Construction) were much more likely than average to offer apprenticeships. This includes Education (36%), Public Administration (25%), Health & Social Work (25%), Construction (24%), Arts & Other Services (23%) and Manufacturing (21%). Conversely, establishments operating in Primary & Utilities (9%), Information & Communications (10%), Transport & Storage (11%), Financial Services (14%) and Business Services (16%) were significantly less likely than average to have or offer apprenticeships. Results are shown in Figure 2-4. 
+The sectors most engaged in apprenticeships differed by country. High levels of engagement in the Education and Health and Social Work sectors in England (37% and 26% respectively) were not reflected (to such an extent) in Northern Ireland (18% and 11%) or Wales (24% and 17%). Employers in the Hotels and Restaurants sector in Northern Ireland were less likely to be offering apprenticeships (6%) than their counterparts in England (18%) and Wales (15%).  
+24 
+[Page #24]
+The picture by sector has changed relatively little since 2016. Across England, Northern Ireland and Wales as a whole the only significant change has been a two percentage point increase in proportion offering apprenticeships in the Wholesale and Retail sector, however at an individual country level the changes in this sector were not significant.  
+25 
+[Page #25]
+Figure 2-4 Changes over time in the proportion offering apprenticeships, by sector in each country 
+England / NI / Wales
+England
+2019 % of establishments that have/offer apprenticeships
+2014
+2016
+%73
+%63
+%62
+%52
+%52
+%24
+%42
+%42
+%42
+%32
+%32
+%93
+%12
+%12
+%91
+%91
+%91
+%81
+%81
+%71
+%61
+%61
+%23
+%41
+%41
+%03
+%82
+%11
+%11
+%01
+%01
+%01
+%62
+%42
+%42
+%42
+%32
+%32
+%32
+%9
+%22
+%22
+%22
+%12
+%12
+%02
+%91
+%91
+%81
+%81
+%81
+%81
+%81
+%81
+%81
+%71
+%61
+%51
+%51
+%51
+%51
+%51
+%51
+%51
+%51
+%51
+%21
+%21
+%31
+%31
+%41
+%41
+%11
+%31
+%21
+%31
+%31
+%41
+%41
+%01
+%31
+%9
+%7
+%8
+Base: All establishments  in England/NI/Wales
+Base: All establishments  in England
+Wales
+Northern Ireland
+%74
+%72
+%52
+%42
+%22
+%02
+%91
+%81
+%71
+%71
+%61
+%61
+%51
+%41
+%31
+%31
+%82
+%21
+%62
+%11
+%62
+%52
+%52
+%42
+%32
+%22
+%8
+%8
+%02
+%02
+%91
+%6
+%81
+%5
+%71
+%71
+%71
+%61
+%61
+%51
+%51
+%2
+%41
+%51
+%1
+%31
+%01
+%21
+%01
+%21
+%31
+%31
+%11
+%71
+%41
+%11
+%11
+%01
+%01
+**%6
+%9
+%9
+%9
+%8
+%9
+%6
+%6
+**%%79
+%9
+%6
+%5
+%3
+%6
+%8
+%5
+%4
+%4
+%3
+%1
+**
+**
+**
+**
+Base: All establishments  in Walessee Table  A.2.1 in Appendix  A for base sizes‘**’ denotes  a figure  not shown  due to a base size of fewer  than 30 employers, figures in italics denote  a base size of between  30-49  employers and should  be treated with  caution 
+Base: All establishments  in Northern Ireland
+Produced by IFF Research
+[Page #26]
+Reflecting the differences discussed by sector (and also by employer size), there were differences in the likelihood of offering apprenticeships by establishment type. Public sector establishments were almost twice as likely to offer apprenticeships (30%) as those operating in the private (18%) or charity/voluntary (16%) sectors. These proportions are in line with 2016, when 29% of public sector establishments offered apprenticeships, compared with 18% of private sector and 15% of voluntary sector establishments. 
+As shown in Figure 2-5, results suggest that employers facing skills challenges were more likely to use apprenticeships. For example, two-fifths (41%) of employers that had skill-shortage vacancies either currently employed apprentices or offered apprenticeships, compared with only one in six (17%) of those that did not have any skill-shortage vacancies. This is linked in part to size, in that a greater proportion of larger businesses, who were more likely to offer apprenticeships, were more likely to report having skill-shortage vacancies. In addition, employers with skill-shortage vacancies were more likely to offer apprenticeships than those with hard-to-fill vacancies with causes unrelated to skills issues (41% vs. 34%). The higher prevalence among those with skill-shortage vacancies suggests these employers recognise the value that apprenticeships provide in addressing skills issues. Similar differences were also evident between employers that reported skills gaps within their existing workforce (40%) and those who did not (15%). 
+Figure 2-5 Proportion offering apprenticeships: comparison between those who have and do not have skill-shortage vacancies and skills gaps 
+Offer apprenticeships  but none  currently
+Have  apprentices  at time of survey
+40%
+41%
+12%
+16%
+18%
+17%
+15%
+8%
+28%
+8%
+25%
+8%
+10%
+10%
+8%
+No skills gaps
+All with skills gaps
+All with skill-shortage vacancies 
+Noskill-shortage vacancies 
+All
+All establishments: Total (16,070), Have SSVs (1,351); Do not have SSVs(14,719); Have skills gaps (3,127); Do not have skills gaps (12,943)
+Produced by IFF Research
+[Page #27]
+Reasons for offering apprenticeships 
+Understanding the motivations for offering apprenticeships can help shape the policy response and messaging around the promotion of the programmes to encourage more employers to consider taking on apprentices. Those employers that had started offering apprenticeships recently (in the last three years) were asked about the reasons they started doing so. Results are shown in Figure 2-6. As well as the individual reasons given, responses have been grouped into four broad themes: acquiring talent, altruistic reasons, nurturing talent and financial reasons. 
+A full list of the reasons that are included in each grouped set of reasons are included in Table B.1 in Appendix B.  
+The most common reasons for offering apprenticeships were to do with acquiring talent, both for the establishment and for the industry. Half (50%) of employers that had recently started offering apprenticeships reasons relating to this theme. This was broadly in line with 2016, although the proportion saying it was to ensure young people continue to enter their sector increased from 14% to 19%. 
+Approaching a quarter (23%) gave altruistic reasons for offering apprenticeships, in particular “to give young people a chance” (20%). This proportion showed no change since 2016. 
+A fifth (21%) started offering apprenticeships as a good way of nurturing talent, particularly that they are seen as a good way to upskill current staff (10%), but also because they can shape their own apprenticeship framework (4%) and train people to their own specific needs (3%). A handful mentioned a positive reaction from staff: 3% said they were responding to employee demand and 1% that they did it to increase morale and improve retention. These results were all broadly in line with figures seen in 2016.  
+Financial reasons were mentioned by just under one in ten employers (9%), down from 12% in 2016. The lower prevalence of financial reasons was predominantly due to a fall in the proportion of employers that said they had started offering apprenticeships because they are good value for money or cost effective (2%, compared with 8% in 2016) and in the proportion mentioning the availability of grants to support apprenticeship training (2% vs. 4%). The most common specific reason for starting to offer apprenticeships was because of the apprenticeship levy; this was mentioned by 6% of employers that had recently started offering apprenticeships. In contrast, in 2016 fewer than 1% mentioned starting to offer apprenticeships in anticipation of the apprenticeship levy being introduced. 
+28 
+[Page #28]
+Figure 2-6 Reasons for starting to offer apprenticeships in the last three years (unprompted) 
+37%
+Good way to get skilled staffEnsure young people continue to enter thecompany / industry
+50%
+19%
+Acquiring talent
+20%
+Good way to give young people a chance
+2%
+To help people into workTo help the community / corporate socialresponsibility
+23%
+2%
+Altruistic
+10%
+Want to upskill current staffWe could shape our own apprenticeshipframework
+4%
+Other reasons notcategorised (mentioned by 1% or more):
+3%
+To train people from scratch / to our needs
+21%
+3%
+Demand among existing staffTo improve general skills/knowledge of newand existing staffImprove staff morale / retention
+2%
+••
+Head office decision (3%)Encouraged to do so by training providers (2%)• Government initiative 
+Nurturing Talent
+1%
+(1%)Improve awareness /reputation of business(1%)
+6%
+Because of the apprenticeship levy
+•
+9%
+2%
+Good value for money / cost effective
+Financial
+2%
+Availability of grants
+Base: All establishments that started offering apprenticeships in the last three years (1,148). Note: multiple responses were allowed.
+Produced by IFF Research
+There have been large changes in the motivations for starting to offer apprenticeships among establishments with 100 or more staff, away from acquiring talent and altruistic reasons to financial reasons. More specifically, the proportion saying it was because of the levy was 30% among these large employers (compared to 6% overall), up from 3% who mentioned anticipating the apprenticeship levy as a reason in 2016, which made it the joint-top reason for doing so, alongside being a good way to get skilled staff. Indeed, the apprenticeship levy was the top reason among employers with 250 or more staff by some distance, at 43%.  
+This suggests that the apprenticeship levy has acted to stimulate many larger employers to start offering apprenticeships in order to ‘claim back’ their levy payment. Table 2-1 shows the change in each motivating reason at the overall level and among establishments with 100 or more staff. 
+29 
+[Page #29]
+Table 2-1 Changes in broad motivations for offering apprenticeships over time 
+100+ staff 
+All 
+2016 
+2019 
+2016 
+2019 
+Base: All who have started offering apprenticeships in the last three years 
+1,203 
+1,148 
+146 
+160 
+% 
+% 
+% 
+% 
+Broad reason 
+Acquiring talent 
+48 
+50 
+52 
+38* 
+Altruistic reasons 
+22 
+23 
+34 
+18* 
+Nurturing talent 
+25 
+21 
+20 
+26 
+Financial reasons 
+12 
+9 
+9 
+36* 
+* Where ‘*’ is shown alongside the 2019 figure, it means the change from 2016 is significant at the 95% confidence level. 
+These differences are also reflected in the motivations of public sector organisations, who were more likely than other establishment types to cite financial reasons (28%, up from 19% in 2016), and less likely to mention acquiring talent (38%, down from 49% in 2016); in contrast the motivations of private and charity/voluntary sector organisations largely match those for the population as a whole. 
+New for this years’ survey we are now able to report the differences in the motivations of employers offering apprenticeships based on the skills challenges they faced. 
+•  Employers with skill-shortage vacancies were more likely than average to cite 
+reasons related to acquiring talent (65% compared to 50% overall), specifically “it is a good way to get skilled staff” (58%, compared to 37% overall). This was not the case among employers that had hard-to-fill vacancies caused by non-skills-related reasons suggesting that those experiencing skills deficiencies in the labour market are more likely than average to adopt apprenticeships as a means to acquire skills within their workforce.  
+Employers with skills gaps were also more likely to give reasons relating to acquiring talent: 57%, compared to 47% of those with no skills gaps. Again, this centred on apprenticeships being a good way to get skilled staff (45% of employers with skills gaps gave this as a reason, compared to 34% without).  
+The top six reasons for starting to offer apprenticeships by country and size can be seen in full in Appendix A, Table A.2.5. 
+30 
+[Page #30]
+Three-fifths of establishments that started to offer apprenticeships in the last three years (61%) said the decision to start offering apprenticeships was one made internally with no outside influence. However, over a quarter (28%) had been approached by an external individual or agency and just over a fifth (22%) said this was the sole influence on their decision to offer apprenticeships (6% said it was “a bit of both”). The proportion that had been approached by an external agency about offering apprenticeships (28%) was much lower than in 2016 (38%). 
+Approaches by external individuals or agencies were more common among those that had recently started offering apprenticeships in Northern Ireland (48%). As seen previously, engagement with apprenticeships is lower in Northern Ireland than in England or Wales. 
+Among those that had been approached by an external organisation or individual, it was most common for this to have been a school or Further Education/sixth form college (33%, higher among employers in the private sector (35%) than the public sector (19%), the apprentice themselves (19%) or commercial providers (17%, far fewer than in 2016 when this type of organisation was the most common external influence mentioned (28%). Figure 2-7 shows the detailed list of organisation types approaching employers about offering apprenticeships. 
+Figure 2-7 Proportion of establishments that were approached by external organisations or individuals when deciding to offer apprenticeships, and the types of organisations or individuals that made the approach 
+School / Further EducationCollege
+33%
+27%
+19%
+The apprentice(s)
+16%
+61%
+17%
+Commercial provider
+28%
+22%
+7%7%
+Professional body
+20192016
+Local authority /government organisation
+6%
+6%
+3%
+11%
+A university/HigherEducation Institution
+4%
+1%
+Initiated by the establishment
+3%3%
+Approached by another individual or organisation
+Non-profit organisation
+A bit of both
+2%3%
+Don't know
+Another employer
+Base for pie chart: All establishments that started offering apprenticeships in the last 3 years (1,148)
+Base for bars: All establishments that were approached by an individual / organisation (320). Note: One answer mentioned by fewer than 1% of establishments (as well as ‘other’) are not shown
+Produced by IFF Research
+31 
+[Page #31]
+Reasons for not offering apprenticeships  
+Awareness of apprenticeships is high, with nearly all (98%) employers that did not offer them having at least heard of the term, and nine in ten (89%) saying that they had at least some knowledge of what they involve. Awareness was high across all sizes and sectors of employer. 
+Understanding the barriers employers face to offering apprenticeships is central to understanding how to increase uptake. As such, employers that were aware of apprenticeships but did not currently offer them were asked why this was. Results are shown in Figure 2-8. As well as the most common specific responses, answers have been categorised into three broad themes: 
+•  Perceived barriers around the way apprenticeships are designed and structured; 
+•  An active choice not to offer apprenticeships at the establishments; 
+•  A lack of awareness of what is involved. 
+Figure 2-8 Reasons for not offering apprenticeships (unprompted) 
+Apprenticeships are not suitable for our size
+20%
+Not looking to recruit new staff
+18%
+Apprenticeships are not offered for our industry
+9%
+62%
+Cannot afford to
+8%
+Do not have the time to train them
+5%
+Do not have the work to offer them
+3%
+Regulatory or bureaucratic restrictions
+3%
+Perceived structural barriers
+We don't have the resources
+2%
+Not relevant to business
+2%
+No need as all staff are fully skilled
+13%
+32%
+Prefer to recruit experienced staff
+6%
+Other reasons notcategorised (mentioned by 1% or more):
+Does not suit our business model
+6%
+No need (unspecified)
+4%
+Actively choosing not to
+Prefer other forms of training
+2%
+•
+Currently looking intooffering them (1%)
+Past apprentices were of a poor standard
+2%
+Never have before so not considered it
+6%
+9%
+Not aware of them
+2%
+Do not know enough about them
+1%
+Lack of awareness
+No one has enquired about doing one
+1%
+Base: All establishments not offering apprenticeships (11,784)Note: multiple responses allowed. Some responses with 1% or fewer not shown
+Produced by IFF Research
+A full list of the reasons that are included in each grouped set of reasons are included in Table B.2 in Appendix B. 
+32 
+[Page #32]
+Around three-fifths of establishments (62%) mentioned at least one structural barrier to them offering apprenticeships; rising to 66% among establishments with 2 to 4 staff. This was most commonly that apprenticeships are not suitable for their size of establishment (20%). This response was predominantly given by establishments with fewer than 25 staff; 25% of employers with 2-4 staff and 15% with 5-24 cited this as a reason compared with just 7% of employers with 25 or more staff. 
+Approaching a fifth (18%) of employers said they did not offer apprenticeships because they were not looking to recruit in general. This was more commonly mentioned by smaller establishments with 2 to 4 staff (22%). 
+Another common structural barrier was the perception that apprenticeships were not available for the establishment’s industry (9%). This view was particularly prevalent in Wales (16%) and to a lesser extent Northern Ireland (11%), compared to just 8% in England. Sectors where employers not offering apprenticeships were more likely to say that the current apprenticeship offering was not geared towards them were Public Administration (16%), Transport and Storage (14%), Arts and Other Services (12%), Education and Health and Social Work (11%), though it is important to note, as discussed earlier in this chapter, that most of these sectors had a high prevalence of employers offering apprenticeships.  
+Some employers mentioned costs as a barrier, with 8% saying they could not currently afford to offer apprenticeships; this was a more common reason among smaller employers (9% of those with 2 to 4 staff, compared with 6% of those with 5 or more staff). It was also the second most common reason given by establishments in the Education sector (17%) and this sector was far more likely to give this response than any other sector. 
+A third of employers (32%) said they had made an active choice not to offer apprenticeships. This was mainly because their current staff already had all the skills required (13%). Again this reason was more common among small employers with 2 to 4 staff (15%). This response along with the relatively high proportion of employers saying they were not looking to recruit staff suggests employers could be open to the idea in the future should their situation change. Others said they preferred to recruit experienced staff (6%) suggesting that the messaging for them would need to be around the benefits of training an individual to their own specific needs or perhaps upskilling existing staff through apprenticeships. 
+One in ten employers (9%) gave reasons relating to a lack of awareness about apprenticeships, most commonly that they just had not considered it because they had not trained apprentices in the past (6%). 
+33 
+[Page #33]
+The top six reasons for not offering apprenticeships by country, size and sector can be seen in full in Appendix A, Table A.2.7. 
+Number of apprentices 
+Among employers with apprentices at the time of the interview, the majority (60%) had just one apprentice at their site (60%), and nine in ten (90%) had four or fewer. In comparison 3% had 10 or more apprentices. These results suggest a slight increase compared with 2016, when a higher proportion had just one apprentice (65%). This could be partly to do with larger employers making up a larger proportion of the population of establishments offering apprentices, as discussed earlier in this chapter.  
+Figure 2-9 Number of apprentices at each site that has current apprentices (banded), by size of establishment 
+1%
+1%8%
+3%5%
+2%4%
+9%
+11%
+9%
+12%
+33%
+27%
+22%
+43%
+31%
+42%
+45%
+Don’t know 10+5 to 92 to 41
+16%
+41%
+87%
+65%
+65%
+60%
+28%
+48%
+34%
+26%
+11%
+ffats
+ffats4-2
+ffats
+ffats
+erom
+ffats
+sreyopme
+sreyopme
+ffats
+6102
+9102
+94-52
+99-05
+942-001
+42-5
+l
+l
+ro
+052
+ll
+ll
+A
+A
+Base: All establishments with current apprentices (2019: 2,618, 2016: 2,273)
+Produced by IFF Research
+34 
+[Page #34]
+Apprentices as a proportion of employees 
+Comparing the number of apprentices with the number of staff an establishment employs – “apprentice density” allows an assessment of the extent to which types of establishments are supporting the most apprentices compared to their size.18  
+Figure 2-10 shows two bars for each size of establishment. The shorter, dark blue bar shows the number of apprentices per 1,000 staff among all establishments in that size band. The longer, white bar shows the overall number of apprentices per 1,000 staff just among those employers that had current apprentices. Results show there were 47 apprentices for every 1,000 employees in establishments with apprentices, and 18 apprentices per 1,000 employees across the economy as a whole.19 
+Predictably, when looking just at employers with apprentices, the number of apprentices per 1,000 staff decreases with establishment size. This simply reflects that one apprentice in an establishment with 2-4 staff comprises at least a quarter of the workforce.  
+In comparison the density of apprentices per 1,000 staff among all employers varies much less by employer size, from 14 per 1,000 (in the 2-4 and 100-249 bands) to 21 per 1,000 (in the 5-24 and 250+ bands ).  
+18 Note that all volumetric data covered in this section of the report reflect the number of current apprentices reported at the time of interview at a local establishment level, across England, Wales and Northern Ireland. Administrative data on apprenticeship starts at enterprise level by academic year in England can be found here: DfE: Apprenticeships in England by industry characteristics 2018 to 2019.  19 Note that all volumetric data covered in this report reflect the number of current apprentices reported at the time of interview based on survey data.  population. Wider administrative data on apprenticeship starts at enterprise level by academic year in England can be found here: DfE: Apprenticeships in England by industry characteristics 2018 to 2019. 
+35 
+[Page #35]
+Figure 2-10 Number of current apprentices per 1,000 employees, by size of establishment 
+Apprentices per 1,000 employees, apprentice employersApprentices per 1,000 employees, all employers
+2 to 4
+14
+320
+5 to 24
+21
+130
+25 to 49
+17
+65
+50 to 99
+18
+54
+100 to 249
+30
+14
+250+
+21
+28
+All employers
+18
+47
+Base: All establishments with current apprentices ( and knew how many)(2,598)All establishments, excluding those who did not know no. of apprentices (16,050)For base sizes by size see Appendix A Table A.2.1 and Table A.2.2
+Produced by IFF Research
+The clearest change compared to 2016 was an increase in the number of apprentices among the largest sites with 250 or more staff. In 2016 there were 16 apprentices per 1,000 staff among establishments of this size that had apprentices, and 10 per 1,000 staff among all establishments in this size band. In 2019 these figures have almost doubled, with 28 apprentices per 1,000 employees among those that had apprentices and 21 apprentices per 1,000 employees among all employers of this size.20 Figures are fairly consistent between 2016 and 2019 in each of the other size bands.  
+20 This large increase in apprentice density broadly aligns with patterns seen in the latest administrative data on apprenticeship starts, which shows that the number of apprenticeship starts In England decreased between the 2015/16 and 2018/19 academic years among small (0-49) and medium (50-249) businesses and increased among large business (250+) Note these comparisons are only indicative and differences between the two data sources should be noted, as explained in Footnote 14. Source: DfE: Apprenticeships in England by industry characteristics 2018 to 2019. 
+36 
+[Page #36]
+Table 2-2 Number of current apprentices per 1,000 employees, by size of establishment in 2016 and 2019 
+No. of apprentices per 1,000 employees – employers with apprentices 
+No. of apprentices per 1,000 employees – all employers 
+% change 
+% change 
+2016 
+2019 
+2016 
+2019 
+2,618 47 
+2,273 49 
+Base Total Size 2-4 staff 5-24 staff 25-49 staff 50-99 staff 100-249 staff 250+ staff See Table A.2.3 in Appendix A for base sizes of size groups. 
+14,019 16 
+16,070 18 
+-3 
++12 
+340 140 69 60 33 16 
+320 130 65 54 30 28 
+-6 -7 -5 -10 -9 +71 
+26 21 17 17 12 10 
+14 21 17 18 14 21 
+-46 -2 +4 +6 +19 +102 
+There were also considerable differences in the 2019 apprenticeship density figures by sector. The highest was in the Construction sector, which had 108 apprentices for every 1,000 employees among establishments that had apprentices, and 39 per 1,000 across the sector as a whole. Construction employers were more likely than average to have apprentices (15%, compared to 10% overall) and to be small establishments, meaning each apprentice accounts for a high proportion of staff at each site with apprentices. 
+Sectors with the highest proportion of establishments engaged with apprenticeships were not necessarily the ones with the highest density of apprentices, however. Whilst employers in Education were the most likely to have any apprentices at all (23%, compared to 10% average), for the most part these employers had fewer than 5 apprentices. As a result of this, combined with the larger size profile generally for this sector, the number of apprentices per 1,000 staff both for establishments with apprentices (30) and overall in the sector (12) was among the lowest of all the sectors. This was also seen in Public Administration, where 21% of employers had current apprentices (compared to 10% on average): the sector has just 36 apprentices per 1,000 employees among those with apprentices (compared to the all sector average of 47 per 1,000). 
+There were some large changes in apprentice density compared with 2016. Construction, despite having the highest apprentice density in 2019 saw the number of apprentices per 1,000 employees (among all employers) decrease from 46 in 2016 to 39 in 2019. There was also a large decrease within the Arts and Other Services sector (from 32 to 26). In contrast, several sectors saw their apprentice density increase, including Business Services (from 15 apprentices per 1,000 employees in 2016 to 23 in 2019) and Manufacturing (from 17 to 25).  
+37 
+[Page #37]
+Table 2-3 Number of current apprentices per 1,000 employees, by sector of establishment in 2016 and 2019 
+No. of apprentices per 1,000 employees – employers with apprentices 2019 2,618 47 
+No. of apprentices per 1,000 employees – all employers 
+% change 
+% change 
+2016 2.273 49 
+2016 14,019 16 
+2019 16,070 18 
+Base Total Sector Transport & Storage Education Information & Comms Health and Social Work Public Administration Wholesale & Retail Financial Services Manufacturing Hotels & Restaurants Business Services Primary Sector & Utilities Arts & Other Services Construction See Table A.2.3 in Appendix A for sector base sizes. ‘*’ indicates a base size of fewer than 50 respondents. 
+-3 
++12 
++13 -23 -53 -12 +76 -30 +39 +28 -16 +21 +7 -31 -2 
+23 38 71 45 21 60 31* 36 58 45 69 130 111 
+26 30 33 39 36* 42 43* 46 49 54 74* 90 108 
+8 13 12 19 13 12 14 17 9 15 17 32 46 
+11 12 12 18 20 12 16 25 10 23 20 26 39 
++29 -9 -5 -7 +54 +9 +20 +45 +19 +50 +15 -20 -15 
+Since first starting to offer apprenticeships, a quarter of employers (24%) had increased their apprenticeship numbers (see Figure 2-11). Two-thirds (65%) said levels have remained about the same, and 7% had decreased the number of apprentices they have since they first started offering (though rising to 12% in Wales).  
+The proportion saying the number had grown increased with employer size, from 11% of establishments with 2-4 staff up to 50% of those with 250 or more staff.  
+There were also differences by sector. Employers operating in the Information and Communications sector were the most likely to have increased numbers (45%; none reported a decrease); employers in Business services (32%) were also more likely than average to have seen an increase. On the other side of the coin, employers in Arts and Other Services and Construction were more likely than average to have decreased apprenticeship numbers since they first started offering them (18% and 13% respectively). Arts and Other Services was the only sector where more employers reported a decrease than an increase (18% vs. 14% respectively). 
+Figures were in line with those seen in 2016. 
+38 
+[Page #38]
+Figure 2-11 Change in apprenticeship numbers since first started offering apprenticeships (by country, size and sector) 
+Change in apprentice  numbers since first offering apprenticeships:
+3% 5% 4% 2% 1% 7%
+5%
+10%
+13%
+4%
+18%
+%35
+%56
+%36
+%55
+%26
+%46
+%86
+%86
+%47
+%96
+%56
+%86
+%46
+7%
+24%
+Increase
+Remained about the same
+E/NI/W
+%54
+%43
+%33
+%23
+%82
+%92
+%62
+%52
+%12
+%71
+%41
+%91
+%12
+Decrease
+&
+secvreS
+rehtO&str
+snoitacnummoC
+secvreSssensuB
+egarotS&
+noitacudE
+.nmda
+noitcurtsnoC
+kroW
+gnirutcafunaM
+li
+stnaruatseR&setoH
+ateR&easeohW
+&noitamrofnI
+i
+secvreS
+rotceSyram
+Don’t know
+i
+i
+seitilit
+65%
+i
+l
+acoS&htlaeH
+i
+c
+i
+il
+l
+buP
+l
+acnanF
+U
+tropsnarT
+A
+i
+l
+i
+ir
+P
+l
+i
+22%
+9%
+NI
+6%
+25%
+68%
+7%
+3%
+10%
+4%
+6%
+8%
+Eng
+37%
+66%
+54%
+48%
+63%
+68%
+77%
+21%
+12%
+50%
+40%
+37%
+29%
+Wal
+23%
+11%
+61%
+2 to 4
+5 to 24
+25 to 49 50 to 99 100-249
+250+
+Base: All establishments with current apprentices : see Appendix A, Table A.2.1 and A.2.2
+Produced by IFF Research
+Apprenticeship retention 
+Employers that had recruited people specifically as apprentices in the past three years (i.e. not those that had only offered them to existing staff) were asked whether they had retained the apprentices as permanent staff or in a long-term paid role at the end of their apprenticeship (whether or not they were still working for them at the time of the interview). Excluding those saying none of these apprentices had yet completed, seven in ten (70%) had retained at least some of their apprentices: 44% had retained all of their apprentices, 13% most and 13% some of them. Just over a quarter (28%) had not retained any as permanent staff on their completion. 
+There was some variation in this by size of establishment. The smallest establishments, with 2-4 staff, were least likely to have retained any apprentices as permanent staff, with just over half having done so (54%). This increased to three-quarter (74%) of establishments with 5-24 staff, and over four-fifths (84%) of those with 25 or more staff.  
+39 
+[Page #39]
+There was also significant variation by sector. Sectors where establishments were most likely to have retained any apprentices after their qualification was completed were Public Administration (87%), Financial Services (87%), Health and Social Work (76%) and Manufacturing (76%). Least likely to have done so were establishments in Information and Communications (54%) and Primary and Utilities (60%). 
+A full breakdown of the proportions retaining apprenticeship completers to permanent roles by establishment size and sector can be found in Appendix A, Table A.2.9. 
+Reasons for not retaining apprentices were varied, but in around half of cases (51%) it was the decision of the apprentice themselves rather than the employer. This was most often simply that the apprentices did not want to stay in their role (29%) or their apprentice had accepted a job at another employer (19%). 
+Around a quarter (27%) found that the apprentice(s) they did not retain were not right for the role, either in terms of their capability (16%) or being the right “fit” for the establishment (11%). One in twenty (5%) said the reason for not retaining them was that the apprentice had a poor attitude or lacked motivation. 
+One in ten employers (10%) said there was not enough work to keep their apprentices on as permanent staff and 3% found they could not afford to hire them permanently. These reasons were more common among large employers with 250 or more staff (22% and 14% respectively). 
+A full list of the reasons that are included in each grouped set of reasons are included in B.3 in Appendix B. 
+40 
+[Page #40]
+Figure 2-12 Reasons for not retaining apprentices in a permanent role (unprompted) 
+The apprentice did not want to stay in their role
+29%
+The apprentice accepted a job at another employer
+19%
+51%
+The apprentice moved on (unspecified)
+4%
+Apprentice relocated
+2%
+Location difficult to get to / apprentice moved to a moreconvenient location
+1%
+Apprenticedecision
+The apprentice left to find a better paid position
+1%
+The apprentice was not capable enough at their role
+16%
+The apprentice was not the right fit for theestablishment
+27%
+11%
+The apprentice had a bad attitude / lacked motivation
+5%
+The apprentice was fired / went through disciplinaryaction
+Other reasons notcategorised:
+1%
+Capability/fit
+•
+The apprentice did not finish their apprenticeship (16%)The apprentice is still intraining / education (3%)
+There was not enough work available
+6%
+10%
+The establishment could not afford to hire thempermanently
+3%
+•
+Lack of resource/work
+Funding / financial reasons
+1%
+The apprentice left for personal reasons
+2%
+3%Personal/health reasons
+The apprentice was ill
+1%
+Base: All establishments who have hired apprentices in last 3 years but didn’t retain them all to permanent positions (2,215)Note: multiple responses allowed.
+Produced by IFF Research
+41 
+[Page #41]
+3.  Routes into apprenticeships 
+Chapter summary 
+The vast majority of establishments offering apprenticeships offer them to young people aged under 25 (88%) and a third (34%) exclusively offer them to this age group. Both of these results are lower than in 2016 (93% and 47% respectively). Employers in Wales (84%) and establishments with 2 to 4 employees (83%) were less likely than average to offer apprenticeships to young people. 
+Approaching three in five employers (57%) offer them to older workers aged 25 or over (2% solely offer them to this group), up from 48% in 2016.  This proportion was higher among establishments in the Public Administration (87%), Health and Social Work (75%), Hotels and Restaurants (71%) and Education (70%) sectors. 
+The majority of employers offering apprenticeships offer them to new employees who they recruit specifically as apprentices (87%); approaching half (46%) only offer them to this group. Just over half (52%) offer apprenticeships to existing employees; one in ten (10%) offer them only to this group.  
+This proportion only offering apprenticeships to existing employees increased from 2016 levels (6%). Results show this was mainly driven by increases in provision of apprenticeships to existing employees among larger employers with 100 or more employees; rising from around half (54%) in 2016 to three-quarters (76%) in 2019. These are the establishments most likely to be affected by the apprenticeship levy. 
+Among employers that currently offer apprenticeships to new recruits, almost two-fifths (37%, equivalent to around a third (32%) of all employers offering apprenticeships) had used work experience placements to determine whether an individual would be suitable for an apprenticeship prior to recruiting them as an apprentice. This practice was less common among establishments with 100 or more staff (26% of those offering apprenticeships to new recruits) and establishments in Public Administration (7%) and Information and Communication (23%). 
+42 
+[Page #42]
+Introduction 
+Whilst the main focus of apprenticeship policy has historically been to assist more young people into employment, apprenticeships are also available for those already employed who need to upskill and also for older people. This chapter looks at the proportion of employers offering apprenticeships to existing staff, the proportion recruiting people specifically as an apprentice, and the age groups they offer apprenticeships to. 
+Age groups to which offer apprenticeships  
+Most establishments offering apprenticeships offer them to young people (88%) – for the purposes of this section “young people” is taken to mean anyone under the age of 25. A third (34%) offer apprenticeships exclusively to this age group. 
+The majority (57%) of establishments offering apprenticeships said they offer them to those aged 25 plus, although only 2% offer them to this age group exclusively. 
+The proportion offering apprenticeships to young people has decreased since 2016 from 93% to 88%, as has the proportion offering them exclusively to this group (from 47% to 34%). At the same time the proportion offering of apprenticeships to people aged 25 years or older has increased from 48% to 57%.  
+The proportion offering apprenticeships to young people was fairly consistent, although employers in Wales (84%) and establishments with 2 to 4 employees (83%) were less likely than average to do so. 
+There was larger variation in the proportions offering apprenticeships to people aged 25 or over. There were particular differences by sector, with the proportion higher among establishments in Public Administration (87%), Health and Social Work (75%), Hotels and Restaurants (71%) and Education (70%). 
+The full breakdown of age groups employers offer apprenticeships to by country, size and sector with comparisons to 2016 are presented in Appendix A, Table A.3.1. 
+Apprenticeships for new recruits and/or existing employees  
+Apprenticeships, although often traditionally associated with recruitment of young people, are also applicable to existing members of staff. The majority of employers that offered apprenticeships (87%) offer them to new employees who they recruit specifically as apprentices, and nearly half (46%) offer apprenticeships only to this group (i.e. they do not also offer them to existing staff). 
+43 
+[Page #43]
+A slight majority of employers offering apprenticeships (52%) do so to existing employees, with one in ten (10%) offering apprenticeships only to this group. This was most common among large establishments, with 100 or more staff.  
+Figure 3-1 shows that the proportion of employers offering apprenticeships only to new recruits decreases with establishment size: as many as 60% of employers with 2-4 staff offer them only to new recruits, compared with just under a quarter among those with 100 or more staff (23%). 
+Figure 3-1 Whether employers offer apprenticeships to new recruits, existing employees or both over time, and by size in 2019 
+Existing employees only
+New recruits only
+Both new recruits and existing employees
+6%
+8%
+6%
+10%
+10%
+13%
+16%
+13%
+22%
+30%
+44%
+41%
+42%
+41%
+52%
+52%
+59%
+54%
+60%
+49%
+48%
+46%
+46%
+33%
+32%
+24%
+23%
+Base: All who offer apprenticeships. 2014 (2,970), 2016 (3,447), 2019 (4,286)2-4 (369), 5-24 (2,050), 25-49 (863), 50-99 (504), 100-249 (349), 250+ (151).
+Produced by IFF Research
+A full breakdown by country, size and sector can be seen in Appendix A, Table A.3.2. 
+Whilst overall the proportion offering apprenticeships to existing staff has remained consistent over time, as Figure 3-1 shows, the proportion of employers offering them only to existing staff has increased since 2016, from 6% to 10%. This is a result of changes among large employers, particularly those with 100 or more staff: having been fairly steady from 2014 to 2016, the proportion of these establishments offering apprenticeships to existing staff has increased from around a half to around three-quarters in 2019.  
+44 
+[Page #44]
+These are the establishments most likely to be affected by the apprenticeship levy. Findings discussed earlier on the reasons for starting to offer apprenticeships showed that large employers that were new to offering apprenticeships were particularly likely to say the apprenticeship levy was their reason for doing so (43%). This suggests that in order to get best use from their levy payments, employers are increasing the number of existing employees they offer apprenticeships to, and aligns with qualitative work undertaken prior to the introduction to the levy that suggested this would be one of a range of responses by employers to the levy (Gambin et al., 2016).21 
+Table 3-1 Whether employers offer apprenticeships to existing employers at all, by size of establishment over time 
+Offer apprenticeships to existing employees 
+2014  
+2016 
+2019 
+2,970 
+3,447 
+4,286 
+Base: all offering apprenticeships 
+% 
+% 
+% 
+Total 
+49 
+50 
+52 
+Size 
+2-4 staff 
+44 
+42 
+36 
+5-24 staff 
+50 
+53 
+52 
+25-49 staff 
+53 
+55 
+65 
+50-99 staff 
+51 
+52 
+66 
+100-249 staff 
+51 
+53 
+77 
+250+ staff 
+55 
+56 
+75 
+See Table A.2.2 in Appendix A for base sizes of size groups. 
+Use of work placements to check suitability of prospective apprentices  
+Among employers that currently offer apprenticeships to new recruits, almost two-fifths (37%, equivalent to around a third (32%) of all employers offering apprenticeships) had used work experience placements in the past to determine whether an individual would be suitable for an apprenticeship prior to recruiting them as an apprentice. 
+21 Gambin, L., Hogarth, T., Winterbotham, M., Huntley-Hewitt, J, Eastwood, L., and Vivian, D (2016) The apprenticeship levy: how will employers respond? Department for Education, London. https://www.gov.uk/government/publications/the-apprenticeship-levy-how-will-employers-respond  
+45 
+[Page #45]
+The practice was more common in Wales (44% of those offering apprenticeships to new recruits) and in establishments in the Arts and Other Services (51%) and Education (44%) sectors. It was very uncommon in establishments with 100 or more staff (26%) and establishments in Public Administration (7%) and Information and Communication (23%). 
+A full breakdown by country, size and sector can be seen in Appendix A, Table A.3.3. 
+46 
+[Page #46]
+4.  Awareness and provision of traineeships in England 
+and Wales 
+The Governments of both England and Wales have traineeship schemes designed to improve employability among young people. The schemes are separate from each other, so are reported separately below. 
+England 
+Government traineeships in England have three key components: providing work experience opportunities to young individuals, supporting them with basic skills such as Maths and English, and offering work preparation training. Through a traineeship, young people can gain the skills and experience that employers are looking for. They last a maximum of six months and have been open to 16- to 24-year-olds since 2013.22 
+In England, approaching half of employers (45%) were aware of traineeships. A fifth (20%) were aware of them in name only and did not know what they were, a similar proportion (19%) were aware with some knowledge, and 6% said they had a good knowledge of them and what they involve. 
+The overall level of awareness was slightly lower than it was in 2016, when 48% were aware of traineeships. That said, those reporting at least some knowledge has increased (from 24% to 26%), as has the proportion claiming to have “a good knowledge” of traineeships (from 4% to 6%). 
+22 More information on traineeships in England is available here: https://www.gov.uk/government/collections/traineeships-programme#traineeships:-overview-for-young-people 
+47 
+[Page #47]
+Figure 4-1 Awareness of traineeships in England 
+Not heard of them Aware / no knowledge Aware / some knowledge Good knowledge Don't know
+45%aware
+45% aware
+2%
+2019
+20%
+19%
+6%
+53%
+48% aware
+2016
+1%
+51%
+24%
+20%
+4%
+Base: All establishments in England. 2019 (13,358); 2016 (10,015)
+Produced by IFF Research
+Overall, 3% of establishments in England had had anyone undertake a traineeship in the previous 12 months (rising to 7% in the Education sector). This is an increase on the 1% that had done so in 2016. 
+Larger employers with 100 or more staff were more likely to be aware of traineeships (50%) and more likely to have any knowledge about them (23% said they had “some knowledge” and 11% “good knowledge” compared to 19% and 6% overall). They were also more likely to have had someone undertake a traineeship with them (7%, compared to 3% overall). 
+Further subgroup differences can be seen in Appendix A, Table A.4.1. 
+Wales 
+Traineeships are for young people aged 16-18 in Wales not engaged in post-16 education or employment. The primary objective of the programme is to equip people with the skills, qualifications and experience to enable them to progress to further learning or to employment, including an Apprenticeship. Traineeships have three different levels to make sure that young people get the support and backing they need to progress: Engagement;  Level 1;  and Level 2 – Bridge to Employment. The engagement 
+48 
+[Page #48]
+strand of the programme is open to young people who need additional support to help them engage or overcome barriers to engagement. 
+In Wales, just over a quarter of employers (28%) said they had heard of the traineeship programme in Wales, and 2% had taken someone on as part of the traineeship programme. Subgroup differences are shown in Appendix A, Table A.4.2, although due to the small base sizes involved few reach statistical significance. 
+Lack of awareness (75%) was the stand out reason why employers in Wales had not taken someone on to do a traineeship. Other reasons mentioned included not having suitable roles (8%); traineeships not being suitable due to the size of the establishment (5%) and not having the time or resources to manage the process (3%). 
+Those who had taken on someone to do a traineeship most commonly said they did this to give someone a chance (60%). A quarter (26%) said that they provided traineeships to test whether individuals were suitable for a permanent job, while 10% or fewer gave reasons including using traineeships as a means of testing whether individuals were suitable for an apprenticeship (10%); being asked or approached by a student or school (9%); and having funding available for training (4%).23 
+23 Note, the reasons for taking someone on to do a traineeship in Wales are based on a relatively small base size of 49 respondents. 
+49 
+[Page #49]
+5.  Awareness and impacts of the apprenticeship policy 
+reforms  
+Chapter summary 
+Approaching two-fifths (37%) of all employers were aware of the introduction of the apprenticeship levy. Awareness of the levy was far higher among larger employers: sites with 100 or more staff were more than twice as likely as average to be aware of the levy as those with 2-4 staff (77% compared to 33%). There was wide variation by sector, with awareness levels highest in Education and Public Administration (66% and 52% respectively) and lowest in Hotels and Restaurants (27%); Wholesale and Retail (29%) and the Primary Sector and Utilities (32%). 
+In terms of details, approaching six in ten of those that had heard of the apprenticeship levy (58%, equivalent to 21% of all employers) were aware that it applies to employers with a wage bill of £3m or higher, and more than half (52%, equivalent to 19% of all employers) were aware the amount levied was 0.5% of the annual wage bill. 
+Within England (where the funding approach is based on employers being able to ‘claim back’ the levy), among those that had heard of the levy, more than two-thirds (68%, equivalent to 26% of all employers) were aware the levy money can be used to offset apprenticeship costs. There was less awareness in England of the requirement for employers to contribute 5% to the cost of an apprenticeship (27% of those aware of apprenticeships); that training providers receive a premium for recruiting apprentices from deprived areas (22%); and that a minimum of 20% of an apprentice’s paid hours must be allocated to off-the-job training (35%).  
+Just under a quarter (23%) of employers that were aware of any of the recent reforms and that currently offered apprenticeships said these had led to a change in their apprenticeship offering; most commonly, the proportion of apprenticeship starts undertaken by existing employees since May 2017 (14%) and changes to the overall number of apprentices at the site (12%). In both cases, the impact was more often an increase than a decrease.  
+50 
+[Page #50]
+Introduction 
+As highlighted earlier in the report, major reforms in the way apprenticeships are funded and delivered came into effect in April 2017. While the exact approach to funding and delivery of apprenticeships differs between countries, all UK employers with a wage bill of £3m or more are required to pay a levy payment, totalling 0.5% of their wage bill. Employers in England can claim this back to fund their own apprenticeship training should they wish to; the funds last 24 months from when they are credited to an employer’s account. So for employers in England money from the first payments in April 2017 expired in April 2019 just before fieldwork for ESS 2019. In Wales, the Welsh Government fund the training costs of apprenticeships, and in Northern Ireland the directed (or ‘off-the-job’) training element is funded by the Department for the Economy with support from the Northern Ireland European Social Fund Programme 2014-2020.24 
+Employers in England, whether they eligible for the levy or not, now have to contribute 5% towards the cost of an apprenticeship. There is also a minimum set number of hours the apprentices in England must spend completing off-the-job training, and training providers in England are incentivised to recruit apprentices from deprived areas. 
+The questions around awareness of recent policy changes presented in this chapter were asked only of employers in England and Wales. Employers in England were asked additional follow-up questions on some of the finer details of the policy reforms that impact specifically in England-only. 
+Awareness of recent policy changes  
+Employers in England and Wales that were aware of apprenticeships were asked whether they were aware of each of the key elements of the apprenticeship reforms of 2017.  
+Approaching two-fifths (37%) of all employers were aware of the introduction of the apprenticeship levy. Awareness of the levy among large employers, i.e. the group it is most likely to apply to, was far higher: sites with 100 or more staff were more than twice as likely than average to be aware of the levy than those with 2-4 staff (77% compared to 33%). Figure 5-1 shows awareness of the apprenticeship levy by size. 
+24 Nibusinessinfo.co.uk, Finances and funding for Apprenticeships [accessed April 2020] 
+51 
+[Page #51]
+Figure 5-1 Awareness of the apprenticeship levy, by size of establishment 
+82%
+75%
+63%
+52%
+38%
+37%
+33%
+All
+2 to 4
+5 to 24
+25 to 49
+50 to 99
+100 to 249
+250+
+Base: All establishments in England and Wales: Total (15,062), 2-4 (3,664), 5-24 (7,558), 25-49 (2,024), 50-99 (1,078), 100-249 (561), 250+ (177)
+Produced by IFF Research
+Employers in Wales were less aware of the introduction of the apprenticeship levy (30% of those aware of apprenticeships) than those in England (38%). Awareness also varied by sector, with awareness higher in Education (66%), Public Administration (52%), Business Services (42%), Health and Social Work (41%) and Manufacturing (40%). Conversely awareness was lower than average in Hotels and Restaurants (27%), Wholesale and Retail (29%) and the Primary Sector and Utilities (32%).  
+Across England and Wales, awareness of the details of the levy payment among those that had heard of it were mixed:  
+•  Just under six in ten were aware that it applies to employers with a wage bill of 
+£3m or higher (58%, equivalent to 21% of all employers); and 
+•  Just over half were aware the amount levied was 0.5% of the wage bill (52%, 
+equivalent to 19% of all employers); 
+Within England, where the funding approach is based on employers ‘claiming back’ their levy, among those that had heard of the levy just over two-thirds of employers (68%) were aware the levy money can be used to offset an employer’s own apprenticeship costs (equivalent to 26% of all employers in England). 
+52 
+[Page #52]
+Large employers were more likely to be aware of the details of the apprenticeship levy (who it applies to, the levy amount and that it can be claimed back), with nearly all employers with 100 or more staff who were aware of the levy saying they knew of these details (Figure 5-2). 
+Figure 5-2 Awareness of the details of the apprenticeship levy among employers aware of the levy 
+Who applies toLevy amountCan claim back*
+58%
+Total
+52%
+68%
+Who applies toLevy amountCan claim back*
+50%
+2-4 staff
+44%
+63%
+ezis
+Who applies toLevy amountCan claim back*
+60%
+5-24 staff
+52%
+68%
+tnemhsil
+Who applies toLevy amountCan claim back*
+74%
+25-49 staff
+66%
+78%
+batsE
+Who applies toLevy amountCan claim back*
+79%
+50-99 staff
+76%
+86%
+Who applies toLevy amountCan claim back*
+87%
+100-249  staff
+84%
+92%
+Who applies toLevy amountCan claim back*
+89%
+250+ staff
+85%
+90%
+Base for 2019: All establishments in England and Wales aware of levy: Total (6,358), 2-4 (1,169), 5-24 (2,918), 25-49 (1,046), 50-99 (666), 100-249 (414), 250+ (145)* “Can claim back” = England only: Total (5,828), 2-4 (1,053), 5-24 (2,657), 25-49 (977), 50-99 (628), 100-249 (378), 250+ (135)
+Produced by IFF Research
+In England, where there is also a requirement to contribute 5% to the cost of an apprenticeship, awareness of this requirement was lower than awareness of the levy, despite it applying to more employers. Just over a quarter (27%) of those aware of apprenticeships were aware that they needed to contribute 5% of costs, though this was much higher among those with 25 or more staff (47%) and those in Education (50%). 
+Within England, an additional policy reform was that training providers receive a premium for recruiting apprentices from deprived areas. Fewer than a quarter of those aware of apprenticeships were aware of this (22%); and this was the reform with the lowest level of awareness. Finally, over a third (35%) knew that a minimum of 20% of the apprentices’ paid hours needed to be allocated to off-the-job training.  
+Figure 5-3 shows that awareness was far higher among larger establishments, despite these elements of the reforms being relevant to all employers. 
+53 
+[Page #53]
+Figure 5-3 Awareness of other reforms affecting England only among employers aware of apprenticeships, by establishment size 
+5% contributionProviders' premium20% off-the-job training
+27%
+Total
+22%
+35%
+5% contributionProviders' premium20% off-the-job training
+22%
+2-4 staff
+20%
+29%
+ezistnemhsil
+5% contributionProviders' premium20% off-the-job training
+29%
+5-24 staff
+22%
+37%
+5% contributionProviders' premium20% off-the-job training
+41%
+25-49 staff
+28%
+batsE
+49%
+5% contributionProviders' premium20% off-the-job training
+48%
+50-99 staff
+34%
+59%
+5% contributionProviders' premium20% off-the-job training
+58%
+100-249 staff
+41%
+71%
+5% contributionProviders' premium20% off-the-job training
+64%
+250+ staff
+51%
+78%
+Base for 2019: All establishments aware of apprenticeships in England: Total (13,188), 2-4 (3,156), 5-24 (6,599), 25-49 (1,801), 50-99 (969), 100-249 (499), 250+ (164)
+Produced by IFF Research
+There was also considerable variation by sector. Table A.5.4 in Appendix A shows the full details of subgroup differences to these questions but in summary: 
+•  Awareness in the Primary sector & Utilities and the Wholesale and Retail sector 
+was consistently lower than average; and 
+•  Awareness was consistently higher than average in the Education, Health and 
+Social Work, Public Administration, and Arts and Other sectors. 
+These results are, in part, due to differences in the size profile of these sectors. For instance, IDBR population data shows that in England, the Education (56%), Public Administration (60%) and Health and Social Work (79%) sectors had the lowest proportion of sites with fewer than 25 employees (this compares with 90% across the UK business population); it is these smaller establishments where awareness was particularly low. However, these sector differences cannot be solely attributed to establishment size; for example, despite high levels of awareness in the Arts and Other sector, it has a relatively high proportion of establishments with fewer than 25 employees (94%). 
+54 
+[Page #54]
+Impact of the apprenticeship reforms to date  
+Employers were asked whether the apprenticeship reforms to date had impacted on their apprenticeship offering. Overall just under a quarter (23%) of employers that were aware of any of the recent apprenticeship reforms and currently offered apprenticeships said there had been changes in the apprenticeship offering at the site.  This was most commonly changes to the proportion of apprenticeship starts that have been undertaken by existing employees since May 2017 (14% of employers in England that offered apprenticeships and were aware of the apprenticeship reforms), and changes to the overall number of apprentices at the site (12%).  
+As Figure 5-4 shows, the impact on overall apprenticeship numbers tended to be employers increasing numbers, with 6% having increased their apprenticeship numbers and 1% starting to offer apprenticeships as a result of the reforms.25 These changes were far more common among large employers, with 23% of those with 100 or more staff having increased their numbers and 3% having started offering apprenticeships. The recent Apprenticeships Evaluation Employer Survey (2018-19) asked similar questions in relation to the apprenticeship reforms and its impacts. ESS 2019 found a greater proportion of employers in England reporting ‘no change’ in apprentice numbers as a result of the reforms (83% of those aware of any of the reforms that offered apprenticeships vs. 76% in the Apprenticeships Evaluation Survey) and hence fewer reporting increases in apprenticeship numbers (7% vs. 13%) or decreases (3% vs. 7%). Overall though the ‘net’ change (the proportion reporting an increase minus those reporting a decrease) was very similar across the two surveys.26 
+Among those employers that had changed whether apprenticeships were offered to existing staff, more commonly establishments reported they had either started offering (1%) or had increased offering (5%) to existing staff than they had decreased or stopped; again the changes were most notable among large employers (among those with 100 or more staff 4% had started, and 17% had increased the proportion of apprenticeships offered to existing staff).  
+Fewer had changed the number of managers starting apprenticeships (7%) or the number of apprenticeship starts in subjects relating to activities outside of the establishments core business (8%); figures here are based on employers in England that offered apprenticeships and were aware of the apprenticeship reforms. 
+26 DfE, Apprenticeship evaluation 2018 to 2019: employer survey, p.123 (2020). Note, the Apprenticeship Evaluation included only employers that had recently had individuals complete an apprenticeship (between 1st February and 30th September 2017). In contrast, the Employer Skills Survey is a representative sample of all employers. As a result,  caution should be applied when comparing result between the two studies. 
+55 
+[Page #55]
+The number of managers starting apprenticeships and the number offered in subjects outside of the establishments’ core business have each increased in 3% of establishments, and 1% have started offering them to managers as a result of the reforms (figures based on employers on England aware of the reforms and which offered apprenticeships). 
+Full detail on differences by subgroup can be seen in Appendix A, Table A.5.5 to Table A.5.8. 
+Figure 5-4 Changes in numbers of apprentices in different categories as result of reforms 
+23% mentioned any impact on their apprenticeship offering
+The overall number of apprenticesBase A
+1%
+2%
+6%
+1%
+2%
+The proportion of all apprenticeship starts since May2017 that have been undertaken by existing staffBase B
+1%
+2%
+5%
+1%
+5%
+The number of managers put on apprenticeships
+1%
+3%
+1%
+2%
+<1%
+Base B
+The number of apprenticeship starts in subjectsrelating to activities outside your core businessBase B
+1%
+1%
+3%
+1%
+2%
+Decreased numbers
+Stopped offering
+Increased numbers
+Started offering
+Don't know
+Base A: All establishments in England and Wales that offer apprenticeships and had heard of the reforms (3,220)Base B: All establishments in England that offer apprenticeships and had heard of the reforms (3,057)
+Produced by IFF Research
+56 
+[Page #56]
+6.  Future engagement in apprenticeships 
+Chapter summary 
+Although plans are likely to have been heavily affected by Covid-19, data collected prior to the pandemic indicated potential growth in apprenticeships. Three in ten (30%) establishments had planned to offer apprenticeships in the future, compared with 18% that offer them currently. The vast majority (87%) of those that already offered apprenticeships planned to continue doing so, while a fifth (18%) of those that did not offer apprenticeships planned to start offering them. Results are similar to those reported historically, showing that employer intentions to offer apprenticeships do not always materialise. 
+Large employers offering apprenticeships were particularly likely to have planned to continue offering apprenticeships (96% of sites with 100 plus staff, though even among those with 2 to 4 staff the figure was 81%). Large employers not offering apprenticeships currently were also more likely than smaller employers to start offering apprenticeships (38% of employers with 100 or more staff, compared with 15% of those with 2 to 4 staff). Employers in the Education sector were most likely to intend to offer apprenticeships in the future; 92% of those currently offering them planned to continue doing so, and 27% of those that did not offer them planned to start. 
+Employers that had planned to start offering apprenticeship most commonly mentioned reasons relating to acquiring talent (62%), including apprenticeships being a good way to get skilled staff (33%) and ensuring young people continued to enter the industry (22%). A fifth (20%) mentioned altruistic reasons, in particular seeing them as a good way to give young people a chance (17%). 
+The main reasons why employers planned to stop offering apprenticeships included them not looking to recruit new staff (41%), not being able to afford apprentices (17%) and apprenticeships not being suitable due to the size of their establishment (14%, up from 6% in 2016). A fifth (20%) were actively choosing to stop, for instance, because past apprentices were of a poor standard (10%), while 7% of those planning to stop said this was due to recent reforms. 
+Among employers that offered apprenticeships and planned to continue doing so, three in ten (30%) expected numbers to increase in the next two years, mainly due to expectations that their business would grow (39%). Just 4% expected apprenticeship numbers to decrease, although these plans could change in response to the Covid-19 pandemic. 
+57 
+[Page #57]
+Introduction 
+So far, this report has explored the current market for apprenticeships. This chapter looks at what the demand might be for the future by asking employers their plans for offering apprenticeships in the future. This includes whether they intend to begin offering apprenticeships, stop offering apprenticeships and any expected changes to the numbers of apprentices they employ over the next two years. This section also explores employers’ reasons for these anticipated changes.  
+Given that survey fieldwork took place some months prior to the Covid-19 pandemic, results that present a picture of employers’ future intentions in relation to apprenticeships are likely to have changed radically. Caution should therefore be taken in interpreting these findings. However, the results provide a useful picture of how future intentions at the time had changed compared with 2016 and provide a pre-Covid-19 baseline on which to compare future survey findings. 
+Future demand for Apprenticeships 
+Overall, 30% of all establishments reported at the time they were interviewed that they planned to offer apprenticeships in the future. Of those that had apprenticeships or offered them, the majority (87%) planned to continue doing so, while approaching a fifth (18%) of those that were not currently offering apprenticeships reported that they planned to do so in the future. This was in line with figures seen in 2016. 
+Figure 6-1 Future plans for apprenticeship offerings 
+All establishments
+Base: 16,070
+Offers apprenticeships 18%
+Does not offer apprenticeships82%
+Whether plan to offer in future?
+Whether plan to offer in future?
+7%
+18%
+6%
+19%
+Yes, plan to offer in future
+No
+Don’t know
+64%
+87%
+Base: 4,286
+Base: 11,784
+30% of all establishments plan to offer apprenticeships in future
+Produced by IFF Research
+58 
+[Page #58]
+Large employers offering apprenticeships were particularly likely to have planned to continue offering apprenticeships (96% of sites with 100 plus staff, though even among those with 2-4 staff the figure was 81%), as were employers in the Education (92%), Health and Social Work (90%) and Business Services (90%) sectors. Employers in the Construction sector were the least likely to have planned to continue their involvement in apprenticeships (80%). 
+Among those not offering apprenticeships it was again the larger employers that were most likely to say they planned to do so in future (38% of employers with 100 or more staff compared with 15% of those with fewer than 5 staff). Employers not offering apprenticeships in the Education (27%) and the Information and Communications (24%) sectors were most likely to have planned to do so in future. 
+Another key factor was whether employers had offered apprenticeships at all in the last three years. Among those that had, but did not offer them at the time of interview, nearly half (46%) planned to do so again in future, compared with just 15% of employers that had not offered apprenticeships at all in the last three years. This may suggest that those that had recent experiences of offering apprenticeships had generally positive experiences but did not routinely need apprentices.  
+It is also important to understand the 6% of employers that offered apprenticeships but planned to stop doing so. This group were predominantly small establishments (92% were establishments with fewer than 25 employees, compared with 73% among those that planned to continue offering apprenticeships). This could again indicate that these businesses use apprenticeships on an infrequent basis and had no need to take on another apprentice in the immediate future. This is borne out in the main reasons given for planning to stop offering apprenticeships, such as not looking to recruit staff (covered in the next section). The proportion that offered apprenticeships but planned to stop doing so was particularly high among establishments with 2 to 4 employees (10%) and the Construction sector (16%). 
+It is known from previous editions of the Employer Perspectives Survey series that employers’ stated intentions for offering apprenticeships in the future do not necessarily materialise, at least not to their fullest extent. In each Employer Perspectives Survey iteration since 2012 around a third of all establishments reported that they were planning to offer apprenticeships in the future, yet, as reported at the start of this chapter, the proportion of establishments offering apprenticeships in 2019 is just 18% (and the proportion offering apprenticeships has not changed markedly over the 2012-2019 period).  
+59 
+[Page #59]
+The 30% of employers this year stating that they planned to offer apprenticeships in future is very similar to the third of establishments saying the same in 2012, 2014 and 2016, therefore, taking out Covid-19 factors, overall there were no signs of significant growth in terms of the proportion of employers investing in apprenticeships. Nevertheless, the EPS data on employer intentions to offer apprenticeships in future establishes the market potential for employer engagement with apprenticeships and identifies the types of establishment most positively predisposed towards apprenticeships. We look at the extent of potential growth among those involved in the sections below. 
+Full size and sector breakdowns can be found in Appendix A, Table A.6.1, and an indication of the volume of establishments this affects in Table A.6.2. 
+Reasons for planning to enter or exit the apprenticeships market 
+Earlier in this report we explored the reasons establishments that were relatively new to offering apprenticeships had started offering apprenticeships, and reasons other establishments were not currently engaged in apprenticeships. This section looks at the reasons why establishments planned to enter or exit the apprenticeship market to gain a deeper understanding of the drivers and barriers to engaging with apprenticeships. As was mentioned at the beginning of this chapter, these results reflect employer positions prior to the outbreak of Covid-19, which are likely to substantially impact apprenticeship and wider recruitment plans. 
+Recruitment was first and foremost in many minds of employers planning to start offering apprenticeships. A third (33%) saw apprenticeships as a good way to get skilled staff, a fifth recognised that they help ensure young people continue to enter the company or industry (22%) and a similar proportion said they were looking to expand their business (19%). Overall just over three-fifths (62%) gave reasons related to the need to acquire new talent (62%). 
+Altruistic reasons were also fairly common, with a fifth (20%) mentioning a reason related to helping young people into work or helping the community. 
+Around one in six (17%) mentioned reasons relating to the potential for apprenticeships to nurture their existing talent, for example wanting to upskill current staff, the potential for shaping their own framework and training people to their specific needs. 
+60 
+[Page #60]
+The apprenticeship levy was mentioned by very few (1%), although this rose to 10% among establishments with 100 or more staff. This equates to around 3,600 employers in total that were planning to start apprenticeships in part due to the introduction of the apprenticeship levy, lower than the volume (c. 5,100) that said they have already started offering apprenticeships in response to the levy introduction, suggesting most who wanted to take action off the back of these changes have already done so. 
+Results are shown in Figure 6-2. The hierarchy of reasons as well as the overall figures are very similar to those seen in 2016.  
+Figure 6-2 Reasons for planning to start offering apprenticeships in future (unprompted) 
+33%
+Good way to get skilled staffEnsure young people continue to enter thecompany / industry
+22%
+62%
+19%
+We are looking to expand the business
+Acquiring talent
+17%
+Good way to give young people a chance
+2%
+To help people into workTo help the community / corporate socialresponsibility
+20%
+2%
+Altruistic
+6%
+Want to upskill current staffWe could shape our own apprenticeshipframework
+4%
+Other reasons notcategorised (mentioned by 1% or more):
+3%
+To train people from scratch / to our needs
+17%
+3%
+Demand among existing staffTo improve general skills/knowledge of newand existing staffImprove staff morale / retention
+2%
+••
+Head office decision (1%)Encouraged to do so by training providers (1%)
+Nurturing Talent
+1%
+3%
+Availability of grants
+5%
+2%
+Good value for money / cost effective
+Financial
+1%
+Because of the apprenticeship levy
+Base: All establishments that plan to start offering apprenticeships in future (2,475). Note: multiple responses were allowed.
+Produced by IFF Research
+On the other side of the coin are the employers that offered apprenticeships, but had planned to stop doing so in future. Results are shown in Figure 6-3. 
+61 
+[Page #61]
+Low demand for new staff was clearly a key driver: two-fifths (41%) said their reason for stopping offering apprenticeships was they were not looking to recruit new staff. Others said they could not afford to take on more apprentices (17%) or that they have found apprenticeships were not suitable for their size (14%). In all, perceived structural barriers to the way apprenticeships are structured and/or implemented were a factor for two-thirds of establishments that had planned to stop offering them. 
+A fifth (20%) of those that had planned to stop offering apprenticeships were actively choosing to due to bad experiences or simply that, on reflection, they prefer other methods of ensuring they have skilled staff. One in ten (10%) had been put off by having past apprentices that were of a poor standard and 7% say their staff are fully skilled so there is no need for them to put staff on apprenticeships.  
+Some employers (7%) gave reasons for stopping offering apprenticeships relating to the apprenticeship reforms: 7% by the requirement to make a contribution to the costs and 4% by the requirement that 20% of paid hours must be spent on off-the-job training. 
+Figure 6-3 Reasons for planning to stop offering apprenticeships (unprompted) 
+Not looking to recruit new staff
+41%
+Cannot afford to
+17%
+Apprenticeships are not suitable for oursize
+14%
+66%
+Takes too much time
+3%
+Apprenticeships are not offered for ourindustry
+1%
+Bureaucracy
+1%
+Perceived structural barriers
+Past apprentices were of a poorstandard
+10%
+No need as all staff are fully skilled
+7%
+20%
+Prefer to recruit experienced staff
+2%
+Prefer other forms of training
+1%
+Actively choosing to stop offering
+Bad experience of training providers inthe past
+1%
+Apprentices tend to leave soon aftertheir training
+1%
+Recent reforms (having to contribute tocost)Recent reforms (20% of working hourshas to be off-job training)
+7%
+7%
+4%
+Reforms
+Responses do not sum to 100% as ‘other’, ‘no particular reason’ and ‘don’t know’ are not shownBase: All establishments that plan to stop offering apprenticeships in future (178)Note: multiple responses allowed. Some responses with 1% or fewer not shown
+Produced by IFF Research
+62 
+[Page #62]
+The reasons for planning to stop offering apprenticeships were very similar to those given in 2016. The one exception is an increase in the proportion saying apprenticeships are not suitable due to the size of the business (from 6% to 14% in 2019). This finding accompanies results which show a reduction in apprenticeship uptake among the smallest establishments with 2 to 4 employees and an increase among larger establishments (see Chapter 2). 
+Expected change in apprentice numbers  
+We have discussed how 30% of establishments expected, at the time of the survey, to offer apprenticeships in future. Whilst around half of these (14% of all employers) would have been new entrants to the apprenticeship market, the other half (16% of all employers) already had apprentices or offered apprenticeships. This section briefly explores which groups of employers were most likely to expect apprentice numbers to increase at the time of interview. While the picture is likely to change as a result of the Covid-19 pandemic, exploring variations by subgroup and historical comparisons may provide some indication of which employer groups have the greatest appetite to increase their use of apprenticeships. 
+Among employers that offered apprenticeships and planned to continue doing so, three in ten (30%) expected the number of apprentices at their site to increase in the next two years, compared with 4% that expected it to decrease. The majority, approaching two-thirds (64%), expected the number to remain about the same. These results have not changed from those reported in 2016. 
+Larger employers were much more likely to have expected numbers to increase than smaller employers (64% of those with 250 or more staff compared with 19% of those with 2-4 staff). There were also differences by sector. Expectations that apprentice numbers would increase at the time of interview were most common among establishments in the Hotels and Restaurants (50%) and Public Administration (46%) sectors,  while employers in Education (19%) and Construction (23%) sectors were less likely than average to have expected an increase, matching patterns reported in 2016. 
+The overall proportion in 2019 that expected to see an increase in apprenticeship numbers was the same, at 30%, as it was in 2016. However, there have been changes in how employers of different sizes expected their apprenticeship numbers to change in future. Table 6-1 shows that whilst large employers were equally likely to have expected apprenticeship numbers to increase, small employers with 2 to 4 staff were far less likely to. 
+63 
+[Page #63]
+Table 6-1 Expectations that the number of apprentices at the site will increase, by size of establishment, comparing 2016 and 2019 
+% expecting number of apprentices to increase 
+Base 2016/2019 
+2016 
+2019 
+% 
+% 
+2,003/2,358 
+30 
+30 
+Size 
+170/118 
+30 
+19* 
+2-4 staff 
+758/1,011 
+27 
+26 
+5-24 staff 
+354/501 
+30 
+35 
+25-49 staff 
+237/343 
+31 
+34 
+50-99 staff 
+273/258 
+39 
+46 
+100-249 staff 
+211/127 
+56 
+64 
+250+ staff 
+Where ‘*’ is shown alongside the 2019 figure, it means the change from 2016 is significant at the 95% confidence level. 
+Reasons for expected change in apprentice numbers 
+The most common reason for expecting an increase in apprenticeship numbers was business growth, mentioned by 39% of establishments (rising to 44% of smaller firms with fewer than 50 staff; in comparison it was a factor for 28% of those with 50 or more staff). Around one in six (16%) said they were seeing higher demand for apprenticeship positions, and a similar proportion (15%) said good experiences of apprenticeships so far made them want to expand their offer.  
+Whilst just 5% overall mentioned the apprenticeship levy as a reason for planning to increase the number of apprentices they had, this increased to 16% of employers with 100 or more staff suggesting they are looking to maximise the return on the levy payment towards their own apprenticeship costs. 
+64 
+[Page #64]
+Employers that were not expecting any change in their apprenticeship numbers most commonly said this was because they were happy with what they were offering at the moment and they had no business need to change it (34%). Second most common was that they were not looking to recruit new staff (14%), showing that many businesses still associate apprenticeships primarily with new recruits. Similarly, 12% said it was because of a lack of business growth; this was particularly common among establishments with fewer than 5 staff (20%). Around one in ten (9%) said they could not currently afford to increase numbers and the same proportion said they did not have the resources for more apprentices. The reasons for expecting numbers to remain constant were similar to those given in 2016. 
+Reasons for expecting a decrease in apprenticeship numbers were tied largely to recruitment, with 29% saying they were not looking to recruit new staff so would not be taking on any more apprentices. Around one in five (18%) said there was just not the demand for apprenticeship positions and one in six (16%) that their staff were all fully skilled so they had no need to put them on apprenticeship programmes. One in eight (12%) said they could not afford to continue their apprenticeship programme. In 2016 current staff being fully skilled had been the top reason (given at 41%). While this is a significant decrease, the small base size at this question should be noted (81 employers in 2019 and 70 in 2016). 
+Figure 6-4 Reasons for expected increase or decrease in apprenticeship numbers (unprompted) 
+Reasons for expected increase in apprentice number
+Reasons for expecting apprentice numbers to decrease
+We are not looking to recruitnew staff
+39%
+Business growth
+29%
+Increased demand forapprenticeship positions
+16%
+Lack of demand forapprenticeship positions
+18%
+Good experiences ofapprenticeships in the past
+15%
+All our staff are fully skilled, noneed
+To continue developing staff /improve their skills
+16%
+10%
+To increase staff numbers /replace existing staff
+5%
+We cannot currently afford tooffer more
+12%
+5%
+Effective method of recruitment
+Apprentices have not been of agood enough standard
+5%
+Introduction of the apprenticeshiplevy in 2017
+5%
+Base: all establishments that plan to decrease their number of apprentices over the next two years (81)
+Base: all establishments that expect to increase their number of apprentices over the next two years (749)
+Produced by IFF Research
+Note: only reasons mentioned by at least 5% of employers are shown on each chart.
+65 
+[Page #65]
+Conclusions  
+The Employer Skills Survey 2019 gives a first look at the initial impact of the apprenticeship funding reforms that came into effect in 2017. At the time of the survey the reforms had had 2 years to bed in, and employers in England that had paid the levy were approaching the point at which the first payments would expire if un-used (i.e. they would go to the government and no longer be available for the employer to use).  
+Whilst the overall proportion of establishments offering apprenticeships remained consistent between 2016 and 2019, the profile of employers offering them changed substantially. Smaller establishments became slightly less likely to offer them than in 2016; as in previous years this was mainly because they didn’t feel apprenticeships were suitable for their size of establishment but this group were also more likely to cite cost as a barrier than larger establishments. 
+The big change however was among larger establishments. Survey data shows that four-in-five establishments with 250 or more staff now offer apprenticeships, up from three-in-five in 2016, and there has also been a significant increase among those with 100-249 staff. Additionally, there has been a substantial rise in the number of apprentices as a proportion of the total number of staff in establishments with 250 or more staff. It is clear that more of these employers are offering apprenticeships, and to more people.  
+Employers in these size bands are, of course, the ones most likely to be paying the levy. Some establishments in the smaller size bands will be levy payers by virtue of either having highly paid staff or being part of a larger organisation that qualifies, but among these top two size bands the majority will be doing so, particularly among the 250+ size band. 
+Reasons for offering apprenticeships have historically centred on it being a good way to recruit skilled staff, and altruistic reasons such as giving young people a chance. Employers in these largest size bands that have started offering apprenticeships in the last 3 years (i.e. since details of the levy were announced), however, break this pattern. The levy is now the key motivator for this group, and there has been an equivalent fall in the proportion stating reasons relating to acquiring talent or altruism. 
+Still more of the largest employers expect to either start offering apprenticeships or expect to increase numbers as a result of the levy, but these numbers are small suggesting most who will take action have already done so. 
+66 
+[Page #66]
+A lot of this increase seems to have been in the form of employers offering apprenticeships to existing staff – the proportion doing so is up nearly 50% among large employers. It looks probable that employers are using their apprenticeship levy money to give skills and qualifications to current staff rather than because they think that apprenticeships are the best option for their staff or new recruits. It will also be key to examine in future work whether they are offering this as additional training or using it to replace other forms of training, we report in the core report that many of the measures of training have reduced between 2017 to 2019.  
+Awareness of the reforms is reasonably high for such a new initiative suggesting the message is permeating, and the reforms have had some impact on nearly a quarter of employers aware of them that currently offer apprenticeships, most commonly in the form of increasing their offering to existing employees in increasing their overall numbers. 
+Future potential for apprenticeships appears strong. Most employers that offered them at the time of the survey intended to continue to do so, and nearly a fifth of those that didn’t were considering it. Stated intentions, of course, do not always materialise into action, furthermore Covid-19 is already having a detrimental impact on the number of apprenticeship starts.27 Nevertheless, it is useful to know the potential market of those who would consider apprenticeships when the situation and timing is right for them. 
+27 Department for Education, Apprenticeships and Traineeships, England: update June 2020. 
+67 
+[Page #67]
+Appendix A: Supplementary tables  
+Table A.2.1 Base sizes for all establishments (2014-2019) 
+Northern Ireland 2016 2,007 
+Total 2016 14,019 
+England 2016 10,015 
+Wales 2016 1,997 
+2014 14,044 
+2019 16,070 
+2014 10,032 
+2019 13,358 
+2014 2,005 
+2019 1,008 
+2014 2,007 
+2019 1,704 
+Total Size 2 to 4 5 to 24 25 to 49 50 to 99 100 to 249 250+ Sector Primary Sector & Utilities Manufacturing Construction Wholesale & Retail Hotels & Restaurants Transport & Storage Information & Communications Financial Services Business Services Public Admin. Education Health & Social Work  Arts & Other Services 
+3,344 6,438 1,911 1,029 889 433 
+3,293 6,714 1,818 961 836 397 
+3,908 8,080 2,146 1,153 592 191 
+2,317 4,580 1,336 740 707 352 
+2,261 4,814 1,339 670 628 303 
+3,215 6,676 1,818 979 504 166 
+524 940 260 155 86 40 
+521 958 245 151 87 45 
+244 522 122 75 31 14 
+503 918 315 134 96 41 
+511 942 234 140 121 49 
+449 882 206 99 57 11 
+669 1,011 1,202 2,755 1,234 432 516 419 2,000 342 936 1,567 961 
+609 878 960 3,086 1,344 382 528 304 2,412 294 818 1,560 844 
+559 1,196 1,024 3,516 1,429 442 520 323 3,053 175 1,047 1,606 1,180 
+440 738 902 1,875 854 328 383 313 1,568 214 667 1,070 680 
+375 612 656 2,072 991 267 445 220 1,934 209 572 1,066 596 
+439 992 842 2,906 1,168 358 470 289 2,690 133 822 1,289 960 
+96 139 148 449 173 53 63 56 202 68 153 258 147 
+120 124 161 531 131 56 40 46 246 34 139 252 127 
+48 88 86 232 78 32 20 14 113 10 90 104 93 
+133 134 152 431 207 51 70 50 230 60 116 239 134 
+114 142 143 483 222 59 43 38 232 51 107 242 121 
+72 116 96 378 183 52 30 20 250 32 135 213 127 
+[Page #68]
+Table A.2.2 Base sizes for all establishments that have / offer apprenticeships 
+2014 
+2016 
+2019 
+Total 
+2,970 
+3,447 
+4,286 
+Country 
+England 
+2,352 
+2,683 
+3,726 
+Northern Ireland 
+255 
+326 
+189 
+Wales 
+363 
+438 
+371 
+Size 
+2 to 4 
+277 
+364 
+369 
+5 to 24 
+1,169 
+1,497 
+2,050 
+25 to 49 
+530 
+601 
+863 
+50 to 99 
+353 
+358 
+504 
+100-249 
+393 
+375 
+349 
+250+ 
+248 
+252 
+151 
+Sector Primary Sector & Utilities 
+71 
+90 
+79 
+Manufacturing 
+308 
+300 
+371 
+Construction 
+327 
+335 
+371 
+Wholesale & Retail 
+434 
+622 
+829 
+Hotels & Restaurants 
+290 
+326 
+397 
+Transport & Storage 
+80 
+77 
+83 
+Information & Communications 
+76 
+114 
+85 
+Financial Services 
+63 
+54 
+59 
+Business Services 
+391 
+493 
+729 
+Public Admin. 
+87 
+93 
+46 
+Education 
+297 
+307 
+427 
+Health & Social Work  
+352 
+437 
+505 
+Arts & Other Services 
+194 Base: All establishments with current apprentices and able to say how many (Module A) 
+199 
+305 
+[Page #69]
+Table A.2.3 Base sizes for Tables 2-2 and 2-3 (2016-2019) 
+All establishment with apprentices 
+All establishments  
+2016 13,997 
+2019 16,050 
+2016 2,251 
+2019 2,598 
+Total Country England Northern Ireland Wales Size 2 to 4 5 to 24 25 to 49 50 to 99 100 to 249 250+ Sector Primary Sector & Utilities Manufacturing Construction Wholesale & Retail Hotels & Restaurants Transport & Storage Information & Communi-
+9,999 2,003 1,995 
+13,340 1,008 1,702 
+1,750 211 290 
+2,272 103 223 
+3,283 3,708 1,818 960 836 392 
+3,903 8,076 2,143 1,152 588 188 
+212 890 391 255 293 210 
+149 1,151 541 362 264 131 
+609 877 956 3,085 1,344 382 527 304 2,408 293 818 1,555 839 
+559 1,196 1,021 3,515 1,429 442 520 323 3,046 175 1,047 1,601 1,176 
+66 226 255 361 125 54 64 37 350 79 221 273 140 
+44 259 268 440 172 57 52 37 465 37 283 280 204 
+Financial Services Business Services Public Admin. Education Health & Social Work  Arts & Other Services Excludes employers that had apprentices but did not know how many
+70 
+[Page #70]
+Table A.2.4 Average number of apprentices employed at the time of the survey (June-December 2019) 
+Total number of current apprentices (to nearest 1000) 
+Average number of apprentices per establishment 
+Unweighted bases 
+Total 
+2,598 
+496,000 
+2.7 
+Country 
+England 
+2,272 
+466,000 
+2.7 
+Northern Ireland 
+103 
+11,000 
+3.1 
+Wales 
+223 
+20,000 
+2.3 
+Size 
+2 to 4 
+149 
+37,000 
+1.0 
+5 to 24 
+1,151 
+133,000 
+1.5 
+25 to 49 
+541 
+58,000 
+2.3 
+50 to 99 
+362 
+61,000 
+3.8 
+100-249 
+264 
+62,000 
+4.9 
+250+ 
+131 
+145,000 
+19.0 
+Sector Primary Sector & Utilities 
+44 
+14,000 
+3.0 
+Manufacturing 
+259 
+56,000 
+4.2 
+Construction 
+268 
+47,000 
+1.8 
+Wholesale & Retail 
+440 
+53,000 
+1.7 
+Hotels & Restaurants 
+172 
+22,000 
+1.9 
+Transport & Storage 
+57 
+14,000 
+3.0 
+Information & Communications 
+52 
+13,000 
+3.0 
+Financial Services 
+37 
+15,000 
+5.2 
+Business Services 
+465 
+116,000 
+3.1 
+Public Admin. 
+37 
+23,000 
+7.4 
+Education 
+283 
+28,000 
+2.2 
+Health & Social Work  
+280 
+62,000 
+3.9 
+Arts & Other Services 
+204 
+33,000 
+1.7 
+Base: All establishments with current apprentices and able to say how many (Module A) 
+[Page #71]
+Table A.2.5 The top six reasons why establishments started to offer apprenticeships by country and size 
+/
+rokrowemarfphsecitnerppA
+tnerruc
+yrtsudn
+ffatsde
+tneatgniriuqcA
+gnebyveLphsecitnerppA
+tneatgnirutruN
+nworuoepahsduoceW
+epoepgnuoyerusneoT
+gnuoyevgotyawdooG
+l
+i
+l
+l
+citsurtla:yrammuS
+l
+n
+7102n
+acnanif
+i
+sesabdehgewnU
+i
+ehtgnitapcitnA
+ecnahcaepoep
+lli
+i
+lli
+tnemyopme
+i
+eht
+kstegotyawdooG
+kspuotdetnaweW
+ynapmoc
+dradnats
+i
+i
+ffats
+retneoteunitnoc
+decudortn
+:yrammuS
+Row percentages 
+i
+% 
+t
+i
+l
+i
+:yrammuS
+:yrammuS
+i
+l
+l
+i
+Total 2016 
+1,203 
+39 
+20 
+14 
+8 
+% 
+N/A 
+7 
+48 
+25 
+22 
+12 
+Total 2019 
+1,148 
+37 
+20 
+19 
+10 
+% 
+6 
+4 
+50 
+21 
+23 
+9 
+Country 
+England 
+1,030 
+38 
+19 
+19 
+9 
+% 
+6 
+4 
+50 
+21 
+23 
+10 
+Northern Ireland 
+34 
+48 
+17 
+26 
+13 
+% 
+0 
+0 
+60 
+16 
+17 
+8 
+Wales 
+84 
+26 
+36 
+19 
+18 
+% 
+1 
+6 
+42 
+30 
+38 
+7 
+Size 
+2 to 4 
+88 
+39 
+21 
+26 
+4 
+% 
+0 
+4 
+58 
+18 
+26 
+2 
+5 to 24 
+526 
+36 
+21 
+17 
+10 
+% 
+3 
+4 
+47 
+21 
+23 
+7 
+25 to 49 
+224 
+41 
+21 
+17 
+13 
+% 
+5 
+3 
+49 
+23 
+24 
+8 
+50 to 99 
+150 
+42 
+15 
+17 
+13 
+% 
+16 
+2 
+50 
+27 
+17 
+22 
+100-249 
+119 
+34 
+12 
+16 
+19 
+% 
+24 
+4 
+44 
+27 
+14 
+31 
+250+ 
+41 
+20 
+15 
+11 
+17 
+% 
+43 
+2 
+25 
+24 
+27 
+47 
+Base: All establishments that have started offering apprenticeships in the last three years (Module A) 
+[Page #72]
+Table A.2.6 Reasons for not offering apprenticeships 
+Northern Ireland 
+Total  England 
+Wales 
+Reasons for not currently offering apprenticeships 
+11,784 % 
+9,632 % 
+1,333 % 
+819 % 
+They are not suitable due to the size of establishment 
+20 
+21 
+17 
+13 
+We are not looking to recruit new staff 
+18 
+18 
+22 
+9 
+All our staff fully skilled, no need 
+13 
+13 
+14 
+13 
+Apprenticeships are not offered for our industry 
+9 
+8 
+16 
+11 
+We cannot currently afford to 
+8 
+8 
+7 
+9 
+Prefer to recruit experienced staff 
+6 
+6 
+5 
+5 
+Don't suit our business model 
+6 
+6 
+6 
+10 
+Never have before so haven't considered it 
+6 
+5 
+6 
+8 
+Don't have time to train them 
+5 
+5 
+5 
+3 
+No need (unspecified) 
+4 
+4 
+3 
+7 
+Don't have the work to offer them 
+3 
+3 
+3 
+4 
+Regulatory or bureaucratic restrictions or requirements 
+3 
+3 
+3 
+1 
+Decision made by Head Office / someone else 
+2 
+2 
+3 
+2 
+Prefer other forms of training 
+2 
+2 
+3 
+3 
+We don't have the resources (various) 
+2 
+2 
+1 
+2 
+Past apprentices have not been of a good standard 
+2 
+2 
+2 
+1 
+Not relevant to business 
+2 
+2 
+1 
+3 
+Summary of reasons 
+62 
+62 
+65 
+54 
+Structural 
+32 
+32 
+30 
+37 
+Active choice 
+12 
+13 
+9 
+9 
+Lack of awareness Base: All establishments that do not offer formal apprenticeships (Module A) 
+[Page #73]
+Table A.2.7 The top six reasons for not offering apprenticeships by country and size  
+ssenerawafokcaL:yrammuS
+otdroffayltnerructonnaceW
+decneirepxetiurcerot
+tiurcerotgnkoo
+oteudebatiustonerayehT
+on
+tnemhs
+ecohcevitcA
+tonerasphsecitnerppA
+yrtsudn
+,
+l
+de
+i
+arutcurtS
+sesabdehgewnU
+lli
+l
+ksy
+il
+ffatswen
+i
+batsefoeziseht
+ruorofdereffo
+deen
+ffats
+i
+i
+ll
+Row percentages 
+% 
+uf
+:yrammuS
+t
+:yrammuS
+ffatsruo
+l
+i
+toneraeW
+referP
+ll
+A
+Total 2014 
+10,696 
+% 
+21 
+15 
+14 
+7 
+8 
+7 
+56 
+33 
+10 
+Total 2016 
+10,571 
+% 
+20 
+19 
+13 
+8 
+7 
+7 
+61 
+33 
+9 
+Total 2019 
+11,784 
+% 
+20 
+18 
+13 
+9 
+8 
+6 
+62 
+32 
+9 
+Country 
+England 
+9,632 
+% 
+21 
+18 
+13 
+8 
+8 
+6 
+62 
+32 
+9 
+Northern Ireland 
+819 
+% 
+13 
+9 
+13 
+11 
+9 
+5 
+54 
+37 
+13 
+Wales 
+1,333 
+% 
+17 
+22 
+14 
+16 
+7 
+5 
+65 
+30 
+12 
+Size 
+2 to 4 
+3,539 
+% 
+25 
+22 
+15 
+7 
+9 
+5 
+66 
+31 
+9 
+5 to 24 
+6,030 
+% 
+15 
+14 
+12 
+11 
+5 
+7 
+57 
+33 
+10 
+25 to 49 
+1,283 
+% 
+7 
+8 
+7 
+14 
+7 
+9 
+48 
+32 
+12 
+50 to 99 
+649 
+% 
+5 
+8 
+8 
+12 
+7 
+8 
+49 
+31 
+10 
+100 to 249 
+243 
+% 
+6 
+9 
+7 
+8 
+8 
+5 
+44 
+32 
+11 
+250+ Base: All establishments that do not offer formal apprenticeships (Module A) 
+40 
+% 
+0 
+7 
+14 
+15 
+5 
+12 
+45 
+29 
+9 
+[Page #74]
+Table A.2.8 The top six reasons for not offering apprenticeships by sector  
+ecohcevitcA
+,
+tonerasphsecitnerppA
+yrtsudn
+de
+otgnkoo
+ebatiustonerayehT
+l
+yltnerructonnaceW
+i
+arutcurtS
+l
+fokcaL:yrammuS
+lli
+ffatsdecneirepxe
+foezisehtoteud
+ffatswentiurcer
+sesabdehgewnU
+tiurcerot
+ksy
+tnemhs
+i
+ssenerawa
+otdroffa
+deenon
+i
+ll
+ruorofdereffo
+uf
+i
+l
+Row percentages 
+% 
+toneraeW
+:yrammuS
+il
+ffatsruo
+t
+batse
+referP
+:yrammuS
+i
+ll
+A
+Total 2014 
+10,696 
+21 
+% 
+15 
+14 
+7 
+8 
+7 
+56 
+33 
+10 
+Total 2016 
+10,571 
+20 
+% 
+19 
+13 
+8 
+7 
+7 
+61 
+33 
+9 
+Total 2019 
+11,784 
+20 
+% 
+18 
+13 
+9 
+8 
+6 
+62 
+32 
+9 
+Sector Primary Sector & Utilities 
+480 
+17 
+% 
+26 
+16 
+7 
+11 
+5 
+65 
+34 
+8 
+Manufacturing 
+825 
+18 
+% 
+21 
+18 
+10 
+8 
+6 
+62 
+36 
+8 
+Construction 
+653 
+22 
+% 
+24 
+17 
+3 
+11 
+7 
+64 
+37 
+7 
+Wholesale & Retail 
+2,687 
+17 
+% 
+17 
+13 
+10 
+6 
+5 
+59 
+29 
+10 
+Hotels & Restaurants 
+1,032 
+16 
+% 
+16 
+15 
+8 
+6 
+5 
+54 
+33 
+16 
+Transport & Storage 
+359 
+23 
+% 
+17 
+14 
+14 
+6 
+7 
+60 
+34 
+8 
+Information & Communications 
+435 
+27 
+% 
+16 
+8 
+6 
+10 
+8 
+63 
+29 
+9 
+Financial Services 
+264 
+24 
+% 
+25 
+16 
+10 
+2 
+11 
+60 
+35 
+9 
+Business Services 
+2,324 
+25 
+% 
+19 
+13 
+9 
+8 
+7 
+67 
+32 
+7 
+Public Admin. 
+129 
+12 
+% 
+11 
+8 
+16 
+6 
+8 
+58 
+33 
+10 
+Education 
+620 
+19 
+% 
+16 
+9 
+11 
+17 
+7 
+65 
+28 
+8 
+Health & Social Work  
+1,101 
+14 
+% 
+10 
+11 
+11 
+8 
+8 
+51 
+31 
+12 
+Arts & Other Service 
+875 
+22 
+% 
+15 
+11 
+12 
+10 
+4 
+66 
+29 
+11 
+Base: All establishments that do not offer formal apprenticeships (Module A
+[Page #75]
+Table A.2.9 Proportion of apprentices at site over past three years retained as permanent staff, by size and sector 
+Summary: Any retained 
+Unwtd Base:   
+All retained 
+Most retained 
+Some retained 
+None retained 
+Don’t know 
+Row percentages 
+4,255  % 
+44 
+13 
+13 
+28 
+Total 
+2 
+70 
+Size 
+449  % 
+2 to 4 
+37 
+7 
+10 
+45 
+1 
+54 
+2,063  % 
+5 to 24 
+49 
+11 
+14 
+24 
+2 
+74 
+816  % 
+25 to 49 
+48 
+17 
+17 
+16 
+3 
+82 
+470  % 
+50 to 99 
+43 
+22 
+16 
+16 
+3 
+81 
+320  % 
+100 to 249 
+45 
+25 
+17 
+11 
+3 
+86 
+137  % 
+250+ 
+35 
+44 
+15 
+2 
+3 
+94 
+Sector  
+% 
+Primary Sector & Utilities 
+92 
+44 
+6 
+9 
+38 
+2 
+60 
+365  % 
+Manufacturing 
+49 
+16 
+11 
+22 
+2 
+76 
+375  % 
+Construction 
+50 
+13 
+9 
+26 
+1 
+73 
+785  % 
+Wholesale & Retail 
+45 
+11 
+14 
+28 
+2 
+70 
+310  % 
+Hotels & Restaurants 
+44 
+9 
+12 
+33 
+2 
+66 
+% 
+Transport & Storage 
+89 
+50 
+10 
+16 
+24 
+1 
+75 
+Information & Communications 
+119  % 
+33 
+10 
+11 
+45 
+1 
+54 
+% 
+Financial Services 
+74 
+66 
+8 
+13 
+10 
+3 
+87 
+787  % 
+Business Services 
+44 
+11 
+11 
+31 
+3 
+66 
+% 
+Public Admin. 
+47 
+46 
+22 
+19 
+10 
+3 
+87 
+408  % 
+Education 
+40 
+17 
+16 
+25 
+2 
+73 
+482  % 
+Health & Social Work  
+41 
+19 
+16 
+23 
+1 
+76 
+322  % 
+Arts & Other Services 
+37 
+15 
+19 
+29 
+1 
+70 
+Base: All establishments that have hired apprentices in the past three years and have had completers (Module A) 
+[Page #76]
+Table A.3.1 Age ranges that establishments currently offer apprenticeships to (2016 comparison) 
+ANY YOUNG PEOPLE (AGED UNDER 25) 
+16 - 18 year olds 
+19 - 24 year olds 
+Those aged 25 or over 
+Unwtd Base (2016) 
+Unwtd Base (2019) 
+Row percentages 
+2016  2019  2016  2019  2016  2019  2016  2019 
+4,286  % 
+74 
+67 
+75 
+76 
+48 
+57 
+93 
+88 
+Total 
+3,447 
+Country 
+3,726  % % % 
+75 
+67 
+75 
+76 
+48 
+57 
+93 
+89 
+England 
+2,683 
+74 
+65 
+72 
+76 
+42 
+50 
+91 
+89 
+Northern Ireland 
+189 
+326 
+71 
+64 
+75 
+75 
+51 
+55 
+94 
+84 
+Wales 
+371 
+438 
+Size 
+% 2050  % % % % % 
+76 
+69 
+64 
+66 
+36 
+44 
+92 
+83 
+2 to 4 
+364 
+369 
+74 
+67 
+77 
+77 
+53 
+58 
+93 
+90 
+5 to 24 
+1497 
+74 
+64 
+83 
+85 
+56 
+67 
+96 
+91 
+25 to 49 
+601 
+863 
+72 
+62 
+84 
+87 
+55 
+69 
+95 
+92 
+50 to 99 
+358 
+504 
+73 
+62 
+85 
+87 
+52 
+77 
+95 
+90 
+100 to 249 
+375 
+349 
+72 
+65 
+91 
+84 
+63 
+72 
+95 
+89 
+250+ 
+252 
+151 
+Sector  
+% % % % % % % % % % % % % 
+87 
+83 
+47 
+69 
+26 
+45 
+92 
+90 
+Primary Sector & Utilities 
+90 
+79 
+82 
+73 
+78 
+79 
+40 
+56 
+94 
+91 
+Manufacturing 
+300 
+371 
+79 
+71 
+69 
+65 
+38 
+41 
+94 
+84 
+Construction 
+335 
+371 
+78 
+70 
+72 
+76 
+42 
+52 
+93 
+88 
+Wholesale & Retail 
+622 
+829 
+76 
+64 
+89 
+80 
+69 
+71 
+98 
+90 
+Hotels & Restaurants 
+326 
+397 
+70 
+57 
+77 
+87 
+49 
+56 
+91 
+95 
+Transport & Storage 
+77 
+83 
+73 
+67 
+90 
+86 
+39 
+58 
+100 
+94 
+Information & Communications 
+114 
+85 
+56 
+70 
+78 
+83 
+41 
+60 
+90 
+88 
+Financial Services 
+54 
+59 
+64 
+59 
+75 
+77 
+46 
+58 
+88 
+86 
+Business Services 
+493 
+729 
+68 
+75 
+77 
+90 
+56 
+87 
+88 
+92 
+Public Admin. 
+93 
+46 
+78 
+62 
+83 
+82 
+64 
+70 
+96 
+87 
+Education 
+307 
+427 
+62 
+54 
+83 
+84 
+72 
+75 
+92 
+89 
+Health & Social Work  
+437 
+505 
+61 
+68 
+41 
+46 
+94 
+94 
+Arts & Other Services Base: All establishments that have/offer apprenticeships (Module A) 
+305 
+199 
+85 
+83 
+77 
+[Page #77]
+Table A.3.2 Proportion of establishments that have or offer apprenticeships to people specifically recruited as apprentices, existing employees, or both 
+New employees recruited as ap-prentices 
+Unwtd Base: 
+  Existing em-
+Row percentages 
+Both 
+ployees 
+4,286  % 
+Total 
+52 
+87 
+41 
+Country 
+3,726  % % % 
+England 
+52 
+87 
+42 
+Northern Ireland 
+189 
+43 
+92 
+36 
+Wales 
+371 
+53 
+86 
+43 
+Size 
+% 2,050  % % % % % 
+2 to 4 
+369 
+36 
+89 
+30 
+5 to 24 
+52 
+89 
+42 
+25 to 49 
+863 
+65 
+85 
+52 
+50 to 99 
+504 
+66 
+84 
+52 
+100 to 249 
+349 
+77 
+77 
+54 
+250+ 
+151 
+75 
+83 
+59 
+Sector 
+% % % % % % % % % % % % % 
+Primary Sector & Utilities 
+79 
+42 
+84 
+31 
+Manufacturing 
+371 
+49 
+92 
+43 
+Construction 
+371 
+33 
+94 
+28 
+Wholesale & Retail 
+829 
+53 
+83 
+39 
+Hotels & Restaurants 
+397 
+72 
+83 
+57 
+Transport & Storage 
+83 
+49 
+80 
+31 
+Information & Communications 
+85 
+35 
+92 
+32 
+Financial Services 
+59 
+54 
+88 
+43 
+Business Services 
+729 
+49 
+91 
+41 
+Public Admin. 
+46 
+71 
+88 
+62 
+Education 
+427 
+62 
+89 
+52 
+Health & Social Work  
+505 
+69 
+80 
+52 
+Arts & Other Services Base: All who currently have or offer apprenticeships (Module A) 
+305 
+46 
+87 
+38 
+78 
+[Page #78]
+Table A.3.3 Use of work placements to check suitability of prospective apprentices by country, size and sector 
+Used work experience placements to determine whether an individual was suitable for an Apprenticeship prior to recruiting them as an apprentice  
+Unwtd Base: 
+Row percentages 
+% 
+Total 
+4,286 
+32 
+Country 
+% % % 
+England 
+3,726 
+32 
+Northern Ireland 
+189 
+31 
+Wales 
+371 
+38 
+Size 
+% % % % % % 
+2 to 4 
+369 
+33 
+5 to 24 
+2,050 
+34 
+25 to 49 
+863 
+32 
+50 to 99 100 to 249 250+ 
+504 349 151 
+32 18 24 
+Sector  Primary Sector & Utilities 
+% % % % % % % % % % % % % 
+79 
+29 
+Manufacturing 
+371 
+33 
+Construction 
+371 
+30 
+Wholesale & Retail 
+829 
+32 
+Hotels & Restaurants 
+397 
+31 
+Transport & Storage 
+83 
+30 
+Information & Communications 
+85 
+21 
+Financial Services 
+59 
+31 
+Business Services 
+729 
+31 
+Public Admin. 
+46 
+6 
+Education 
+427 
+39 
+Health & Social Work  
+505 
+30 
+Arts & Other Services 
+305 
+44 
+Base: All who currently have or offer formal apprenticeships (Module A) 
+79 
+[Page #79]
+Table A.4.1 Awareness and prevalence of Traineeships in England by size and sector 
+Awareness of Traineeships 
+fossenerawaynA
+evlovn
+foegdelwonkdoogaevaH
+aekatrednuenoemosdaH
+tonodtubmeht
+tahw
+21tsalehtn
+evahdnameht
+erayeht
+fodraehtonevaH
+foegdelwonkemos
+iyeht
+devlovn
+sphseeniarT
+sphseeniarT
+Unwtd Base:   
+i
+i
+shtnom
+Row percentages 
+tahwwonk
+tahwdnameht
+i
+phseeniart
+iyeht
+i
+foerawA
+foerawA
+:yrammuS
+13,358  % 
+53 
+20 
+19 
+England 
+6 
+3 
+45 
+Size 
+3,215  % 
+2 to 4 
+53 
+20 
+19 
+6 
+2 
+46 
+6,676  % 
+5 to 24 
+54 
+19 
+19 
+6 
+3 
+44 
+1,818  % 
+25 to 49 
+52 
+22 
+20 
+6 
+5 
+47 
+979  % 
+50 to 99 
+51 
+18 
+23 
+6 
+5 
+47 
+504  % 
+100 to 249 
+49 
+17 
+23 
+9 
+5 
+49 
+166  % 
+250+ 
+45 
+14 
+23 
+16 
+11 
+53 
+Sector 
+439  % 
+Primary Sector & Utilities 
+56 
+22 
+17 
+4 
+1 
+43 
+992  % 
+Manufacturing 
+58 
+19 
+17 
+5 
+1 
+40 
+842  % 
+Construction 
+57 
+17 
+18 
+6 
+2 
+41 
+2,906  % 
+Wholesale & Retail 
+57 
+18 
+18 
+6 
+2 
+42 
+1,168  % 
+Hotels & Restaurants 
+51 
+21 
+19 
+7 
+2 
+47 
+358  % 
+Transport & Storage 
+48 
+23 
+21 
+6 
+2 
+50 
+470  % 
+Information & Communications 
+58 
+19 
+18 
+4 
+2 
+41 
+289  % 
+Financial Services 
+56 
+21 
+18 
+5 
+3 
+43 
+2,690  % 
+Business Services 
+52 
+20 
+19 
+6 
+2 
+46 
+133  % 
+Public Admin. 
+51 
+18 
+24 
+7 
+3 
+48 
+822  % 
+Education 
+45 
+21 
+23 
+8 
+7 
+53 
+1,289  % 
+Health & Social Work  
+45 
+20 
+25 
+8 
+4 
+54 
+960  % Base: All establishments in England (Module A) 
+Arts & Other Services 
+44 
+22 
+23 
+9 
+5 
+54 
+[Page #80]
+Table A.4.2 Awareness and prevalence of Traineeships in Wales by size and sector 
+Have taken on somebody as part of the Traineeship programme 
+Have heard of the Traineeship programme 
+Unwtd Base: 
+Row percentages 
+% 
+Wales 
+1,704 
+28 
+2 
+Size 
+% % % % % % 
+2 to 4 
+449 
+29 
+2 
+5 to 24 
+882 
+24 
+2 
+25 to 49 
+206 
+30 
+5 
+50 to 99 100 to 249 250+ 
+99 57 11 
+34 33 ** 
+3 2 ** 
+Sector  Primary Sector & Utilities 
+% % % % % % % % % % % % % 
+72 
+26 
+2 
+Manufacturing 
+116 
+21 
+1 
+Construction 
+96 
+34 
+3 
+Wholesale & Retail 
+378 
+26 
+2 
+Hotels & Restaurants 
+183 
+31 
+3 
+Transport & Storage 
+52 
+29 
+* 
+Information & Communications 
+30 
+31 
+0 
+Financial Services 
+20 
+** 
+** 
+Business Services 
+250 
+26 
+3 
+Public Admin. 
+32 
+30 
+6 
+Education 
+135 
+30 
+6 
+Health & Social Work  
+213 
+29 
+2 
+Arts & Other Services 
+127 
+25 
+3 
+Base: All establishments in Wales (Module A) 
+‘**’ denotes a base size of under 30 
+81 
+[Page #81]
+Table A.5.1 Awareness and knowledge of apprenticeships among employers not offering apprenticeships 
+tahw
+evahdnameht
+evahdnameht
+evahdnameht
+tubmretehtdraehevaH
+egdelwonkdoogyreva
+foegdelwonkdooga
+si
+.
+devlovn
+fodraehtonevaH
+devlovn
+sphsecitnerppa
+tahwwonktonod
+foegdelwonkemos
+i
+devlovn
+devlovn
+Unwtd Base: 
+Row percentages 
+isi
+isi
+tahw
+isi
+foerawA
+foerawA
+foerawA
+tahw
+i
+fo
+11,784  % 
+Total 
+1 
+9 
+47 
+29 
+14 
+Country 
+9,632  % % 1,333  % 
+England 
+1 
+9 
+46 
+29 
+14 
+Northern Ireland 
+819 
+2 
+10 
+49 
+25 
+13 
+Wales 
+1 
+12 
+50 
+24 
+12 
+Size 
+3,539  % 6,030  % 1,283  % % % % 
+2 to 4 
+1 
+9 
+46 
+28 
+15 
+5 to 24 
+1 
+9 
+48 
+29 
+13 
+25 to 49 
+1 
+7 
+50 
+29 
+12 
+50 to 99 
+649 
+1 
+8 
+49 
+29 
+11 
+100 to 249 
+243 
+0 
+8 
+41 
+38 
+11 
+250+ 
+40 
+0 
+3 
+42 
+31 
+17 
+Sector 
+% % % 2,687  % 1,032  % % % % 2,324  % % % 1,101  % % 
+Primary Sector & Utilities 
+480 
+1 
+11 
+52 
+26 
+9 
+Manufacturing 
+825 
+1 
+8 
+48 
+29 
+14 
+Construction 
+653 
+1 
+8 
+43 
+33 
+15 
+Wholesale & Retail 
+2 
+10 
+48 
+27 
+12 
+Hotels & Restaurants 
+2 
+8 
+46 
+28 
+14 
+Transport & Storage 
+359 
+<1 
+9 
+46 
+28 
+15 
+Information & Communications 
+435 
+1 
+10 
+45 
+28 
+17 
+Financial Services 
+264 
+1 
+8 
+53 
+29 
+8 
+Business Services 
+1 
+9 
+45 
+28 
+16 
+Public Admin. 
+129 
+1 
+7 
+44 
+37 
+11 
+Education 
+620 
+1 
+11 
+43 
+33 
+11 
+Health & Social Work  
+2 
+7 
+49 
+28 
+13 
+9 
+46 
+28 
+14 
+Arts & Other Base: All who do not offer formal apprenticeships (Module A) 
+875 
+2 
+82 
+[Page #82]
+Table A.5.2 Awareness of the apprenticeship levy and details of the levy, by country, size and sec-tor 
+seil
+egaw
+ppati
+*kcabmialcnaC
+yveLfoerawA
+fo%5.0foerawA
+ohw
+lli
+Row percentages 
+ot
+b
+foerawA
+% 
+58 
+52 
+68 
+Total 
+37 
+Country 
+% % 
+59 
+52 
+68 
+England 
+38 
+46 
+38 
+N/A 
+Wales 
+30 
+Size 
+% % % % % % 
+50 
+44 
+63 
+2 to 4 
+33 
+60 
+52 
+68 
+5 to 24 
+38 
+74 
+66 
+78 
+25 to 49 
+52 
+79 
+76 
+86 
+50 to 99 
+63 
+87 
+84 
+92 
+100 to 249 
+75 
+89 
+85 
+90 
+250+ 
+82 
+Sector 
+% % % % % % % % % % % % % 
+45 
+36 
+59 
+Primary Sector & Utilities 
+32 
+55 
+50 
+65 
+Manufacturing 
+40 
+51 
+50 
+71 
+Construction 
+39 
+53 
+48 
+66 
+Wholesale & Retail 
+29 
+55 
+51 
+64 
+Hotels & Restaurants 
+27 
+58 
+46 
+65 
+Transport & Storage 
+38 
+61 
+49 
+65 
+Information & Communications 
+37 
+55 
+52 
+72 
+Financial Services 
+35 
+63 
+53 
+69 
+Business Services 
+42 
+53 
+49 
+68 
+Public Admin. 
+52 
+75 
+72 
+84 
+Education 
+66 
+64 
+59 
+73 
+Health & Social Work  
+41 
+58 
+51 
+68 
+Arts & Other * Businesses in England only 
+38 
+Base sizes shown in Table A.4.5. 
+83 
+[Page #83]
+Table A.5.3 Base sizes for tables A.5.3 (table above) 
+Aware of who it applies to 
+Aware of 0.5% of wage bill 
+Unwtd. bases 
+Aware of Levy 
+Can claim it back* 
+Total 
+15,062 
+6,358 
+6,358 
+5,828 
+Country 
+England 
+13,358 
+5,828 
+5,828 
+5,828 
+Wales 
+1,704 
+530 
+530 
+N/A 
+Size 
+2 to 4 
+3,664 
+1,169 
+1,169 
+1,053 
+5 to 24 
+7,558 
+2,918 
+2,918 
+2,657 
+25 to 49 
+2,024 
+1,046 
+1,046 
+977 
+50 to 99 
+1,078 
+666 
+666 
+628 
+100 to 249 
+561 
+414 
+414 
+378 
+250+ 
+177 
+145 
+145 
+135 
+Sector Primary Sector & Utilities Manufacturing 
+511 
+180 
+180 
+166 
+1,108 
+512 
+512 
+467 
+Construction 
+938 
+439 
+439 
+396 
+Wholesale & Retail 
+3,284 
+1,035 
+1,035 
+950 
+Hotels & Restaurants 
+1,351 
+417 
+417 
+370 
+Transport & Storage Information & Communications Financial Services 
+410 
+168 
+168 
+148 
+500 
+216 
+216 
+207 
+309 
+129 
+129 
+120 
+Business Services 
+2,940 
+1,356 
+1,356 
+1,268 
+Public Admin. 
+165 
+83 
+83 
+69 
+Education 
+957 
+700 
+700 
+633 
+Health & Social Work  
+1,502 
+673 
+673 
+622 
+1,087 
+Arts & Other Base: ‘Aware of Levy’ – all establishments in England and Wales (Module A); ‘Aware of who it applies to’ and ‘Aware of 0.5% of wage bill’ – all establishments in England and Wales who are aware of Apprentice-ship Levy (Module A); ‘Can claim back’ – all establishments in England who are aware of Apprenticeship Levy (Module A). See table below for base sizes. 
+412 
+450 
+450 
+* Businesses in England only 
+84 
+[Page #84]
+Table A.5.4 Awareness of other apprenticeship reforms, by size and sector 
+gnniartbo
+mumerp
+i
+i
+reyopme%5
+noitubirtnoc
+Unwtd Base: 
+l
+Row percentages 
+jeht
+’sredivorP
+ffo%02
+% 
+England 
+13,188 
+27 
+22 
+35 
+Size 
+% % % % % % 
+2 to 4 
+3,156 
+22 
+20 
+29 
+5 to 24 
+6,599 
+29 
+22 
+37 
+25 to 49 
+1,801 
+41 
+28 
+49 
+50 to 99 
+969 
+48 
+34 
+59 
+100 to 249 
+499 
+58 
+41 
+71 
+250+ 
+164 
+64 
+51 
+78 
+Sector 
+% % % % % % % % % % % % % 
+Primary Sector & Utilities 
+436 
+21 
+17 
+27 
+Manufacturing 
+985 
+28 
+18 
+34 
+Construction 
+837 
+29 
+20 
+38 
+Wholesale & Retail 
+2,865 
+21 
+18 
+30 
+Hotels & Restaurants 
+1,136 
+24 
+25 
+33 
+Transport & Storage 
+354 
+26 
+21 
+27 
+Information & Communications 
+465 
+25 
+20 
+31 
+Financial Services 
+284 
+23 
+20 
+33 
+Business Services 
+2,657 
+28 
+24 
+35 
+Public Admin. 
+131 
+33 
+26 
+44 
+Education 
+819 
+50 
+35 
+60 
+Health & Social Work  
+1,273 
+35 
+27 
+40 
+Arts & Other Base: Establishments in England who are aware of apprenticeships (Module A) 
+946 
+31 
+27 
+41 
+85 
+[Page #85]
+Table A.5.5 Impact of the apprenticeship reforms: overall number of apprentices 
+:rebmun
+:rebmun
+:rebmun
+:rebmun
+tahwerusnutubtcapm
+tcapm
+rehtegotladeppots
+egnahcoN
+desaerced
+desaercn
+i
+llarevonotcapm
+llarevonotcapm
+llarevonotcapm
+llarevonotcapm
+Unwtd Base:   
+detrats
+tcapm
+dahfierusnU
+Row percentages 
+i
+i
+I
+I
+I
+I
+I
+2 
+3,220  % 
+Total 
+1 
+6 
+2 
+1 
+5 
+83 
+Country 
+3,057  % 
+England 
+1 
+6 
+2 
+1 
+2 
+4 
+83 
+163  % 
+Wales 
+1 
+5 
+1 
+1 
+1 
+8 
+84 
+Size 
+226  % 
+2 to 4 
+0 
+1 
+2 
+3 
+2 
+5 
+87 
+1,486  % 
+5 to 24 
+1 
+4 
+2 
+1 
+2 
+4 
+86 
+680  % 
+25 to 49 
+1 
+6 
+2 
+1 
+2 
+4 
+84 
+398  % 
+50 to 99 
+1 
+16 
+1 
+* 
+2 
+5 
+74 
+298  % 
+100 to 249 
+3 
+16 
+1 
+* 
+3 
+3 
+74 
+132  % 
+250+ 
+2 
+35 
+5 
+1 
+3 
+6 
+47 
+Sector 
+61  % 
+Primary Sector & Utilities 
+1 
+4 
+0 
+1 
+0 
+5 
+90 
+271  % 
+Manufacturing 
+1 
+7 
+* 
+* 
+2 
+1 
+88 
+273  % 
+Construction 
+* 
+2 
+3 
+2 
+1 
+4 
+88 
+548  % 
+Wholesale & Retail 
+1 
+7 
+2 
+1 
+2 
+5 
+83 
+274  % 
+Hotels & Restaurants 
+* 
+4 
+2 
+3 
+2 
+11 
+78 
+59  % 
+Transport & Storage Information & Communications Financial Services 
+0 
+3 
+0 
+0 
+0 
+1 
+96 
+64  % 
+1 
+11 
+0 
+0 
+2 
+1 
+85 
+46  % 
+2 
+12 
+0 
+0 
+3 
+8 
+75 
+577  % 
+Business Services 
+1 
+7 
+1 
+2 
+1 
+4 
+84 
+38  % 
+Public Admin. 
+4 
+17 
+4 
+0 
+2 
+4 
+70 
+381  % 
+Education 
+3 
+7 
+2 
+* 
+4 
+4 
+79 
+395  % 
+Health & Social Work  
+1 
+6 
+3 
+2 
+3 
+6 
+80 
+233  % 
+Arts & Other 83 Base: Establishments in England and Wales who are aware of any apprenticeship reforms and currently offer apprenticeships (Module A) 
+3 
+6 
+3 
+5 
+* 
+* 
+86 
+[Page #86]
+Table A.5.6 Impact of the apprenticeship reforms: the proportion of apprenticeship starts 
+detrats:noitroporpnotcapm
+tahwerusnutubtcapm
+:noitroporpnotcapm
+:noitroporpnotcapm
+:noitroporpnotcapm
+tcapm
+rehtegotladeppots
+egnahcoN
+desaerced
+desaercn
+i
+Unwtd Base:   
+tcapm
+dahfierusnU
+Row percentages 
+i
+i
+I
+I
+I
+I
+I
+3,057  % 
+England 
+1 
+5 
+2 
+1 
+5 
+8 
+78 
+Size 
+214  % 
+2 to 4 
+1 
+1 
+2 
+2 
+3 
+9 
+83 
+1,409  % 
+5 to 24 
+1 
+3 
+2 
+1 
+5 
+7 
+80 
+654  % 
+25 to 49 
+2 
+5 
+2 
+1 
+5 
+8 
+77 
+382  % 
+50 to 99 
+3 
+11 
+2 
+1 
+6 
+6 
+71 
+275  % 
+100 to 249 
+4 
+12 
+1 
+* 
+6 
+7 
+70 
+123  % 
+250+ 
+2 
+26 
+4 
+1 
+* 
+12 
+55 
+Sector 
+59  % 
+Primary Sector & Utilities 
+3 
+4 
+1 
+0 
+6 
+6 
+81 
+258  % 
+Manufacturing 
+3 
+5 
+* 
+1 
+4 
+4 
+83 
+257  % 
+Construction 
+1 
+3 
+2 
+4 
+5 
+3 
+83 
+513  % 
+Wholesale & Retail 
+3 
+4 
+2 
+1 
+3 
+10 
+78 
+260  % 
+Hotels & Restaurants 
+1 
+5 
+2 
+3 
+6 
+13 
+70 
+57  % 
+Transport & Storage 
+0 
+3 
+0 
+0 
+3 
+0 
+94 
+Information & Communications 
+62  % 
+0 
+6 
+0 
+1 
+0 
+3 
+90 
+45  % 
+Financial Services 
+3 
+11 
+0 
+0 
+4 
+8 
+75 
+554  % 
+Business Services 
+* 
+5 
+1 
+* 
+5 
+7 
+81 
+31  % 
+Public Admin. 
+6 
+10 
+2 
+0 
+3 
+7 
+72 
+356  % 
+Education 
+1 
+5 
+3 
+* 
+4 
+8 
+79 
+382  % 
+Health & Social Work  
+3 
+7 
+2 
+2 
+5 
+9 
+71 
+223  % 
+Arts & Other 
+1 
+2 
+5 
+1 
+9 
+11 
+71 
+Base: Establishments in England who are aware of any apprenticeship reforms and currently offer appren-ticeships (Module A) 
+87 
+[Page #87]
+Table A.5.7 Impact of the apprenticeship reforms: the number of managers put on apprenticeships 
+tcapm
+desaerced:rebmunnotcapm
+desaercn
+deppots:rebmunnotcapm
+detrats:rebmunnotcapm
+tcapm
+i
+tahwerusnutubtcapm
+i
+egnahcoN
+rehtegotla
+:rebmunnotcapm
+i
+Unwtd Base:   
+dahfierusnU
+Row percentages 
+I
+I
+I
+I
+I
+3,057  % 
+1 
+England 
+3 
+1 
+* 
+2 
+6 
+88 
+Size 
+214  % 
+2 to 4 
+* 
+0 
+2 
+0 
+1 
+8 
+89 
+1,409  % 
+5 to 24 
+* 
+3 
+1 
+* 
+2 
+4 
+90 
+654  % 
+25 to 49 
+1 
+4 
+* 
+1 
+2 
+5 
+86 
+382  % 
+50 to 99 
+2 
+5 
+1 
+* 
+2 
+4 
+85 
+275  % 
+100 to 249 
+2 
+10 
+0 
+0 
+4 
+7 
+77 
+123  % 
+250+ 
+1 
+21 
+1 
+0 
+3 
+8 
+66 
+Sector 
+59  % 
+Primary Sector & Utilities 
+1 
+1 
+0 
+0 
+0 
+5 
+93 
+258  % 
+Manufacturing 
+1 
+5 
+0 
+* 
+1 
+2 
+92 
+257  % 
+Construction 
+* 
+1 
+* 
+* 
+* 
+2 
+96 
+513  % 
+Wholesale & Retail 
+1 
+4 
+2 
+1 
+1 
+6 
+85 
+260  % 
+Hotels & Restaurants 
+1 
+8 
+1 
+1 
+3 
+10 
+76 
+57  % 
+Transport & Storage 
+0 
+2 
+0 
+0 
+2 
+0 
+97 
+Information & Communications 
+62  % 
+0 
+4 
+0 
+0 
+2 
+2 
+92 
+45  % 
+Financial Services 
+0 
+4 
+0 
+0 
+0 
+0 
+96 
+554  % 
+Business Services 
+* 
+3 
+* 
+* 
+2 
+6 
+88 
+31  % 
+Public Admin. 
+2 
+8 
+0 
+0 
+6 
+10 
+74 
+356  % 
+Education 
+* 
+3 
+1 
+0 
+2 
+5 
+89 
+382  % 
+Health & Social Work  
+1 
+3 
+1 
+* 
+3 
+6 
+85 
+223  % 
+Arts & Other 
+1 
+2 
+2 
+0 
+2 
+9 
+84 
+Base: Establishments in England who are aware of any apprenticeship reforms and currently offer appren-ticeships (Module A) 
+88 
+[Page #88]
+Table A.5.8 Impact of the apprenticeship reforms: the number of apprenticeship starts in subjects relating to activities outside of core business 
+tcapm
+desaerced:rebmunnotcapm
+desaercn
+deppots:rebmunnotcapm
+detrats:rebmunnotcapm
+tcapm
+i
+tahwerusnutubtcapm
+i
+egnahcoN
+rehtegotla
+:rebmunnotcapm
+i
+Unwtd Base:   
+dahfierusnU
+Row percentages 
+I
+I
+I
+I
+I
+3,057  % 
+England 
+1 
+3 
+1 
+1 
+2 
+7 
+85 
+Size 
+214  % 
+2 to 4 
+* 
+1 
+2 
+1 
+1 
+10 
+85 
+1,409  % 
+5 to 24 
+1 
+1 
+1 
+1 
+2 
+6 
+89 
+654  % 
+25 to 49 
+1 
+2 
+1 
+1 
+4 
+7 
+84 
+382  % 
+50 to 99 
+1 
+7 
+1 
+* 
+5 
+6 
+79 
+275  % 
+100 to 249 
+3 
+8 
+1 
+0 
+6 
+5 
+77 
+123  % 
+250+ 
+6 
+17 
+0 
+0 
+1 
+11 
+65 
+Sector 
+59  % 
+Primary Sector & Utilities 
+3 
+1 
+0 
+3 
+0 
+7 
+87 
+258  % 
+Manufacturing 
+1 
+2 
+0 
+1 
+2 
+4 
+91 
+257  % 
+Construction 
+1 
+1 
+1 
+0 
+1 
+3 
+94 
+513  % 
+Wholesale & Retail 
+1 
+4 
+2 
+2 
+2 
+11 
+79 
+260  % 
+Hotels & Restaurants 
+1 
+3 
+* 
+1 
+2 
+13 
+81 
+57  % 
+Transport & Storage 
+3 
+3 
+1 
+1 
+0 
+0 
+92 
+Information & Communications 
+62  % 
+0 
+3 
+0 
+1 
+4 
+8 
+85 
+45  % 
+Financial Services 
+0 
+4 
+3 
+0 
+11 
+8 
+74 
+554  % 
+Business Services 
+1 
+2 
+1 
+* 
+3 
+6 
+86 
+31  % 
+Public Admin. 
+4 
+12 
+3 
+0 
+3 
+10 
+67 
+356  % 
+Education 
+1 
+2 
+1 
+0 
+4 
+4 
+88 
+382  % 
+Health & Social Work  
+1 
+3 
+* 
+* 
+4 
+9 
+83 
+223  % 
+Arts & Other 
+2 
+1 
+2 
+* 
+3 
+8 
+85 
+Base: Establishments in England who are aware of any apprenticeship reforms and currently offer appren-ticeships (Module A) 
+89 
+[Page #89]
+Table A.6.1 Future demand for apprenticeships 
+Currently offer ap-prenticeships % 
+Plan to offer appren-ticeships in the future % 
+Unwtd Base: 
+Row percentages 
+16,070 
+Total 
+18 
+30 
+Country 
+England 
+19 
+13,358 
+31 
+Northern Ireland 
+12 
+1,008 
+29 
+Wales 
+16 
+1,704 
+27 
+Size 
+2 to 4 
+9 
+3,908 
+21 
+5 to 24 
+24 
+8,080 
+37 
+25 to 49 
+41 
+2,146 
+54 
+50 to 99 
+44 
+1,153 
+60 
+100 to 249 
+59 
+592 
+73 
+250+ 
+80 
+191 
+82 
+Sector 
+Primary Sector & Utilities 
+9 
+559 
+21 
+Manufacturing 
+21 
+1,196 
+33 
+Construction 
+24 
+1,024 
+32 
+Wholesale & Retail 
+19 
+3,516 
+29 
+Hotels & Restaurants 
+17 
+1,429 
+27 
+Transport & Storage 
+11 
+442 
+23 
+Information & Communications 
+10 
+520 
+31 
+Financial Services 
+14 
+323 
+31 
+Business Services 
+16 
+3,053 
+30 
+Public Admin. 
+25 
+175 
+40 
+Education 
+36 
+1047 
+50 
+Health & Social Work  
+25 
+1,606 
+38 
+Arts & Other 
+23 
+1,180 
+34 
+Base: All establishments (Module A) 
+90 
+[Page #90]
+Table A.6.2 Market potential for apprenticeships in terms of number of establishments, by sector 
+Currently offers ap-prenticeships but plan to stop / unsure if will continue to of-fer 
+Currently offers ap-prenticeships and plans to continue of-fering them 
+Plans to start offering apprenticeships in the future 
+Row to nearest 1,000 
+295,000 
+264,000 
+44,000 
+Total 
+Sector 
+14,000 
+1,000 
+Primary Sector & Utilities 
+7,000 
+14,000 
+2,000 
+Manufacturing 
+18,000 
+23,000 
+8,000 
+Construction 
+34,000 
+44,000 
+9,000 
+Wholesale & Retail 
+55,000 
+21,000 
+5,000 
+Hotels & Restaurants 
+25,000 
+8,000 
+1,000 
+Transport & Storage Information & Communica-tions Financial Services 
+6,000 
+19,000 
+1,000 
+9,000 
+7,000 
+* 
+5,000 
+65,000 
+7,000 
+Business Services 
+61,000 
+3,000 
+* 
+Public Admin. 
+3,000 
+10,000 
+2,000 
+Education 
+18,000 
+18,000 
+3,000 
+Health & Social Work  
+27,000 
+18,000 
+4,000 
+Arts & Other ‘*’ denotes a figure larger than zero but smaller than 500 
+27,000 
+91 
+[Page #91]
+Appendix B: Definitions for reasons groupings 
+Table B.1 Grouped reasons why employers started to offer apprenticeships in the last three years, and the individual reasons included in these groups 
+Acquiring talent 
+Nurturing talent 
+Altruistic Good way to give young people a chance in employment 
+Financial 
+Good way to get skilled staff 
+Demand among existing staff 
+Availability of grants to support it 
+To ensure young people continue to enter the industry / company 
+Improve staff morale / retention 
+To help people into work / give people experience 
+Because of the apprenticeship levy 
+To help the community / corporate social responsibility 
+To train people from scratch / to train apprentices to our needs To improve general skills / knowledge of new and existing staff We could shape our own Apprenticeship framework or standard We wanted to upskill current staff 
+Good value for money / cost effective 
+92 
+[Page #92]
+Table B.2 Grouped reasons why employers do not currently offer apprenticeships, and the individual reasons included in these groups 
+Structural 
+Active choice 
+Lack of awareness 
+Reforms Because of recent reforms (needing to make a 5% contribution to the costs) Because of recent reforms (minimum of 20% of apprentices’ hours being off-the-job training 
+Apprenticeships are not offered for our industry 
+All our staff fully skilled, no need 
+Don't know enough about them 
+Apprenticeships are only for manual staff / not for professionals 
+Bad experience with training providers in the past 
+Never have before so haven't considered it 
+Not heard of apprenticeships / don’t know at question PD28 No one has enquired about doing one lately 
+Decision made by Head Office / someone else 
+Don't suit our business model 
+Don't have the work to offer them 
+No need (unspecified.) 
+Past apprentices have not been of a good standard Prefer other forms of training 
+Don't have time to train them 
+Not relevant to business 
+Regulatory or bureaucratic restrictions or requirements Specialist job roles / niche business* They are not suitable due to the size of establishment We are not looking to recruit new staff We cannot currently afford to We don't have the resources (various) We have struggled to find a suitable applicant *Added in 2019 
+Prefer to recruit experienced staff 
+93 
+[Page #93]
+Table B.3 Grouped reasons why employers did not retain all of their apprentices in a permanent role 
+Personal / health reasons 
+Apprentice decision 
+Capability / fit 
+Lack of resource / work 
+The apprentice was not capable enough at their role The apprentice was not the right fit for the establishment The apprentice had a bad attitude / lacked motivation The apprentice was fired / went through disciplinary action 
+There was not enough work available 
+The apprentice left for person reasons 
+The apprentice did not want to stay in their role 
+The establishment could not afford to hire them permanently 
+The apprentice accepted a job at another employer 
+The apprentice was ill 
+Funding / financial reasons 
+The apprenticed moved on (unspecified) 
+Apprentice relocated 
+Location difficult to get to / apprentice moved to a more convenient location The apprentice left to find a better paid position 
+94 
+[Page #94]
+Table B.4 Grouped reasons why employers plan to start offering apprenticeships in the future, and the individual reasons included in these groups 
+Acquiring talent 
+Nurturing talent 
+Altruistic 
+Financial 
+Good way to get skilled staff (included what was previously ‘effective method of recruitment’ To ensure young people continue to enter the industry / company 
+Good way to give young people a chance in employment 
+Demand among existing staff 
+Availability of grants to support it 
+Changes following the introduction of the Apprenticeship Levy 
+Improve staff morale / retention 
+To help people into work / give people experience 
+To help the community / corporate social responsibility* 
+To improve general skills / knowledge of new and existing staff To train people from scratch / to train apprentices to our needs We can shape our own Apprenticeship framework or standard We want to upskill current staff 
+We are looking to expand the business 
+Good value for money / cost effective 
+*Added in 2019 
+95 
+[Page #95]
+Table B.5 Grouped reasons why employers plan to stop offering apprenticeships in the future, and the individual reasons included in these groups 
+Structural 
+Active choice 
+Reforms 
+Because of recent reforms (needing to make a 5% contribution to the costs) Because of recent reforms (minimum of 20% of apprentices’ hours being off-the-job training 
+Apprenticeships are not offered for our industry 
+All our staff fully skilled, no need 
+Apprentices tend to leave soon after their training 
+Bureaucracy 
+Bad experience with training providers in the past No benefits to business Past apprentices have not been of a good standard 
+Head Office decision 
+Takes up too much time They are not suitable due to the size of establishment We are not looking to recruit new staff We cannot currently afford to 
+Prefer other forms of training 
+Prefer to recruit experienced staff 
+96 
+[Page #96]
+Appendix C: Industry coding 
+Each establishment was allocated to one of 13 sectors, based on their Standard Industrial Classification (SIC). SIC 2007 was used to classify establishments using the following method. Using the four-digit Standard Industrial Classification (SIC) supplied for each record from the Market Location or IDBR database, a description of business activity was read out to each respondent. If they agreed that this description matched the main activity undertaken at the establishment, then the SIC on Market Location’s database or IDBR was assumed to be correct. If, however, the respondent felt the description did not correspond to their main business activity at the site (around a fifth of cases), a verbatim response was collected to find out what they do. At the analysis stage this was coded to a four-digit SIC which was then used as the basis for allocation into sector. 
+The table below shows the 13 sectors and their corresponding SIC 2007 definitions.28 
+Sector 
+SIC 2007 
+A - Agriculture, forestry and fishing (01-03) 
+Including farming, hunting and other related service activities, forestry and logging, fishing and aquaculture 
+B - Mining and quarrying (05-09) 
+Including mining of coal, metals, sand/stone/clay, and extraction of crude petroleum and natural gas 
+Primary Sector and Utilities 
+D - Electricity, gas, steam and air conditioning supply (35) 
+E - Water supply, sewerage, waste management and remediation activities (36-39)  
+Including electric power generation, transmission and distribution, manufacture of gas and distribution of gaseous fuels, steam and air conditioning supply, water collection, treatment and supply, sewerage and waste collection 
+C - Manufacturing (10-33) 
+Including manufacture of food and beverage, textiles, chemicals and chemical products, basic pharmaceutical products, other mineral products, manufacture of metals and metal products, machinery, computer and electronic products and equipment, motor vehicles and other transport equipment, furniture, and repair and installation of machinery and equipment 
+Manufacturing 
+Construction 
+F - Construction (41-43) 
+28 UK Standard Industrial Classification of Economic Activities 2007 (SIC 2007), Source: Companies House, Standard industrial classification of economic activities (SIC) (2008)  
+97 
+[Page #97]
+Including the construction of buildings, civil engineering (constructing roads, railways and other utility projects), demolition, and specialised activities such as electrical installation, roofing and scaffold erection 
+G - Wholesale and retail trade; repair of motor vehicles and motor cycles (45-47) Including sale, maintenance and repair of motor vehicles, parts and accessories, non-vehicle wholesale (for example agriculture, food, household goods), and the retail trade of all products whether in stores, stalls, markets, mail order or online 
+Wholesale and Retail 
+I - Accommodation and food service activities (55-56) Including hotels, campsites, youth hostels, holiday centres, villages and other short stay accommodation, restaurants and takeaways, event catering and licensed clubs, pubs and bars 
+Hotels and Restaurants 
+Transport and Storage 
+H - Transport and storage (49-53) 
+Including land, water and air transport (passenger and freight), warehousing and support activities for transportation, postal and courier activities, 
+J - Information and communication (58-63) Including publishing (books, journals, newspapers etc. and software/computer games), television, film and music production, broadcasting, telecommunications, computer programming and consultancy, information service activities (e.g. data processing and hosting) 
+Information and Communications 
+K - Financial and insurance activities (64-66) Including banks and building societies, activities of holding companies, trusts, funds and similar financial entities, credit granting, pensions, insurance and reinsurance 
+Financial Services 
+L - Real estate activities (68) 
+M - Professional, scientific and technical activities (69-75) 
+N - Administrative and support service activities (77-82) 
+Business services 
+Including the buying, selling and renting of real estate, legal activities, accounting, bookkeeping and auditing, management consultancy, architectural and engineering activities, scientific research and development, advertising and market research, specialist design, photographic activities, translation and interpretation, veterinary activities, renting and leasing of tangible goods (motors, household, machinery), employment agencies, travel agencies and tour operations, security and investigation activities, office administration and business support 
+O - Public administration and defence; compulsory social security (84) Including administration of the State and economic and social policy of the community, provision of services to the community such as defence activities, foreign affairs, justice and judicial activities, fire service and compulsory social security activities 
+Public Administration 
+P - Education (85) Including pre-primary, primary, secondary and higher education, other education (such as sports, driving schools, cultural education), educational support activities 
+Education 
+Health and Social Work 
+Q - Human health and social work activities (86-88) 
+98 
+[Page #98]
+Including Hospitals, medical and dental practices, residential care, social work activities 
+R - Arts, entertainment and recreation (90-93) 
+Arts, entertainment, recreation and other service activities 
+S - Other service activities (94-96) 
+Including performing arts, libraries and museums, gambling and betting, sports facilities, amusement and recreation activities, activities of membership organisations (religious, political, trade union, professional), personal services (hairdressing, beauty, textile cleaning, well-being activities, funeral activities) 
+T - Activities of households as employers; undifferentiated goods and services producing activities of households for own use (97-98) 
+NOT COVERED IN SURVEY 
+U - Activities of extraterritorial organisations and bodies (99)  
+Including households as employers of domestic personnel, private households producing goods for own use 
+99 
+[Page #99]
+Appendix D: Sampling Error and Statistical Confidence (summary) 
+Table C.1 Sampling error (at the 95% confidence level) associated with findings of 50% 
+Population 
+Number of interviews  (Module A) 
+(Maximum) Sampling Error 
+Overall 
+1,831,000 
+16,070 
+± 0.77 
+By country 
+England 
+1,683,000 
+13,358 
+± 0.84 
+Northern Ireland 
+59,000 
+1,008 
+± 3.06 
+Wales 
+89,000 
+1,704 
+± 2.35 
+ By size 
+2 to 4 
+998,000 
+3,908 
+± 1.56 
+5 to 9 
+381,000 
+3,960 
+± 1.55 
+10 to 24 
+267,000 
+4,210 
+± 1.50 
+25 to 49 
+98,000 
+2,146 
+± 2.09 
+50 to 99 
+50,000 
+1,153 
+± 2.85 
+100 to 249 
+27,000 
+592 
+± 3.98 
+250+ 
+11,000 
+191 
+± 7.03 
+By sector 
+Primary Sector & Utilities 
+99,000 
+559 
+± 4.13 
+Manufacturing 
+94,000 
+1,196 
+± 2.82 
+Construction 
+179,000 
+1,024 
+± 3.05 
+Wholesale and Retail 
+348,000 
+3,516 
+± 1.64 
+Hotels and Restaurants 
+172,000 
+1,429 
+± 2.58 
+Transport and Storage  
+62,000 
+442 
+± 4.64 
+Information and Communications 
+91,000 
+520 
+± 4.29 
+Financial Services 
+37,000 
+323 
+± 5.43 
+Business Services 
+426,000 
+3,053 
+± 1.77 
+Public Administration 
+15,000 
+175 
+± 7.36 
+Education 
+55,000 
+1,047 
+± 3.00 
+Health and Social Work 
+120,000 
+1,606 
+± 2.43 
+Arts and Other Services 
+134,000 
+1,180 
+± 2.84 
+Source for population data is the ONS Inter-Departmental Register (IDBR). Populations have been rounded to the nearest 1,000. 
+100 
+[Page #100]
+Appendix E: Survey population estimates (weighted) 
+Table D.1 Survey population estimates (weighted) 
+Northern Ireland 
+Total 
+England 
+Wales 
+Overall number of establishments All establishments with current apprentices All establishments that have / offer apprenticeships All establishments that have / offer apprenticeships, or have offered in the last three years All establishments that do not currently have / offer apprenticeships 
+1,830,802 
+1,683,072 
+58,663 
+89,067 
+189,378 
+177,414 
+3,491 
+8,473 
+338,470 
+317,024 
+7,294 
+14,152 
+474,166 
+445,086 
+9,868 
+19,212 
+1,492,332 
+1,366,048 
+51,369 
+74,915 
+101 
+[Page #101]
+© Department for Education 2020 
+Reference: DFERPPU 2018061/2 
+ISBN: 978-1-83870-202-1 
+For any enquiries regarding this publication, contact us at: www.education.gov.uk/contactus 
+This document is available for download at www.gov.uk/government/publications 
+102 

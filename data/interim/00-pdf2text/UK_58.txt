@@ -1,0 +1,1023 @@
+[Page #0]
+Review of research literature that provides evidence of the impact of diversity and inclusion in the workplace
+July 2021
+[Page #1]
+Contents
+Executive summary 
+3
+1 
+Introduction 
+8
+2  Diversity and inclusion in the workplace today 
+13
+3  Evidence of links between diversity, inclusion and 
+business performance	
+21
+4  Evidence	of	links	between	diversity	and	risk management	 36
+5  Evidence of links between diversity, inclusion and 
+good conduct	
+42
+List of Abbreviations 
+51
+Glossary of terms 
+52
+Bibliography 
+54
+Author 
+66
+Sign up for our  news and publications alerts
+See all our latest  press releases,  consultations  and speeches. 
+2
+[Page #2]
+Executive summary
+Purpose and scope
+This	review	of	academic	research	and	other	literature	on	the	impact	of	diversity 	and	inclusion	(D&I)	in	the	workplace	has	sought	specifically	to	explore	the	business 	performance,	risk	management	and	conduct	outcomes	of	diverse	and	inclusive 	companies.	Much	of	the	evidence	identified,	and	therefore	most	of	this	report,	is	about 	the	impact	of	diverse	senior	leadership	on	business	performance	outcomes,	and	most 	commonly	for	the	largest	listed	firms.
+Most	studies	identified	focus	on	the	impact	of	gender,	or	of	ethnicity	with	some 	considering	sexual	orientation	inclusion.	Few	studies	cover	a	wider	range	of	diversity 	characteristics.	Therefore,	this	review	only	briefly	mentions	research	results	related	to 	age,	education	and	experience	(social	mobility)	and	disability.
+Although	the	UK	financial	services	sector	is	our	primary	area	of	interest,	the	review 	considers	evidence	across	all	sectors	and	from	studies	of	businesses	in	the	US	and 	the	rest	of	Europe.	26	studies	are	focused	on	the	UK;	70	are	from	the	US,	where	D&I 	research	is	most	prolific;	33	studies	have	global	coverage,	nine	are	European	and	21 	cover	a	single	European	country	(excluding	the	UK).
+A	total	of	169	studies	were	reviewed	as	in	scope.	The	majority	(93)	of	these	studies 	seek	to	understand	the	impact	of	D&I,	either	among	teams	or	senior	leadership.	These 	are	known	as	‘impact	studies’	throughout	this	report.	The	majority	(80)	of	these	impact 	studies	are	written	by	academic	researchers,	with	13	by	consultancies,	government	or 	trade	associations.	The	remaining	studies	in	scope	either	provide	data	on	the	progress 	of	D&I	in	the	workplace	to	today	(22),	provide	a	theoretical	(5)	or	measurement 	framework	(11),	or	present	a	meta‑analysis	(6),	literature	review	(16)	or	summary	(4) 	of	previous	impact	studies.	A	further	twelve	studies	provide	an	understanding	of 	potential	consumer	harms	arising	from	D&I	issues	in	the	financial	services	sector.
+A	real	challenge	for	this	review	has	been	weighing	up	results	from	the	different	studies, 	not	least	because	the	findings	from	some	studies	contradict	those	of	others.	Stahl 	et	al.	(2010)	expressed	this	challenge	well,	when	they	wrote	that	they	were	seeking 	to	“reconcile	the	conflicting	perspectives	of	past	studies”	in	their	meta‑analysis	of 	workplace	diversity.	We	also	see	some	variation	in	the	rates	of	progress	reported	for 	D&I	measures,	such	as	the	representation	of	females	in	senior	positions,	which	is	due 	to use of different datasets. One aspect where there is a broad consensus is that while there	has	been	some	progress	in	female	representation	in	senior	management,	these 	women	tend	to	reside	in	more	operational	functions	eg	marketing	and	HR	(Oliver 	Wyman,	2020;	Credit	Suisse,	2014	and	2019).
+In this review we have not added our interpretation or opinions on the research we have identified.	Our	purpose	is	to	gather	together	the	evidence	and	organise	it	under	our 	particular	areas	of	interest	–	business	performance,	risk	management	and	conduct.
+3 
+[Page #3]
+While	it	might	be	difficult	to	generalise	the	findings	onto	the	UK	financial	services	sector,	we	are	still	able	to	draw	some	key	findings	from	the	breadth	of	available	wider	evidence.
+Key findings
+The	overarching	finding	is	that	the	evidence	on	the	benefits	of	D&I	in	the	workplace 	is	mixed,	for	a	number	of	reasons.	On	balance,	the	evidence	points	to	more	positive 	outcomes,	for	business	performance	to	some	extent,	and	especially	for	corporate 	governance	and	risk	management	for	diverse	and	inclusive	organisations,	particularly 	when	it	comes	to	gender.
+Gender‑diverse senior leadership is associated with positive business performance outcomes, especially when there is a ‘critical mass’ of womenMuch	of	the	D&I	evidence	reviewed	focuses	on	the	business,	or	financial,	performance 	of	gender‑diverse	boards.	While	we	find	more	studies	reporting	positive	associations 	with	financial	performance	(18)	compared	with	those	reporting	negative	associations 	(8),	many	studies	demonstrate	correlation	only,	or	find	that	the	positive	outcome	is 	contingent	on	something,	such	as	a	firm	being	innovation	focused	or	reaching	a	‘critical	mass’	of	women	on	the	board.	Four	studies	reviewed	find	no	impact	of	board	gender 	diversity	on	performance	outcomes,	such	as	return	on	assets	(ROA)	and	profitability.
+Some	commentators	consider	it	likely	that	the	more	profitable	firms	embrace 	diversity,	rather	than	that	diversity	necessarily	enables	greater	financial	success.	As	we 	have	said,	analysis	of	the	evidence	can	be	contradictory,	sometimes	even	of	the	same 	evidence	base.	When	analysis	by	Judge	(2003)	of	the	UK	FTSE	100	showed	that	boards 	with	women	were	less	profitable,	Ryan	and	Haslam	(2005)	re‑examined	these	data	and 	found	that	women	were	being	appointed	to	deal	with	existing	crises	rather	than	being 	the	cause	of	them.	They	coined	the	term	“glass	cliff”	which	describes	the	promotion	of 	women	to	leadership	roles	in	a	time	of	crisis,	ie	when	the	chance	of	failure	is	high. 	
+The	impact	studies	on	this	topic	are	challenged	when	it	comes	to	demonstrating	a 	causal	link,	not	least	by	missing	variables	in	the	analysis,	such	as	corporate	culture	or 	principles,	that	could	be	the	real	factors	influencing	outcomes.	Adams	and	Ferreira 	(2009)	sought	to	demonstrate	causality	and,	in	doing	so,	saw	a	negative	link	appear 	between	board	gender	diversity	and	ROA.
+We	can	turn	to	the	studies	of	countries	that	have	mandated	the	number	of	women 	on	the	boards	of	the	largest	listed	companies,	to	assess	outcomes	–	with	far	fewer 	causality	concerns.	If	every	firm	needs	to	comply,	it	is	not	just	those	that	were	more 	successful	or	profitable	that	have	a	higher	proportion	of	women	on	the	board.	Again, 	we	see	mixed	results,	across	the	different	regions.	In	Spain	and	Italy	results	are 	positive.	For	Norway	and	California,	some	studies	show	more	negative	results.	Norway 	was	the	first	to	introduce	gender	quotas	and	California	did	so	most	recently.	The 	early	studies	from	Norway	find	a	negative	impact	in	terms	of	shareholder	returns	and 	profitability,	as	well	as	a	decline	in	the	average	age	and	experience	of	board	members. 	However,	more	recently,	Eckbo	et	al.	(2019)	find	that	the	Norwegian	quota	mandates 	have	not	led	to	a	decline	in	shareholder	value	or	a	decline	in	the	levels	of	experience	of 	board	members.
+4
+[Page #4]
+There	is	more	evidence	of	positive	financial	outcomes	for	firms	that	have	reached	a 	‘critical	mass’	of	having	at	least	three,	or	30%,	of	women	on	the	board.	Joecks	et	al. 	(2012)	study	listed	German	firms	and	find	that	gender	diversity	negatively	affects	firm 	performance	until	a	critical	mass	of	about	30%	representation	is	reached,	when	higher 	firm	performance	is	seen.
+Gender‑diverse senior leadership appears to lead to positive risk management outcomesThe	body	of	evidence	for	gender‑diverse	boards	and	risk	management	outcomes	is 	smaller	(21	studies)	but	stronger,	with	nine	studies	aiming	to	demonstrate	causality 	and	seven	of	these	reporting	positive	outcomes	(two	found	no	impact).	A	further	five 	studies	find	positive	associations	with	risk	management	outcomes	for	gender‑diverse 	boards,	albeit	without	demonstrating	causality.	Of	all	21	studies,	only	one	gives	a 	negative	result.
+Some	studies	argue	that	women	are	more	risk	averse	than	men	and	tend	to	be	found 	on	the	boards	of	less	risky	businesses.	However,	there	is	also	evidence	that	this 	stereotyping	does	not	hold	for	women	who	embark	on	a	managerial	career,	especially 	in	financial	services	(Adams	and	Ragunathan,	2015).	There	was	early	evidence	that	the 	perception	of	differing	risk	attitudes	led	to	a	stereotyping	that	caused	‘glass	ceilings’ 	for	women.	Johnson	and	Powell	(1994)	find	no	differences	in	risk	propensity	between 	males	and	females	in	a	UK	‘managerial	sub‑population’.
+Gender‑diverse senior leadership is most strongly correlated with positive corporate governance and firm conduct outcomesThe	evidence	for	the	impact	of	gender‑diverse	boards	on	regulatory	conduct 	outcomes	–	including	corporate	governance	monitoring	such	as	meetings	frequency 	and	the	quality	of	information	disclosure,	as	well	as	evidence	of	fraud	and	misconduct 	–	all	points	to	women’s	positive	influence.	We	see	a	clearer	picture	across	the	studies 	that	assess	good	conduct	outcomes.	This	includes	the	recent	studies	that	conduct 	causality	checks,	including	Arnaboldi	et	al.	(2020)	who	find	reduced	misconduct	from 	gender‑diverse	boards,	and	Wahid	et	al.	(2017)	who	report	fewer	financial	reporting 	mistakes.	Gul	et	al.	(2011)	also	used	statistical	methods	to	address	causality	and 	find	that	women	on	boards	increase	the	financial	transparency	and	disclosure	of 	information	in	both	large	and	small	firms.
+The	academics	reach	a	consensus	that	gender	diversity	has	a	positive	influence	on 	board	meeting	attendance.	Qualitative	(Dhir,	2015)	and	quantitative	studies	(Adams 	and	Ferreira,	2004;	Adams	and	Ferreira,	2009;	Adams	and	Ragunathan,	2015)	alike 	find	that	not	only	do	women	have	a	better	attendance	record,	but	that	men	attend 	meetings	more	regularly	if	there	are	women	on	the	board.
+Of	the	eleven	impact	studies	that	assessed	the	impact	of	board	gender	diversity	for	aspects	of	corporate	governance	(meetings	and	information	transparency)	and	misconduct,	all	report	positive	outcomes,	seven	of	which	seek	to	demonstrate	causality.	Dandanlar	and	Abebe	(2020)	draw	from	social	role	theory	in	their	US	study	to	argue	that	female	leaders	are	better	positioned	to	minimize	diversity	misconduct	because	of	their	role	as	individuals	who	emphasise	care,	empathy	and	high	‘ethical	sensitivity’.
+5 
+[Page #5]
+Diverse teams can have differences of opinion but are more innovative and better at solving problems creativelyWe also see a positive association between diverse leadership and innovation, for both gender	diversity	(Vafaei	et	al.,	2020;	Torchia	et	al.,	2011)	and	ethnic	diversity	measures 	(Giannetti	and	Zhao,	2016	and	2018;	Nathan	and	Lee,	2013).	Of	the	ten	studies 	reviewed	for	diverse	senior	leadership,	all	identify	positive	outcomes,	measured	in 	terms	of	creative	outputs	such	as	more	patents	or	patent	citations.
+Torchia	et	al.	(2011)	find	improved	innovation	outcomes	when	a	critical	mass	of	women 	is	reached,	while	Vafaei	et	al.	(2020)	isolate	the	direct	causal	relationship	between 	women	on	the	board	and	better	innovation	activities.	Nathan	and	Lee	(2013)	report 	on	the	importance	of	ethnically	diverse	enterprises	in	London,	finding	that	companies 	with	more	ethnically	diverse	management	introduce	more	product	innovations.
+There	is	also	evidence	that	business	performance	improves	for	diverse	teams	that	are	innovation‑focused	(Richard	et	al.,	2003;	Deszö	and	Ross,	2012),	but	that	ethnically	diverse	boardrooms	exhibit	“erratic	decision‑making”	(Giannetti	and	Zhao,	2016	and	2018).
+Studies	on	the	impact	of	diverse	teams	in	the	workplace	also	find	clear	benefits	in 	terms	of	creativity,	innovation	and	problem‑solving.	Although	there	is	also	evidence 	of	conflict	among	diverse	teams,	this	is	not	universally	experienced	and	there	are 	moderating	factors.	Stahl	et	al.	(2010)	find	from	their	meta‑analysis	of	ethnically 	diverse	teams	a	significant	association	between	ethnic	diversity	and	creativity	and 	some	evidence	of	task	conflict.	They	find	no	evidence	of	relationship	conflict	or 	communication	inefficiencies,	contrary	to	their	expectations.
+Kochan	et	al.	(2003)	intensively	studied	the	impact	of	D&I	initiatives	at	four	large	organisations.	They	find	that	“racial	and	gender	diversity	does	not	have	the	positive	effect	on	performance	proposed	by	those	with	a	more	optimistic	view	of	the	role	diversity	can	play,	at	least	not	consistently,	but	neither	does	it	have	the	negative	effect	on	group	processes	warned	by	those	with	a	more	pessimistic	view.”	They	find	that	some	things	moderated	the	negative	effects,	such	as	team	training	and	development	initiatives.
+Inclusion is not well measured, but there are signs it correlates positively with business performance outcomesWe	found	limited	studies	that	examine	inclusion	principles.	They	reveal	a	lack	of 	consistent	measurement	data,	as	well	as	challenges	in	identifying	direct	causal 	relationships.	However,	those	studies	we	identified	(typically	from	management 	consultants,	or	HR	and	employee	engagement	specialists)	do	portray	positive	impacts 	for	more	inclusive	firms.
+Some	academics	have	suggested	frameworks	for	measuring	the	performance 	outcomes	of	inclusion,	such	as	the	Perceived	Group	Inclusion	Scale	(Jansen	et	al., 	2014)	and	the	three	key	factors	of	fair	employment,	namely	fair	employment	practices, 	integration	of	differences	and	inclusion	in	decision‑making	(Nishii,	2014).	These 	measures	are	based	on	employee	perceptions,	while	Tworoger	et	al.	(2010)	suggest 	asking	line	managers	to	self‑rate	their	skills.	However,	the	more	common	approach	to 	measure	inclusion	is	to	use	established	employee	engagement	providers.	Great	Place 	to	Work	(2020)	analysed	over	3.9	million	employee	survey	responses	across	1,672 	companies	between	2006	and	2019.	The	results	show	that	employees	with	greater 	feelings	of	inclusion	tend	to	work	for	businesses	that	outperform	the	S&P500.	Great 	Place	to	Work	(2020)	also	report	that	the	proportion	of	people	answering	questions 	
+6
+[Page #6]
+about	their	sexual	orientation	and	disability	status	is	an	important	indicator	of	trust 	and	inclusion.	They	find	that	as	the	percentage	of	employees’	choosing	‘prefer	not 	to	respond’	grows,	there	are	drops	in	employees’	faith	in	management,	in	their	sense 	of	safety	in	the	work	environment,	and	in	signs	of	teamwork	–	all	seen	as	drivers	of 	innovation	and	business	performance.
+Badgett	et	al.	(2013)	review	the	role	of	LGBT‑supportive	workplace	policies	and 	link	a	company	having	these	with	improved	workplace	relationships	and	increased 	productivity,	while	Pilcher	et	al.	(2013)	find	that	firms	implementing	LGBT‑supportive 	policies	experience	increases	in	firm	value,	productivity	and	profitability.
+7	
+[Page #7]
+1 
+Introduction
+In this chapter we set out the purpose of this literature review, and its scope, and how	we	approached	gathering	the	research	for	our	review.	We	also	consider	some 	methodological	challenges.
+i.  Purpose and scope of this literature review
+This	report	is	a	review	of	the	academic	and	other	research	literature	on	the	impact	of 	diversity and inclusion (D&I) in the workplace.
+The	purpose	of	the	review	is	to	facilitate	a	good	understanding	of	the	evidence:	does 	diversity	and	inclusion	(D&I)	in	the	workplace	lead	to	better	outcomes?	We	can	use	this 	information	to	consider	the	regulatory	case	for	diversity	and	inclusion	in	UK	financial 	services.
+The	specific	objectives	of	the	review	are	to:
+1.  Assess	the	strength	of	evidence	on	the	links	between	D&I	and	firm	overall	performance.Identify	the	strength	of	evidence	on	the	links	between	D&I	and	risk	management, 	2. and	between	D&I	and	firm	conduct.
+3.  Assess the evidence for whether these links are causal or correlated.4.  Collate	the	measures	of	diversity	and	of	inclusion	being	used	by	academics	or	others.
+Our	brief	was	to	look	at	both	diversity	and	inclusion,	and	to	consider	diversity	in	terms 	of	gender	and	ethnicity,	in	particular,	but	also	social	mobility,	age,	disability,	sexual 	orientation	and	religion.
+We	explore	the	range	of	evidence	on	D&I	in	the	workplace,	both	the	evidence	that 	would	support	its	promotion,	and	also	the	evidence	that	suggests	D&I	in	the	workplace 	has	negative	outcomes.	The	topic	of	inclusion,	although	we	observe	its	rising	up	the 	agenda	over	recent	years,	is	short	of	measured,	comparable	data,	and	we	found	only 	a	few	relevant	studies.	Therefore,	most	of	the	studies	reviewed	are	about	diversity 	rather than inclusion.
+Furthermore,	most	studies	reviewed	are	about	gender,	and	they	focus	on	staff	at	the 	top	of	a	company	–	the	boards	and	executive	committees.	We	also	report	on	studies 	that	have	assessed	ethnicity	(although	few	studies	assess	this	thoroughly),	while	sexual 	orientation	and	gender	identity	tends	to	be	considered	only	in	terms	of	the	level	of 	LGBT/LGBTQ+‑supporting	policies	firms	have	in	place.	For	the	remaining	protected 	or	diversity	characteristics	under	review,	we	identified	very	limited	evidence.	Some 	impact	assessments	considered	the	age,	education	and	experience	level	of	directors, 	but	we	did	not	find	any	evidence	that	researchers	have	sought	to	define	social 	mobility	for	the	purpose	of	measuring	its	influence.	We	reference	any	data	points	of 	interest, but there is insufficient evidence to warrant a chapter or section on these characteristics in this report.
+8
+[Page #8]
+While	our	chief	area	of	interest	was	evidence	from	the	UK,	and	within	financial	services, 	we	explored	many	studies	of	D&I	in	the	workplace	from	other	sectors	and	jurisdictions. 	In this review we have not added our interpretation or opinions on the research we have identified.	Our	purpose	is	to	collate	the	evidence	and	organise	it	under	our	particular 	areas	of	interest	–	business	performance,	risk	management	and	conduct.
+While	it	might	be	difficult	to	generalise	the	findings	onto	the	UK	financial	services	sector,	we	are	still	able	to	draw	some	key	findings	from	the	breadth	of	available	wider	evidence.
+This	report	initially	considers	the	current	context	of	diversity	and	inclusion,	in	terms 	of	the	representation	of	minority	groups	and	women	at	the	top	of	a	firm,	before 	considering	the	impact	on	businesses,	firstly	on	performance	outcomes,	then	risk 	management	and	finally	good	conduct.	We	also	present	a	couple	of	relevant	notes	on 	potential	consumer	harms	arising	from	D&I	issues	in	financial	services,	in	section	5vii. 	For	technical	terms,	please	refer	to	the	Glossary	of	terms.
+ii. 
+Identifying the literature for this review
+The	list	of	literature	for	review	was	generated	in	part	from	literature	that	had	been 	cited	in	recently	published	speeches	by	FCA	directors;	in	part	from	references	and 	articles	shared	by	colleagues,	and	largely	through	searches	using	three	databases	of 	academic	and	financial	journals:	EBSCO,	Jstor	and	Emerald.	The	searches	used	several 	key	terms,	reflecting	the	goals	of	the	review;	the	terms	needed	to	appear	in	paper	and 	article titles.
+The	summaries	or	abstracts	of	the	papers	or	articles	were	reviewed	for	relevance,	and	those	identified	as	relevant,	or	in	scope,	were	then	reviewed	to	understand	what	primary	or	secondary	evidence	they	reported	and	with	what	results.	This	material	generated	further	references	of	interest	which	were	located	and	reviewed	in	a	similar	manner.
+Around	200	literature	items	of	potential	interest	in	total	were	collated.	After	deeming 	some	literature	out	of	scope,	169	items	were	reviewed,	and	notes	taken	on	research 	methodology,	findings	and	conclusions.	This	information	was	stored	in	a	spreadsheet, 	which	acted	as	an	aide	memoire,	allowing	us	to	engage	with	particular	items	of 	literature	when	writing	each	chapter.
+The	literature	spans	academic	empirical	studies,	experimental	design,	market	studies,	consultancy	reports,	meta‑analyses	and	literature	reviews.	Our	review	includes	93	original	studies	that	measure	the	impact	of	D&I	on	businesses	at	team	or	board	level,	of	which	20	collected	primary	research	data,	with	the	bulk	of	impact	studies	compiling	and	analysing	secondary	data.	Most	impact	studies	are	written	by	academic	researchers	(80),	with	ten	by	consultancies	and	three	from	government	and	trade	associations.
+22	studies	reviewed	provide	data	on	the	context	of	D&I	in	the	workplace	today,	six 	comprise	meta‑analyses	(statistical	analysis	of	a	number	of	previous	impact	studies) 	and	16	are	other	literature	reviews	or	summaries	(4).	16	studies	provide	a	theoretical 	(5)	or	measurement	framework	(11)	and	the	remaining	twelve	studies	provide	an 	understanding	of	individual’s	risk	propensity	and	potential	consumer	harms	arising 	from	D&I	issues	in	the	financial	services	sector.
+9	
+[Page #9]
+The	vast	majority	of	studies	(118)	consider	gender,	86	exclusively.	40	assessed	ethnic 	diversity	(14	exclusively),	twelve	centre	on	sexual	orientation	with	14	in	total	considering	this	metric.	18	studies	discuss	inclusion	of	which	three	focus	on	disability	inclusion.
+Although	the	UK	was	our	focus,	only	26	studies	are	from	the	UK,	with	79	from	the	US. 	33	studies	have	global	coverage,	and	we	report	from	30	studies	conducted	in	the	rest 	of	Europe.	Three	studies	are	from	Australia	and	one	from	China.
+25	studies	centre	on	the	financial	services	sector,	of	which	nine	include	the	UK,	four 	exclusively.	The	vast	majority	of	studies	cut	across	a	spread	of	sectors.
+While	it	is	not	possible	to	source	and	explore	all	references	of	potential	interest	we	are 	confident	that	the	most	relevant	studies	have	been	included.	The	review	took	place 	over	eight	weeks	across	April	to	June	2021.
+iii.   Measuring the impact of diverse workplaces – 
+methodological challenges
+Most	D&I	impact	studies	conducted	by	academic	researchers	seek	to	measure	the 	influence	of	more	diverse	senior	leadership	teams	among	the	largest	listed	companies, 	with	few	studies	assessing	the	impact	of	diversity	of	the	rest	of	the	business 	population.	This	is	because	for	these	large	firms	there	is	publicly	available	information 	on	both	the	gender	and	ethnicity	of	boards	and	board	meetings,	and	business 	performance	data.	Academic	researchers	tend	to	use	existing	secondary	data	over 	conducting	primary	research,	to	avoid	response	bias	to	business	surveys	that	comes 	from	a	higher	likelihood	to	respond	by	firms	that	are	D&I	advocates.
+The	existing	data	are	rarely	complete,	however.	Variables	and	characteristics	that 	could	be	influencing	the	results	cannot	all	be	collected,	meaning	they	cannot	be 	included	as	control	variables	when	analysing	the	impact	of	diversity	on	performance. 	This	presents	potential	for	‘omitted	variable	bias’.	In	other	words,	while	many	studies 	have	identified	significant	associations	or	correlations	between	diverse	boards	and 	business	outcomes,	the	exhaustive	set	of	control	variables	necessary	for	isolating	the 	effects	of	diversity	and	hence	providing	strong	evidence	for	causality	are	rarely	present 	in the data.
+Some	academic	studies	do	attempt	to	demonstrate	causality,	while	others	note	the 	limitation	that	their	analysis	proves	correlation	only.	Causality	is	difficult	to	determine, 	essentially	because	directors	with	diverse	characteristics	are	not	randomly	distributed, 	which	leads	to	the	possibility	of	sample	selection	bias,	presenting	‘endogeneity’ 	concerns.	For	example,	female	directorships	tend	to	be	better	represented	in	certain 	sectors	than	others	and	are	typically	found	on	larger	boards	at	the	larger	companies.
+Some	have	also	suggested	that	the	composition	of	the	board,	ie	the	presence	of 	female	directors,	could	be	linked	to	past	performance	(good	or	bad)	as	well	how	ethical 	the	business	is.	If	we	find	more	women	on	the	boards	of	the	more	socially	responsible, 	well‑governed	and	growth‑oriented	firms,	it	can	be	very	challenging	to	determine	what 	came	first:	women,	or	some	kind	of	organisational	or	business	improvement.
+10
+[Page #10]
+Control	variables	are	used	to	help	to	isolate	the	causal	effect	of	D&I.	Factors	that 	 are	perceived	to	moderate	the	relationship	between	the	D&I	and	outcome	variables 	in	scope,	are	considered	as	control	variables.	This	might	be	firm	characteristics	such 	as	size,	sector,	age	and	ownership	and	sector	or	country	characteristics	such	as	GDP/growth	rates,	as	well	as	board	characteristic	such	as	size,	number	of	insiders	and	CEO 	tenure	and	duality.	Other	control	variables	of	interest	can	be	corporate	governance 	measures	such	as	meetings	frequency	(Carter	et	al.,	2010)	and	cognitive	diversity 	such	as	age,	education	or	experience	of	the	directors	(Ciavarella	et	al.,	2018).	Omitted 	variables	that	cannot	be	included	as	controls	which	may	present	bias	concerns	could 	be any of these, but also aspects of corporate culture or risk aversion principles.
+The	demonstration	of	causality	also	requires	times	series	(longitudinal)	data,	although 	longitudinal	data	present	their	own	challenges.	The	more	time	periods	there	are,	the 	greater	potential	for	missing	data	and	variance	due	to	external	factors	(eg	economic 	trends).	Beyond	causality,	there	are	further	challenges	for	those	seeking	to	identify	the 	impact	of	D&I	in	the	workplace:
+•  Measurement	–	There	is	not	a	universally	consistent	way	in	which	diversity 	
+characteristics,	beyond	gender,	are	collected.	The	impact	studies	measuring	the 	impact	of	ethnic	diversity	have	used	a	range	of	different	approaches,	including 	algorithms	based	on	names	or	images,	or	passport	information	to	establish 	whether	‘foreign	born’,	which	is	itself	not	a	measure	of	ethnic	diversity.	Drawing 	global	comparisons	is	difficult	where	classifications	(particularly	for	ethnicity, 	education	levels	or	disability)	vary	widely	between	different	regions.Note	that	we	have	cited	terminology	and	groupings	used	within	the	research	we 	have	analysed,	such	as	BAME	or	LGBT/LGBTQ+.	We	are	aware	that	the	term	BAME 	is	being	considered	throughout	society,	as	this	grouping	can	hide	large	differences 	in	outcomes	between	ethnic	groups	and	excludes	some	ethnic	minorities.•  Country	–	It	is	not	easy	to	generalise	findings	from	one	country	to	another,	with 	their	different	cultures,	board	systems,	legal	mandates	and	demographics.Timing	–	It	is	simply	too	soon	to	draw	categoric	conclusions	about	the	impact 	of	ethnic	minority	and	female	board	participants,	given	that	diverse	groups	are 	under‑represented	across	a	range	of	sectors	and	functions.	As	a	result	of	this, 	many	early	studies	in	the	1990s	created	a	binary	diversity	variable	(ethnic	or 	gender)	to	indicate	the	presence	of	either	women	or	minority	ethnic	groups	on 	a	board.	More	recent	authors	suggest	that	a	critical	number	of	female	board 	members	is	needed	before	they	can	exert	a	positive	influence	(Erkut	et	al.,	2008). 	The	use	of	a	binary	variable	to	indicate	the	presence	or	absence	of	women	or 	ethnic	minorities	on	boards	could	be	too	simplistic	to	detect	the	impacts	on	the 	business of board diversity.Studies	such	as	Ferrari	et	al.	(2016),	and	Hwang	et	al.	(2019),	that	have	assessed	the 	impact	of	legislation	on	gender	quotas	for	corporate	boards	in	Italy	and	California 	respectively,	go	some	way	to	overcoming	the	challenge	to	prove	causality, 	but	these	tended	to	take	place	quite	soon	after	the	legislative	change,	and	so 	long‑term	effects	were	not	yet	clear.	There	are	also	concerns	regarding	sample 	selection,	choice	of	the	control	group	and	wider	confounding	effects	not	being 	accounted for.Research	focus	on	the	boardroom	–	Few	studies	have	considered	the	wider	context 	of	the	workforce	and	the	influence	of	diversity	at	all	grades	or	levels	in	a	company. 	Comparable	data	are	not	available	to	measure	the	impact	of	other	business 	outcomes,	such	as	customer	satisfaction,	employee	engagement	and	corporate 	reputation	(CIPD,	2018).
+• 
+• 
+• 
+11 
+[Page #11]
+Further,	a	real	challenge	for	this	review	has	been	weighing	up	results	from	the 	different	studies,	not	least	because	the	findings	from	some	studies	contradict	those 	of	others.	Stahl	et	al.	(2010)	expressed	this	challenge	well,	when	they	wrote	that 	they	were	seeking	to	“reconcile	the	conflicting	perspectives	of	past	studies”	in	their 	meta‑analysis	of	workplace	diversity.
+12
+[Page #12]
+2  Diversity and inclusion in the workplace today
+This	chapter	presents	a	summary	of	the	overall	progress	of	D&I	in	the	workplace	today 	and	contains	a	section	for	each	diversity	characteristic,	inclusion	and	measurement.
+i.  Overall progress
+There	has	been	some	real	progress	across	D&I	in	the	workplace	over	the	past	decade, 	in	response	to	legal	and	voluntary	requirements,	but	many	areas	are	still	lagging.
+The	majority	of	data	available	that	paints	a	picture	of	D&I	in	the	workplace	today	pertains	to	gender,	and	occasionally	ethnicity,	but	almost	always	at	the	top	of	only	the	largest	companies	with	very	little	data	collected	for	wider	businesses.	The	Institute	of	Directors	(IoD)	sought	to	address	the	gap	in	data	in	a	2019	survey	of	its	members	outside	the	FTSE350	(n=1,378).	64%	agreed	that	“a	diverse	board	is	a	strong	driver	of	an	effective	business”	with	only	11%	disagreeing,	yet	the	vast	majority	(76%)	“did	not	have	a	programme	in	place	to	recruit,	develop	or	retain	a	diverse	or	inclusive	workforce”.
+McKinsey	(2020)	suggests	that	the	rate	of	progress	has	slowed	across	the	globe	in 	recent	years.	They	report	a	lower	rate	of	growth	for	female	and	ethnically	diverse 	executives	between	2017	and	2019	compared	with	2014	–	2017	and	remark	that 	“More	than	a	third	of	the	companies	in	our	data	set	still	have	no	women	at	all	on 	their	executive	teams.”	They	found	the	gap	to	be	widening	between	D&I	leaders	and 	companies	that	have	yet	to	embrace	diversity	while	the	study	also	found	evidence 	of	large	corporates	that	were	‘Resting	on	Laurels’	where	diversity	levels	had	dropped 	since 2015.
+ii.  Gender diversity
+In	the	UK,	the	representation	of	women	on	company	boards	has	steadily	grown	over 	the	past	decade,	increasing	from	just	10%	of	all	FTSE	350	directorships	in	2011,	to 	27%	in	2018	(IoD,	2019).	There	is	a	current	target	of	33%	female	representation	for 	each	FTSE350	board,	set	in	2016	by	the	Hampton‑Alexander	Review. 1 This replaced the	earlier	target	of	25%,	which	was	reached	by	FTSE100	firms	in	2015.	Three	in 	ten	FTSE350	firms	had	reached	this	target	by	2018,	and	there	were	just	five	all	male 	FTSE350	boards	at	this	time,	compared	with	152	in	2011.	McKinsey	(2020)	report	a 	similar	picture	of	growth.	For	the	365	UK	and	US	large	companies	(revenues	>	$1.5bn) 	that	McKinsey	has	monitored	since	2014,	gender	representation	in	the	executive 	leadership	team	grew	from	14%	in	2014	to	20%	in	2020.
+1 
+https://www.gov.uk/government/publications/ftse‑women‑leaders‑hampton‑alexander‑review – successor to the earlier Davies Review	(2010).
+13 
+[Page #13]
+The	UK	is	middling	in	its	progress	on	board	gender	diversity	compared	to	its	European 	neighbours,	according	to	global	MSCI	(2018)	data.	They	reported	that	29%	of	UK 	directorships	were	held	by	women.	This	compares	with	41%	in	France	and	23%	in 	Germany.	Zehnder	(2020)	says	that	the	UK	is	one	of	18	countries	in	its	annual	diversity 	survey	to	have	at	least	three	women	on	their	large‑cap	company	boards	(market 	capitalisation	>	EUR6bn).	Analysis	of	the	top	listed	companies	across	twelve	peer 	countries	in	the	Hampton	Alexander	Review	shows	the	FTSE100	to	be	in	fifth	position, 	with	36%	of	directorships	held	by	woman,	compared	to	France’s	CAC40	at	44%	(1st) 	and	Germany’s	DAX30	at	30%	(12th).	Of	the	10	European	countries	in	the	list,	the 	majority	have	mandatory	quotas	in	place	for	companies	in	their	leading	indices.	The	UK 	(5th)	and	Finland	(7th)	have	voluntary	targets	in	place,	with	the	UK	endeavour	extending	two	management	layers	below	the	board.	Two	further	countries	in	the	peer	group	list, 	Australia	and	Canada,	also	have	voluntary	requirements	for	their	top	index	companies 	and	are	at	32%	female	representation.	Catalyst	(2016)	attributes	the	success	of	the 	approach	in	the	UK	to	the	government’s	“unprecedented	level	of	support”	for	the 	Hampton‑Alexander	Review	voluntary	quotas	initiative.
+However,	despite	the	positive	trends	reported	in	the	proportion	of	female 	directorships,	there	has	not	been	an	increase	in	the	representation	of	women	at	the 	very	top	of	the	FTSE350	firms.	In	fact,	the	IoD	(2019)	reports	a	decline,	from	a	peak	of 	18	female	CEOs	in	2016	to	just	twelve	in	2018,	while	the	figure	stood	at	15	in	2011.	The 	Hampton	Alexander	Review	also	highlighted	the	weakness	in	gender	diversity	at	the 	very	top	of	FTSE100	companies,	with	only	eight	out	of	a	possible	98	roles	in	2020.
+There	are	also	concerns	that	the	representation	of	women	tends	to	fall	into	roles	with 	less	influence.	Credit	Suisse	(2014)	shows	that	the	proportion	of	women	in	senior 	manage	ment	globally	is	similar	to	that	seen	on	the	boards	of	companies,	but	their	roles 	are	skewed	towards	roles	which	offer	less	opportunity	to	move	into	the	most	senior 	positions	in	a	company	–	tending	to	be	most	concentrated	in	‘shared	services’	such	as 	HR,	marketing	and	compliance/legal.
+There	are	also	clear	variations	in	gender	representation	within	different	sectors.	Healthcare	and	service	sectors	are	most	likely	to	have	female	directors	on	their	boards.
+iii.  Gender diversity in financial services
+In	the	UK,	Suss	et	al.	(2021)	show	a	steady	increase	in	the	number	of	females	in 	authorised	positions	across	banks	and	building	societies,	albeit	from,	and	remaining 	at,	a	very	low	base.	The	proportion	of	females	in	authorised	positions	rose	from	9%	in 	2001	to	20%	at	the	end	of	2020.	They	also	find	relatively	slower	increases	in	gender 	diversity	for	more	senior	positions,	providing	evidence	of	a	‘glass	ceiling’	in	the	UK 	banking	sector.	For	CEOs,	the	proportion	of	females	rose	from	1.7%	in	2001	to	9.7%	by 	the end of 2020.
+Board	Monitor	Europe	(Heidrick	and	Struggles,	2016)	report	that	the	financial	services 	(FS)	sector	was	below	average	in	the	proportion	of	new	directorship	appointments. 	7 out	of	the	27	new	directors	appointed	to	FTSE100	FS	boards	in	the	UK	in	2016	were 	female,	equating	to	26%,	compared	with	34%	across	all	sectors	in	the	UK	that	year. 	This	study	found	that	the	FS	sector	tended	to	recruit	the	most	experienced	directors 	in	the	UK,	which	may	help	to	explain	the	lack	of	new	female	directorships	recruited.
+14
+[Page #14]
+Globally,	the	financial	services	sector	performs	above	average	in	terms	of	gender 	diversity	in	leadership	and	is	also	a	fast	growing	sector	on	this	metric	(McKinsey,	2020). 	MSCI	(2018)	analysis	shows	the	finance	sector	to	have	the	highest	proportion	of 	companies	with	3+	women	on	boards,	at	41%.
+Turning	back	to	Europe,	the	European	Banking	Association	(EBA)	diversity	survey, 	conducted	in	2018,	found	that	only	58%	of	the	864	credit	and	investment	institutions 	that	responded	had	a	diversity	policy.	This	had	increased	notably	from	35%	in	2015,	in 	response	to	legal	requirements,	but	shows	a	significant	minority	had	not	yet	met	the 	requirements	under	article	91(11)	of	Directive	2013/36/EU	that	requires	all	institutions 	to have a diversity policy.
+As	seen	for	the	wider	industry,	Oliver	Wyman	(2020)	reports	that	women	at	the	top 	of	global	financial	services	firms	tend	to	work	in	the	operational	functions	of	legal, 	marketing	and	HR,	with	representation	lower	in	more	senior	and	strategic	areas.
+Table 2.1: Representation of women on Executive Committees by role in major financial services firms globallyWOMEN ON EXECUTIVE COMMITTEES BY ROLE 2019 (%)
+Change 2016-19(ppts)
+Average change(ppts)
+CEO
+6%
+-2
+CEO
++4
+16%
+Vice CEO
+COMMERCIAL ROLES
++5
+21%
+Business Lines
++6
+13%
+CTO
++3
++1
+17%
+Finance
++3
+19%
+Risk and Actuarial
+ROLES WITH LOWER REPRESENTATION OF WOMEN
++4
++7
+21%
+Strategy
++8
+COO
+21%
+-3
+Audit
+25%
++8
+34%
+Compliance
++9
+35%
+Legal
+ROLES WITH HIGHER REPRESENTATION OF WOMEN
++10
++13
+46%
+Marketing
+HR
++12
+58%
+Source: Women in Financial Services, Oliver Wyman (2020)
+There	are	also	differing	levels	of	representation	for	women	between	different	financial 	institutions.	The	EBA	(2018)	diversity	survey	reported	particularly	low	levels	of	female 	representation	in	investment	firms	and	small	credit	institutions.	The	proportion	of 	EU	small	credit	institutions	that	have	a	woman	on	the	management	body	actually	fell 	between	2015	and	2018,	from	46%	to	31%.
+Oliver	Wyman’s	(2020)	global	study	shows	growth	in	female	representation	on	the 	boards	of	asset	management	companies,	increasing	from	19%	in	2016	to	26%	in	2019. 	Fintech	is	new	to	the	study	but	an	area	of	concern,	with	just	14%	of	Fintech	board	roles 	fulfilled	by	women	in	2019.	Oliver	Wyman	(2020)	also	notes	that	progress	has	been 	made	at	the	global	payment	providers	Amex,	Visa,	Mastercard	and	PayPal,	giving	the 	payments	sector	the	highest	share	of	women	on	executive	committees,	rising	from 	23%	in	2016	to	34%	in	2019.	The	report	also	states	that	22%	of	board	roles	in	the 	payments	sector	are	occupied	by	women	in	2019.
+15 
+[Page #15]
+iv.  Ethnic diversity
+As	stated	by	the	McGregor‑Smith	Review	(BEIS,	2017),	there	is	a	wealth	of	evidence 	suggesting	that	minority	ethnic	individuals	struggle	to	achieve	the	same	progression 	opportunities	as	their	counterparts	in	the	UK.	Research	by	Business	in	the	Community 	(2015)	showed	that,	while	one	in	ten	workplace	positions	were	held	by	ethnic	minorities 	(BME),	only	one	in	sixteen	top	management	positions	were	held	by	an	ethnic	minority 	person	–	reporting	no	change	between	2007	and	2012.
+The	McGregor‑Smith	Review	found	that,	although	ethnic	minority	individuals	are 	more	likely	to	participate	in	higher	education	than	white	British	individuals,	this	does 	not	translate	into	equal	outcomes	after	graduation.	In	a	paper	on	the	business	case 	for	equality	and	diversity,	BIS	(2013)	report	anecdotal	evidence	from	a	survey	of	285 	diversity	managers	that	“a	lack	of	equality	policies	can	lead	to	greater	staff	turnover 	rates,	with	an	associated	loss	of	talent,	as	well	as	potential	employment	tribunals	and 	associated	bad	press”.
+McKinsey	(2020)	report	that	their	analysis	shows	that	“the	UK,	at	9%	non‑majority 	representation	on	executive	teams,	is	just	under	halfway	to	achieving	fair‑share 	representation	of	ethnic	minorities	(20%),	while	all	others	are	further	behind,	including 	the	US	(14%	on	executive	teams	compared	to	37%	share).”
+Heidrick	&	Struggles	(2016)	found	that	the	UK	was	the	most	likely	to	recruit 	foreign‑born	directors	(57%)	compared	to	France	(47%)	and	Germany	(36%).	There 	was	no	breakdown	on	this	statistic	for	ethnic	minorities,	nor	for	financial	services 	specifically.	IoD	(2019)	finds	from	its	survey	of	FTSE350	boards	that	21%	are 	represented	with	at	least	one	minority	ethnic	(BAME)	individual.
+The	Parker	Review	(BEIS,	2017)	set	the	challenge	that	FTSE100	boards	should	have	at 	least	one	‘director	of	colour’	by	2021	(and	by	2024	for	FTSE250	boards).	The	Review 	authors	find	that,	out	of	1,050	directors	in	the	FTSE100,	only	85	are	persons	of	colour 	(8%,	compared	with	14%	of	the	wider	UK	population).	Furthermore,	51 FTSE100	firms 	have	no	directors	of	colour	at	all,	and	only	six	people	of	colour	hold	the	position	of	Chair 	or	CEO.	By	March	2021,	81	FTSE100	boards	had	at	least	one	‘director	of	colour’.
+Early	findings	from	the	Green	Park	Business	Leaders	Index	(2021)	show	a	decline	in 	the	number	of	black	leaders	and	the	‘black	pipeline’	for	FTSE100	companies,	although 	overall	there	was	a	moderate	increase	in	other	minority	ethnic	group	members 	(Muslim,	Hindu	and	Sikh,	and	Chinese	and	East	Asian)	in	these	top	positions.	Across 	the	top	three	roles	in	the	FTSE100,	only	ten	out	of	297	positions	were	occupied	by 	individuals	with	an	ethnic	minority	background,	the	same	proportion	as	when	Green 	Park	began	their	FTSE100	analysis	in	2014.
+There	is	also	survey	data	highlighting	how	minority	ethnic	individuals	feel	that	their	identity	or	background	impacts	the	opportunities	given	in	the	workplace.	CIPD	(2017)	conducted	a	survey	to	understand	the	workplace	barriers	for	BAME	individuals.	35%	of	BAME	individuals	agree	that	“In	my	organisation,	your	identity	or	background	can	have	an	effect	on	the	opportunities	you	are	given,”	compared	with	26%	of	white	British	individuals.	Although	males	are	more	likely	to	agree	with	this	statement,	the	difference	is	more	pronounced	between	BAME	females	(31%)	and	white	females	(19%).	There	are	signs	that	these	perceived	barriers	are	dissipating	among	18‑34	year	olds.	64%	of	BAME	individuals	in	this	age	cohort	agree	that	“In	my	organisation	everyone	has	the	opportunity	to	achieve	their	
+16
+[Page #16]
+potential	at	work,	no	matter	your	identity	or	background”,	compared	with	65%	of	their	white	counterparts	and	45%	of	45‑54	year	old	BAME	employees.
+v.  Sexual orientation
+We	have	found	limited	data	on	the	representation	of	openly	LGBTQ+	people	in	the	workplace,	especially	so	for	executives	and	board	members	at	the	top	of	the	company.	Employee	engagement	surveys	can	be	used	to	measure	sexual	orientation	and	gender	identity.	However,	such	questions	can	attract	high	rates	of	refusal.	Great	Place	to	Work	(2020)	highlights	that	for	every	two	employees	who	identify	as	LGBT	(or	living	with	a	disability), there are three who actively refuse to share their identity. The only statistic found	pertaining	to	roles	at	the	very	top	of	companies	was	from	the	IoD	(2019)	directors	survey	of	non‑FTSE350	firms,	where	7%	of	respondents	report	that	their	board	is	represented	by	someone	openly	LGBTQ+.	Note	that	the	ONS	(2019)	Annual	Population	Survey	estimates	that	“2.7%	of	the	UK	16+	population	identifies	as	lesbian,	gay	or	bisexual”.
+There	is	evidence	of	the	concerns	that	LGBTQ+	individuals	feel	in	the	workplace.	In	a 	survey	of	over	100,000	LGBT	people	in	the	UK	(Government	Equalities	Office,	2018), 	23%	had	experienced	a	negative	or	mixed	reaction	from	others	in	the	workplace	due	to 	being	LGBT	or	being	thought	to	be	LGBT.
+vi.  Other diversity characteristics
+We	found	little	data	on	disability	and	while	educational	attainment/background	has 	been	considered	in	some	impact	studies,	we	do	not	find	any	examples	of	the	impact 	of	social	mobility	being	directly	assessed.	As	with	education	and	experience	(such 	as	tenure	in	the	organisation	or	on	a	board,	prior	sectors	and	specialisms),	age	is 	considered	in	some	studies	that	assess	the	impact	of	diverse	boards.	However, 	education,	experience	and	age	variables	can	also	be	used	as	controls	or	moderators	in 	the	model	and	might	be	considered	as	outcome	measures,	for	example	to	understand 	whether	a	mandatory	change	in	gender	representation	leads	to	a	change	in	the 	education/professional	background	of	the	directors,	or	a	lower	or	higher	average	age.
+IoD	(2019)	report	from	its	survey	of	members	that	6%	of	FTSE350	boards	are 	represented	by	a	member	that	is	registered	disabled,	but	we	found	no	studies	that 	provide	this	measure	for	the	largest	listed	companies.	The	ONS	(2020)	reports 	that	19%	of	working	age	adults	are	disabled,	and	52%	of	these	are	in	employment 	(compared	with	82%	of	the	non‑disabled	working	age	population)
+In	the	UK,	the	Cranfield	School	of	Management	(2005‑2020)	tracks	the	progress	of 	female	representation	on	the	boards	of	FTSE100	companies,	in	its	 The Female FTSE Board report,	collecting	name,	age,	tenure,	position	and	number	of	directorships	held 	by	each	director.	The	series	had	been	started	in	1999,	by	Singh	and	Vinnicombe	of 	Cranfield	University.	In	1999	just	6%	of	FTSE	100	directorships	were	female	and	one 	third	of	these	were	peers	or	held	other	titles.	Singh	and	Vinnicombe	(2003)	suggest 	that	social	exclusion	was	the	primary	barrier	to	female	progress	in	the	boardroom.	In 	its	latest	report,	Cranfield	(2020)	report	that	female	directors	are	slightly	younger	(two 	years	on	average)	than	their	male	counterparts.
+17	
+[Page #17]
+vii. Inclusion
+We	can	see	inclusion	steadily	growing	in	prominence	globally.	Grant	Thornton	(2021) 	report	from	a	survey	of	midcap	businesses	that	those	‘creating	an	inclusive	culture’	is 	up	from	31%	in	2019	to	36%	in	2021.
+Thomas	Reuters	established	a	‘Global	Diversity	and	Inclusion	Index’	in	2016,	which 	provides	a	useful	example	of	how	inclusion	is	becoming	important.	Reuters	assigns	a 	score	to	the	top	100	global	companies	based	on	24	underlying	metrics	in	four	areas: 	Diversity,	Inclusion,	People	Development,	and	News	Controversy.	This	annual	index	is 	used	to	inform	an	ethical	fund	as	well	as	job	seekers	who	want	to	work	in	progressive 	companies.	The	analysis	is	based	on	publicly	available	information	(eg	annual	reports).
+HR	specialist	Josh	Bersin	(2021)	advises	that	“Inclusion	should	be	the	goal,	and 	Diversity	the	result.”	The	company	undertook	a	global	study	of	D&I	interviews	with 	800	companies	and	found	unclear	goals	and	a	shortage	of	training	and	HR	expertise. 	They	find	that	the	focus	on	D&I	has	“sky‑rocketed”,	but	also	report	some	concerning 	statistics:	fewer	than	12%	of	companies	recognise	senior	leaders	for	inclusion	or 	diversity	goals;	76%	of	companies	have	no	diversity	or	inclusion	goals,	and	only	one 	third	mandate	D&I	training	for	staff	or	managers.	They	also	report	that,	from	an 	assessment	of	3,500	HR	professionals,	just	3%	have	deep	expertise	in	D&I,	while	the 	vast	majority	(4	in	5)	assess	themselves	as	D&I	beginners.	This	makes	D&I	by	far	the 	lowest	of	20	HR	capabilities	assessed.
+Although	rising	up	the	agenda,	the	majority	of	UK	businesses	have	yet	to	embrace 	inclusion.	In	the	2019	IoD	survey	of	non‑FTSE	350	companies,	76%	reported	that 	their	organisations	did	not	yet	have	an	official	program	in	place	to	specifically	recruit, 	develop or retain a diverse or inclusive workforce.
+viii.  Measurement of diversity and inclusion
+There	is	no	consistent	way	in	which	data	about	diversity	in	the	workplace	are	being 	collected	in	any	one	industry,	or	in	any	one	country	–	nor	is	there	much	evidence	of	the 	collection	of	inclusion	data.	This	lack	of	data	is	a	key	reason	why	researchers	struggle 	to	find	robust	evidence	of	the	impacts	of	D&I	in	the	wider	workplace.	Analysis	of	large 	US	firms	led	Rand	Corporation	(2008)	to	conclude	“What	the	diversity	literature	lacks 	at	this	point	is	substantive,	data‑driven	research,	with	empirical	evidence	for	what 	constitutes	an	effective	strategy	and	appropriate	measures	of	achievement.	Currently, 	companies	are	relying	on	beliefs,	not	facts.”
+Management	consultants	are	aware	of	this	gap.	As	a	result,	measurement	has	become 	one	of	the	leading	recommendations	to	firms	looking	to	improve	D&I	(Oliver	Wyman, 	2020;	Culture	Plus	Consulting,	2018).
+The	CIPD	(2019)	advises	assessing	whether	all	employees	feel	the	workplace	is 	inclusive,	and	whether	people	management	and	HR	practices	themselves	are	inclusive, 	as	there	is	a	“key	role	that	leaders	play	in	creating	inclusive	workplaces”.	In	their	review 	of	inclusion	in	the	workplace,	CIPD	(2019)	summarised	the	tools	provided	by	academics 	to	measure	inclusion,	as	shown	in	Table	2.2.
+18
+[Page #18]
+Table 2.2: Summary of inclusion measurement tools from academic literature
+Type of measurement
+Source 
+Inclusion definition  Measurement 
+Jansen et al.  (2014)
+Individual perceptions of inclusion within a team	
+Inclusion is based on	belonging	and	authenticity. The tool aims	to	understand	whether	employees	feel included within their	team.	
+The	Perceived	Group	Inclusion	scale,	which	measures	perceptions	of	belonging	and	authenticity	such	as	being	allowed to be their authentic self,	and	feelings	of	belonging	to	the	group.
+Tworoger	et	al.	(2010)
+Individual line manager	beliefs	and behaviours associated with inclusion 
+The authors identify several	competencies	associated with inclusion, such as valuing	difference	and	managing	conflict.	
+The	questionnaire	includes	a	number	of	behaviours	and	beliefs	for	managers	to	self‑rate	their	skills.	Eg	whether	they	believe	different	thinking	styles	are beneficial, and how far they	support	fair	recruitment,	promotion	and	reward.	
+L.	Nishii	 (2014)	
+Employee	views	of key factors associated with inclusive	climate	–	at	an	organisation	or	departmental	level 
+Three key factors associated with an inclusive organisational	climate:	fair	employment	practices,	integration	of differences, employee	inclusion	in	decision‑making.
+This	measure	asks	individuals	to rate the fairness of various practices	(like	promotion	processes), how far the organisation	integrates	difference	(for	example,	valuing	who	employees	are	as	people),	and how far people are included in	decision‑making.	
+Mor	Barak	 (2005)
+Employee‑level	perceptions of a variety of organisational	behaviours, practices and values 
+Inclusion	and	exclusion	exist	on	a	continuum,	and	hinge	on	five	levels	of inclusion – at a work group,	organisation,	line	manager,	senior	leadership and informal/social	level.	
+This	scale	(the	Mor	Barak	Inclusion	Exclusion	Scale,	or	MBIE)	assesses	individual‑level	feelings	of	inclusion	at	all	organisational	levels	–	from	manager	information‑sharing	to	inclusion	in	informal	‘water	cooler’	conversations,	along	with	the	extent	to	which	the	organisation	is	committed	to	D&I
+Source:	CIPD	(2019).	Building Inclusive Workplaces
+In	their	review	of	workplace	support	for	LGBT	employees,	Webster	et	al.	(2017)	discuss 	the	general	approaches	used	to	measure	how	supportive	an	organisation	is	towards 	sexual	orientation	and	gender	identity.	This	includes:
+1.  The	extent	to	which	sexual	orientation	and	the	full	range	of	LGBT	identities	is 	
+included	in	an	organisation’s	policies.
+2.  The	Organizational	Tolerance	for	Heterosexism	Inventory	–	From	four	scenarios 	
+where	LGBT	employees	experience	mistreatment,	participants	are	asked	how	their 	firm	might	respond.
+3.  An	adaptation	of	Rankin’s	(2003)	campus	diversity	metric;	participants	rate	their 	work	environment	using	a	semantic	binary	differential	question	(eg	respectful	– 	disrespectful).
+4.  The	LGBT	Climate	Inventory	(LGBTCI;	Liddle	et	al.,	2004),	which	is	a	20‑item 	
+measure	assessing	LGBT	perceptions	of	their	organisations’	supportiveness,	was 	most	commonly	used	in	the	LBGT‑workplace	support	studies	reviewed	by	Webster 	et	al.	(2017).
+19	
+[Page #19]
+Examples	of	measurement	suggested	by	management	consultants	include:
+• 
+The	Catalyst	Inclusion	Accelerator,	provided	by	the	D&I	not‑for‑profit	organisation, 	for	their	supporters,	to	evaluate	and	monitor	how	teams	and	employees	experience 	inclusion.
+•  Oliver	Wyman	(2020)	suggests	“tracking	behaviours,	attitudes,	and	what	is	driving 	them.	It	requires	real‑time	data	instead	of	annual	surveys	to	provide	actionable 	insight.”
+•  Culture	Plus	Consulting	(2018)	suggests	that	businesses	consider	the	following 	
+metrics	as	they	endeavour	to	understand	and	improve	D&I:
+ – Representation	–	at	all	levels	and	functions; – Retention	–	comparing	average	tenure	across	monitored	groups,	ideally 	
+segmented	into	voluntary	and	involuntary.	Exit	interview	notes	should	be	used 	to	track	the	reasons	for	leaving;
+ – Recruitment	&	selection	–	comparing	applicants	and	appointments	across 	
+monitored	groups,	internally	and	externally;
+ – Promotion	&	development	–	tracking	promotions,	lateral	moves,	acting	roles, 	training	and	other	stretch	assignment	opportunities	by	monitored	group; – Pay	&	benefits	–	comparing	financial	and	non‑financial	rewards	earned	across 	
+monitored	groups;	and
+ – Employee	engagement	–	comparing	results	between	monitored	groups,	with 	specific	questions	related	to	D&I	(eg	how	employees	experience	inclusion).
+Other	potential	sources	of	D&I	measurement	data	suggested	by	Culture	Plus 	Consulting	(2018)	include	grievances	and	lawsuits,	assessing	how	customer 	satisfaction	and	employer	brand	perceptions	may	vary	between	different	groups, 	and tracking	supplier	diversity	metrics.
+20
+[Page #20]
+3 
+Evidence of links between diversity, inclusion and business performance
+This	chapter	presents	a	review	of	the	research	literature	that	explores	the	impact	of 	D&I	on	business	performance	outcomes,	specifically	financial	outcomes	such	as	profit 	and shareholder returns.
+The	chapter	starts	with	a	summary	of	the	impact	of	diversity	characteristics,	inclusion 	and	measurement	at	team	level	and	in	the	wider	workplace,	considering	the	various 	academic	theories,	before	reviewing	the	breadth	of	literature	that	assesses	the	impact 	of	diverse	senior	leadership	on	business	performance	outcomes.	Most	of	these 	studies	focus	on	gender,	or	ethnicity.	We	have	a	section	detailing	the	findings	for	each, 	including	a	sub‑section	that	focuses	on	studies	that	have	reviewed	the	impact	of 	gender	quota	mandates.
+i.  Overall summary
+The	vast	majority	of	studies	that	seek	to	determine	the	impact	of	diversity	on	firm 	performance	measures	are	based	on	the	diversity	of	the	board	and	senior	executives, 	and	at	team	level,	with	very	few	assessing	results	in	the	context	of	the	diversity	of	the 	overall	firm.	The	evidence	base	surrounding	the	business	benefits	of	diverse	teams 	is	large	and	quite	mixed.	Broadly,	diverse	teams	bring	benefits	in	terms	of	creativity 	and	wellbeing	but	can	cause	efficiency	losses	due	to	conflict,	although	this	can	be 	moderated	by	inclusive	workplace	practices.
+Overall,	the	empirical	evidence	for	the	impact	of	diverse	workforces	and	boards	on 	business	performance	is	inconclusive,	largely	as	a	result	of	the	various	methodological 	challenges	discussed	in	Section	1iii,	but	also	because	the	studies	explore	a	range	of 	sectors	and	geographies,	which	cannot	necessarily	be	compared	or	generalised	to 	other areas.
+The	greatest	weight	of	evidence	is	for	gender‑diverse	boards,	where	the	majority	of 	studies	do	find	a	positive	association	with	business	performance	but	many	of	these 	confirm	correlation	only.	We	also	see	a	positive	impact	for	the	more	‘inclusive’	firms 	and	those	with	LGBTQ‑supportive	policies	or	disability	inclusion	strategies,	but	there 	are fewer studies conducted in these areas.
+While	age	and	education	diversity	metrics	have	been	considered	in	some	gender	and	ethnic	diversity	focused	studies	about	the	impact	of	diverse	boardrooms,	we	found	no	impact	studies	that	included	disability	as	a	diversity	metric.	‘Cognitive	diversity’	–	which	can	include	age,	education	and	experience,	such	as	the	number	of	directorships	held	and	sectors	where	these	are	held	–	is	sometimes	included	in	a	model	to	understand	how	it	influences	the	relationship	between	gender	or	ethnic	diversity	on	business	performance.
+21 
+[Page #21]
+ii. 
+ The impact of diverse teams (excluding senior leadership teams) on business performance
+We	report	from	15	empirical	studies,	two	meta‑analyses	and	two	literature	reviews 	that	have	assessed	the	impact	of	team	or	workplace	diversity	on	business	outcomes 	(excluding	the	senior	leadership).
+The	three	main	theories	that	suggest	different	outcomes	for	diverse	teams	at	all 	levels are:
+• 
+Social identity theory,	proposed	by	Tajfel	and	Turner	(1986),	suggests	that 	individuals	experience	collective	identity	based	on	their	membership	of	a	group, 	such	as	racial/ethnic	and	gender	identities.	It	is	a	person’s	sense	of	who	they	are 	based	on	their	group	membership(s).Social role theory,	as	proposed	by	Eagly	(1987),	posits	that	widely	shared	gender 	stereotypes	develop	from	the	gender	division	of	labour	within	a	society,	and	that 	even	in	situations	where	gender	stereotypes	are	less	apparent,	men	and	women 	may	still	act	differently	due	to	their	gender	differentiated	skills.
+• 
+•  Groupthink,	first	coined	by	William	Whyte	writing	in	Fortune	Magazine	in	1952 	as	a	“philosophy”	of	“rationalized	conformity,”	was	reconceptualized	by	Janis 	(1972)	twenty	years	later	as	a	bias	that	afflicts	groups.	Groupthink	operates	not 	as	a	consciously	held	belief,	but	as	an	invisible	pressure	to	conform	that	arises 	spontaneously	in	the	moment,	affecting	people’s	judgment	without	their	even 	knowing	they	are	being	affected.	Groupthink,	in	other	words,	is	an	unconscious	bias.
+Further	theories	related	specifically	to	inclusion	and	senior	management	teams	are 	detailed in the relevant later sections of this chapter.
+Van	Dijk	et	al.	(2012)	studied	the	relationship	between	demographic	diversity	(gender,	ethnicity,	age	and	education)	and	performance	in	a	meta‑analysis	of	146	studies.	In	another	meta‑analysis,	Stahl	et	al.	(2010)	assessed	the	impact	of	ethnic	diversity,	considering	both	surface‑level	diversity(ethnicity	and	nationality)	and	deep‑level	diversity	(cultural	views	and	attitudes),	seeking	to	reconcile	the	conflicting	perspectives	of	past	studies.	Most	impact	studies	we	reviewed	assessed	teams	at	unit	level	on	business	performance	metrics,	such	as	sales	and	customer	satisfaction;	while	we	can	point	to	positive	outcomes,	the	overall	conclusion	is	that	there	is	no	impact	on	business	performance	outcomes	of	diverse	teams	below	senior	leadership	level	(Van	Dijk	et	al.,	2012;	Stahl	et	al.,	2010).
+Van	Dijk	et	al.	(2012)	find	from	the	current	evidence	that	there	is	no	association 	between	demographic	diversity	and	objective	team	performance.	Although	for 	subjective	performance	measures	(self‑ratings,	for	example)	they	do	see	a	small 	but	significant	negative	association,	for	each	measure	of	gender,	ethnicity,	age	and 	education,	suggesting	mixed	teams	tend	to	underrate	their	own	performance.	They 	also	see	a	large	variation	in	results	across	the	studies	reviewed,	partly	owing	to	the 	type	of	outcome	measures	used.
+Stahl	et	al.	(2010)	conducted	a	meta‑analysis	that	spanned	108	empirical	studies	across	10,632	teams.	They	hypothesise	that	ethnic	diversity	has	a	negative	impact	in	terms	of	greater	task	conflict	and	lower	social	integration,	which	their	results	“partially	confirm”.	Conflict	is	considered	as	differences	in	opinion	or	priority.	They	find	a	statistically	significant	positive	association	between	ethnic	diversity	and	task	conflict,	but	there	is	no	link	between	ethnic	diversity	and	relationship	conflict,	communication	effectiveness	
+22
+[Page #22]
+or	process	conflict.	Further,	ethnic	diversity	has	no	impact	on	business	performance	“consistent	with	results	seen	in	other	reviews	and	meta‑analyses”,	they	concluded.	The	study	looks	at	the	role	of	contextual	influences,	such	as	the	nature	of	the	task	and	the	team	structure,	and	finds	more	conflict	for	more	complex	tasks,	for	co‑located	rather	than	dispersed	employees,	and	among	those	with	longer	tenure.	In	another	literature	review,	Fine	et	al.	(2020)	report	that	the	most	consistent	positive	associations	with	gender‑diverse	workforces	are	with	metrics	of	occupational	well‑being.
+In	terms	of	the	impact	studies	we	reviewed,	Hoogendoorn	(2013)	reports	from	a 	field	experiment	with	business	studies	students	in	the	US	that	mixed	gender	teams 	perform	best	in	terms	of	sales	and	profit.
+At	the	business	unit	level	McKay	et	al.	(2011)	examined	the	diversity	of	employees 	(gender,	race	and	age)	on	customer	satisfaction	for	a	large	US	retail	organisation 	and	find	that,	as	hypothesised,	diversity	is	positively	related	to	customer	satisfaction 	measured	a	year	later.	Ellison	and	Mullin	(2014)	analyse	team	performance	in	a	US 	office	setting	and	find	lower	employee	cooperation	but	higher	sales	performance 	for	gender‑diverse	offices.	The	study	involves	eight	years	of	data	from	one	firm.	The 	results	indicate	that	having	an	equal	gender	split	in	an	office	is	associated	with	a	41% 	increase	in	revenue	than	the	same	office	staffed	by	only	men	or	only	women.	Badal 	(2014)	studies	business	units	in	both	a	retail	and	a	hospitality	company	in	the	US	and 	finds	that	the	gender‑diverse	units	have	better	financial	outcomes.	In	a	review	of 	studies	that	sought	to	understand	what	moderates	the	effects	of	workplace	diversity, 	Guillaume	et	al.	(2017)	finds	that	diversity	improves	performance	for	growth‑oriented 	or	innovation‑oriented	companies.
+Kochan	et	al.	(2003)	led	a	research	consortium	of	four	large	US	firms	to	investigate 	the	influence	of	diversity	at	team	and	business	unit	level	and	to	examine	the	impact 	of	diversity	and	inclusion	on	business	performance.	All	four	firms	were	D&I	advocates 	and	had	incorporated	diversity	processes	and	training.	The	study	finds	that	“racial	and 	gender	diversity	does	not	have	the	positive	effect	on	performance	proposed	by	those 	with	a	more	optimistic	view	of	the	role	diversity	can	play,	at	least	not	consistently,	but 	neither	does	it	have	the	negative	effect	on	group	processes	warned	by	those	with 	a	more	pessimistic	view.”	Gender	diversity	has	either	no	effects	or	positive	effects 	on	team	processes,	while	racial	diversity	has	either	no	effects	or	negative	effects. 	They	find	that	some	things	moderated	the	negative	effect,	such	as	team	training	and 	development	initiatives.
+iii.  The impact of inclusive workplaces on business performance
+We	see	only	positive	impacts	on	business	performance	for	studies	that	have	assessed	inclusion,	typically	by	measuring	the	role	of	diversity	policies	or	employee	engagement	survey	results.	However,	these	studies	tend	to	show	links	rather	than	causation.	There	are	few	empirical	studies	that	measure	the	performance	outcomes	of	inclusion.	Nishii	(2013)	conducted	a	study	of	a	large	US	biomedical	firm,	finding	gender	biases	owing	to	different	job	status	and	educational	attainment	between	males	and	females.	The	study	hypothesises	and	finds	that	inclusive	climates	help	to	reduce	interpersonal	gender	bias	in	such	a	way	that	minimises	conflict,	ultimately	improving	unit‑level	satisfaction.
+23 
+[Page #23]
+There	are	several	theories	that	support	inclusion:	Optimal	distinctiveness	theory; 	Self‑determination	theory;	Team	identity,	and	Leader‑member	exchange	(LMX), 	discussed	below:
+• 
+Self‑determination theory, also known as authenticity, posits that at a fundamental	level,	humans	need	to	feel	connected	to	others	(relatedness), 	while	also	being	able	to	act	in	line	with	their	own	sense	of	self	(autonomy).	An 	inclusive	group,	then,	allows	people	to	feel	connected	to	one	another,	while	being 	themselves	in	an	authentic	way.
+•  Team identity	refers	to	an	individual’s	feelings	about	their	team.	Often,	when 	
+individuals	feel	part	of	a	team,	or	group,	they	tend	to	evaluate	that	group	favourably, 	and	part	of	that	feeling	is	received	value	and	respect	from	other	team	members. 	However,	team	identity	can	be	impacted	by	factors	such	as	status	or	difference 	within	a	team.	In	an	inclusive	organisation,	these	factors	need	to	be	managed	to 	ensure everyone has a voice.Leader‑member exchange (LMX) theory	suggests	that	the	quality	of	exchange 	between	the	leader	and	those	who	report	directly	to	them	can	impact	on	how 	employees	evaluate	themselves	and	their	experience	of	the	working	environment. 	If	a	manager	enables	employees	to	feel	that	their	contribution	to	the	business	is 	valued	and	that	they	‘belong’	in	a	team,	this	can	enhance	feelings	of	inclusion.
+• 
+Survey	research	in	US	public	service	organisations	supports	the	idea	of	LMX.	Over	a 	12‑month	period	in	2004‑05,	strong	LMX	was	associated	with	perceptions	of	inclusion, 	more	so	than	organisation	commitment	and	job	satisfaction	(Brimhall	et	al.,	2017). 	This	study,	although	only	concerning	one	organisation	in	the	US	and	unable	to	prove 	cause	and	effect,	does	highlight	a	positive	link	between	inclusion	and	line	management 	relationships.
+A	number	of	management	consultants	and	HR	specialists	have	found	links	between 	inclusion	and	business	performance.	Josh	Bersin	(2021)	analysed	more	than	80 	different	D&I	practices	across	800	organisations	in	the	US,	to	identify	the	specific	D&I 	strategies	that	are	more	effective	than	others	at	improving	business	outcomes.	In 	addition	to	strengthening	HR	capabilities,	they	find	senior	level	commitment	is	crucial 	and	more	important	than	workforce	training	programmes.	In	fact,	D&I	training	rated	at 	the	bottom	of	Josh	Bersin’s	list	for	impact	on	business	and	workforce	outcomes	and 	sometimes	even	showed	a	negative	correlation.	“Accountability,”	Josh	Bersin	(2021) 	argues,	“is	really	the	one	topic	that	moves	companies	into	the	highest	level	of	maturity 	in	D&I.	When	the	CEO	sets	the	strategy	and	frequently	communicates	D&I	progress, 	the	company	is	6.3	times	more	likely	to	have	a	diverse	leadership	team	and	also	to	be	a 	leader	in	its	industry	segment.”
+Cloverpop	(2017)	studied	600	business	decisions	from	200	different	business	teams	over	two	years,	finding	that	when	people	from	different	geographies,	age	groups	and	genders	were	included	in	decision‑making,	these	inclusive	teams	delivered	60%	better	results	(that	met	or	exceeded	expectations),	compared	with	homogenous	(all	male	teams).
+Great	Place	to	Work	(2020)	analysed	over	3.9	million	employee	survey	responses 	across	1,672	companies	between	2006	and	2019.	The	results	show	that	employees 	with	greater	feelings	of	inclusion	tend	to	work	for	businesses	that	outperform 	the	S&P500.	This	trend	was	first	spotted	during	the	global	financial	crisis,	when 	the	companies	whose	minority	groups	(including	women,	people	of	colour	and 	long‑tenured	employees)	had	a	very	positive	experience	at	work	were	more	likely	to 	
+24
+[Page #24]
+be	“thriving”.	Another	employee	engagement	study	of	almost	one	million	data	points 	–	Glint	(2020)	–	shows	that	employees	with	a	strong	sense	of	belonging	are	over	six 	times	more	likely	to	be	engaged	than	those	without.
+We	have	identified	two	studies	that	assess	the	impact	of	disability	inclusion	in	the 	US.	Kalargyrou	(2014)	examined	the	business	benefits	of	disability	inclusion	at	a	large 	pharmaceuticals	retailer	and	finds	lower	absenteeism,	higher	retention,	and	increased 	staff loyalty as a result of a focus on disability inclusion. Accenture (2018) interviewed 140	companies	that	feature	on	the	US	Disability	Equality	Index	–	a	benchmarking	tool 	that scores businesses on their disability inclusion and practices. These are typically very	large	companies	with	revenues	in	excess	of	$43bn	–	they	feature	on	the	index 	because	they	are	“advancing	disability	inclusion”.	Accenture	(2018)	identifies	the	top 	45	companies	as	“Disability	Inclusion	Champions”	and	then	shows	a	clear	link	between 	these	“Champions”	and	financial	performance	outcomes,	with	28%	higher	revenue, 	twice	the	net	income	and	30%	higher	profit	margins	in	these	45	companies	compared 	with	the	other	companies	in	the	index.	The	analysis	accounts	for	temporal	and	industry 	sector variation but cause and effect are not clear, ie we cannot be certain whether better	disability	inclusion	improves	performance	outcomes,	or	if	the	more	financially 	successful	companies	promote	disability	inclusion	more	strongly.
+Finally,	we	note	recent	evidence	that	D&I	policies	are	not	currently	impactful.	In	the 	2019	IoD	survey,	of	the	25%	of	firms	that	state	their	organisation	has	an	official 	programme	in	place	to	specifically	recruit	and	retain	a	diverse	and	inclusive	workforce, 	only	24%	claim	it	had	improved	productivity.
+iv. 
+ Impact of sexual orientation policies on business performance
+While	gender	and	ethnic	minority	impact	studies	are	typically	assessed	against 	measures	of	how	well	represented	these	groups	are	in	the	workforce,	especially	on 	the	board,	any	evidence	we	have	found	relating	to	the	impact	of	‘sexual	orientation 	or	gender	identity’	diversity	tends	to	measure	the	presence	of	LGBTQ+‑supportive 	strategies	and	feelings	of	LBGTQ+	inclusiveness	among	workers,	rather	than	how	well 	represented	LBGTQ+	individuals	are	in	the	workplace.
+In	their	review,	Badgett	et	al.	(2013)	agree,	stating	that	“the	business	impact	of	LBGT 	diversity	tends	to	focus	on	the	impact	of	policies	rather	than	on	the	sexual	orientation 	and	gender	identity	diversity	of	an	employer’s	workforce	per	se,”.	Badgett	et	al.	(2013) 	report	the	most	positive	outcomes	for	LBGT‑supportive	policies:
+•  Greater	job	commitment	(16	out	of	21	studies	find	a	positive	relationship	versus 	
+just	one	that	reports	a	negative	relationship);Improved	health	outcomes	(14	positive	studies,	2	with	no	impact	and	1	negative 	study);Increased	job	satisfaction	(11	positive	studies,	3	with	no	relationship	and	none 	reporting	a	negative	outcome);	andImproved	workplace	relationships	(3	positive	studies).
+• 
+• 
+• 
+They	also	found	studies	that,	in	the	main,	report	fewer	discrimination	cases	and	more 	openness	about	being	LBGT	for	firms	with	LGBT‑supportive	policies.	Interestingly,	an 	association	has	been	seen	between	gender‑diverse	boards	and	LGBT‑friendly	policies 	(Cook	&	Glass,	2016)
+25 
+[Page #25]
+Although	the	Badgett	et	al.	(2013)	review	links	improved	workplace	relationships	as	a 	result	of	LGBT‑supportive	policies	with	increased	productivity,	they	find	few	studies 	that	directly	measure	the	impact	of	LGBT‑supportive	policies	on	firm	performance 	metrics.	Pilcher	et	al.	(2013)	find	that	firms	implementing	LGBT‑supportive	policies 	experience	increases	in	firm	value,	productivity	and	profitability.	The	authors	state 	they	are	among	the	first	to	link	LGBT‑supportive	policies	specifically	to	financial 	performance	outcomes.
+In	2016,	Credit	Suisse	created	an	‘LGBT	270’,	comprising	firms	they	identified	as 	“supporting	and	embracing	LBGT	employees”.	The	LBGT	270	outperformed	the	MSCI 	ACWI	by	3%	per	annum	during	the	period	2010‑2016	and	saw	10‑21%	higher	ROEs	and 	cash	flow	returns.	As	with	prior	Credit	Suisse	analysis,	the	findings	show	correlation 	and	cannot	prove	causation.	Similarly,	Shan	et	al.	(2017)	use	a	four‑year	dataset	of	US 	public	firms	(2002‑2006)	and	show	that	firms	with	a	higher	degree	of	“corporate	sexual 	equality”	have	higher	stock	returns	and	higher	market	valuation.
+In	the	Great	Place	to	Work	study	(2019),	the	proportion	of	people	answering	questions 	about	their	sexual	orientation	and	disability	status	is	seen	as	an	important	indicator 	of	trust	and	inclusion.	For	every	10%	of	employees	who	choose	not	to	respond, 	there	is	a	six‑point	decrease	in	a	company’s	overall	levels	of	trust	and	pride	in	the 	company,	and	camaraderie.	For	example,	a	company	with	a	3%	refusal	rate	has	a	trust 	index	score	of	92%	whereas	trust	drops	to	86%	for	a	firm	with	a	13%	refusal	rate	to 	this	question,	or	57%	for	a	43%	refusal	rate.	More	specifically,	as	the	percentage	of 	employees’	choosing	‘prefer	not	to	respond’	grows,	there	are	drops	in	employees’	faith 	in	management,	their	sense	of	safety	in	the	work	environment,	and	signs	of	teamwork 	–	which	are	all	seen	as	drivers	of	innovation	and	business	performance.
+v. 
+ Impact of diverse senior leadership on business performance
+OverviewWe	report	from	47	studies	that	have	assessed	the	impact	of	diverse	senior	leadership 	on	business	performance,	comprising	30	academic	impact	studies,	nine	impact 	studies	from	consultancies	and	trade	associations,	six	literature	reviews	and	two 	meta‑analyses.	Most	(35)	of	the	39	impact	studies	include	gender	as	a	key	diversity 	variable,	typically	considering	the	gender	of	board	directors	and	the	CEO.	Ethnicity 	is	the	next	most	considered	diversity	characteristic	of	senior	leadership,	covered	in 	seven	studies.	Additional	diversity	demographics	considered	are	age/experience	of 	the directors and education level.
+The	performance	outcomes	measured	include:
+• • • • • • 
+Return	on	equity	(ROE);Return	on	assets	(ROA);Stock	market	returns	(or	Tobin’s	Q);Earnings	before	interest	and	taxes	(EBIT)/profit;Total	assets;	andTotal return to shareholders.
+26
+[Page #26]
+We	found	no	studies	which	assessed	the	impact	of	board	members	for	other	diversity 	measures,	such	as	those	who	are	disabled	or	openly	LBGTQ+.
+There	is	a	range	of	theories	that	academics	have	used	to	inform	study	hypotheses 	and	explain	the	findings,	such	as	human	capital	theory,	agency	theory,	resource 	dependence	and	critical	mass	theory,	detailed	below:
+•  Human capital theory focuses	on	the	benefit	the	individual	can	bring	to	the 	
+board.	Studies	show	that	women	and	ethnic	minority	directors	are	more	likely	to 	hold	advanced	degrees	(Hillman	et	al.,	2002).	This	theory	posits	that	by	widening 	the	range	of	directors’	skills,	abilities,	managerial	approaches	and	preferences, 	board	diversity	is	expected	to	yield	benefits	in	terms	of	monitoring	effectiveness. 	However,	these	potential	benefits	are	not	without	costs,	as	conflicts	may	arise	in 	more	diverse	boards,	leading	to	more	unpredictable	decision‑making.
+•  Agency theory is	the	process	of	delegating	some	decision‑making	authority 	
+to	enable	a	clear	separation	between	management	and	control.	“Board	balance 	comprising	representation	from	diverse	groups	such	as	different	gender	provides 	a	more	balanced	board	that	is	likely	to	prevent	an	individual	or	a	small	group	of 	individuals	from	dominating	the	decision‑making	process,”	states	Hampel	(1998). 	Agency	theory	is	therefore	said	to	predict	that	a	more	diverse	directorship	would 	improve	corporate	performance.Resource dependence theory presents the role of the board of directors as a resource	to	the	firm.	It	suggests	that	those	responsible	for	recruiting	directors	seek 	particular	characteristics	in	new	appointees	to	complement	the	existing	board	and 	to	provide	connections	to	new	resources	to	secure	the	future	of	the	firm.	Pfeffer 	and	Salancik	(1978)	were	the	originators	of	this	theory.Carter	et	al.	(2010)	suggest	that	“Resource	dependence	theory	provides	the 	basis	for	some	of	the	most	convincing	theoretical	arguments	for	a	business	case 	for	board	diversity.	Since	they	are	less	likely	to	be	insiders	or	business	experts, 	diverse	directors	can	bring	varied	perspectives	and	non‑traditional	approaches 	to	problems,	enhancing	complex	problem	solving	and	improving	the	quality	of 	strategic	decision‑making.”
+• 
+•  Critical mass theory is	the	theory	that	female	directors	are	more	influential	if	they 	reach	a	critical	mass	and	are	supported	by	other	women	in	leadership	roles.	Three 	is	considered	the	minimum	number	of	female	directors	to	enable	the	benefits	of 	critical	mass	to	be	felt,	or	30%	of	the	board.
+GenderThe	impact	of	female	directors	has	been	the	focus	of	business	researchers	since	the	late	1990s,	when	the	vast	gap	in	leadership	between	the	genders	caught	the	public’s	attention.	The	results	from	studies	at	that	time	are	very	mixed;	the	media	attention	at	the	time	was	more	critical	towards	gender	diversity.	Judge	(2003)	wrote	in	an	article	for	The	Times	that	“Corporate	Britain	may	be	better	off	without	women,”	suggesting	that	the	Cranfield	School	of	Management	studies	of	the	FTSE100	over	1999‑2003	show	an	association	between	female	representation	at	board	level	and	poor	share	price	performance.
+However,	Ryan	and	Haslam	(2005)	re‑examined	the	data	and	show	that	poorly 	performing	FTSE	companies	were	more	likely	to	appoint	females	to	the	board.	They 	also	conducted	experimental	research,	uncovering	hidden	gender	biases.	Business 	leader	respondents	tend	to	select	the	female	leader	for	a	company	in	crisis,	which	is 	seen	as	a	poor	career	opportunity	for	a	man	but	a	good	opportunity	for	a	woman.	Ryan 	
+27	
+[Page #27]
+and	Haslam	(2005)	coin	the	term	‘glass	cliff’	to	emphasise	that	females	were	being 	appointed	to	deal	with	existing	crises	rather	than	being	the	cause.
+This	is	in	contrast	to	Farrell	and	Hersch	(2005)	who	in	a	study	of	Fortune	500	firms	from 	1990‑99	find	that	women	tend	to	serve	on	the	better	performing	boards.	They	see	no 	positive	or	negative	impact	on	stock	market	returns	on	the	announcement	of	a	woman 	appointed	to	the	board.	They	also	spot	a	curious	trend.	The	firms	that	lose	a	female 	director	are	most	likely	to	replace	them	with	another	women.	The	authors	conclude 	that	these	boards	are	aiming	to	be	diverse,	in	response	to	government	and	reputation 	considerations.
+18	of	the	30	board	impact	studies	reviewed	find	a	positive	link	between	the	presence	of	women	on	the	board	and	business	performance	outcomes,	including	those	that	consider	endogeneity	and	test	for	causality	(Campbell	and	Minguez‑Vera	(2010);	Ciavarella	et	al.,	2018;	Deszö	and	Ross	(2012);	Farrell	and	Hersch	(2005);	Ferrari	et	al.,	2016;	Geyfman	et	al.	(2018);	Gong	and	Girma,	2021;	Joecks	et	al.,	2012;	Owen	and	Temesvary	(2018);	and	Smith	et	al.,	2006)	where	we	can	be	more	confident	that	the	presence	of	women	improves	performance,	rather	than	it	just	being	that	the	best	performing	companies	attract	more	women.	The	other	studies	report	a	positive	performance	impact	for	gender‑diverse	boards,	but	these	tend	to	prove	correlation	only.
+Smith	et	al.	(2006)	test	for	causality	on	their	sample	of	2,500	large	Danish	firms	during 	1993‑2001	and	find	that	a	positive	relationship	observed	is	due	to	board	gender 	diversity	affecting	firm	performance,	not	the	opposite.	Ciavarella	et	al.	(2018)	explore 	a	large	sample	of	listed	companies	(n=4,883)	across	five	EU	countries,	including 	the	UK.	Controlling	for	firm	characteristics,	they	find	a	positive	impact	on	ROA	for 	gender‑diverse	executive	directors,	although	there	is	no	link	for	ROE.
+Table	3.1	summarises	the	methodology	and	outcomes	for	studies	that	have	assessed 	the	impact	of	gender‑diverse	boards	on	business	performance	and	find	a	positive 	outcome.
+Table 3.1 – Gender‑diverse senior management impact studies finding positive financial performance outcomes
+Gender diversity variable(s)No	women;	1	woman;	 2+	women	 (on board)women	(yes/no);	women’s	ratio
+Performance variable(s)Change	in	stock prices
+Number  of firms 449	Fortune500	firms
+Main  result+ve	link
+Quality  notesNo	controls	 or	attempt	to	overcome	causality/endogeneityUses	system	GMM	technique	to	solve	endogeneity	
+Author (year)Bernardi et al. (2012)
+RegionUS
+Tobin’s	Q	proxy
+Spain
+105	announce‑ments/68	listed	firms
++ve	link
+Campbell	and Minguez‑Vera	(2010)Carter	et	al.	(2003)
+women	(yes/no);	women’s	ratio
+ROA,	Tobin’s	Q	proxy
+US
+638	Fortune	1000	firms	(1997)
++ve	link	(Tobin’s	Q)
+Controls	to	understand endogeneity	but	 failed to account for omitted	variablesControls	but	admits	cannot	demonstrate	causality
+ROE	and	Return	to	shareholders (TRS)ROA/ROE
+women’s	ratio in top management
+US
+353	Fortune	500	firms
++ve	link
+Catalyst	(2004)
+Above/Below	median	number	of	females	on	board
+Europe
+4,883	listed	firms	in 5 countries
++ve	link	(ROA);	no	link	(ROE)
+Uses	firm	fixed	effect	model	and	lagged	variables to account for	endogeneity
+Ciavarella	(2018)
+28
+[Page #28]
+Gender diversity variable(s)women	 (yes/no)
+Author (year)Credit	Suisse (2014)Deszö	and	Ross	(2012)
+Performance variable(s)ROE,	Stock price performanceTobin’s	Q
+Number  of firms 3,000
+Main  result+ve	link
+Quality  notesCorrelation	only.	No	controls and does not address causalityUses	prior	performance	to	test	for reverse causalityCorrelation	only
+RegionGlobal
+women	 (yes/no)
+US
+S&P	1500	(1992‑06)	=	21,790	firm‑years864	credit	and	investment	firms
++ve	only	for	‘innovative’	firms+ve	link
+women’s	%	representation in	management	bodiesNo.	of	women	directors added
+EBA (2020)
+ROE
+Europe
+Farrell	and	Hersch	(2005)
+Sales,	ROA,	stock returns
+US
+2,974	firm‑years	(Fortune	500	firms	1990‑1999)
+Use	lag	variable	to	check causality
+Mixed	(+ve	for	ROA/no	impact	for stock returns)Mixed	(no	impact	for	ROA/+ve	for stock returns)+ve	link
+women’s	%	representation on	board	>	20%/CEO	female
+Tobin’s	Q,	ROA,	profit,	debt, stock returns
+Italy
+Italy	40	(n=184	firm‑years,	2010‑2014)
+Ferrari	et	al.	(2016)
+Small	sample,	further	split	into	‘reform	cohorts’,	but	providing	useful analysis.
+Geyfman	et	al. (2018)
+women	(yes/no);	women’s	ratio
+Asset	size,	loan to assets,	ROE,	ROASales	growth,	Asset	growth	ROA,	profit,	labour efficiencyROA
+Data
+792	(2007);	692	(2010);	517	(2015)
+Uses	lags	on	all	control	variables to account for	endogeneity
+Gong	and	Girma	(2021)
+Appoint a 1st women	director	(yes/no)
+UK
+Unlisted	firms	(n=3,989,	761	in	treatment)
+Mixed	(+ve	for	growth/no	impact	for profit)
+Treatment	vs	Control	with sensitivity tests to check for	unmeasured	confoundingIncludes controls but cannot state causalityUses	lag	variables	to	address	endogeneity	and reverse causality
+IMF	(2016)
+women’s	ratio	on boardNo	women	on	board;	at	least	1 but less than 20%;	20‑40%;	>40%women’s	ratio	on	board/CEO	genderwomen’s	ratio	on board
+Europe
+2,000,000
++ve	link
+Joecks et al. (2012)
+ROE
+Germany 151	listed	firms,	842	firm‑years
+Mixed:	‑ve	link	until	>30%	women,	then	+ve+ve	link
+Kotiranta	(2007)
+ROA
+Finland Unknown	(90%	of	Finland’s	working	pop)612	firms;	20	countries
+Controls	for	size	&	sector but cannot infer causalityIncludes controls but cannot infer causality
+Mateos	de	Cabo	(2012)
+6	year	growth	rate	(assets)/ROA
+Europe
+Mixed:	(no	impact	for	ROA/+ve	for	growth)+ve	link
+McKinsey	(2020)
+women’s	%	representation at	Exec	and	board 
+EBIT/ROA
+Global
+1,039;	15	countries,	(n=365	UK	&	US	firms	since	2014)
+Correlation	only.	Compares	%	financial	outperformance	of	diversity	quartiles	vs national industry medianAddresses endogeneity	through	IV	method,	lags	variables and controls for	fixed	effects
+Owen and Temesvary	(2018)
+women’s	ratio	on board
+ROA	
+US
+168	US	banks	(1999‑2015)
+Mixed:	+ve	link only for	well‑capitalised banks with	high	women’s	ratio+ve	link
+Smith	et	al.	(2006)
+women’s	ratio	on board
+profit, sales, income	assets, 
+Denmark
+2,500 Danish firms	(‘93‑‘01)
+Controlled	for	direction of causality
+29	
+[Page #29]
+A	number	of	studies	that	find	a	positive	financial	performance	outcome	also	report	no	impact	for	other	outcomes	measured.	One	such	study	is	Gong	and	Girma	(2020)	who	study	the	impact	of	appointing	a	first	female	director.	They	find	a	positive	link	with	firm	growth	and	labour	cost	efficiency,	but	insignificant	results	for	ROA,	profit	and	productivity.	However,	a	positive	impact	on	profit	does	appear	three	years	after	the	appointment.
+Turning	now	to	studies	that	find	a	negative	outcome	for	performance	of	gender‑diverse	boards,	of	which	eight	report	a	negative	outcome.	(Adams	and	Ferreira,	2009)	adopts	the	instrumental	variable	method	to	isolate	causality	and	includes	procedures	to	tackle	omitted	variables.	As	a	result,	they	see	the	correlation	between	gender	diversity	and	firm	value	and	operating	performance	disappear	and	move	into	the	opposite	direction	once	these	tests	were	applied.	A	negative	link	emerges	as	“firms	perform	worse	the	greater	the	gender	diversity	of	the	board”	(Adams	and	Ferreira,	2009).
+Adams	and	Ferreira	(2009)	also	find	that	the	negative	effect	of	gender	diversity	on	firm 	performance	is	driven	by	companies	that	are	already	well	governed.	More	recently, 	Hernandez‑Nicolas	et	al.	(2021)	find	in	a	cross‑sectional	study	of	the	construction 	industry	in	Spain,	that	firms	managed	by	females	are	less	profitable.	This	presents	an 	up‑to‑date	view	of	a	still	male	dominated	industry;	15%	of	businesses	in	the	sample 	were	led	by	a	woman.
+In	the	UK,	Haslam	et	al.	(2010)	investigated	the	relationship	between	the	presence	of 	women	on	company	boards	and	considered	both	accountancy‑based	and	stock‑based 	measures	of	company	performance	for	FTSE100	firms	between	2001	and	2005. 	They	study	458	firm‑year	observations	and	examine	time‑lagged	correlations	to 	assess	causality.	They	find	a	negative	relationship	between	boards	with	women	and 	stock‑based	measures	of	performance	(Tobin’s	Q)	and	find	no	direct	relationship 	between	women’s	presence	on	boards	and	ROA	or	ROE.
+Causality	checks	show	that	there	was	“bilateral	causality	between	stock	performance 	and	the	gender‑based	composition	of	company	boards”	but	that	the	impact	of	board 	composition	on	subsequent	values	of	Tobin’s	Q	was	stronger	than	the	impact	of 	Tobin’s	Q	on	subsequent	board	composition.	This	negative	relationship	was	consistent 	with	previous	‘glass	cliff’	research,	but	also	confirmed,	as	previous	academic 	researchers had also shown, that “there is no necessary correspondence between company	performance	and	perceived	company	value,	and	no	requirement	that	the 	details	of	one	inform	the	dynamics	of	the	other.”
+The	results	support	claims	that	women	are	found	on	the	boards	of	companies	that	are 	perceived	to	be	performing	poorly	and	that	their	presence	on	boards	can	lead	to	the 	devaluation	of	companies	by	investors.	Yet	the	findings	also	indicate	how	stock	prices 	are	not	always	aligned	with	the	underlying	realities	of	company	performance.	This	is 	an	important	consideration	for	studies	that	assess	stock	market	performance	as	an 	outcome	measure.
+30
+[Page #30]
+Table 3.2 – Gender‑diverse senior management impact studies finding negative financial performance outcomes
+Gender diversity variablewomen	(yes/no);	women’s	ratio
+Author (year)Adams	and	Ferreira	(2009)Ahern and Dittmar	(2012)
+Performance variablesROA,	Tobin’s	Q	(proxy)
+Number  of firms1,939	firms	(1996‑03)
+Main  result‑ve	link
+Quality notesTackles	omitted	variables and causality 
+RegionUS
+women’s	ratio	on board
+Tobin’s	Q
+Norway
+248	listed	firms	(2001‑09)
+‑ve	link
+Did not correct estimated	standard	errors/cannot	infer	causalityAssesses causality via a	control	sample	from	other states
+Hwang	et	al.	(2019)
+shortfall in women	on	board	(to	meet	quota	mandate)women	(yes/no);	women’s	ratio
+stock price returns
+California
+405	firms
+‑ve	link
+Haslam	et	al.	(2010)
+ROE,	ROA	Tobin’s	Q
+UK
+126	FTSE	100	firms	(2001‑05)	
+Examines	time‑lagged	correlations to assess causality
+Mixed: no	link	(ROA	and	ROE);	‑ve	link	(Tobin’s	Q)‑ve	link
+Hernández‑Nicolás	et	al.	(2021)Matsa	and	Miller	(2013)
+CEO	gender
+ROA
+Spain
+8,492	construction firms104	listed	firms
+Controls	for	possible	endogeneity
+Norway
+No.	and	share	of	women
+ROA,	employment,	operating	profit/assets,	debt/assets/labour	cost/assetsstock price returns
+Controls	for	size	and	turnover.	Compares	to	other	Nordic	countries
+‑ve	link	‑ROA	and	operating	profit, as labour costs increased) 
+Ryan	and	Haslam	(2005)
+Women’s	ratio	on board
+UK
+100	FTSE	firms
+‑ve	link
+Correlation	only	–	causality tests show women	appointed	to	poor	performing	firmsMatched	control	group	from	states	that	‘follow	California’
+Von	Meyerinck	et	al (2020)
+shortfall in women	on	board	(to	meet	quota	mandate)
+stock price returns
+California
+2,454	non‑	FS	firms
+‑ve	link
+A	number	of	studies	that	investigate	the	impact	of	quotas	also	report	negative	performance	outcomes	for	gender‑diverse	boards	(Matsa	and	Miller,	2013;	Ahern	and	Dittmar,	2012;	Hwang	et	al.,	2019);	these	are	discussed	further	when	we	review	the	impact	of	quota	mandated	jurisdictions	below.	This	includes	the	more	recent	examination	of	the	data	in	Norway	which	finds	no	impact	on	firm	value	(Eckbo	et	al.,	2019).
+We	also	report	from	four	studies	that	find	no	impact	of	board	gender	diversity	on 	financial	performance	outcomes.	Carter	(2010)	finds	“no	empirical	evidence	of 	causation	going	from	board	diversity	to	financial	performance,	either	positive	or 	negative”	from	a	study	of	S&P	500	firms	over	a	five‑year	period	(1998‑2002).	Randøy 	(2006)	studied	Scandinavian	firms	prior	to	the	Norway	quota	mandate,	finding	no	link 	between	gender	diversity	and	performance	metrics.
+31 
+[Page #31]
+Table 3.3 – Gender‑diverse senior management impact studies finding neutral financial performance outcomes
+Gender diversity variableNo.	of	women	on	board/No.	of	women	on	committeeswomen’s	ratio	on board
+Author (year)Carter	et	al.	(2010)
+Performance variablesTobin’s	Q/ROA
+Number  of firms641	S&P	500	firms	=2,563	firm‑years
+Main  resultNo	link	(after	controlling	for causality)
+Quality  notesUses	3SLS	estimation	to address causality
+RegionUS
+Eckbo et al. (2019)
+Stock returns/Tobin’s	QROA,	stock	market	value
+Norway
+248	listed	firms	(2001‑09)
+No	link
+Addresses endogeneity
+Randøy	et	al.	(2006)
+women’s	ratio	on board
+Scandin‑avia
+154	DAN	+	144	NOR	+	161	SWE	firms	(‘05)
+No	link
+Controls	for	size/industry but no account for endogeneityControls	for	bank	characteristics
+Suss et al. (2021)
+%	women	on	board/senior	management
+ROA
+UK
+181 banks (2001‑2020)
+No	link
+Some	studies	have	identified	different	nuances	in	their	analysis	of	the	impact	of 	women	in	senior	leadership	positions	on	business	performance	(Dwyer	et	al.,	2003; 	IMF,	2016).
+Dwyer	et	al.	(2003)	study	US	firms	and	find	that	the	impact	of	gender‑diverse 	management	(below	senior	management	level)	in	an	organisation	depends	on	its 	culture	and	growth	orientation.	The	authors	suggest	a	supportive	environment	needs 	to	be	in	place	to	fully	realise	the	beneficial	aspects	of	gender	diversity.
+In	a	2016	working	paper,	the	IMF	presented	new	evidence	on	the	role	of	women 	in	managerial	and	board	positions	in	shaping	firm	financial	performance.	The	IMF 	analysed	a	much	larger	dataset	than	had	been	done	previously	(2	million	listed	and 	non‑listed	EU	firms	–	all	non‑financial)	and	used	a	‘difference	in	difference’	approach 	to	understand	the	influence	of	diversity	on	financial	outcomes.	They	find	a	positive 	association	between	gender	equality	in	senior	positions	and	firm	performance,	that	is 	significantly	stronger	in	sectors	with	more	women	in	the	labour	force.
+Specifically,	for	a	firm	in	an	industry	in	the	top	quartile	in	terms	of	female 	representation,	having	one	more	woman	on	the	board	or	in	senior	management,	while 	keeping	the	size	of	the	board	unchanged,	is	associated	with	about	20	basis	points 	higher	ROAs.	For	a	firm	in	an	industry	with	relatively	few	women	in	its	labour	force, 	having	more	women	in	top	management	does	not	impact	profitability.	IMF	(2016)	also 	finds	that	knowledge‑intensive	and	high‑technology	sectors	–	which,	they	say,	demand	the	higher	creativity	and	critical	thinking	that	diversity	in	general	may	bring	–	benefit 	significantly	more	from	a	higher	share	of	women	in	senior	management.	Although 	the	sample	size	is	very	large	here	and	a	range	of	control	variables	were	included	in	the 	model,	the	study	is	again	limited	in	that	it	cannot	infer	causality.
+Finally,	we	report	from	a	recent	meta‑analysis	of	78	studies	(Hoobler	et	al.,	2018)	that 	finds	that	having	more	women	in	leadership	(CEO	and	directors	and	top	management 	teams)	positively	influences	firm	performance.	The	majority	of	studies	measured	the 	impact	of	firms’	boards	of	directors	(62	studies,	across	75,978	firms)	which	showed 	the	most	positive	association	with	overall	financial	performance.	CEO	gender	was	only 	linked	to	one	performance	measure	–	sales,	from	10	studies	covering	a	total	of	18,077 	firms.	The	benefit	of	a	female	CEO	was	most	apparent	in	countries	with	greater	gender 	parity in the workplace.
+32
+[Page #32]
+The impact of gender quotas on business performanceTo	overcome	the	challenge	that	there	is	a	widely	accepted	association	between 	gender‑diverse	boards	and	better	performance	that	is	not	proven	as	causal,	some 	academics	have	looked	to	the	mandated	increase	in	women	in	the	boardroom, 	resulting	from	legislation	in	Norway,	Spain,	Italy,	Germany	and,	most	recently, 	California,	to	determine	the	impacts	on	business	performance.
+Norway	set	a	requirement	for	40%	female	representation	on	boards	by	2008.	Ahern	and	Dittmar	(2012)	find	a	negative	effect	of	the	gender	quota	on	Tobin’s	Q	in	a	study	of	Norwegian	firms	between	2001	and	2009.	They	conclude	that	the	quota	requirement	had	a	negative	impact	on	firm	value	because	the	newly	added	board	members	were	younger	and	less	experienced.	Matsa	and	Miller	(2010)	also	report	a	short‑term	fall	in	profit	following	the	Norway	law	change,	which	they	suggest	is	due	to	increased	labour	costs.	However,	other	researchers	have	criticised	these	studies.	They	say	that	Ahern	and	Dittmar	(2012)	over‑sampled	younger	and	very	small	firms,	and	that	both	studies	took	place	soon	after	the	quotas	came	into	effect,	which	coincided	with	the	global	financial	crisis.	A	later	study	of	Norway	(Eckbo	et	al.,	2019)	makes	“necessary	econometric	adjustments”	and	finds	that	quota	mandates	did	not	lead	to	a	decline	in	shareholder	value	or	a	decline	in	board	experience,	in	contrast	to	the	earlier	Norway	studies.
+In	Spain,	Campbell	and	Minguez‑Vera	(2010)	find	that	stock	markets	react	positively	to 	the	appointment	of	female	board	members	and	a	positive	association	with	firm	value 	is	recorded	over	a	sustained	period.	An	examination	of	board	gender	quotas	in	Italy	in 	2011	(Ferrari	et	al.,	2016)	finds	no	impact	on	firm	performance	(ROA).	However,	they 	also	study	reactions	when	gender	quotas	were	introduced	in	Italy	and	see	a	positive 	effect	on	stock	market	returns,	suggesting	a	positive	reaction	from	the	market.	The 	authors	suggest	that	the	difference	in	results	between	Italy	and	Norway	is	because 	reform	was	more	necessary	in	Italy,	evidenced	by	the	higher	education	level	of 	directors	observed	post	reform.
+For	California,	we	have	reviewed	two	studies	that	paint	a	broadly	negative	picture 	of	the	2018	quota	mandate,	but	as	this	legislation	was	introduced	in	2018,	current 	studies	can	only	show	very	short‑term	effects.	Hwang	et	al.	(2019)	report	a	statistically 	significant	abnormal	return	of	‑1.4%	at	the	announcement	of	the	signing	of	the	SB 	826	mandate	for	companies	headquartered	in	California.	They	analyse	the	impact	on 	shareholder	value	according	to	the	shortfall	in	women	directors	that	firms	faced,	with 	those	needing	to	recruit	more	women	directors	seeing	sharper	declines	in	shareholder 	wealth	than	firms	closer	to	the	requirement.	These	results	are	robust	to	controlling	for 	industry	and	firm	characteristics	but	do	not	prove	causality.	The	authors	suggest	that 	the	declines	are	owing	to	concerns	over	‘supply‑side	constraints’.	Firms	distant	from	a 	local	pool	of	qualified	female	directors	experienced	greater	negative	abnormal	returns. 	There	is	also	evidence	of	a	large	increase	in	appointments	of	female	directors	for	the 	first	time	in	these	locations.
+A	second	study	of	the	Californian	mandate	(von	Meyerinck	et	al.,	2020)	also	finds 	large	negative	announcement	returns	and	identifies	a	ripple	effect	with	negative 	announcement	returns	seen	for	states	considered	most	likely	to	“follow	California”. 	They	show	that	the	fall	in	stock	returns	are	not	explained	by	frictions	in	the	labour 	market	and	believe	it	is	due	to	“Shareholders’	distaste	for	the	government’s	attempt 	to	legislate	non‑economic	values	and	their	estimation	of	how	likely	a	state	will	follow 	California’s	legislative	lead.”
+33 
+[Page #33]
+It	is	perhaps	too	soon	for	the	studies	to	draw	conclusions	from	California,	and	indeed 	other	regions	where	female	representation	is	below	the	“critical	mass”.
+Looking	at	the	theory	of	critical	mass,	some	question	the	merit	of	this	target.	Oliver 	Wyman	(2020)	global	analysis	of	the	financial	sector	finds	some	firms	that	had	reached 	30%	female	representation	on	Executive	Committees	had	since	“crept	backward”	in 	terms	of	female	representation.
+However,	a	number	of	academics	do	find	evidence	of	the	benefits	of	a	critical	mass 	of	women	on	the	board.	Joecks	et	al.	(2012)	puts	critical	mass	theory	to	an	empirical 	test.	Their	study	of	151	listed	German	firms	between	2000	and	2005	finds	that	gender 	diversity	negatively	affects	firm	performance	until	a	critical	mass	of	about	30% 	representation	is	reached,	when	higher	firm	performance	is	seen.	Although	the	sample 	is	relatively	small,	this	is	a	robust	study	that	uses	lag	variables	to	address	problems	of 	sample	selection	biases	and	reverse	causality.	Gong	and	Girma	(2021)	find	that	gender 	diversity	on	UK	boards	has	its	greatest	positive	impact	on	labour	efficiency	and	sales 	growth	when	the	proportion	of	female	directors	reaches	30%.	Owen	and	Temesvary 	(2018)	find	a	U‑shaped	relation	between	female	representation	on	US	bank	boards 	and	performance.	Once	a	‘critical	level’	of	gender	diversity	is	reached,	they	argue, 	performance	benefits	begin	to	materialise,	but	only	in	better	capitalised	banks.
+The impact of ethnic diversity on business performanceOverall,	there	is	a	mixed	picture	as	to	the	benefits	of	ethnically	diverse	workforces 	on	business	performance,	although	there	are	certainly	hints	of	positive	associations. 	More	research	is	needed	in	this	area,	particularly	in	the	UK,	as	there	will	always	be 	challenges	in	generalising	findings	from	other	parts	of	the	globe.	The	theory	is	also 	rather	mixed.	Westphal	and	Milton	(2000)	highlight	how	social	barriers	between 	different	demographic	groups	can	be	minimized	when	individuals	have	shared 	prior	experiences	“thus	unleashing	the	potential	beneficial	effects	of	diversity	on 	organizational	outcomes”.
+Seven	of	the	board	impact	studies	we	reviewed	incorporated	an	ethnic	diversity 	metric.	In	one	study	the	metric	was	measured	in	conjunction	with	other	diversity 	characteristics	for	a	combined	variable,	so	we	are	unable	to	unpick	the	role	of	ethnicity 	in	the	findings	(Erhardt	et	al.,	2003).	Of	the	remaining	six	studies	reviewed,	three	find 	a	positive	impact	and	three	find	a	neutral	impact	on	performance	outcomes.	This 	suggests	that,	at	the	least,	there	are	unlikely	to	be	negative	performance	outcomes	for 	ethnically diverse boards.
+The	studies	reviewed	are	from	different	regions	and	thus	vary	in	their	approaches	to	measuring	ethnic	diversity,	as	there	is	little	reliable	data	on	ethnicity.	Some	authors	(eg	Giannetti	and	Zhao,	2016)	use	an	established	algorithm	to	assign	directors	to	ethnic	groups	based	on	their	name.	Some	supplemented	information	from	names	with	photos	where	available,	while	others	base	the	measure	on	nationality,	or	whether	‘foreign	born’.	Global	studies	such	as	McKinsey	(2020)	are	challenged	because	the	ethnic	group	classifications	vary	widely	in	different	regions.	They	count	‘non‑majority	executives’,	which	means	those	with	an	ethnic	background	that	does	not	represent	the	majority	for	that	country.	However,	it	is	still	challenging	to	compare	countries	on	this	metric.	Singapore	is	considered	by	far	the	most	ethnically	diverse	region	sampled,	but	this	could	be	due	to	boards	in	Singapore	being	over‑represented	by	western	‘ex‑pat’	directors.
+34
+[Page #34]
+Most	studies	assess	ethnic	minority	representation,	alongside	gender,	and	some 	include	age/experience	diversity	variables.	Carter	et	al.	(2003)	investigates	ethnicity 	in	US	firm	boards	and	finds	that	organisations	with	two	or	more	ethnic	minority	board 	members	have	a	higher	value	(Tobin’s	Q)	than	those	that	have	none,	although	the 	difference	was	only	marginally	significant.	This	study	controlled	for	various	measures 	but	failed	to	consider	omitted	variables	such	as	firm	culture	that	could	bias	results.	In 	a	later	study	of	gender	and	ethnically	diverse	boards,	Carter	et	al.	(2010)	run	additional 	regression	models	to	address	causation	and	find	no	direct	link	between	board	diversity 	and	business	performance.
+Ciavarella	(2018)	study	firms	in	five	EU	countries	and	find	better	performance	for 	both	ROA	and	ROE	when	foreign	directors	are	more	represented,	although	this	study 	measures	nationality	diversity	rather	than	ethnic	diversity.	Randøy	et	al.	(2006)	finds 	no	impact,	but	again	this	study	measures	foreign	directors,	rather	than	ethnicity. 	Finally,	Erhardt	et	al.	(2003)	study	the	relationship	between	gender	and	racial	diversity 	of	executive	board	members	for	a	sample	of	large	US	firms,	and	find	a	positive 	association	with	ROA	and	ROI,	but	this	study	uses	a	combined	gender	and	ethnic 	diversity	metric	and	only	seeks	to	understand	trends,	and	not	causality.
+Richard	et	al.	(2003)	assessed	the	wider	context	of	racial	diversity	at	an	organisation, 	focusing	on	banks	in	the	US	(n=177).	He	conducted	a	survey	of	senior	executives	at 	a	sample	of	US	banks,	collecting	data	on	the	racial	demography	of	the	workforce 	alongside	questions	to	ascertain	business	strategy	and	innovation.	He	found	that 	increases	in	racial	diversity	enhanced	financial	performance	for	innovation‑focused 	banks,	whereas	for	banks	low	in	innovation,	performance	declined.	This	followed 	another	study	he	conducted	in	2000,	where	he	found	positive	financial	outcomes	for 	racially	diverse	banks,	but	only	for	those	with	a	growth	strategy,	although	the	overall 	sample	here	was	very	small	(n=63).
+35 
+[Page #35]
+4 
+Evidence of links between diversity and risk management
+In	this	chapter	we	discuss	the	findings	from	11	studies	that	have	assessed	how 	attitudes	towards	risk	vary	between	males	and	females,	firstly	amongst	general 	consumers,	exploring	how	this	plays	out	for	consumers	in	the	financial	services	sector, 	and then at the corporate level.
+We	then	address	the	core	objective	of	this	research	–	what	the	evidence	says	about 	diversity	influences	on	risk	management	outcomes.	As	with	performance	outcomes, 	the	majority	of	evidence	pertains	to	the	impact	of	diverse	boards	and	specifically, 	gender‑diverse	boards.
+We	have	reviewed	a	total	of	23	impact	studies	that	measure	a	broad	spectrum	of	either 	positive	or	negative	risk	management	outcomes	for	senior	leadership,	in	terms	of:
+Firm	performance	volatility;Stock	return	volatility;
+• • •  Debt	levels;• • 
+Insolvency;	andResearch	&	Development	(R&D)	investment	decision‑making.
+This	chapter	also	draws	on	findings	from	one	meta‑analysis	and	one	literature	review.
+i.  Overall summary
+The	common	hypothesis	is	that	women	are	more	risk	averse	than	men.	However, 	context	is	found	to	be	very	important,	particularly	in	relation	to	financial 	decision‑making	with	no	gender	differences	seen	when	participants	need	to	make 	decisions	in	the	same	context	(Schubert	et	al,	1999).	It	also	does	not	necessarily	follow 	that	female	leaders	are	risk	averse	(Adam	and	Ragunathan,	2015).	We	report	from 	studies	that	suggest	the	impact	of	women	being	perceived	in	this	stereotypical	way 	can	have	negative	consequences:
+1.  For	consumers,	financial	providers	might	assume	female	customers	to	be	naturally 	more	risk	averse	and	target	products	differently	to	comparable	male	customers.2.  Early	D&I	studies	suggest	that	the	perception	that	women	are	more	risk	averse	was 	
+felt	to	prevent	more	women	from	attaining	board	positions.
+Overall,	the	evidence	base	is	too	limited	to	draw	robust	conclusions	as	to	the	impact	of 	diversity	metrics	on	risk	management	outcomes	other	than	gender.	For	gender,	there 	is	a	body	of	evidence	that	diverse	boards	lead	to	positive	risk	management	outcomes.
+Of	the	23	senior	leadership	impact	studies	reviewed,	21	studied	gender,	17	only 	considered	gender.	Five	investigated	the	impact	of	ethnicity,	two	exclusively.	Although 	some	studies	considered	age,	cognitive	diversity,	experience	or	education,	these 	characteristics	were	typically	assessed	in	terms	of	how	they	interplay	with	gender 	
+36
+[Page #36]
+differences.	Only	two	studies	considered	the	impact	of	these	diversity	metrics	on	risk 	management	outcomes	(Erhardt	et	al.,	2003;	Bernile	et	al.,	2016)	but	these	authors 	incorporated	different	measures	of	diversity	into	one	multi‑dimensional	measure.
+Of	the	nine	studies	which	attempted	to	account	for	causality,	seven	find	an	association 	between	gender‑diverse	boards	and	positive	risk	management	outcomes	(Adams	and 	Ferreira,	2009;	Wilson	and	Atlanlar,	2009;	Cumming	et	al.,	2012;	Chen	et	al.	2015;	Ferrari 	et	al.,	2016;	Huang	and	Kisgen	(2013);	and	Hernandez‑Nicolas	et	al.,	2021),	and	two	find 	no	impact	(Sila	et	al.,	2015;	and	Adams	and	Ragunathan,	2015).
+ii.  Gender influences on attitudes towards risk
+The	evidence	tends	to	support	the	general	perception	that,	in	a	consumer	setting,	on	average	women	are	more	risk	averse	than	men.	The	academic	literature	on	risk‑taking	is	extensive,	examined	at	both	individual	and	team	level,	and	in	a	range	of	contexts	(ie	university,	workplace,	financial	decision‑making,	company	boards).	On	balance,	the	evidence	among	consumers	shows	that	women	are	more	risk	averse	than	men.	Although	some	academic	studies	find	no	gender	difference,	these	tend	to	be	in	the	minority.
+A	large	scale	meta‑analysis	of	150,	predominantly	US,	studies	(Byrnes	et	al.,	1999) 	concluded	that	there	is	greater	risk‑taking	in	males	compared	with	females.	There 	were	two	areas	where	these	gender	differences	were	consistent	across	all	age	bands	– 	in	gambling	and	driving,	which	highlights	where	the	difference	in	risk	attitudes	between 	the	genders	holds	out	regardless	of	age	and	related	lifestyle	changes.
+iii.  Diversity influences on financial decision‑making
+The	1990s	saw	a	number	of	research	studies	investigate	the	role	of	risk	in	financial 	decision‑making	between	genders.	There	are	clear	differences,	with	women	typically 	more	risk	averse,	but	it	is	suggested	that	a	range	of	wider	influences	are	also	at	play. 	Sunde’n	and	Surette	(1998)	conclude	that	gender	and	marital	status	significantly	affect 	how	individuals	choose	to	allocate	assets	in	defined	contribution	plans.	However, 	because	unobserved	differences	may	affect	investment	behaviours,	they	view	their 	results	as	descriptive	rather	than	causal.	Jianakoplos	and	Bernasek	(1998)	find	that 	single	women	exhibit	relatively	more	risk	aversion	in	financial	decision‑making	than 	single	men	with	a	comparable	income.	They	suggest	that	gender	differences	in 	financial	risk‑taking	are	also	influenced	by	age,	race,	and	number	of	children.
+In	the	UK,	Powell	and	Ansic	(1997)	conducted	an	experimental	analysis	to	explore 	gender	differences	in	risk	behaviours	in	financial	decision‑making	and	concluded	that 	women	are	more	risk	averse,	although	their	sample	was	not	particularly	large	(n=126).
+Schubert	et	al.	(1999)	examine	whether	there	is	evidence	to	support	the	stereotypical 	view	that	women	are	more	risk‑averse	than	men	in	financial	decision‑making	and 	question	whether	“abstract	gambling	experiments	are	relevant	for	the	analysis 	of	gender	specific	risk	attitudes	towards	financial	decision‑making”.	The	authors 	conducted	an	experimental	study	in	Switzerland,	finding	that	the	comparative	risk 	propensity	is	strongly	dependent	on	the	context	of	the	financial	decision,	with	no 	gender	differences	seen	when	participants	need	to	make	decisions	in	the	same 	
+37	
+[Page #37]
+context.	On	the	grounds	that	all	financial	decisions	are	‘contextual’	the	study 	concludes	that	“male	and	female	subjects	do	not	differ	in	their	risk	propensities”.	The 	authors	suggest	that	perceived	more	risk	averse	attitudes	of	female	investors	and 	managers	may	be	more	prejudiced	than	reality	and	can	be	a	source	of	discrimination. 	However,	it	should	be	noted	that	experimental	studies	such	as	these	are	not	real	life	as 	they are carried out under controlled conditions.
+Gysler,	Kruse	and	Schubert	(2002),	in	another	Swiss	experimental	study,	attribute 	differences	in	investment	behaviours	or	financial	decision‑making	between	genders 	to	objective	knowledge	and	overconfidence	(of	males).	They	conclude	that	gender 	predicts	the	choices	made	when	individuals	are	confronted	with	uncertainty.
+A	relatively	recent	study	of	financial	risk	tolerance	amongst	US	consumers	also	found 	income	uncertainty	to	be	an	important	variable,	alongside	gender.	Fisher	et	al.	(2017) 	uncovered	a	more	nuanced	picture	of	differing	gender	attitudes	towards	risk	tolerance 	when	making	financial	investment	decisions.	The	study	finds	that	women	are	less 	tolerant,	but	that	it	is	the	differences	between	key	determinants	of	risk	tolerance 	(income	uncertainty	and	net	worth)	and	gender,	that	tend	to	lead	to	the	gender 	differences	seen	for	risk	tolerance.	Policy	makers	and	financial	advisers	must	better 	understand	the	reasons	behind	gender	differences	in	risk	tolerance,	Bajtelsmit	and 	Bernasek	(1996)	concluded;	in	a	review	of	the	literature	regarding	gender	differences	in 	investment,	that	women	tended	to	invest	more	conservatively	but	that	more	research 	was	needed	to	thoroughly	investigate	the	causes	of	gender	differences.
+We	see	a	mixed	result	for	the	influence	of	gender	on	investment	decision‑making 	behaviour	for	fund	management	teams	in	the	US.	An	experimental	design	was	used 	by	Bogan	et	al.	(2013),	with	teams	of	four	persons	each	given	the	task	of	making 	investment	portfolio	management	decisions.	The	paper	finds	evidence	that	a	male 	presence	increases	the	probability	of	selecting	a	higher	risk	investment.	However,	the 	all‑male	teams	are	not	the	most	risk‑seeking,	and	having	a	male	presence	was	also 	shown to increase loss aversion.
+We	also	report	from	an	experimental	study	conducted	in	South	East	Asia	and	the 	US.	Levine	et	al.	(2014)	report	that	ethnic	diversity	in	teams	leads	to	an	increase	in 	scrutiny	and	ultimately	better	decision‑making.	Participants	were	randomly	assigned 	to	ethnically	homogenous	and	diverse	markets,	where	they	traded	stocks	to	earn 	money.	In	more	homogenous	markets,	overpricing	is	higher	as	traders	are	more	likely 	to	accept	speculative	prices	and	when	bubbles	burst,	they	crash	more	severely	than	in 	diverse	markets.
+iv.  Gender influences on corporate risk management
+The	literature	reviewed	generally	reports	more	positive	risk	management	outcomes 	for	boards	that	are	more	gender‑diverse.
+Of	21	studies	reviewed	that	quantitatively	assessed	the	impact	of	gender‑diverse 	boards	on	risk	management,	12	find	that	a	female	presence	has	a	positive	influence. 	Although	causality	is	hard	to	prove,	given	some	studies	argue	that	women	tend	to 	be	found	on	the	boards	of	less	risky	businesses,	nine	studies	do	seek	to	overcome 	causality	concerns,	of	which	seven	report	a	positive	link	and	two	find	no	impact.
+38
+[Page #38]
+There	is	evidence	that	the	perception	of	different	risk	attitudes	between	genders	led 	to	a	stereotyping	that	caused	‘glass	ceilings’	in	corporate	promotion	ladders	(Johnson 	and	Powell,	1994),	who	find	no	differences	in	risk	propensity	and	decision	quality 	between	males	and	females	in	a	‘managerial	sub‑population’	in	the	UK.
+Adams	and	Ferreira	(2004)	find	a	relationship	between	US	boards	with	more	males 	and	performance	volatility,	but	they	are	unable	to	confirm	whether	this	is	due	to	risk 	aversion	theory	associated	with	female	directors,	or	a	preference	for	homogeneity 	for	the	boards	of	riskier	businesses.	Arnaboldi	et	al.	(2020)	suggest	that	regardless	of 	the	reason,	“the	implication	is	that	more	limited	opportunities	exist	for	female	board 	candidates	to	enter	risky	environments”.
+Wilson	and	Altanlar	(2009)	examine	the	characteristics	of	the	directors	and	owners 	of	private	companies	(mainly	SMEs)	in	relation	to	insolvency	risk,	with	a	specific	focus 	on	the	incidence	and	impact	of	female	directors.	They	analyse	over	900,000	limited 	companies	in	the	UK,	including	over	17,000	that	had	ceased	trading.	Controlling	for	a 	wide	range	of	company,	industry	and	governance	characteristics,	they	find	compelling 	evidence	that	more	gender‑diverse	boards	have	lower	insolvency	risk.	This	study	uses 	a	robust	methodology	and	a	recursive	process	to	check	for	causal	direction.
+Prior	studies	led	Cumming	et	al.	(2012)	to	believe	that	women	on	boards	can	help 	to	better	monitor	firms’	activities	and	mitigate	fraud.	This	study	conducted	robust 	analysis	of	detected	fraud	cases	in	China	(n=1,422	cases)	and	find	that	the	presence 	of	woman	on	the	board	mitigates	the	frequency	of	fraud.	This	study	controls	for	other 	corporate	governance	and	firm	characteristics.
+Chen,	Ni	and	Tong	(2015)	link	gender‑diverse	boards	to	effective	managerial 	decision‑making	in	R&D	risk	management.	This	builds	on	studies	that	show	R&D 	investment	increases	volatility	of	future	firm	performance.	Using	a	US	sample	of 	firms	and	following	R&D	risk	measurement	developed	in	the	prior	literature,	they	find 	evidence	that	gender‑diverse	boards	reduce	the	positive	relationship	between	R&D 	and	earnings/returns	volatility	and	that	the	adverse	impact	of	R&D	on	cost	of	debt	is 	less	severe	when	more	female	directors	serve	on	the	board.	The	recent	study	of	the 	construction	industry	in	Spain	(Hernandez‑Nicolas	et	al.,	2021)	finds	that	companies 	managed	by	women	are	less	indebted.
+Adams	and	Ferreira	(2009)	finds	that	US	firms	facing	more	variability	in	their	stock 	returns	have	fewer	women	on	their	boards,	while	the	study	of	the	impact	of	gender 	quotas	in	Italy	(Ferrari	et	al.,	2016)	also	finds	lower	variability	of	stock	market	prices. 	Huang	and	Kisgen	(2013)	assess	the	impact	of	gender	in	making	executive	financial 	and	investment	decisions,	using	a	data	set	of	executive	transitions	from	1,866	US 	firms.	They	use	a	‘difference‑in‑difference’	approach,	comparing	activity	before	and 	after	transitioning	from	a	male	to	a	female	executive	with	a	control	sample	of	firms 	that	had	replaced	a	male	director	with	another‑male,	helping	to	overcome	sample 	selection	concerns.	They	also	conduct	tests	using	the	instrumental	variable	approach 	to	try	to	isolate	causal	direction.	Results	show	that	male	executives	undertake	more 	acquisitions	and	issue	debt	more	often,	and	that	these	announcements	have	lower 	returns	than	acquisition	and	debt	announcements	by	female	executives.	The	authors 	suggest	this	shows	that	“men	exhibit	relative	overconfidence	in	significant	corporate 	decision‑making	compared	to	women”.
+39	
+[Page #39]
+Market	studies	also	show	clear	risk	management	benefits	for	gender‑diverse	boards. 	Moody’s	Investor	Services	reports	have	shown,	in	both	the	US	and	Europe,	that 	companies	with	higher	credit	ratings	have	greater	gender	diversity	on	their	boards. 	Although	they	cannot	confirm	whether	companies	with	higher	credit	ratings	attract 	females	at	board	level	or	whether	the	presence	of	females	improves	credit	ratings, 	the	differences	are	striking.	In	Europe,	women	make	up	28%	of	boards	in	Aaa‑rated 	companies	and	32%	in	Aa‑rated	firms,	compared	to	16%	in	Caa‑rated	companies. 	Brendan	Sheehan,	author	of	Moody’s	reports,	states	that	“We	consider	a	board	with 	less	than	30%	gender	diversity	as	being	one	of	many	indicators	that	stray	from	the 	standards	we	define	as	a	credit‑friendly	board.”
+Adams	and	Funk	(2009)	find	in	a	survey	of	Swedish	directors	(n=628)	that	“female	and 	male	directors	differ	systematically	in	their	core	values	and	risk	attitudes,”	though 	not	necessarily	in	a	stereotyped	way.	While	female	directors	were	found	to	be	more 	benevolent	and	less	power‑driven	than	male	directors,	they	were	also	found	to	be 	“more	risk‑living.”
+In	a	study	of	US	non‑financial	companies,	Sila	et	al.	(2015)	use	a	dynamic	model	that 	controls	for	reverse	causality	and	for	potential	unobservable	firm	factors	(omitted 	variables).	They	find	no	evidence	that	gender	diversity	on	boards	influences	equity	risk. 	Credit	Suisse	(2014)	expanded	on	an	earlier	methodology	to	incorporate	additional 	risk‑based	measures	in	their	study	of	the	impacts	of	diverse	senior	management. 	Interestingly,	this	study	finds	no	evidence	that	female‑led	companies	reflect	greater 	financial	conservatism,	but	this	study	shows	correlation	only.
+v. 
+ Gender influences on corporate risk management in financial services
+We	reviewed	five	studies	that	assess	the	influence	of	board	gender	diversity	in	the 	financial	sector,	of	which	two	report	a	positive	impact	(Palvia	et	al.,	2014,	and	Mateos 	de	Cabo,	2012).	None	reported	a	negative	link.
+The	importance	of	risk	management	in	financial	services	gained	more	attention	following	the	global	financial	crisis.	Several	reports	have	shown	that	in	the	midst	of	the	2008–09	crisis,	banks	with	a	higher	share	of	women	on	their	boards	were	more	stable	than	their	peers	(Arnaboldi	et	al.,	2020;	Geyfman,	2018;	Palvia	et	al.,	2014;	and	Credit	Suisse,	2014).
+Palvia	et	al.	(2014)	explore	the	gender	of	CEOs	and	board	chairs	in	a	large	sample	of	US 	commercial	banks	(n=6,729)	and,	while	gender	is	not	related	to	bank	failure	in	general, 	there	is	evidence	that	smaller	banks	with	a	female	CEO	and	board	chair	were	less	likely 	to	fail	during	the	crisis.	They	also	find	that	banks	with	a	female	CEO	hold	higher	levels 	of	equity	capital,	a	finding	which	holds	true	when	controlling	for	a	number	of	bank 	attributes,	including	asset	risk.
+As	with	wider	industry,	Mateos	de	Cabo	et	al.	(2012)	suggest	that	the	perception	that 	women	are	more	risk	averse	than	men	is	a	key	factor	inﬂuencing	the	low	presence	of 	women	on	bank’s	boards:	“When	a	ﬁrm/bank	assumes	a	signiﬁcant	level	of	risk,	it	is	less 	likely	to	hire	women	for	the	board,	since	women	are	seen	as	less	skilled	in	making	the 	risky	decisions	that	may	be	necessary	for	a	bank’s	success.”	Their	analysis	of	a	sample 	of	EU	banks	(n=612)	shows	that	the	proportion	of	women	on	the	board	is	higher	for 	lower‑risk	banks.
+40
+[Page #40]
+Recent	analysis	of	authorised	individuals	at	regulated	banks	in	the	UK	by	the	Bank 	of	England	(Suss	et	al.	2021)	finds	that	gender	diversity	is	associated	with	lower	risk. 	However,	when	fixed	firm	characteristics	are	controlled	for	there	is	no	association. 	While	in	their	analysis	of	gender	diversity	on	US	bank	boards	(n=365),	Adams	and 	Ragunathan	(2015)	find	that	the	banks	with	more	female	directors	did	not	necessarily 	have lower risk or participate in fewer risky activities.
+Geyfman	et	al.	(2018)	consider	the	role	of	risk	in	their	study	of	board	gender	diversity 	and	bank	performance.	They	use	an	executive	compensation	dataset	for	data	on 	director	renumeration,	and	various	accounting	and	market	figures	for	financial 	institutions	in	the	US	from	2007‑2015	(n=	2,001	firm	years).	While	gender	diversity 	appears	to	improve	performance	and	lower	performance	volatility,	there	was	no 	impact	on	bank	risk,	giving	a	mixed	result	on	risk	management	measures.
+vi.   Ethnicity and other diversity factors influencing risk 
+management
+We	identified	four	studies	that	assess	a	wider	range	of	diversity	metrics	in	risk 	management	behaviours	at	director/board	level,	all	of	which	considered	ethnicity,	but 	with	variable	measurement	approaches,	the	results	are	not	conclusive.
+In	the	UK,	Suss	et	al.	(2021)	initially	finds	nationality	diversity	to	be	associated	with	lower	risk,	but	when	fixed	firm	characteristics	are	controlled	for	there	is	no	association.
+Giannetti	and	Zhao	(2016)	conducted	analysis	of	S&P1500	firms’	board	data	(excluding 	financial	institutions)	over	the	period	2001‑2012	(n=12,104	firm‑years),	finding	high 	volatility	in	performance	and	stock	market	returns.	Together	with	more	frequent 	board	meetings	and	frequent	changes	to	strategy,	they	take	this	as	evidence	of	erratic 	decision‑making.	However,	they	find	no	evidence	that	firms	with	ethnically	diverse 	boards	take	on	more	risk	(ie	they	do	not	invest	more,	do	not	make	more	acquisitions, 	and	they	have	similar	debt	levels	as	non‑diverse	boards).	They	base	ethnicity	on 	ancestral	background	according	to	the	origins	of	director’s	surnames	(British,	Central 	European,	African,	etc).	Giannetti	and	Zhao	(2018)	repeat	the	methodology	with	a 	larger	dataset	(n=23,970	firm	year	observations	over	the	period	1996–2014)	and	utilise 	Ancestry.com	to	refine	director	origins	to	specific	nationalities	(British,	Irish,	German, 	etc).	They	report	similar	findings	–	seeing	greater	volatility	for	ancestrally	diverse 	boards	and	evidence	of	more	erratic	decision‑making,	yet	they	find	no	evidence	of 	more	risk‑taking	in	terms	of	debt	and	investment.
+Bernile	et	al.	(2018)	investigate	the	effects	of	board	diversity	on	corporate	policies 	and	risk	in	the	US.	They	find	that	greater	diversity	leads	to	lower	volatility	and	better 	performance.	They	state:	“The	lower	risk	levels	are	largely	due	to	diverse	boards 	adopting	more	persistent	and	less	risky	financial	policies.	However,	consistent	with 	diversity	fostering	more	efficient	risk‑taking,	firms	with	greater	board	diversity 	also	invest	more	in	R&D	and	have	more	efficient	innovation	processes.”	This	study 	employs	a	robust	sample	of	21,572	firm	year	observations	from	1996‑2014,	but	it 	uses	a	multidimensional	diversity	index,	including	gender,	age,	ethnicity,	educational 	background,	financial	expertise,	and	breadth	of	board	experience.	Breaking	down	the 	index	by	its	individual	components	or	by	component	type	(cognitive	or	demographic) 	reveals	that	no	single	component	of	diversity	alone	drives	the	relation	between	the 	diversity	index	and	firm	risk.
+41	
+[Page #41]
+5 
+Evidence of links between diversity, inclusion and good conduct
+This	chapter	considers	the	findings	of	29	studies	that	assess	the	impact	of	D&I	in	the	workplace	on	good	conduct	outcomes,	including	six	literature	reviews	and	three	meta‑analyses.	Of	the	21	impact	studies	found,	only	three	focus	on	financial	services	(one	covering	the	UK).	As	with	the	earlier	chapters	in	this	review,	the	vast	majority	of	studies	reviewed	pertain	to	gender	and	specifically	the	influence	of	gender‑diverse	boards	on	conduct	outcomes.	We	divide	these	impact	studies	into	three	broad	areas:
+1.  Development	of	quality	products	&	services,	ie	innovation	and	creativity.	This	can 	be	measured	by	the	number	of	patents	produced,	the	ratio	of	R&D	expenditure	to 	assets,	and	responses	to	survey	questions	related	to	innovation.
+2.  Aspects	of	corporate	governance	in	terms	of	meetings	frequency,	length	and/
+or	attendance,	information	transparency,	quality	of	disclosures	and	adherence	to 	strategy.
+3.  Misconduct	(fines,	sanctions,	diversity	misconduct	and	financial	reporting 	
+irregularities).
+The	evidence	base	is	much	smaller	for	other	diversity	metrics,	although	we	do	report 	from	a	limited	number	of	studies	covering	ethnic	diversity	(7),	sexual	orientation	and 	gender	identity	(2),	education	and	experience	(1),	and	inclusion	(1).	Additionally,	we 	consider	D&I	outcomes	for	corporate	social	responsibility	(such	as	sustainability	and 	ethical	issues),	and	we	end	the	chapter	with	some	examples	of	consumer	harms	as	a 	result	of	potential	diversity	biases,	uncovered	during	the	review	but	not	a	main	goal	of 	it.	This	chapter	starts	with	an	overview	and	brief	summary	of	the	findings	related	to 	creativity	and	innovation	outcomes	from	team‑level	studies.
+i.  Overall summary
+The	evidence	points	to	a	clear	positive	link	between	D&I	and	creativity/innovation 	outcomes,	while	all	aspects	of	corporate	governance	assessed	are	associated	with 	gender‑diverse	boards.	There	is	a	mixed	picture	for	ethnically	diverse	boards,	which	are 	found	to	be	more	innovative	but	also	more	‘erratic’.
+In	their	critique	of	the	board	diversity	and	corporate	governance	literature	available, 	Wagana	and	Nzulwa	(2016)	note	that	few	studies	examine	“non‑financial	performance 	measures	(eg	innovation,	employee	retention	and	customer	satisfaction)”.	We	agree 	that	there	is	a	real	dearth	of	literature	on	the	impact	of	diverse	boards	and	firm 	conduct,	especially	in	financial	services.	Much	of	the	research	is	focused	on	analysis	of 	secondary	data	sources	(eg	board	and	director	demographics	and	firm‑level	financial 	data),	and	we	only	find	five	papers	which	involve	the	collection	of	primary	data,	such	as 	a survey of directors (Torchia et al., 2011).
+42
+[Page #42]
+ii.  Evidence of workplace diversity and innovation
+There	is	long‑standing	evidence	that	heterogeneity	in	teams	aids	problem‑solving	and 	decision‑making,	bringing	creativity	and	innovation,	owing	to	the	lower	probability	of 	‘groupthink’	occurring.	Cox	and	Blake	(1991)	report	that	in	one	of	the	several	University 	of	Michigan	studies	in	the	1960s,	65%	of	heterogeneous	groups	produced	high	quality 	solutions	(solutions	that	provided	either	new,	modified,	or	integrative	approaches	to 	the	problem),	compared	to	only	21%	of	the	homogeneous	groups.
+The	Stahl	et	al.	(2010)	meta‑analysis	of	108	studies	finds	creativity	gains	for	ethnically 	diverse	teams.	They	find	a	statistically	significant	link	between	ethnic	diversity	and 	creativity.	Studies	assessed	creativity	in	terms	of	the	novelty	of	ideas	generated	on	a 	brainstorming	task,	generating	creative	solutions	to	problems	and	developing	creative 	endings	to	short	stories.
+In	a	study	of	banks	in	the	US,	Richard	et	al.	(2003)	conducted	a	survey	with	executives 	(n‑177)	to	identify	the	racial	diversity	of	the	organisations	and	the	emphasis	placed	on 	innovation.	Survey	data	were	analysed	alongside	financial	performance	data.	The	study	finds	that	the	level	of	association	between	ethnic	diversity	and	performance	depends 	on	the	firms’	levels	of	innovation.	For	innovation‑focused	banks	(according	to	the	survey 	results)	increases	in	ethnic	diversity	is	linked	to	enhanced	financial	performance,	but 	for	banks	low	on	innovation,	higher	ethnic	diversity	lowered	financial	performance.	The 	authors	state	that	this	study	supports	the	theory	that	there	is	a	contingency	element	to	resource	dependence	theory,	in	that	diversity	needs	to	be	set	in	an	appropriate	context 	(ie	in	more	creative	environments)	to	fully	realise	the	benefits.
+In	a	series	of	experiments,	Nemeth	(2006)	found	that	those	with	minority	views	can 	stimulate	consideration	of	non‑obvious	alternatives	in	task	groups.	She	concluded 	that	the	groups	exposed	to	minority	views	were	more	creative	than	the	more 	homogeneous,	majority	groups	and	that	persistent	exposure	to	minority	viewpoints 	stimulates	creative	thought	processes.
+Open	For	Business	(2018)	analyse	global	data	to	assess	the	business	case	for	LGBT 	inclusion	and	finds	a	link	between	the	most	LBGT+	inclusive	cities	and	the	number	of 	patents	registered.	Further,	we	note	from	a	Deloitte	(2013)	survey	of	1,550	employees 	in	Australia	that	there	was	an	83%	uplift	in	employees	reporting	an	ability	to	innovate 	among	those	that	feel	included.
+iii.  Diverse senior leadership and innovation outcomes
+We	report	from	ten	academic	studies	that	measure	the	impact	of	diverse	senior	management	on	innovation	using	secondary	data	sources;	two	focus	on	gender	and	both	find	a	positive	impact	(Vafaei	et	al.,	2020;	Torchia	et	al.,	2011);	and	three	on	ethnic	diversity	(Giannetti	and	Zhao,	2016	and	2018;	Nathan	and	Lee,	2013)	where	the	evidence	leans	towards	positive	outcomes.	The	primary	outcome	measure	used	is	number	of	patents.	The	positive	link	with	innovation	mirrors	the	team‑level	studies	that	point	to	beneficial	creativity	outcomes	for	diverse	teams.	We	also	report	in	this	section	on	studies	that	find	the	innovation	strategy	of	the	company	to	be	an	important	contingency	factor	in	delivering	positive	business	performance	outcomes	(Deszö	and	Ross,	2012;	Richard	et	al.,	2003),	as	well	as	positive	outcomes	from	a	study	that	assesses	the	role	of	education	and	experience	(Talke	et	al.,	2011)	and	one	on	inclusion	(Chung	et	al.,	2019).
+43	
+[Page #43]
+Most	recently,	Vafaei	et	al.	(2020)	study	the	largest	firms	in	Australia,	adopting	the	instrumental	variable	method	used	by	Adams	and	Ferreira	(2009)	to	isolate	direct	causal	relationships.	They	find	a	significant	positive	relation	between	gender‑diverse	boards	and	firm	innovation	activities.	A	further	study	reports	a	survey	of	317	Norwegian	firms	in	2006	(Torchia	et	al,	2011);	it	aims	to	identify	the	importance	of	“critical	mass”	on	firm	innovation.	The	survey	was	with	firm	directors,	collecting	data	for	aspects	related	to	innovation	and	board	tasks.	The	results	suggest	that	going	from	one	or	two	women	(‘tokens’)	to	at	least	three	women	enhances	the	level	of	firm	innovation.
+Nathan	and	Lee	(2013)	centre	on	the	importance	of	ethnically	diverse	enterprises	in	London.	In	addition	to	the	outcome	that	companies	with	more	ethnically	diverse	management	introduce	more	product	innovations,	they	also	find	diversity	to	be	important	for	reaching	international	markets	and	serving	London’s	cosmopolitan	population.
+Giannetti	and	Zhao	(2018)	analyse	board	data	of	a	large	dataset	of	non‑financial	firms 	in	the	US,	comprising	2,947	firms	and	23,970	firm‑year	observations.	They	measure 	the	number	of	patents	produced	in	a	given	year	and	show	that	firms	with	boards 	from	a	diverse	ancestral	background	cite	more	patents.	In	addition,	the	strategies	of 	these	firms	conform	less	to	those	of	their	industry	peers,	which	the	authors	say	is 	“consistent	with	the	idea	that	diverse	groups	experiment	more.”	They	base	ancestral 	background	on	the	origins	of	director’s	surnames	(British,	Irish,	German,	etc).	A	prior 	study	of	US	firms	by	Giannetti	and	Zhao	(2016)	found	that	ancestrally	diverse	boards 	had	more	patent	citations,	but	not	necessarily	more	patents,	which	they	suggest	is	a 	sign	that	these	boards	are	more	creative,	and	innovation	focused.
+Further,	Deszö	and	Ross	(2012)	study	the	effect	of	gender	diversity	on	performance 	and	innovation	for	S&P1500	firms	over	a	15‑year	period.	They	measure	the	firms’ 	“innovation	intensity”	via	the	ratio	between	R&D	expenditure	and	assets,	finding	that 	companies	that	prioritised	innovation	saw	greater	financial	gains	when	women	were 	part	of	the	top	leadership	ranks.	This	study	controls	for	a	wide	array	of	firm	and	time 	specific	observable	and	unobservable	factors	that	may	affect	firm	performance,	and 	also addresses the possibility of reverse causality.
+In	terms	of	other	D&I	metrics,	we	report	from	one	study	that	considers	education	and 	experience	and	from	one	centred	on	inclusion.	In	a	study	of	German	manufacturers, 	heterogeneity	in	education	and	experience	of	senior	leadership	has	a	strong 	association	with	a	firm’s	innovation	orientation	(Talke	et	al.,	2011).	Chung	et	al.	(2019) 	surveyed	79	life	science	and	biotech	organisations	in	the	US	to	assess	the	relationship 	between	inclusive	HR	practices	and	organisational	outcomes.	They	find	a	positive 	relationship	between	firms	with	inclusion	values	and	staff	retention	metrics,	and	an 	even	stronger	relationship	between	inclusion	and	the	development	of	quality	products 	and	services.	The	study	also	investigates	the	role	of	intellectual	capital	(human	and 	social),	finding	inclusive	HR	practices	to	be	especially	important	when	organizations 	are	low	on	intellectual	capital.	They	suggest	that	inclusion	“should	help	compensate	for 	deficiencies	when	organisations	have	weaker	social	capital”	as	“inclusive	HR	practices 	would	encourage	employees	to	share	information,	relate	positively	to	one	another 	and	contribute	to	innovation	and	organizational	performance”.	This	is	a	unique	study 	but	is	limited	to	one	sector	only	and	has	a	small	sample,	so	we	should	take	care	not	to 	generalise	the	findings.	Further,	the	authors	note	that	we	cannot	infer	causal	findings.
+44
+[Page #44]
+iv. 
+ Diverse senior leadership and corporate governance outcomes
+There	is	a	strong	consensus	within	academic	literature	that	a	greater	number	of 	women	on	the	board	improves	performance	on	corporate	governance	metrics.	Of	the 	seven	empirical	studies	reviewed,	all	found	evidence	that	increased	gender	diversity	in 	the	boardroom	positively	influences	board	monitoring	functions,	such	as	attendance, 	quality	of	discussions,	and	monitoring	effectiveness	including	better	oversight	of	a 	firm’s	disclosures	and	reports.	No	studies	reported	a	negative	or	mixed	outcome	on 	this	metric.	Due	to	the	strong	association,	it	is	common	for	some	academics	in	the 	field	of	board	diversity	research	to	include	a	corporate	governance	metric	as	a	control 	variable	when	seeking	to	understand	the	impact	of	gender‑diverse	boards	on	other 	business	outcomes.
+One	study	focused	on	financial	services	(Adams	and	Ragunathan,	2015).	In	their	analysis	of	gender	diversity	on	US	bank	boards	(n=365),	they	find	better	governance	for	banks	with	more	female	directors	in	terms	of	meeting	attendance	and	committee	duties.
+Adams	and	Ferreira	(2009)	analyse	data	from	US	firms	and	find	that	the	gender 	diversity	of	boards	has	a	positive	impact	on	the	intensity	of	board	monitoring.	They 	sampled	observations	from	1,939	firms	for	the	period	1996–2003.	This	study	led	the 	field	of	board	diversity	research	to	more	strongly	consider	endogeneity	and	reverse 	causality	concerns.	Adams	and	Ferreira	used	the	instrumental	variable	method	to 	isolate	whether	there	is	a	direct	causal	relationship.	In	doing	so,	they	find	a	negative 	gender	impact	on	business	performance,	but	there	remains	a	significant	positive 	impact	on	the	corporate	governance	outcomes.	Female	directors	have	better 	attendance	records	than	male	directors;	male	directors	attend	board	meetings	more 	regularly,	the	more	gender‑diverse	the	board	is,	and	women	are	more	likely	to	join 	monitoring	committees.
+The	results	show	that	gender	diversity	has	beneficial	effects	in	companies	with	weak 	shareholder	rights,	where	additional	board	monitoring	could	enhance	firm	value,	but 	has	detrimental	effects	in	companies	with	strong	shareholder	rights.	This	leads	the 	authors	to	suggest	that	mandating	gender	quotas	for	directors	could	reduce	firm 	value	for	well‑governed	firms.	One	possible	explanation	offered	is	that	greater	gender 	diversity	leads	to	over‑monitoring	in	those	firms,	which	can	be	inefficient	and	impact 	decision‑making.	An	earlier	study	by	Adams	and	Ferreira	(2004)	also	find	that	female 	directors	attend	meetings	more	regularly	than	male	directors.
+Gul	et	al.	(2011)	measure	the	financial	transparency	and	disclosure	of	US	firms	with 	gender‑diverse	boards	by	assessing	how	the	information	provided	to	the	market 	reflects	in	stock	prices.	They	find	that	women	on	boards	increase	the	financial 	transparency	and	disclosure	of	information	through	both	“increased	public	disclosure	in	large	firms	and	by	encouraging	private	information	collection	in	small	firms”.	They 	find	a	stronger	relationship	between	gender	diversity	and	financial	transparency	for 	firms	with	weaker	corporate	governance	suggesting	that	gender‑diverse	boards	could	help	substitute	for	corporate	governance	that	would	be	otherwise	weak.	This 	is	a	robust	peer‑reviewed	academic	study	that	controlled	for	corporate	governance, 	earnings	quality,	institutional	ownership	and	acquisition	activity	in	the	regression	model. 	The	study	authors	use	instrumental	variables	and	lagged	control	variables	to	address 	reverse	causality,	which	they	do	partially,	but	this	does	not	fully	solve	endogeneity.
+45	
+[Page #45]
+Fan	et	al.	(2019)	find	critical	mass	to	be	important	in	analysis	of	reported	financial 	performance	in	the	US.	They	studied	4,823	bank‑quarter	observations	for	137 	women	directors	in	91	bank	holding	companies	during	2000‑2014,	paying	attention 	to	endogeneity	concerns.	They	find	that	boards	with	1‑2	women	directors	were	more 	likely	to	distort	reported	firm	financial	performance	but	bank	boards	with	3+	women 	directors	were	less	likely	to.	Controlling	for	board	and	firm	characteristics,	Abada	et	al. 	(2017)	find	that	higher	gender	diversity	on	boards	of	non‑financial	listed	companies	in 	Spain	(n=531	firm	years)	reduces	the	chance	of	variation	in	the	range	of	information 	held	about	a	company	in	the	market.
+Dhir	(2015)	carried	out	qualitative	interviews	with	23	directors	in	Norway	to	understand 	their	views	on	the	impact	of	quotas.	The	benefits	include	increased	quality	of 	boardroom	deliberations	and	overall	corporate	governance,	as	well	as	a	more	thorough 	selection	process	for	directors,	as	companies	expanded	their	“one‑dimensional 	picture	of	what	[a]	board	member	should	be.”	Directors	reported	how	they	had	initially 	opposed	the	quota	law	but	changed	their	views	after	“seeing	the	law	in	action”.
+In	a	review	of	corporate	director	data	across	43	countries,	Terjesen	et	al.	(2009)	test 	the	influence	of	women	on	boards	and	gender	equal	pay	at	a	firm,	finding	that	gender 	diversity	is	important.	They	concluded	that	women	directors	contribute	to	governance 	outcomes	as	“they	play	direct	roles	as	leaders,	mentors,	and	network	members	as 	well	as	indirect	roles	as	symbols	of	opportunity	for	other	women	and	inspire	them	to 	achieve	and	stay	with	their	firm.”
+v.  Diverse senior leadership and misconduct outcomes
+We	report	from	two	academic	studies	of	secondary	data	that	both	find	fewer 	incidences	of	misconduct	for	more	gender‑diverse	boards,	and	two	studies	that 	consider	the	influence	of	D&I	on	reducing	the	likelihood	of	discrimination	lawsuits.
+Arnaboldi	et	al.	(2020)	examine	the	fines	received	by	European	banks	from	US 	regulators	during	the	2007‑15	period	(n=789	firm‑year	observations).	They	show	that 	greater	female	representation	significantly	reduces	the	frequency	of	misconduct	fines,	equivalent	to	savings	of	$7.48	million	per	year.	They	also	find	that	female	directors	are 	more	influential	if	they	reach	a	“critical	mass”	and	are	supported	by	women	in	leadership 	roles.	The	authors	believe	that	it	is	the	ethicality	and	risk	aversion	of	the	female 	directors	driving	the	different	outcomes.	Their	findings	control	for	a	range	of	country 	and bank characteristics and are robust to reverse causality. This research also assesses further	measures	of	diversity	–	ethnicity,	age	and	education/social	mobility,	but	the 	impact	of	these	other	types	of	board	diversity	is	not	determined	to	be	significant.
+Wahid	et	al.	(2017),	who	use	the	instrumental	variable	method	in	their	study	of	US 	listed	companies	from	2000‑2010	(n=38,273	firm‑years),	find	that	gender‑diverse 	boards	commit	fewer	financial	reporting	mistakes	and	engage	in	less	accountancy 	fraud.	These	results	hold	whether	the	existing	firm	governance	is	weak	or	strong, 	highlighting	the	benefits	of	gender‑diverse	boards	in	already	well‑governed	firms. 	While	some	suggest	three	to	be	the	number	required	before	the	benefits	of	a	‘critical 	mass’	is	felt,	Wahid	et	al.	(2017)	find	that	the	financial	reporting	benefits	are	strongest 	for	companies	with	two	female	directors,	with	no	incremental	benefit	for	firms	with	3+ 	female	directors.
+46
+[Page #46]
+Dandanlar	and	Abebe	(2020)	analysed	data	for	462	US‑based	S&P	firms	from 	2010‑2015.	They	find	a	link	between	female	CEOs	and	diversity	misconduct.	Female 	CEOs	were	21%	less	likely	to	face	discrimination	lawsuits,	while	there	was	no	impact 	for	female	representation	in	the	senior	executive	and	board.	In	their	meta‑analysis 	of	LGBT	impact	studies,	Webster	et	al.	(2017)	find	a	strong	relationship	between	a 	LGBT‑supportive	climate	and	a	reduction	in	perceived	discrimination.
+vi.  Corporate social responsibility outcomes
+In	this	section	we	highlight	some	studies	that	show	higher	levels	of	‘corporate	social 	responsibility’	(CSR)	for	gender‑diverse	boards,	measuring	a	range	of	reputational 	and	environmental,	social	and	governance	(ESG)	outcomes.	These	studies	are 	noted	for	interest.	We	find	a	clear	consistently	positive	impact	on	CSR	measures	for 	gender‑diverse	boards,	although	none	of	the	studies	reviewed	attempt	to	account	for 	causality.	Note	that	these	CSR	studies	are	not	considered	as	part	of	the	good	conduct 	outcomes	discussed	earlier	in	this	chapter.
+We	report	from	six	impact	studies	and	two	literature	reviews	in	this	area.	All	studies 	are	focused	on	gender	and	all	reported	that	gender‑diverse	boards	had	positive	CSR 	outcomes.	Only	one	study	reviewed	considered	wider	diversity	characteristics	(Hafsi 	and	Turgut,	2013).
+Rhode	&	Packel	(2014),	in	their	review	of	the	literature	on	board	diversity,	financial 	performance,	and	good	governance,	find	a	more	compelling	“business	case	for 	diversity”	for	social	justice,	equal	opportunity,	and	corporate	reputation.	A	later 	meta‑analysis	(Byron	and	Post,	2016)	also	finds	that	female	board	representation 	is positively related to corporate social responsibility and social reputation, with the impact	most	pronounced	in	countries	with	greater	gender	parity	in	the	workplace.
+Bear	et	al.	(2010)	use	CSR	ratings	provided	by	the	‘Worlds	Most	Admired	Companies’ 	list	and	find	the	more	gender‑diverse	boards	have	better	ratings,	with	the	ratings 	improving	as	the	number	of	female	directors	increases,	backing	up	‘critical	mass’ 	theory.	Bernardi	et	al.	(2009)	conducted	a	study	of	Fortune	500	firms	that	used	a 	similar	approach,	examining	the	association	between	the	number	of	women	directors 	on	a	board	and	the	company’s	appearance	on	Ethisphere	Magazine’s	World’s	Most 	Ethical	Companies	list	(2009).	This	approach	was	used	again	by	Larkin	et	al.	(2012), 	additionally	including	Fortune’s	100	‘Best	Companies’	list	in	the	analysis.	Larkin	et	al. 	(2012)	find	an	incremental	benefit	for	gender‑diverse	boards	that	already	have	a	good 	reputation	in	CSR,	seeing	an	“interactive	effect	between	corporate	reputation	and	the 	number	of	female	directors”.	These	studies	all	show	that	the	number	of	women	on	the 	board	is	positively	associated	with	better	corporate	social	responsibility	ratings,	but 	none	prove	causation.	It	should	be	noted	that	other	reviewers	have	questioned	the	use 	of	‘best	company	lists’	to	infer	the	impact	of	diversity	on	CSR.	It	is	likely	that	these	lists 	use	some	of	the	same	diversity	measures	as	part	of	their	ranking	methodology,	while	a 	wide	spread	of	firms	tend	to	feature	across	the	different	lists,	presenting	concerns.
+Hafsi	and	Turgut	(2013)	sought	to	find	out	whether	there	is	a	significant	relationship	between	boardroom	diversity	(gender	and	age)	and	social	performance	via	a	cross‑sectional	study	of	S&P500	firms	(n=95	firms/1,028	directors).	Social	performance	was	measured	using	43	indicators	from	an	annual	data	set	of	positive	and	negative	ESG	performance	indicators	applied	to	publicly	traded	companies.	Controlling	for	sector	
+47	
+[Page #47]
+and	financial	performance,	this	study	shows	that	the	more	gender‑diverse	boards	have	better	social	performance.	No	impact	is	seen	for	ethnic	diversity,	while	a	surprising	negative	relationship	is	observed	for	age	diversity.	The	authors	note	the	limitations	from	the	relatively	small	and	multi‑sector	sample;	causation	was	not	assessed.
+Galbreath	(2011)	finds	some	evidence	of	a	link	between	gender‑diverse	boards	and 	corporate	sustainability	in	Australia,	considering	sustainable	economic	growth, 	environmental	quality	and	social	responsibility.	The	study	used	annual	report	data	to 	identify	corporate	sustainability	on	these	measures.	Women	on	boards	are	positively 	linked	with	both	economic	growth	and	social	responsibility,	with	no	impact	for 	environmental	outcomes.
+Finally,	we	note	the	evidence	and	theory	behind	why	the	presence	of	women	on	boards 	might	lead	to	better	CSR	outcomes.	Bart	&	McQueen	(2013)	report	from	a	survey	of 	board	directors	at	US	firms	(n=624)	that	female	directors	achieve	significantly	higher 	scores	than	their	male	counterparts	on	the	complex	moral	reasoning	dimension	which 	essentially	involves	making	consistently	fair	decisions	when	competing	interests	are 	at	stake.	Dandanlar	and	Abebe	(2020)	draw	from	social	role	theory	in	their	study	of 	diversity	misconduct	in	the	US,	to	argue	that	female	leaders	are	better	positioned	to 	minimize	diversity	misconduct	because	of	their	role	as	individuals	who	emphasise	care, 	empathy	and	high	‘ethical	sensitivity’.
+vii.  Examples of consumer harms as a result of possible D&I 
+issues in the FS industry
+During	this	literature	review,	we	have	come	across	potential	consumer	harms	that	may 	be	due	to	inherent	biases	in	the	financial	sector,	specifically	toward	female	customers. 	These	are	across	two	core	areas	–	access	to	finance,	including	venture	capital,	and 	investment	planning.
+Access to financeOliver	Wyman	(2020)	sets	out	to	assess	the	overall	value	currently	being	lost	by 	a	non‑diverse	FS	industry,	believing	there	to	be	“unintentional	blind	spots”	and 	“significant	revenue	uplift	potential	for	firms	that	listen	to	and	understand	their	female 	customers”.	In	identifying	this	missed	potential	revenue,	the	report	also	highlights 	apparent	unequal	gender	access	to	finance:
+•  Women	are	less	likely	to	be	approved	for	mortgages	and	other	retail	credit;	and•  Women	are	less	likely	to	receive	funding	to	start	and	grow	their	businesses.
+The	source	for	Wyman’s	data	here	is	an	OECD	policy	briefing	on	woman’s 	entrepreneurship	(OECD,	2017).	The	OECD	(2017)	data	finds	that	women	are	less	likely 	than	men	to	indicate	that	they	can	access	the	financing	needed	to	start	a	business, 	which	holds	across	all	EU	Member	States.	The	gap	is	substantial	in	several	countries. 	In	seven	states	men	were	more	than	1.5	times	as	likely	as	women	to	report	that	they 	could	access	the	finance	to	start	a	business.	This	ranged	from	1.5	in	Germany	to	2.3 	Italy.	In	the	UK	men	were	1.7	times	more	likely	than	women	to	report	that	they	could 	access the finance to start a business.
+48
+[Page #48]
+The	hurdles	include	gender‑biased	credit	scoring	and	gender	stereotyping	in	the 	lending	process	(Alesina	et	al.,	2013;	Saparito	et	al.,	2013,),	as	well	as	lower	levels	of  entrepreneurial	experience	and	participation	in	more	marginal	female‑dominated 	sectors.	Alesina	et	al.	(2013)	find	robust	evidence	that	women	in	Italy	pay	more	for 	overdraft	facilities	than	men.	They	could	not	find	robust	evidence	that	women	are 	risker	than	men,	or	use	a	different	type	of	bank,	finding	that	the	same	bank	charges 	different	rates	to	male	and	female	borrowers.	They	suggest	that	it	is	owing	to	higher 	levels	of	trust	towards	male	borrowers.
+A	consequence	is	that	self‑employed	women	are	less	likely	than	self‑employed	men	to 	seek	finance	(OECD,	2017).	Shaw	et	al.	(2009)	conducts	research	with	30	matched	pairs 	of	male	and	female	business	owners	and	finds	that	women	entrepreneurs	typically 	start	their	businesses	with	less	money	and	are	more	reliant	on	self‑financing.
+OECD	(2017)	also	report	on	some	academic	studies	that	find	women	face	“higher 	hurdles”	in	financing	their	businesses	(Brush	et	al.,	2014).	Brush	et	al.	(2014)	provides 	a	comprehensive	analysis	of	venture	capital	investments	in	the	US,	which	they 	state	is	the	first	since	the	original	‘Diana	Project’	research	conducted	in	1999.	The 	Diana	Project	(1999)	finds	fewer	than	5%	of	all	ventures	receiving	equity	capital	had 	women	on	their	executive	teams.	While	conventional	wisdom	had	suggested	that 	women	entrepreneurs	were	neither	prepared	nor	motivated	to	found	high‑potential 	businesses,	the	Diana	Project	finds	that	many	fundable	women	entrepreneurs	had 	the	requisite	skills	and	experience	to	lead	high‑growth	ventures,	but	were	consistently 	left	out	of	the	networks	of	growth	capital	finance	and	appeared	to	lack	the	contacts 	needed	to	break	through.
+We	also	report	from	a	study	about	the	provision	of	venture	capital	to	diverse	segments 	(Extend	Ventures,	2021).	Analysis	of	the	perceived	gender,	ethnicity	and	educational 	background	of	some	3,784	entrepreneurs	who	started	2,002	companies	between 	2009	and	2019	provides	some	telling	statistics:
+•  All‑ethnic	teams	received	1.6%	of	total	venture	capital;•  Only	38	Black	entrepreneurs	received	0.24%	of	the	total	sum	invested;• •  All‑female	teams	received	2.9%	compared	with	68.3%	for	all‑male	teams;	and	43% 	of	seed	stage	funding	goes	to	those	with	an	elite	education,	which	includes	Oxford, 	Cambridge,	Harvard,	Stanford	and	their	respective	business	schools.
+Just	0.02%	went	to	Black	female	entrepreneurs;
+Investment planningWe	also	see	potential	gender	biases	that	may	lead	to	financial	harm	in	investment	and 	retirement	planning.	In	section	4,	we	highlight	the	importance	of	better	understanding 	the	gender	influence	on	risk	tolerance	levels.	Fisher	et	al.	(2017)	analysed	US	Consumer 	Finance	survey	data	and	find	that	there	is	gender	difference	in	financial	risk	tolerance, 	but	this	is	explained	by	the	differences	between	the	genders	for	the	key	determinants 	of	risk	tolerance,	namely	income	uncertainty	and	net	worth.	The	authors	suggest 	that	financial	advisers	need	to	understand	how	the	differences	in	income	uncertainty 	and	net	worth	between	men	and	women	relate	to	risk	tolerance	and	financial 	decision‑making.
+The	headline	finding	from	this	study	has	been	quoted	in	other	literature	(Oliver	Wyman, 	2020),	to	highlight	the	importance	of	not	assuming	women	are	inherently	more	risk 	averse,	and	that	context	is	important.
+49	
+[Page #49]
+However,	the	more	nuanced	study	findings	from	Fisher	et	al.	(2017)	are	not	always 	discussed.	While	income	uncertainty	lowers	risk	tolerance	among	women,	it	does 	the	opposite	for	men.	High	net	worth	men	have	higher	risk	tolerance	but	there	is 	no	association	between	net	worth	and	risk	tolerance	for	women.	The	key	takeout	is 	that	income	uncertainty	and	net	wealth	need	to	be	considered	in	the	context	of	risk 	tolerance	levels,	along	with	gender,	when	make	financial	planning	recommendations. 	Indeed,	this	greater	level	of	awareness	could	benefit	men	too,	as,	while	high	net	worth 	females	may	not	be	taking	on	enough	risk,	males	with	uncertain	incomes	may	be	taking	on	too	much	risk.	Such	inherent	biases	or	misconceptions	may	be	of	interest	for	the 	industry to understand further.
+The	US	Government	Accountability	Office	(GAO)	is	particularly	concerned	with	the 	wealth	expectations	for	women	in	retirement	in	the	US.	Their	2012	study,	of	why 	women	are	more	likely	to	live	in	poverty	in	old	age,	finds	that	women	are	more	likely 	to	be	single,	live	longer	and	have	lower	average	earnings.	They	also	find	that	the 	disruptions	that	occur	as	a	result	of	later‑life	events,	such	as	divorce	and	widowhood, 	can	be	financially	devastating	for	women.	As	retirement	income	is	increasingly 	dependent	on	individual	choices	regarding	how	much	to	save,	how	to	invest,	at	what 	age	to	retire	and	how	to	make	those	savings	last	throughout	retirement,	the	role	of 	advisers	and	how	they	interpret	risk	propensity	is	increasingly	vital.
+50
+[Page #50]
+List of Abbreviations
+Abbreviation
+Description
+Cap
+Capitalisation	
+CEO
+Chief	Executive	Officer
+CSR
+Corporate	Social	Responsibility
+EBIT
+Average	earnings	before	interest	and	taxes
+ESG
+Environmental,	Social	and	Governance
+GAO
+Government	Accountability	Office	(US)
+R&D
+Research	and	Development
+ROA
+Return	on	assets
+ROE
+Return	on	equity
+ROI
+Return	on	investment
+SME
+Small	and	medium‑sized	enterprise
+51 
+[Page #51]
+Glossary of terms
+Item
+Definition
+Causality 
+This is when there is a link between a dependent variable and an independent	variable,	but	the	direction	is	not	known	(whether	x	causes	y,	or	y	causes	x)
+CEO duality
+This	is	when	the	Chair	of	the	Board	is	also	the	Chief	Executive	Officer
+Confounding factor
+One	or	more	factors	driving	the	outcome	that	are	also	correlated	with	the	independent	variable	of	interest,	eg	women’s	ratio,	average age
+Control variable An	independent	variable	that	is	introduced	to	a	regression	model	
+to	determine	if	it	moderates	the	relationship	between	another	independent	variable	(the	treatment)	and	the	dependent	variable	(the	outcome).
+Control	variables	help	to	isolate	the	causal	effect	of	a	treatment	on	an	outcome.	Using	control	variables	enables	the	unique	effect	of	the	treatment	on	the	outcome	over	and	above	the	non	unique	part	explained	by	its	correlation	with	the	control	variable	to	be	isolated	and	estimated
+Dependent variable
+Outcome	variable	in	the	regression	model,	eg	ROA,	number	of	fraud	cases
+Difference‑in‑difference (DiD)
+A	statistical	technique	comparing	the	change	in	the	differences	in	observed	outcomes	between	treatment	and	control	groups,	across	pre	and	post‑treatment	periods
+Director  firm‑years
+Used	in	longitudinal	datasets,	this	is	the	number	of	yearly	director	observations	for	all	firms	in	the	sample	and	therefore	the	total	director	sample	size
+Diversity
+The	practice	of	including	people	from	a	range	of	different	social	and	ethnic	backgrounds	and	of	different	genders,	sexual	orientations	and	other protected characteristics
+Endogeneity
+In	this	literature	review,	endogeneity	usually	refers	to	sample	selection	biases	associated	with	board	gender	diversity	(ie	is	a	woman	board	member	selected	because	the	company	is	already	more	profitable	or	innovative,	or	less	risky	–	but	that	information	is	not	known).	This	adds	to	the	difficulty	in	determining	causality.	Technically	put,	an	endogeneity	problem	may	occur	when	the	independent	variable	is	itself	an	outcome	caused	by	other	variables	in	the	model,	or	there	are	omitted	variables
+Ethnic diversity
+The	representation	of	minority	ethnic	individuals	in	the	workplace,	or	on the board
+Firm‑years
+Used	in	longitudinal	datasets,	this	is	the	number	of	yearly	firm	observations	in	the	sample	and	therefore	the	total	firm	sample	size
+Gender diversity The	representation	of	women	in	the	workplace,	or	on	the	board
+52
+[Page #52]
+Item
+Definition
+Inclusion
+The	extent	to	which	everyone	at	work,	regardless	of	their	background,	identity	or	circumstances,	feels	valued,	accepted	and	supported to succeed
+Independent variable
+Predictor	variables	in	the	regression	model	include,	for	example,	women’s	ratio,	director	age,	firm	size
+Insider
+Used	to	describe	a	board	member	who	has	been	recruited	from	within	the	organisation
+Instrumental variable (IV) method
+A	method	used	by	economists	and	statisticians	to	isolate	direct	causal	relationships	when	controlled	experiments	are	not	feasible.	Instrumental	variables	are	independent	variables	that	are	correlated	with	one	or	more	other	independent	variables	and	correlate	with	the dependent variable only via its relationship with these variables. Their	inclusion	in	a	model	allows	the	‘direct	effects’	of	independent	variables	(eg	women’s	ratio)	to	be	isolated,	helping	make	the	case	for	causal inference
+Lagged variables A	variable	(usually	a	dependent	variable)	that	is	lagged	in	time,	
+which is typically the case when the effects are only likely to appear at	future	observations	(such	as	the	impact	of	a	new	director	on	business	outcomes)
+Mid‑cap enterprise
+Typically	defined	as	having	5–500	employees,	although	definitions	do vary 
+MSCI ACWI 
+MSCI’s	All	Country	World	Index,	a	global	equity	index,	designed	to	represent	large‑	and	mid‑cap	stocks	across	23	developed	and	26 emerging	markets
+Omitted variable bias 
+This	is	when	unknown	or	unmeasured	variables	(eg	aspects	of	company	culture)	not	in	the	model	may	be	influencing	outcomes	and	the	values	of	other	independent	variables	in	the	model
+Quota
+A	target	number	or	percentage	that	specifies	the	representation	of	women	and/or	men	on	a	board	that	is	required	to	be	achieved	by	law
+Small and medium‑sized enterprise
+Typically	defined	as	having	1‑250	employees,	although	definitions	do vary
+Target 
+A	set	number,	range,	or	percentage	of	women	and/or	men	on	boards	aimed	to	be	achieved	by	a	specific	date
+Tobin’s Q
+A	measure	developed	by	Tobin	(1969)	that	compares	the	market	value	of	a	company	with	the	replacement	value	of	a	company’s	assets
+53 
+[Page #53]
+Bibliography
+This	bibliography	includes	all	impact	studies,	literature	reviews	and	meta‑analysis 	included	in	the	overall	review,	in	addition	to	further	background	reading	that	has	been 	cited	throughout	this	report.
+Note:	All	weblinks	accessed	in	June	2021
+Abada,	D.,	Encarnación	Lucas‑Pérez,	M.,	Minguez‑Verab,	M.,	Yagüeb,	J.	(2017).	Does gender diversity on corporate boards reduce information asymmetry in equity markets? Business	Research	Quarterly,	Vol.	20.
+Accenture	(2018).	Getting	to	equal:	The disability inclusion advantage.	Available	at:	https://newsroom.accenture.com/news/companies‑leading‑in‑disability‑inclusion‑have‑outperformed‑peers‑accenture‑research‑finds.htm
+Adams,	R.	and	Ferreira,	D.	(2004).	 Gender diversity in the boardroom. European Corporate	Governance	Institute,	Finance.	Working	Paper	57.
+Adams,	R.	and	Ferreira,	D.	(2009).	 Women in the Boardroom and Their Impact on Governance and Performance.	Journal	of	Financial	Economics,	Vol.	94,	pp.	291‑309.
+Adams,	R.	and	Funk,	P.	(2009).	 Board Gender Diversity & Bank Risk.	UPF	Working	Paper	Series,	European	Corporate	Governance	Institute	(ECGI)	–	Finance	Working	Paper.
+Adams,	R.	and	Ragunathan,	V.	(2015).	 Lehman Sisters.	FIRN	Research	Paper,
+Ahern,	K.	and	Dittmar,	A.	(2011).	 The Changing of the Boards: The Impact on Firm Valuation of Mandated Female Board Representation.	Quarterly	Journal	of	Economics,	Vol.	127(1),	pp.	137‑197.
+Alesina,	A.,	Lotti,	F.	and	Mistrulli,	P.	(2013).	 Do women pay more for credit? Evidence from Italy.	Journal	of	the	European	Economic	Association,	Vol.	11(S1),	pp.	45 ‑66.
+Arnaboldi,	F.,	Casu,	B.,	Gallo,	A.,	Kalotychou,	E.	and	Sarkisyan	A.	(2020).	 Gender Diversity and Bank Misconduct. CASS.	Centre	for	Banking	Research	Working	Paper	Series,	WP 	01/20.
+Badal,	S.	B.	(2014).	The Business Benefits of Gender Diversity.	Available	at:	https://www.gallup.com/workplace/236543/business‑benefits‑gender‑diversity.aspx
+Badgett,	M.,	Durso,	L.,	Mallory,	C.,	and	Kastanis,	A.	(2013).	 The Business Impact of LGBT-Supportive Workplace Policies, The	Williams	Institute.	Available	at:	https://escholarship.org/uc/item/3vt6t9zx
+Bajtelsmit,	V.	and	Bernasek,	A.	(1996).	 Women may be given more conservative advice than men. Association	for	Financial	Counseling	and	Planning	Education,	Vol.	7.
+Bart,	C.	and	McQueen,	G.P.	(2013).	 Why women make better directors. International Journal	of	Business	Governance	and	Ethics,	Vol.	8,	No.	1,	pp.	93 ‑99.
+54
+[Page #54]
+Bear,	S.,	Rahman,	N.	and	Post,	C.	(2010).	 The Impact of Board Diversity and Gender Composition on Corporate Social Responsibility and Firm Reputation. Journal of Business Ethics,	Vol.	97,	no.	2,	pp.	207	–	221
+BEIS	–	Department	of	Business,	Energy	&	Industrial	Strategy	(2017).	 A report into the Ethnic Diversity of UK Boards: The Parker Review.	Available	at:	https://assets.ey.com/content/dam/ey‑sites/ey‑com/en_uk/news/2020/02/ey‑parker‑review‑2017‑report‑final.pdf
+BEIS	–	Department	of	Business,	Energy	&	Industrial	Strategy	(2017).	 Race in the workplace: The McGregor-Smith review.	Available	at:	https://www.gov.uk/government/publications/race‑in‑the‑workplace‑the‑mcgregor‑smith‑review
+Bernardi,	R.,	Bosco,	S.	and	Columb,	V.	(2009).	 Does Female Representation on Boards of Directors Associate with the ‘Most Ethical Companies’ List?	Corporate	Reputation	Review,	Vol.	12,	no.	3.
+Bernile,	G.,	Bhagwat,	V.	and	Yonker,	S.	(2017).	 Board diversity, firm risk, and corporate policies. Journal	of	Financial	Economics,	Vol.	127,	issue	3,	pp.	588 ‑612.
+BIS – Dept of Business, Innovation & Skills. (2013). The business case for equality and diversity.	BIS	occasional	paper	No.	4.	Available	at:	 https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/49638/the_business_case_for_equality_and_diversity.pdf
+Bogan,	V.,	Just,	D.	and	Dev,	C.	(2013).	 Team gender diversity and investment decision-making behaviour. Review	of	Behavioral	Finance,	Vol.	5,	No.	2,	pp.	134 ‑152.
+Brimhall,	K.,	Mor	Barak,	M.,	Hurlburt,	M.,	McArdle,	J.,	Palinkas,	L.	and	Henwood,	B. 	(2017).	Increasing workplace inclusion: the promise of leader-member exchange. Human	Service	Organizations:	Management,	Leadership	&	Governance,	Vol	41,	No.	3,	pp. 	222–39.
+Brush,	C.,	Greene,	P.,	Balachandra,	L.	and	Davis,	A.	(2014):	 The Diana Report – Women Entrepreneurs 2014: Bridging the Gender Gap in Venture Capital,	Wellesley,	MA:	Babson	College.
+Business	in	the	Community	(2015).	Race at Work 2015. Available	at:	https://www.bitc.org.uk/report/race‑at‑work‑2015/
+Byrnes	J.,	Miller,	D.	and	Scafer	W.	(1999).	 Gender differences in risk-taking: a meta analysis.	Psychological	Bulletin,Vol.	125,	No.	3,	pp.	361‑383.
+Byron,	K.,	&	Post,	C.	(2016):	 Women on boards of directors and corporate social performance: A meta-analysis. Corporate	Governance:	An	International	Review.	Vol	24. 	pp.	428–	442.
+Campbell,	K.	and	Minguez‑Vera,	A.	(2010).	Female Board Appointments and Firm Valuation: Short and Long-term Effects.	Journal	of	Management	&	Governance,	Vol.	14, 	No.	1,	pp.	37–59.
+Carter,	D.,	Simkins,	B.	and	Simpson,	W.	(2003).	 Corporate Governance, Board Diversity, and Firm Value.	Financial	Review,	Vol.	38,	No.	1,	pp.	33 ‑53.
+55 
+[Page #55]
+Carter,	D.,	Simkins,	B.	and	Simpson,	W.	(2010).	 The Gender and Ethnic Diversity of US Boards and Board Committees and Firm Financial Performance. Corporate	Governance:	An	International	Review,	Vol.	18,	No.	5,	pp.	396–414.
+Catalyst	(2004).	The	Bottom	Line:	Connecting Corporate Performance and Gender Diversity. Available	at:	https://www.catalyst.org/wp‑content/uploads/2019/01/The_Bottom_Line_Connecting_Corporate_Performance_and_Gender_Diversity.pdf
+Chartered	Institute	of	Personnel	Development	(2018).	 Addressing the barriers to BAME employee career progression to the top.	Available	at:	https://www.cipd.co.uk/Images/addressing‑the‑barriers‑to‑BAME‑employee‑career‑progression‑to‑the‑top_tcm18‑33336.pdf
+Chartered	Institute	of	Personnel	Development	(2018).	 Diversity and inclusion at work: facing up to the business case.	Available	at:	https://www.cipd.co.uk/Images/diversity‑and‑inclusion‑at‑work_2018‑facing‑up‑to‑the‑business‑case‑1_tcm18‑44146.pdf
+Chartered	Institute	of	Personnel	Development	(2019).	 Building inclusive workplaces: assessing the evidence. Available	at:	https://www.cipd.co.uk/Images/building‑inclusive‑workplaces‑report‑sept‑2019_tcm18‑64154.pdf
+Chen,	S.,	Ni,	X.	and	Tong,	J.	(2015).	 Gender Diversity in the Boardroom and Risk Management: A Case of R&D Investment. J	Bus	Ethics,	Vol.	136,	No.	1,	pp.	599–621.
+Chung,	B.,	Dean,	M.,	and	Ehrhart,	K.	(2021).	 Inclusion values, practices and intellectual capital predicting organizational outcomes.	Personnel	Review,	Vol.	50,	No.	2,	pp.	709 ‑730.
+Ciavarella,	A.	(2018).	An analysis of the relationship between board diversity and firms performance in Europe.
+Cloverpop	(2017).	Hacking Diversity with Inclusive Decision Making. Available	at:	https://www.cloverpop.com/hubfs/Whitepapers/Cloverpop_Hacking_Diversity_Inclusive_Decision_Making_White_Paper.pdf
+Cook,	A.	&	Glass,	C.	(2016):	 Do women advance equity? The effect of gender leadership composition on LGBT-friendly policies in American firms. Human	Relations,	Vol	69	(7).	pp	1431‑1456.
+Cox,	T.	and	Blake,	S.	(1991).	 Managing Cultural Diversity: Implications for Organizational Competitiveness. The	Executive,	vol.	5,	no.	3,	pp.	45–56.
+Cranfield	School	of	Management	(2005	to	2020).	 The Female FTSE Board report. Available	at:	https://www.cranfield.ac.uk/som/research‑centres/gender‑leadership‑and‑inclusion‑centre/female‑ftse‑index
+Credit	Suisse	(2019).	The CS Gender 3000: Women in Senior Management. Available	at:	https://www.credit‑suisse.com/about‑us‑news/en/articles/news‑and‑expertise/cs‑gender‑3000‑report‑2019‑201910.html
+Credit	Suisse	(2017).	ESG Research LGBT: the value of diversity.	Available	at:	https://plus.credit‑suisse.com/rpc4/ravDocView?docid=QYuHK2
+56
+[Page #56]
+Credit	Suisse	(2014).	The Credit Suisse Gender 3000: Women in Senior Management. Available	at:	https://www.credit‑suisse.com/media/assets/corporate/docs/about‑us/research/publications/csri‑gender‑3000.pdf
+Culture	plus	Consulting	(2018).	Meaningful Metrics for Diversity and Inclusion. Available at: https://cultureplusconsulting.com/2018/10/16/meaning‑metrics‑for‑diversity‑and‑inclusion/
+Cumming,	D.,	Leung,	T.	and	Rui,	O.	(2012).	 Gender Diversity and Securities Fraud. Social Sciences Research Network, Working	Paper	Series.	No.	3.
+Dadanlar,	H.	and	Abebe,	M.	(2020).	 Female CEO leadership and the likelihood of corporate diversity misconduct: Evidence from S&P 500 firms.	Journal	of	Business	Research,	Vol.	118,	pp.	398‑405.
+Deloitte Australia. (2013). The Victorian Equal Opportunity and Human Rights Commission “Waiter, is that inclusion in my soup?” A new recipe to improve business performance.	Available	at:	https://www2.deloitte.com/content/dam/Deloitte/au/Documents/human‑capital/deloitte‑au‑hc‑diversity‑inclusion‑soup‑0513.pdf
+Deszo,	C.	and	Ross,	D.	(2012).	 Does Female Representation in Top Management Improve Firm Performance? A Panel Data Investigation. Strategic	Management	Journal,	Vol.	33,	No.	9,	pp.	1072‑1089.
+Dhir, A. (2015). What Norway can Teach the US about getting more women into the boardrooms. The	Atlantic.	Available	at:	https://www.theatlantic.com/business/archive/2015/05/what‑norway‑can‑teach‑the‑us‑about‑getting‑more‑women‑into‑boardrooms/392195/
+van	Dijk,	H.,	van	Engen,	M.,	&	van	Knippenberg,	D.	(2012).	 Defying conventional wisdom: A meta-analytical examination of the differences between demographic and job-related diversity relationships with performance.	Organizational	Behavior	and	Human	Decision	Processes,	Vol	119.	pp	38–53.
+Dwyer,	S.,	Richard,	O.	and	Chadwick,	K.	(2003).	 Gender diversity in management and firm performance: the influence of growth orientation and organizational culture. Journal of Business	Research,	Vol.	56,	No.	12,	pp.	1009 ‑1019.
+Eagly,	A.	(1987).	Sex differences in social behavior: A social-role interpretation. Lawrence	Erlbaum	Associates,	Inc.
+Eckbo,	B.,	Nygaard,	K.	and	Thorburn,	K.	(2019).	 Board Gender-Balancing and Firm Value. European	Corporate	Governance	Institute	Finance	Working	Paper,	Vol.	463,	No.	1.
+Egon	Zehnder	(2018).	Global Board Diversity Tracker. Available	at:	https://www.egonzehnder.com/global‑board‑diversity‑tracker
+Ellison,	S.	and	Mullin,	W.	(2014).	 Diversity, Social Goods Provision, and Performance. Journal	of	Economics	and	Management	strategy,	Volume	23,	Number	2,	pp.	465–481
+Erhardt,	N.,	Werbel,	J.	and	Shrader,	C.	(2003).	Board Director Diversity and Firm Financial Performance.	Corporate	Governance:	An	International	Review,	Vol.	11,	No.	2,	pp.	102‑111.
+57	
+[Page #57]
+Erkut,	S.,	Kramer	V.	and	Konrad	A.	M.	(2008).	 Critical Mass: Does the Number of Women on a Corporate Board Make a Difference? Organizational	Dynamics.	Vol	37.
+European	Banking	Association.	(2020).	Diversity Survey. Available	at:	https://www.eba.europa.eu/eba‑calls‑measures‑ensure‑more‑balanced‑composition‑management‑bodies‑institutions
+European	Commission	(2012).	Annexes to the Impact Assessment of Costs and Benefits of improving the Gender Balance in the Boards of Companies Listed on the Stock Exchange.	Available	at:	https://www.eumonitor.nl/9353000/1/j9vvik7m1c3gyxp/vj4t79f5jjze
+Extend	Ventures	(2020).	Diversity beyond Gender. Available	at:	https://www.extend.vc/diversity‑beyond‑gender
+Fan,	Y.,	Jiang,	Y.,	Zhang,	X.	and	Zhou,	Y.	(2019).	 Women on boards and bank earnings management: From zero to hero.	Journal	of	Banking	&	Finance.	Vol	107,	issue	C.
+Farrell,	K.	and	Hersch,	P.	(2005).	 Additions to corporate boards: the effect of gender. Journal	of	Corporate	Finance,	Vol.	11,	pp.	85–106.
+Financial	Conduct	Authority	(2019).	Research Note: Gender diversity in UK financial services.	Available	at:	https://www.fca.org.uk/publication/research/research‑note‑gender‑diversity‑in‑uk‑financial‑services.pdf
+Ferrari,	G.,	Ferraro,	V.,	Profeta	P.	and	Pronzato	C.	(2016).	 Gender Quotas: Challenging the Boards, Performance, and the Stock Market. IZA	Discussion	Paper,	Vol.	10239,	No.	2.
+Fine,	C.,	Sojo	Monzon,	V.	and	Lawford ‑Smith,	H.	(2020).	Why Does Workplace Gender Diversity Matter? Justice, Organizational Benefits, and Policy.	Social	Issues	and	Policy	Review,	Vol.	14,	No.	1,	pp.	36 ‑72.
+Fisher,	P.	J.	and	Yao,	R.	(2017).	 Gender Differences in Financial Risk Tolerance. Journal of Economic	Psychology.	Vol.	61,	No.	1,	pp.	191‑202.
+Flabbi,	L.,	Macis,	M.	and	Schivardi,	F.	(2019).	 Do Female Executives Make a Difference?: The Impact of Female Leadership on Firm Performance and Gender Gaps. Economic	Journal,	Volume	129,	Issue	622,	August	2019,	pp	2,390–2,423.
+Galbreath, J. (2011). Are there gender-related influences on corporate sustainability? A study of women on boards of directors. Journal	of	Management	&	Organization,	Vol.	17, 	No.	1,	pp.	17‑38.
+Government	Equalities	Office	(2018).	LGBT survey summary report.	Available	at:	https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/722314/GEO‑LGBT‑Survey‑Report.pdf
+Geyfman,	V.,	Cooper,	W.	A.	and	Davis,	L.	M.	(2018).	 Board Gender Diversity and Bank Performance. Journal	of	Business	Diversity,	Vol.	18,	No.	1,	pp.	51 ‑67.
+Giannetti,	M.	and	Zhao,	M.	(2018).	 Board Ancestral Diversity and Firm-Performance Volatility. Journal	of	Financial	and	Quantitative	Analysis,	Vol.	54,	No.	3,	pp.	1117–1155.
+58
+[Page #58]
+Giannetti,	M.	and	Zhao,	M.	(2016).	 Board diversity and firm performance volatility.	CEPR	Discussion	Paper,	Vol.	11155,	No.	2.
+Glint (2020). Why Belonging Is Important at Work: Employee Engagement and Diversity. Available	at:	https://www.glintinc.com/blog/why‑belonging‑is‑important‑at‑work‑employee‑engagement‑and‑diversity/
+Gong,	Y	and	Girma,	S.	(2021).	 Top management gender diversity and performance: in search of threshold effects. Cambridge	Journal	of	Economics	2021,	109–127
+Grant Thornton (2021). Women in Business Building a Blueprint for Action. Available	at:	https://www.grantthornton.global/en/insights/women‑in‑business‑2021/?hubId=1562494
+Great	Place	to	Work.	(2020).	Hidden pieces of the D&I puzzle. Available	at:	https://www.greatplacetowork.com/resources/reports/the‑d‑i‑puzzle
+Green	Park	(2021).	Green	Park	Annual	Business	Leaders	Index.	Available	at:	 https://www.green‑park.co.uk/insights/green‑park‑business‑leaders‑index‑britain‑s‑top‑firms‑failing‑black‑leaders/s228945/
+Guillaume,	Y.,	Dawson,	J.,	Otaye‐Ebede,	L.,	Woods,	S.	and	West,	M.	(2017).	 Harnessing demographic differences in organizations: What moderates the effects of workplace diversity?	Journal	of	Organizational	Behavior.	Vol	38(2),	pp.	276 ‑303.
+Gul,	F.,	Srinidhi,	B.	and	Anthony	C.	(2011).	 Does board gender diversity improve the informativeness of stock prices? Journal	of	Accounting	and	Economics,	Elsevier.	Vol.	51, 	No.	3,	pp.	314‑338.
+Gysler,	M.,	Kruse,	J.	B.	and	Schubert,	R.	(2002).	 Ambiguity and Gender Differences in Financial Decision Making: An Experimental Examination of Competence and Confidence Effects.
+Hafsi,	T.	and	Turgut,	G.	(2013).	 Boardroom Diversity and Its Effect on Social Performance: Conceptualization and Empirical Evidence. Journal	of	Business	Ethics,	Vol.	112,	No.	3,	pp. 	463‑479.
+Hampel,	R.	(1998).	Committee on Corporate Governance: Final Report,	London,	Gee	Publishing.
+Haslam,	S.,	Ryan,	M.,	Kulich,	C.,	Trojanowski,	G.	and	Atkins,	C.	(2010).	 Investing with Prejudice: the Relationship Between Women’s Presence on Company Boards and Objective and Subjective Measures of Company Performance. British Journal of Management,	Vol.	21,	No.	1,	pp.	484 ‑497.
+Heidrick	&	Struggles	(2016).	Board Monitor Europe.	Available	at:	https://www.heidrick.com/en/insights/boards‑governance/board_monitor_europe
+Hernández‑Nicolás,	C.,	Martín‑Ugedo,	J.	and	Mínguez‑Vera,	A.	(2021).	Women CEOs and firm performance in the construction industry: Evidence from Spain. Engineering,	Construction	and	Architectural	Management.
+59	
+[Page #59]
+Hillman,	A.,	Cannella,	A.	and	Harris	I.	(2002).	 Women and Racial Minorities in the Boardroom: How Do Directors Differ?	Journal	of	Management,	Vol.	28,	No.	6,	pp.	747‑763.
+HMT	(2021).	New	Financial:	Women	in	Finance	Annual	Review.	Available	at:	 https://www.gov.uk/government/publications/new‑financial‑women‑in‑finance‑annual‑review‑march‑2021
+Hoobler,	J.;	Masterson,	C.;	Nkomo,	S.	and	Michel,	E.	(2018).	The business case for women leaders: Meta-analysis, research critique, and path forward. Journal	of	Management,	Vol	44,	pp.	2,473‑2,499.
+Hoogendoorn,	Sander	(2013).	The Impact of Gender Diversity on the Performance of Business Teams: Evidence from a Field Experiment. Management	Science,	Vol	59,	No.	7, 	pp.	1,514‑1,528
+Huang,	J.	and	Kisgen,	D.	(2013).	 Gender and Corporate Finance: Are Male Executives Overconfident Relative to Female executives?	Journal	of	Financial	Economics,	Vol.	108 	No.	3,	pp.	822–839.
+Hwang,	S.,	Shivdasani,	A.	and	Simintzi,	E.	Mandating	(2019).	 Women on Boards: Evidence from the United States. Kenan	Institute	of	Private	Enterprise	Research	Paper.	Vol.	18 ‑34.
+IMF	(2016).	Gender Diversity in Senior Positions and Firm Performance: Evidence from Europe. IMF	Working	paper.	Vol.	16,	No.	50.
+Institute	of	Directors	(IoD).	(2019).	The IoD’s Inclusive Business Report. Available	at:	https://issuu.com/institute‑of‑directors/docs/oh_2019_inclusive_action_pack
+Janis,	I.	L.	(1972).	Victims of groupthink: A psychological study of foreign-policy decisions and fiascoes. Houghton	Mifflin.
+Jansen,	W.,	Otten,	S.,	van	der	Zee,	K.	and	Jans,	L.	(2014).	 Inclusion: Conceptualization and measurement. European	Journal	of	Social	Psychology,	Vol	44,	No	4.	p370–385.
+Joecks,	J.,	Pull,	K.	and	Vetter,	K.	(2012).	 Gender Diversity in the Boardroom and Firm Performance: What Exactly Constitutes a ‘Critical Mass’?	Journal	of	Business	Ethics,	Vol	118
+Jianakoplos,	N.	and	Bernasek,	A.	(1998).	 Are women more risk averse? Economic	Inquiry,	Vol.	36,	pp.	620‑630.
+Johnson,	J.	and	Powell,	P.	(1994).	 Decision making, risk and gender: Are managers different? British	Journal	of	Management,	Vol.	5,	No.	2,	pp.	123–138.
+Josh Bersin (2021). Elevating Equity and Diversity: The Challenge Of The Decade. Available	at:	https://joshbersin.com/2021/02/elevating‑equity‑and‑diversity‑the‑challenge‑of‑the‑decade/
+Judge,	E.	(2003).	Women on board: help or hindrance?.	The	Times.	Available	at:	https://www.thetimes.co.uk/article/women‑on‑board‑help‑or‑hindrance‑2c6fnqf6fng
+60
+[Page #60]
+Kalargyrou,	V.	(2014).	Gaining a competitive advantage with disability inclusion initiatives. Journal	of	Human	Resources	in	Hospitality	and	Tourism,	Vol	13	pp.	120 ‑145.
+Khan,	W.	and	Vieito,	J.	(2013).	 CEO gender and firm performance,	Journal	of	Economics	and	Business,	Vol.	67,	No.	C,	pp.	55 ‑66.
+Kochan,	T.,	Bezrukova,	K.,	Ely,	R.,	Jackson,	S.,	Joshi,	A.,	Jehn,	K.,	Leonard,	J.,	Levine,	D. 	and	Thomas,	D.	(2003).	The effects of diversity on business performance: Report of the diversity research network.	Human	Resource	Management,	Vol	42,	No.	1,	pp.	3 ‑21.
+Kotiranta,	A.,	Kovalainen,	A.	and	Rouvinen,	P.	(2007).	 Does Female Leadership Boost Firm Profitability?	EVA	Analysis.	Vol.	3.
+Larkin,	M.,	Bernardi,	R.	and	Bosco,	S.	(2012).	 Board Gender Diversity, Corporate Reputation and Market Performance. International	Journal	of	Banking	and	Finance.	Vol. 	9,	No.	1,	pp.	1‑26.
+Levine,	S.,	Apfelbaum,	E.,	Bernard,	M.,	Bartelt,	V.,	Zajac,	E.	and	Stark,	D.	(2014).	 Ethnic diversity deflates price bubbles. Proceedings	of	the	National	Academy	of	Sciences,	Vol 	111,	No.	52,	pp.	18,524‑18,529.
+Leonard,	J.,	Levine,	D.	and	Joshi,	A.	(2004).	 Do birds of a feather shop together? The effects on performance of employees’ similarity with one another and with customers. Journal	of	Organizational	Behavior,	Vol	25,	pp	731‑754
+Liddle,	B.,	Luzzo,	D.,	Hauenstein,	A.	and	Schuck,	K.	(2004).	 Construction and validation of the lesbian, gay, bisexual, and transgendered climate inventory. Journal	of	Career	Assessment.	Vol	12.,	pp.	33–50.
+Mateos	de	Cabo,	R.,	Gimeno,	R	and	Nieto,	M	(2012).	 Gender Diversity on European bank boards.	Journal	of	Business	Ethics,	Vol	109
+Matsa,	D.	and	Miller,	A.(2013).	A female style in corporate leadership? Evidence from quotas. American	Economic	Journal:	Applied	Economics.	Vol.	5,	pp.	136–169.
+McKay,	P.,	Avery,	D.,	Liao,	H.	and	Morris,	M.	(2011).	 Does Diversity Climate Lead to Customer Satisfaction? It Depends on the Service Climate and Business Unit Demography. Organization	Science,	Vol.	22,	No.	3,	pp.	788 ‑803.
+McKinsey	(2020).	Diversity wins: How inclusion matters. Available	at:	https://www.mckinsey.com/~/media/mckinsey/featured%20insights/diversity%20and%20inclusion/diversity%20wins%20how%20inclusion%20matters/diversity‑wins‑how‑inclusion‑matters‑vf.pdf.
+McKinsey	(2020).	How the LGBTQ+ community fares in the workplace.	Available	at:	https://www.mckinsey.com/featured‑insights/diversity‑and‑inclusion/how‑the‑lgbtq‑plus‑community‑fares‑in‑the‑workplace
+von	Meyerinck,	F.	Niessen‑Ruenzi,	A.,	Schmid,	M.	and	Davidoff,	S.	(2020).	 As California Goes, So Goes the Nation? Board Gender Quotas and the Legislation of Non-Economic Values. Working	Paper.	Available	at:	https://ssrn.com/abstract=3303798
+61	
+[Page #61]
+Moody	(2019).	Investor Services Report. Available	at:	https://www.moodys.com/research/Moodys‑Corporate‑board‑gender‑diversity‑associated‑with‑higher‑credit‑ratings‑PBC_1193768
+Mor	Barak,	M.	(2005).	Managing diversity: toward a globally inclusive workplace. Thousand Oaks,	CA:	Sage.
+MSCI	(2018).	Women on Boards. Available	at:	https://www.msci.com/documents/10199/36ef83ab‑ed68‑c1c1‑58fe‑86a3eab673b8
+Nathan,	M.	and	Lee,	N.	(2013).	 Cultural Diversity, Innovation, and Entrepreneurship: Firm‐level Evidence from London.	Economic	Geography,	Vol	89,	Issue	4,	pp	367‑394.
+Nemeth,	C.	and	Kwan,	J.	(2006).	 Minority Influence, Divergent Thinking and Detection of Correct Solutions.	Journal	of	Applied	Social	Psychology,	Vol	17,	pp.	788–799.
+Nishii,	L.	(2013).	The benefits of climate for inclusion for gender-diverse groups. Academy	of	Management	Journal,	Vol	50,	No	6,	pp.	1,754–74.
+Nishii,	L.	and	Rich,	R.	(2014).	 Creating inclusive climates in diverse organizations. Diversity at	Work:	The	Practice	of	Inclusion,	pp.	330–63.
+OECD	(2017).	Policy brief on female entrepreneurship.	Available	at:	https://www.oecd‑ilibrary.org/economics/policy‑brief‑on‑women‑s‑entrepreneurship_dd2d79e7‑en
+Oliver	Wyman	(2020).	Women in Financial Services.	Available	at:	https://www.oliverwyman.com/content/dam/oliver‑wyman/v2/publications/2019/November/Women‑In‑Financial‑Services‑2020.pdf
+ONS	(2020).	Disability facts and figures. Available	at: https://www.gov.uk/government/statistics/disability‑facts‑and‑figures/disability‑facts‑and‑figures
+ONS	(2019).	Annual Population survey. Available	at:	https://www.ons.gov.uk/peoplepopulationandcommunity/culturalidentity/sexuality/bulletins/sexualidentityuk/2019
+Open for Business (2018). Strengthening the Economic Case. Available	at:	https://static1.squarespace.com/static/5bba53a8ab1a62771504d1dd/t/5d40964b36f8640001cd3a86/1564513872720/Open+For+Business_Full+Report.pdf
+Owen,	A.	and	Temesvary,	J.	(2018).	 The performance effects of gender diversity on bank boards.	Journal	of	Banking	&	Finance,	Vol	90,	issue	C,	pp.	50 ‑56.
+Palvia,	A.,	Vähämaa,	E.	and	Vähämaa,	S.	(2014).	 Are Female CEOs and Chairwomen More Conservative and Risk Averse? Evidence from the Banking Industry during the Financial Crisis.	Journal	of	Business	Ethics,	Vol	131.
+Pfeffer,	J.	and	Salancik,	G.	(1978).	 The External Control of Organizations: A Resource Dependence Perspective. New	York:	Harper	and	Row.
+62
+[Page #62]
+Pilcher,	S.,	Blazovich,	J.,	Cook,	K.,	Huston,	J.	and	Strawser,	W.	(2013).	 Do Gay-Friendly Corporate Policies Enhance Firm Performance?.	Social	Science	Research	Network,	Working	Paper	Series.	April	29,	2013.
+Phillips,	K.,	Northcraft,	G.	and	Neale,	M.	(2006).	 Surface-Level Diversity and Decision-Making in Groups: When Does Deep-Level Similarity Help?	Group	Processes	&	Intergroup	Relations,	Vol.	9,	No.	4,	pp.	467‑482.
+Powell,	M.	and	Ansic,	D.	(1997).	 Gender differences in risk behavior in financial decision-making: An experimental analysis. Journal	of	Economic	Psychology,	Vol.	18,	Issue	6,	pp. 	605‑628.
+Rand	Corporation	(2008).	Managing Diversity in Corporate America.	Available	at:	https://www.rand.org/content/dam/rand/pubs/occasional_papers/2007/RAND_OP206.pdf
+Randøy,	T.	(2006).	A Nordic perspective on corporate board diversity. Nordic	Innovation	Centre.
+Randstat	(2018).	Paying Attention. Available	at:	https://www.randstad.co.uk/s3fs‑media/uk/public/2019‑10/fs‑salary‑survey‑paying‑attention‑2018.pdf
+Rankin,	S.	(2003).	Campus climate for gay, lesbian, bisexual, and transgender people: A national perspective. New	York,	NY:	The	National	Gay	and	Lesbian	Task	Force	Policy 	Institute.
+Rhode	and	Packel	(2014).	Diversity on Corporate Boards: How much difference does difference make? Delaware	Journal	of	Corporate	Law	(DJCL),	Vol.	39,	No.	2,	pp.	377‑426.
+Richard,	O.,	McMillan,	A.,	Chadwick,	K.	and	Dwyer,	S.	(2003).	 Employing an Innovation strategy in Racially diverse workforces. Group	&	Organization	Management,	Vol	28,	Issue 	1,	pp.	107‑126.
+Richard,	O.	C.	(2000).	Racial diversity, business strategy, and ﬁrm performance: A resource-based view. Academy	of	Management	Journal,	43(2),	pp.	164–177.
+Ryan,	M.	and	Haslam,	S.	(2005).  The glass cliff: Evidence that women are overrepresented in precarious leadership positions. British	Journal	of	Management.	Vol.	16,	pp.	81‑90.
+Saparito,	P.,	Elam,	A.	and	Brush,	C.	(2013).	Perceptions of the Bank-Firm Relationship: Do Perceptions Vary by Gender.	Entrepreneurship	Theory	and	Practice,	Vol.	37	(4),	pp.	837‑858.
+Schubert,	R.,	Brown,	M.,	Gysler,	M.	and	Brachinger,	H.	(1999).	 Financial Decision-Making: Are Women Really More Risk-Averse? The	American	Economic	Review,	Vol.	89,	No.	2, 	Papers	and	Proceedings	of	the	One	Hundred	Eleventh	Annual	Meeting	of	the	American	Economic	Association,	pp.	381	‑385.
+Shan,	L.,	Fu,	S,.	and	Zheng,	L.	(2017).	 Corporate sexual equality and firm performance, Strategic	Management.	Vol	38,	Issue	9,	pp.	1812–1826.
+Shaw,	E.,	Marlow,	S.,	Lam,	W.	and	Carter,	S.	(2009).	 Gender and entrepreneurial capital: implications for firm performance. International Journal of Gender and Entrepreneurship,	Vol.	1	(1),	pp.	25‑41.
+63	
+[Page #63]
+Shrader,	C.,	Blackburn,	V.	and	Iles,	P.	(1997).	 Women in Management and Firm Financial Value: An Exploratory Study, Journal	of	Managerial	Issues,	Vol	9,	Issue	3,	pp.	355 ‑372.
+Sila,	V.,	Gonzalez,	A.	and	Hagendorff,	J.	(2015).	Women on Board: Does Boardroom Gender Diversity Really Affect Firm Risk? Journal	of	Corporate	Finance,	Vol	36,	pp.	26‑53.
+Singh,	V.	and	Vinnicombe,	S.	(2003).	 The 2003 Female FTSE Index. Women Pass a Milestone: 101 Directorships on the FTSE 100 Boards. Cranfield	School	of	Management,	Cranfield.
+Smith,	N.,	Smith,	V.	and	Verner,	M.	(2006).	 Do female in top management affect firm performance? A panel study of 2500 Danish Firms.	International	Journal	of	Productivity	and	Performance	Management,	Vol	55,	Issue	7,	pp.	569 ‑593.
+Sommers,	S.	R.	(2006).	On racial diversity and group decision making: Identifying multiple effects of racial composition on jury deliberations.	Journal	of	Personality	and	Social	Psychology.
+Stahl,	G.,	Maznevski,	M.,	Voigt,	A.	and	Jonsen,	K.	(2010).	 Unraveling the effects of cultural diversity in teams: A meta-analysis of research on multicultural work groups. Journal of International	Business	Studies,	Vol.	41,	No.	4,	pp.	690 ‑709.
+Sunde’n,	A.	and	Surette,	B.	(1998).	 Gender Differences in the Allocation of Assets in Retirement Savings Plans. American	Economic	Review,	Vol	88,	Issue	2,	pp.	207‑11.
+Suss,	J.,	Angeli	M.	and	Eckley.	P.	(2021).	 Gender, age, and nationality diversity in UK banks. Bank	of	England	Staff	Working	Paper,	No.	929.
+Tajfel,	H.	and	Turner,	J.	(1986).	 The Social Identity Theory of Intergroup Behavior. Psychology	of	Intergroup	Relation,	Vol	7,	Issue	24.
+Talke,	K.,	Salomo,	S.,	&	Kock,	A.	(2011).	 Top management team diversity and strategic innovation orientation: The relationship and consequences for innovativeness and performance. Journal	of	Product	Innovation	Management,	Vol	28,	Issue	6,	pp.	819 ‑832.
+Terjesen,	S.,	Sealy,	R.	and	Singh,	V.	(2009).	 Women Directors on Corporate Boards: A Review and Research Agenda. Corporate Governance. An	International	Review,	Vol	17.
+Thomas	(2021).	Rethinking workplace diversity.	Available	at:	https://www.thomas.co/resources/type/whitepapers/rethinking‑diversity
+Thomas	Reuters	(2016).	Diversity	and	Inclusion	Index.	Available	at:	 https://www.refinitiv.com/en/financial‑data/indices/diversity‑and‑inclusion‑index
+Torchia,	M.,	Calabrò,	A.	and	Huse,	M.	(2011).	 Women on Corporate boards – from tokenism to critical mass. Journal	of	Business	Ethics,	Vol	102.
+Tworoger,	L.	and	Golden,	C.	(2010).	 Skill, deficiencies in diversity and inclusion in organizations: developing an inclusion skills measurement.	Academy	of	Strategic	Management	Journal,	Vol	9,	No	1.	pp1–14.
+64
+[Page #64]
+Vafaei,	A.,	Henry,	D.,	Ahmed,	K.	and	Alipour,	M.	(2020).	 Board diversity: female director participation and corporate innovation.	International	Journal	of	Accounting	&	Information	Management,	Vol.	29,	No.	2,	pp.	247‑279.
+United	States	Government	Accountability	Office	(2012).	 Retirement Security: Women still face challenges.	GAO,	Vol.	12,	No.	699.
+Wahid,	A.	(2017).	The Effects and the Mechanisms of Board Gender Diversity: Evidence from Financial Manipulation.	Journal	of	Business	Ethics,	Forthcoming	Rotman	School	of 	Management	Working	Paper	No.	2930132.
+Wagana,	D.	and	Nzulwa,	J.	(2016).	Corporate Governance, Board Gender Diversity And Corporate Performance: A Critical Review Of Literature.	European	Scientific	Journal,	Vol	12.
+Webster,	J.,	Adams,	G.,	Maranto,	C.	and	Sawyer,	K.	(2017).	 Workplace contextual supports for LGBT employees: A review, meta-analysis, and agenda for future research. Human	Resource	Management,	Vol	57,	No.	1.
+Westphal,	J.	and	Milton,	L.	(2000).	 How experience and network ties affect the influence of demographic minorities on corporate boards. Administrative	Science	Quarterly,	Vol	45,	pp.	366–398.
+Wilson,	N.	and	Altanlar,	A.	(2009).	 Director Characteristics, Gender Balance and Insolvency Risk: An	Empirical	Study.	SSRN	Working	Paper.
+65	
+[Page #65]
+Author
+Vicky	Whiting	is	a	Senior	Associate	in	the	Partnerships	and	Consumer	Research	team 	at	the	FCA.	Vicky	has	worked	as	a	market	researcher	in	the	financial	services	and	public 	sectors	for	20	years,	including	prior	roles	at	Harris	Interactive	Ltd,	the	Money	Advice 	and	Pensions	Service	and	The	Pensions	Regulator.	She	works	across	qualitative	and 	quantitative	research	methodologies.
+We	make	all	responses	to	formal	consultation	available	for	public	inspection	unless	the	respondent	requests	otherwise.	We	will	not	regard	a	standard	confidentiality	statement	in	an	email	message	as	a	request	for	non‑disclosure.
+Despite	this,	we	may	be	asked	to	disclose	a	confidential	response	under	the	Freedom	of	Information	Act	2000.	We	may	consult	you	if	we	receive	such	a	request.	Any	decision	we	make	not	to	disclose	the	response	is	reviewable	by	the	Information	Commissioner	and	the	Information	Rights	Tribunal.
+All	our	publications	are	available	to	download	from	www.fca.org.uk.	If	you	would	like	to	receive	this	paper	in	an	alternative	format,	please	call	020	7066	7948	or	email:	publications_graphics@fca.org.uk	or	write	to:	Editorial	and	Digital	team,	Financial	Conduct	Authority,	12	Endeavour	Square,	 London	E20	1JN
+Sign up for our news and publications alerts
+66
+[Page #66]
+None

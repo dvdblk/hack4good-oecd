@@ -1,0 +1,1546 @@
+[Page #0]
+None
+[Page #1]
+Authors 
+The core members of the research team for this project were: 
+Dr Jen Nelles (Innovation Caucus, Oxford Brookes University) 
+Dr Nick Wilton (Innovation Caucus, Oxford Brookes University) 
+Dr Kevin Walsh (Innovation Caucus, Oxford Brookes University) 
+Professor Tim Vorley (Innovation Caucus, Oxford Brookes University) 
+Acknowledgements 
+This research was commissioned by Innovate UK. We are very grateful to the project sponsors at 
+Innovate UK for their input into this research. The interpretations and opinions within this report are 
+those of the authors and may not reflect the policy positions of Innovate UK. 
+About the Innovation Caucus 
+The Innovation Caucus supports sustainable innovation-led growth by promoting engagement between 
+the social sciences and the innovation ecosystem. Our members are leading academics from across 
+the  social  science  community,  who  are  engaged  in  different  aspects  of  innovation  research.  We 
+connect the social sciences, Innovate UK and the Economic and Social Research Council (ESRC), by 
+providing research insights to inform policy and practice. Professor Tim Vorley is the Academic Lead. 
+The initiative is funded and co-developed by the ESRC and Innovate UK, part of UK Research and 
+Innovation (UKRI). The support of the funders is acknowledged. The views expressed in this piece are 
+those of the authors and do not necessarily represent those of the funders. 
+Cite as: Jen Nelles, Nick Wilton, Kevin Walsh, and Tim Vorley. 2023. Innovation skills framework 
+summary. Oxford, UK: Innovation Caucus. 
+[Page #2]
+Contents 
+1.  Context and rationale 
+1 
+2.  Our approach to innovation and skills 
+2 
+2 
+2.1 What is innovation? 
+3 
+2.2 Defining innovation skills 
+3. 
+8 
+Innovation Skills Framework 
+8 
+Table 1: Conceptual skills 
+11 
+Table 2: Evaluative skills 
+15 
+Table 3: Implementation skills 
+19 
+Table 5: Critical self-reflection skills 
+4.  Applying the Innovation Skills Framework 
+20 
+20 
+4.1 Three stylised scenarios 
+21 
+4.2 A roadmap for implementation 
+23 
+Table 6: Application of Innovation Skills Management steps to three scenarios 
+24 
+4.3 Tips for implementation 
+25 
+References 
+26 
+Appendix A: Glossary of innovation tasks and related skills 
+31 
+Appendix B: Example innovation skill templates 
+31 
+Building innovation into curricula and training programmes 
+32 
+Organisational innovation building 
+33 
+Personnel innovation skills management 
+[Page #3]
+1.  Context and rationale 
+Innovation  is  a  catalyst  for  growth,  prosperity,  and  wellbeing  and  is  at  the  core  of  Government 
+economic policy. The 2020 R&D Roadmap argued that fueling an efficient system of innovation will 
+“improve lives, services and businesses right around the UK and beyond – creating a fairer, healthier, 
+more  prosperous  and  more  resilient  society”  (HM  Government  2021,  5). The  Innovation  Strategy 
+(BEIS 2021a, 7) states that encouraging innovation in the private sector is “an essential part of the 
+UK’s future prosperity and key to achieving UK objectives to be a force for good on global challenges 
+around climate, biodiversity, prosperity and security”. An expanding library of policy documents have 
+been produced to outline the Government's role in supporting the translation of these ambitions into 
+practice.  
+These  documents  all  highlight  the  importance  of  attracting  and  supporting  people as  vectors  of 
+innovation.  The  Innovation  Strategy  aims  to  make  the  UK  “the  most  exciting  place  for  innovation 
+talent” (BEIS 2021a, 52). The Innovate UK Strategic Delivery Plan includes “innovation talent and skills” 
+as  one  of  the  elements  of  its  strong  foundations  and  prioritises  people  and  careers  as  one  of  its 
+strategic objectives (Innovate UK 2022, 6-7). The BEIS R&D People and Culture Strategy (BEIS 2021b) 
+specifically focuses on the role of people, arguing that they are at the core of R&D and that there is 
+nothing more important than attracting, developing, and retaining enough people to meet ambitions 
+around innovation. 
+Notably,  many  of  these  initiatives  make  reference  to  enhancing  a  set  of  leadership,  management, 
+commercialisation,  and  entrepreneurial  skills  that  contribute  to  innovation,  commercialisation, 
+innovation adoption, and innovative business growth. These have been broadly labelled “innovation 
+skills”. However, what innovation skills actually are in practice has not been clearly defined. In response 
+to  this  challenge,  Innovate  UK  partnered  with  the  Institute  for  Apprenticeships  and  Technical 
+Education (IfATE) to develop an evidence base and understanding of innovation skills to influence its 
+programmes and qualifications. The Innovation Caucus was commissioned to develop an Innovation 
+Skills Framework to identify the skills critical for innovation, support the development of an innovative 
+workforce, encourage the next generation of entrepreneurs and innovators to drive economic growth, 
+and support the UK’s position as a leader in innovation. As part of this process, we worked closely 
+with Innovate UK, IfATE, and their stakeholders to develop, test, and refine the Framework.  
+This report summarises the logic and components of the Framework and proposes some scenarios 
+for applying it within a wide variety of organisations and innovation contexts. We wrote this document 
+with both policy and practitioner audiences in mind. While the Framework itself will be of primary 
+interest  to  both,  Section  2  provides  important  background  on  how  we  conceptualise  innovation, 
+where it happens within organisations, and how we define innovation skills. An important part of this 
+section outlines how we connect innovation skills to tasks in order to better understand what skills 
+1 
+[Page #4]
+contribute  to  each part  of  the  innovation  process.  As  we developed the  Framework, presented  in 
+detail  in  Section  3,  we  consulted  closely  with  organisations  from  IfATE  Route  Panels,  businesses 
+involved  in Innovate UK programmes,  and the  policy  community to  get  feedback  on how  well  our 
+approach was aligning with how stakeholders think about innovation and skills and to learn how they 
+might apply the final product. These interactions led us to include Section 4 in which we outline a 
+selection of ways that this Framework can be used within organisations to enhance their innovation 
+skills profiles. The Framework was designed to be flexible and highly adaptable, and so these scenarios 
+represent just some of the ways that it can be translated into practice across a variety of contexts. 
+Future work will focus on lessons learned from implementing the Framework and on refining both the 
+Framework itself and the adoption process.  
+2.  Our approach to innovation and skills 
+2.1 What is innovation? 
+For the purpose of this framework, we have adopted a very broad definition of innovation. We opted 
+for  this  expansive  approach  to  ensure  that  the  Framework  would  be  applicable  across  the  widest 
+possible range of contexts. The UK Innovation Survey (BEIS 2021c), adapting its definition from OECD 
+Oslo Manual, lists the following as examples of innovation: 
+●  The introduction of a new or significantly improved product (good or service) or process 
+●  Engagement in innovation projects not yet complete, scaled back, or abandoned 
+●  New  and  significantly  improved  forms  of  organisation,  businesses  structures  or  practices,  and 
+marketing concepts or strategies 
+● 
+Investment activities in areas such as internal research and development, training, acquisition of 
+external knowledge or machinery and equipment linked to innovation activities 
+As this definition makes plain, innovation can happen in any part of an organisation, from the product 
+or service offering (the output itself), to ways of producing output (production processes), to ways of 
+organising (such as business models).  
+The innovation process 
+In developing the Framework, we focused on innovation, and the skills required to execute, at the 
+organisation level, although we aimed to understand the innovation process and design a Framework 
+relevant to organisations across different sectors and of different sizes, from very small to very large. 
+Through  an  extensive  review of  the  literature,  we  distilled the  most  commonly  cited  stages of  the 
+innovation process: prospecting, ideating, selecting, and implementing. Prospecting involves gaining 
+an  understanding  of  the  domain  and  problems,  organisational,  market,  and/or  customer  needs. 
+Ideating is  the  process  of  coming  up  with  potential  solutions. In  the  selecting  phase, innovators 
+2 
+[Page #5]
+evaluate  and  choose  between  high  potential  solutions  against  feasibility,  practicality,  market 
+acceptance, market size, costs, fit with internal resources and capabilities or other criteria. Finally, the 
+implementation phase involves turning those ideas into reality. Crucially, while this process is often 
+discussed  in  very  linear  terms,  where  the  expectation  is  that  innovation  occurs  across  the  neatly 
+delineated  stages  in order from  prospecting  to  implementation,  we  acknowledge  that  the  reality  is 
+much more complex and dynamic. This is reflected in the way we depict the process in the background 
+of Figure 1 (page 4) as a series of interlocking rings. 
+Who are the innovators? 
+From our perspective, every organisation in the economy - public, private or third sector; large or 
+small; across all industries - relies on some form of innovation to evolve, grow and respond to the 
+changing environment. Every organisation is capable of innovation. We have structured this framework 
+with  the  assumption  that  innovation  can  originate  from  anywhere  in  an  organisation  and  is  not 
+necessarily tied to specific roles, occupations, or technical qualification categories.  
+2.2 Defining innovation skills 
+The term “skill” is often confused, misused, or used interchangeably with a variety of other concepts, 
+including talents, behaviours, knowledge, tasks, traits, values, and outcomes. IfATE (n.d.) recognises 
+this tendency and clearly distinguishes between knowledge (technical ‘know how’ needed to carry out 
+duties),  behaviours  (mindsets,  attitudes,  or  approaches  needed  for  competence),  and  skills  (the 
+practical application of knowledge needed to carry out duties) in its standards development processes. 
+We  build  off  this  model  and  particularly  focus  on  disentangling  and  identifying  the  relationships 
+between skills and tasks. 
+The tasks-skills nexus 
+In this framework, we define skills as the socially determined personal capacities that can add value 
+(to a process, organisation, or endeavour) and can be enhanced or developed through learning and 
+development.  Tasks,  by  contrast,  are  the  discrete  but  connected  pieces  of  work  that  need  to  be 
+undertaken as  part  of the innovation  process.  In  other  words, skills  are  the  capacities  required  to 
+complete tasks.  
+By  approaching  the  innovation  process  as  a  series  of  tasks  and  then  considering  what  skills  are 
+necessary to complete them, we open up the possibility that specific tasks may require the application 
+of multiple skills to accomplish and that certain skills can enhance one’s capacity to complete several 
+different  tasks.  We  also  argue  that  disentangling  tasks  from  skills  enables  organisations  to  more 
+effectively map the elements of work that go into their own innovation processes to more accurately 
+identify and pair them with relevant skill sets for evaluation, development, or selection/recruitment 
+purposes.  
+3 
+[Page #6]
+Figure 1: Innovation phases, tasks, and levels 
+Innovation skills 
+Innovation skills are those socially determined personal capacities that can add value (to a process, 
+organisation,  or endeavour)  and  can  be  enhanced or developed through  learning  and  development 
+that contribute to the completion of innovation-related tasks. These tasks are depicted in Figure 1 in 
+their approximate positions relative to the innovation process. 
+In addition to associating innovation tasks with specific stages of the innovation process, we also classify 
+them according to the scale of the organisation the activity takes place. Here we distinguish between 
+innovation  execution, which  are  tasks  that  contribute to  doing the  innovation,  and  innovation 
+management,  which  are  tasks  that  contribute  to  enabling  innovation  by  creating  a  supportive 
+organisational  environment  or  mobilising  resources  (etc.)  for  execution  activities.  Some  activities, 
+depicted in the overlapping middle section of Figure 1, are important for both innovation execution 
+and management. These innovation management tasks are not (always) considered innovative in and 
+of  themselves,  but  are  widely  regarded  as  essential  to  increasing  the  frequency  and  potential  for 
+success of innovation within organisations. Making this distinction enables us to include both execution 
+and management tasks in the same framework and emphasises our contention that innovation skills 
+are not only necessary for occupations or roles above a certain level but are critical across the entire 
+organisation. 
+4 
+[Page #7]
+Figure 2: Innovation skills organised by category 
+In our framework, we assign innovation skills to each of the innovation tasks. We divide innovation 
+skills into five categories (see Figure 2). Conceptual skills are those that constitute an individual’s 
+capacity  to  generate,  process,  and  engage  with  ideas.  Evaluative  skills  are  those  that  shape  an 
+individual's capacity to find, select, and use information. Implementation skills are technical skills 
+associated  with  the  active  planning  and  undertaking  of  innovation  execution  and  management  and 
+shape how one relates to discrete tasks. Relational skills are interpersonal and social skills associated 
+with the effective interaction and management of human resources and particularly affect how one 
+relates to others. Critical self-reflection skills are a set of intrapersonal skills that underpin the 
+development of positive  self-concept  and  affect  how  one  relates to  oneself  as an  innovator and/or 
+leader.  
+5 
+[Page #8]
+Figure 3: The innovation skill of “creativity” described generally and elaborated in the context of innovation execution and innovation management. 
+At a high level, the skills we identify here are not unique to the innovation process and are desirable 
+qualities for most roles. However, in the Framework we elaborate how they apply specifically to the 
+context  of  innovation  execution  and  innovation  management  (see  Figure  3  for  an  example). 
+Furthermore, the interrelationship and interdependence between skills and tasks (Figure 4) emphasises 
+that it is not sufficient to develop a single group of these skills, or the underlying technical knowledge 
+required  to  complete  them,  but  that  innovation  tasks  require  the  cultivation  of  skills  across  the 
+categories of this framework.
+6 
+[Page #9]
+Figure 4: A visualisation of the relationship between innovation skills, innovation tasks, and the innovation process - emphasising the relationships between the skills in the Conceptual Thinking category (in dark blue) and their related tasks. 
+7 
+[Page #10]
+3.  Innovation Skills Framework 
+How to read this framework:  
+Each table outlines the innovation skills within one of the five core skills groups. The Description column gives a general definition of the component skill. 
+The Innovation Execution column provides more detail for how that skill underpins innovation activities, while the Innovation Management column 
+describes how the same skill also underpins activities required to enable, encourage, and disseminate innovation. Tasks associated with each component skill 
+appear in each cell in bold and underlined. In digital versions, these are hyperlinked to the glossary of tasks in Appendix A.  
+Table 1: Conceptual skills 
+Innovation Execution 
+Innovation Management 
+COMPONENT 
+The act of doing the innovation – skills are 
+Is required to enable innovation - skills are used to 
+SKILLS GROUP 
+Description 
+SKILLS 
+used in the execution of the innovation 
+manage innovation within an organisation. 
+project. 
+The capacity to draw on experience and 
+The capacity to draw on experience and inputs to 
+CONCEPTUAL 
+Draws on available 
+inputs to find novel ways to solve a problem, 
+enable innovators to be creative themselves, to 
+SKILLS 
+resources to turn 
+develop a new (or improved) product, 
+secure resources and support for innovation, and 
+Cognitive skills 
+Creativity 
+ideas into practical 
+process, or business model. 
+arrive at novel solutions to organisational problems. 
+concerned with 
+solutions to problems 
+the relationship 
+or challenges. 
+Concept development, idea generation, vision 
+Project socialisation, vision socialisation, strategic positioning, 
+between the 
+socialisation, project socialisation 
+launch, resource deployment 
+abstract and the 
+concrete and that 
+The ability to combine and integrate different 
+The ability to combine and integrate different 
+Integrates information 
+act as the basis 
+sources of information to identify innovative 
+sources of information to identify 
+from multiple sources 
+for evaluation 
+solutions/exploitable opportunities, to make the 
+opportunities and envision solutions.  
+Synthesis 
+to formulate 
+case to internal and external stakeholders regarding 
+conclusions as the 
+How one relates 
+the potential impact of innovation. 
+Concept development, idea generation, testing, 
+basis for action. 
+product design 
+to ideas 
+8 
+[Page #11]
+Innovation Execution 
+Innovation Management 
+COMPONENT 
+The act of doing the innovation – skills are 
+Is required to enable innovation - skills are used to 
+SKILLS GROUP 
+Description 
+SKILLS 
+used in the execution of the innovation 
+manage innovation within an organisation. 
+project. 
+Business case development, production process design, 
+organisational development, strategic positioning 
+The ability to connect and infer causality 
+The ability to develop productive and efficient 
+Makes evidence-based 
+between conceptual or practical inputs to a 
+systems that enable the delivery of a product or 
+connections between 
+problem and its outputs, and the feedback 
+service, and to perceive the organisation’s 
+Systems 
+multiple inputs in a 
+between the two. 
+positioning within external systems. 
+thinking 
+scenario and infer the 
+determinants of 
+Concept development, idea generation, product 
+Risk assessment, supply chain development, resource 
+identified outputs. 
+design, production process design, risk assessment 
+deployment, production process design 
+The capacity to move quickly between close 
+Flexibly responds to 
+focus on detail to the bigger picture, switch 
+The capacity to move quickly between strategic and 
+changing 
+between different ideas, and consider 
+operational concerns, and between those of the 
+circumstances by 
+different parts of a problem without losing 
+short and longer term. 
+Mental agility 
+moving quickly 
+sight of the whole. 
+between different 
+Resource deployment, risk assessment, organisational 
+development 
+ideas and foci. 
+Concept development, demonstration, idea 
+generation, prototyping, risk assessment, testing 
+The ability to conceptualise and simplify 
+Understands abstract 
+The ability to understand the value and application 
+complex problems as the basis for identifying 
+(non-physical) 
+of abstract concepts to strategic development of the 
+Abstract 
+possible solutions. 
+concepts and can 
+organisation - e.g., creating cultures of innovation 
+thinking 
+apply them 
+etc.  
+Concept development, idea generation, risk 
+productively. 
+assessment, vision socialisation 
+9 
+[Page #12]
+Innovation Execution 
+Innovation Management 
+COMPONENT 
+The act of doing the innovation – skills are 
+Is required to enable innovation - skills are used to 
+SKILLS GROUP 
+Description 
+SKILLS 
+used in the execution of the innovation 
+manage innovation within an organisation. 
+project. 
+Project socialisation, vision socialisation, risk assessment, 
+organisational development 
+10 
+[Page #13]
+Table 2: Evaluative skills 
+Innovation Execution 
+Innovation Management 
+COMPONENT 
+The act of doing the innovation – skills 
+Is required to enable innovation - skills are used 
+SKILLS GROUP 
+Description 
+SKILLS 
+are used in the execution of the 
+to manage innovation within an organisation. 
+innovation project. 
+The practice of continuously gathering 
+The practice of gathering information from the 
+Continually monitors and 
+information from the internal and 
+internal and external environment that bear on 
+evaluates activity in the 
+external environment to identify 
+the current and future success of the 
+Environment 
+internal and external 
+opportunities or solutions. 
+organisation.  
+scanning 
+environment that bear on the 
+EVALUATIVE 
+current and future success of 
+Concept development, market research, product 
+Market research, business case development, risk 
+SKILLS 
+an organisation or initiative. 
+design, research, risk assessment 
+assessment 
+Cognitive skills 
+The ability to purposefully (and 
+concerned with 
+The ability to purposefully (and judiciously) seek 
+judiciously) seek and collect information 
+Searches, locates, generates, 
+the ongoing 
+and collect information relevant to the 
+to bring to bear on the problem for 
+collects, extracts, and/or 
+processing of 
+enablement of innovation. 
+Evidence 
+which innovation is the solution. 
+organises information that is 
+information as 
+gathering 
+the basis for 
+relevant to a particular 
+Business case development, concept development, 
+Business case development, concept 
+action 
+concern. 
+market research, production process design, strategic 
+development, research, market research, product 
+positioning, portfolio management 
+design, prototyping, testing 
+How one 
+The capacity to understand relevant 
+relates to 
+The capacity to understand relevant evidence to 
+evidence, to arrive at conclusions that will 
+Assesses and identifies the 
+information 
+arrive at conclusions that will shape decision-
+shape paths of inquiry around concept 
+relative significance of 
+making to enable and support innovation(s). 
+Interpretation 
+and product development. 
+information, data, or 
+explanation. 
+Concept development, risk assessment, strategic 
+Concept development, research, prototyping, risk 
+positioning, portfolio management 
+assessment, testing 
+11 
+[Page #14]
+Innovation Execution 
+Innovation Management 
+COMPONENT 
+The act of doing the innovation – skills 
+Is required to enable innovation - skills are used 
+SKILLS GROUP 
+Description 
+SKILLS 
+are used in the execution of the 
+to manage innovation within an organisation. 
+innovation project. 
+The ability to seek and understand patterns and 
+Recognises emotional, 
+The ability to seek and understand 
+apply those insights to the interaction between 
+intellectual, and physical 
+patterns and apply those insights to the 
+innovation, the organisation and the external 
+Pattern 
+patterns to identify and 
+innovation process. 
+context. 
+recognition 
+articulate how they logically 
+connect and to predict future 
+Concept development, market research, product design, research, risk assessment, testing 
+Concept development, market research, risk assessment, 
+connections. 
+strategic positioning, portfolio management 
+The ability to develop and apply cognitive tools 
+The ability to develop and apply cognitive 
+and techniques to available evidence in order 
+Draws on available evidence to 
+tools and techniques to available evidence 
+evaluate the comparative value of solutions or 
+challenge assumptions and 
+in order to evaluate the comparative 
+courses of action, in context of organisational 
+produce well-reasoned analysis 
+value of ideas, solutions or courses of 
+Critical analysis 
+constraints and opportunities. 
+and understanding that lead to 
+action. 
+new ideas, applications, and 
+Business case development, concept development, 
+questions. 
+Concept development, risk assessment, product 
+portfolio management, resource deployment, strategic 
+design, research, testing 
+positioning, risk assessment 
+The ability to define the range of feasible 
+Applies a range of cognitive 
+The ability to define the range of feasible 
+options from which to determine optimal 
+approaches to define and 
+options from which to determine optimal 
+solutions or courses of action in context of 
+Problem- 
+diagnose the cause of difficult 
+ideas, solutions, or courses of action. 
+organisational constraints and opportunities. 
+solving 
+and complex problems, and 
+identifies, prioritises, and 
+Testing, product design 
+Production process design, portfolio management, 
+selects practical solutions. 
+resource deployment 
+12 
+[Page #15]
+Innovation Execution 
+Innovation Management 
+COMPONENT 
+The act of doing the innovation – skills 
+Is required to enable innovation - skills are used 
+SKILLS GROUP 
+Description 
+SKILLS 
+are used in the execution of the 
+to manage innovation within an organisation. 
+innovation project. 
+The capacity to analyse the relative strengths, 
+The capacity to analyse the relative 
+weaknesses, and trade-offs of options and 
+Draws on evidence and prior 
+strengths, weaknesses, and trade-offs of 
+courses of action in context of organisational 
+experience to compare two 
+ideas, concepts, and solutions in relation 
+Comparative 
+constraints. 
+entities or states as the basis 
+to the problem being addressed. 
+reasoning 
+for interpretation and 
+Concept development, strategic positioning, production 
+explanation. 
+Concept development, risk assessment, testing, 
+process design, resource deployment, portfolio 
+product design 
+management, organisational development, risk 
+assessment 
+The ability to account for the broader context 
+The ability to account for the broader 
+within the organisation and its environment in 
+context within which innovation is taking 
+evaluating the strengths, weaknesses, and 
+Evaluates and anticipates 
+place in evaluating the strengths, 
+feasibility of various courses of action. 
+Strategic 
+threats and vulnerabilities to 
+weaknesses, and feasibility of various 
+thinking  
+protect advantage and pursue 
+Business case development, launch, IP 
+courses of action. 
+value-creating opportunities. 
+management/protection, market research, strategic 
+positioning, production process design, resource 
+Market research, product design, risk assessment 
+deployment, portfolio management, organisational 
+development, risk assessment 
+Draws on available credible 
+The ability to select between multiple 
+The ability to select between multiple viable 
+evidence to determine an 
+viable courses of action within the 
+courses of action within and across different 
+Decision making 
+appropriate course of action in 
+context of a project based on credible 
+projects based on credible evidence. 
+pursuit of a defined objective 
+evidence. 
+or goal. 
+13 
+[Page #16]
+Innovation Execution 
+Innovation Management 
+COMPONENT 
+The act of doing the innovation – skills 
+Is required to enable innovation - skills are used 
+SKILLS GROUP 
+Description 
+SKILLS 
+are used in the execution of the 
+to manage innovation within an organisation. 
+innovation project. 
+Concept development, product design, production 
+Concept development, strategic positioning, production 
+process design, prototyping, resource 
+process design, resource deployment, portfolio 
+deployment, testing 
+management, organisational development 
+14 
+[Page #17]
+Table 3: Implementation skills 
+Innovation Execution 
+Innovation Management 
+COMPONENT 
+The act of doing the innovation – skills 
+Is required to enable innovation - skills are used 
+SKILLS GROUP 
+Description 
+SKILLS 
+are used in the execution of the 
+to manage innovation within an organisation. 
+innovation project. 
+Purposefully and 
+The ability to construct and manage a 
+The ability to create and manage processes and 
+judiciously collects, 
+practice of information clearing, 
+incentives for information and knowledge 
+assesses, organises, 
+knowledge access/distribution, sharing 
+Knowledge 
+sharing. 
+extracts, and shares 
+knowledge (tacit → codified, etc). 
+brokering 
+informational assets to 
+Organisational development, production process design, 
+IMPLEMENTATION 
+maximise their productive 
+Product design, research, testing, IP 
+IP management/protection 
+SKILLS 
+management/protection 
+value. 
+Technical skills 
+The capacity to design innovation workflows and 
+associated with the 
+The capacity to design workflows and 
+tasks allocation in the context of organisational 
+active planning and 
+Purposefully initiates plans 
+task allocation for project execution. 
+plans, resources, and priorities. 
+undertaking of 
+Organisation 
+of action to achieve 
+innovation execution 
+desired outcomes. 
+Product design, production process design, 
+Launch, production, production process design, resource 
+and management 
+production, resource deployment, testing 
+deployment, portfolio management, business case 
+development, financing 
+How one relates to 
+The ability to identify and acquire the necessary 
+The ability to identify and acquire the 
+discrete tasks 
+Systematically assess the 
+resources to support innovation and ensure 
+necessary resources for the operational 
+Resource 
+value of resources 
+organisational efficiency and effectiveness. 
+execution of the project. 
+evaluation 
+(financial, human, capital, 
+time) in relation to their 
+Financing, IP management/protection, organisational 
+Product design, production process design, 
+productive utility. 
+development, production, production process design, 
+resource deployment 
+supply chain development, launch, resource deployment 
+15 
+[Page #18]
+Innovation Execution 
+Innovation Management 
+COMPONENT 
+The act of doing the innovation – skills 
+Is required to enable innovation - skills are used 
+SKILLS GROUP 
+Description 
+SKILLS 
+are used in the execution of the 
+to manage innovation within an organisation. 
+innovation project. 
+The ability to assess the relative importance of 
+The ability to assess the relative 
+tasks, actions and projects as the basis for the 
+Assesses the relative 
+importance of tasks and actions as the 
+effective achievement of organisational 
+importance of tasks and 
+Prioritisation 
+basis for efficient project execution. 
+objectives. 
+actions to ensure their 
+timely completion. 
+Production process design, production 
+Launch, portfolio management, production, production 
+process design, organisational development, financing 
+Discerns the relationship 
+between relevant variables 
+The capacity to apply data and modelling 
+The capacity to apply data and modelling 
+to understand, define, 
+techniques to generate insights about 
+techniques to generate insights about potential 
+quantify, visualise or 
+potential project outcomes. 
+organisational or market outcomes. 
+Modelling 
+simulate these 
+relationships (for 
+Business case development, product design, 
+Business case development, portfolio management, 
+production process design, prototyping, testing 
+strategic positioning, supply chain development, financing 
+experimentation or 
+forecasting). 
+The ability to use past and current data and 
+The ability to use past and current data 
+predictive methodologies to envision possible 
+Draws upon past and 
+and predictive methodologies to envision 
+futures for the innovation and its impact for/in 
+current data to predict the 
+possible futures related to the problem. 
+the organisation. 
+Forecasting 
+likelihood of a future 
+scenario. 
+Business case development, production process 
+Business case development, portfolio management, 
+design, production, testing 
+strategic positioning, production process design, supply 
+chain development, financing 
+16 
+[Page #19]
+Table 4: Relational skills 
+Innovation Execution 
+Innovation Management 
+COMPONENT 
+The act of doing the innovation – skills are 
+Is required to enable innovation - skills are 
+SKILLS GROUP 
+Description 
+SKILLS 
+used in the execution of the innovation 
+used to manage innovation within an 
+project. 
+organisation. 
+The ability to communicate solutions and 
+The ability to effectively convey ideas and 
+Effectively conveys messages 
+their inter- and intra-organisational 
+their value to stakeholders at all phases of 
+and their meaning employing a 
+significance to stakeholders at all phases of 
+project conceptualisation and execution. 
+RELATIONAL 
+Communication 
+variety of media and modes 
+project conceptualisation and execution.  
+SKILLS  
+appropriate to the intended 
+Vision socialisation, concept development, product 
+Interpersonal 
+audience. 
+design, production process design, demonstration, 
+Demonstration, project socialisation, business case 
+and social skills 
+testing 
+development, strategic positioning 
+associated with 
+The capacity to listen to a wide variety of 
+the effective 
+The capacity to listen to a wide variety of 
+sources to collect input and feedback about 
+interaction and 
+sources to collect input and feedback about 
+Attentively listens and responds 
+process management and improvement and 
+management of 
+idea or project development. 
+Active listening 
+to others in a manner that 
+strategic positioning.  
+human 
+improves mutual understanding. 
+Concept development, demonstration, product 
+resources in 
+design, production process design, risk assessment, 
+Production process design, strategic positioning, risk 
+innovation 
+testing 
+assessment, demonstration 
+execution and 
+The ability to overcome differences by 
+management 
+The ability to overcome differences by 
+discerning and achieving agreement to trade-
+Engages in dialogue with others 
+discerning and achieving agreement to 
+offs within and between projects relative to 
+How one 
+that enables the positive 
+trade-offs related to project execution. 
+organisational constraints. 
+relates to 
+Negotiation 
+resolution of difference or 
+others 
+conflict. 
+Vision socialisation, project socialisation, resource 
+Vision socialisation, project socialisation, 
+deployment 
+organisational development, supply chain 
+development, resource deployment 
+17 
+[Page #20]
+Innovation Execution 
+Innovation Management 
+COMPONENT 
+The act of doing the innovation – skills are 
+Is required to enable innovation - skills are 
+SKILLS GROUP 
+Description 
+SKILLS 
+used in the execution of the innovation 
+used to manage innovation within an 
+project. 
+organisation. 
+The ability to persuade project stakeholders 
+The ability to persuade organisational 
+Positively transforms the 
+of the value of a course of action to project 
+stakeholders of the value of a course of 
+behaviour and attitudes of 
+execution. 
+action. 
+Influencing 
+others through persuasion and 
+conviction. 
+Vision socialisation, launch, project socialisation, 
+Launch, vision socialisation, production, project 
+socialisation, production process design 
+production process design 
+The ability to communicate with stakeholders 
+The ability to communicate with 
+on an ongoing basis about what is working, 
+Provides timely, unambiguous, 
+stakeholders on an ongoing basis about 
+or not, and what is needed for effective 
+and constructive guidance to 
+what is working, or not, and what is needed 
+project execution relative to organisational 
+Feedback 
+others in a way that leads to 
+in the development of the project. 
+priorities and constraints. 
+enhanced performance or 
+added value. 
+Demonstration, launch, project socialisation, 
+Demonstration, launch, production, project 
+production, testing 
+socialisation, resource deployment, portfolio 
+management, supply chain development 
+The ability to effectively identify and manage 
+The ability to effectively identify and manage 
+Equitably transfers and 
+who does what in project execution and 
+who does what in project execution. 
+distributes tasks and 
+implementation in context of competing 
+Delegation 
+responsibilities to appropriate 
+demands for resources across projects. 
+Launch, product design, production process design, 
+others to better achieve 
+resource deployment, prototyping, production, 
+desired results. 
+Launch, production, production process design, 
+testing 
+resource deployment, portfolio management 
+18 
+[Page #21]
+Table 5: Critical self-reflection skills 
+Innovation Execution 
+Innovation Management 
+COMPONENT 
+The act of doing the innovation – skills 
+Is required to enable innovation - skills are used 
+SKILLS GROUP 
+Description 
+SKILLS 
+are used in the execution of the 
+to manage innovation within an organisation. 
+innovation project. 
+Understands one’s own 
+The capacity to understand personal limitations in 
+The capacity to understand personal 
+values, aspirations, 
+relation to project management and how these 
+limitations in relation to the project, 
+Internal self-
+thoughts, feelings, 
+can be mitigated. 
+how these can be mitigated. 
+awareness 
+behaviours, strengths, and 
+CRITICAL SELF-
+weaknesses, and their 
+Demonstration, organisational development, resource 
+Product design, demonstration, testing 
+deployment, portfolio management, project socialisation 
+REFLECTION 
+impact on others. 
+SKILLS 
+Understands how others’ 
+The capacity to understand how others 
+The capacity to understand how others perceive 
+Intrapersonal skills 
+view one’s values, 
+perceive oneself in order to manage 
+oneself in order to manage these perceptions in 
+that underpin the 
+External self-
+aspirations, thoughts, 
+these perceptions to enhance project 
+the course of project execution and management. 
+development of 
+awareness 
+feelings, behaviours, 
+execution. 
+positive self concept 
+strengths, and 
+Organisational development, resource deployment, 
+as the basis for 
+portfolio management, project socialisation 
+weaknesses. 
+Demonstration, product design, testing 
+effective relationships  
+The ability to create an effective 
+The ability to create an effective environment for 
+How one relates to 
+environment for multilateral feedback 
+multilateral feedback by ensuring that behaviours 
+Understands and manages 
+self 
+by ensuring that behaviours do not limit 
+do not undermine the contribution of others to 
+one’s emotions and 
+Self-regulation 
+the ability or willingness of others to 
+the project portfolio in its organisational context. 
+behavioural responses to 
+contribute. 
+external stimuli. 
+Demonstration, organisational development, project 
+socialisation 
+Product design, demonstration, testing 
+19 
+[Page #22]
+4.  Applying the Innovation Skills Framework 
+One of the main advantages of the Innovation Skills Framework is its versatility. The Framework was 
+originally developed to inform IfATE’s development of standards and qualifications; however, it became 
+clear through the design process that it could have broader applications in organisations of all kinds. 
+Here  we  present  three  stylised  scenarios  and  outline  the  process  to  guide  the  translation  of  the 
+Framework  into  concrete  outcomes.  These  three  scenarios  reflect  the  fact  that  organisations  may 
+apply the Framework with different outcomes in mind, targeting either organisational effectiveness, 
+employee development, or recruitment. 
+4.1 Three stylised scenarios 
+Note that while we present these as distinctive scenarios, they should not be considered mutually 
+exclusive. For instance, evaluating organisational effectiveness in the deployment of skills relative to 
+innovation  tasks  might  lead  naturally  to  the  conclusion  that  further  training  or  hiring  is  necessary. 
+Incorporating  innovation  skills  into  recruitment  processes  may  prompt  discussions  about  whether 
+roles should be redesigned in light of innovation goals. What is vital is that an organisation can use the 
+Framework  from  any  starting  point  and  to  achieve  any  number  of  desired  outcomes  and  that  it  is 
+flexible enough to be used to develop solutions as skills strategies evolve. 
+Target: Organisational effectiveness 
+1. Deploying skills 
+The  Framework  can  be  used  to  assess  the  alignment  between  the  skills  that  employees  already possess  and  the  functions  they  perform  in  the  innovation  process.  In  other  words,  what  roles contribute to  which  innovation  tasks, and to  what  degree do the  individuals  in  those  roles  have mastery of the innovation skills necessary to perform them? This exercise might help an organisation rethink  the  configuration  of  roles  related  to  innovation  and/or  the  skill  sets  required  of  the employees in those positions. The outcome of this scenario is better informed decisions regarding the effective utilisation and organisation of available human resources to support innovation through an  assessment  of  ‘fit’  between  individuals  and  roles.  Once  skills  gaps  or  weaknesses  have  been identified  they  can  be  addressed  by  using  the  Innovation  Skills  Framework  to  either  develop (scenario 2) or source (scenario 3) relevant skill sets. 
+Target: Human resources development 
+2. Developing skills 
+Organisations may seek to integrate the improvement of innovation skills into existing development interventions or initiate bespoke programmes to increase innovation skills performance can use the Framework  to  establish  curricula  and  assessment  processes.  In  higher  or further  education,  this might be related to curriculum mapping exercises to determine when and how innovation skills are introduced,  reinforced,  mastered,  and  assessed  in  degree  programmes.  For  training  and development  organisations,  like  IfATE,  this  process  can  be  used  to  evaluate  whether  existing 
+20 
+[Page #23]
+professional standards and frameworks capture innovation skills and update standards to integrate these  more  effectively.  Businesses  can  use  the  process  to  survey  and  refresh  their  training interventions. 
+Target: Recruitment and candidate selection processes 
+3. Sourcing skills 
+The  Framework  can  also  be  used  to  integrate  innovation  skills  into  organisational  resourcing strategies. This may involve using the Framework as a guideline to develop role descriptors and person  specifications  to ensure  that  innovation  skills are  among  those prioritised  in  recruitment activity  and  candidate  selection.  It  can  also  be  used  to  develop  selection  methods  to  assess  the innovation skills of candidates. For instance, the framework could be selectively used to develop assessment centre activities to evaluate either the possession of - or potential to develop - required innovation skills. 
+4.2 A roadmap for implementation 
+The Innovation Skills Framework is most effectively conceptualised as a point of reference and not a 
+solution in and of itself. To effectively apply it requires reflection about organisational goals and the 
+development of contextually appropriate strategies.  
+Figure 5: Steps in applying the Innovation Skills Framework 
+21 
+[Page #24]
+Reflecting established models in human resource development and organisational development to offer 
+a  roadmap  to  guide  the  implementation  of  the  Innovation  Skills  Framework.  Figure  5  shows  this 
+process at a high level while Table 6 breaks it down in more detail for each of the scenarios described 
+above. 
+22 
+[Page #25]
+Table 6: Application of Innovation Skills Management steps to three scenarios 
+Step 
+Description 
+Scenario 1: Deploying Skills  
+Scenario 2: Developing Skills  
+Scenario 3: Sourcing Skills  
+Organisational effectiveness 
+HR development 
+Candidate selection 
+1. 
+Identify Goals 
+Better informed decisions regarding the effective utilisation and organisation of available human resources to support innovation 
+Learning interventions that effectively develop relevant innovation skills  
+Candidate selection techniques better able to target the demonstrable possession of relevant innovation skills  
+What are we trying to achieve? 
+2. 
+Identify Relevant Innovation Tasks 
+What innovation tasks are critical to successful job performance at different levels and sections of the organisations? 
+What innovation tasks are critical to the work of the target population for whom the learning and development intervention is to be designed? 
+What tasks are important in the execution of the advertised post? 
+What tasks in the innovation process are relevant to the achievement of our goals? 
+3.  Design and Execute the Evaluation Process 
+Review the application of innovation skills in relevant tasks by using the Framework (or parts thereof) to inform, for example, direct observation of job performance, peer assessment, or self-reporting 
+Use the template to map the coverage of required innovation skills development across a learning intervention (for instance, a training or educational programme) through review of the curriculum, pedagogy, and assessment to identify gaps 
+Draw on the Framework to review the candidate assessment and selection processes to ensure appropriate focus on critical innovation skills 
+How do we assess our current position in relation to the required innovation skills? 
+4.  Design in 
+Collect and use innovation skills-related performance data as the basis for decisions on role assignment and structure, or team/work unit composition. 
+(Re)design programmes or development interventions to ensure alignment of content and approach to delivery to best develop and assess the required innovation skills 
+Develop candidate selection tasks and activities oriented towards an active assessment of specified innovation skills 
+What organisational interventions are required to ensure sufficient focus on necessary innovation skills? 
+Innovation Skills 
+Draw on the Framework to evaluate the task performance of individuals, teams and units, post-intervention 
+Draw on the Framework to evaluate effectiveness of the programme via participation reaction, formal pre-and post-assessment, evaluating behavioural change, and subsequent impact on individual and/or unit performance. 
+Draw on the Framework to review the innovation skills performance of new hires during initial job performance  
+5.  Review 
+How do we best understand the effectiveness of our interventions in maximising our stock of necessary innovation skills? 
+outcomes 
+23 
+[Page #26]
+4.3 Tips for implementation 
+We describe this as a roadmap, rather than the roadmap, for implementation to emphasise the fact 
+that there is no one correct way to adapt the Framework to your unique organisational 
+circumstances. The proposed process can be pursued formulaically, with the development of 
+formalised assessment models and criteria and documentation appropriate to internal bureaucratic 
+processes, but it can be just as effective as a starting point for informal discussion (and everything in 
+between). Regardless of approach to engaging with the Framework, the following points may be 
+useful: 
+●  Customise implementation with your organisation and its goals in mind: Like the 
+Framework itself, the scenarios and processes we offer here are meant to be a starting 
+point. Consider these guidelines, not a recipe that needs to be executed in a specific way to 
+ensure success. 
+●  Take advantage of modularity: We encourage you to adopt what resonates for your 
+organisation and application and leave out what doesn’t. For example, not every innovation 
+task listed will be relevant to your organisation, roles, or objectives. In that case, focus on 
+what does matter and what you want to emphasise. Or, if it's more suitable to your context, 
+you can divide up the tasks maps across different divisions, training offerings, or 
+departments. That you can start from tasks and identify skills or work from desired skills 
+back to the tasks that they support creates flexibility to adapt the Framework in whichever 
+way makes sense.  
+●  Consider existing templates for inspiration: In refining the Framework we developed 
+our own tools to envision how it might be applied in different contexts. We offer a selection 
+of these templates in Appendix B. These can be adapted or used as inspiration to design 
+context-specific evaluation tools. 
+24 
+[Page #27]
+References 
+BEIS. (2021a). UK Innovation Strategy - Leading the Future by Creating It.  
+BEIS. (2021b). R&D People and Culture Strategy - People at the Heart of R&D. 
+BEIS (2021c) UK Innovation Survey 2021: Report covering the survey period 2018 to 2020. 
+Retrieved from: 
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/107
+4069/UK_Innovation_Survey_2021_Report.pdf 
+HM Government. (2020). UK Research and Development Roadmap. 
+IfATE (n.d.) Developing an occupational standard. Retrieved from: 
+https://www.instituteforapprenticeships.org/developing-new-apprenticeships/developing-
+occupational-standards/  
+Innovate UK. (2022). Strategic Delivery Plan 2022-2025.
+25 
+[Page #28]
+Appendix A: Glossary of innovation tasks and related skills 
+Task 
+Description 
+Innovation 
+Innovation 
+Execution skills 
+Management skills 
+Evidence gathering 
+Communication 
+Business case 
+Creating a compelling argument 
+Forecasting 
+Critical analysis 
+development 
+for investing in and pursuing an 
+Modelling 
+Environment scanning 
+innovation. 
+Evidence gathering 
+Forecasting 
+Modelling 
+Organisation 
+Strategic thinking 
+Synthesis 
+Abstract thinking 
+Comparative reasoning 
+Concept 
+Exploring and refining ideas, 
+Active listening 
+Critical analysis 
+development 
+turning them into a well-defined 
+Communication 
+Decision making 
+and feasible concept that can be 
+Comparative reasoning 
+Evidence gathering 
+Interpretation 
+Creativity 
+tested, validated and 
+Pattern recognition 
+Critical analysis 
+implemented. 
+Decision making 
+Environment scanning 
+Evidence gathering 
+Interpretation 
+Mental agility 
+Pattern recognition 
+Synthesis 
+Systems thinking 
+Active listening 
+Active listening 
+Demonstration 
+Showcasing an innovation to 
+Communication 
+Communication 
+potential customers, investors 
+External self-awareness 
+Feedback 
+and partners. 
+Feedback 
+Internal self-awareness 
+Internal self-awareness 
+Self-regulation 
+Mental agility 
+Self-regulation 
+Forecasting 
+Financing 
+Determining and obtaining the 
+Modelling 
+funding to develop and 
+Organisation 
+commercialise an innovation. 
+Prioritisation 
+Resource evaluation 
+Abstract thinking 
+Idea generation  Creating and producing new and 
+Creativity 
+innovative ideas to solve 
+Mental agility 
+problems or meet needs. 
+Synthesis 
+Systems thinking 
+Knowledge brokering 
+Knowledge brokering 
+IP management/ 
+Identifying and securing the rights 
+Resource evaluation 
+protection 
+to any potential patents, 
+Strategic thinking 
+26 
+[Page #29]
+Task 
+Description 
+Innovation 
+Innovation 
+Execution skills 
+Management skills 
+trademarks, copyrights and trade 
+secrets related to the innovation. 
+Delegation 
+Creativity 
+Launch 
+Bringing an innovation to end 
+Feedback 
+Delegation 
+users in a timely and cost effective 
+Influencing 
+Feedback 
+way by marketing and selling to 
+Influencing 
+Organisation 
+the target audience. 
+Prioritisation 
+Resource evaluation 
+Strategic thinking 
+Environment scanning 
+Environment scanning 
+Market 
+Gathering and analysing 
+Evidence gathering 
+Evidence gathering 
+research 
+information about customer 
+Pattern recognition 
+Pattern recognition 
+needs, market trends, and 
+Strategic thinking 
+Strategic thinking 
+potential competition to inform 
+the development and 
+commercialization of an 
+innovation. 
+Abstract thinking 
+Organisational 
+Improving and transforming an 
+Comparative reasoning 
+development 
+organisation’s structure, 
+Decision making 
+processes, culture and capabilities 
+External self-awareness 
+Internal self-awareness 
+to enhance its ability to innovate. 
+Knowledge brokering 
+Mental agility 
+Negotiation 
+Prioritisation 
+Resource evaluation 
+Self-regulation 
+Strategic thinking  
+Synthesis 
+Comparative reasoning 
+Portfolio 
+Considering and optimising the 
+Critical analysis 
+management 
+risks, impacts, market, and 
+Decision making 
+resource use of an innovation in 
+Delegation 
+Evidence gathering 
+the context of the basket of 
+External self-awareness 
+innovation within an organisation. 
+Feedback 
+Forecasting 
+Internal self-awareness 
+Interpretation 
+Modelling 
+Organisation 
+Pattern recognition 
+Prioritisation 
+27 
+[Page #30]
+Task 
+Description 
+Innovation 
+Innovation 
+Execution skills 
+Management skills 
+Problem-solving 
+Strategic thinking  
+Active listening 
+Product design  Developing the functional and 
+Communication 
+aesthetic aspects of an innovation. 
+Comparative reasoning 
+Critical analysis 
+Decision making 
+Delegation 
+Environment scanning 
+Evidence gathering 
+External self-awareness 
+Internal self-awareness 
+Knowledge brokering 
+Modelling 
+Organisation 
+Pattern recognition 
+Problem-solving 
+Resource evaluation 
+Self-regulation 
+Strategic thinking  
+Synthesis 
+Systems thinking 
+Delegation 
+Delegation 
+Production 
+Producing the new product, 
+Feedback 
+Feedback 
+process, service, or business 
+Forecasting 
+Influencing 
+model. 
+Organisation 
+Organisation  
+Prioritisation 
+Prioritisation 
+Resource evaluation 
+Active listening 
+Active listening 
+Production 
+Developing the processes used to 
+Communication 
+Comparative reasoning 
+process design 
+deliver a new or improved 
+Decision making 
+Decision making 
+product or service to end users. 
+Delegation 
+Delegation 
+Forecasting 
+Evidence gathering 
+Influencing 
+Forecasting 
+Modelling 
+Influencing 
+Organisation 
+Knowledge brokering 
+Prioritisation 
+Organisation 
+Resource evaluation 
+Prioritisation 
+Systems thinking 
+Problem-solving 
+Resource evaluation 
+Strategic thinking 
+Synthesis 
+Systems thinking 
+Creativity 
+Abstract thinking 
+Project 
+Communicating and aligning the 
+Feedback 
+Communication 
+socialisation 
+tasks, timelines, responsibilities 
+Influencing 
+Creativity 
+28 
+[Page #31]
+Task 
+Description 
+Innovation 
+Innovation 
+Execution skills 
+Management skills 
+Negotiation 
+External self-awareness 
+and objectives of a project across 
+Feedback 
+an organisation and its 
+Internal self-awareness 
+stakeholders. 
+Influencing 
+Negotiation 
+Self-regulation 
+Decision making 
+Prototyping 
+Creating a functional model for 
+Delegation 
+testing and evaluation. 
+Evidence gathering 
+Interpretation 
+Mental agility 
+Modelling 
+Critical analysis 
+Research 
+Collecting and analysing 
+Environment scanning 
+information to inform decision-
+Evidence gathering 
+making and support the 
+Interpretation 
+Knowledge brokering 
+development of innovations. 
+Pattern recognition 
+Decision making 
+Comparative reasoning 
+Resource 
+Obtaining, allocating, prioritising, 
+Delegation 
+Creativity 
+deployment 
+and managing competing demands 
+Negotiation 
+Critical analysis 
+for the infrastructure, assets and 
+Organisation 
+Decision making 
+Resource evaluation 
+Delegation 
+talent needed to develop and 
+External self-awareness 
+implement an innovation. 
+Feedback 
+Internal self-awareness 
+Mental agility 
+Negotiation 
+Organisation 
+Problem-solving 
+Resource evaluation 
+Strategic thinking 
+Systems thinking 
+Abstract thinking 
+Abstract thinking 
+Risk assessment 
+Identifying and evaluating the risks 
+Active Listening 
+Active listening 
+associated with an innovation and 
+Comparative reasoning 
+Comparative reasoning 
+ensuring that they are adequately 
+Critical analysis 
+Critical analysis 
+Environment scanning 
+Environment scanning 
+militated and mitigated. 
+Interpretation 
+Interpretation 
+Mental agility 
+Mental agility 
+Pattern recognition 
+Pattern recognition 
+Strategic thinking  
+Strategic thinking  
+Systems thinking 
+Systems thinking 
+Active listening 
+Strategic 
+Determining the price, unique 
+Communication 
+positioning 
+benefits, target segment and 
+Comparative reasoning 
+Creativity 
+29 
+[Page #32]
+Task 
+Description 
+Innovation 
+Innovation 
+Execution skills 
+Management skills 
+Critical analysis 
+messaging for an innovation that 
+Decision making 
+will maximise its success. 
+Evidence gathering 
+Forecasting 
+Interpretation 
+Modelling 
+Pattern recognition 
+Strategic thinking  
+Synthesis 
+Feedback 
+Supply chain 
+Creating and managing a network 
+Forecasting 
+development 
+of suppliers and distribution 
+Modelling 
+channels that support the 
+Negotiation 
+Resource evaluation 
+development, implementation and 
+Systems thinking 
+accessibility of an innovation. 
+Active listening 
+Testing 
+Evaluating the quality, 
+Communication 
+performance and functionality of 
+Comparative reasoning 
+an innovation. 
+Critical analysis 
+Decision making 
+Delegation 
+Evidence gathering 
+External self-awareness 
+Feedback 
+Forecasting 
+Internal self-awareness 
+Interpretation 
+Knowledge brokering 
+Mental agility 
+Modelling 
+Organisation 
+Pattern recognition 
+Problem-solving 
+Self-regulation 
+Synthesis 
+Abstract thinking 
+Abstract thinking 
+Vision 
+Communicating and aligning the 
+Communication 
+Creativity 
+socialisation 
+vision for an innovation with 
+Creativity 
+Influencing 
+stakeholders including colleagues, 
+Influencing 
+Negotiation 
+Negotiation 
+customers, investors and 
+partners. 
+30 
+[Page #33]
+Appendix B: Example innovation skill templates 
+Building innovation into curricula and training programmes 
+31 
+[Page #34]
+Organisational innovation building 
+32 
+[Page #35]
+Personnel innovation skills management 
+33 
+[Page #36]
+None

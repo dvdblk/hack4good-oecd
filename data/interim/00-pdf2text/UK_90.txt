@@ -1,0 +1,568 @@
+[Page #0]
+The Opportunity for  a National Electrification Skills Framework and Forum
+Transitioning the UK workforce  for the green industrial revolution in transport and energy
+September 2021
+[Page #1]
+02
+The Opportunity for a National Electrification Skills Framework and Forum
+FOREWORD AND ACKNOWLEDGEMENTS
+Tony Harper
+Prof Will Drury
+Prof Dave Greenwood
+Director,  Faraday Battery Challenge at  UK Research and Innovation
+Director,  Driving the Electric Revolution Challenge at UK Research and Innovation
+CEO, WMG centre High Value Manufacturing Catapult and Director for Industry Engagement at WMG, University of Warwick
+For the UK to meet its 2050 Net Zero commitments – from transport and aviation to power generation and distribution – a fresh approach to skills is required. One where the strengths of employers and educators are brought together and leveraged to the benefit of industries, businesses and their employees. To quote the published UK Innovation Strategy “it is vital that the UK’s workforce, and the education and training system that feeds it, has sufficient scale, diversity and breadth to meet the challenges and opportunities of a more innovative economy and society. Whether people are continuing education, retraining, moving from another sector, returning following a career break, or coming to the UK from abroad, our agenda must be to develop an inclusive and highly skilled workforce that meets the needs of business.” UK industry is undergoing an exciting and rapid transformation to fulfil the UK Government’s 2050 Net Zero commitments. 
+The need for Net Zero technologies is now. Through the delivery of an ambitious Innovation Strategy, the UK Government has signalled the desire to take this on by positioning the UK as a science superpower.  Power Electronics, Machines and Drives (PEMD) are the underpinning technology to enable Net Zero to be achieved. From the generation and conditioning of electricity to its storage and use, PEMD is required.
+The automotive sector recognises the need for electrification. Working with organisations like WMG and APC, the automotive industry has embraced the UK’s technology transformation through roadmaps, trends and forecasts. These detail the technological transformation needed to decarbonise the sector and drive improvement across propulsion systems, electrical energy storage, electric machines and power electronics. These technological transformation provide a vision of how the UK will develop in the lead up to 2040 and keep its competitive edge.
+The technology at the heart of PEMD, magnets, semiconductors and electrical steels for example are significant, and the development of robust and resilient supply chains critical.  However, without people and skills technological advances alone cannot deliver the change needed, or enable the UK to significantly contribute to the global industry need for decarbonisation in the future.  
+As multiple sectors transform to fully electric production, one of the key questions will be how will the workforce need to transition? We believe the answer lies in the proposed national framework for electrification skills – which will allow us to understand the development needs required to go from current skill sets to deliver the objectives outlined in the technology transformation.  This focus will be essential for the sector to thrive in a highly competitive global industry and to meet Government targets for a decarbonised future.
+The growth of people across all sectors in electrification is critical. With many cross disciplinary skills, there is an opportunity to create an upskilled workforce that is more mobile, more aspirational and better able to make a difference to the world in which we live.
+We are proud to launch this report which presents the opportunity for a national electrification skills framework and forum, to “re-skill, up-skill and new-skill” the UK engineering and manufacturing workforce, a major step forward to ensuring the right skills are in place at the right time. The evolution of existing sectors, along with the establishment of emerging battery cell production and power electronic and motors and drives sectors will be sustained by a skilled and increasingly agile work force to take innovation forward into competitive production.
+This report sets out an ambitious framework that makes great steps in highlighting the need for developing electrification skills. Although initially based on the rapidly growing and early adopting automotive sector, this framework should be expanded to cover all sectors and industries involved in electrification. 
+We are proud to launch this report which presents the opportunity for a national electrification skills framework and forum, to be shaped by the wisdom, common learning and direction of our talented community of automotive technologists, educators, accrediting bodies and training providers. It provides a starting point for a national-level conversation on how to best prepare and deliver skills – at both a regional and national level – precisely when and where they are needed. This will also need to look beyond just the automotive sector, as the establishment of UK battery production facilities (gigafactories) represent a considerable industrial opportunity for the UK economy, and one where having a workforce with the required skills and capabilities will be essential for the nation to compete successfully on the European and indeed global stage. Similar to any national effort, this is only the beginning of the conversation. We look forward to including more voices and to ensure learning is shared broadly with other sectors so that they too can benefit from the methodology and outcome of this framework to inform their efforts towards electrification, developing a workforce to enable multiple industries to thrive.
+What follows represents a cooperative effort, catalysed by the Faraday Institution and WMG, University of Warwick, to define on first use the training and investment in people, education and skills that will allow the UK to Build Back Better and secure greener jobs in a flourishing UK electrification sector.
+Through dedicated efforts, novel approaches and outlooks to the skills agenda, people, who are so critical for success, are being returned to the heart of innovation across the UK.
+[Page #2]
+Transitioning the workforce for the green industrial revolution in transport and energy
+03
+The Opportunity for a National Electrification Skills Framework and Forum
+CONTENTS
+EXECUTIVE SUMMARY
+02  Foreword and Acknowledgments03  Executive Summary
+Together with industrial digitalisation, Industry 4.0, the electrification revolution represents the largest shift in industrial skills for the UK in a generation. The need to move quickly, and effectively, to re-skill and up-skill the existing workforce, whilst providing newly skilled workers to fill crucial roles, emphasises the need for a unified national skills structure more than ever before. In order to achieve, this the National Electrification Skills Framework and Forum is being developed and is based on the following:
+ A national effort
+The skills framework and forum is open to all in the UK, and exists as a resource for the betterment of UK industry and society as a whole, encouraging common purpose to meet shared challenges and objectives. 
+04  Who should engage04  Opportunities and Benefits
+06  The Electrification Skills Framework
+06  Developing Skills at the Point of Need06  Framework Approach
+07  The Electrification Skills Forum: A Call to Action
+07  The Provider Network07  The Employer Network
+Quality
+ Immediate and future need
+Whilst serving immediate skills needs, the framework is also future looking, helping to stimulate industry growth by providing a skills base before they become critically in demand. This is a step change for UK education and represents a new approach to delivering skills.
+The national effort will provide a common requirement and approach. Providers can use this to ensure that wherever an employee receives their training and/or education employers can be confident that it will meet their needs, is of a high quality,  and is consistent.
+08  The Case for Automotive Manufacturing Skills
+08  Demand for Electrification Skills is Accelerating08  Beyond Manufacture09  Timeline09  Genesis10  The Foresighting Method and the Skills Value Chain10  Developing Modular CPD Units
+11  Electrification CPD Map
+12  Automotive Manufacutre: Unit 112  Automotive Manufacture: Unit 6
+ Collaboration
+ Re-skill, up-skill, new-skill
+Competing for resources, both physical and intellectual, is not conducive to enabling the UK to deliver quality training provision at the point of need. Cooperating partnerships among providers will enable resources to be shared to aid in delivery. 
+It is critical that the skills strategy for the electrification revolution occurs in such a way that it creates a soft landing for other industries that shrink as a result, providing new opportunities for workers to transfer from other sectors. It is also critical that it does not strip sectors of their skilled workforce and must actively seek to bring newly skilled individuals into dynamic and rewarding career paths.
+14  The Case for Battery Manufacturing16  The Case for Power Electronics, Machines and Drives
+Dr Hadi MoztarzadehSenior Technology OfficerWMG, High Value Manufacturing CatapultUniversity of Warwick
+AUTHORS
+Matt HowardChief Strategy Officer The Faraday Institution
+Paul ShakspeareConsultant – Education and SkillsHigh Value Manufacturing Catapult
+Dr Ben SilverstoneElectrification Skills Framework Lead, WMG, High Value  Manufacturing Catapult University of Warwick
+Nicola KirkwoodProject Engineer, UK Electrification Skills,WMG, High Value Manufacturing CatapultUniversity of Warwick
+[Page #3]
+Transitioning the workforce for the green industrial revolution in transport and energy
+04
+The Opportunity for a National Electrification Skills Framework and Forum
+Who Should Engage
+Opportunities and Benefits
+The National Electrification Skills Framework and Forum provides an opportunity for a range of stakeholders to participate in the electric revolution and drive its development. 
+Participants will benefit from being able to:
+ Seek close engagement with national and regional stakeholders.
+ Reach across a growing network of further and higher education and training institutions and providers.
+  Employers
+ Reflect on existing and future skills needs in a structured way which will lead to the most appropriate training and education interventions under development. Link with providers to ensure that needs are met effectively and in-time.  
+ Take advantage of increasing on-line learning content aligned to experiential learning and assessment within the overall framework.
+ Ensure that business of all sizes are able to access a skilled workforce able to meet their business needs and to compete in growing markets.
+  Training providers
+ Engage with industry on a national scale and participate in a combined effort to establish and realise the UK Electrification Skills agenda.    
+ Provide individuals with initial and lifelong learning opportunities to secure their future work opportunities in expanding green industries.
+ Accrediting organisations
+ Engage with wider employer groups to better understand needs and to reflect these more effectively in accreditation work . 
+  Learners
+ Effectively plan and access future opportunities to develop portable skills in the electrification space. Identify training and education providers that are part of this national agenda and access opportunities for development.  
+Opportunity for a range of stakeholders to participate in the electric revolution and drive its development
+[Page #4]
+Transitioning the workforce for the green industrial revolution in transport and energy 05
+The Opportunity for a National Electrification Skills Framework and Forum
+ELECTRIFICATION ROADMAPS / RESEARCH AND DEVELOPMENT / TECHNOLOGY STRATEGY
+SKILLS FRAMEWORK
+EDUCATION AND  TRAINING PROVIDERS
+CURATING
+NEW SKILLS
+TechnologyDevelopment & Deployment
+Power  Electronics,  Motors and Drive
+01
+03
+02
+L2-3
+02
+CURRICULUM
+Battery Mfg.
+CONVENING
+CONVENING
+L6-7
+Circular Economy & Sustainability
+Supply Chain & Logistics
+L4-5
+UPSKILLING& RESKILLING
+CATALYSING
+03
+Electrification
+01
+INDUSTRY / EMPLOYERS
+Automotive
+Aero
+Rail
+Marine
+Energy
+Others
+[Page #5]
+06
+The Opportunity for a National Electrification Skills Framework and Forum
+THE ELECTRIFICATION SKILLS FRAMEWORK
+To meet the needs for  up-skilling, re-skilling and  new-skilling, workers require an integrated approach.
+Short Courses 
+Framework Approach
+A wide range of short courses will be available for ongoing professional development, up-skilling and re-skilling. These will be responsive to industry need as well as linking to long course provision.  Where industry demands short courses in critical emerging areas these will be integrated with the structure of long course provision to ensure wide coverage for all learners. A key approach to meeting the vision is that individuals accessing short courses should have the opportunity to accumulate that learning and use it towards longer programmes of study if they wish to at the same time as achieving industry valued credentials.
+ Levels 2 - 8 (or equivalent) 
+   Informed by industry partners from a wide 
+range of sectors 
+Developing Skills at  the Point of Need
+   Sector agnostic – electrification is 
+considered as a whole rather than as separate industry sectors 
+When looking back from 2030, we will see a revolutionary change to a greener industry.  Yet despite the rapid pace of this change,  it will be incremental year on year, building on and changing the skills base of our current workforce. This leads us to build solutions in a modular and therefore flexible way, seeking common solutions that suit multiple learning models and enables the introduction of appropriate assessment and credentialling of critical competencies as the workforce develops and new technologies take over. And change won’t stop in 2030.
+   Common and less common curriculum – makes use of cross cutting electrification themes that are the same regardless of sector, level or role to ensure consistency and efficiency. Sector specific elements are  then attached 
+   Modular – Long course programmes, such as apprenticeships, are deconstructed into short course offerings in order to allow employers to select aspects that are required to allow for up-skilling and re-skilling of workers where a full development programme is not required
+Credit Accumulation
+Short courses will be designed to enable credit accumulation towards qualifications and awards, where the course is suitable to do so. This will allow learners, and companies, flexibility in creating bespoke learning journeys to help meet their emerging needs. As new courses are developed to meet new needs there will be flexibility to add these into the longer learning journey meaning that qualifications will be entirely reflective of the needs, both of individuals and their employers, at the point of completion. The ultimate aim will be that the community of providers will recognise credit drawn from those within the community, allowing learners to make use of the specialist delivery available within the community. 
+Therefore, to meet the needs for up-skilling,  re-skilling and new-skilling workers require an integrated approach that will enable the sharing of key learning across different delivery models as well as enabling individuals to earn transferrable credit for their learning and gain recognition of their skills and industrial credentials. The following delivery approach has a number of strands to meet  industry need: 
+   Current – Incremental changes to short course 
+portfolios wll be readily reflected into long course programmes
+   Consistency – Regardless of the mode of delivery the content, competencies and assessments are the same which gives parity 
+Long Courses 
+Longer courses typically make use of apprenticeships to support development in key areas of electrification. Existing at levels from 2 to 7 these programmes offer identifiable career progression pathways and are linked to qualifications. Relevant to up-skilling, re-skilling and new-skilling, long-course programmes encompass the knowledge, skills and behaviours required to perform key roles. The learning assets used in the longer course provision can be broken down to provide learning opportunities for those who are either not eligible for apprenticeship funding or whose life circumstances do not allow prolonged training periods as well as those whose current skills base does not require longer courses of learning in order to up-skill or re-skill. 
+   Credit accumulation - Individuals will be 
+able to accumulate credit from the courses that they attend and use it against larger qualifications 
+STEM
+Engaging young people through STEM activities is critical in broadening exposure to the opportunities available in electrification. Employers, professional bodies, local authorities, charities and educational organisations will be engaged to curate existing STEM opportunities and to broaden the provision to create a national engagement programme to support existing initiatives. The importance of this activity cannot be underestimated and it sits at the heart of all future activities providing a strong foundation upon which the framework will be built.
+   No dead ends - Individuals will always have opportunity to further their careers through training and education with progression routes clearly articulated and made available
+Accreditation
+All courses, whether short or long, will be designed with accreditation from relevant professional bodies in mind. Working closely with these bodies from the outset will ensure that the learning meets their accreditation needs and is recognised for its quality and rigor by industry and professional bodies alike. 
+   Widening participation - multiple entry points and opportunities for experience based achievements will help to engage learners more widely through an inclusive and accessible approach to accessing education and careers in electrification
+[Page #6]
+Transitioning the workforce for the green industrial revolution in transport and energy
+07
+The Opportunity for a National Electrification Skills Framework and Forum
+The Provider Network
+Convening providers on a level playing field where expertise, material and facilities are shared allows the sector to most effectively, efficiently and competitively ensure the highest quality of training provision to best impact the competencies of employees across the UK at scale. This plan emphasises blended learning approaches to address the growing importance of on-line learning to provide key knowledge at scale, supported by opportunities for experiential and work-based learning to transfer safe and effective skills and behaviours. The provider network co-develops curriculum whilst members support one another to develop and deliver against the National Electrification Framework.
+THE ELECTRIFICATION SKILLS FORUM: A CALL TO ACTION
+The transition to an electrified and Net Zero future requires a strong collaborative approach that emphasises the needs of UK industry as a whole over commercial gain. Competing for the same physical and intellectual resources, rather than collaborating to make the best use of that which is available, detracts from the key focus of delivering high quality training and education to enable the UK to both meet its internal goals and become a global leader in future technologies. 
+The provider network is growing and there is an opportunity for more providers to join and actively engage in the work being undertaken. There is an opportunity to shape the framework and the curriculum that underpins it to best allow industry to realise its potential.
+To get involved please contact electrification-skills@hvm.catapult.org.uk
+The Employer Network
+For the UK Electrification Framework to develop with industry need as it evolves, employers across all sectors with an interest in electrification skills have an opportunity to participate in an active employer network. The network is supported and convened by Centres of Innovation such as WMG, University of Warwick and sector skills groups will continue to guide and input, discuss existing and future training and education offerings. The employer network also exists to stimulate cross sector collaboration and learning enabling employers from a wide range of industries to establish common skills needs and to support one another. The employer network works hand in hand with the provider network to ensure that skills needs are communicated and that courses meet need.  
+Collaborating to elevate achievement is critical at this time and will drive confidence in the UK’s ability to deliver.
+The employer network is growing and there is an opportunity for more employers to join and actively engage in the work being undertaken. There is an opportunity to shape the framework and the curriculum that underpins it as well as engaging with employers from a range of different sectors to establish and address common skills needs.
+To get involved please contact electrification-skills@hvm.catapult.org.uk
+[Page #7]
+Transitioning the workforce for the green industrial revolution in transport and energy
+08
+The Opportunity for a National Electrification Skills Framework and Forum
+THE CASE FOR AUTOMOTIVE MANUFACTURING SKILLS
+Demand for Electrification Skills is Accelerating
+Beyond Manufacture
+The UK automotive industry is a large employer, with 168,000 direct employees working in the sector, which is undergoing a massive transformation. The rapid transition of the automotive sector to the production of fully electric vehicles, creates competency gaps at all levels with particular emphasis on engineering and manufacturing roles that would need to be filled with core and specified training.
+Outside of the volume auto manufacturing part of sector, electrification brings additional competency and skills challenges: 
+ Potentially 182,000 mechanics will be in need of reskilling by 2030. This date is market driven by number of EVs on road in need of service over time.  
+Specialist skills for electrification do not currently exist at scale in the industry and there is an unmet need for design engineers, development engineers, systems engineers, electronics technicians, vehicle technicians, specialist skills in batteries, power electronics and electric machines, as well as key roles in procurement, cost estimating and supplier quality. 
+ Around 175,000 independent dealerships, assuming franchise dealers will be trained by OEMs, will need training. 
+ In emergency response roles, 61,000 visible police, 28,500 specialist police, 26,000 specialist advanced paramedic and paramedic, 44,000 firefighters (L2-L4 or equivalent), 500+ independent recovery operators (L1-L4 or equivalent) will need specialised training, with additional awareness training for 1,375 fire control, and 18,000 emergency care assistants (ambulance).
+A 2020 review* reveals the scale of the challenge:
+ Across automotive manufacturing roles related to batteries, power electronics and electric machines, 63% of current jobs roles will be subject to significant change. For electric machines, this is expected to be as high as 84%. 
+ A number of new roles will exist in power electronics, motors and drives across a range of sectors.
+ For roles related to purchasing of electric machines, as many as 61% of current powertrain jobs may see significant gap in competencies.  
+Electrification is a combination of technologies bringing together electrical energy storage, electric machines and power electronics.
+ Material planning and logistics powertrain specialists will need training to obtain appropriate skill level required related to batteries.  
+ Quality engineers and technicians with knowledge of power electronics represent the job roles expected to see the biggest change (91%), and therefore require significant training / re-training. Quality Engineers and Technicians for batteries are also critical.
+* WMG, University of Warwick survey of OEMs in the sector, literature reviews and studies
+[Page #8]
+Transitioning the workforce for the green industrial revolution in transport and energy
+09
+The Opportunity for a National Electrification Skills Framework and Forum
+Genesis
+The Case for Automotive Manufacturing Skills
+In 2019, the Auto Council’s Skills Working Group identified a common need to better anticipate the transformation of the sector to electric vehicle production across employers, employees, professional accrediting organisations and training providers. To scope this skills challenge, the government-backed Faraday Institution initiated  a project with WMG, University of Warwick to better understand automotive sector demand for electrification skilled workers over time; determine the requisite competencies needed by job family, type and role; and evaluate the existing training landscape and available offers.
+2000
+Toyota Prius, first hybrid car launched in the UK
+20051.59 million vehicles built in the UK
+The aim of the project is help to secure the competitiveness of the sector by creating a clear and common path that would enable the transformation of the workforce by closely relating their future skills to the demands of technologies yet to be widely adopted.
+20101.25 million vehicles built in the UK
+2010
+138 PHEV and BEV registered in the UK
+2013
+2013
+UK Government announce OLEV plug-in car grant
+3,586 PHEV and BEV registered in the UK
+20151.6 million vehicles built in the UK, 75% of which were exported overseas
+2016
+30,792 PHEV and BEV registered in the UK
+2017UK Government announces plans to ban ICE sales by 2040
+2018
+Faraday Battery Challenge launched
+59,911 PHEV and BEV registered in the UK
+Faraday Institution opened
+Identified need to up-skill the automative industry to meet government targets - foresighting process
+2020
+175,082 PHEV and BEV registered in the UK
+UK Government confirms ban on ICE vehicle sales by 2030 and HEV by 2035
+UK Battery Industrialisation Centre opened
+Targetted training interventions designed and launched
+Scale up and introduction of training at all levels to include apprenticeships, HTQs and HE provision
+2030Ban on passenger ICE vehicle sales in the UK
+2035
+Ban on HEV sales in the UK
+2040EVs projected to account for 32% of global sales
+[Page #9]
+Transitioning the workforce for the green industrial revolution in transport and energy
+10
+The Opportunity for a National Electrification Skills Framework and Forum
+Skills Value Chain
+Developing Modular CPD Units 
+Convene (to establish needs)
+Curate (and create resources)
+Deliver (and diffuse)
+1.   Assessing Industry Capabilities
+3.   Curating Existing CPD Course Provision
+ UK vehicle electrification design and manufacturing strategies, roadmaps and plans were assessed by technical specialists to identify future capabilities required by UK manufacturing to enable their adoption of battery powered automotive solutions.
+ The expert educators also mapped these competency needs using a range of existing qualifications and sector training providers to develop over 20 unit definitions ranging from fundamental electrical, battery, engineering science and health and safety topics to advanced domain specific requirements.
+Foresight futureworkforcecapacibility
+Define roles,occupationsand standards
+Developmodularcurriculumand content
+Set-upassurance,validation and recognition
+Deliver  early stage training(inc. teachers)
+Scale-up with cooperating providers
+2.    Defining Workforce Competencies
+4.    Identify Further CPD Courses to Create
+ Expert educators defined appropriate competency sets for three role groups: technical operator, junior engineer and senior engineer. In total about 450 competence statements – knowledge or skill – were developed and linked to specific capability requirements for each role group. These can be used to inform future reviews of apprenticeship standards and qualifications.
+ Where there is no current suitable CPD offer, the Department for Education-funded Emerging Skills Project led by the HVM Catapult will create pilot courses and train the trainer content available for roll out to meet demand from 2022, with WMG, University of Warwick coordinating electrification content across Institutes of Technology.
+The Foresighting Method and the Skills Value Chain 
+In its second phase, in 2020/21, the project team utilised the Foresighting and Skills Value Chain approach demonstrated  by the HVM Catapult and Gatsby Foundation in the 2020 report “Manufacturing the Future Workforce”. 
+Based on international good practice, this makes the case that the transformation of engineering and manufacturing professions to address a growing competency gap related to emerging technologies requires a connected and systematic response if the UK is to leverage its public investment in innovation.
+Capture industry challenges
+Next Steps
+Workforce ForesightingProcess
+Providing “line of sight” from technology roadmaps to related workforce development activities, the overall aim of the project is to secure the competitiveness of the sector. A clear and common path will enable the transformation of the workforce by closely connecting their future skills and opportunities to the demands of technologies yet to be widely adopted. A forum among key stakeholders has been established for further identification and development of CPD.
+This stepped approach connects employers, government investment, innovating bodies, and education and training systems using a consistent rigorous process. It generates clarity around the required capabilities, competencies and course provision starting from input from businesses in a specific sector. In simple terms the three stages enable the sector to:
+Determine organisation capability changes
+ Convene technologists, industry, education and training partners, and government as a focal point for the shift to battery electric vehicle production to foresight and articulate emerging skills needs, standards and qualifications associated with emerging technologies. 
+Define future workforce competencies
+ Work with others to curate suitable existing education and training provision and create further content where necessary in a form suitable for a range of learner groups, putting in place the required competence assurance and accreditation systems. 
+Prioritise and articulate gaps compared to current state: standards, qualifications, provision
+Propose future workforce duties and roles
+  Deliver early-stage training, with specialist technology centres acting as a primary point of initial transmission of this knowledge to early industry adopters as well as to teachers who will educate others, then on an on-going basis support diffusion through wider teaching and training networks of specialist emerging technologies. 
+[Page #10]
+Transitioning the workforce for the green industrial revolution in transport and energy
+11
+The Opportunity for a National Electrification Skills Framework and Forum
+Automotive Role Groups and Competency Sets 
+ELECTRIFICATIONCPD MAP
+Each column represents an automotive role group and the competency sets identified to aid in the transition to electric vehicle production.  Each set recommends CPD units which build from fundamentals to more advanced units, to provide appropriate coverage of the required topics. The three role groups are aligned to the Engineering Council descriptors for Engineering Technician, Incorporated Engineer and Chartered Engineer.  They are also mapped to academic descriptors and levels – 2/3 (or equivalent) Eng Tech, 4/5 (or equivalent) IEng and 6/7 (or equivalent) C.Eng.  Generic role types in the sector are reflected.
+Level 2-3 (or equivalent)Technical Operator, Assembler, Manufacturing Support Technician
+Level 4-5 (or equivalent)Production Team Leader, Junior Engineer
+Level 6-7 (or equivalent)Engineer, Senior Engineer
+Unit 1 – Automotive Electric / Hybrid Vehicle Awareness, Statutory Regulations and organisational Safety requirements in Manufacturing
+Unit 4 – Automotive Electric Vehicle Charging
+Unit 14 – Electric Vehicle Drive Systems
+Unit 2 – Isolation / lockout and re-energising of Automotive Electric Vehicles
+Unit 15 – Electric Vehicle High Voltage Electrical DistributionSystems
+Unit 12 – Introduction to Electrical Engineering Fundamentals for Electric Vehicles
+Unit 13 – Electrical Engineering Fundamentals for Electric Vehicles
+Unit 20 – Design of Diagnostics for Electric Vehicles
+Unit 6 – Diagnostics in Automotive Electric Vehicle Systems and Batteries
+Unit 10 – Electric Vehicle Battery Principles
+Unit 9 – Design of Battery Safety and Diagnostics Systems Systems
+Unit 7 – Management of High Voltage System Diagnostics
+Unit 3 – Repairs, Rework and High Voltage Component Replacement on Automotive Electric Vehicles
+Unit 8 – Safety, Legislation and Standards Automotive High Voltage Batteries
+Unit 11 – Electric Vehicle Components and Assembly Processes
+Unit 5 – High Voltage Automotive Battery and  Systems Assembly
+Unit 21 – Leading Prototype Builds in Electric Vehicle Manufacture
+Unit 17 – Electric Vehicle Prototype Assembly
+Unit 19 – Managing Electric Vehicle Prototype Builds
+Unit 22 – Leading Quality Control in Electric Vehicle Manufacture
+Unit 18 – Quality Management and Testing in Electric Vehicle Manufacture
+Unit 16 – Carry Out Quality Checks in Electric Vehicle Manufacture
+[Page #11]
+Transitioning the workforce for the green industrial revolution in transport and energy
+12
+The Opportunity for a National Electrification Skills Framework and Forum
+This unit is an example of those currently in development. 
+Electrification Skills Plan 2021
+Automotive Manufacture
+Potential Curriculum Coverage (initial mapping shows some matches to high level statements)
+Unit 1: Automotive Electric / Hybrid Vehicle Awareness, Statutory Regulations and Organisational Safety Requirements in Manufacturing
+Core Subjects
+Currently Delivered By
+IMI - L1 Award in Electric / Hybrid Vehicle Awareness 
+IMI Centres
+Identifying an electrically  propelled vehicle and  understand associated risk
+ABC - Level 1 Award in Automotive Electric / Hybrid Vehicle Awareness 
+Level: L2/3 (Ofqual) (or equivalent)
+      TBC
+Credit Size 
+IMI Centres
+Suitable for: Vehicle assembly operators, uniformed services, valeters, general garage staff
+Indicative Learning Hrs    30
+Indicative Contact Hrs    8
+Prerequisites: None
+Indicative Self-Directed Study Hrs    20
+Nissan
+Nissan Training Course
+Assessment: 
+Learning Outcomes: 
+Complying with statutory regulations and organisational safety requirements for vehicles with electric drive systems or energy storage devices
+On competition of unit learners will:
+Knowledge and skills, with a workplace observation
+Retired EAL unit QMVEDS2/001, which is contained within Level 2 Diploma in Manufacture of vehicles with electric drive systems
+1.   Know about the types of electric/hybrid vehicles 
+New required
+available (K)
+Suggested format: 
+2.   Know and understand the hazards/risks around motor vehicle high energy electrical systems (K)
+The knowledge should be assessed via multiple choice e-assessment and skills assessment (charging the vehicle) via assessor observation.  Observation of competency in the workplace against LO7.
+3.   Know how to work safely around electric/hybrid 
+Lucas Nuelle offer charging  training as part of the Hybrid  and Electric Vehicle Specialist  - Charging the Vehicle unit
+vehicles (K)
+Delivered globally as part of the LN electric vehicle offer
+Identifying charger types and charging the vehicle
+4.   Know how to comply with the statutory regulations and organisational safety requirements for vehicles with electric drive systems or energy storage devices (derived from 60 & 62) (K) (MF)
+Manufacturer specific training systems
+Various manufacturers
+5.   Be able to identify different types of electric vehicle charging systems and connections (K)
+6.   Be able to plug into a vehicle charging point and 
+ensure the vehicle is accepting charge (S)
+Additional information and recommendations
+7.   Demonstrate compliance with statutory regulations and organisational safety requirements for vehicles with electric drive systems or energy storage devices in their work environment (derived from 60 & 62) (S) (MF) 
+Many of the LO within this programme can easily be delivered through online learning, with limited face-to-face learning. As suggested with the Nissan course, it’s likely that manufacturers would combine this programme with brand awareness training. LO 1-3 have qualifications available via two Accrediting Organisations (AO): IMI and ABC. It’s worth noting that this is offered vehicle type specific for ABC Awards (Bus / Coach, Heavy Vehicle and Light Vehicle). There is some variation in delivery time through AO.      
+Version: 1.6
+Created: 01/02/2021
+Revised:
+[Page #12]
+Transitioning the workforce for the green industrial revolution in transport and energy
+13
+The Opportunity for a National Electrification Skills Framework and Forum
+This unit is an example of those currently in development. 
+Electrification Skills Plan 2021
+Automotive Manufacture
+Potential Curriculum Coverage (initial mapping shows some matches to high level statements)
+Unit 6: Diagnostics in Automotive Electric Vehicle Systems and Batteries
+Core Subjects
+Currently Delivered By
+IMI - L1 Award in Electric / Hybrid Vehicle Awareness 
+IMI Centres
+Level: L3/4 (Ofqual) (or equivalent)
+      TBC
+Credit Size 
+Suitable for:  Individuals who work on electric vehicles and would be responsible for identifying faults within high voltage electrical systems and components following production, or when in service. 
+Indicative Learning Hrs    20 (estimate)
+Identifying an electrically  propelled vehicle and  understand associated risk
+Indicative Contact Hrs    8 (estimate)
+ABC - Level 1 Award in Automotive Electric / Hybrid Vehicle Awareness 
+IMI Centres
+Indicative Self-Directed Study Hrs    12 (estimate)
+Prerequisites:  Individuals will already have appropriate vehicle assembly and repair knowledge and skills at level 2 and must have first completed the programme carry out the isolation / lockout and re-energising of Automotive Electric Vehicles
+Nissan
+Nissan Training Course
+Complying with statutory regulations and organisational safety requirements for vehicles with electric drive systems or energy storage devices
+Retired EAL unit QMVEDS2/001, which is contained within Level 2 Diploma in Manufacture of vehicles with electric drive systems
+New required
+Assessment: 
+Learning Outcomes: 
+Knowledge and skills
+On competition of unit learners will:
+1.   Use high voltage diagnostic tools to identify errors/faults in vehicle power/battery systems (19) (S) (MF)
+Suggested format:
+Lucas Nuelle offer charging  training as part of the Hybrid  and Electric Vehicle Specialist  - Charging the Vehicle unit
+Delivered globally as part of the LN electric vehicle offer
+The skills assessment would be completed in a controlled environment. The knowledge would be assessed through e-assessment multiple choice questions, with some consideration given to whether contextualisation is needed to ensure specific safety requirements manufacturer. If this is the case, this could be included via oral questioning as part of the skills assessment on component / system assembly as this is likely to be completed on manufacturer specific product)
+2.   Use battery/systems diagnostics for fault finding 
+Identifying charger types and charging the vehicle
+and trouble shooting (15) (S) (MF)
+3.   Demonstrate awareness of the characteristics of power electronics, installation, cooling, interface, connection, grounding and handling requirements (53) (K) (MF)
+Manufacturer specific training systems
+Various manufacturers
+4.   Use diagnostic in controlled environment to 
+gauge whether a system or component meets the required criteria and resolve simple faults (18) (S) (MF)
+Version: 1.4
+Created: 01/02/2021
+Revised:
+[Page #13]
+Transitioning the workforce for the green industrial revolution in transport and energy
+14
+The Opportunity for a National Electrification Skills Framework and Forum
+THE CASE FOR BATTERY MANUFACTURING
+The UK Battery Skills Framework
+WMG, University of Warwick, along with the UK Battery Industrialisation Centre (UKBIC), has researched the skills that the sector will require in order to fulfill market demands and potential.
+It is critical that the UK Battery Skills Framework supports workers to re-skill, up-skill and develop new skills to work effectively within the battery sector and explore progression opportunities in their chosen career. Where other manufacturing sectors are contracting this will provide opportunities to move across into growth areas. The flexibility of the Framework means that development opportunities can be offered as short course programmes, apprenticeships and contain embedded qualifications.
+Through engagement with industry partners the project team identified the core needs of the sector to facilitate growth. This highlighted requirements for skills that support the whole lifecycle of a battery, from cell production and pack design through to recycling and re-use.
+The 2050 Road to Zero
+As a key part of its 2050 Road to Zero strategy, the UK Government has committed to tackling climate change by reducing carbon emissionsthrough transport electrification.
+This can be achieved via re-skilling existing workforces to transition from traditional powertrain methods; up-skilling those who are already involved in the sector and, crucially, providing newly skilled workers through education and training. With gigafactory sites already planned in the North East and Midlands, it is vital to commence skill development now. In order to do this effectively, there is a need for a robust and forward-looking plan.
+This approach means that immediate skills needs can be met effectively and longer term planning can be facilitated, allowing for the pace of training and development to match that of technological progress. The Framework has been designed as a through-career pathway. For individuals, this gives the opportunity to develop themselves and further their careers. For companies, it provides a viable way of managing and developing the skills of their workforce in alignment with their business objectives. 
+The outcome of this work is the ‘UK Battery Skills Framework’. Supported by the Faraday Battery Challenge, the Framework is based on a set of key principles, including social responsibility, flexibility, industry engagement and the opportunity to progress.
+As such, the UK is in a position to set itself apart as a world leader in battery technology.
+Analysis from the Faraday Institution suggests that the UK could be producing as many as 1.4 million electric vehicles by 2040, which would elicit requirements for around 140GWh/year of battery production capacity, the equivalent of seven ‘gigafactories’ producing 20GWh/year. To meet this need, an additional 70,000 employees will need to be hired in the sector - 20,000 in gigafactories and 50,000 in the associated material supply chain.
+The aim is that this UK Battery Skills Framework is used nationwide to provide consistency and to allow the skills in the emerging battery sector to keep pace with policy and technological change.
+[Page #14]
+Transitioning the workforce for the green industrial revolution in transport and energy
+15
+The Opportunity for a National Electrification Skills Framework and Forum
+EXAMPLE PROGRAMME  - SHORT COURSES
+APPRENTICESHIP STANDARD  - LONG COURSE
+EXAMPLE PROGRAMME  - LONG COURSE
+EXAMPLE ROLE
+LEVEL (OR EQUIVALENT)
+ Smart Connected and Autonomous     Vehicle Engineer Sustainable Automotive    Electrification Engineer Engineering Business Manager
+ PGDip Smart Connected Autonomous Vehicles PGDip Sustainable Automotive Electrification PGDip Engineering Business Management 
+ST0456 Postgraduate Engineer
+ Battery technologies and applications Fundamental chemical and electrochemical    principles for batteries Battery materials and characterization Battery sustainability Battery manufacturing and testing Battery management systems
+ Sustainable Battery Engineer Software Engineer Network Engineer Data Analyst Cyber Security Specialist
+ST0023 Product Design and  
+ BEng (Hons) Applied Professional Engineer    - Sustainable Battery Engineer BSc (Hons) Digital and Technology Solutions
+Development Engineer
+ST0119 Digital and Technology  
+Solutions Professional
+Battery Manufacturing:
+ Certificate in HE First Line Management Unit Credit
+ST0685 Process LeaderST0853 Quality Practitioner
+ Team Leader Quality Manager
+Manufacturing / Maintenance Technicians:
+ Battery Health and Safety Battery Environmental Concerns Battery Fundamentals Battery Manufacturing Clean and Dry Rooms
+Either:
+ Battery Electrode and Cell Assembly Technician Battery Formation, Aging and Testing (FA&T)     Control Room Technician Maintenance Technician Battery Module and Pack Technician
+ST0250  Science Manufacturing Technician
+ BTEC L3 Certificate in Applied Science BTEC L3 Diploma in Engineering Non-qualification option
+ST0154  Maintenance and Operations  Engineering Technician
+ BTEC L2 Diploma in Manufacturing Non-qualification option
+Battery Assembly Operative
+ST0420 Lean Manufacturing Operative
+Basic awareness level
+[Page #15]
+Transitioning the workforce for the green industrial revolution in transport and energy
+16
+The Opportunity for a National Electrification Skills Framework and Forum
+POWER ELECTRONICS,  MACHINES AND DRIVES (PEMD)
+Based on the initial Scoping Project  – Identifying opportunities for manufacturing
+Energy
+Aerospace
+Rail
+Automotive
+ The energy sector will need to replace or retrain 48% of the workforce, equating to 277,000 in the next 10 years
+ Rolling stock manufacturers import power electronics for assembly in the UK
+ 1,558,493 vehicles produced in the UK in 2019. Levels are predicted to return to this by 2025
+ UK is the second largest manufacturer of aviation PEMD products
+ Skills are consolidated in the OEMs as they handle servicing as well as manufacture
+ By 2030 demand will be for a commensurate number of motors and inverters as well as charging systems for both AC and DC applications
+ Low volume, high quality/safety manufacturing environment
+ Based on industry estimations there are approximately 530,400 inverter devices on solar power installations, 48,200 on wind installations and 4,433 on the EV charging infrastructure 
+ Electrification of the lines will require investment in material and workforce with appropriate skills to install power electronics
+ Manufacturing technician skills are critical as production is not automated
+ Significant numbers of ICE engine engineers will need to be re-skilled as a result of a decline in demand
+ Skills needs tend to be filled by existing recruitment but a large volume of skilled workers come from overseas
+ The trend is for an increase in renewables and a reduction in traditional power generation
+  Skillset has commonalities with other sectors
+ Growth is likely to be low
+ Skills for energy and distribution are currently under review but will require more technician and engineer qualified workers to meet demand
+ Training is largely in house due to a lack of expertise at technician and engineer level in the UK (electrical and electronic engineering).
+ Future shift in the industry will see a move towards more automated manufacture which will increase the demand in skills related to robotics, industrialisation, software engineering and automated manufacture
+ National Skills Academy for Rail (NSAR) estimate an average need for 480 new electric trains between 2019 and 2028, however, this figure is likely to be low
+ Energy generation through renewables will require a set of “competent persons” qualifications to meet growing demand
+ Apprenticeships will be key in driving skill activities
+ Larger aviation companies appear to command a shorter timeframe from design to market than smaller companies which could impact on innovation
+ The UK has the potential to be a global leader in the design, manufacture and maintenance of wind turbines which will require a greater number of skilled workers, initially around 2,000, to staff a new facility
+ Committing to 30GW of onshore wind energy production could provide up to 31,000 skilled jobs all of whom would need some form of PEMD skills training
+[Page #16]
+17
+The Opportunity for a National Electrification Skills Framework and Forum
+Automotive Electrification
+Battery Manufacture
+PEMD scoping
+RRevamp Training
+PARTICIPATION (TO DATE SEPTEMBER 2021)
+Rugby Borough Council
+SSafran
+JJaguar Land Rover
+AAdvanced Propulsion Centre (APC) 
+EEducation Partnership North East
+Silverstone Green Energy
+JCB
+Solihull IoT
+Aerospace Growth Partnership 
+European Metals Recycling
+Solihull and Birmingham College
+Aerospace Technology Institute (ATI)
+Energy and Utility Skills
+Swindon College
+Auto Consultancy & Training Limited
+Energy Systems Catapult
+LLancaster University
+Automotive Council Skills  Working Group
+Energy UK
+Enginuity
+TTevva
+Lincoln College
+Envision – AESC
+Lotus Cars
+EVera Recruitment
+B Bentley Motors Limited
+Toyota Manufacturing UK
+MMacclesfield College
+FFaraday Battery Challenge
+Birmingham City University
+UUK Battery Industrialisation Centre (UKBIC)
+BMW
+Bosch
+Mahle
+Faraday Institution 
+Britishvolt
+Manchester Innovation Activities Hub 
+UK Research and Innovation (UKRI)
+Ford
+McLaren Automotive
+University College Birmingham (UCB)
+University of Nottingham
+CCharpak Ltd
+GGatsby Foundation 
+University of Salford
+NNational Grid
+University of the West of England
+Civil Aviation Authority
+GTG Training Ltd
+Compound Semiconductor  Application (CSA) Catapult
+National Express
+WWeston College
+National Skills Academy for Rail
+Coventry and Warwickshire Local  Enterprise Partnership (CWLEP)
+HHexcel 
+New College Durham
+Newcastle University
+WMCA Automotive Taskforce
+CPI
+Nissan Motor Manufacturing UK
+WMG, University of Warwick
+High Value Manufacturing Catapult
+North East IoT
+WMG Academies for Young Engineers
+Honda
+DDriving the Electric Revolution Challenge 
+Nottingham University
+Hyperdrive
+ZZero Carbon Futures ZPN Energy
+Driving the Electric Revolution  - Industrialisation Centre - MidlandsDuplex Business Services Ltd
+OOffshore Renewable Energy (ORE) Catapult
+IInnovate UK
+[Page #17]
+The Opportunity for a National Electrification Skills Framework and Forum
+Transitioning the workforce for the green industrial revolution in transport and energy
+September 2021
+faraday.ac.uk
+hvm.catapult.org.uk
+wmg.warwick.ac.uk

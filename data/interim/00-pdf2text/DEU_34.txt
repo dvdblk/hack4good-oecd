@@ -1,0 +1,641 @@
+[Page #0]
+2021
+    STARTUPS UND 
+  KÜNSTLICHE 
+INTELLIGENZ
+Innovation trifft Verantwortung
+1
+[Page #1]
+2021
+HERAUSGEBERBundesverband Deutsche Startups e.V.
+PARTNER UND FÖRDERERhubraum - Tech-Inkubator der Deutschen Telekom
+AUTORENDr. Alexander Hirschfeld
+Jannis Gilde
+Vanusch Walk
+Vanessa Cann 
+Prof. Dr. Jürgen Seitz
+Katharina Willbold 
+Robin Haiber
+DESIGNDina Wagasowa
+ISBN978-3-948895-10-5
+KOOPERATIONSPARTNER
+    STARTUPS UND 
+  KÜNSTLICHE 
+INTELLIGENZ
+Innovation trifft Verantwortung
+2
+3
+[Page #2]
+                     INHALTSVERZEICHNIS
+KI – MADE IN GERMANY  1.1.	 Motivation	und	Zielsetzung	1.2.	1.3.	
+01
+7779
+Innovation,	Verantwortung	und	Souveränität	Fokus	und	Methode	
+STARTUPS UND DIE KI-TRANSFORMATION KI	im	deutschen	Innovationsökosystem	2.1.	2.2.	 Mindset,	Finanzierung	und	Wachstum		2.3.	
+11111821
+02
+Diversität	im	KI-Ökosystem	
+KI IN WIRTSCHAFT UND GESELLSCHAFT Unternehmertum	und	Datenschutz	3.1.	Vertrauen	als	Voraussetzung	für	KI-Innovationen	3.2.	Regulierung	als	Faktor	im	KI-Ökosystem	3.3.	
+25252629
+03
+POTENZIALE IN FORSCHUNG  UND ETABLIERTER WIRTSCHAFT 4.1.	4.2.	4.3.	
+33
+04
+F&E-Stärke	und	Gründungsförderung	als	Basis	für	KI-Startups	Forschungstransfer	stärken	und	Netzwerke	nutzen	Synergien	mit	der	etablierten	Wirtschaft	
+333639
+DIGITALE SOUVERÄNITÄT 
+43
+05
+	Literatur	
+46
+4
+1
+[Page #3]
+Ein	zentraler	Aspekt,	den	wir	in	diesem	Zusammenhang	schnell	und	umfassend	adressieren	müssen,	betrifft	die	Diversität	und	insbesondere	das	Geschlecht:	Wir	brauchen	mehr	Frauen	im	KI-Sektor!	Denn	Frauen	in	der	KI	zu	stärken	bedeutet,	bei	der	Entwicklung	neuer	Technologien	die	Gesellschaft	in	ihrer	gesamten	Breite	einzubinden	und	in	Sachen	Talente	aus	dem	Vollen	zu	schöpfen.	Eine	so	wirk-mächtige	Technologie	wie	KI	stellt	besondere	Anforderungen	an	unsere	digitale	Verantwortung	–	Vielfalt	bei	denjenigen,	die	sie	gestalten	ist	uns	deshalb	ein	zentrales Anliegen.
+Wir	hoffen,	mit	unserer	Studie	die	entsprechenden	Impulse	zu	setzen	und	wün-schen eine spannende Lektüre.
+Claudia Nemat,	Vorständin	für	Technologie	&	Innovation	Deutsche	Telekom	AG	Christian Miele,	Vorstandsvorsitzender	Bundesverband	Deutsche	Startups	e.	V.
+VORWORT
+Für	43	%	der	Startups	in	Deutschland	hat	KI	einen	deutlichen	Einfluss	auf	ihr	Geschäftsmodell.	Das	zeigt,	welche	zentrale	Rolle	innovative	Jungunternehmen	beim	Transfer	dieser	digitalen	Schlüsseltechnologie	in	die	Praxis	spielen.	Eine	wei-tere	wichtige	Erkenntnis:	Hier	kann	Großes	entstehen!	Gründerinnen	und	Gründer	im	KI-Sektor	bringen	genau	das	mit,	was	wir	im	Kontext	der	Digitalisierung	und	wirtschaftlichen Transformation dringend brauchen – Risikobereitschaft und die Fähigkeit,	groß	zu	denken.	Ehrgeizige	Unicorn-Bewertungsziele	sind	bei	den	KI-Startups	nämlich	doppelt	so	häufig	anzutreffen	wie	im	gesamten	Startup-Sektor.Das	macht	Mut!	Denn	Startups	sind	nicht	nur	Wirtschaftsfaktor,	sondern	haben	auch	eine	immense	gesellschaftliche	Bedeutung.	Als	„schnelle“	Unternehmen	sind	sie	ein	elementarer	Faktor	auf	unserem	Weg	zu	mehr	digitaler	Souveränität	in	Europa.	Wenn	wir	Europäer	im	Bereich	KI	nicht	vorne	dabei	sind,	dann	verlie-ren	wir	die	Möglichkeit,	ganz	entscheidende	Technologien	und	Geschäftsfelder	mitzugestalten.	Deshalb	gilt	es,	die	Kapitalausstattung	von	Startups,	gerade	im	KI-Sektor,	deutlich	zu	verbessern	–	vor	allem	mit	Blick	auf	strategische	und	VC-In-vestitionen.	Hier	sind	vor	allem	die	USA	und	Israel	Benchmarks.
+Wenn	wir	im	Bereich	KI	an	einem	Strang	ziehen,	haben	Deutschland	und	Europa	die	Chance,	eine	Führungsrolle	einzunehmen:	Mit	dem	Fokus	auf	eine	menschen-zentrierte KI schaffen wir – auch im internationalen Wettbewerb – ein klares Pro-fil.	Nun	heißt	es,	Verantwortung	und	Innovation	gleichermaßen	voranzubringen,	um	diesen	USP	zu	nutzen.	Denn	für	Kundinnen	und	Kunden	ebenso	wie	für	Unter-nehmen	werden	Ethik	und	Vertrauen	im	Bereich	KI	immer	wichtiger.	
+2
+3
+[Page #4]
+REGULIERUNG SPALTET Immerhin	47	%	der	befragten	Startups	bewerten	eine	europäische	KI-Regulie-rung	mit	Blick	auf	die	Herstellung	von	Vertrauen	und	eines	europäischen	USP	positiv.	Insbesondere	rechtliche	Unsicherheiten	und	Fragen	der	praktischen	Umsetzbarkeit	stellen	KI-Startups	jedoch	vor	große	Herausforderungen.			
+                      KERNERGEBNISSE
+06
+FORSCHUNGSTRANSFER IST ELEMENTARMit	einem	Anteil	von	33	%	spielen	universitäts-	und	forschungsnahe	Gründun-gen im KI-Bereich eine zentrale Rolle. Im internationalen Vergleich ist Deutsch-land	beim	Thema	Ausbildung	–	etwa	bei	KI-spezifischen	Studiengängen	–	und	Transfer aber noch schwach aufgestellt. 
+STARTUPS BRINGEN KI IN DIE PRAXISDie	Technologie	hat	für	43	%	der	deutschen	Startups	einen	klaren	Einfluss	auf	ihr	Geschäftsmodell	und	KI-Startups	sind	Vorreiter	in	den	Bereichen	Industrie	4.0	und	Internet	of	Things.	Das	macht	sie	in	der	Zusammenarbeit	mit	der	etab-lierten	Wirtschaft	zu	einem	der	treibenden	ökonomischen	Faktoren.
+07
+01
+KI-STARTUPS DIGITALISIEREN UNSERE INDUSTRIEMit	Blick	auf	Wertschöpfung	und	Reife	der	Lösungen	von	KI-Startups	liegt	das	größte	Potenzial	in	Deutschland	bei	industriellen	Anwendungen.	Doch	dafür	braucht	es	auch	entsprechende	Unternehmensdaten	–	so	wünschen	sich	64	%	der	KI-Startups	hier	bessere	Zugänge.
+KI-STARTUPS DENKEN GRÖSSER17	%	der	jungen	KI-Unternehmen	haben	das	Ziel,	eine	Unternehmensbewer-tung	von	über	1	Milliarde	Euro	zu	erreichen,	gegenüber	nur	9	%	im	gesamten	Ökosystem	–	zudem	wollen	sie	häufiger	an	die	Börse.	Im	weltweiten	Wett-bewerb	um	Unicorns	und	Tech-Champions	nehmen	KI-Startups	eine	führende	Rolle ein.        
+08
+02
+ZU WENIG KAPITAL In	den	USA	wird	im	Vergleich	zu	Deutschland	aktuell	pro	Kopf	das	10-Fache,	in	Israel	sogar	das	19-Fache	in	KI-Startups	investiert.	Besonders	groß	ist	der	Bedarf	bei	strategischen	und	VC-Investitionen,	woran	die	Zurückhaltung	der	deutschen Wirtschaft gegenüber KI und Deep-Tech sichtbar wird.  
+03
+FRAUEN STARK UNTERREPRÄSENTIERTDer	Anteil	an	Gründerinnen	im	KI-Sektor	liegt	bei	nur	12	%	und	damit	klar	unter	dem	Durchschnitt	im	Startup-Ökosystem	(18	%)	–	ein	ähnliches	Bild	zeigt	sich	bei	den	Beschäftigten	(29	vs.	38	%).	Diese	Schieflage	muss	sich	mit	Blick	auf	die	Themen	Talente	und	Partizipation	ändern.				
+04
+KI MIT VERANTWORTUNGZur	Notwendigkeit	ethischer	Leitlinien	besteht	unter	deutschen	KI-Startups	ein	Grundkonsens.	88	%	wollen	gesellschaftliche	Verantwortung	übernehmen	und	81	%	finden,	dass	ethische	Fragen	auch	bei	der	Entwicklung	der	Technologie	berücksichtigt werden müssen. 
+05
+44
+5
+[Page #5]
+           1. KI – MADE IN GERMANY
+sozialen	Netzwerken,	bereits	kennen	–	am	Ende	nützt	es	dann	wenig,	auf	eigene	Werte	und Leitlinien zu pochen. 
+1.1. MOTIVATION UND ZIELSETZUNG
+Voicification,	Personalisierung	der	Bildung	oder die Optimierung von Produktionslinien und	Energiesystemen	und	viele	weitere	An-wendungen der Künstlichen Intelligenz sind in der Praxis angekommen und treiben die nächste	Welle	der	digitalen	Transformation	voran. Ob Videokonferenz-Tool oder Cloud-Service,	die	Corona-Pandemie	hat	zugleich	den	europäischen	Rückstand	bei	digitalen	Lösungen	in	der	breiten	Öffentlichkeit	in	den	Fokus	gerückt	–	Stichwort:	digitale	Souveräni-tät.	Doch	wie	können	wir	KI-Innovationen	in	Deutschland	und	Europa	selbst	gestalten	und	unser	Ökosystem	stärken,	um	diesen	Entwick-lungsschub noch besser für uns zu nutzen? Neben	dem	Blick	auf	die	großen	Potenziale	der	KI	muss	auch	berücksichtigt	werden,	dass KI-Anwendungen Ausgangspunkt unter-schiedlicher gesellschaftlicher Herausforde-rungen sind – vom Thema Datenschutz bis hin zu	Problemen	der	Diskriminierung.	Hier	gilt	es,	Verantwortung zu übernehmen und Vertrauen zu schaffen.
+Dieser	Entwicklung	entgegenzuwirken	bedeu-tet,	Deutschland	als	innovativen	KI-Standort	zu	stärken	und	dabei	die	gesellschaftlichen	Herausforderungen der Technologie einzube-ziehen.	Ziel	der	vorliegenden	Studie	ist	es,	die	dafür entscheidenden Bedingungen heraus-zuarbeiten	und	den	Mehrwert	von	KI-Anwen-dungen durch praktische Beispiele zu illus-trieren. Der Blick richtet sich dazu dezidiert auf	KI-Startups,	den	wichtigsten	Indikator	wirtschaftlicher und gesellschaftlicher Trans-formation.	Dabei	wird	an	die	2020	veröffent-lichte	Studie	„Künstliche	Intelligenz:	Wo	stehen deutsche Startups?“ angeknüpft und Entwicklungsmöglichkeiten	für	die	Weiter-entwicklung	des	Ökosystems	in	den	Fokus	gerückt:	Wie	können	wir	deutsche	KI-Start-ups im internationalen Wettbewerb weiter voranbringen?	Was	sind	die	Faktoren,	die	für	die	Entwicklung	des	Ökosystems	entschei-dend	sind?	Und	welche	Rolle	spielen	dabei	die	Themen	Ethik,	Regulierung	und	digitale	Souveränität?	
+Es	ist	elementar,	zu	verstehen,	wie	eng	Inno-vation und Verantwortung im Bereich KI mitei-nander verbunden sind. Wenn in Deutschland und	Europa	in	den	kommenden	Jahren	keine	international	wettbewerbsfähigen	KI-Lösun-gen	entstehen,	dann	wird	man	diesen	Bereich	auch nicht mitgestalten. Stattdessen ergeben sich	einseitige	Abhängigkeiten,	wie	wir	sie	in	vielen	Bereichen	der	Digitalwirtschaft,	etwa	bei	Suchmaschinen,	Online-Plattformen	und	
+1.2. INNOVATION, VERANTWORTUNG UND SOUVERÄNITÄT
+Um	sich	die	wirtschaftliche	und	gesellschaft-liche	Bedeutung	von	KI	vor	Augen	zu	führen,	lohnt	es	sich,	das	Konzept	kurz	zu	skizzieren.	
+77
+6
+[Page #6]
+Im	Bereich	KI	geht	es	um	die	Entwicklung	von	Modellen,	die	Fähigkeiten	besitzen,	die	üblicherweise	dem	Menschen	zugeschrieben	werden:	Dazu	zählen	Lernen,	Logik	und	in	Ex-tremfällen	sogar	abstraktes	Denken.	Sehr	fort-geschrittene	KI-Modelle	existieren	beispiels-weise	im	Bereich	des	Language-Modellings,	mit	denen	auf	Grundlage	der	Analyse	umfas-sender Daten von der KI selbst Text produziert und	Fragen	beantwortet	werden	können.
+Entwicklung	bei.	Neben	dem	Entstehen	neuer	Geschäftsfelder	ist	dabei	der	positive	Effekt	auf	die	Produktivität	hervorzuheben,	der	sich	aus der zunehmenden Automatisierung und höheren	Zuverlässigkeit	von	Systemen	ergibt.	Diese	Effizienzsteigerung	zeigt	sich	in	der	physischen	Produktion	ebenso	wie	im	Feld	wissensbasierter	Tätigkeiten	–	beispielsweise	bei	der	Arbeit	mit	Forschungs-	oder	Kunden-daten.	Modellrechnungen	gehen	davon	aus,	dass	das	jährliche	globale	Wirtschaftswachs-tum	dadurch	bis	2030	im	Durchschnitt	um	über einen Prozentpunkt gesteigert werden kann	(McKinsey	Global	Institute	2018,	PwC	2018).	KI	kann	damit	nach	dem	Dämpfer	
+KI	löst	relevante	gesellschaftliche	Probleme	–	etwa	im	Bereich	der	medizinischen	Diagnostik	–,steigert	die	Effizienz	industrieller	Produktion	und	trägt	damit	enorm	zur	wirtschaftlichen	
+Beispielen	wie	der	polizeilichen	Nutzung	von	Gesichtserkennungssoftware,	die	in	manchen	Ländern	bereits	eingesetzt	wird.	Verhaftungen	Unschuldiger	auf	Grundlage	falsch-positiver	Datenabgleiche	haben	dort	zu	Kritik	geführt,	gerade	auch,	da	höhere	Fehlerraten	insbe-sondere	ethnische	Minderheiten	treffen	und	damit	bestehende	Formen	der	Diskriminie-rung	reproduziert	oder	sogar	verstärkt	werden	
+(New	York	Times	2021).	Daneben	stellt	sich	die	grundlegende	Frage	nach	der	Legitimität	staatlicher	und	wirtschaftlicher	Eingriffe	in	Persönlichkeitsrechte.	Hier	wird	deutlich,	wie	wichtig	eine	zielgerichtete	Regulierung	ist,	die berechtigte gesellschaftliche Vorbehalte aufgreift	und	gleichzeitig	der	großen	Mehrheit	unkritischer	KI-Anwendungen	das	nötige	Ver-trauen verschafft.
+Abb. 1: Wirtschaftliche Bedeutung Künstlicher Intelligenz
+ERWARTETES ZUSÄTZLICHES WACHSTUM DURCH KI (IN BILLIONEN US-DOLLAR)
++15,7 Billionen US-Dollar
+130
++13 Billionen US-Dollar
+120
+110
+100
+90
+80
+2019        2020        2021        2022        2023        2024        2025        2026        2027        2028        2029        2030
+Indikator für den wirtschaftlichen und gesell-schaftlichen	Fortschritt	im	KI-Sektor.	
+1.3. FOKUS UND METHODE
+  Wachstum ohne KI 
+                  KI-Wachstum PwC   
+             KI-Wachstum McKinsey
+Kernthemen dieser Studie sind die Ver-bindung von Innovation und Vertrauen und die	Bedingungen	dafür,	in	Deutschland	ein	leistungsfähiges	KI-Ökosystem	zu	schaffen.	Wie	in	unserer	letztjährigen	Veröffentlichung	„Künstliche	Intelligenz:	Wo	stehen	deutsche	Startups?“	liegt	der	Fokus	dabei	erneut	auf	jungen innovativen Wachstumsunternehmen. Denn Startups bringen innovative Produkte und	Lösungen	schnell	in	die	Praxis,	setzen	sich früh mit ethischen Herausforderungen auseinander und bilden daher einen zentralen 
+Für	die	positive	Entwicklung	des	KI-Ökosys-tems	braucht	es	ein	erfolgreiches	Zusammen-spiel	von	Startups,	Forschung	und	etablierter	Wirtschaft.	Gründungsdynamik	und	-qualität	hängen	stark	von	den	Bedingungen	in	der	Startup-Szene	ab,	unter	anderem	mit	Blick	auf	die	Themen	Finanzierung	und	Mindset	(Kapitel	2).	Darüber	hinaus	profitieren	KI-Startups von einem engen Austausch mit der Wissenschaft	–	Schlagworte:	Ausgründung	und	Fachkräfte	–	und	von	strategischen	Ko-
+Quelle: McKinsey Global Institute (2018) & PwC (2018)
+durch die Corona-Pandemie zu einem zentra-len Wachstumstreiber werden.Mit	dem	zunehmenden	Einsatz	von	KI-Anwen-dungen gewinnen auch die gesellschaftlichen Konsequenzen	der	Technologie	an	Bedeutung.	Das	gilt	insbesondere	dann,	wenn	Entschei-
+dungen	getroffen	werden,	die	sich	unmittel-bar	auf	Menschen	auswirken.	Daher	stellen	sich	im	Kontext	von	KI	immer	häufiger	auch	Fragen	zum	Datenschutz	und	zu	staatlichen	Vorgaben	im	Umgang	mit	der	Technologie.	Angetrieben wird die Debatte von extremen 
+8
+9
+[Page #7]
+operationen mit der etablierten Wirtschaft (Kapitel	4).	Neben	diesen	drei	Dimensionen	des	Ökosystems	spielen	gerade	beim	Thema	KI die gesellschaftlichen und regulatorischen Rahmenbedingungen und damit verbunden das	Vertrauen	der	Nutzerinnen	und	Nutzer	eine	maßgebliche	Rolle	(Kapitel	3).
+kann	hier	auf	Informationen	von	etwa	2.000	Startups	und	rund	440	mit	KI-Fokus	zurück-gegriffen werden – darunter wurden alle be-fragten	Unternehmen	zusammengefasst,	die	angegeben	haben,	dass	KI	einen	sehr	großen	Einfluss	auf	ihr	Geschäftsmodell	hat1 . Darüber hinaus	fließen	Daten	unterschiedlicher	Quel-len	in	die	Analyse	ein,	insbesondere	solche,	die	ein	internationales	Benchmarking	ermögli-chen	–	wie	etwa	der	Stanford	AI	Index	(Zhang	et	al.	2021)	und	Daten	des	Projekts	„What	can	AI	do	for	me?“	(Seitz	et	al.	2021).	
+              2. STARTUPS UND DIE KI-TRANSFORMATION
+Eine	der	zentralen	Datenquellen	der	Studie	ist	der	Deutsche	Startup	Monitor	(DSM)	2021	(Kollmann	et	al.	2021),	dessen	Daten	die	Identifizierung	von	KI-Startups	und	eine	ge-sonderte	Neuanalyse	ermöglichen.	Insgesamt	
+KI-Startups sind zentrale Innovationstreiber in Zukunftsfeldern	wie	Industrie	4.0	und	Internet	of	Things	(IoT).	Denn	für	die	Verarbeitung	und	Nutzung	großer	Datenmengen,	die	vernetzte	und intelligente Industrie- und IoT-Anwendun-gen	benötigen,	sind	leistungsfähige	Algo-rithmen	unerlässlich.	Der	starke	Bezug	der	KI-Startups zu diesen beiden Sektoren zeigt sich	klar	in	den	DSM-Daten.	Die	Analyse	der	Geschäftsmodelle	unterstreicht	den	Tech-Fo-kus der KI-Startups und ihre Relevanz für die etablierte	Wirtschaft:	So	dominieren	wie	auch	im	Vorjahr	klar	SaaS,	Software-	und	Technolo-gieentwicklung gegenüber klassischen digita-len	Geschäftsfeldern	wie	Online-Plattformen	und	E-Commerce.	Die	zentrale	Bedeutung	von	Telekommunikationstechnologien verweist dabei	auf	die	hohe	Relevanz	der	Netzinfra-struktur	für	KI-Unternehmen.	Gegenüber	den	Vorjahren	bleiben	die	Branchen	Fertigung,	Transport	und	Mobilität	sowie	Gesundheit	weiter auf Wachstumskurs – von Robotik über Maschinenüberwachung	zu	autonomen	Fahr-zeugen oder Diagnosesoftware decken diese Startups	diverse	Anwendungen	ab	(appliedAI	2021).	
+2.1. KI IM DEUTSCHEN INNOVATIONSÖKO-SYSTEM
+KI setzt sich als Schlüsseltechnologie der Di-gitalisierung auch in Deutschland zunehmend durch	–	vor	allem	im	Startup-Ökosystem.	Diese	Entwicklung	unterstreichen	die	DSM-Daten:	Bis	2020	wuchs	die	Bedeutung	von	KI stetig und liegt nun auf einem konstanten Niveau	von	knapp	43	%	(Abb.	3).	Damit	kann	KI immer mehr als eine Querschnittstechno-logie	angesehen	werden,	mit	der	fast	jedes	Unternehmen	–	unabhängig	von	Branche	oder	Geschäftsmodell	–	Berührungspunkte	hat.	Dass wir nach dem Anstieg der letzten Jahre nun	erstmals	eine	Stagnation	beobachten,	ist	aber	auch	ein	Warnsignal:	Denn	während	der	Bedarf	nach	KI	weiter	steigt,	sind	Stand-ortbedingungen	für	Neugründungen	in	vielen	Ländern	deutlich	besser	als	in	Deutschland.	Zudem	stellt	die	Dominanz	internationaler	Konzerne	KI-Startups	hierzulande	vor	große	Herausforderungen.
+Abb. 2: Konzeptioneller Rahmen
+Wissenschaft: Forschung & Fachkräfte
+Leitlinien:  Regulierung & Zertifizierung
+Kultur:  Ethik & Vertrauen
+KI-ÖKOSYSTEM
+Gründungen: Intra-& Entrepreneurship
+Etablierte Unternehmen:Entwicklungsprojekte & Auftraggebende
+1)	Alle	im	Folgenden	genannten	Zahlen,	die	nicht	anderweitig	gekennzeichnet	sind,	beruhen	auf	den	Daten	des	Deutschen	Startup	Monitors.
+1111
+10
+[Page #8]
+Das autonome Fahren wird zum größten Teil in Simulationen getestet – bisher meistens in Szena-rien ähnlich der Autobahn, die weit weniger kom-plex sind als der Verkehr in Innenstädten. Für ein hohes Maß an Sicherheit sind aber Situationen entscheidend, in denen Unerwartetes passiert – wenn zu Fuß gehende zum Beispiel plötzlich auf die Straße treten. Hier setzen wir an und entwi-ckeln mithilfe von Künstlicher Intelligenz Modelle, die genau das berücksichtigen.“
+Abb. 3: Einfluss von KI auf das Geschäftsmodell 
+deutscher Startups
+   42,8 %
+   42,7 %
+   40,4 %
+   35,5 %
+24,4 %
+23,1 %
+22,1 %
+16,1 %
+MARIA MEIER, Co-Founder & CTO Phantasma Labs
+Schon in meiner beruflichen Tätigkeit vor der Grün-dung von AiSight habe ich gesehen, welche Heraus-forderungen Unternehmen haben, Predictive Mainte-nance in ihren Produktionslinien zu implementieren. Mit unserem Sensorkit und der dazugehörigen Software bieten wir mit AiSight unseren Kundinnen und Kunden eine einfach einsetzbare Lösung zur Zustandsüberwachung und vorausschauenden Instandhal-tung von Industrieanlagen – etwas, das in der Vergangenheit oft komplex und teuer war. Dabei konnten wir seit unserer Gründung 2018 sowohl mittelständische Unternehmen als auch Großkon-zerne von unserer Lösung überzeugen und dabei unterstützen, ihre Produktionsprozesse weiter zu optimieren.“
+19,4 %
+19,6 %
+18,3 %
+18,4 %
+DSM	2018
+DSM	2019
+DSM	2020
+DSM	2021
+Eigene Auswertung Deutscher Startup Monitor 
+Großen Einfluss 
+                   Sehr großen Einfluss
+2018-2021
+MATTHIAS AUF DER MAUER, Founder & CEO AiSight
+Mit unserem Startup Zana möchten wir KI- und Sprachtechnologie in die Anwendung im Gesund-heitswesen bringen. Dabei bewegen wir uns mit 
+unseren Angeboten in einem Sektor, der schon heute stark reguliert ist. Gerade für junge KI-Startups ist es eine große Herausforderung, die angekündigte KI-Regulierung, aber auch Datenschutzregeln und die schon bestehenden Vorgaben im Gesundheitsbereich gleichermaßen zu überblicken und zu erfüllen. Für uns ist es daher wichtig, dass nicht neue Hürden beim Markteintritt geschaffen werden, sondern wir einen Weg finden, Regulierungen zusammenzuführen, Prozesse zu be-schleunigen und so mehr jungen Unternehmen Chancen zu bieten.“
+DR. JULIA HOXHA, Co-Founder & CEO Zana
+12
+13
+[Page #9]
+Wir sehen bei KI eine unglaubliche Dynamik, stark getrieben von den großen Digitalunternehmen. Gleichzeitig gibt es auch viele Open-Source-Ent-
+Abb. 4: KI-Startups & Technologien
+SEHR GROSSER EINFLUSS AUF DAS GESCHÄFTSMODELL
+wicklungen, die gerade kleineren und jungen Unternehmen den Einsatz von KI ermöglichen. Für uns ist eines der spannendsten KI-Anwendungsfelder aktuell die Kundeninteraktion und die Individualisierung der Kundenerfahrungen – etwa im Feld Voi-cification. Es geht uns darum, mithilfe von KI für jede Kundin und jeden Kunden maßgeschneiderte Dialoge, Produkt- und Dienstleistungserfahrungen anbieten zu können. Dabei ist uns der vertrauensvolle und transparente Umgang mit den Daten unserer Kundinnen und Kunden besonders wichtig.“
+33,8 %
+32,5 %
+31,4 %
+23,8 %
+17,0 %
+14,9 %
+JAN HOFMANN, VP Top Program Lead AI Deutsche Telekom
+KI-Startups      Startups
+KI-Startups     Startups
+KI-Startups     Startups
+Industrie	4.0
+Internet of Things
+  Telekommunikation
+Eigene Auswertung Deutscher Startup Monitor 2021
+Was Roboter in der Industrie zukünftig können,	zeigt	die	jüngst	zum	Unicorn	auf-gestiegene Ausgründung Agile Robotics aus München:	Die	Kombination	moderner	Senso-ren und optimierter Software soll die Indus-trie-Robotik	mit	Hilfe	von	KI	auf	die	nächste	Stufe	heben.	Gerade	der	Bereich	Industrie	4.0	ist für KI-Startups in Deutschland besonders potenzialreich.	Während	Innovationsprozesse	in der etablierten Wirtschaft aufgrund starrer Strukturen	und	des	Fokus	auf	bestehende	Geschäftsmodelle	Jahre	oder	sogar	Jahr-zehnte	in	Anspruch	nehmen,	setzen	Startups	Neues	wesentlich	schneller	und	umfassender	
+um. Diese Geschwindigkeit und das disruptive Potenzial sind entscheidende Wettbewerbs-faktoren in der digitalen Transformation. Die damit verbundene wirtschaftliche Bedeutung zeigt	sich	bereits	heute:	So	arbeiten	aktuell	rund	415.000	Menschen	in	Deutschland	in	Startups	und	Scaleups,	was	etwa	1	%	der	Gesamtbeschäftigung	entspricht.	Auf	die	zukünftigen Potenziale verweist der Anstieg um	55	%	in	den	letzten	beiden	Jahren	und	der	Vergleich	zu	den	USA,	wo	bereits	gut	8	%	der	Beschäftigten	in	diesem	Sektor	arbeiten	(Roland	Berger	et	al.	2021).	
+14
+15
+[Page #10]
+mit	einer	Finanzierung	in	Höhe	von	175	Mio.	US-Dollar	durch	SoftBank	jüngst	für	Auf-merksamkeit.	Europa	und	Deutschland	liegen	sowohl	bei	der	Forschung	zu	entsprechenden	Technologien	als	auch	bei	der	Umsetzung	in	funktionierende	Geschäftsmodelle	weit	hinter	diesen	großen	internationalen	Wettbewer-bern	zurück	(Schmid	et	al.	2021).Gleichzeitig zeigt sich auch im DACH-Raum in	Sachen	EdTech	jüngst	Bewegung:	Eines	der	bekanntesten deutschen Startups in diesem Feld	ist	StudySmarter,	das	durch	umfassende	Kooperationen mit Lehrbuch-Verlagen und Schulen	ein	fächerübergreifendes	Angebot	im Bereich des adaptiven Lernens bietet. 
+In	Österreich	ist	mit	GoStudent	nach	einer	hohen	Series-C-Finanzierungsrunde	im	Juni	2021	nun	sogar	das	bisher	erste	europäische	EdTech-Unicorn	beheimatet.	Während	andere	EdTech-Startups	mit	dem	Begriff	KI	in	der	Öffentlichkeit	eher	vorsichtig	umgehen,	wirbt	GoStudent	explizit	mit	dem	Ziel,	den	Online-Nachhilfeunterricht	mithilfe	von	KI	transpa-renter als bisher zu gestalten. Dazu werden sowohl Schülerinnen und Schüler als auch die	Lehrenden	gefilmt	und	auf	Grundlage	von	Emotionen	dahingehend	analysiert,	was	einen	erfolgreichen	Unterricht	auszeichnet.	
+                     FALLBEISPIEL: KI IN DER BILDUNG
+Von	den	weltweit	7,2	Milliarden	Euro	VC-In-vestments	im	ersten	Halbjahr	2021	flossen	aber	nur	105	Millionen	Euro	nach	Deutschland	(Dealroom	2021b).	Doch	gerade	diese	Start-ups	treiben	Innovationen	voran,	indem	sie	re-levante technologische Trends aufgreifen und für	den	Bildungssektor	zugänglich	machen.	Eine	zentrale	Rolle	spielt	dabei	der	Einsatz	von	KI-Lösungen.	
+Von	einem	auf	den	anderen	Tag	kein	Präsenz-unterricht mehr – die Corona-Pandemie hat unser	Bildungssystem	erheblich	gefordert:	Plötzlich	brauchte	es	flächendeckend	virtu-elle	Klassenräume,	Lehrerinnen	und	Lehrer	mussten	sich	auf	neue	Formate	einstellen	und	Familien	wurden	in	ihrem	Alltag	vor	enorme	Herausforderungen gestellt. Doch was aus dieser	Zeit	wird	bleiben?	Seit	langem	gilt	das	personalisierte Lernen als Ideal im Klassen-zimmer.	Angesichts	großer	und	meist	hetero-gener	Gruppen	ist	die	Umsetzung	jedoch	eine	echte Herausforderung. Digitale Angebote können	hier	helfen,	den	Bildungsalltag	zu	ver-bessern,	sei	es	durch	individualisierte	Lern-formen,	organisatorische	Unterstützung	oder	örtliche	sowie	zeitliche	Flexibilisierung.		
+Bei der Digitalisierung der Bildung haben wir in Deutschland weiterhin einen immensen Aufhol-bedarf – auch weil viel zu spät angefangen wurde, 
+Die	Möglichkeiten,	KI-Technologien	in	der	Bil-dung	zu	nutzen,	konzentrieren	sich	vor	allem	auf das individualisierte und adaptive Lernen. Dabei werden neben Text- zunehmend auch Sprach-	und	Bilddaten	genutzt,	was	neue	Anwendungsgebiete	eröffnet	–	etwa	beim	Erstellen	von	Grafiken	in	der	Mathematik	und	den	Naturwissenschaften.	Darüber	hinaus	existieren	auch	bereits	Anwendungen,	die	Mimik,	Gestik	und	Verhalten	der	Lernenden	in	den Prozess mit einbeziehen. Gerade in die-sem	Feld	wird	das	Thema	Ethik	und	die	Frage	nach den Grenzen von KI im Bereich Bildung höchst	relevant	–	Transparenz	und	Vertrauen	sind	dabei	entscheidende	Faktoren.	
+das Thema ernst zu nehmen. Nicht nur digitale Lernmittel fehlen, sondern vor allem auch die notwendigen Kompetenzen. In der Corona-Krise wurde das schonungslos offengelegt und es kam am Ende auf die einzelne Lehrkraft an, wie schnell und umfassend umgestellt werden konnte. Um unser Bildungssys-tem in der Zukunft gut aufzustellen, müssen wir Innovationen, auch solchen mit Zukunftspotenzial wie KI, offener begegnen und Neues ausprobieren. Das heißt aber nicht, Risiken zu ignorieren, sondern die Wirkung digitaler Angebote umfassend zu bewerten. Ein Fokus sollten dabei die pädagogisch-didakti-schen Konzepte sein, die wir digital unterstützen wollen.“
+Bei	der	Entwicklung	und	dem	Einsatz	dieser	neuen Anwendungen liegen wir in Deutsch-land	allerdings	weit	zurück,	was	in	der	Corona-Pandemie mehr als deutlich wurde. Dabei sind auch die wirtschaftlichen Potenziale digitaler Anwendungen	im	Bildungsbereich	enorm:	An-gebote	und	Nutzung	sind	international	in	den	letzten Jahren rasant gewachsen und aktuelle Schätzungen	zeigen,	dass	das	Marktvolumen	im	Bereich	Education-Tech	von	aktuell	knapp	230	bis	2025	auf	über	400	Milliarden	US-Dol-lar	steigen	wird	(Dealroom	2021b).	
+DR. EKKEHARD WINTER, Geschäftsführer Deutsche Telekom Stiftung
+International	sind	auch	hier	China	und	die	USA	führend.	Prominentes	Beispiel	ist	der	2014	gegründete	chinesische	Anbieter	SquirrelAI,	in	dessen	Nachhilfezentren	nach	eigenen	Angaben	über	10	Millionen	Schülerinnen	und Schüler bis zur landesweiten Hochschul-zulassungsprüfung geführt werden. Auch das	südkoreanische	Startup	Riiid,	das	Stand	heute	knapp	2,5	Millionen	Menschen	auf	die	Englischprüfung	TOEIC	vorbereitet,	sorgte	
+Diesen Wachstumsmarkt entdecken auch Startups	immer	stärker:	Weltweit	gibt	es	in	diesem	Sektor	inzwischen	37	Startups,	die	den	Unicorn-Status	erreicht	haben	–	über-wiegend	aus	den	USA	(20)	und	China	(14).	
+1616
+1717
+[Page #11]
+hat	das	Ziel,	eine	Bewertung	von	über	einer	Milliarde	Euro	zu	erreichen.	Bemerkenswert	ist	außerdem,	dass	35	%	der	exit-orientierten	KI-Startups	(25	%	Startups	allgemein)	einen	Börsengang	als	mögliches	Exit-Szenario	vor	Augen	haben.	Auch	für	das	Ökosystem	insge-samt	ist	das	eine	gute	und	wichtige	Nachricht,	denn genau hier kann der Wunsch nach mehr deutschen	Tech-Champions	Realität	werden.
+2.2. MINDSET, FINANZIERUNG UND WACHSTUM
+Neben	der	klaren	Ausrichtung	auf	Deep-Tech-Anwendungen zeichnen sich die Gründerin-nen und Gründer der KI-Startups durch ein ambitioniertes	Mindset	aus.	Sie	streben	we-sentlich	häufiger	einen	Exit	an	als	Startups	im	Allgemeinen	und	denken	dabei	größer	–	fast	jedes	fünfte	der	befragten	KI-Unternehmen	
+Abb. 5: Exit- und Unicorn-Ambitionen
+           28,1 %
+ Kein	Exit	angestrebt
+    41,4 %
+     30,6 %                          34,2 %
+unter	100	Mio.	Euro
+  24,1 %
+100	Mio.	Euro	bis	unter	1	Mrd.		Euro
+         15,9 %
+           17,2 %
+über	1	Mrd.		Euro
+    8,6 %
+Eigene Auswertung Deutscher Startup Monitor 2021
+KI-Startups 
+      Startups
+Dass	die	dargestellten	Erwartungen	keine	Luftschlösser	sind,	zeigen	die	steigenden	Investitionssummen und die damit verbunde-nen	Unternehmensbewertungen.	So	konnte	das	KI-Startup	Celonis	im	Juni	2021	die	bis-herige	Rekordfinanzierung	in	Höhe	von	1	Milliarde	US-Dollar	realisieren	und	stieg	mit	der	Bewertung	von	11	Milliarden	US-Dollar zum ersten deutschen Decacorn auf. Vor dem Hintergrund der generell positiven 
+Entwicklung	im	Bereich	Finanzierung	lässt	sich	mit	den	DSM-Daten	ein	differenziertes	Bild	der	Finanzierungssituation	von	KI-Start-ups	darstellen	(Abb.6):	Hervorzuheben	ist	die	breite	staatliche	Förderung,	die	in	den	frühen	Phasen relevant ist und von der fast jedes zweite	Unternehmen	profitiert.	Mit	Blick	auf	die	erhaltene	Wachstumsfinanzierung	in	Form	von Wagniskapital liegen die KI-Startups aller-dings nur leicht über dem allgemeinen Schnitt. 
+18
+19
+[Page #12]
+Hinzu	kommt,	dass	die	Finanzierungslücke,	also die Differenz zwischen bevorzugtem und erhaltenem	Kapital,	höher	ausfällt.	Das	bedeu-
+tet,	dass	sich	die	größeren	Wachstumsambi-tionen	der	KI-Startups	nicht	in	gleichem	Maße	in den Investments widerspiegeln. 
+Märkte	beschränken.	Die	Themen	Wachstum	und Internationalisierung werden damit viel 
+seltener adressiert und vorhandene Potenziale somit	nicht	ausgeschöpft.
+Abb. 7: KI-Startup-Finanzierung im internationalen 
+Abb. 6: Relevante Startup-Finanzierungen im Vergleich
+Vergleich
+51,9 %
+INVESTMENTS IN KI-STARTUPS (IN MRD.  US-DOLLAR)
+52,9 %
+Investitionen pro Kopf 2020
+49,8 %
+49,7 %
+47,6 %
+47,1 %47,1 %
+23,6
+19 x
+133 US-Dollar
+42,5 %42,5 %
+43,2 %
+42,2 %
+41,4 %
+19,9
+10 x
+71 US-Dollar
+15,6
+31,8 % 30,1 %
+7 US-Dollar
+12,6
+22,9 %
+10,8
+10,3
+7 US-Dollar
+9,9
+19,8 %
+15,4 % 15,0 %15,4 % 15,0 %
+6 US-Dollar
+5,9
+6,1
+4,8
+4,1
+4,2
+2,2
+2,80,8
+2,4
+1,7
+0,9
+0,6
+0,3
+0,2
+0,6
+0,2
+KI-Startups    Startups
+KI-Startups     Startups
+KI-Startups    Startups
+KI-Startups    Startups
+Staatl.	Fördermittel
+Business Angel
+Venture Capital
+Strategische Investments
+2015                     2016                   2017                     2018                   2019                    2020       
+Eigene Auswertung Deutscher Startup Monitor 2021
+Erhalten  
+     Bevorzugt
+USA 
+     China              Europa                    davon Deutschland
+Quelle: Zhang et al. (2021)
+Dieses	Finanzierungsdefizit	und	die	damit	ver-bundene Wachstumsbremse sind im interna-tionalen	Vergleich	besonders	sichtbar:	Pro	Kopf	wird	im	Powerhouse	Israel	etwa	19-mal	und	in	den	USA	noch	10-mal	so	viel	in	KI-Startups investiert wie in Deutschland. Bemer-kenswert	ist,	dass	der	Abstand	in	der	Höhe	der	Venture-Capital-Investitionen mit Blick auf die Startup-Landschaft insgesamt geringer ausfällt	und	in	diesen	beiden	Ländern	gegen-über	Deutschland	pro	Kopf	nur	4-	bis	5-mal	so	hoch	ist	(Dealroom	2021a).	Während	Investie-rende hierzulande beim Deep-Tech-Thema KI 
+also	noch	vergleichsweise	zurückhaltend	sind,	zeigen	die	Zahlen	in	Israel	und	den	USA,	dass	die Chancen im Bereich KI vor allem an Inno-vationsstandorten und in Startup-Hotspots erkannt	werden.	In	Deutschland	und	Europa	haben heimische Startups dagegen weniger Spielraum	für	das	Unternehmenswachstum	beziehungsweise werden Anreize in diese Richtung weniger stark gesetzt. Das hat zur Konsequenz,	dass	Unternehmen	tendenziell	kleiner	bleiben,	die	Perfektionierung	des	Pro-dukts	anstatt	dessen	Skalierung	in	den	Fokus	rücken und sich auf regionale oder nationale 
+treffen	Entscheidungen,	die	sich	auf	unser	Leben	auswirken,	weshalb	die	Entwicklung	dieser gesellschaftlich relevanten Technologie nicht einer homogenen Gruppe überlassen werden darf.
+2.3. DIVERSITÄT IM KI-ÖKOSYSTEM
+Talente,	also	sowohl	Gründerinnen	und	Grün-der	als	auch	Mitarbeitende,	sind	eine	weitere,	wenn nicht die zentrale Ressource für das Ökosystem.	Ganz	wichtig	in	diesem	Zusam-menhang	ist	das	Thema	Diversität:	Erstens,	um das gesamte Potenzial an motivierten und qualifizierten	Köpfen	zur	Verfügung	zu	haben;	zweitens steigern diverse Teams die Band-breite	inhaltlicher	Impulse	und	fördern	so	die	Kreativität	in	jedem	Unternehmen.	Der	dritte	Punkt	–	gerade	im	Bereich	KI:	Algorithmen	
+Insbesondere	zum	Migrationshintergrund	sowie	Frauenanteil	liegen	belastbare	Infor-mationen	vor:	Der	Anteil	der	Gründerinnen	und	Gründer	mit	Migrationshintergrund	liegt	für	KI-Startups	mit	26	%	signifikant	über	dem	allgemeinen Startup-Schnitt und etwa auf dem	Niveau	der	Erwerbsbevölkerung.	Auch	
+20
+21
+[Page #13]
+die	Mitarbeitenden	der	KI-Startups	haben	häufiger	einen	internationalen	Hintergrund.	Das	KI-Ökosystem	profitiert	dadurch	von	globalen	Netzwerken	sowie	dem	Zugang	zu	neuen	Märkten	und	Perspektiven	(Hirschfeld	et	al.	2021).	Mit	Blick	auf	den	Frauenanteil	zeigt	sich	dagegen	Nachholbedarf:	Sowohl	im	Bereich	der	Gründungen	als	auch	bei	den	Mit-arbeitenden	liegen	die	Zahlen	klar	unter	den	Vergleichswerten	im	Startup-Ökosystem,	die	ohnehin schon sehr gering sind – zugleich ist der Gründerinnenanteil auch gegenüber den Vorjahren	kaum	gestiegen.	Ursache	dafür	sind	eine	Reihe	spezifischer	Herausforderungen	für	
+Gründerinnen	im	Startup-Bereich:	An	erster	Stelle	das	Thema	Vereinbarkeit,	denn	nach	wie	vor	steht	Frauen	aufgrund	ihrer	stärkeren	familiären	Einbindung	weniger	Zeit	für	ihr	Startup	zur	Verfügung	als	Männern.	Darü-ber	hinaus	gibt	es	beim	Thema	Finanzierung	einen	klaren	Gender-Bias	und	–	ähnlich	wie	in	der	etablierten	Wirtschaft	–	fehlen	Frauen	häufig	relevante	Netzwerke	(Hirschfeld	et	al.	2020).	Im	KI-Kontext	werden	diese	Faktoren	zusätzlich	verstärkt,	da	Probleme	mit	Blick	auf	geschlechterstereotype	und	geschlossene	Netzwerke	im	IT-	und	Tech-Sektor	noch	einmal	ausgeprägter	sind.
+Gründer unter den KI-Startups macht da-bei	deutlich,	wie	wichtig	wissenschaftliche	Expertise	auch	in	der	praktischen	Anwendung	ist.	Der	Vergleich	mit	den	USA	zeigt,	dass	dort mehr Studentinnen die akademische 
+Laufbahn	einschlagen,	in	Deutschland	also	auch	im	akademischen	Kontext	eine	stärkere	Förderung	stattfinden	sollte	und	mit	Blick	auf	weibliche	KI-Fachkräfte	ebenfalls	aufgeholt	werden muss.
+Wenn die Menschen, die an KI-Anwendungen, -Produkten und -Dienstleistungen arbeiten, nicht die Gesellschaft widerspiegeln (Geschlecht, eth-nische Zugehörigkeit und andere Aspekte), dann werden ihre Innovationen keinen positiven Einfluss auf die Gesellschaft ha-ben und es wird immer ein Ungleichgewicht bestehen. Deshalb haben wir bei Women in AI & Robotics eine Gemeinschaft von Expertinnen und Experten aufgebaut, um die Ausbildung und das Mentoring von Frauen voranzubringen. Dabei nehmen wir technische Fähigkeiten wie maschinelles Lernen, Python und Cloud-Services ebenso in den Blick wie die Themen Ethik in der KI, Marketing, Achtsamkeit usw.“
+Abb. 8: Diversität im Startup-Ökosystem
+  17,7 %
+ Gründerinnenanteil
+SHEILA BELADINEJAD, President Women in AI & Robotics
+             12,3 %
+             21,6  %
+Anteil	Migrant	Founders
+          25,6 %
+Abb. 9: Frauenanteil in KI-relevanten Bereichen
+    37,5 %
+Frauenanteil	unter	den	Mitarbeitenden
+  21 %  21 %
+                                                29,3 %
+Bachelor-AbschlüsseInformatik	2019
+      28,0 %
+Anteil internationaler Mitarbeitender
+                    16  %
+         33,4 %
+Informatik-Promotionen2019
+                       20 %
+Eigene Auswertung Deutscher Startup Monitor 2021
+Startups  
+      KI-Startups
+       13 %                                     17%
+Informatik-Professuren2019
+      16 %
+KI-Fachkräfte2018
+Zur	Stärkung	der	Gender-Diversität	im	KI-Öko-system	ist	also	die	Förderung	in	den	MINT-Fä-chern	und	vor	allem	in	der	Informatik	maß-geblich,	wobei	hier	immer	auch	bereits	die		schulische Bildung mitgedacht werden muss. Denn trotz eines positiven Trends entfallen in 
+Deutschland	weiterhin	nur	21	%	der	Bachelor-Abschlüsse	im	Bereich	Informatik	auf	Frauen,	bei den Informatik-Promotionen und -Profes-suren	ist	der	Frauenanteil	nochmal	deutlich	geringer.	Der	mit	23	%	überdurchschnittlich	hohe Anteil promovierter Gründerinnen und 
+          23 %
+Deutschland  
+        USA
+Quellen: Statistisches Bundesamt (2021), Zhang et al. 
+(2021), Roy (2019), World Economic Forum (2018)
+22
+23
+[Page #14]
+ 3.  KI IN WIRTSCHAFT 
+UND GESELLSCHAFT
+für das Thema – bei Anbietenden sowie bei Kundinnen	und	Kunden	–	gestärkt.	
+3.1. UNTERNEHMERTUM UND DATEN-SCHUTZ
+Während	die	Europäische	Union	in	Daten-schutzfragen einen umfassenden regulati-ven Rahmen geschaffen hat und weltweit in	diesem	Feld	vorangeht,	wird	das	Thema	im globalen Kontext sehr verschieden ge-handhabt. Im Vergleich mit den wichtigsten Technologiestandorten,	den	USA,	China	und	Israel	sind	die	Unternehmen	hierzulande	mit	höheren	Anforderungen	konfrontiert.	Der	Blick	der	KI-Startups	auf	das	Thema	ist	gespalten:	Jedes	zweite	KI-Startup	sieht	die	europäische	Datenschutzregulierung als internationalen Wettbewerbsnachteil. 
+Zentrale	Grundlage	für	die	Entwicklung	von	KI	sind	Daten,	an	denen	Entscheidungsmodelle	trainiert	werden.	Entsprechend	ergeben	sich	hier	große	Herausforderungen	für	KI-Startups,	die	über	technische	Aspekte,	wie	etwa	die	Da-tensicherung,	hinausgehen.	Im	Vordergrund	stehen	dabei	bisher	rechtliche	Unsicherhei-ten	und	Einschränkungen,	die	maßgeblich	auf gestiegene Datenschutzanforderungen im Kontext der DSGVO zurückzuführen sind. Gleichzeitig haben die Regulierung und die umfangreichen	Anpassungen	im	Umgang	mit	Daten	die	Sensibilität	und	das	Bewusstsein	
+Abb. 10: Herausforderung Datenzugang & 
+Datenschutz 
+35,6 %
+77,0 %
+52,4 %
+der KI-Startups geben an,	ausreichend	Zugang	zu relevanten Daten zu haben.
+der KI-Startups fordern einen	besseren	Zugang	zu	öffentlichen	Daten	(Open	Data).
+der KI-Startups sehen in der	europäischen	Daten-schutzregulierung einen internationalen Wettbe-werbsnachteil.
+Eigene Auswertung Deutscher Startup Monitor 2021
+2525
+24
+[Page #15]
+Neben	dem	gestiegenen	Erfüllungsaufwand	führt die bestehende Regulierung auch zu Unterschieden	in	der	Datenökonomie	und	dabei	ganz	zentral	im	Zugang:	Nur	jedes	dritte	KI-Startup	gibt	an,	ausreichend	Zugang	zu	relevanten	Daten	zu	haben.	Mehr	als	drei	Viertel der Startups fordern eine verbesserte Verfügbarkeit	und	Nutzbarkeit	öffentlicher	Daten,	etwa	über	Open-Data-Initiativen	oder	
+die	Vergabe	öffentlicher	Aufträge.	Mindestens	genauso wichtig für KI-Startups sind Koope-rationen	mit	etablierten	Unternehmen,	die	wegen	Unsicherheiten	beim	Datenschutz	und	gerade bei der Anwendung von KI in sensiblen Bereichen	zurückhaltend	sind.	Hier	gilt	es,	durch	die	Stärkung	von	Expertise	und	Vertrau-en	den	Datenaustausch	zu	fördern	(siehe	auch	Abschnitt	4.3).
+Was	die	dargestellten	Initiativen	eint,	ist	das	Ziel,	einen	politischen	Rahmen	aufzubauen,	der	es	der	Wirtschaft	ermöglicht,	Verantwor-tung zu übernehmen und damit Vertrauen zu schaffen. Dass das für nachhaltige Innovation im	KI-Sektor	nötig	ist,	belegen	umfassende	Befragungsdaten	(Gillespie	et	al.	2021):	So	fühlen	sich	in	Deutschland	wie	in	den	USA	nur	sehr	wenige	Menschen	gut	über	KI	informiert	und auf entsprechende Anwendungen ver-ließe	sich	nur	eine	Minderheit.	Somit	ist	neben	der	breiten	Aufklärung	auch	die	Verankerung	
+ethischer Prinzipien für das gesellschaftliche Vertrauen in die Technologie essenziell – in Deutschland	und	Europa,	ebenso	wie	in	den	USA.	Das	ist	gerade	auch	für	KI-Startups	wich-tig,	deren	Anwendungen	von	Kundinnen	und	Kunden	nur	genutzt	werden,	wenn	das	Gefühl	besteht,	sich	auf	die	Technologie	verlassen	und	dem	Unternehmen	vertrauen	zu	können.	Die	Daten	deuten	darauf	hin,	dass	diese	The-men	in	Deutschland	bereits	stärker	verankert	sind	als	in	den	USA,	was	perspektivisch	einen	wichtigen	USP	des	Ökosystems	darstellt.
+Zentrales Element für die Weiterentwicklung und den produktiven Einsatz von KI ist die Datenver-fügbarkeit, doch aktuell fehlen relevante Daten 
+noch an vielen Stellen. Die Entwicklung von KI in Europa hinkt schon jetzt hinterher und wird durch das aktuelle Regulie-rungsvorhaben vor neue Herausforderungen gestellt, für die wir bisher noch keine praktikablen Lösungen haben. Außerdem müssen wir die Bereitschaft zum Datenaustausch aktiv för-dern – zum Beispiel durch Aufklärung der Unternehmen über Arbeitsweise, Funktion und Potenziale von KI.“
+Abb. 11: Öffentliche Meinungen zur Künstlichen 
+Intelligenz 
+79 %
+70 %
+LUKAS WAIDELICH, Founder & CEO Cauliflower
+28 %
+26 %
+23 %
+14 %
+Gleichzeitig	macht	der	Diskurs	deutlich,	wie	wichtig die ethische Dimension gerade auch im Bereich digitaler Technologien ist und dass KI	in	der	Anwendung	grundlegende	Werte,	wie	die	Persönlichkeitsrechte	einzelner,	nicht	außer	Acht	lassen	darf.	Die	wachsende	Bedeu-tung von KI spiegelt sich auch in der zuneh-menden	Zahl	von	Veröffentlichungen	wider,	die	Leitlinien	formulieren	und	von	Unterneh-men,	staatlichen	Stellen	sowie	Forschungsein-richtungen	oder	NGOs	getragen	werden.	Die	Bandbreite	der	Beteiligten	und	die	Tatsache,	dass	solche	Initiativen	nicht	auf	Europa	be-schränkt	sind,	sondern	vor	allem	auch	in	den	USA	an	Fahrt	aufgenommen	haben,	verdeut-licht	die	globale	Dimension	dieser	Entwick-lung	(AI	Ethics	Lab	2021).
+3.2. VERTRAUEN ALS VORAUSSETZUNG FÜR KI-INNOVATIONEN
+Aufgrund	ihrer	Neuartigkeit	und	Komplexität	regt KI die menschliche Vorstellungskraft an und	schafft	so	eine	interessierte	Öffentlich-keit. In der polarisierten Debatte wird KI dabei wahlweise zum Allheilmittel oder zum Wegbe-reiter	dystopischer	Verhältnisse.	Daher	treten	die	tatsächlichen	technischen	Möglichkeiten	und Limitationen oftmals in den Hintergrund und Hoffnungen oder Gefahren werden zum Kernthema – extreme Beispiele und Science-Fiction-Szenarien	dominieren	nach	wie	vor	den Gesamteindruck von KI in der breiten Öffentlichkeit.	
+...haben	das	Gefühl,	gut über KI informiert zu sein.
+...würden sich auf Informationen einer KI verlassen.
+...sind Leitlinien für das Vertrauen in KI sehr wichtig.
+Quelle: Gillespie et al. (2021)
+Deutschland 
+                    USA
+26
+27
+[Page #16]
+ge für die Weiterentwicklung des KI-Standorts als Vorreiter bei prinzipiengebundener und vertrauensvoller KI gegeben. In der prakti-schen	Umsetzung	dieses	Konzepts	ist	aktuell	die	Regulierung	der	KI	zentral,	die	noch	von	knapp	der	Hälfte	der	KI-Startups	als	mög-licher	USP	im	internationalen	Wettbewerb	gesehen wird. Dieses gemischte Bild ergibt sich	maßgeblich	aus	der	noch	bestehenden	Unsicherheit	mit	Blick	auf	den	aktuellen	Stand	der Regulierung.
+3.3. REGULIERUNG ALS FAKTOR IM KI-ÖKOSYSTEM
+Vertrauen ist ein wichtiger Faktor bei KI-Anwen-dungen – für Expertinnen und Experten genau-so wie für Nutzerinnen und Nutzer –, denn vieles spielt sich hinter den Kulissen ab und lässt sich weder sehen noch vollständig erklären. Ein Saugroboter beispielsweise macht uns keine Angst, weil er zu einem normalen Begleiter unseres Alltags geworden ist. Wenn KI-Produkte mit Sprach-steuerung zu einem festen Bestandteil des privaten Raumes werden, wird das Vertrauen der Nutzerinnen und Nutzer zu einem zentralen Erfolgsfaktor. Für uns ist „Privacy by Design“ von Anfang an ein zentrales Prinzip bei der Entwicklung des Magenta-Sprachassistenten. Wir können nur erfolgreich sein, wenn man unseren Produkten vertraut.“
+Das	deutsche	KI-Ökosystem	und	vor	allem	Startups zeichnen sich durch eine hohe Sensibilität	für	ethische	Fragen	aus.	Die	große	Mehrheit	der	KI-Startups	ist	sich	der	eigenen	Bedeutung und Verantwortung bewusst und sieht ethische Aspekte als wichtigen Baustein bei	der	Entwicklung	von	KI	im	eigenen	Unter-nehmen. Somit ist hier eine wichtige Grundla-
+REGHU RAM THANUMALAYAN, Senior Vice President, Magenta Voice Program, Deutsche Telekom
+Abb. 12: Zustimmung deutscher KI-Startups zu Themen 
+der Ethik und Regulierung 
+88,3 %
+81,3 %
+46,6 %
+In den letzten Jahren haben KI-Anwendungen ein Level erreicht, das technisch betrachtet nie da-gewesene Handlungsoptionen bietet. Sie finden an vielen Stellen des Alltags bereits statt, häufig unbemerkt in Hintergrundprozessen. Doch in der öffentlichen Debatte dominiert Künstliche Intelligenz als Hype-Begriff, bekannt aus Science-Fiction-Filmen, oft vermenschlicht als Roboter abge-bildet. Auch die Fachöffentlichkeit selbst spricht oft verkürzt von KI statt konkret zu benennen, welche Anwendungsfälle gemeint sind. Viele Bürgerinnen und Bürger haben zwar hohe Kompetenzen bei der Anwendung digitaler Lösungen, ihnen fehlt es aber häufig am Verständnis der dahinterliegenden Mechanismen. Das ist auch darin begründet, dass bisher in Deutschland verpasst wurde, ein Verständnis für die Grundlo-giken unseres immer digitaleren Lebens – vom Internet über das Programmieren bis hin zur Funktionsweise des Machine Learning – im Bildungssystem zu vermitteln. Algorithmisches Denken ist vielen fremd. Hier müssen verschiedenste Maßnah-men ergriffen werden – sei es mit Digitialkunde-Unterricht an den Schulen oder offenen Online-Kursen wie Elements of AI.“
+KI-Startups müssen sich ihrer gesellschaftlichen Bedeutung und damit verbundenen Verantwor-tung bewusst sein.
+Ethische	Fragen	(z.B.	Diskriminierung,	Trans-parenz)	sollten	bei	der	Entwicklung	von	Künst-licher Intelligenz eine Rolle spielen.
+Eine	europäische	KI-Regulierung schafft Vertrauen und kann zum USP	im	internationalen	Wettbewerb werden.
+Eigene Auswertung Deutscher Startup Monitor 2021
+LENA-SOPHIE MÜLLER, Geschäftsführerin Initiative D21
+28
+29
+[Page #17]
+Der	im	April	2021	von	der	Europäischen	Kom-mission vorgelegte Gesetzesentwurf zur KI wurde im Grundsatz zwar positiv aufgenom-men,	bedarf	aus	Sicht	der	Anwendung	aller-dings noch essenzieller Anpassungen. Kern-idee	des	Gesetzes	ist	es,	KI	nicht	pauschal	mit	zusätzlichen	Regeln	zu	belegen,	sondern	möglichst	gezielt	Bereiche	zu	definieren,	in	denen	sich	aus	einem	höheren	Risiko	spezifi-sche Anforderungen ergeben. Auf diese Weise können	viele	unkritische	KI-Anwendungsfälle,	beispielsweise	im	Kontext	der	Industrie	4.0,	in	dem	hauptsächlich	mit	Maschinendaten	
+gearbeitet	wird,	unberührt	bleiben.	Neben	Anwendungen	mit	„unannehmbarem	Risiko“,	wie	dem	Social	Scoring,	das	ganz	verboten	werden	soll,	werden	für	Lösungen	mit	„hohem	Risiko“,	etwa	im	Bereich	kritischer	Infra-strukturen,	der	Schulausbildung	oder	Straf-verfolgung	zusätzliche	Regeln	eingeführt.	Dazu	gehören	erhöhte	Anforderungen	an	die	Datenqualität,	die	Aufzeichnung	und	Rück-verfolgbarkeit	von	Entscheidungen	sowie	verpflichtende	Konformitätsbewertungen	und	behördliche	Audits.
+weiteren Verfahren muss das KI-Gesetz also Unsicherheiten	reduzieren,	die	praktische	Um-setzbarkeit	stärker	berücksichtigen	und	auch	Freiräume	und	Experimentierfelder	schaffen	–Stichwort:	Regulatory	Sandbox.	Insgesamt	
+gilt,	dass	die	neuen	Rahmenbedingungen	In-novation	im	KI-Bereich	voranbringen	müssen,	denn	nur	ein	starker	deutscher	und	europäi-scher KI-Standort kann selbst aktiv Werte und Leitlinien mitgestalten.
+Als Anbieter von Medizintechnik durchlaufen wir mit unseren KI-Systemen bereits strenge Zerti-fizierungsverfahren, in denen die Funktion und Leistungsfähigkeit der Modelle durchleuchtet werden. Der neue Entwurf der EU-Kommission für einen Rechtsrahmen im Bereich KI könnte für uns dann zu einer doppelten Regulierung führen. Neben dem damit verbundenen Aufwand schafft das außerdem Unsicherheiten bei den vielen Stakeholdern, also sowohl Herstellenden, Auditierenden als auch den Ärztinnen und Ärzten sowie Patientinnen und Patienten. Was wir insge-samt brauchen, ist eine deutlich bessere Aufklärung darüber, was KI eigentlich ist und was die Möglichkeiten und Gefahren sind – gerade in sensiblen Feldern wie dem Gesundheitssektor.“
+Der Diskurs um ethische Fragen beim Thema KI hat sich in den letzten Jahren konstruktiv wei-terentwickelt: Es geht nicht mehr so sehr um 
+abstrakte Entscheidungsprobleme und die Warnung vor der Superintelligenz, sondern viel mehr um konkrete Chancen und Risiken für den Schutz demokratischer Rechte und Normen in spezifischen Einsatzgebieten der Technologie. Was als fair und ethisch angesehen wird, ist stark kontextabhängig und nicht jedes KI-System muss gleichermaßen reguliert werden. Der risikobasierte Ansatz im aktuellen Entwurf der europäischen KI-Regulierung ist daher der richtige Weg. Wichtig ist jetzt, dass die Entscheidung darüber, welche Anwendungsfälle ver-boten oder in die höchste Risikokategorie eingestuft werden, in partizipativen Verfahren unter Einbezug der Zivilgesellschaft getroffen werden.“
+ELLA MARIA KADAS, Founder & CEO nocturne 
+Schon heute ist KI branchenspezifisch als System-komponente mitreguliert, zum Beispiel im Ma-schinenbau – zusätzliche Auflagen eigens für den 
+Baustein KI führen zu einer doppelten Regulierung, die neue Unsicherheit schafft und eben nicht die benötigte Rechtssi-cherheit. Anwendungen wie das Social Scoring, die nicht mit unseren europäischen Werten vereinbar sind, sollten von der Anwendung her, nicht von der dafür verwendeten Technologie reguliert werden: Social Scoring ist schließlich auch inakzep-tabel, wenn man es mit Stift und Papier macht.“
+CARLA HUSTEDT, Leiterin Bereich Digitalisierte Gesellschaft Stiftung Mercator
+Für	KI-Startups	stellen	sich	mit	Blick	auf	den	Gesetzesentwurf vor allem zwei zentrale Herausforderungen:	Aufgrund	der	unscharf	formulierten	Definition	der	regulierten	An-wendungsfälle	besteht	erstens	bei	vielen	die	Unsicherheit,	ob	das	eigene	Unternehmen	betroffen	ist.	Neben	dem	Interpretationsspiel-
+raum kann dabei bereits eine geringfügige Ausweitung	der	Definition	dazu	führen,	dass	viele	zusätzliche	Geschäftsfelder	reguliert	werden.	Zweitens	wissen	die	Startups	noch	nicht,	wie	den	im	Gesetz	formulierten	Aufla-gen,	etwa	angesichts	der	immensen	verarbei-teten	Datenmengen,	nachzukommen	ist.	Im	
+RONNIE VUINE, Founder & CEO micropsi industries 
+30
+31
+[Page #18]
+                  4. POTENZIALE IN 
+       FORSCHUNG UND        ETABLIERTER  WIRTSCHAFT
+bei	72	%.	Eine	wichtige	Rolle	nehmen	dabei	Förderprogramme	wie	EXIST	in	der	Frühphase	ein,	für	den	langfristigen	Erfolg	braucht	es	auch	den	Austausch	in	späteren	Phasen.	Für	KI-Startups	und	ihre	technologische	Entwick-lung ist die Beziehung zur Wissenschaft also ein	zentraler	Erfolgsfaktor.	Zugleich	wirken	Hochschulen	und	Forschungseinrichtungen	aber	auch	als	Enabler	vieler	Startup-Grün-dungen	–	gerade	bei	KI:	Fast	ein	Drittel	der	KI-Startups	stammt	aus	diesem	Umfeld.	
+4.1. F&E-STÄRKE UND GRÜNDUNGSFÖRDE-RUNG ALS BASIS FÜR KI-STARTUPS
+Viele Anwendungen von KI-Startups setzen hochspezialisiertes	Wissen	in	ihrer	Entwick-lung voraus und bewegen sich an der Schnitt-stelle von Spitzenforschung und unterneh-merischer	Praxis:	Daraus	ergibt	sich	ein	enger	Austausch	zwischen	KI-Startups	und	Univer-sitäten	sowie	anderen	Forschungseinrichtun-gen – der Anteil an Kooperationen liegt hier 
+Abb. 13: Gründungsoutput von Hochschulen und 
+Forschung
+           59,3 %
+UnabhängigeGründung
+        67,0 %
+ 32,5  %
+Hochschul-/ forschungs-nahe	(Aus-)	Gründung
+      26,1 %
+     5,9 %  4,2 %
+Unternehmens-ausgründung
+Eigene Auswertung Deutscher Startup Monitor 2021
+KI-Startups  
+     Startups
+3333
+32
+[Page #19]
+Positiv	hervorzuheben	ist	außerdem,	dass	die Schnittstelle zwischen Wissenschaft und Gründung	für	das	KI-Ökosystem	an	Relevanz	gewinnt:	Unter	den	KI-Startups	der	Seed-Stage liegt der Wert der forschungs- und hochschulnahen	Gründungen	bereits	bei	43	%	und	damit	deutlich	höher	als	im	KI-Sektor	insgesamt	(33	%).	Zugleich	sind	nur	34	%	aller	forschungs- und hochschulnahen Gründun-gen unter den KI-Startups klassische Ausgrün-dungen	aus	Forschungsprojekten.	Damit	wird	es	umso	wichtiger,	dass	die	gut	ausgebaute	Förderung	in	der	Gründungsphase	durch	mehr	
+Angebote	für	den	weiteren	Lebenszyklus	ergänzt	wird	–	universitätsnahe	Startup-Pro-gramme und Gründungszentren müssen den Weg	von	der	Ideenfindung,	der	ersten	(VC-)Finanzierung	bis	zur	Growth-Stage	abbilden,	um	umfassend	Wirkung	zu	entfalten.	Ein	solches	Ökosystem	zwischen	Wissenschaft	und	Wirtschaft	wächst	mit	seinen	Gründerin-nen	und	Gründern:	Das	zeigt	die	Entwicklung	rund	um	die	TU	München	in	den	vergangenen	20	Jahren,	die	eine	Vielzahl	von	erfolgreichen	Gründungen hervorgebracht hat – mit Celonis auch das heute wertvollste deutsche Startup.
+          FALLBEISPIEL:
+UNTERNEHMERTUM  
+durch	die	Initiative	appliedAI	gestärkt,	die	etablierten	Unternehmen	den	Einsatz	von	KI	näherbringt	und	dabei	auch	auf	die	Expertise	und	Innovationen	im	UnternehmerTUM-Öko-system	zurückgreifen	kann.	Umgekehrt	erfah-ren	KI-Startups,	welchen	Bedarf	potenzielle	Kundinnen und Kunden haben und werden über die KI-Landkarte der Initiative deutsch-landweit sichtbar.
+GRÜNDUNGSFÖRDERUNG ALS BRÜCKE ZWISCHEN FORSCHUNG UND MARKT
+Das	an	der	TU	München	angesiedelte	Grün-dungszentrum	UnternehmerTUM	ist	mit	über	50	Startup-Gründungen	jährlich	ein	Best-Practice	der	universitätsnahen	Grün-dungsförderung.	Das	2002	durch	die	Unter-nehmerin Susanne Klatten und den noch heute	geschäftsführenden	Prof.	Dr.	Helmut	Schönenberger	aufgebaute	Zentrum	wurde	unabhängig	von	der	Universitäts-	und	Verwal-tungsstruktur	etabliert.	Es	zeichnet	sich	durch	seine	unternehmerische	Führung	und	Offen-heit für Kooperationen mit der etablierten Wirtschaft aus. Als Vorbild diente das Innova-tionsökosystem	rund	um	die	Universität	Stan-ford,	in	dem	der	enge	Austausch	zwischen	Hochschule,	Unternehmen	und	Investierenden	viele der heute wichtigsten Gründungen der Digitalwirtschaft hervorgebracht hat. 
+Abb. 14: Herausforderung beim Wandel der Rolle 
+(Wissenschaft -> Wirtschaft)
+Bemerkenswert	ist,	dass	für	Gründerinnen	und Gründer vom ersten Businessplan bis in die Wachstumsphase Angebote bestehen. Neben	Gründungsberatung,	einem	Maker-	und	Coworking-Space	ist	mit	UVC	Partners	auch	ein	eigener	Frühphaseninvestor	vorhan-den,	der	bei	den	wichtigen	ersten	Schritten	auf	den	Markt	unterstützen	kann.	Somit	geht	UnternehmerTUM	über	das	Angebot	vieler	Gründungszentren	hinaus	und	zeigt	mögliche	Entwicklungspotenziale	bei	der	Startup-För-derung auch in der Breite auf. Wichtigster Unterschied	zu	vielen	Einrichtungen,	die	stärker	in	Hochschulstrukturen	eingebunden	sind,	ist	dabei,	dass	die	Vernetzung	mit	der	etablierten Wirtschaft als Kooperationspart-ner und Kunde sowie mit Investierenden aktiv gesucht	wird.	Die	Idee	ist,	Mittelstand	und	Industrie	mit	kreativen	Köpfen,	gerade	auch	aus	der	Forschung,	zu	vernetzen	und	Startups	nicht	nur	in	der	Theorie	und	bei	Anträgen	zu	unterstützen,	sondern	Kooperationen	und	Kundenbeziehungen anzubahnen.
+65,9 %KI-Startups 
+55,9 %Ausgründungen allgemein
+Eigene Auswertung Deutscher Startup Monitor 2021
+den Wandel der eigenen Rolle von der Wis-senschaft	hin	zum	Unternehmertum.	Unter	den	KI-Gründerinnen	und	-Gründern,	die	aus	der	Wissenschaft	heraus	gegründet	haben,	sind diese Schwierigkeiten besonders aus-geprägt.	Daher	sind	hier	wirtschaftsnahe	und	umfassende	Gründungsförderungen	für	die	erfolgreiche	Entwicklung	von	Standorten	be-sonders wichtig. 
+Bekannte	Gründungen	wie	Celonis,	KONUX	und	TWAICE	verweisen	auf	die	erfolgreiche	Arbeit	von	UnternehmerTUM,	das	heute	selbst	über	300	Mitarbeitende	beschäftigt,	die	Startups	bei	der	Technologie-	und	Geschäfts-modellentwicklung beraten sowie etablierte Unternehmen	bei	Innovation	und	Digitali-sierung	unterstützen	–	die	Synergieeffekte	liegen auf der Hand und werden in Koopera-tionsprojekten	gefördert.	Diese	Verbindung	ist gerade im Bereich KI essenziell und wird 
+Die	Förderung	von	Ausgründungen	wurde	in	den letzten Jahren an vielen Standorten ge-stärkt	und	entsprechende	Unterstützungsan-gebote sind heute deutlich breiter aufgestellt. Das	ist	wichtig,	denn	im	Bereich	Ausgründung	existieren	eine	Reihe	spezifischer	Probleme:	Neben	regulatorischen	und	bürokratischen	Hürden geht es dabei vor allem um Kompe-tenzen	und	das	Thema	Mindset	–	konkret	um	
+3535
+34
+[Page #20]
+Die universitäre Gründungsförderung hat sich in den letzten Jahren deutlich verbessert – viele neue Entrepreneurship-Lehrstühle und Gründungszent-ren sind entstanden. Wirtschaftlichen und gesellschaftlichen Impact haben diese Initiativen aber nur, wenn die Startups wirklich in die unternehmerische Praxis geführt werden. Dafür braucht es Gründungsfördernde, die selbst unternehmerisch denken und handeln und im engen Austausch mit Investieren-den, etablierten Unternehmen und weiteren Treibern des Star-tup-Ecosystems stehen. Dann sind sie wichtige Brückenbauer, die Ausgründungen aus der Wissenschaft beschleunigen und mit dem Markt verbinden.“
+Abb. 15: Gegründete KI-Startups (2016–2020) 
+pro 1 Mio. Einwohnerinnen und Einwohner inkl. Rang 
+1.
+Israel:                60
+2.
+Singapur:         53
+3.
+Estland:            40
+4.
+UK:                      22
+PROF. DR. HELMUT SCHÖNENBERGER, Vice President Entre-preneurship TU München und CEO UnternehmerTUM 
+7.
+USA:                   14
+2,8 x
+17. 
+Deutschland:   5
+und	Estland	ist	die	KI-Gründungsdynamik	in	den	USA	mit	14	KI-Startup-Gründungen	pro	einer	Million	Einwohnerinnen	und	Einwohnern	zwischen	2016	und	2020	fast	dreimal	so	hoch	wie	in	Deutschland.	Zugleich	profitieren	die	gründungsstarken Staaten auch in der Wis-senschaft	von	einer	starken	Entwicklung	im	Technologiesektor,	da	die	wirtschaftliche	An-wendung	auch	in	der	Forschung	mit	Blick	auf	Anträge	und	Drittmittelprojekte	eine	immer	wichtigere Rolle spielt. 
+4.2. FORSCHUNGSTRANSFER STÄRKEN UND NETZWERKE NUTZEN
+18.
+Frankreich:        5
+Quelle: Zhang et al. (2021)
+In	der	KI-Forschung	braucht	sich	Deutschland	international	nicht	zu	verstecken:	Mit	seiner	langen	Tradition	in	KI-relevanten	Fachberei-chen	profitiert	man	bis	heute	von	der	aka-demischen	Breite	und	Exzellenz	(Seitz	et	al.	2020).	Diese	starke	Basis	wird	in	anderen	Län-dern	aber	deutlich	häufiger	in	die	unterneh-merische	Praxis	gebracht:	Neben	kleineren	digitalen	Vorreiterstaaten	wie	Israel,	Singapur	
+Ein	zentraler	Baustein	für	die	Stärkung	der	Gründungsdynamik	ist	ein	Ausbau	der	KI-Aus-bildung	und	-Forschung:	Gerade	die	USA	und	Großbritannien,	die	bei	der	KI-Gründungsdy-namik	gut	abschneiden,	stechen	hier	positiv	hervor.	In	den	USA	gibt	es	deutlich	mehr	und	allein	in	Großbritannien	fast	genauso	viele	dezidierte	KI-Studiengänge	wie	in	allen	EU-Staaten zusammen. Auch wenn spezialisierte Studiengänge	nicht	der	einzige	Weg	sind,	
+KI-Expertise	aufzubauen,	sind	sie	ein	wichtiger	Indikator für die Relevanz des Themas in Wis-senschaft	und	Politik.	Mit	bisher	19	Bachelor-	und	106	Master-Studiengängen	im	KI-Bereich	steht	Deutschland	–	ebenso	wie	Frankreich	– im internationalen Vergleich schlecht da. So fehlen nicht nur potenzielle Gründerinnen und	Gründer,	sondern	auch	Fachkräfte	für	KI-Startups. 
+Die besten Startups verbinden in ihren Gründungs-teams Tüftler-DNA mit einem Verständnis für Unternehmertum. Um solche vielversprechenden 
+Startups noch früher zu identifizieren, möchten wir mit Ear-lybird künftig noch näher an den Hochschulen dran sein und bauen dazu aktuell auch mit dem UNI-X einen neuen Seed-Stage-Fonds auf. Hier bieten sich für den Standort Deutsch-land große Chancen, unsere starke Forschungslandschaft noch besser in die unternehmerische Praxis zu bringen und das enorme Potenzial im Bereich Ausgründungen zu heben.“
+MICHAEL SCHMITT, Earlybird UNI-X Partner  
+36
+37
+[Page #21]
+lernt	zu	haben.	Neben	zufälligen	Begegnun-gen,	aus	denen	Gründungsteams	entstehen,	haben	Hochschulen	hier	auch	die	Chance,	ge-zielt	Teamkonstellationen	zu	fördern,	in	denen	
+sich die technologische und wirtschaftliche Expertise	ergänzen	und	damit	der	Transfer	in	die Praxis erleichtert wird.
+Die Nähe zur Wissenschaft ist Teil unserer Firmen-DNA bei Celonis – beginnend bei unserem ersten Projekt noch im Studium bis zu unserem heutigen Academic Alliance Team. Wir arbeiten kontinuierlich mit For-schungseinrichtungen zusammen, um theoretische Ansätze in der Praxis zu testen und schnell in die Anwendung zu bringen. Nicht jedes Projekt führt zum Erfolg, aber der akademische Austausch hat für uns eine hohe strategische Bedeutung – um innovativ zu bleiben, aber auch, um die besten Talente für unser Unternehmen zu begeistern.“ 
+Abb. 17: Die Universität als Ort der Teamentstehung
+41,2 %KI-Startups 
+36,4 %Startups
+BASTIAN NOMINACHER, Co-CEO & Co-Founder Celonis
+Abb. 16: KI-Studiengänge in ausgewählten Ländern
+Eigene Auswertung Deutscher Startup Monitor 2021
+  19       106
+Deutschland
+Aufbau von Referenzen bieten Kooperationen gerade	für	KI-Startups	die	Chance,	Zugang	zu	wertvollen	Datenquellen	zu	erhalten.	So	fän-den es fast zwei Drittel der KI-Startups sinn-voll,	wenn	etablierte	Unternehmen	ihre	Daten	besser	zugänglich	machten.	Hier	bieten	sich	Win-Win-Situationen:	Etablierte	Unternehmen	wissen	oft	nicht,	welche	Potenziale	ihre	Daten	bieten und KI-Startups sind für die Weiter-entwicklung	ihrer	Lösungen	auf	hochwertige	Datensätze	angewiesen	–	im	internationalen	Wettbewerb	könnte	der	Schulterschluss	zwi-schen	Industrie	und	Startups	ein	europäischer	Weg	zur	Stärkung	des	KI-Ökosystems	sein.
+4.3. SYNERGIEN MIT DER ETABLIERTEN WIRTSCHAFT
+  6     67
+Frankreich
+Nicht	nur	in	der	Wissenschaft,	sondern	gerade	auch zwischen Startups und etablierter Wirt-schaft	können	noch	erhebliche	Potenziale	für	das	deutsche	KI-Ökosystem	gehoben	werden.	Schon	heute	kooperieren	72	%	aller	KI-Start-ups	in	unterschiedlicher	Form	und	Intensität	mit	etablierten	Unternehmen	und	erwirtschaf-ten	mit	77	%	einen	deutlich	höheren	Anteil	ihrer	Umsätze	im	Bereich	B2B	als	Startups	im	Allgemeinen	(69	%).	Neben	der	Gewinnung	neuer Kundinnen und Kunden sowie dem 
+  174                                                    794
+EU27
+         587
+Vereinigtes Königreich
+ 657
+                                                          1.183
+USA
+                              978
+Bachelor                   Master  
+Quelle: Zhang et al. (2021)
+Im internationalen Vergleich haben wir in Deutsch-land viele Großunternehmen, die beim Einsatz von KI in der Produktion vorne mitspielen und das Thema aktiv mit den entsprechenden Ressourcen angehen. Im Mittelstand sieht das teilweise anders aus: Dort werden Digitalisierungsprojekte wegen voller Auftragsbücher 
+Die Bedeutung der Wissenschaft für die Aus-bildung	von	Mitarbeitenden	im	KI-Sektor	ist	immens – gleiches gilt mit Blick auf Gründer-innen und Gründer. Darüber hinaus haben 
+Hochschulen	einen	nicht	zu	unterschätzenden	Effekt	als	Netzwerk.	So	geben	41,2	%	aller	KI-Gründerinnen	und	-Gründer	an,	mindestens	ein Gründungsteammitglied dort kennenge-
+38
+39
+[Page #22]
+Eine	intensivere	Zusammenarbeit	zwischen	KI-Startups	und	etablierten	Unternehmen	wäre	ein wichtiger Innovationsimpuls für die deut-sche	Volkswirtschaft:	Im	Jahr	2019	setzten	gerade	mal	5,8	%	aller	deutschen	Unternehmen	KI-Lösungen	innerhalb	ihrer	Organisation	ein	(Bundesministerium	für	Wirtschaft	und	Energie	2020).	Grundvoraussetzung	für	erfolgreiche	Kooperationen	ist,	dass	Unternehmen	in	der	Lage	sind,	die	für	ihre	KI-Vorhaben	geeigneten	KI-Startups	zu	identifizieren.	Aufgrund	man-gelnder	Ressourcen	und	KI-Expertise	sowie	einem	steigenden	Angebot	stellt	dies	für	Unter-nehmen	–	gerade	im	Mittelstand	–	allerdings	häufig	eine	erhebliche	Herausforderung	dar.	Hier	braucht	es	Initiativen,	die	Brücken	zwi-schen	Unternehmen	und	KI-Anbietenden	bauen	– wie das explorative Verbundforschungspro-jekt	„What	can	AI	do	for	me?“	(Seitz	et	al.	2021).
+Wertschöpfungspotenziale	aber	auch	Reife-grade	sich	deutlich	unterscheiden.	Während	die automatisierte Sachbearbeitung von Dokumenten	schon	heute	weit	entwickelt	ist,	zugleich	aber	ein	relativ	geringes	Wertschöp-fungspotenzial	bietet,	gibt	es	Anwendungen,	unter	anderem	im	Kundenservice,	mit	großen	Potenzialen aber noch deutlich geringerem Reifegrad.	Für	Kooperationen	sind	hierzulande	vor	allem	Anwendungsfälle	relevant,	die	in	der	Industrie	eingesetzt	werden	können:	Einen	hohen Reifegrad weisen hier Anwendungen in	den	Feldern	Qualitäts-	und	Prozessmonito-ring sowie Produktdatenverarbeitung auf. Bei komplexeren Anwendungen wie Predictive Maintenance	oder	der	Produktionsplanung	wird	dagegen	weiterer	Entwicklungsbedarf	sichtbar. Die Verbindung der – für den Wirt-schaftsstandort Deutschland zentralen – In-dustrie mit KI-Startups bietet hier erhebliche Innovations-	und	Wachstumspotenziale,	die	als Wettbewerbsfaktor zunehmend an Rele-vanz gewinnen.
+und fehlender Kapazitäten häufig aufgeschoben – manch-mal werden auch die Einsatzmöglichkeiten von KI noch nicht gesehen. Hier ist es wichtig, die Zusammenarbeit zwischen etablierter Wirtschaft, Startups und Forschungszentren durch konkrete Projekte zu stärken.“
+PROF. DR. MARCO HUBER, Professor für Kognitive Produktions-systeme an der Universität Stuttgart sowie Leiter des Zentrums für Cyber Cognitive Intelligence (CCI) und Leiter der Abteilung Bild- und Signalverarbeitung am Fraunhofer IPA
+Unsere etablierte Wirtschaft – gerade in der Industrie – sitzt auf wertvollen Daten, doch wenn wir diese Chance nicht bald nutzen, verlieren wir 
+diesen Wettbewerbsvorteil. Wir müssen dazu weniger über KI-Projekte reden, sondern sie schneller machen. Etablierte Unternehmen brauchen eine offene Kultur, die über den Teller-rand schaut und Fehler erlaubt, aber auch Entscheidungskom-petenz, ob KI-Lösungen selbst gebaut oder eingekauft werden. Ganz allein wird es aber nur selten gehen: Es braucht Orte der Kollaboration, an denen Wissenschaft, Industrie und Startups zusammenkommen und gemeinsam an KI-Lösungen arbeiten – mit dem AI Campus in Berlin haben wir genau so einen Ort geschaffen.“
+Die	über	90	im	Rahmen	des	Projekts	identi-fizierten	Anwendungsfälle	zeigen	das	breite	Spektrum	von	KI-Einsatzmöglichkeiten,	deren	
+Abb.19: Experteneinschätzung zu KI-Use-Cases deut-
+NICOLE BÜTTNER, Co-Founder & CEO Merantix Labs
+scher Unternehmen
+ÜBERSICHT USE-CASE-CLUSTERWie schätzen Experten die KI-USE-CASES deutscher Unternehmen ein
+Abb. 18: Forderung nach besserem Zugang zu Unter-
+l
+Vorhersage Kundenabwanderung
+aiznetopsgnufpöhcstreW
+3.5
+nehmensdaten
+Erweiterte Angebote im Kundenservice
+Produktdatenverarbei-tung und -Pflege
+63,9 %KI-Startups 
+53,2 %Startups
+Recherche
+Performance Vorhersage und Empfehlungssysteme
+3.0
+Kundensegmentierung & Personalisierung
+Produktions- undLogistikplanung
+Qualitätskontrolle und Prozessmonitoring
+Predictive Maintenance
+setztähcseg
+Sachbearbeitung vonDokumenten
+(Dynamic) Pricing
+2.5
+Absichtserkennung Kundenservice
+Eigene Auswertung Deutscher Startup Monitor 2021
+2.5	
+						3.0	
+													3.5
+geschätzter	Reifegrad
+Quelle: Seitz et al. (2021)
+40
+41
+[Page #23]
+  5. DIGITALE 
+SOUVERÄNITÄT
+Der	Bereich	KI	zeigt	paradigmatisch,	dass	digitale	Innovationen	neben	ihrer	ökonomi-schen auch eine enorme politische Bedeutung haben und dass Wirtschaft und Gesellschaft hier	auf	das	Engste	miteinander	verbunden	sind.	Ob	Hardware,	Dateninfrastruktur	oder	große	KI-Modelle	wie	GPT-3	–	im	KI-Bereich	finden	sich	die	Marktführenden	in	den	USA	und	China,	während	europäische	Anbietende	in	immer	mehr	Feldern	Gefahr	laufen,	abge-hängt	zu	werden.	Angesichts	der	gesellschaft-lichen Relevanz sowie des wirtschaftlichen Potenzials	der	Technologie	stellt	diese	Ent-wicklung	unsere	digitale	Souveränität	infrage	und	unterstreicht,	wie	wichtig	die	Förderung	von KI-Innovationen ist.
+Vor diesem Hintergrund ist die anstehende KI-Regulierung	ein	Drahtseilakt:	Einerseits	gilt	es,	den	USP	europäischer	KI	–	Stichwort:	Ver-antwortung	–	zu	festigen,	um	das	Vertrauen	in	die	Technologie	zu	fördern	und	deren	Quali-tät	sichtbar	zu	machen.	Andererseits	dürfen	rechtliche	Unsicherheiten	und	neue	Vorgaben,	die	gerade	bei	jüngeren	Unternehmen	stärker	ins	Gewicht	fallen,	nicht	dazu	führen,	dass	Innovation ausgebremst wird und andernorts stattfindet.	Das	gilt	mit	Blick	auf	KI-Startups,	aber	auch	für	die	Nutzung	in	der	Breite	der	Wirtschaft,	in	der	Digitalisierungsfortschritt	immer	stärker	durch	KI	geprägt	wird.	Nur	mit	starken	Unternehmen	gestalten	wir	die	globa-le	Entwicklung	und	können	unsere	Vorstellun-gen verantwortungsvoller KI auch praktisch umsetzen.
+Wenn wir im Bereich KI nicht nur in Nischen erfolg-reich sein wollen, müssen wir in Europa jetzt deut-lich vorankommen. Bei der Hardware, Dateninfra-
+struktur, KI-as-a-Service und vor allem bei KI-Modellen wie GPT-3 sind uns amerikanische und chinesische Unternehmen weit voraus. Initiativen wie GAIA-X sind dabei ganz wichtig, um die Infrastruktur für KI-Innovationen zu verbessern. Mit Large European AI Models (LEAM) bauen wir ein europäisches Leuchtturmprojekt zur Stärkung großer europäischer KI-Mo-delle auf, um im internationalen Wettbewerb in diesem Be-reich mitzumischen.“
+JÖRG BIENERT, Vorsitzender KI Bundesverband
+4343
+42
+[Page #24]
+Die USA und auch China sind Europa weit voraus, wenn es um die Ausskalierung von KI-getriebenen und datenbasierten Geschäftsmodellen geht – da muss dringend aufgeholt werden, um bei den Machtver-schiebungen unserer Zeit, die durch die großen Technologie-konzerne und KI zweifelsfrei weiter verstärkt werden, nicht nur Zuschauer zu sein. Unternehmen und Startups in Europa sollten dabei einen menschen- und wertezentrierten Ansatz bei der Entwicklung von KI zu einem elementaren Baustein machen. So haben sie die Chance, sich durch verantwortungs-volle Use-Cases von Wettbewerbern abzugrenzen und auf einer stärkeren Vertrauensgrundlage zu arbeiten. Vertrauen ist die wichtigste Währung im kognitiven Zeitalter und damit die Grundlage für Wachstum.“
+OLAF J GROTH, PhD, CEO Cambrian.ai, Professor for Global Stra-tegy, Innovation, Economics & Futures an der HULT International Business School und UC Berkeley Haas School of Business
+Wir haben in Europa ein starkes Angebot im Be-reich KI – das müssen wir sichtbarer machen! Denn bisher sind es noch zu häufig nicht die europäi-
+Wir haben im Bereich KI nicht unsere Souveräni-tät verloren, sondern hatten sie nie. Heute treffen Algorithmen tagtäglich Entscheidungen, die unser Leben beeinflussen, wir aber nicht nachvollziehen können. Des-wegen müssen wir Technologien fördern, die unseren euro-päischen Werten und Leitlinien entsprechen. Open-Source-Anwendungen bieten hier große Chancen – gerade auch für Startups: Denn die Transparenz in diesem Bereich schafft Vertrauen und macht Anwendungen nachvollziehbar, ohne bei den Unternehmen selbst große Aufwände zu schaffen.“
+schen Unternehmen, denen die großen Projekte zugetraut wer-den. Wenn wir unseren KI-Unternehmen aber nicht die Chance geben, sich in der Praxis zu beweisen und weiterzuentwickeln –gerade auch mit öffentlichen Aufträgen und dem Zugang zu großen Datensätzen – dann verlieren wir den Anschluss. Das Thema digitale Souveränität steht auch im Rahmen der fran-zösischen Ratspräsidentschaft ganz oben auf der Agenda.“
+GAËLLE PINSON, CEO Hub France IA
+RAFAEL LAGUNA DE LA VERA, Direktor Bundesagentur für Sprunginnovationen
+Für	den	Standort	Deutschland	ist	es	dabei	es-senziell,	die	Forschungsstärke	im	Bereich	KI	zu	nutzen	und	deutlich	stärker	in	die	wirtschaft-liche	Anwendung	zu	übersetzen.	Hier	gilt	es,	die KI-Ausbildung voranzubringen und dabei gezielt	die	Diversität	der	nächsten	Generation	von	Entwicklerinnen	und	Entwicklern	zu	för-dern.	Mit	Blick	auf	Hürden	beim	Datenzugang,	aber auch im Bereich Investments sollte die Zusammenarbeit	mit	der	etablierten	Wirt-schaft	gezielt	forciert	werden,	um	die	Startups	
+in	erste	Praxisprojekte	zu	bringen,	aber	auch	um	etablierten	Unternehmen	die	Technologie	näherzubringen,	Kompetenzen	zu	stärken	und	Potenziale	aufzuzeigen.	Ziel	muss	es	sein,	den	anstehenden	Entwicklungsschub	durch	einen	Schulterschluss	von	Forschung,	Industrie	und	Startups in Deutschland zu nutzen und so „KI –	Made	in	Germany“	als	Siegel	für	Innovation	und Verantwortung entscheidend nach vorne zu bringen.
+44
+45
+[Page #25]
+New York Times (2021): Another	Arrest,	and	Jail	Time,	Due	to	a	Bad	Facial	Recognition	Match.	Verfügbar	unter: https://www.nytimes.com/2020/12/29/technology/facial-recognition-misi-dentify-jail.html	PwC – PricewaterhouseCoopers (2018): The	macroeconomic	impact	of	artificial	intelligence.	Verfügbar	unter:	https://www.pwc.co.uk/economic-services/assets/macroeconomic-impact-of-ai-technical-report-feb-18.pdf	
+LITERATUR 
+AI Ethics Lab (2021):	Toolbox	–	Dynamics	of	AI	Principles.	Verfügbar	unter:	https://aiethicslab.com/big-picture/
+Roland Berger, Bundesverband Deutsche Startups e. V., Deutsche Börse Group & Internet Economy Foundation (2021):	Für	ein	Wirtschaftswunder	2.0	–	Wie	Startups	und	Scaleups	den	deutschen	Arbeitsmarkt	beflügeln.	Verfügbar	unter:	https://deutschestartups.org/wp-content/uploads/2021/09/Fuer-ein-Wirtschaftswunder-2.0.pdf
+Bundesministerium für Wirtschaft und Energie (2020): Einsatz	von	Künstlicher	Intelligenz	in	der	Deutschen	Wirtschaft:	Stand	der	KI-Nutzung	im	Jahr	2019.	Verfügbar	unter:	https://www.bmwi.de/Redaktion/DE/Publikationen/Wirtschaft/einsatz-von-ki-deutsche-wirt-schaft.pdf?__blob=publicationFile&v=8
+Roy, Joseph (2019):	Engineering	by	the	numbers.	Verfügbar	unter:	https://www.asee.org/documents/papers-and-publications/publications/college-profiles/2018-Engineering-by-Numbers-Engineering-Statistics-UPDATED-15-July-2019.pdf		
+Dealroom (2021a): Startup	cities	in	the	Entrepreneurial	Age.	Verfügbar	unter:	https://dealroom.co/uploaded/2021/07/Dealroom-Sifted-startup-cities-2021.pdf?x20197
+Dealroom (2021b): The	State	of	the	Dutch	Edtech	Ecosystem.	Verfügbar	unter:	https://dealroom.co/uploaded/2021/09/Dutch-Edtech-Dealroom-report-2021-1.pdf?x72874
+Seitz, Jürgen; Hirschfeld, Alexander; Gilde, Jannis; Cann, Vanessa; Komp, Dajana; Bittner, Paul-David; Walk, Vanusch (2020): Künstliche	Intelligenz:	Wo	stehen	deutsche	Startups?	Verfügbar	unter:	https://deutschestartups.org/wp-content/up-loads/2020/09/Studie_KI-Wo-stehen-deutsche-Startups.pdf
+Gillespie, Nicole; Lockey, Steve; Curtis, Caitlin (2021):	Trust	in	Artificial	Intelligence:	A	Five	Country	Study.	Verfügbar	unter:	https://assets.kpmg/content/dam/kpmg/au/pdf/2021/trust-in-ai-multiple-countries.pdf	
+Seitz, Jürgen; Willbold, Katharina; Haiber, Robin (2021): What	can	AI	do	for	me?.	Verfügbar	unter:	https://www.whatcanaidoforme.com/		
+Hirschfeld, Alexander; Gilde, Jannis; Walk, Vanusch (2021):	Migrant	Founders	Monitor	2021.Verfügbar	unter:	https://deutschestartups.org/wp-content/uploads/2021/04/Migrant-Foun-ders-Monitor_2021.pdf
+Schmid, Ulrich; Blanc, Berit; Toepel, Michael; Pinkwart, Niels; Drachsler, Hendrik (2021): KI@Bildung:	Lehren	und	Lernen	in	der	Schule	mit	Werkzeugen	Künstlicher	Intelligenz.	Verfügbar	unter:	https://www.telekom-stiftung.de/sites/default/files/files/media/publications/KI%20Bildung%20Schlussbericht.pdf	
+Hirschfeld, Alexander; Gilde, Jannis; Wöss, Nina (2020):	Female	Founders	Monitor	2020.	Verfügbar	unter: https://femalefoundersmonitor.de/wp-content/uploads/FemaleFoundersMoni-tor2020.pdf	
+Statistisches Bundesamt (2021):	Bildung,	Forschung	und	Kultur	–	Hochschulen.	Verfügbar	unter: https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bildung-For-schung-Kultur/Hochschulen/_inhalt.html;jsessionid=EB585588DE4F0814B63A62618EEA78C3.live722#sprg233706	
+Kollmann, Tobias; Kleine-Stegemann, Lucas; Then-Bergh, Christina; Harr, Michael; Hirschfeld, Alexander; Gilde, Jannis; Walk, Vanusch (2021): Deutscher	Startup	Monitor	2021.	Verfügbar	unter: https://deutschestartups.org/wp-content/uploads/2021/10/Deutscher-Startup-Moni-tor_2021.pdf
+World Economic Forum (2018): The	global	gender	gap	report.	Verfügbar	unter:	http://www3.weforum.org/docs/WEF_GGGR_2018.pdf	
+McKinsey Global Institute (2018):	Notes	from	the	AI	frontier:	Modeling	the	impact	of	AI	on	the	world	economy.	Verfügbar	unter:	https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Artificial%20Intelligence/Notes%20from%20the%20frontier%20Modeling%20the%20impact%20of%20AI%20on%20the%20world%20economy/MGI-Notes-from-the-AI-frontier-Modeling-the-impact-of-AI-on-the-world-economy-September-2018.ashx	
+Zhang, Daniel; Mishra, Saurabh; Brynjolfsson, Erik; Etchemendy, John; Ganguli, Deep; Grosz, Barbara; Lyons, Terah; Manyika, James; Niebles, Juan Carlos; Sellitto, Miachel; Shoham, Yoav; Clark, Jack; Perrault, Raymond (2021):	“The	AI	Index	2021	Annual	Report”,	AI	Index	Steering	Committee,	Human-Centered	AI	Institute,	Stanford	University.	Verfügbar	unter:	https://aiindex.stanford.edu/wp-content/uploads/2021/03/2021-AI-Index-Report_Master.pdf	
+46
+47
+[Page #26]
+Constanze Kettlitz-Profe	ist	Marketing	Com-munications	Manager	beim	hubraum	in	Berlin.	Seit	mehr	als	20	Jahren	ist	sie	in	Sachen	Inno-vation	in	der	Deutschen	Telekom	unterwegs,	u.a. bei den Telekom Innovation Laboratories (T-Labs).	Constanze	hat	BWL	studiert	und	hält	einen	MSc.	der	Steinbeis	School	of	Manage-ment and Innovation.
+                 PARTNER UND FÖRDERER
+zusammen. hubraum bietet verschiedene In-novationsprogramme	und	Seed-Finanzierung	sowie	Zugang	zu	Infrastruktur	und	zukünfti-gen Technologien der Deutschen Telekom an. Darüber	hinaus	profitieren	die	Startups	von	Co-Working-Space,	Mentoring,	Netzwerk-Ver-anstaltungen und Verbindungen zu den Ge-schäftsbereichen	der	Deutschen	Telekom.
+hubraum ist der Tech-Inkubator der Deutschen Telekom.	Durch	die	Zusammenführung	von	Startups	in	der	Frühphase	und	dem	führenden	europäischen	Telekommunikationsunterneh-men	fördert	hubraum	den	Innovationstransfer	und	schafft	neue	Geschäftsmöglichkeiten	für	beide	Seiten.	Seit	2012	arbeitet	hubraum	von	seinen	Standorten	in	Berlin,	Krakau	und	Tel	Aviv	aus	mit	dem	digitalen	Ökosystem	
+Axel Menneking ist Vice President Startup Incubation	&	Venturing	bei	der	Deutschen	Telekom.	Seit	2016	leitet	er	hubraum,	den	Tech-Inkubator	der	Deutschen	Telekom.	Zuvor	hatte	Axel	verschiedene	Führungspositionen	im Produktmarketing und -management in den	Bereichen	Fast	Moving	Consumer	Goods,	Strategieberatung,	Internet-Startups	und	Telekommunikation	inne.	Axel	Menneking	hat	Wirtschaftsingenieurwesen	studiert	und	hält	einen	Executive	MBA	der	ESCP	Europe	Business	School.
+48
+49
+[Page #27]
+Vanusch Walk ist	im	Forschungsbereich	des	Startup-Verbandes	für	datenbasierte	Analysen	zuständig	und	an	der	Ausarbeitung	der	Stu-dien	des	Verbandes	als	Mitautor	beteiligt.	Er	hat	Volkswirtschaftslehre	und	Public	Econo-mics	in	Frankfurt	(Oder),	Warschau,	Brüssel	und	Berlin	studiert	und	hat	praktische	Erfah-rungen in der Wirtschaftsforschung sowie der Verbandsarbeit gesammelt.
+                 HERAUSGEBER- UND AUTORENSCHAFT
+mehr	als	1200	Mitglieder.	In	seinem	Netzwerk	schafft der Startup-Verband einen gleich-berechtigten	Austausch	zwischen	Startups,	etablierter Wirtschaft und Politik. Der vor-liegende Report ist in Kooperation mit dem KI Bundesverband und dem Institute for Applied Artificial	Intelligence	entstanden.
+Startups sind die treibende Wirtschaftskraft unserer	Zukunft.	Visionäre	Gründerinnen	und	Gründer	setzen	mit	Mut	große	Ideen	in	die	Tat	um.	Als	Repräsentant	und	Stimme	der	Start-ups in Deutschland engagiert sich der Bun-desverband Deutsche Startups e.V. seit seiner Gründung	im	Jahr	2012	für	ein	gründungs-freundliches Deutschland und vertritt derzeit 
+Vanessa Cann ist	Geschäftsführerin	des	KI	Bundesverbandes	e.V.,	dem	größten	Netz-	werk	aus	KI-Unternehmen	in	Deutschland.	Sie	bringt	KI	und	Deep	Tech	Unternehmen	mit	der	etablierten Wirtschaft und Politik zusammen und	engagiert	sich	für	den	KI	Standort	Europa.	Sie	ist	Mentorin	für	Startups	und	Advisor	von	Women in AI.
+Prof. Dr. Jürgen Seitz forscht und lehrt ander	Hochschule	der	Medien	in	Stuttgart	inden	Bereichen	Digital	Marketing	und	DigitalBusiness.	Er	ist	außerdem	Gründungsprofes-sor	am	Institute	for	Applied	Artificial	Intelli-gence	(IAAI),	Herausgeber	der	Digital	InsightsStudienreihe und engagiert sich für die Digita-lisierung	von	NGOs.
+Dr. Alexander Hirschfeld leitet	den	For-	schungsbereich beim Startup-Verband und ist für alle Publikationen rund um das Start- up-Ökosystems	verantwortlich.	Er	hat	im	Fach	Soziologie	zum	Wandel	der	Arbeitswelt	promoviert	und	an	unterschiedlichen	Uni-versitäten	im	In-	und	Ausland	zum	Verhältnis	zwischen Wirtschaft und Technik gelehrt und geforscht.
+Jannis Gilde ist	im	Forschungsbereich	beim	Startup-Verband	für	das	Partner-Netzwerk	des	Deutschen	Startup	Monitors	sowie	Datenana-lysen	verantwortlich	und	arbeitet	als	Autor	an	Publikationen	wie	dem	Female	Founders	Monitor	mit.	Er	studierte	Politik-	und	Verwal-tungswissenschaft	an	der	Zeppelin	Universität	in	Friedrichshafen	sowie	an	der	Freien	Univer-sität	Berlin.
+50
+51
+[Page #28]
+52

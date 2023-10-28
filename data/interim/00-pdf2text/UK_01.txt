@@ -1,0 +1,1967 @@
+T E C H N I C I A N S  A N D   I N N O VAT I O N : 
+A   L I T E R AT U R E   R E V I E W
+
+PA U L   L E W I S
+
+D E PA R T M E N T   O F   P O L I T I C A L   E C O N O M Y
+
+K I N G ’ S   C O L L E G E   L O N D O N
+G AT S B Y   I S  A   F O U N D AT I O N   S E T   U P 
+B Y   D AV I D   S A I N S B U R Y
+TO   R E A L I S E   H I S   C H A R I TA B L E   O B J E C T I V E S .
+W E   F O C U S   O U R   S U P P O R T   O N  A   L I M I T E D
+N U M B E R   O F  A R E A S :
+
+  P L A N T   S C I E N C E   R E S E A R C H
+
+N E U R O S C I E N C E   R E S E A R C H
+
+S C I E N C E  A N D   E N G I N E E R I N G   E D U C AT I O N
+
+E C O N O M I C   D E V E L O P M E N T   I N  A F R I C A
+
+P U B L I C   P O L I C Y   R E S E A R C H  A N D  A D V I C E
+
+T H E  A R T S
+
+ W E  A R E   P R OAC T I V E   I N   D E V I S I N G   P R O J E C T S
+TO  AC H I E V E   O U R  A I M S . W E  A R E   E N T H U S I A S T I C
+A B O U T   S U P P O R T I N G   I N N O VAT I O N . W E  A R E 
+A N A LY T I C A L  A S  W E   B E L I E V E   I T   I S   I M P O R TA N T 
+TO   U N D E R S TA N D  T H E   O P P O R T U N I T I E S
+A N D   P R O B L E M S  W E  TAC K L E . W E  TA K E  A 
+L O N G - T E R M  V I E W  A S  W E   D O   N OT  T H I N K   M U C H 
+C A N   B E  AC H I E V E D   B Y   S H O R T,  O N E - O F F 
+P R O J E C T S . W E  A R E  A LWAY S   E AG E R  TO   F O R M 
+PA R T N E R S H I P S  W I T H   O R G A N I S AT I O N S  W H O 
+S H A R E   O U R   G OA L S .
+
+T h e   G a t s b y   C h a r i t a b l e   F o u n d a t i o n
+
+T h e   Pe a k ,  5  W i l t o n   R o a d ,  L o n d o n   S W 1 V   1 A P
+
+T   + 4 4   ( 0 ) 2 0   7 4 1 0   0 3 3 0       F   + 4 4   ( 0 ) 2 0   7 4 1 0   0 3 3 2
+
+w w w. g a t s b y. o r g . u k
+
+C o p y r i g h t   ©   G a t s b y   C h a r i t a b l e   F o u n d a t i o n   2 0 1 9
+CONTENTS
+
+ACKNOWLEDGEMENTS 
+
+4
+
+EXECUTIVE SUMMARY 
+
+5
+
+1. INTRODUCTION AND BACKGROUND 
+
+7
+
+2. INNOVATION  
+
+9 
+
+3. THE INNOVATION SYSTEMS APPROACH 
+
+10
+
+4. INNOVATION POLICY: THE ‘SYSTEM THEORETIC’ RATIONALE FOR GOVERNMENT  
+INTERVENTION TO SUPPORT THE DIFFUSION OF NEW TECHNOLOGIES 
+
+13
+
+5. THE INNOVATION SYSTEMS APPROACH AND TECHNICAL EDUCATION 
+
+15
+
+6. CONCLUSION 
+
+31
+
+REFERENCES 
+
+32
+
+3
+ACKNOWLEDGEMENTS
+The research on which this report is based was funded by the Gatsby Charitable 
+Foundation, whose support is gratefully acknowledged. I am indebted to Daniel 
+Sandford Smith, Lauren Golding, Ronnie Ramolgan and Paul Shakespeare for very 
+helpful comments on previous versions of the report. I am also extremely grateful 
+for advice and encouragement received from Stan Metcalfe, Richard Nelson and 
+David Soskice. None of those named should be held responsible for any errors and 
+infelicities in what follows.
+
+4
+EXECUTIVE SUMMARY
+
+Innovation involves both the invention of completely new ideas and also the use 
+of existing ideas by organisations that have not hitherto employed them. It is the 
+means through which new knowledge is applied to economic processes in order 
+to increase productivity and add value to economic activity. As such, it is the 
+engine of long-term economic growth and development, and the major source of 
+productivity and rising living standards.
+
+However, a shortage of technicians is hampering innovation in the UK. 
+
+This is the principal conclusion of this report by Paul Lewis, who has examined the 
+supply and training of technicians who contribute to the development and use of 
+technologies that are key to the future success of advanced manufacturing in the UK. 
+
+Technicians make significant contributions to innovation. Perhaps most important 
+of all, they have a critical role to play in enabling firms successfully to exploit new 
+technology. In the UK, however, the critical role played by technicians all too often 
+goes unrecognised. 
+
+Innovation has often been thought of as linear process, whereby new knowledge 
+is created through fundemental scientific research and is then applied to create 
+novel products and production processes. On this view, the creation of the 
+knowledge involved in innovation is the exclusive preserve of highly-educated 
+scientists and engineers. However, evidence suggests that the linear view is 
+mistaken and that innovation is in fact non-linear in nature, characterised by 
+complicated feedback mechanisms and interactive relations involving science, 
+technology, production, and use. For example, rather than simply implementing 
+ideas developed by the scientists and engineers involved in R&D, technicians 
+draw on their experience of using and maintaining technology to provide 
+suggestions about how it can be improved. According to this perspective, 
+technicians make an indispenable contribution to innovation.
+
+The innovation systems approach uses the evidence on the non-linear nature 
+of innovation to identify a whole range of aspects that are critical to innovation, 
+including the practical and theoretical knowledge embodied in skilled workers at  
+all levels, including technicians.
+
+In the UK, a commitment on the part of policy-makers to a linear view of 
+innovation over-emphasises fundamental research and development, and so 
+neglects other important influences on innovation, in particular those stemming 
+from technicians, obscuring the critical role they play.   
+
+The author suggests that an important step change required to drive innovation in 
+the UK is to improve the quality of technician training, which currently all too often 
+fails to provide firms with a workforce possessing the right quantity, and blend, of 
+practical and theoretical knowledge to make the best use of new technologies. One 
+of the reasons that technician training has been neglected is that an over-supply of 
+graduates has masked technician shortages, but these graduates are unlikely to have 
+the practical experience and skills which are so critical to the technician role.
+
+5
+The report goes on to suggest that centres of innovation, such as Catapults, which 
+are at the forefront of technology development, should play a role in the training of 
+technicians and that these centres could make a significant contribution to training 
+for innovation by working with training providers to ensure they understand the 
+skills requirements of emerging technologies and enabling access to training on the 
+latest equipment and facilities.
+
+The report then concludes with the following recommendations:
+
+a)  Greater consideration should be given to the importance of technicians in 
+the innovation system by firstly ensuring that the funding regime does not 
+discourage colleges and other providers from offering technician training 
+courses; and secondly by requiring Catapults to include workforce planning 
+alongside technology development within their remit
+
+b)  Centres of excellence, possibly the new Institutes of Technology, should work 
+
+with Catapults to develop courses on emerging technologies which could also 
+be delivered through distance learning
+
+c)  Policymakers should ensure that apprenticeships and other forms of technician 
+
+training develop the broad occupational competence and underpinning 
+knowledge so that technicians can assist in the deployment and development 
+of new technologies involved in innovation
+
+d)  Further research should be conducted to explore how high-performance 
+
+working can contribute to innovation in the UK
+
+6
+1. INTRODUCTION AND BACKGROUND
+
+Innovation is the process whereby new technologies are created and diffuse 
+throughout the economy so as to create new commercially-viable products 
+and novel methods of producing existing goods and services. It involves both 
+the invention of completely new ideas and also the use of existing ideas by 
+organisations that have not hitherto employed them. It is the means through which 
+new knowledge is applied to economic processes in order to increase productivity 
+and add value to economic activity. As such, it is the engine of long-term economic 
+growth and development, and the major source of productivity growth and rising 
+living standards (OECD 2005: 46-52, 2015: 3-4; BIS 2011: 1-2, 7-22). 
+
+Skills are critical for innovation (Lloyd-Ellis and Roberts 2002; BIS 2011: 111-14; 
+2017: 97-119; Makkonen and Lin 2012; 2015: 13-14). Most obviously, highly-
+qualified research scientists and engineers make a vital contribution to the research 
+and development through which new ideas are developed. Academics and policy-
+makers have therefore devoted a good deal of attention—perhaps, it might be 
+argued, too much attention—to the high-level skills needed for work of this kind 
+(Tether et al. 2005; Toner 2011). Good managerial skills are also critical for ensuring 
+the effective use of new knowledge and novel technologies (BIS 2012: 24-25; DBEIS 
+2018: 22). But there is another category of worker who also makes an important 
+contribution to innovation, namely technicians. Technicians are workers occupying 
+roles that require ‘intermediate’—that is, level 3-5—skills in science, technology, 
+engineering and/or mathematics. The category encompasses both ‘skilled trades’, 
+such as laboratory technician and maintenance engineer, and also ‘associate 
+professional/technical’ roles (which include some varieties of manufacturing 
+technician and production engineer) (Jagger et al. 2010; Mason 2012).1
+
+Technicians use their knowledge of science, technology, engineering and 
+mathematics to solve practical problems arising in research and development, 
+production, and maintenance. This report will explore how technicians deploy 
+their skills and knowledge to contribute to innovation. As we will see, technicians 
+make critical contributions both to the development of new technology and 
+also to its effective deployment and use. The report will also investigate the 
+role of the organisations involved in technician training in helping to ensure that 
+innovative firms have the skills they need to develop and exploit the potential 
+of new technology. In this way, the report explores one important but hitherto 
+largely neglected set of organisations that helps to shape an economy’s capacity to 
+innovate, namely those connected with vocational education and training. It will be 
+argued that in the case of the United Kingdom, deficiencies in the rules governing 
+the provision of vocational education and training mean that that firms cannot 
+always obtain the skilled technician labour they need to develop and utilise new 
+technologies to good effect, impeding their ability to innovate.
+
+1 More detailed descriptions of such roles, drawn from the space, composites, and industrial biotechnology sectors, can be 
+found in Lewis 2012b: 11-20, 2013b: 15-26, and 2016a: 14-29.
+
+7
+The structure of the report is as follows. Section 2 explores the meaning of the 
+term ‘innovation’, while Section 3 sets out the main theoretical framework currently 
+used to analyse and guide policy on innovation, namely the innovation systems 
+approach. Section 4 discusses innovation policy. Section 5 draws on the previous 
+sections by using them to provide a framework for analysing the contributions 
+technicians made to innovation and the scope for policy to ensure that firms are 
+able to access the skilled technicians they need if they are to innovate. Section 6 
+summarises and draws conclusions.
+
+8
+2. INNOVATION 
+
+Innovation is the process whereby new technologies are created and diffuse 
+throughout the economy so as to create new commercially-viable products and 
+novel methods of producing existing goods and services (OECD 1997a: 47, OECD 
+2005: 46-52; BIS 2011: 1, 7-22). 
+
+Two broad kinds of innovation may be distinguished: 
+•  radical innovation involves the creation of entirely new products and 
+
+technologies that transform existing markets and/or industries, usually based on 
+the creation of new knowledge through research; and 
+
+•  incremental innovation involves the gradual improvement of existing products 
+
+and technologies, often through knowledge creation in the workplace  
+(BIS 2011: 2, 30-31).
+
+On this view, innovation involves not only the invention of completely new ideas 
+but also the application of existing ideas by firms that have not hitherto employed 
+them, so that they are deployed in workplaces to transform practice in the relevant 
+organisation, thereby diffusing more widely through the economy.2 
+
+An important theoretical framework for understanding innovation, which is 
+influential both in academia and also among policy-makers, is the innovation 
+systems approach.3 The key insight is that the extent and kind of innovation 
+occurring in an economy is crucially shaped by the rules governing how firms 
+and other organisations involved in innovation interact with one another. Under 
+the influence of this approach, as we shall see, those rules have become a central 
+focus of attention, both among academics striving to understand the determinants 
+of innovation and also on the part of policy-makers seeking to improve the 
+performance of their economies. It is upon this approach that the next section of 
+this report will focus.
+
+2 Put slightly differently, the technology whose diffusion constitutes innovation need only be ‘new to the user’ and not necessarily 
+‘new’ or ‘advanced’ in any wider sense.
+3 The seminal contributions were written in the late 1980s and early 1990s. They included Christopher Freeman’s 1987 book 
+on  Technology  Policy  and  Economic  Performance:  Lessons  from  Japan,  along  with  three  volumes  edited  by  Dosi  et  al.  (1988), 
+Lundvall (1992), and Nelson (1993). A slightly later milestone was the publication in 1997 of a volume edited by Edquist, in 
+which a group of authors sought to reframe the ideas advanced in the earlier studies in a conceptually unified way.
+
+9
+3.  THE INNOVATION SYSTEMS APPROACH
+
+One of the main factors encouraging the development of this literature was 
+dissatisfaction with ‘linear’ views of innovation and technological change (Sharif 
+2006; Weber and Truffer 2017: 103-04). We shall consider first the critique of 
+the linear view of innovation, before going on to explain the innovation systems 
+approach to which that critique gave rise. 
+
+3.1 LINEAR VERSUS NON-LINEAR VIEWS OF INNOVATION
+According to the ‘linear’ view, innovation essentially involves a fixed sequence of 
+activities, whereby new knowledge is created through basic scientific research and 
+is then applied to create novel products and production processes. (Bush 1945). 
+On this view, scientific progress is the principal cause of economic progress, so that 
+the main policy challenge is that of catalysing scientific activity, whose economic 
+benefits would—it was thought—be realised more or less automatically (Smith 
+2000: 85-86, 92-93; Weber and Truffer 2017: 103). 
+
+However, it is now widely accepted that innovation does not follow a simple ‘linear’ 
+path from fundamental to applied research and thence to the development of new 
+products and processes at a commercial scale. On the contrary, evidence suggests 
+that innovation is a non-linear process, characterised by complicated feedback 
+mechanisms and interactive relations involving science, technology, production, and 
+use. Two stylised facts support this non-linear view. 
+
+First, case studies indicate that, far from always involving the application of given 
+scientific knowledge, technological innovations have in fact often taken place before 
+the development of the relevant scientific theory, being based on practical rather 
+than scientific knowledge. Indeed, by drawing attention gaps in basic knowledge, 
+technological developments have at times driven the growth of science, as for 
+example when thermodynamics was developed to understand the factors 
+determining the efficiency of steam engines, or when advances in solid state physics 
+took place as scientists strove to understand how the first transistors worked. 
+Far from being something that occurs autonomously, therefore, the development 
+of scientific knowledge is often stimulated by the need to understand already-
+existing technologies. On this view, technological developments occurring in the 
+later stages of the innovation process can help to shape basic scientific research, 
+undermining the linear model’s claim that scientific advances always precede and 
+drive technological change (Rosenberg 1983: 141-59; Nelson and Rosenberg 1993: 
+6-9; Dosi and Nelson 2018: 42-43).
+
+Second, the evidence also shows that requests and recommendations made by 
+actual and/or potential users of new products and technologies, especially early 
+or ‘lead’ users, are often fed back into the research process through which those 
+products and technologies are developed. Related to this, suggestions made 
+by salespeople who try to find buyers for new products and equipment are 
+incorporated into research and development, again informing the learning involved 
+in innovation (Rosenberg 1982: 193-241; Lundvall 1988; von Hippel 1988, 2005; 
+Dosi and Nelson 2018: 46-47, 67-68).4
+
+4   We  will  consider  a  third  example  of  such  feedback  from  the  later  to  the  earlier  stages  of  the  process  through  which 
+innovation takes place below, when we consider how the technicians who install and operate new technology can also make 
+important contributions to innovation.
+
+10
+What these stylised facts indicate is that the learning through which the new 
+knowledge involved in innovation is generated derives not just from pure scientific 
+research but also from several other sources, located at various stages in the 
+innovation process (rather than just at its outset). Contrary to the linear view, 
+therefore, innovation appears to be a complex, non-linear, interactive process 
+of knowledge creation, characterised by complicated feedback mechanisms and 
+interactive relations involving science, technology, production, and use (Kline and 
+Rosenberg 1986; Edquist 1991: 1, 13, 16; Fagerberg 2017: 499-502). 
+
+A significant implication of this non-linear model is that innovation involves 
+interactions between firms and several other kinds of actor (including customers 
+and organisations involved in scientific knowledge creation, such as universities 
+and government research institutes). Those other organisations serve as sources 
+of the information, finance, skills, and other resources required for new knowledge 
+to be developed and to diffuse through the economy. And if innovation involves 
+interactions between a variety of organisations, then in order to understand it, it 
+will be necessary to analyse the rules that govern those interactions and thereby 
+shape knowledge creation and diffusion. The theoretical perspective that has been 
+developed to understand those interactions, and the rules that structure them, is 
+known as the innovation systems approach. 
+
+3.2 THE INNOVATION SYSTEMS APPROACH
+When firms innovate, they rarely if ever act in isolation. Rather, they interact with 
+other organisations in order to generate, acquire, and develop the knowledge used 
+in innovation. Those organisations will often be other firms; but they also include 
+universities, banks, government departments, regulatory agencies, venture capital 
+funds, technical standards institutions, schools, and other providers of education 
+and training, to name but a few. Those organisations act as sources of knowledge, 
+finance, skills, and other kinds of resource, thereby contributing to the process 
+through which innovation takes place.
+
+The organisations in question, along with the rules governing their interactions, 
+constitute what is known as an innovation system (Edquist 1997a, 1997b; BIS 2011: 2, 
+10, 28-30; President’s Council of Advisors on Science and Technology 2014: 2, 18). 
+As one of the founders of the innovation systems approach, Bengt-Åke Lundvall, 
+has put it, “A system of innovation is constituted by elements and relationships 
+which interact in the product, diffusion and use of new and economically useful 
+knowledge” (Lundvall, 1992: 2). In a similar vein, another prominent contributor to 
+the literature, Charles Edquist, has stated that, “Innovation processes … occur in 
+interaction between institutional and organisational elements which together may 
+be called ‘systems of innovation’” (1997a: xiii). The elements or parts of the system 
+are the organisations that contribute to innovation; while the institutions are the 
+rules that govern how those organisations interact with each other. The institutions 
+or rules in question include: 
+
+•  financial rules, such as accounting standards (which govern how organisations’ 
+
+financial performance will be evaluated) and the rules of corporate 
+governance (which specify the terms on which funding will be provided to the 
+organisations that play a part in innovation); 
+
+11
+•  legal rules, relating to contracts, employment and perhaps most notably 
+
+intellectual property (which concerns who owns the new technologies being 
+developed, who is allowed to use them and on what terms, and who is 
+entitled to the income they generate);
+
+•  regulatory rules governing the kind of research that can take place and 
+
+production methods that can be used; 
+
+•  risk-management rules;
+
+•  rules governing the application of various kinds of technical standards; 
+
+•  environmental, and health and safety, regulations, which influence the demand 
+
+for certain kinds of technology; 
+
+•  rules governing public procurement, which also help to shape the demand for 
+
+innovative technologies and goods; and 
+
+•  educational rules, governing for example the terms on which government 
+
+support will be given to organisations that engage in various kinds of training. 
+
+By structuring how firms interact with each other, and with the other organisations 
+that contribute to the innovation process, these institutions or rules are an 
+important influence on the quantity and kind of innovation—understood as 
+learning about new products and methods of production—that takes place 
+(Lundvall and Johnson 1994). As summarised by one of the pioneers of the 
+innovations system approach, Stan Metcalfe, a system of innovation is “that set of 
+institutions [rules] which jointly and individually contribute to the development 
+and diffusion of new technologies ... As such it is a system of interconnected 
+[organisations] to create, store and transfer the knowledge, skills and artefacts 
+which define new technologies” (Metcalfe 1995: 38).5 
+
+The key question that may be asked of such systems concerns the extent to 
+which they generate the information and incentives required to encourage and 
+enable firms successfully to innovate by accumulating and putting into practice at 
+a commercial scale new products and methods of production. Considering this 
+question gives rise to the issue of what role, if any, there is for government policy 
+to support innovation. As we shall see, the innovation systems approach gives rise 
+to a distinctive set of arguments in favour of government intervention, including 
+concerning vocational education and training.
+
+5  Also see: Freeman 1987: 1; Lundwall 1992: 9, 12; Edquist and Johnson 1997; Smith 1997; Woolthius et al., 2005: 610-11; 
+Edquist 2005: 182, 187-88; Metcalfe 2007: 447-48.
+
+12
+4. INNOVATION POLICY:   
+THE ‘SYSTEM THEORETIC’ RATIONALE FOR 
+GOVERNMENT INTERVENTION TO SUPPORT THE 
+DIFFUSION OF NEW TECHNOLOGIES
+
+The innovation systems literature focuses on how the rules governing the 
+interactions between firms and other organisations constrain and enable innovation. 
+This approach gives rise to the notion of ‘system failure’, which is quite distinct from 
+the conventional notion of market failure associated with neoclassical economics.
+
+The best-known rationale for government intervention to support innovation is 
+provided by standard, neoclassical economics and is based on the old, linear view of 
+innovation (according to which new knowledge is created through basic scientific 
+research and then applied, more or less automatically, to develop novel products 
+and processes). The neoclassical approach suggests that, if the process of scientific 
+knowledge creation that (on this account) drives innovation is left to market forces, 
+then too little knowledge creation—and, therefore, too little innovation—will take 
+place. The reason is that the benefits arising from knowledge creation are enjoyed 
+not only by those actors who actually create that knowledge in the first place 
+but also by third parties who subsequently acquire it. However, in deciding how 
+much to invest in knowledge creation, private sector actors only take into account 
+the returns they themselves receive from their investment, ignoring the external 
+benefits accruing to third parties. The resultant divergence between the private 
+and social returns to knowledge creation—or externality, as economists term 
+it—implies that private actors have what is from the point of view of society as a 
+whole too weak an incentive to invest in generating new knowledge, so that too 
+little knowledge creation, and therefore too little innovation, take place (Nelson 
+1959; Arrow 1962; also see Smith 2000: 84-85; Chaminde and Edquist 2010: 97-99; 
+Edler and Fagerberg 2017: 6-8; and Dosi and Nelson 2018: 50-57).
+
+This ‘market failure’ provides a rationale for government intervention designed 
+to raise the level of investment in research and development up to the socially 
+optimal level. A number of different policies might be used, including: direct 
+government production of knowledge, via publicly-funded research institutes; the 
+use of subsidies for research in non-governmental research institutions such as 
+universities; and the establishment of a system of patents to protect the intellectual 
+property created by R&D. This ‘public good’ type justification for government 
+intervention remains influential in policy circles (DBIS 2014: 11-14; Government 
+Economic Service 2014: 9-10).
+
+System failures arise when there is a failure to disseminate the information and 
+other resources, and to coordinate the activities, required to ensure that new 
+technologies are developed and diffuse properly through the economy. This 
+may be because some of the relevant organisations or elements of the system 
+are absent, or because some of the connections linking them are missing or 
+inadequate, so that the informational and other resources required for innovation 
+are not available in sufficient quantities. As one prominent contributor to this 
+literature has put it, “A system may fail to operate in the desired way because 
+knowledgeable actors are missing, because connections are absent or because 
+system boundaries are drawn in the wrong place. Attention to these issues 
+
+13
+provides the basic rationale for innovation systems policy” (Metcalfe 2007: 447; 
+also see Metcalfe 2005: 54-63, 2007: 447-48; Smith 2000: 93-100; Edler and 
+Fagerberg 2017: 5, 8-10; Weber and Truffler 2017: 112).
+
+For instance, if the legal rules governing intellectual property are too lax, then 
+organisations may doubt that they will earn a sufficient return on their investment 
+in developing new products and production techniques, deterring them from 
+making such investments and thereby deterring innovation. But if the rules are too 
+harsh, then the diffusion of knowledge required for innovation will be impeded. 
+To take a second example, if a country’s system of corporate governance—the 
+rules governing the provision of finance and the possibility of takeovers—is such 
+that firms rely heavily on equity capital and have to focus on the short-run price of 
+their shares, then they may be reluctant to undertake the long-term investments 
+required to support innovative activities (Woolthius et al., 2005: 613; BIS 2011: 29).6 
+
+The possibility of such ‘systemic’ problems implies a possible role for the state, not 
+just in correcting market failures, but in improving the institutional framework—the 
+set of rules—within which innovation takes place (Metcalfe 2007: 448-52; Edler 
+and Fagerberg 2017: 9-10). Just as system failures may reflect the fact that some 
+of the relevant organisations may be missing entirely, or that they are governed by 
+rules that discourage them from doing what is required to generate and use new 
+technologies, so too there are two broad sets of policy responses:
+
+•  policy can focus on the organisations that are the elements in the system, 
+
+through the creation of ‘missing’ organisations or by building their individual 
+capabilities to develop and exploit innovations; or 
+
+•  it can focus on the rules governing how those organisations interact with each 
+other—i.e., it can focus on the connections between the elements, rather 
+than the elements themselves—by seeking to bring the different organisations 
+together to facilitate more effective development, diffusion, and use of 
+knowledge (Edler and Fagerberg 2017: 5; Fagerberg 2017: 502). 
+
+The innovation systems literature has acquired a significant following among policy-
+makers, not least because of its adoption by the OECD (1997b, 1999, 2002). It has 
+also received attention from policy-makers in the UK (see, for example, BIS 2011: 
+10, 28-30; DBIS 2014: 11-26; GES Group on Growth 2014; Hauser 2014: 10, 45). 
+As least part of its appeal derives from the fact that—compared to neoclassical 
+approaches to policy—it encompasses a greater range of influences on innovation 
+and so affords policy-makers a wider scope for possible policy intervention 
+(Mytelka and Smith 2002; Sharif 2006; Weber and Truffler 2017: 106-09).
+
+6  We shall explore in greater detail below a training-related example of system failure.
+
+14
+5.  THE INNOVATION SYSTEMS APPROACH AND 
+TECHNICAL EDUCATION
+
+An important influence on innovation is a country’s education system, which is 
+a key element in shaping the economy’s ability to generate the skills required to 
+develop and make effective use of new technologies (Nelson 1992: 351, 358-59; 
+Metcalfe 2005: 68-69, 2007: 449-50; BIS 2011: 5, 29-30, 111-17). However, while 
+contributions to the innovation systems literature occasionally mention vocational 
+education and training, and the organisations through which it is provided, attention 
+tends to be concentrated primarily on universities and graduates (see, for example, 
+Nelson and Rosenberg 1993: 13; Edquist 1997b: 20; Edquist and Johnson 1997: 47; 
+Edler and Fagerberg 2017: 11-13; Fagerberg 2017: 504).
+
+This gap in the literature has not gone unnoticed. For instance, Edquist (2005: 
+195) has observed that there is “little systematic knowledge about the ways in 
+which the organization of education and training influences the development, 
+diffusion and use of innovations”. Similarly, Shapira et al. (2010: 462) remark that 
+“innovation scholars have hardly addressed the educational system. Research 
+in the requirements the knowledge society asks from the education system is 
+scarce.” In a survey of work on the relationship between skills and innovation, 
+Jones and Grimshaw note that while those two factors are commonly held to be 
+key determinants to economic growth, “there is a surprisingly limited appreciation 
+of how these core features combine and interact both at the firm level and at 
+the interface between tertiary education and industry … for the most part the 
+training/skill-innovation inter-linkages remain under-researched” (2012: 3; also see 
+p. 7). One key question, they suggest, concerns the relative merits of high-level, 
+tertiary education as opposed to intermediate, vocational education for innovation 
+(Jones and Grimshaw 2012: 3, 6-7). Most recently, Borras and Edquist (2015: 225) 
+refer to “important gaps in the literature that warrant further research efforts in 
+the near future” such as “the lack of empirical studies that look at the effects of 
+vocational education and training schemes.” Finally, two authors of a recent paper 
+on the link between university education and innovation note that, “[I]n focusing on 
+firms, investors, and elite research institutions, innovation scholars have neglected 
+the dynamics of skills and the key role of educational institutions” (Vona and 
+Consoli 2014: 1395).
+
+5.1 INNOVATION AND THE INSTITUTIONS GOVERNING TECHNICAL 
+EDUCATION
+The aim of this section of the report is to begin to help fill that gap in the 
+literature, by examining the importance of technician skills and training in 
+developing the capacity of firms to innovate, and the role of organisations involved 
+in vocational education and training in supplying those technicians. As noted above, 
+technicians are workers occupying roles that require ‘intermediate’ skills in science, 
+technology, engineering and/or mathematics. They use their knowledge of those 
+disciplines, and related practical skills, to solve practical problems arising in research 
+and development, production, and maintenance. 
+
+15
+The following section of this report will explore both the contribution that 
+technicians make to innovation and also the role of the organisations involved in 
+technician training, along with the rules governing their behaviour, in helping or 
+impeding efforts to ensure that innovative firms have the technicians they need to 
+develop and exploit the potential of new technology. 
+
+5.2  THE CONTRIBUTION OF TECHNICIANS TO INNOVATION
+This section considers two key ways in which technicians can contribute to 
+innovation. The first concerns how technicians contribute to what is known as 
+the absorptive capacity of firms (that is, to firms’ ability to understand and make 
+effective use of new knowledge about products and production processes). The 
+second concerns the contribution that technicians can make to the generation of 
+new knowledge about products and methods of production. 
+
+5.2.1 Absorptive capacity
+The term ‘absorptive capacity’ refers to “the ability of a firm to recognise the value 
+of new, external information, assimilate it, and apply it to commercial ends” (Cohen 
+and Leninthal 1990: 128; also see Zahra and George 2002). A firm’s absorptive 
+capacity is therefore its ability to understand and make effective use of new 
+knowledge and innovative technologies. One of the key determinants of absorptive 
+capacity is the technical skills and knowledge of a firm’s workforce (Cohen and 
+Levinthal 1990: 129-33; Jones and Grimshaw 2012: 4, 20-16: 113; Government 
+Economic Service 2014: 3 n. 1, 20, 24-25; Mason et al., 2017). The capacity for 
+successful innovation—and, in particular, for the successful commercialisation of 
+new technology—depends upon employers having workers who can deploy and 
+use that technology to good effect, thereby helping to ensure that its potential 
+is realised. While highly qualified engineers and scientists are likely to play a very 
+significant part in identifying the relevant knowledge in the first place, evidence 
+indicates that technician-level workers also make important contributions to firms’ 
+efforts to apply that knowledge successfully in the workplace. More specifically, 
+it is possible to distinguish between potential absorptive capacity, defined as the 
+ability to identify and acquire relevant external knowledge of new technologies, 
+and realised absorptive capacity, which refers to the ability to apply that knowledge 
+to good effect within the organisation (Zahra and George 2002). This distinction 
+parallels that between ‘exploration’, understood as the search for new technologies 
+and ‘exploitation’, centrally involving the application and refinement of known 
+technologies, drawn by March (1991). It is to a firm’s realised absorptive capacity 
+that technicians mainly contribute (Mason et al. 2017: 8).
+
+The reason is straightforward; the effective deployment of technology to bring 
+about improved operational performance depends upon the ability of technicians 
+to install, adapt, operate, trouble-shoot, and maintain the technology in question. A 
+few illustrative examples are as follows:
+
+•  Technicians are involved in the installation, commissioning, maintenance and 
+improvement of plant and facilities in the chemical industry and in industrial 
+biotechnology (Lewis 2013: 13-15, 2016a: 20-22, 25).
+
+•  In the automotive industry, technicians play a critical role in helping firms 
+realise the potential for changes in technology and work organisation to 
+reduce costs and improve output quality (Mason and Wagner 2005).
+
+16
+•  In the garment industry, machine operators who are more skilled at reading 
+
+technical drawings take less time, and require less supervisory assistance, when 
+putting a new style into production (Prais 1995: 69).
+
+A firm’s absorptive capacity will be greater if its technicians have broader, 
+occupationally-oriented skills, coupled with a sound grasp of the relevant 
+theoretical principles, rather than narrow, job-specific skills with little underpinning 
+knowledge. Technicians with a wider range of skills and good underpinning 
+knowledge are better placed to incorporate the use of new technology into their 
+routines and thereby to facilitate its effective use (Tether et al., 2005: 6-7, 60-61; 
+Toner 2011: 47). Evidence indicates that higher-level technician skills in particular 
+make a significant contribution to firms’ performance in the area of innovation, by 
+enabling them to exploit new knowledge (Mason et al., 2017).
+
+If there is a shortage of technicians, if their skills are tailored to the requirements 
+of a specific role, or if they lack a good grounding in the relevant theoretical 
+knowledge, then the technician workforce will be ill-equipped to adapt to new 
+technologies and to exploit their potential to the full. In such cases, firms will have 
+poor absorptive capacity, suffering from a deficient capability to innovate because 
+they do not have enough appropriately trained and educated technicians to make 
+the best use of new technologies. Some examples of the kinds of problems that 
+can arise include the following:
+
+•  Difficulties with the technician workforce have in the past made it hard 
+
+for firms in the UK automotive industry to respond to the advent of new 
+technology and the demands created by the restructuring of supply chains, 
+leading to slower innovation and lower productivity and competitiveness than 
+would otherwise have been the case (Mason and Wagner 2005). 
+
+•  Matched-plant studies have shown that historically British engineering firms 
+
+have been slower than their German counterparts to use new equipment, and 
+have tended to use simpler models, because deficiencies in the skills of their 
+technician workforce mean that managers are not confident of their workers’ 
+ability to make good use of new technology. Such firms suffer from a deficient 
+capacity to absorb new knowledge and innovative technologies, leading to 
+slower innovation and lower productivity and competitiveness (Prais 1995).
+
+•  Firms in the advanced manufacturing sector that wish to shift from the use of 
+metallic to composite components have struggled to recruit workers skilled at 
+working with composite materials, hampering their efforts to make effective 
+use of innovative, composite-based methods of production (Lewis 2012a: 21-
+22, 38, 2013b: 33-35).
+
+•  Similarly, organisations in a variety of industries that are seeking to replace 
+
+methods of production based on chemical synthesis with the use of biological 
+substances and processes have noted the difficulties caused by a lack of 
+manufacturing technicians with the relevant skills (Lewis 2016a: 31-32).
+
+17
+In all such cases, to use the language of the innovation system approach, the 
+interactions between firms and the organisations involved in vocational education 
+and training are deficient in some key respect, implying that firms cannot obtain 
+the skilled technician labour they need to develop and use new technologies to 
+good effect (DBIS 2014: 22-23). We shall elaborate below on this notion of system 
+failure in the case of vocational education and training. Before doing so, however, 
+we shall consider two more ways in which technicians contribute to innovation, in 
+addition to facilitating the diffusion of new technologies, both of which involve them 
+contributing to the creation of the new knowledge upon which innovation is based.
+
+5.2.2 Technician-driven (bottom-up) innovation 
+Evidence suggests that, in addition to playing a key role in putting new 
+technologies to good use, technicians also make a direct, and important, 
+contribution, to the creation of the knowledge that informs both radical and 
+incremental innovation. 
+
+5.2.2.1 Radical innovation
+Studies of R&D indicate that while highly qualified research scientists and 
+engineers play the principal role in the creation of the knowledge involved in 
+radical innovation, technicians also make a significant contribution in two ways. 
+
+First, technicians make a direct contribution to knowledge creation by designing 
+and building many of the instruments and experimental rigs involved in research. 
+Researchers often do not provide the technicians with detailed technical drawings 
+of the kind of instrument or apparatus required to bring the experimental part 
+of the research projects to a successful conclusion. On the contrary, they often 
+provide technicians with no more than a rough sketch of the kind of instrument 
+or apparatus required to solve the technical problems that arise in the course of 
+their research. It is then up to the technicians to draw on their knowledge and 
+practical expertise of engineering—their knowledge of the properties of different 
+kinds of material and their understanding of what particular tools can be used to 
+achieve—along with their general problem-solving skills in order to design and 
+build the requisite instrument or experimental apparatus. The process through 
+which the final design of the experimental apparatus or instrument emerges 
+is therefore perhaps best described as a dialogue or iterative process in which 
+researchers and technicians work as a team in order to develop the instrument 
+or experimental apparatus required to give practical effect to researchers’ 
+ideas. Through such informal interaction with researchers, technicians make an 
+invaluable, if all-too often unheralded, contribution to research (Toner at al. 2010: 
+3-5; Lewis and Gospel 2011: 16-17; Herrmann and Peine 2011: 698).
+
+Second, technicians’ experience of operating and maintaining machinery, and of 
+manufacturing products, affords them important practical knowledge of what 
+designs work well and which give rise to problems. This information enables 
+technicians to provide advice to the scientists and engineers involved in R&D 
+about which designs are likely to work well and so should be adopted and which 
+will be hard to realise in practice and so should be dropped. Some examples of 
+the kind of contribution technicians can make are as follows:
+
+18
+•  In industries that use composites materials, technicians’ experience of how 
+work is actually carried out on the shop floor—and, in particular, their 
+awareness of the difficulties that can arise in realising certain kinds of design—
+enables them to provide valuable advice and feedback to ostensibly better 
+qualified, but in terms of hands-on laminating often less knowledgeable, 
+graduate engineers about how to design components in ways that make them 
+as easy to manufacture as possible. For example, one high-end automotive 
+company reported that it had greatly improved the process through which 
+new composite components were made by having technicians in its design 
+office who ‘have a feel for’ what composite materials can and cannot be made 
+to do and what kinds of design can be made quickly and reliably and which 
+cannot (Lewis 2013b: 22-23).
+
+•  Skilled technicians play a key role in the development of new goods by 
+high-end producers of kitchen and tableware such as Alessi, by acting as 
+intermediaries between designers and manufacturing engineers in order to 
+ensure that the designs chosen can readily be manufactured (BIS 2011: 16-17; 
+D’Ippolito 2014: 1335, 1343-44).
+
+•  An organisation involved in the maintenance, repair and overhaul of 
+
+commercial aircraft described how its technicians pointed out to a chartered 
+design engineer that the repair he had designed for an aircraft structure would 
+not be feasible, because in practice the pipes and wiring looms on the aircraft 
+precluded the kind of access needed to effect it (Lewis 2012a: 9).
+
+These examples illustrate how technicians make their own distinctive contribution 
+to the knowledge creation required for R&D. This is of course consistent with the 
+non-linear view of innovation; rather than simply implementing ideas developed by 
+the scientists and engineers involved in R&D, technicians draw on their knowledge 
+of what designs can be turned into reality at later stages of the innovation process 
+to feed back on and inform underlying research and development.
+
+These examples have important implications for the organisation of work in 
+organisations carrying out R&D, namely that firms seeking to innovate should not 
+leave their R&D department to operate in isolation from their manufacturing 
+operation, lest they end up designing products that do not lend themselves to 
+manufacturing in a straightforward way. As Cohen and Levinthal (1990: 134) put it: 
+“a process in which one unit [R&D] simply hands off the design to [another unit] is 
+likely to suffer greater difficulty” than one where R&D and manufacturing and work 
+together, with technicians incorporated into R&D departments (also see Toner et 
+al. 2010: viii-xi, 28).
+
+5.2.2.2 Incremental innovation
+It is also increasingly widely recognised that, in addition to contributing to and 
+facilitating the diffusion of radical innovations, technicians also play a key role in 
+incremental innovation (that is, the gradual improvement of existing products and 
+technologies). In the words of the historian of technology Nathan Rosenberg, 
+incremental innovations “involve endless minor modifications and improvements in 
+existing products, each of which is of small significance but which, cumulatively, are of 
+major significance” (Rosenberg, 1994: 14-15). They require an “intimate familiarity with 
+the minutiae of the productive sequence” of the kind technicians acquire through 
+their experience of installing, operating, maintaining, adapting, and solving problems 
+
+19
+with, the machines and processes in which technology is embodied (Rosenberg 1982: 
+122). In performing their duties, therefore, technicians learn how the technologies 
+in question can be improved, enabling them to contribute to the creation of the 
+knowledge that gives rise to incremental innovation. Such incremental innovation is 
+highly significant, suggesting another important route through which technicians have 
+an important contribution to make to innovation (HØyrup 2010: 144, 149; Toner 
+2010: 78-79, 2011: 3, 26-29; also see Dahlman and Nelson, 1995: 95). 
+
+The degree to which a firm’s workforce actively engages in such bottom-up, 
+incremental innovation is strongly influenced by the way in which work is organised, 
+in particular by the extent to which technicians are allowed and encouraged to 
+make suggestions for how technology can be improved (Høyrup 2010: 150; Toner 
+2011: 3; Jones and Grimshaw 2016: 110). The organisational policies which facilitate 
+technician-driven innovation often fall under the heading of ‘high-performance work 
+systems’ (HPWS). These can be defined as organisational practices and arrangements 
+that enhance a firm’s capacity for making incremental improvements to the efficiency 
+of its work processes and to the quality of its products and services (Arundel et al. 
+2006: 1178-79; Toner 2011: 53). Features of HPWS include the following:
+
+•  broad-based job descriptions and occupationally-oriented training which, when 
+coupled with extensive job rotation, increases both the flexibility of workers 
+and also their capacity to understand the production process and thereby 
+contribute to its improvement;
+
+•  the granting of significant autonomy to workers involved in production, so that 
+they have the scope to act on their practical knowledge of how production 
+might be improved;
+
+•  the development of trust between workers and management, so that the former 
+
+are willing to advance their ideas for how improvements can be made; and
+
+•  rewards in the firm of bonus payments and/or enhanced prospects for 
+
+promotion when the active participation of front-line workers in innovation 
+leads to improvements.
+
+These HRM practices are often complementary or mutually reinforcing in 
+the sense that the impact of any one of them is greater if it is combined with 
+others than if it is adopted in isolation. For instance, autonomy and training are 
+complementary because affording workers the opportunity to take the initiative in 
+making incremental improvements in production is typically more effective if they 
+have the skills and knowledge required to identify and enact such improvements 
+(Michie and Sheehan 1999; Laursen and Foss 2003; Jensen et al. 2007: 684; Toner 
+2011: 54-56; Sung and Ashton 2015: 134-69; OECD 2017: 11, 74-75). 
+
+What the evidence reported in this section suggests, therefore, is that the 
+knowledge creation involved in innovation is no longer regarded as the exclusive 
+preserve of people educated at graduate level and above, working in R&D facilities, 
+but rather is conceptualised as issuing from several levels of the workforce, 
+including technicians. The practical experience gained by technicians in carrying out 
+their duties can be harvested and made explicit, leading to a change in the firm’s 
+working routines so that technology is better used. This is, of course, of a piece 
+
+20
+with the non-linear model of innovation described above, in which the learning 
+that gives rise to innovation is generated not just from pure scientific but also from 
+several other sources of the process through which new technologies come to be 
+developed and deployed, including the production stage in which technicians are so 
+intimately involved (Jensen et al. 2007; HØyrup 2010: 151-53; Toner 2010: 78). 
+
+This type of analysis arguably leads to the view that the scope of public policy ought 
+to extend beyond a focus on the supply of skills towards a concern with how skills 
+are deployed in the workplace and, in relation to this, with employers’ demand for 
+skills. For if the impact of an increase in skills on innovation is contingent on the 
+other practices adopted by firms, such as how they organise work and whether 
+they adopt a low skill/low cost/low value business strategy, competing principally on 
+the basis of price, or a high skill/high cost/high value one, competing on the basis 
+of quality, then it might be argued that government ought to encourage business 
+strategies and forms of work organisation that mobilise high levels of skill and high 
+value added (Finegold and Soskice 1988; Ramstad 2009; Campbell 2012: 33-35; 
+Keep and Mayhew 2014; Keep 2013; Sung and Ashton 2015).
+
+5.3.  TECHNICAL EDUCATION AND SYSTEM FAILURES
+In this section we draw on the notion, outlined above, of ‘system failure’ to 
+analyse some of the problems that can arise when the organisations and rules 
+governing the provision of vocational education and training fail to disseminate 
+the information and other resources, and to coordinate the activities, required to 
+develop the technician workforce needed to make good use of new technologies.
+
+5.3.1 Education and training organisations, ‘skills systematisation’ and 
+coordination failures
+Standard human capital theory, on which the economic analysis of vocational 
+education and training is based, typically assumes that education and training 
+providers alter their offerings seamlessly to the availability of new technologies, 
+however novel, and automatically offer the right kind of training to enable firms 
+to build the absorptive capacity to exploit them (Nelson and Phelps 1966; 
+DBIS 2014: 22-23). It therefore ignores the possibility that the organisations 
+involved in education and training may fail to adjust their offerings appropriately, 
+thereby hindering the adoption of the technology in question, with detrimental 
+consequences for innovation, productivity and economic growth (Andreoni 2014: 
+58, 60; Vona and Consoli 2014: 1394-95, 1400). 
+
+ 
+
+Recent work has attempted to fill this gap by considering explicitly the role of 
+educational organisations—such as schools, universities and training providers—in 
+facilitating, or hampering, the development of the skills required to realise fully the 
+potential of new technologies (Vona and Consoli 2014). Instead of simply assuming 
+that such organisations seamlessly adjust their offerings to match the requirements 
+of new methods of production, this literature examines the effectiveness of those 
+organisations, and the rules governing their behaviour, in facilitating or hampering 
+the development of the workforce required for the successful diffusion of new 
+technology. As two of the researchers who have developed this approach put it, 
+their goal “is to articulate in detail the link between the emergence of new skills 
+closely tied to radical new technology and the adjustments that are made in formal 
+education to reap the potential benefits of innovation” (Vona and Consoli 2014: 
+1393; also see p. 1397). 
+
+21
+A key concept in this literature is that of ‘knowledge systematisation’, which is 
+used as a conceptual device for connecting technology, organisations and human 
+capital. Initially, as a new technology is first being developed, the activities associated 
+with it tend to be complex, ill-structured, and the preserve of a small number of 
+specialist researchers. The relevant knowledge is mostly tacit, and therefore difficult 
+to transfer without personal interaction between those who already possess it 
+and those attempting to acquire it. As the technology is developed, however, 
+it becomes possible to articulate, systematise and standardise the production 
+techniques in question, so that they can be reduced to a series of explicit, routine 
+work instructions or standard operating procedures of the kind that can be carried 
+out by a skilled technician (as required for the efficient scaling-up of production 
+from an R&D facility or process development plant to full scale manufacturing).7 As 
+this process of ‘knowledge systematisation’ takes place, the education system has 
+an important role to play in ensuring the availability of the skills required for the 
+effective exploitation of this developing technology. In particular, the organisations 
+involved in education and training must offer the relevant programmes, so as 
+to facilitate the training of workers with the skills required for the widespread 
+exploitation of the new technology (Vona and Consoli 2014: 1394-99; also see 
+Tether et al., 2005: 8, 97, Toner 2011: 29, and D’Ippolito et al. 2014: 1335-36).8
+
+If they do not do so—if the relevant education and training organisations are 
+absent, or if the institutional rules governing their behaviour are inappropriate—
+then there arises the possibility of coordination failures, whereby the education 
+system fails to align the accumulation of human and physical capital, focusing on one 
+kind of skills (graduate, say) and neglecting others that are needed to exploit novel 
+technology (for example, technician-level skills).9 Such coordination failures lead 
+to structural mismatches between the stocks of physical and human capital. These 
+manifest themselves along the lines described in Section 5.2.1 above and Section 
+5.3.2 below, in problems such shortages of technicians, deficiencies in technician 
+skills, and/or the use of over-qualified but under-skilled graduates in technician roles, 
+that hamper the ‘absorption’ of new technologies and thereby inhibit productivity 
+and economic growth (Amendola and Vona 2012: 633-34; Vona and Consoli 2014: 
+1400-05; Andreoni 2014: 60-62, 65; Borras and Edquist 2012: 223; Smith 2010: 89-
+90; Weber and Truffler 2017: 112). 
+
+Failings of this kind are ‘systems failures’ in the sense in which that term is used in 
+the innovation systems literature; the system of organisations and rules within which 
+innovation occurs is inadequate to coordinate all the activities required to ensure 
+that new technologies are developed and diffuse properly through the economy, in 
+this case because the organisations governing vocational education and training do 
+not supply firms with the specific types of human capital required to make best use 
+of the technologies in question. Put slightly differently, if it is indeed the case that one 
+of the attributes of a well-functioning innovation system is its “capability to ensure 
+timely access by innovators to the relevant stocks of knowledge” (Smith 2000: 78), 
+and if those stocks of knowledge including the practical and theoretical knowledge 
+embodied in skilled workers at all levels, including technicians, then where the 
+
+7 For discussions of this process in the case of cell therapy and regenerative medicine, see Eriksson and Webster (2015).
+8  Earlier  analyses  of  technology-driven  economic  development  have  underlined  the  significance  of  supportive  educational 
+institutions  in  facilitating  the  systematic  updating  of  educational  curricula  for  the  development  of  the  chemical  and  petro-
+chemical industries (Nelson 1994; Rosenberg and Nelson 1994; David and Wright 1997). They have, however, tended to focus 
+on the importance of universities rather than institutions involved in vocational education and training.
+9  This is in addition to the possibility, long discussed in the literature on human capital, that there may be a market failure to 
+invest adequately in skills due to employers’ fear of poaching (Stevens 1999; Lewis 2014a: 13-16). 
+
+22
+organisations involved in vocational education and training do not supply adequate 
+numbers of skilled technicians the innovation system can be said to have failed 
+because it is not providing firms with the right quantity, and blend, of practical and 
+theoretical knowledge to make the best use of new technologies.
+
+5.3.2 Systems failures in the UK: The case of technician skills for emerging technologies
+There is evidence of coordination problems of the kind just described in the 
+case of technician skills and training for emerging technologies in advanced 
+manufacturing in the UK. Employers seeking to deploy new technologies in the 
+space industry, in advanced therapies, in industries that make use of composite 
+materials, and in industrial biotechnology all report significant difficulties 
+in obtaining the skilled technician labour they need to deploy those new 
+technologies effectively. For example, as noted above, space firms struggle to hire 
+experienced, high-quality manufacturing technicians, as do employers in industrial 
+biotechnology and the advanced therapies industry (Lewis 2012b: 25-26; 2016a: 
+34-35). Employers in the aerospace and automotive industries who wish to make 
+greater use of composite parts find it hard to recruit technician skilled at working 
+with that material (Lewis 2012a: 21-22, 2013b: 33-35).10 These shortages impose 
+limits on the absorptive capacity of firms.
+
+Employers in some industries have responded to shortages of genuine 
+technicians—and the abundance of science graduates produced by UK 
+universities—by recruiting graduates to fill technician roles. This is especially 
+common, for example, in the case of laboratory and manufacturing technician roles 
+in the chemical industry, industrial biotechnology, and in cell therapy/regenerative 
+medicine (Lewis 2013a: 16-18, Lewis 2016a: 17-20, 31-32; Lewis and Gospel 2015: 
+10-11; House of Lords 2018: 23-25). This is a case of over-qualification; the level of 
+education possessed by the graduates exceeds that required for the role.11 The use 
+of graduates to fill such roles is often a mixed blessing, bringing short-term benefits 
+in the form of cheap labour—the abundant supply of such workers produced by 
+UK universities means that they can often be hired at relatively low wages—but 
+also giving rise to two kinds of problem in the longer term. 
+
+First, whilst graduates may possess a higher level of theoretical knowledge than 
+is needed to fill a technician role, they are also often under-skilled, because they 
+lack the practical skills required to apply that theoretical knowledge to good 
+effect in the workplace and thus to do the job well. This is an example of what 
+a recent study of over-qualification refers to as a “possibility which tends to get 
+overlooked—that graduates are less capable in some occupations than the non-
+graduates they are displacing” (Holmes and Mayhew 2015: 12). This is because 
+certain skills are more effectively produced in the workplace through supervised 
+practice, rather than in an academic institution. However, given labour market 
+and societal pressures and government rhetoric and information, the sort of 
+able young person who might once have gone down a work-based vocational 
+learning route (and successfully entered a good occupation) opts instead to apply 
+to university, and consequently fewer new labour market entrants have those 
+
+10 This is against the background of more general evidence of shortages of skilled technicians (UKCES 2010a, 2010b, 2015: 66-
+71; Adonis 2014: 6-9; HM Government 2017: 37-38, 48; OECD 2017: 26-27). Evidence indicates that the share of the workforce 
+with technician or intermediate-level skills is significantly lower in the UK than in our major competitors (HM Treasury and 
+Department of Business, Innovation and Skills 2011: 36; BIS 2015: 17).
+11 Evidence indicates that the problem of over-qualification is significant both in absolute terms, with somewhere in the region 
+of one quarter and one third of UK employees falling into that category (Chevalier and Lindley 2009; Green and Zhou 2010; 
+UKCES 2015: 7, 57), and also that the scale of the problem is worse in the UK than in most other European nations (OECD 
+2013: 171; Holmes and Mayhew 2015: 25-28).
+
+23
+particular skills. (Holmes and Mayhew 2015: 12; also see UKCES 2015: 46 and 
+Jones and Grimshaw 2016: 109.)
+
+Second, graduates often quickly become dissatisfied, both with the often mundane, 
+highly routinised nature of much technician work and also with the relatively low 
+wages they earn in such roles, and so often leave relatively soon after joining their 
+employer. The combination of these two problems—a lack of practical skills, which 
+implies that graduates require on-the-job training in practical skills, and high labour 
+turnover amongst graduates in technician-level roles—is especially frustrating for 
+employers who, having spent time and effort equipping the graduates with the 
+practical skills required for technician roles, then see them leave before the firm 
+enjoys a return on its investment.
+
+What these findings suggest is that the UK education system is arguably producing 
+the wrong mix of skills, with too many graduates and too few technicians being 
+educated in some STEM disciplines. As a recent report House of Lords Report 
+on the economics of post-school education described the situation, “There is a 
+skills mismatch in the UK: despite the record numbers of the population with an 
+undergraduate degree businesses are reporting a shortage of people with technical 
+skills … Rather than a need for more STEM graduates … the greater shortages 
+today appear to be for people with sub-degree qualifications … there is an acute 
+shortage of technician-level STEM skills (House of Lords 2018: 15, 22; also see pp. 
+5-8, 23-27, 42-53, National Audit Office 2016: 8, 18, 23-26, and OECD 2017).12 As 
+noted above, this kind of mismatch is symptomatic of system failure, involving firms 
+suffering from reduced absorptive capacity arising in this case because the rules 
+governing the provision of different kinds of post-school education in the UK have 
+encouraged too great a focus on graduates compared to technicians. 
+
+Increasing numbers of employers in emerging industries are responding to the 
+problems posed by shortages of technicians, and the shortcomings of graduates, by 
+turning towards apprenticeship training.13 Where successful, this brings a number 
+of benefits. A successful training scheme yields a supply of skilled workers to 
+fill technician roles in the face of a paucity of skilled technicians on the external 
+labour market, improving firms’ absorptive capacities. It also produces workers 
+who, having enjoyed significant on-the-job training as well as off-the-job technical 
+education, have good practical skills. Moreover, having come up via a ‘work-based’ 
+route, ex-apprentices are less likely to be encumbered with unrealistic, graduate-
+level expectations of what their job will involve. Finally, apprenticeship training 
+gives employers an opportunity to shape their values (for example, about the 
+standards to which work needs to be done). It also builds loyalty, as former trainees 
+reciprocate the investment firms have made in them through greater commitment 
+to their employer (Ryan et al. 2007: 140-41; Lewis 2012a: 29, 2012b 31-32). 
+
+However, many of the employers who have attempted to train apprentices to 
+work with emerging technologies have faced serious problems obtaining the 
+requisite education and training. Two broad categories of difficulty can be identified. 
+
+12 “The evidence suggests that there is a mismatch between the qualifications and skills provided by the higher education 
+system and the needs of the labour market … The combination of incentives to offer and study for undergraduate degrees has 
+had a negative effect on the provision and demand for other types of higher education … [T]he lack of sub-degree technical 
+qualifications  has  led  to  a  mis-match  between  the  skills  attained  through  the  education  system  and  those  required  by  the 
+economy” (House of Lords 2018: 9, 55).
+13 An ‘apprenticeship’ is a contract between an employer and a young person that combines a structured programme of 
+on-the-job training and productive work with part-time, formal technical education. Apprenticeship training, which is usually 
+formally certificated, equips people with intermediate-level skills of the kind required by people who fill roles typically described 
+as ‘Skilled Trades’ and ‘Technicians/Associate Professionals and Technical Occupations’ (Ryan et al. 2007: 129; Lewis 2014a: 1).
+
+24
+First, many of the organisations that are currently take apprentices, or are seriously 
+thinking about doing so, have had difficulties obtaining the off-the-job technical 
+education their apprentices require if they are to acquire the theoretical knowledge 
+they need to do their job well. For example:
+
+•  Employers in the space industry have struggled to find a local college 
+
+or university willing to offer the off-the-job courses their manufacturing 
+apprentices need (in particular, HNCs in electronics);
+
+•  Employers in the composites sector have found it hard to find colleges willing 
+
+to offer their apprentices modules in composites engineering;
+
+•  Firms in industrial biotechnology have found it difficult to persuade local 
+
+colleges to offer courses in the underpinning knowledge required by their 
+laboratory technicians and, in the case of industrial biotechnology, their 
+manufacturing technicians as well. 
+
+Second, firms in the composites, industrial biotechnology, and cell therapy/
+regenerative medicine industries have also struggled to persuade colleges to offer 
+high-quality, up-to-date practical training for their apprentices so that they can learn 
+how to use new methods of production. The problem here sometimes centres on 
+a total absence of provision, as experienced by employers in the life sciences who 
+wish their apprentices to receive training in cell cultivation under clean room/cGMP 
+conditions; and sometimes—as in the case of employers with apprentice aircraft 
+mechanics and composite technicians—on inadequate provision, delivered in poor 
+facilities by lecturers unfamiliar both with the techniques and materials currently 
+used in industry and also with current standards of good practice (Lewis 2012b: 
+31-32, 2012b: 31-32, 2013b: 46-47; Lewis 2016a: 39-40).
+
+The principal reason for these problems lies in what might be called ‘the tyranny 
+of small numbers’. The total number of apprentices wanting to take the courses in 
+question in the relevant geographical area is too small for it to be in the interest of 
+colleges to offer them, given the high fixed costs of providing the training in question 
+and the prevailing funding regime under which colleges and other providers operate. 
+As Alison Wolf has explained, the rules governing apprenticeship funding encourages 
+providers to focus provision on shorter, cheaper, lower-level (1-2) programmes, 
+in subjects such as customer service and business administration, rather than the 
+longer, more expensive, higher-level (3-5) apprenticeships required by employers in 
+advanced manufacturing. This is so, Wolf argues, for two main reasons: first, because 
+such courses are easier to pass, so that it is easier for providers to claim funding for 
+them under the current ‘output-related’ funding system; and also, second, because 
+for any given level of difficulty, if a provider offers a large number of shorter courses, 
+then the risk of it suffering an unexpected shortfall of income because of an unusually 
+high number of failures in any one group is reduced if that risk is spread over a larger 
+number of cohorts (rather than a smaller number of groups on longer programmes). 
+One might even say that there is a skills ‘valley of death’, whereby training providers 
+struggle to develop commercially-viable programmes for emerging technologies in 
+advanced manufacturing, akin to the technology ‘valley of death’ that thwarts efforts 
+to commercialise the new technologies themselves.14 The upshot is a situation 
+where training providers lack the incentive to offer the kinds of courses needed by 
+
+14 The ‘valley of death’ is the term used to describe the phase of innovation between research and the initial generation of 
+ideas, on the one hand, and their full-scale commercial exploitation, on the other (McKinsey Global Institute 2012: 136; Edler 
+and Fagerberg 2017: 17).
+
+25
+employers in advanced manufacturing who wish to train apprentices to work with 
+new manufacturing technologies (Wolf 2015: 5-6 9-12, 32; BIS 2015: 18 30-31; HM 
+Government 2017: 39, 41-42; House of Lords 2018: 48-50, 74-75; York Consulting 
+2018: i, 5-8; also see Toner 2010: 83, OECD 2017: 21-22, 51 and NASEM 2017 
+106).15 This is another example of system failure, exemplifying the kinds of 
+difficulties that can arise when the rules governing the behaviour of education and 
+training providers discourage them from offering the programmes required by 
+employers seeking to deploy new technologies. 
+
+5.4  TECHNICIANS AND INNOVATION: A POSSIBLE SOLUTION
+The evidence from several emerging sectors suggests, therefore, that the rules 
+governing the relations between emerging manufacturing sectors and the 
+educational system, in particular the system of vocational education and training, 
+are flawed, in such a way that there are insufficient technicians with the skills 
+required to facilitate the successful adoption of new technologies. What is required 
+for successful innovation, in addition to the high-level scientific and engineering 
+capability to develop new technologies, is a set of educational organisations and 
+rules that will provide in a timely manner the technician skills needed to implement 
+new technologies to good effect at commercial scale. Put slightly differently, the 
+development of the technician workforce must take place in concert with, and be 
+accorded the same priority as, technology development, rather than happening—as 
+is all too often the case at present—as an afterthought.
+
+Aside from undertaking a general reform of the funding regime governing FE 
+colleges and other training providers (House of Lords 2018: 42-53), policy-makers 
+could address this problem, and thereby help to ensure an adequate supply of 
+skilled technicians for employers seeking to deploy innovative technologies in 
+advanced manufacturing, by considering the following approach:
+
+•  First, develop only a small number—one or two—of centres of excellence 
+that offer the requisite training, located in areas where there is a significant 
+concentration of the relevant kind of manufacturer.
+
+•  Second, ensure that those organisations offer training via distance learning, 
+
+supplemented by periodic residential courses or stints of block release, in order 
+to extend their reach beyond the geographical area in which they are located 
+(and including not just England but other parts of the United Kingdom).
+
+•  Third, as far as possible design the training courses so that they are suitable 
+not just for apprentices from one industry—cell therapy and regenerative 
+medicine, say—but also for two other groups of people: (i) apprentices from 
+other, closely related industries whose training requirements may be similar 
+(e.g. biologics); and (ii) graduate recruits and ‘converts’ from other industries 
+who, while they may have already received significant education and training, 
+may still need additional instruction in the particular requirements of working 
+with the new technology in question (e.g. chemical process operators who are 
+moving into industrial biotechnology). This will further increase demand for 
+the training programmes in question, increasing their financial viability (Lewis 
+
+15  Wolf (2015: 32) highlights how most of the recent increase in apprentice numbers has been concentrated in low-cost areas, 
+and also at below level 2 (also see Lanning 2016: 5-7). Field (2018: 52) reports that a smaller proportion of full-time students 
+study higher-level (level 4/5) technical qualifications in the UK than in many other countries. For more general concerns about 
+whether  the  incentives  that  encourage  the  FE  sector  to  provide  training  in  STEM  disciplines  are  sharp  enough,  see  Skills 
+Commission (2011: 10-11, 23-27), Wolf (2011: 60), Westwood (2016: 47) and Sainsbury (2018: 7). 
+
+26
+2016b: 20; Lewis and Bradshaw 2017: 5). The importance of devising training 
+programmes for existing workers is perhaps especially important in the case 
+of the new skills required of workers in industries where manufacturing will 
+be transformed by innovative digital technologies associated with (so-called) 
+industry 4.0 (Maier 2017). Further research on this issue of the need to retrain 
+the existing technician workforce so that are equipped with the skills required 
+to deal with these developments is urgently required.
+
+•  Fourth, reduce the initial financial outlay, and risks, associated with the 
+
+provision of the practical component of the training by using existing facilities 
+rather than building new ones. The use of existing facilities should reduce the 
+size of the investment required to establish the training programmes because 
+some of the relevant equipment and personnel will already be in place; and 
+it will reduce the risk because the facilities can be used to generate income 
+from sources other than training, such as research/process development work 
+(Lewis 2016a: 44-45; Lewis 2016b: 20- 21).16
+
+Establishing centres along the lines just described holds out the prospect of 
+overcoming the workforce ‘valley of death’—akin to the technology valley of 
+death—that arises at present because training providers fear that there will be 
+insufficient demand for their services to warrant them incurring the high fixed 
+costs of establishing the relevant facilities, etc. 
+
+Prominent examples of the relevant kind of existing facility are to be found in the 
+Catapult Centres.17 Some Catapults, such as the AMRC and MTC, have become 
+involved in apprenticeship training to very good effect; but others have not (Lewis 
+2014b; Burnett 2016; Perkins 2019: 52-53). Using the Catapults has at least two 
+key advantages. First, it would make it possible to avoid the expense of setting up 
+yet another new organisation, which would be wasteful and probably prohibitively 
+costly in the current financial climate. Second, because Catapult Centres are 
+involved in process development work, it should be relatively straightforward to 
+ensure that training programmes and syllabuses are kept up to date and thereby 
+remain attuned to the needs of industry (something that is especially important in 
+an industry like cell therapy/regenerative medicine, where the pace of technological 
+advance in manufacturing is rapid).
+
+More specifically, it should be possible to follow the example of the one of the 
+US Manufacturing Institutes, the American equivalent of the Catapult Centres, 
+and develop within the Catapults so-called ‘expert educator’ teams to engage 
+in the ‘skills systematisation’ required to develop a suitable technician workforce 
+
+16  Employers  might  also  be  encouraged  to  support  the  workforce  development  efforts  of  such  centres,  for  example  by 
+providing up-to-date equipment. This might reflect a wider notion of ‘employer leadership’ than is often used in the field of 
+vocational education and training in the UK, where all too often that phrase is interpreted to mean little more than employers 
+being able to choose from a menu of training programmes to whose provision they have contributed little. Far from being an 
+act of charity, this can of course be in the interests of the firms in question. Not only will employers who contribute benefit 
+from having a better-skilled workforce; in addition, equipment manufacturers who supply kit for the training facility are likely to 
+benefit, not least because if firms cannot be confident that their workers know how to use and maintain a particular piece of 
+equipment, they are unlikely to buy and use it. 
+17 Catapult Centres are technology centres where universities, businesses and government work together to encourage the 
+commercialisation of new technologies. Their goal is to reduce the risks associated with the development of such technologies, 
+in  particular  by  providing  facilities  and  expertise  to  demonstrate  that  the  technologies  in  question  can  work  not  just  at 
+the laboratory level but at full, commercial scale. In this way, by helping to solve some of the market failures that hamper 
+the  commercialisation  of  new  technology,  they  can  help  firms  developing  new  technologies  to  pass  safely  through  the  so-
+called ‘valley of death’ (that is, the phase of innovation between the initial generation of an idea and its full-scale commercial 
+exploitation, through which many innovative technologies fail to pass) (TSB 2011; Hauser 2014: 10-16, 45-46). Other innovation 
+centres, such as NPL and RAL, also arguably have the potential to play a similar role to Catapult Centres in disseminating 
+information about the skills required successfully to exploit new technologies.
+
+27
+for emerging technologies. These consist of a small group of people who are 
+knowledgeable both about science and education, and who will work with the 
+Manufacturing Institute and employers to harvest information about the skills and 
+knowledge needed to exploit new technology and translate it related statements 
+of competence and job descriptions, and educational and training syllabi, so that 
+training programmes keep pace with advances in technology (Bonvillian and Singer 
+2017: 235-36; LIFT 2017: 3-4; Lewis and Bradshaw 2017: 8-9).18 They constitute 
+a concrete example of how it is possible to develop the connections between 
+organisations—in this instance, between employers and providers of vocational 
+education and training—needed to facilitate the flows of information, in this case 
+about the workforce required to operate emerging technologies, required for a 
+smoothly working innovation system (cf. Ferrier et al. 2003: 27, 50, 61-62; Down 
+2004: 114-16; Whittingham et al. 2004; Metcalfe 2005: 68-71, 2007: 451).19 
+
+An example of an initiative developed along these lines comes from the therapy/
+regenerative medicine sector. Firms in that industry are just beginning to move 
+from a focus on R&D and process development to begin full-scale commercial 
+manufacturing. As they do so, they will need to employ increasing numbers of 
+specialist cell therapy manufacturing technicians. Employers are adamant that the 
+people who occupy those roles will need to be genuine technicians, rather than 
+over-qualified but under-skilled graduates (Lewis 2016b; Lewis and Bradshaw 2017). 
+Initial support from the Gatsby Foundation, built on by funding from Innovate 
+UK, made it possible for employers in cell therapy/regenerative medicine to work 
+with each other, and with the Cell and Gene Therapy Catapult Centre, to create a 
+suitable apprenticeship training scheme. The institutional ‘home’ of the team that will 
+be managing the apprenticeship seems likely to be in the Cell and Gene Therapy 
+Catapult Centres (whose facilities may also be used for some very specialist training, 
+and whose knowledge of new developments in the relevant technology will be 
+essential in ensuring that the relevant training programme will be kept up to date).20
+
+However, some Catapult Centres may—indeed, arguably have been—discouraged 
+from playing a role in technician skills and training because unlike their counterparts 
+in some other countries, they do not have (a measure of) skills development as 
+one of their key performance indicators. Consequently, their record when it comes 
+to skills development, especially at the technician level, is mixed. Some, such as 
+the Advanced Manufacturing Research Centre and the Manufacturing Technology 
+Centre, have become involved in apprenticeship training on a significant scale to 
+very good effect. However, others have paid little attention to technician skills and 
+training, concentrating instead on training people qualified to graduate level or 
+above.21 Given the importance of having a well-trained technician workforce to 
+carry out manufacturing in general, and for the absorption of new technologies in 
+
+18 Also see http://www.aplu.org/projects-and-initiatives/economic-development-and-community-engagement/Aligning-
+Technology-and-Talent-Development/Index.html. 
+19 Bonvillian and Singer (2018: 225) make a similar point with regard to the USA’s Manufacturing Institutes. Like Catapults, 
+these  organisations  are  responsible  for  facilitating  the  development  of  emerging  technologies.  Unlike  Catapults,  they  have 
+taken on board the principle that workforce development must go hand-in-hand with technology development. As Bonvillian 
+and  Singer  put  it, “[E]ducation  and  training  programmes  should  not  be  a  sideline  but  rather  a  key  part  of  the  technology 
+development and dissemination effort” (p. 225; also see pp. 232-36). Also see LIFT (2017).
+20 See https://ct.catapult.org.uk/news-media/general-news/cgt-catapult-announces-major-uk-investment-skills-and-capabilities 
+and https://ct.catapult.org.uk/news-media/general-news/addressing-sector-skills-gap-first-apprenticeship-programme-advanced. 
+Accessed 12th March 2019.
+21 This failure to put technician training on a par with R&D is arguably symptomatic of the continued influence of the old, 
+linear view of innovation, which—as we have seen—emphasises the importance of high-level scientific research and neglects 
+the importance of other influences on the development and diffusion of new technologies, including those associated with 
+the work of technicians (Lundvall 2007: 104; Toner 2011: 8; CIPD 2014: 7, 24-26; Filippetti and Guy 2016: 506-07, 515; also see 
+Jensen et al. 2007: 690). 
+
+28
+particular, the current approach—whereby some of the Catapult Centres become 
+involved in training on an ad hoc basis—seems to be flawed. It is necessary to give 
+the Catapult Centres a clearer remit to work with training providers to ensure 
+the provision of high-quality apprenticeship training for emerging technologies, so 
+as to put workforce development on a par with technology development in the 
+Catapult Centre’s list of responsibilities. This could be done through the explicit 
+inclusion of (indicators of) skills development as one of the key benchmarks against 
+which their performance is assessed (Lewis 2014b, 2016a: 44-45, 2016b: 21; Gatsby 
+Foundation 2017: 7; Perkins 2019: 53). In this way, an institutional framework could 
+be established that would help to provide an adequate supply of skilled workers 
+for employers in advanced manufacturing, so that workforce development and 
+technology development can be properly aligned and coordination failures and 
+structural mismatches avoided.22
+
+Involving the Catapult Centres in technician skills and training also holds out the 
+prospect of a solution to some of the other problems that bedevil technician skills 
+and training in emerging industries, namely that firms in such industries are often 
+small, unfamiliar with apprenticeships, and have highly truncated time horizons. 
+First, many of the firms that are developing and deploying emerging technologies 
+are SMEs who may be deterred from taking on apprentices by a lack of familiarity 
+with apprenticeships and with the precise requirements of apprenticeship training 
+programmes. This may be especially problematic because many such firms lack a large 
+HR team that can master the process of taking on and training apprentices. Such 
+firms may therefore simply decide that it is easier to hire over-qualified graduates to 
+fill technician roles rather than fight their way through what is in the UK at least a 
+rather labyrinthine apprenticeship system. Second, those firms are also often said to 
+have short-time horizons, being preoccupied with the immediate demands of running 
+and developing their business and not looking far enough ahead to contemplate the 
+need to fill technician roles in two to three years time (Sims et al. 2000: 1; Lewis 
+2014c: 505; NASEM 2017: 77). The problem, of course, is that if firms do not look 
+that far ahead, then given the long lead time involved in technician training, the 
+workers in question will not be available when they are needed. 
+
+The Catapult Centres may have a significant role to play in dealing with these 
+problems. If a dedicated apprenticeship team, consisting of no more than one or 
+two people, were employed within each Catapult, then they could play a convening 
+or coordinating role that would see them assist SMEs in recruiting apprentices, 
+in finding a suitable training provider, and in navigating the requirements of 
+apprenticeship training programmes (as well as exploiting opportunities for 
+funding). In this way, it might be possible to relieve SMEs of much of the burden 
+of managing the apprenticeships, thereby removing one of the barriers to their 
+
+22 This imperative has already received some recognition in Scotland, where the recent Reid review of Innovation Centres 
+(ICs)—the Scottish counterpart to the English Catapult Centres—stated the following: “The ICs were created to help bring 
+academic expertise to business-led challenges that would have an economic impact for Scotland. The success of the college 
+sector  in  Scotland  can  be  through  innovation  of  business  products,  but  is  more  often  about  delivering  skills,  and  through 
+those enhanced skills, improved productivity and efficiency. The delivery of skills is not some sort of “secondary” innovation – 
+developing new skills and techniques to apply alongside new technological innovation is vital if such developments are to be 
+embedded and made truly a commercial success. Having the college sector work more closely than is currently happening 
+with both the ICs and the university sector should strengthen the performance of the ICs” (Reid 2016: 38; also see Scottish 
+Funding Council 2017).
+
+29
+participation in such programmes.23 A more radical possibility, which might address 
+the second of the two problems noted in the previous paragraph, would involve 
+the Catapult Centre in actually employing the apprentices, who would then be 
+hired out to SME ‘host employers’ for the duration of their training. The host would 
+pay a fee for this service, the size of which would depend both on the apprentice’s 
+wage and also any management fee charged by the Catapult Centre.
+
+Precisely which delivery model is best is likely to vary between sectors, so one 
+would not expect all Catapult Centres to play their role in aligning workforce 
+and technology development in the same way. But that they should have such a 
+role seems clear.
+
+23  This is not, of course, the only way in which these problems might be solved. Another possibility, which firms in advanced 
+manufacturing have adopted, centres on what is called ‘over-training’. This involves a large employer, who currently offers high-
+quality  apprenticeships,  playing  a  role  in  the  training  of  more  apprentices  than  they  themselves  require  to  meet  their  own 
+anticipated needs, with the extra apprentices being employed from the outset of their apprenticeship by other firms (often small 
+and medium-sized enterprises). The larger firm will typically manage the training and assessment of the apprentices, using its own 
+apprentice managers, instructors and assessors to do so. It may also provide some of the on-the-job training itself, especially if it has 
+its own training facilities. The smaller firms that have their apprentices managed in this way can gain access to a more experienced, 
+and effective, way of managing and training their apprentices than they themselves could provide on their own. Moreover, the 
+large employers that offer such over-training do not do so as a charitable act, but rather because they expect to benefit from 
+doing so, for one of two reasons: either because the government funding and fees they gain from over-training help them to cover 
+some of the fixed costs of running their own apprenticeship schemes; or because, by training apprentices for firms in their supply 
+chain, they stand to gain from having better quality, and /or more reliable, input supplies. Several large employers in UK advanced 
+manufacturing already engage in over-training and there exist some firms in sectors using emerging technologies, such as those 
+involved in the ATMP and biologics industries, that are well situated to join their ranks (Lewis 2014c).
+
+30
+6. CONCLUSION
+
+Technicians make significant contributions to innovation. They often participate in 
+the experimental work involved in research and development. They draw on their 
+detailed, practical experience of production to make suggestions about incremental 
+improvements in production processes. And, perhaps most important of all, they 
+have a critical role to play in enabling firms successfully to deploy new technology, 
+thereby contributing to the absorptive capacity of the firms that employ them.
+
+In the UK, however, the critical role played by technicians all too often goes 
+unrecognised, obscured by a commitment on the part of policy-makers to a linear 
+view of innovation that over-emphasises fundamental research and development 
+and so neglects other important influences on innovation, in particular those 
+stemming from technicians. The shortcomings of the institutions governing 
+vocational education and training mean that workforce development is often 
+poorly aligned with technology development, leading to system failures in the 
+sense in which that term is used in the innovation systems literature. In particular, 
+firms seeking to introduce new technology all too often struggle to find the skilled 
+technicians they need to do so. 
+
+What is required to deal with this problem is a system of institutions that will 
+encourage and enable the production of workers with the skills required effectively 
+to deploy new technologies (perhaps especially those characteristic of emerging, 
+high-value added industries where productivity and wages are likely to be high). If 
+the benefits of those technologies are to be fully exploited, then their development 
+must go hand-in-hand with the training of the workers—prominent amongst 
+them the technicians—who will put them into practice in the workplace. Catapult 
+Centres, and other innovation centres, are very well placed to respond to the 
+demands that technological innovation places on firms’ workforces, and to play 
+a key role in enabling employers to obtain the key technician skills they require. 
+Those organisations need to be given an explicit remit to play the critical role they 
+can serve in workforce development so that, to borrow the terminology of the 
+chief economist of the Bank of England, they can become ‘diffusion spokes’ as well 
+as ‘innovation hubs’ by helping firms to develop the technician workforce required 
+to make good use of new technologies as well as to develop them in the first place 
+(Haldane 2018: 16). 
+
+31
+REFERENCES
+Adonis, A. (2014). Competing in a Race to the Top. Results from the Employer Survey 
+for the Adonis Growth Review. London: Policy Network.
+
+Andreoni, A. (2014). ‘Structural Learning: Embedding Discoveries and the Dynamics 
+of Production.’ Structural Change and Economic Dynamics, 29: 58-74.
+
+Arrow, K. (1962). ‘Economic Welfare and the Allocation of Resources for Invention.’ 
+In R. Nelson (ed.), The Rate and Direction of Inventive Activity. Princeton: Princeton 
+University Press.
+
+BIS (2011). Innovation and Research Strategy for Growth. BIS Economics Paper No. 15. 
+London: Department for Business, Innovation and Skills. Available online at: http://
+group-global.org/sites/default/files/publications/Innovation%20and%20Research%20
+Strategy%20for%20Growth_3.pdf. Accessed 6th October 2017.
+
+BIS (2015). Evaluation of the Employer Ownership of Skills Pilot, Round 1: Initial 
+Findings. London: Department of Business, Innovation and Skills.
+
+Bonvillian, W. and P. Singer (2017). Advanced Manufacturing: The New American 
+Innovation Policies. Cambridge, MA: MIT Press.
+
+Borrás, S. and C. Edquist (2015). ‘Education, Training and Skills in Innovation Policy.’ 
+Social Science and Public Policy, 42: 215-27.
+
+Burnett, K. (2016). ‘University-Led Apprenticeships: A New Model for Apprentice 
+Education.’ In T. Lanning (ed,), Where Next for Apprenticeships? London: CIPD.
+
+Bush, V. (1945). Science: The Endless Frontier. A Report to the President. Washington, 
+DC: US Government Printing Office.
+
+Campbell, M. (2012). Skills for Prosperity? A Review of OECD and Partner Country Skills 
+Strategies. LLAKES Research Paper 39. London: LLAKES.
+
+Chevalier, A. and J. Lindley (2009). ‘Over-education and the Skills of UK Graduates.’ 
+Journal of the Royal Statistical Society 172 (2), 307-37.
+
+CIPD (2014). Industrial Strategy and the Future of Skills Policy. London: Chartered 
+Institute of Personnel and Development. Available online at: https://www.cipd.co.uk/
+knowledge/work/skills/industrial-strategy-report. Accessed 12th September 2018.
+
+Cohen, W. and D. Levinthal (1990). ‘Absorptive Capacity: A New Perspective on 
+Learning and Innovation.’ Administrative Science Quarterly, 35: 128-52.
+
+Dahlman, C. and Nelson, R. (1995). ‘Social Absorption Capability, National 
+Innovation Systems and Economic Development.’ In B. Koo D. and Perkins (eds.), 
+Social Capability and Long Term Economic Growth. Basingstoke: Macmillan.
+
+David, P. and G. Wright (1997). ‘Increasing Returns and the Genesis of American 
+Resource Abundance.’ Industrial and Corporate Change, 6: 203-45.
+
+DBEIS (2018). Business Productivity Review. London: Department of Business, Energy 
+and Industrial Strategy.
+
+32
+DBIS (2014). The Case for Public Support of Innovation: At the Sector, Technology 
+and Challenge Area Levels. London: Department of Business, Innovation and Skills. 
+Available online at: https://www.gov.uk/government/uploads/system/uploads/
+attachment_data/file/334369/BIS_14_852_The_Case_for_Public_Support_of_
+Innovation.pdf. Accessed 28th September 2017. 
+
+D’Ippolito, B., M. Miozzo and D. Consoli (2014). ‘Knowledge Systematisation, 
+Reconfiguration and the Organisation of Firms and Industry: The Case of Design.’ 
+Research Policy, 43: 1334-52.
+
+Dosi, G., C. Freeman, R. Nelson, G. Silverberg and L. Soete (eds.) (1988). Technical 
+Change and Economic Theory. London: Pinter Publishers.
+
+Dosi, G. and R. Nelson (2018). ‘Technological Advance as an Evolutionary Process.’ 
+In R. Nelson, G. Dosi, C. Helfat, A. Pyka, P. Saviotti, K. Lee, K. Dopfer, F. Malerba and S. 
+Winter (2018). Modern Evolutionary Economics: An Overview. Cambridge: Cambridge 
+University Press.
+
+Down, C. (2004). ‘Tackling Emergent Needs: The Applied Technology Framework 
+Project.’ In S. Dawe (ed.), Vocational Education and Training and Innovation. Adelaide: 
+NCVER.
+
+Edler, J. and J. Fagerberg (2017). ‘Innovation Policy: What, Why, and How.’ Oxford 
+Review of Economic Policy, 33: 2-23.
+
+Edquist, C. (1997a). ‘Preface’ In C. Edquist (ed.), Systems of Innovation: Technologies, 
+Institutions. London and Washington: Pinter.
+
+Edquist, C. (1997b). ‘Systems of Innovation Approaches – Their Emergence and 
+Characteristics.’ In C. Edquist (ed.), Systems of Innovation: Technologies, Institutions. 
+London and Washington: Pinter.
+
+Edquist, C. (2005). ‘Systems of Innovation: Perspectives and Challenges.’ In J. 
+Fagerberg, D. Mowrey and R. Nelson (eds.), The Oxford Handbook of Innovation. 
+Oxford: Oxford University Press.
+
+Eriksson, L. and A. Webster (2015). ‘Standardizing Work as a Recursive Process: 
+Shaping the Embryonic Stem Cell Field.’ New Genetics and Society, 34: 72-88.
+
+Fagerberg, J. (2017). ‘Innovation Policy: Rationales, Lessons and Challenges.’ Journal of 
+Economic Surveys, 31: 497-512.
+
+Ferrier, F., C. Trood and K. Whittingham (2003). Going Boldly into the Future: A VET 
+Journey into the National Innovation System. Leabrook: NCVER.
+
+Field, S. (2018). The Missing Middle: Higher Technical Education in England. London: 
+The Gatsby Charitable Foundation. Available online at: http://www.gatsby.org.uk/
+uploads/education/the-missing-middle-higher-technical-education-in-england.pdf. 
+Accessed 14th January 2019.
+
+Filippetti, A. and F. Guy (2016). ‘Skills and Social Insurance: Evidence from the 
+Relative Persistence of Innovation during the Financial Crisis in Europe.’ Science and 
+Public Policy, 43: 505-17.
+
+Finegold, D. and D. Soskice (1988). ‘The Failure of Training in Britain: Analysis and 
+Prescription.’ Oxford Review of Economic Policy, 4: 21-51.
+
+33
+Freeman, C. (1987). Technology Policy and Economic Performance: Lessons from Japan. 
+London: Frances Pinter.
+
+Gatsby Charitable Foundation (2017). Building our Industrial Strategy? Response 
+to the Government Green Paper. London: The Gatsby Foundation. Available online 
+at: http://www.gatsby.org.uk/uploads/education/reports/pdf/gatsby-response-to-
+industrial-strategy-201704.pdf. 
+
+Government Economic Service (2014). GES Group on Growth: Innovation. 
+London: Government Economic Service. Available online at: https://www.gov.uk/
+government/uploads/system/uploads/attachment_data/file/370187/bis-14-1169-
+government-economic-service-group-on-growth-innovation.pdf. Accessed 2nd 
+March 2018.
+
+Green, F and Y. Zhu (2010) ‘Over-qualification, Job Dissatisfaction, and Increasing 
+Dispersion in the Returns to Graduate Education.’ Oxford Economic Papers, 62: 740-
+763.
+
+Haldane, A. (2018). ‘The UK’s Innovation Problem: Hub no Spokes.’ London: Bank 
+of England. Available online at https://www.bankofengland.co.uk/-/media/boe/
+files/speech/2018/the-uks-productivity-problem-hub-no-spokes-speech-by-andy-
+haldane.pdf?la=en&hash=EBFB24E61501EC24D0F0D2545A49821623491D4B. 
+Accessed 4th February 2019.
+
+Hauser, H. (2014). Review of the Catapult Network: Recommendations on the Future 
+Shape, Scope and Ambition of the Programme. London: Department of Business, 
+Innovation and Skills. Available online at: https://www.gov.uk/government/uploads/
+system/uploads/attachment_data/file/368416/bis-14-1085-review-of-the-catapult-
+network.pdf. Accessed 14th January 2019.
+
+Herrmann, A. and A. Peine (2011). ‘When “National Innovation System” Meet 
+“Varieties of Capitalism” Arguments on Labour Qualifications: On the Skill types 
+and Scientific Knowledge Needed for Radical and Incremental Product Innovations.’ 
+Research Policy, 40: 687-701.
+
+Holmes, C. and K. Mayhew (2015). Over-qualification and Skills Mismatch in the 
+Graduate Labour Market. London: CIPD.
+
+House of Lords Economic Affairs Select Committee (2018). Treating Students Fairly: 
+The Economics of Post-School Education. London: House of Lords. Available online 
+at: https://publications.parliament.uk/pa/ld201719/ldselect/ldeconaf/139/139.pdf. 
+Accessed 30th September 2018. 
+
+HM Government (2017). Building our Industrial Strategy: Green Paper. London: 
+London: Department of Business, Innovation and Skills. Available online at https://
+beisgovuk.citizenspace.com/strategy/industrial-strategy/supporting_documents/
+buildingourindustrialstrategygreenpaper.pdf.
+
+HM Treasury and Department of Business, Innovation and Skills (2011). The Plan for 
+Growth. London: HM Treasury and BIS.
+
+HØyrup, S. (2010). ‘Employee-Driven Innovation and Workplace Learning: Basic 
+Concepts, Approaches and Themes.’ Transfer, 16: 143-54.
+
+34
+Jagger, N., M. Sigla and F. Sumption (2010). SET Based Technicians: Lessons from 
+the UK and European Labour Force Surveys. Report 475. Brighton: Institute for 
+Employment Studies.
+
+Jensen, M., B. Johnson, E. Lorenz and B.-Å. Lundvall (2007). ‘Forms of Knowledge and 
+Modes of Innovation.’ Research Policy, 36: 680-93.
+
+Jones, B. and D. Grimshaw (2012). Training and Skills to Improve Innovation in Firms: 
+Compendium of Evidence on the Effectiveness of Innovation Policy Intervention. 
+Manchester: Manchester Institute of Innovation Research. Available online at: http://
+www.innovation-policy.org.uk/share/NESTA_Compendium_Training_20122805_
+linked.pdf. Accessed 30th January 2018.
+
+Jones, B. and D. Grimshaw (2016). ‘The Impact of Skill Formation Policies on 
+Innovation.’ In J. Edler, P. Cunningham, A. Gök and P. Shapira (eds.), Handbook of 
+Innovation Policy Impact. Cheltenham: Edward Elgar.
+
+Keep, E. (2013). Opening the ‘Black Box’ – The Increasing Importance of a Public Policy 
+Focus on What Happens in the Workplace. Edinburgh: Skills Development Scotland.
+
+Keep, E. and Mayhew, K. (2014). Industrial Strategy and the Future of Skills Policy: The 
+High Road to Sustainable Growth. London: CIPD.
+
+Kline, S. and N. Rosenberg, 'An Overview of Innovation'. In R. Landau and N. 
+Rosenberg (eds.), The Positive Sum Strategy: Harnessing Technology for Economic 
+Growth (Washington, DC.: National Academy of Sciences).
+
+Lanning, T. (2016). ‘Introduction.’ In T. (ed,), Where Next for Apprenticeships? London: 
+CIPD.
+
+Laursen, K. and N. Foss (2003). ‘New Human Resource Management Practices, 
+Complementarities and the Impact on Innovation Performance.’ Cambridge Journal 
+of Economics, 27: 243-63.
+
+Lewis, P.A. (2012a). Flying High: A Study of Technician Skills and Training in the UK 
+Aerospace Industry. London: The Gatsby Charitable Foundation. Available online at: 
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2893710. 
+
+Lewis, P. (2012b). Space for Technicians? An Analysis of Technician Skills and Training in 
+the UK Space Sector. London: King’s College London and The Gatsby Foundation. 
+Available online at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2861985. 
+
+Lewis, P.A. (2013a). Technician Roles, Skills and Training in the UK Chemical Industry: 
+An Analysis. London: The Gatsby Charitable Foundation. Available online at: https://
+papers.ssrn.com/sol3/papers.cfm?abstract_id=2895115. Accessed 20th June 2018.
+
+Lewis, P. (2013b). Skills and Training for Composites Manufacturing and Use in the UK: 
+An Analysis. London: The Gatsby Charitable Foundation. Available online at: https://
+papers.ssrn.com/sol3/papers.cfm?abstract_id=2883236. 
+
+Lewis, P.A. (2014a). The Simple Economics of Apprenticeship. London: The Gatsby 
+Charitable Foundation. Available online at: https://papers.ssrn.com/sol3/papers.
+cfm?abstract_id=2853015. Accessed 20th August 2018.
+
+35
+Lewis, P.A. (2014b). Catapult Centres: An Analysis of their Role in Technician Skills 
+and Training. Unpublished paper, Department of Political Economy, King’s College 
+London.
+
+Lewis, P.A. (2014c). “The Over-training of Apprentices by Employers in Advanced 
+Manufacturing: A Theoretical and Policy Analysis.” Human Resource Management 
+Journal (2014), 24 (4): 496-513. Available online at: https://papers.ssrn.com/sol3/
+papers.cfm?abstract_id=2530874. 
+
+Lewis, P.A. (2016a). Technician Roles, Skills and Training in Industrial Biotechnology: An 
+Analysis. London: The Gatsby Charitable Foundation. Available online at: https://
+papers.ssrn.com/sol3/papers.cfm?abstract_id=2894834. Accessed 20th June 2018.
+
+Lewis, P.A. (2016b). How to Create Skills for an Emerging Industry: The Case of 
+Technician Skills and Training in Cell Therapy. London: The Gatsby Charitable 
+Foundation. Available online at: https://papers.ssrn.com/sol3/papers.cfm?abstract_
+id=2903909. 
+
+Lewis, P.A. (2017). ‘The Ostroms and Hayek as Theorists of Complex Adaptive 
+Systems: Commonality and Complementarity.’ Advances in Austrian Economics, 
+22: 35-66. Available online at: https://papers.ssrn.com/sol3/papers.cfm?abstract_
+id=2940972. Accessed 18th June 2018.
+
+Lewis, P.A. and H. Gospel (2011). Technicians under the Microscope: The Training and 
+Skills of University Laboratory and Engineering Workshop Technicians. Available online 
+at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2894151.
+
+Lewis, P.A. and H. Gospel (2015). ‘Technicians under the Microscope: The Training 
+and Skills of University Laboratory and Engineering Workshop Technicians.’ Journal 
+of Vocational Education and Training, 67: 421-41.
+
+Lewis, P. A. and T. Bradshaw (2017). Developing Technician Skills for Emerging Industries: 
+Lessons from the Advanced Therapies Sector in the UK. London: King’s College London. 
+Available online at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3009630.
+
+LIFT (2017). Aligning Technology and Talent Development. Detroit: LIFT. Available 
+online at: http://www.aplu.org/library/aligning-technology-and-talent-development/
+file. Accessed 10th January 2019.
+
+B-A Lundvall (2007). ‘National Innovation Systems: Analytical Concept and 
+Development Tool.’ Industry and Innovation, 14: 95-119.
+
+Lundvall, B.-Å. (ed.) (1992), National Innovation Systems: Towards a Theory of 
+Innovation and Interactive Learning. London: Pinter Publishers.
+
+Lundvall, B.-Å. and B. Johnson (1994). ‘The Learning Economy.’ Journal of Industry 
+Studies, 1: 23-42.
+
+Maier, J. (2017). Made Smarter Review 2017. Available online at: https://assets.
+publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/
+file/655570/20171027_MadeSmarter_FINAL_DIGITAL.pdf. Accessed 30th January 
+2019.
+
+March, J. (1991). ‘Exploration and Exploitation in Organizational Learning.’ 
+Organization Science, 2: 71-87.
+
+36
+Mason, G. (2012). Science, Engineering, and Technology (SET) Technicians in the UK 
+Economy. London: The Gatsby Charitable Foundation.
+
+Mason, G., A. Rincon-Aznar and F. Venturini (2017). ‘Which Skills Contribute Most 
+to Absorptive Capacity, Innovation, And Productivity Performance? Evidence from 
+the US and Western Europe.’ LLAKES Research Paper 60. Available online at: http://
+www.llakes.ac.uk/sites/default/files/60.%20Mason%20et%20al%20-%20final_0.pdf. 
+Accessed 18th November 2017. 
+
+McKinsey Global Institute (2012). Manufacturing the Future: The Next Era of Global 
+Growth and Innovation. McKinsey Global Institute. Available online at: https://
+www.mckinsey.com/business-functions/operations/our-insights/the-future-of-
+manufacturing. Accessed 2nd October 2017. 
+
+Metcalfe, S. (1995). ‘Technology Systems and Technology Policy in an Evolutionary 
+Framework.’ Cambridge Journal of Economics, 19: 25-46.
+
+Metcalfe, S. (2005). ‘Systems Failure and the Case for Innovation Policy.’ In P. Llerna 
+and M. Matt (eds.), Innovation Policy in a Knowledge-Based Economy: Theory and 
+Practice. Berlin: Springer.
+
+Metcalfe, S. (2007). ‘Innovation Systems, Innovation Policy and Restless Capitalism.’ 
+In F. Malerba and S. Brusoni (eds.), Perspectives on Innovation. Cambridge: Cambridge 
+University Press.
+
+Michie, J. and M. Sheehan (1999). ‘HRM Practices, R&D Expenditure and Innovative 
+Investment: Evidence from the UK’s 1990 Workplace Industrial Relations Survey.’ 
+Industrial and Corporate Change, 8: 2111-34.
+
+Misko, J., J. Saunders and D. Woods (2004). ‘Training needs of Innovative Companies.’ 
+In S. Dawe (ed.) (2004), Vocational Education and Training and Innovation: Research 
+Readings. Adelaide: NCVER. Available online at: https://www.ncver.edu.au/__data/
+assets/file/0022/5269/nd3113.pdf. Accessed 11th October 2017.
+
+Mytelka, L. and K. Smith (2002). ‘Policy Learning and Innovation Theory: An 
+Interactive and Co-evolving Process.’ Research Policy, 31: 1467-79.
+
+NASEM (2017). Building America’s Skilled Technical Workforce. Washington, DC: The 
+National Academies of Sciences, Engineering and Medicine. 
+
+National Audit Office (2016). Delivering Value Through the Apprenticeships 
+Programme. London: The National Audit Office.
+
+Nelson, R. (1959). ‘The Simple Economics of Basic Scientific Research.’ Journal of 
+Political Economy, 67: 49-91.
+
+Nelson, R. (1980). ‘Production Sets, Technological Knowledge, and R&D: Fragile and 
+Overworked Constructs for Analysis of Productivity Growth?’ American Economic 
+Review, Papers and Proceedings, 70: 62-67.
+
+Nelson, R. (1992). ‘National Innovation Systems: A Retrospective on a Study.’ 
+Industrial and Corporate Change, 1: 347-74.
+
+Nelson, R. (ed.) (1993). National Systems of Innovation: A Comparative Study. Oxford: 
+Oxford University Press.
+
+37
+Nelson, R. (1994). ‘The Co-evolution of Technology, Industrial Structure, and 
+Supporting Institutions.’ Industrial and Corporate Change, 3: 47-63.
+
+Nelson, R. and E. Phelps (1966). ‘Investment in Humans, Technological Diffusion and 
+Economic Growth.’ American Economic Review, 56: 69-75.
+
+Nelson, R. and N. Rosenberg (1993). ‘Technical Innovation and National Systems.’ In 
+R. Nelson, (ed.) (1993), National Systems of Innovation: A Comparative Study. Oxford: 
+Oxford University Press.
+
+Nonaka, I. and H. Takeuchi (1995). The Knowledge Creating Company. Oxford: 
+Oxford University Press.
+
+OECD (1997a). Oslo Manual: Proposed Guidelines for Collecting and Interpreting 
+Technological Innovation Data. 2nd edition. Paris: Organisation for Economic 
+Co-operation and Development. Available online at: http://www.oecd.org/sti/
+inno/2367580.pdf. Accessed 10th June 2018.
+
+OECD (1997b). National Innovation Systems. Paris: Organisation for Economic Co-
+operation and Development. Available online at: http://www.oecd.org/science/
+inno/2101733.pdf. Accessed 10th June 2018.
+
+OECD (1999). Managing National Innovation Systems. Paris: Organisation for 
+Economic Co-operation and Development. Available online at: http://echo.iat.sfu.ca/
+library/oecd99_managing_National_IS.pdf. Accessed 10th June 2018.
+
+OECD (2002). Dynamising National Innovation Systems. Paris: Organisation 
+for Economic Co-operation and Development. Available online at: https://
+read.oecd-ilibrary.org/industry-and-services/dynamising-national-innovation-
+systems_9789264194465-en#page1 Accessed 10th June 2018.
+
+OECD (2005): Oslo Manual: Proposed Guidelines for Collecting and Interpreting 
+Technological Innovation Data. 3rd edition. Paris: Organisation for Economic Co-
+operation and Development. 
+
+OECD (2013). OECD Skills Outlook 2013. Paris: Organisation for Economic Co-
+operation and Development. 
+
+OECD (2017). Getting Skills Right: United Kingdom. Paris: Organisation for Economic 
+Co-operation and Development. 
+
+Perkins, J. (2019). Engineering Skills for the Future: The 2013 Perkins Review Revisited. 
+London: Royal Academy of Engineering.
+
+Prais, S. (1995). Productivity, Education and Training: An International Perspective. 
+Cambridge: Cambridge University Press.
+
+President’s Council of Advisors on Science and Technology (2014). Accelerating U.S. 
+Advanced Manufacturing: Report to the President. Washington, D.C.: Executive Office 
+of the President and the President’s Council of Advisors on Science and Technology. 
+Available online at: https://www.manufacturingusa.com/sites/prod/files/amp20_
+report_final.pdf. Accessed 11th October 2017.
+
+Ramstad, E. (2009). ‘Expanding Innovation System and Policy – An Organisational 
+Perspective.’ Policy Studies, 30: 533-53.
+
+38
+Reid, G. (2016). Independent Review of the Innovation Centres Programme. 
+Edinburgh: Scottish Funding Council. Available online at: http://www.sfc.ac.uk/
+web/FILES/InnovationCentres/Independent_Review_of_Innovation_Centres_
+Programme_-_29_September_2016.pdf. Accessed 12th February 2019.
+
+Rosenberg, N. (1982). Inside the Black Box: Technology and Economics: Cambridge: 
+Cambridge University Press.
+
+Rosenberg, N. (1994). Exploring the Black Box: Technology and Economics: Cambridge: 
+Cambridge University Press.
+
+Rosenberg, N. and R. Nelson (1994). ‘American Universities and Technical Advance 
+in Industry.’ Research Policy, 23: 323-48.
+
+Ryan, P. H. Gospel and P. Lewis (2007). ‘Large Employers and Apprenticeship Training 
+in the UK.’ British Journal of Industrial Relations, 45: 127-53.
+
+Sainsbury, D. (2018). Post-18 Education and Funding Review. London: The Gatsby 
+Charitable Foundation. Available online at: http://www.gatsby.org.uk/uploads/
+education/reports/pdf/gill-response-to-post-18-review-201804.pdf. Accessed 28th 
+January 2019.
+
+Scottish Funding Council (2017). College Innovation. Edinburgh: Scottish Funding 
+Council. Available online at:  http://www.sfc.ac.uk/web/FILES/councilpapers_25082017/
+SFC17-62-college-innovation.pdf. Accessed 12th February 2019.
+
+Shapira, P., R. Smits and S. Kuhlmann (2010). ‘An Outlook on Innovation Policy.’ In R. 
+Smits, S. Kuhlmann and P. Shapira (eds.), The Theory and Practice of Innovation Policy: 
+An International Research Handbook. Cheltenham: Edward Elgar.
+
+Sharif, N. (2006). ‘Emergence and Development of the National Innovation Systems 
+Concept.’ Research Policy, 35: 745-66.
+
+Sims, D., S. Golden, S. Blenkinsop and G. Lewis (2000). Barriers to the Take-Up of 
+Modern Apprenticeships and National Traineeships by SMEs and Specific Sectors. 
+DFES Research Report 205. London DFEE. Available online at: http://webarchive.
+nationalarchives.gov.uk/20130402134059/https://www.education.gov.uk/
+publications/eOrderingDownload/RB205.pdf. Accessed 10th October 2018.
+
+Skills Commission (2011). Technicians and Progression. London: Policy Connect.
+
+Smith, A., J, Courvisanos, J. Tuck and S. McEachern (2012). Building the Capacity to 
+Innovate: The Role of Human Capital. Adelaide: NCVER. Available online at: https://
+files.eric.ed.gov/fulltext/ED529887.pdf. Accessed 10th January 2018.
+
+Smith, K. (2000). ‘Innovation as a Systemic Phenomenon: Rethinking the Role of 
+Policy.’ Enterprise and Innovation Management Studies, 1: 73-102. 
+
+Smith, K. (2010). ‘Globalisation and Innovation Systems: Policy Issues.’ In R. Smits, 
+S. Kuhlmann and P. Shapira (eds.), The Theory and Practice of Innovation Policy: An 
+International Research Handbook. Cheltenham: Edward Elgar.
+
+Stevens, M. (1999). ‘Human Capital Theory and UK Vocational Training Policy.’ Oxford 
+Review of Economic Policy, 15: 16-32.
+
+39
+Sung, J. and D. Ashton (2015). Skills in Business: The Role of Business Strategy, Skills 
+Development and Skills Policy. London: Sage.
+
+Tether, B., A. Mina, D. Consoli and D. Gagliardi (2005). A Literature Review on Skills 
+and Innovation. How does Successful Innovation Impact on the Demand for Skills 
+and How do Skills Drive Innovation? Manchester: ESRC Centre for Research on 
+Innovation and Competition. Available online at: https://pdfs.semanticscholar.org/
+f25b/956d1002734286479e103a6ef01795062cdb.pdf. Accessed 9th October 2017.
+
+TSB (2011). Technology and Innovation Centres: Closing the Gap between Concept 
+and Commercialisation. Strategy and Implementation Plan. Swindon: Technology 
+Strategy Board.
+
+Toner, P. (2010). ‘Innovation and Vocational Education.’ The Economic and Labour 
+Relations Review, 21: 75-98.
+
+Toner, P. (2011). Workforce Skills and Innovation: An Overview of Major Themes in 
+the Literature. Paris: OECD. Available online at: http://www.oecd.org/innovation/
+inno/46970941.pdf. Accessed 13th October 2013.
+
+Toner, P., J. Marceau, R. Hall and G. Considine (2004). ‘Innovation Agents: Vocational 
+Education and Training Skills in the Present and Future Australian Innovation System. 
+In S. Dawe (ed.) (2004), Vocational Education and Training and Innovation: Research 
+Readings. Adelaide: NCVER. Available online at: https://www.ncver.edu.au/__data/
+assets/file/0022/5269/nd3113.pdf. Accessed 11th October 2017.
+
+Toner,. P., T. Turpin, R. Woolley and C. Lloyd (2010). The Role and Contribution of 
+Tradespeople and Technicians in Australian Research & Development: An Exploratory 
+Study. Canberra: Australian Capital Territory: Department of Education, Employment 
+and Workplace Relations. Available online at: https://www.voced.edu.au/content/
+ngv%3A46414. Accessed 4th January 2018.
+
+UKCES (2010a). Skills for Job: The National Skills Audit for England 2010. Volume 1: Key 
+Findings. Wath-upon-Dearne: UKCES.
+
+UKCES (2010b). Skills for Jobs: Today and Tomorrow. Volume 2: the Evidence Report. 
+Wath-upon-Dearne: UKCES. 
+
+UKCES (2015). Growth Through People: Evidence and Analysis. Wath-upon-Dearne: 
+UKCES.
+
+von Hippel, E. (1988). The Sources of Innovation New York: Oxford University Press.
+
+von Hippel, E. (2015). ‘Democratising Innovation: The Evolving Phenomenon of User 
+Innovation.’ Journal für Betriebswirtschaft, 55: 63-78. 
+
+Vona, F. and D. Consoli (2014). ‘Innovation and Skill Dynamics: A Life-Cycle 
+Approach.’ Industrial and Corporate Change, 24: 1393-1415. 
+
+Westwood, A. (2016). ‘Why Colleges and Universities Should be Offering More and 
+Better Apprenticeships.’ In T. Lanning (ed,), Where Next for Apprenticeships? London: 
+CIPD.
+
+Whittingham, K., F. Ferrier and C. Trood. ‘Vocational Education and Training and the 
+Commercialisation of Australian Research.’ In S. Dawe (ed.), Vocational Education 
+and Training and Innovation. Adelaide: NCVER.
+
+40
+Wolf, A. (2011). Review of Vocational Education – The Wolf Report. London: 
+Department for Education.
+
+Wolf, A. (2015). Heading for the Precipice: Can Further and Higher Education Funding 
+Policies be Sustained? London: The Policy Institute at King’s College London. 
+
+Woolthius, R., M. Lankhuizen and V. Gilsing (2005). ‘A System Failure Framework for 
+Innovation Policy Design.’ Technovation, 25: 609-19.
+
+York Consulting (2018). Level 4 and 5 Provision in England: Provider Perspectives. 
+London: The Gatsby Charitable Foundation. Available online at: http://www.gatsby.
+org.uk/uploads/education/york-consulting-level-4-and-5-provision-in-england-
+provider-perspectives-2018.pdf. Accessed 2nd February 2019.
+
+Zahra, S. and G. George (2002). ‘Absorptive Capacity: A Review, 
+Reconceptualization, and Extension.’ Academy of Management Review, 27: 185-203.
+
+41
+42
+The Gatsby Charitable Foundation
+
+The Peak, 5 Wilton Road, London SW1V 1AP
+
+T +44 (0)20 7410 0330  www.gatsby.org.uk
+
+Registered Charity number 251988
+
+Copyright © Gatsby Charitable Foundation
+
+June 2019
