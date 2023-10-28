@@ -1,0 +1,1096 @@
+[Page #0]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+ GOV.UK
+Home
+Responsible Innovation in Self-Driving Vehicles
+Centre forData Ethicsand Innovation
+Policy paperResponsible Innovation inSelf-Driving Vehicles
+Published 19 August 2022
+Contents
+Introduction
+Glossary
+Regulatory lifecycle
+Context
+Summary of recommendations
+1. Road safety
+2. Data privacy
+3. Fairness
+4. Explainability
+5. Data sharing
+6. Public trust
+7. Governance
+Next steps
+Annex A: Safe and Ethical Operational Concept and Safety Management Systems
+Annex B: List of recommendations
+List of Abbreviations
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+1/66
+[Page #1]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+Acknowledgments
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+2/66
+[Page #2]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+© Crown copyright 2022
+This publication is licensed under the terms of the Open Government Licence v3.0 except whereotherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3 or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU,or email: psi@nationalarchives.gov.uk.
+Where we have identiﬁed any third party copyright information you will need to obtain permission fromthe copyright holders concerned.
+This publication is available at https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+3/66
+[Page #3]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+Introduction
+Self-driving vehicles have the potential to radically transform the UK’s roads. Theyoffer the opportunity to deliver signiﬁcant improvements to road safety andefﬁciency by reducing driver error, can improve accessibility by enhancing mobilityfor people unable to drive, and have the potential to reduce emissions. There isalso a signiﬁcant economic opportunity: the automotive and digital sectors arealready important contributors to the UK economy and self-driving vehicles couldgrow this considerably. Recent research(https://www.gov.uk/government/publications/connected-and-automated-vehicles-market-forecast-2020) commissioned by the Department for Transport has shown that by2035, the UK connected and automated vehicles market could be worth £41.7billion.
+To enable these beneﬁts and achieve the government’s ambition to ‘make the UKthe best place in the world to deploy connected and automated vehicles’(https://www.gov.uk/government/news/uk-on-the-cusp-of-a-transport-revolution-as-self-driving-vehicles-set-to-be-worth-nearly-42-billion-by-2035) manufacturers need clarityabout the regulatory landscape they are operating in. The general public alsoneeds to have conﬁdence in the safety, fairness and trustworthiness of thesevehicles.
+To provide this clarity and conﬁdence, the legal and regulatory frameworks thatgovern conventional vehicles and their drivers will need to be updated. Under ourcurrent legal and regulatory systems, we licence drivers as competent to drive andthen hold them accountable for their actions. In the context of vehicles that are self-driving, we will need new mechanisms to ensure that the systems these vehiclesuse, and the organisations that develop and deploy them, are similarly heldaccountable for performing in a safe and ethical manner.
+With the right design, regulation and governance can actively promote innovation.As the UK Government’s ‘Plan for Digital Regulation’ puts this(https://www.gov.uk/government/publications/digital-regulation-driving-growth-and-unlocking-innovation), ‘well-designed regulation can have a powerful effect on driving growthand shaping a thriving digital economy and society, whereas poorly-designed orrestrictive regulation can dampen innovation…the right rules can help people trustthe products and services they’re using, which in turn can drive take-up and furtherconsumption, investment and innovation’.
+Building on the recent proposals (https://s3-eu-west-2.amazonaws.com/lawcom-prod-storage-11jsxou24uy7q/uploads/2022/01/Automated-vehicles-joint-report-cvr-03-02-22.pdf)set out by the Law Commissions, this report provides a comprehensive view of howthese proposals can be supported by a responsible and trustworthy regulatory andassurance framework. This report takes a broad view of the factors that are crucialto deliver public trust: safety, data privacy, and fairness. We also look at the areasthat will be important enablers to responsible innovation: facilitating sufﬁcientexplainability to ensure accountability, data sharing, promoting public trust, andeffective governance.
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+4/66
+[Page #4]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+The ﬂexible, pro-innovation approach taken in this report furthers the government’sapproach to the regulation of AI and its intent to establish ‘the most trusted and pro-innovation system for AI governance in the world’(https://www.gov.uk/government/publications/national-ai-strategy). It also supports theCDEI’s programme of work on AI Assurance, which seeks to achieve ‘effective, pro-innovation governance of AI’ (https://www.gov.uk/government/publications/the-roadmap-to-an-effective-ai-assurance-ecosystem).
+These recommendations aim to ensure a fair, trustworthy and proportionateapproach to the regulation and governance of self-driving vehicles to build publictrust and conﬁdence in their use, which in turn will drive adoption and innovation.They have been shaped by the expert contributions of Professor John McDermidand Professor Jack Stilgoe and through engagement with key stakeholders,including the Centre for Connected and Autonomous Vehicles (CCAV), the LawCommission of England and Wales and the Scottish Law Commission, theInformation Commissioner’s Ofﬁce, members of the Centre for Data Ethics andInnovation Advisory Board, Home Ofﬁce, the Ofﬁce of the Biometrics andSurveillance Camera Commissioner, the Driver and Vehicle Standards Agency, andthe Vehicle Certiﬁcation Agency.
+This work will support the Department for Transport in delivering ‘Connected &Automated Mobility 2025: realising the beneﬁts of self-driving vehicles’, a roadmapwhich commits to developing a new legislative framework that builds trust in self-driving vehicles while enabling innovation. In particular, this report will inform thedesign of the new safety framework for self-driving vehicles, proposing detailedrecommendations on what features and capabilities a new safety framework forself-driving vehicles will need to possess, and how to manage interdependenciesbetween different parts of the regulatory ecosystem. Following consultation, theDepartment for Transport expects to publish further guidance on what constitutes asufﬁcient safety case by Authorised Self-Driving Entity (ASDE) and No-User-in-Charge (NUiC) Operators, which will be shaped by the recommendations of thisreport. More broadly, this report will guide the Department for Transport indeveloping secondary legislation that will set out the details of the requirementsand processes of the new legislative framework. This secondary legislation is dueto be consulted on in 2023, marking the next stage of an ongoing public dialogueabout how self-driving vehicles should be governed.
+Glossary
+Authorisation authority: A new role recommended by the Law Commissions. ‘Itwill be the government agency responsible for the second stage (authorisation) ofAV safety assurance in Great Britain. When authorising the vehicle, theauthorisation authority will assess each of the vehicle’s ADS features and specifythose which are ‘self-driving’. The authorisation authority will also assess whetherthe entity putting the vehicle forward for authorisation has the reputation andﬁnancial standing required to be an ASDE’.[footnote 1]
+Authorised Self-Driving Entity (ASDE): A new legal actor proposed by the LawCommissions. ‘It is the entity that puts an AV forward for authorisation as having
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+5/66
+[Page #5]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+self-driving features. It may be the vehicle manufacturer, or a software designer, ora joint venture between the two’.[footnote 2]
+Automated Vehicle (AV): ‘A general term used to describe vehicles which candrive themselves without being controlled or monitored by an individual for at leastpart of a journey’.
+Data minimisation: Under the data minimisation principle of UK GDPR, [Personaldata shall be] ‘adequate, relevant and limited to what is necessary in relation to thepurposes for which they are processed’.[footnote 4]
+Data protection by default: As deﬁned by the ICO (https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-by-design-and-default/#dpd3), ‘dataprotection by default requires you to ensure that you only process the data that isnecessary to achieve your speciﬁc purpose. It links to the fundamental dataprotection principles of data minimisation and purpose limitation’.
+Data protection by design: As deﬁned by the ICO (https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-by-design-and-default/#dpd3), ‘dataprotection by design is ultimately an approach that ensures you consider privacyand data protection issues at the design phase of any system, service, product orprocess and then throughout the lifecycle’.
+Dynamic driving task: A term used by the Law Commissions to describe ‘the real-time operational and tactical functions required to operate a vehicle in on-roadtrafﬁc. It includes steering, accelerating and braking together with object and eventdetection and response’.[footnote 5]
+Explainability: This term refers to (https://www.gov.uk/government/publications/cdei-publishes-review-into-bias-in-algorithmic-decision-making) ‘the ability to understand andsummarise the inner workings of a model, including the factors that have gone intothe model’.
+Lidar: An acronym that stands for ‘light detecting and ranging’. Lidar is a remotesensing method for determining ranges.
+NUiC Operator: A new legal actor proposed by the Law Commissions. Asexplained (https://s3-eu-west-2.amazonaws.com/lawcom-prod-storage-11jsxou24uy7q/uploads/2022/01/Automated-vehicles-joint-report-cvr-03-02-22.pdf) by theLaw Commissions: ‘Some features will be authorised for use without a user-in-charge. We refer to these as “No User-In-Charge” (NUIC) features. We recommendthat when a NUiC feature is engaged on a road or other public place, the vehicle isoverseen by a licensed NUIC Operator’.
+Operational Design Domain (ODD): As deﬁned by the Law Commissions, theODD is ‘(…) the domain within which an automated driving system can drive itself.It may be limited by geography, time, type of road, weather or by some othercriteria’.[footnote 6]
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+6/66
+[Page #6]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+Personal data: As set out in UK GDPR, ‘personal data’ refers to ‘any informationrelating to an identiﬁed or identiﬁable natural person (…)’.[footnote 7]
+Safety by design: Guiding the design with information derived from hazard andsafety analysis both to achieve safety more cost-effectively and to make it easier toassure safety.
+User-in-charge (UiC): As deﬁned by the Law Commissions, the UiC is, ‘Anindividual who is in the vehicle and in position to operate the driving controls while aself-driving ADS feature is engaged. The user-in-charge is not responsible for thedynamic driving but must be qualiﬁed and ﬁt to drive. They might be required totake over following a transition demand. They would also have obligations relatingto non-dynamic driving task requirements including duties to maintain and insurethe vehicle, secure loads carried by the vehicle and report accidents. An automatedvehicle would require a user-in-charge unless it is authorised to operate withoutone’.[footnote 8]
+Vulnerable road users: Road users requiring extra care. As set out in the HighwayCode, this includes pedestrians, particularly children, older or disabled people,cyclists, motorcyclists and horse riders.[footnote 9]
+Regulatory lifecycleThe table below describes the key responsibilities of different actors across theregulatory lifecycle of a self-driving vehicle under our recommendations, from trialsto the ongoing response and change needed to ensure vehicles remain safe. It issupplemented by a regulatory lifecycle ﬂowchart in an annex to this report, thatmore fully describes the interdependencies between different parts of the regulatorylifecycle, and situates our recommendations within them.
+Phases
+Trials and pre-authorisation
+Authorisation
+OperatorLicensing (whereNUiC)
+Keyassurancequestion
+How do we developthe evidence that avehicle is safe enoughto drive itself?
+Should the vehiclebe permitted todrive itself?
+Where the vehicleneeds no driver inthe vehicle, is therea responsibleoperator behind it?
+Policy andadvice
+DfT (advised byCAVES) issuesguidance to(prospective) ASDEs,interpreting primarylegislation, UNECEregulations, andtechnical standards,
+DfT andregulatoryagencies (advisedby CAVES)interpret and applylegislation,regulations and DfTpolicy, including:
+DfT andregulatoryagencies (advisedby CAVES)interpret and applylegislation,regulations and DfTpolicy, including:
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+7/66
+[Page #7]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+equality and dataprotection/surveillanceissues
+* Road rules* Equality impacts*Privacy/surveillanceimpacts* Human-machineinterfaces fordrivers (handover)and other roadusers (labelling)
+* Road rules* Equality impacts*Privacy/surveillanceimpacts* Human-machineinterfaces fordrivers (handover)and other roadusers (labelling)
+Regulator(s) Authorisation body
+(where NUiC)Licensing body(or delegate) teststhe deploymentdomain, inparticular thesuitability of remoteoperation
+Authorisationbody assessessuitability for selfdriving, includingconsistency withroad rules, collisionrisks, equalityimpacts,privacy/dataprotection anddriver interfacesand labelling
+reviews VehicleSafety Case Reports(VSCRs)s, auditssafety managementsystem, and relevanttype approvalcertiﬁcates
+Authorisation bodyand ASDE agreebasis forauthorisation, basedon the type approvalgranted, agreedVSCR, ODD
+Licensing bodyissues licence tooperate a NUiCservice
+Authorisationbody issuesauthorisation of AVas capable ofdriving itself
+(Prospective) ASDEtrials potential self-driving system withsafety driver andlabelling in place, inline with a SafetyManagement System
+ASDE
+ASDE publishesauthorisationnotice, andsummary ofauthorised safetycase report
+ASDE shares moredetailed safetyinformation withprospective NUiCOperator(s)
+ASDE develops andsubmits VehicleSafety Case Reportsand SafetyManagement Systemfor Authorisation, onthe basis of theagreed ODD
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+8/66
+[Page #8]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+NUiCOperator
+(where NUiC)(Prospective) NUiCOperator developsDeployment SafetyCase Report on thebasis of a VehicleSafety Case Report,and Operator SafetyManagement System
+(where NUiC)NUiC OperatorsubmitsOperational SafetyCase Report andOperator SafetyManagementSystem forLicensing
+(where NUiC)NUiC Operatorpublishes licence tooperate and makesavailable to anypassengers
+Context
+The Centre for Data Ethics and Innovation (CDEI) was commissioned by theCentre for Connected and Autonomous Vehicles (CCAV) to provide expert adviceto inform future regulation and policy on self-driving vehicles. We use the acronym‘AV’ to refer to self-driving vehicles as this is the commonly-used shorthand.
+Methodology
+The recommendations have been developed by CDEI in consultation with subjectmatter experts. They have been informed by primary research and interviews with32 experts from across industry, academia and the public sector. We havedesigned the recommendations to be as speciﬁc and practically focused aspossible. For example, we highlight the intended ‘implementer’ for eachrecommendation. We have also set out a visual guide to the roles andresponsibilities set out by our recommendations that situates them within thecurrent regulatory ecosystem (see separate Annex).
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+9/66
+[Page #9]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+Relationship to proposals made by the Law Commissions
+The report’s recommendations are intended to be read alongside the regulatoryproposals developed by the Law Commission of England and Wales and theScottish Law Commission (the Commissions), as part of their joint review of thelegal framework for AVs in Great Britain. These recommendations have beendesigned to complement (and avoid duplicating) the Law Commissions’ proposals.Our hope is that the recommendations below clearly bound the ethical problem forregulating AVs. We recognise that some requirements have already been set out byother projects, such as the need for AVs to comply with road rules. Whereappropriate, we use the terminology coined by the Commissions, such as ‘in-useregulator’, without prejudice to how the government ﬁnally implements theCommissions’ recommendations.
+Scope
+This report examines the most pressing ethical and governance issues that relateto the regulation of AVs. For this reason, we made the decision not to cover thefollowing issues which, while important, are not within the scope of this work:
+the impact of AVs on regional inequalities and the ‘levelling up’ agendaenvironmental impacts of AVs and the contribution to Net Zero targetswider societal implications of AVs (e.g. relating to land use policy, employment,public transport passenger safety or taxation).
+Summary of recommendations
+Recommendations for policymakers
+Recommendedrequirementsfor AuthorisedSelf DrivingEntities(ASDEs), NUiCOperators, andtriallingorganisations
+Road safety
+The authorisation authority, in concert with thein-use regulator, shall develop and publishguidance on Road Rules (RR) in the context ofself-driving vehicles.
+The OperationalDesign Domain(ODD) shouldbe consistentwith the relevantroad rules andcover all classesof road users,including
+The authorisation authority shall deﬁne ascheme for determining what changes to AVperformance are signiﬁcant enough to require
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+10/66
+[Page #10]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+re-authorisation prior to ASDEs supplyingupdates to deployed AVs.
+vulnerable roadusers that canreasonably beexpected in theODD.
+The ASDEshould deﬁne a‘Safe andEthicalOperationalConcept’(SEOC) thatsets out high-level principlesthat will governthe design andbehaviour of theAV.
+Data privacy
+The AV regulator(s) should issue guidance forASDEs and NUiC Operators clarifying howData Protection obligations(https://www.gov.uk/government/consultations/data-a-new-direction) apply to AVs, in consultationwith the Information Commissioner’s Ofﬁce.
+In line with UKGDPR, ASDEsand NUiCOperators shallensure that ‘dataprotection bydesign and bydefault’measures areincorporatedthroughout theAV developmentprocess, forexample, byanonymisingfacial imagedata that isunavoidablycaptured invideo of the AV’ssurroundings atthe point it iscollected andbefore furtherprocessing.
+The Home Ofﬁce should issue guidanceclarifying how the Investigatory Powers Act2016 applies to ASDEs and NUiC Operators.
+Fairness
+The in-use regulator, advised by CAVES,should collect data on fairness and safety
+ASDEs shouldreport on the ﬁt
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+11/66
+[Page #11]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+outcomes in order to allow feedback tooperators and collective learning.
+between theirtraining data andtheir ODDs tominimise risk ofalgorithmic biasas part of theequality impactassessment andsafety casereportssubmitted duringthe authorisationprocess.
+The authorisation authority and licensingauthority should ensure that AV services arenon-discriminatory in terms of access (e.g. whocan be a passenger, who can access services)as part of authorisation and licensingdecisions.
+ASDEs shouldfacilitateindependentscrutiny of risksand biases sothat distributionof risks can beassessed.
+Explainability The Committee on AV Ethics and Safety (see
+The ASDEshould designthe AV so that itis possible toconstruct anexplanation ofkey decisionsmade during theDynamic DrivingTask (DDT) for abounded testscenario, and inthe lead up to anotiﬁable event.
+below) should review the degree ofexplainability needed for regulatory oversight.
+For collisions,near misses andother notiﬁableevents, theASDE shoulddesign the AV sothat it is possibleto construct anexplanation ofthe key
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+12/66
+[Page #12]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+decisions madeby the AVleading up to theevent, howevercaused.
+Data sharing
+The disclosure of safety-relevant data shouldbe standardised across ASDEs. The in-useregulator should deﬁne a consistent format forsafety-relevant data to facilitate sharingbetween ASDEs, the authorisation authorityand a collision investigation unit.
+In consultationwith theauthorisationauthority, theASDE shallpublish asummary of theSEOC, whichwill be madepublicly andfreely availableuponauthorisation ofthe vehicle todrive itself.
+The ASDE andNUiC Operatorshouldcommunicatesafety-relevantdata with otherorganisations inthe AVecosystem whenrequested,including otherASDEs, the in-use regulator,the authorisationauthority and thecollisioninvestigationunit, usingagreed dataformats, wherethis contributesto road safety.
+Public trust
+CCAV should continue to commission publicdialogue and social research to seek publicviews on: Balancing the tensions between
+ProspectiveASDEs andNUiC Operators
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+13/66
+[Page #13]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+achieving a ‘safety-ﬁrst culture’ and ensuringsufﬁcient accountability for the consequencesof AV behaviour; The distribution of AV risksand beneﬁts; Future changes to infrastructureand rules of the road and any associatedcosts; Explainability of decisions made by AVs;Labelling of vehicles.
+should engagewith localcommunities,including localauthorities,when an AV trialis planned in aparticular area.[footnote 10] Thisengagementshould informtesting ordeployment (e.g.placingconditions ontimes, places,publicinformation,maximumspeeds etc).
+If trials on public roads become de factodeployments - e.g. by removing a safety driver,substantially increasing numbers of vehicles orstarting to transport customers, there shouldbe increased scrutiny and renewed safetyassessments.
+AVs should beclearly labelled.Where vehicleshave thecapability todrivethemselves andbe drivenconventionally atdifferent times,signals shouldindicate thestatus ofoperation. Thisexternallabelling shouldbe in addition toinformationinside thevehicle thatclearly indicatesmode ofoperation.
+Governance
+The authorisation authority and in-useregulator should establish a joint Committee onAV Ethics and Safety (CAVES) to provide
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+14/66
+[Page #14]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+contestable advice and recommendations onpolicy and ethical issues regarding the safetyof AVs. CAVES should be composed of expertsand lay members with a diverse range ofperspectives.
+1. Road safety
+Introduction
+Road safety is a key consideration for AVs. If the technology  is not seen as ‘safeenough’, it is unlikely to be accepted by the public. However, there is no empiricallyveriﬁable answer to the question of ‘how safe is safe enough?’ The hope is that AVswill offer dramatic improvements in overall road safety, but in changing the scale ofrisk, they will also affect the type and distribution of risks experienced by roadusers. Average improvements in road safety, even if they can be clearlydemonstrated, will not engender public trust if crashes are seen as the fault offaceless technology companies or lax regulation rather than fallible human drivers.Evidence from past studies of risk perception shows that risks that are seen asnew, uncontrolled, catastrophic and artiﬁcial are consistently ampliﬁed in the mindsof the public.[footnote 11] If AVs are seen by the public as equivalent to trains oraircraft, mobility technologies that users feel are not under their control, the publiccould expect a 100x improvement in average safety over manually-driven vehicles.[footnote 12] Uncertainty about a socially tolerable risk threshold for AVs will remainuntil the technology is mature and deployed at scale. Our approach is intended tosupport the safe and ethical introduction of AVs, which will allow this risk thresholdto be established over time, based on a carefully managed introduction of thetechnology.
+AVs are road vehicles, and many of the normal regulatory processes for roadvehicles will continue to apply, including type approval, which ensures that a vehicle(or component) is compliant with established regulatory standards. A signiﬁcant partof the existing regulatory framework is to licence drivers as competent to drive, andhold drivers accountable for safe driving. This framework no longer serves itspurpose in a situation where vehicles are ‘self-driving’ where there is no such driverin control of the vehicle, whether there is a ‘user-in-charge’ who is not required tomonitor the situation, or no user-in-charge within the vehicle at all. This means thatadditions to the current regulatory framework are needed. Speciﬁcally, theseadditions will have to address the transfer of safety responsibility from drivers tovehicle manufacturers and operators. There will also be a need for sufﬁcientregulatory oversight of how these vehicles behave, both during upfront approval,and monitoring while deployed. While this is in part addressed by therecommendations made by the Law Commissions, this report builds on that legalframework by recommending a regulatory approach which assures vehicles, ratherthan drivers, and provides a level of technical detail that is intended to enablevehicles to be designed, assessed and authorised.
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+15/66
+[Page #15]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+Safety by design
+Rather than attempting to deﬁne a level of acceptable risk, our approach is tooutline a framework for the assurance of safe AVs as part of an emerging regime ofstandards, certiﬁcation and inspection, with the further aim of continual safetyimprovements over time, to ensure that an acceptable level of risk is achievedbefore AVs become widespread. A safety assurance regime cannot guarantee safeoutcomes in all cases, nor can it provide clear statistics on aggregate risk inadvance of testing and deployment, particularly with new and complextechnologies.[footnote 13] Our focus instead is on encouraging safety by design.
+Safety by design involves informing and guiding the design and development of asystem with the results of safety analyses, rather than viewing safety assessmentas a process carried out at the end of the development process. The beneﬁts aretwofold: ﬁrst, it is much more likely that a safe system will result; second, it will beeasier to assure safety, as the safety evidence needed for the safety case will arisenaturally out of the development process. This concept is well-established for“conventional” systems and is often encoded in four principles, here presented withrespect to software:
+1. Software safety requirements shall be deﬁned to address the software
+contribution to system hazards.
+2. The intent of the software safety requirements shall be maintained throughout
+requirements decomposition.
+3. Software safety requirements shall be satisﬁed.4. Hazardous behaviour of the software shall be identiﬁed and mitigated.
+The ﬁrst three principles relate to managing safety ‘top down’; the fourth is ‘bottomup’, recognising that there will never be complete foresight, and the design processneeds to address unanticipated, low-level, failure modes. These four principles areoften supplemented with a ﬁfth (referred to as 4+1) that the conﬁdence establishedin addressing the software safety principles shall be commensurate to thecontribution of the software to system risk.
+These principles can be seen in assurance processes for machine learning basedsystems, see for example the Assurance of Machine Learning for AutonomousSystems (AMLAS) framework (https://www.assuringautonomy.com/).
+The associated assurance framework is intended to seek sufﬁcient evidence thatsafety by design principles have been followed and that developers andmanufacturers have in place mechanisms to learn from experience, improvedesigns, and to achieve societally acceptable levels of risk over time. Thus, thesafety framework is intended to seek meaningful data on who beneﬁts, who isharmed, how they are harmed and who is responsible rather than just statistics ondeaths and injuries per million miles. Recognising that this is a rapidly evolvingtechnology, this framework does not aim to be prescriptive about technologicalapproaches. Rather than examining the safety of AVs in isolation, the assurance ofAV safety is possible only in the context of their deployment domains.
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+16/66
+[Page #16]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+Elements of a safety framework
+There are many important aspects of the proposed safety framework in terms ofachieving safety, assuring safety, and in communicating to the public. We brieﬂyoutline the key elements of the framework.
+Operational Design Domain (ODD) and deployment domainsIt is conventional to specify an ODD for an AV - that is a deﬁnition of the types ofroad layout, road users, including their ethically relevant features, weatherconditions and lighting conditions in which an AV is expected to operate. AVs will beassured for operation in a particular ODD noting that, for example, the ODD for avalet-parking capability will be distinct from the ODD for a ‘motorway pilot’. WhenAVs are deployed, e.g. to provide mobility as a service, a check will be needed thatthe deployment context, i.e. where, and in what conditions, the vehicles are used,matches the ODD - for example if there are level crossings in the deploymentdomain, then these need to be present in the ODD for it to be appropriate for thevehicle to be approved for deployment in that domain.
+Recommendation
+Implementer
+1. The ASDE shall deﬁne the AV ODD to be consistent with therelevant Road Rules (RR) and to cover all classes of roadusers including vulnerable road users that can reasonably beexpected in the ODD.
+ASDE, reportingto theAuthorisationauthority
+The ODD deﬁnition should include all relevant features deﬁnedto an appropriate level of detail. The deﬁnition should coverthe parameter ranges for ﬁxed scenery elements, attributes ofdynamic elements and environmental elements. It should alsoinclude all ethically salient features relating to other roadusers.
+Further guidance will be needed from DfT to deﬁne theseethically salient features.
+2. The ASDE shall ensure that the deployment domain iscompatible with the ODD prior to operational use of the AV.
+ASDE reporting tothe In-useregulator
+Road rulesRoad rules (RR) are customs or rules governing the behaviour of road users.These include, but are not limited to, relevant aspects of the Highway Code. Forexample, the custom of ‘ﬂashing lights’ or making a beckoning motion to indicatethat an oncoming vehicle can proceed is not enshrined in the Highway Code but iswidely (if perhaps inconsistently) practised. Some have argued that the Highway
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+17/66
+[Page #17]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+Code or RR should be modiﬁed to accommodate AVs or that some RR need notapply to AVs as they will be demonstrably safer. We do not take this view, andbelieve that AVs should comply with existing RR so that they can integrateeffectively with conventional vehicles and to avoid any sudden (and potentiallyhazardous) changes in behaviour when switching between self-driving and human-driven modes. However, we recognise that RR will evolve over time, and this needsto be done while being mindful of the capabilities and limitations  of AVs and ofsocietal attitudes to AVs, including changes in views as such vehicles become morewidespread. We therefore recommend that CAVES has a role to advise on RR andsee this as consistent with the Law Commissions’ report.
+Recommendation
+Implementer
+3. The authorisation authority, in concert with the in-use regulator,shall develop and publish guidance on RR in the context of self-driving vehicles, with input from the CAVES Road RulesSubcommittee, to inform the development of SEOCs that:
+Authorisationauthority
+a) give complete coverage of situations that an AV couldreasonably be anticipated to encounter in the ODD;b) reﬂect rules of behaviour that are ethical and broadlyacceptable across different types of AV; andc) identify precedence between the rules.
+Safe and Ethical Operating Concept (SEOC)It is necessary to understand how the AV will behave safely and ethically. Currentroad rules are deﬁned based on the presence of a human driver. Several of theHighway Code rules for drivers include phrases such as ‘when it is safe to do so’,and ethical considerations, e.g. with respect to vulnerable road users, are also leftto the discretion of the driver. Thus, for AVs, just complying with the RR is notsufﬁcient, and it is necessary to ‘encode’ aspects of safe and ethical behaviourbeyond the RR. It is common engineering practice to deﬁne a Concept ofOperations (CONOPS) for a system and we build on this practice by introducing aSafe and Ethical Operating Concept (SEOC) which sets out constraints that willgovern the behaviour of the AV. The SEOC will address, for example, issues ofhandover to drivers for AVs with a UiC feature on exiting an ODD, and howunavoidable emergency situations will be dealt with, including priority given tovulnerable road users. The SEOC will build on and help interpret the relevant RR,for example providing the context for interpreting rules, such as for crossing doublewhite lines, that say they may be ‘broken’ when it is safe to do so. The intent is thatthe SEOC can be communicated to the public and interested stakeholder groups sothey can gain an understanding of how the AV is intended to achieve safe andethical behaviour.
+What is a SEOC?
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+18/66
+[Page #18]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+A Safe and Ethical Operating Concept (SEOC) would be a set of constraints onvehicle behaviour, including motion, signalling to other road users, and actionsto preserve their own safety. The SEOC would be deﬁned as a set of Self-Driving Constraints (SDCs) and precedence between these constraints, as theycan conﬂict in certain circumstances.
+In Annex A, we have identiﬁed some example SDCs, some clear precedencerules, and some situation-dependent precedences so the concept is clear.  Forease of understanding, these focus on motion rather than signalling. These areintended to be illustrative and an ASDE’s SEOC would need to be thoughtthrough from their perspective on safe and ethical behaviour for the capabilityof their AV and the intended ODD.
+Recommendation
+Implementer
+4. The ASDE shall deﬁne a SEOC, including Self-DrivingConstraints (SDCs) (see Annex A for more detail), forinclusion within its SCR submitted as part of authorisation,for the behaviour of the AV in its ODD, that:
+ASDE, reporting tothe Authorisationauthority
+a) complies with road rules (RR);b) complies with any applicable regulations for automateddriving system (ADS);c) minimises occurrence of ‘at-fault’ collisions in its deﬁnedODD;d) mitigates risk of ‘non-fault’ collisions in its deﬁned ODD;e) manages entry to and exit from the ODD, ensuring atransition to safe control of the AV by the UiC where there isone, or a safe transition to a minimal risk condition (MRC) onexiting the deployment domain;f) does not unfairly discriminate against road users orotherwise unfairly treat vulnerable road users;g) does not require other road users to violate applicablerules or SDCs;h) deﬁnes the priority of rules and SDCs where they canconﬂict in particular circumstances;i) does not cause individuals in the vicinity of the AVunjustiﬁed concern about their safety;[footnote 14]appropriately balances the need to make progress with theneed to ensure safety.[footnote 15]
+5. The ASDE shall demonstrate to the authorisation authoritythat they have designed the AV to be consistent with theSEOC, and provide supporting arguments and links toevidence in a SCR to gain authorisation for self-driving. TheSEOC shall be made publicly available once authorisation isgranted.
+ASDE, reporting tothe Authorisationauthority
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+19/66
+[Page #19]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+6. The ASDE shall monitor the operation of the AV to identifysituations where it fails to implement the SEOC, inform thein-use regulator of ‘notiﬁable events’ and take action toresolve deviations from the SEOC that are not notiﬁable.Government will need to consider how this interacts withNUiC Operators and what their obligations in relation to theSEOC will be.
+ASDE and NUiCOperator, withoversight from theIn-use regulator
+Safety Management Systems (SMS), Safety Cases and Safety Case ReportsSafety Management Systems (SMS), Safety Cases and Safety Case Reports(SCRs) are key tools in ensuring and assuring safety. A Safety Case is a structuredargument, supported by evidence, that a system is acceptably safe for a givenapplication, in a speciﬁed environment (e.g. an ODD). Safety Cases are very large,so it is common to present the argument and evidence summaries in an SCR, e.g.in support of regulatory approval.  Safety Cases and SCRs are well understood andare already part of the automotive industry practice (e.g. as required by ISO26262). Our usage here is consistent with that standard, except that we would alsoexpect to see ethical issues addressed in the SCR and the SEOC to be bothprominent and publicly available. The SMS is a set of processes and procedures onhow safety will be managed by an organisation including, but not limited to, how anSCR will be produced for an AV. For an Authorised Self-Driving Entity (ASDE), theSMS will deﬁne organisational structures, processes for handling ethical concerns,ways of responding to instructions from regulators and informing owners/users ofissues they need to be aware of, and so on. For a No-User-in-Charge (NUiC)Operator the SMS will perform a similar role in setting out how safety is managed inthe organisation but will be different in scope as it will need to include operatortraining and competence, maintenance procedures, emergency response, e.g.recovering a broken-down vehicle and providing a means of completing unﬁnishedjourneys, where appropriate. In Annex A, we have outlined what, at a minimum, thecontents of the SMS should be, both for ASDEs and NUiC Operators.[footnote 16]
+Although there are many more details, the ODD, SEOC, SMS and SCR provide thebases on which the safety assurance framework is built. Although the onus in theframework is on the ASDE and the NUiC Operator, it is intended that the regulatoryauthorities will gather and analyse data so it is possible to make judgements thatthe introduction of AVs provides a signiﬁcant net reduction in safety risks, over time.
+It is important that the Safety Case and SCR are kept ‘in step’ with the evolvingsystem design. However, it would be both onerous and ultimately unproductive toupdate the SCR for every change, thus guidance is needed on when the SCRneeds to be updated and re-submitted to the regulator.
+As a rule of thumb, we would expect that the following changes would beconsidered sufﬁciently signiﬁcant to require the production and issuing of a revisedSCR:
+Change to priorities between rules in the SEOC which might change the balanceof risks between classes of road user
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+20/66
+[Page #20]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+Extending capability of a particular Automated Driving System (ADS)
+The following changes would not be considered sufﬁciently signiﬁcant to require theproduction and issuing of a revised SCR:
+Perfective changes, e.g. change in trajectory generation for path planning thatreduces energy useChanges to internal labels for object classes used by the perception system,without changing the object classes themselves
+The SMS too will evolve, but this will reﬂect changes in processes, e.g. new trainingschemes for staff at a NUiC Operator, not changes to the AV itself. Current UNECEregulations typically require review or audit of similar processes, e.g. for managingsoftware updates, every three years. We make no speciﬁc recommendations onfrequency of audit or update, but suggest that this is an issue which should be keptunder review by regulators.
+Recommendation
+Implementer
+7. The ASDE and NUiC Operator shall comply withinstructions from the in-use regulator or authorisationauthority, e.g. to limit the AV deployment domain or modifythe vehicle design, to ensure continued safety ofoperation.[footnote 17]
+ASDE and NUiCOperator
+8. ASDEs and NUiC Operator shall keep their SCR up todate and produce it to the authorisation authority whenrequired to gain approval for changes to the vehicle priorto deploying the changes as part of the vehicle’s re-authorisation.
+ASDE and NUiCOperator, reporting tothe Authorisationauthority
+9. The ASDE and NUiC Operator shall operate a safetymanagement system (SMS) for the AV governing howthey manage safety through the AV lifecycle, and provideperiodic independent SMS audit reports to the in-useregulator.
+ASDE and NUiCOperator, withoversight from theAuthorisation authorityand In-use regulator
+10. The authorisation authority should assess SMS andsafety culture within ASDEs and NUiC Operators as partof the authorisation and licensing decisions respectively,and approve deployments where they meet applicablecriteria.
+Authorisation authority
+11. For authorisation purposes, the authorisation authorityshall assess the safety of AV deployments based on:
+Authorisation authorityand In-use regulator
+a) the SCRb) independent SMS audit reports
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+21/66
+[Page #21]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+c) notiﬁable events (cf. LC Rec. 20 - data gathering onsafety)
+The in-use regulator should assess a), b), and c) on anongoing basis.
+12. The authorisation authority shall deﬁne ‘notiﬁableevents’ in terms of deviation from the ASDE’s SEOC.[footnote 18] It will, at a minimum, include trafﬁc infractionsas deﬁned by the Law Commissions; an incident that hadit been performed by a human driver would have attractedcriminal or civil penalties (cf. LC Rec. 20 - data gatheringon safety).
+Authorisation authority
+13. The authorisation authority shall deﬁne a scheme fordetermining what changes to AV performance aresigniﬁcant enough to require re-authorisation prior toASDEs supplying updates to deployed AVs.
+Authorisation authority
+Clarity around responsibility and accountability during handover with the UiCThe AV shall be designed to enable the UiC to take back control of the vehicle in asafe manner, e.g. by being given sufﬁcient time to retain situational awareness,noting that the UiC should respond to the transition demand but that the AV shouldcontinue to provide safe operation, should the UiC fail to do so (See Rec. 14). Thisis important because it will ensure that responsibility and accountability falls in theappropriate place so that, for example, the AV rescinds control to the UiC in a waythat they can reasonably take responsibility and control of the vehicle. This maymean that the AV has to be designed to undertake a Minimum Risk Manoeuvre(MRM) if the UiC doesn’t respond to a transition demand.[footnote 19] This is in orderto ensure that the vehicle enters a Minimum Risk Condition (MRC) and thatappropriate recovery action can be taken. For example, on a motorway, the MRMmight involve moving to the leftmost lane and to continue driving at a speedconsistent with the surrounding trafﬁc, before entering an Emergency Refuge Area(ERA) and coming to a stop - which is the MRC. It will take signiﬁcant research anddevelopment efforts to ensure there are the human-machine interfaces in place toget these handovers right, and there may be lessons to be learned from othersectors, such as aviation, that have also grappled with handovers betweenautomated systems and human pilots. Ensuring these handovers between the AVsand UiCs work effectively will be crucial for overall safety and trust in AVs as theyare deployed more widely.
+Recommendation
+Implementer
+14. The ASDE shall design the AV so that transfers ofauthority for control of the DDT from the AV to the UiC shallensure safety, including providing the UiC with sufﬁcient time
+ASDE, reporting tothe Authorisationauthority
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+22/66
+[Page #22]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+and information to achieve situational awareness before theyengage in the DDT.
+The ASDE shall have responsibility and accountability forbehaviour of the AV both within and outside the ODD unless itis conﬁrmed that the UiC has authority for control of the DDT.[footnote 20]
+2. Data privacy
+Introduction
+AVs necessarily collect and process large volumes of data about theirsurroundings. Many of the privacy and data protection challenges raised by AVsand the services they may enable are therefore similar to other technologies thatprocess large amounts of data about their environments, such as smart speakers,video doorbell cameras and wearable ﬁtness trackers. There are two keycharacteristics of AVs that suggest particular attention should be paid to the privacyimplications of these systems. Firstly, AVs may lead to widespread collection andprocessing of personal data in order to achieve core functionality such as detectingother road users in situations where explicit consent is not feasible. Secondly, theyrequire regulatory authorisation for deployment (as discussed in the safety sectionabove) that may be perceived as regulatory endorsement (implicitly or explicitly)about this personal data processing, including how they strike the right balancebetween what is necessary for safe driving, and sufﬁcient protection of personaldata. These challenges merit careful consideration given the potential future scaleof AV use in public spaces.
+Personal data of AV occupants
+AVs are likely to process several categories of personal data on-board the vehicle,such as time-stamped location data of the vehicle (which carries a high degree ofidentiﬁability), ‘health and wellbeing’ data on the driver (e.g. whether they areawake and alert for the purposes of handing over vehicle control) and personaldata collected by non-driving infotainment systems (e.g. choices made on in-vehicle app stores).
+In the UK, personal data processing is addressed by Data Protection law, includingUK GDPR, the Data Protection Act 2018, and the Privacy and ElectronicCommunications Regulation (PECR) 2003. Data Protection law requires controllersto have a lawful basis for that processing, which is often consent in the context ofgoods and services. There are also speciﬁc requirements for consent whenprocessing location data[footnote 21] under the PECR, where all users (i.e. both UiCsand passengers) must give their valid consent (https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/consent/what-is-valid-
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+23/66
+[Page #23]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+consent/#:~:text=%E2%80%9Cany%20freely%20given%2C%20speciﬁc%2C,relating%20to%20him%20or%20her%E2%80%9D.) for this processing, unless the data is processedanonymously. It will fall within the duty of the ASDE to provide suitable, clearlyworded and easily comprehensible information to owners, UiCs and registeredkeepers. Where this processing is of sensitive personal data, ASDEs will need toensure they comply with the requirements of seeking explicit consent. We note thatthe Law Commissions recommend that the Government establishes a duty on AVdata controllers to share relevant data with insurers to provide a legal basis fordoing so. Regulators should guard against companies using privacy as aninappropriate reason not to share safety-critical data.
+Our interviews with subject matter experts highlighted open questions regarding theintervals for when consent may need to be reviewed - for example, whether theuser will need to provide consent every time the vehicle is activated, as there maybe new passengers on board who have not previously provided valid consent. Thiswill depend in part on the categories of personal data collected. In particular, thereare open questions regarding ﬂeet ownership models using vehicles ﬁtted with aNUiC self-driving feature, and whether the occupants or the NUiC Operator will beresponsible for providing consent in these situations. We recommend that theseareas of ambiguity are clariﬁed via joint guidance issued by the ICO and AVregulator(s).
+As per Data Protection regulatory requirements, any personal data processed byAVs should not be stored for longer than is strictly necessary. For incidentinvestigation, insurance, and civil enforcement purposes, it will be necessary tostore AV location data for a period of time (e.g. for cross-referencing the time andlocation of reported incidents). However, it would not be acceptable to store suchdata indeﬁnitely, and future guidance will need to explicitly clarify the retention anddeletion schedules required for AV location data. We note that the LawCommissions recommended that location data be stored for 39 months forinsurance purposes. We think this is a good guide for parties beyond insurers (e.g.incident investigation and civil enforcement) as similar evidential considerationsapply, although they will need to periodically review these to ensure they areappropriate.
+Personal data of other road users
+AV sensors may also collect personal data from individuals outside the vehicle (forexample, of pedestrians and other road users), most notably facial imagescollected from video feeds. Again, this issue is not unique to AVs, as manyconventional vehicles now have dash cams installed that collect the facial imagesof pedestrians. Although AVs may collect more detailed data from multiple sensors,the legal compliance considerations remain the same, and such collection will likelybe necessary for the safe operation of the vehicle, or in the interests of publicsafety to meet these obligations. If processing this personal data is not necessary,‘data protection by design and by default’ measures may need to be used (seebelow). ASDEs will also need to consider how to enable individuals external to thevehicle to assert their data protection rights (in line with ICO guidance)[22].
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+24/66
+[Page #24]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+Biometric data
+Biometric data
+As deﬁned in UK GDPR, biometric data (https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/special-category-data/what-is-special-category-data/#scd4) is ‘personal data resulting from speciﬁctechnical processing relating to the physical, physiological or behaviouralcharacteristics of a natural person, which allow or conﬁrm the uniqueidentiﬁcation of that natural person, such as facial images or dactyloscopic[ﬁngerprint] data’.
+Some companies are exploring the use of biometric data of road users outside ofthe vehicle. One application of this would be to identify the intentions of other roadusers, for example, by assessing eye contact with the vehicle (‘gaze detection’). Ifthere are instances in which the collection of biometric data could be demonstratedto be necessary for the safe operation of the vehicle, then they may be lawful underthe ‘legitimate interests’ basis of UK GDPR (https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/lawful-basis-for-processing/legitimate-interests/), although this is something of a grey area and wouldbe subject to undertaking a legitimate interests assessment. To provide clarity forcompanies exploring the use of this technology, the ICO and AV regulator(s) shouldclearly set out the circumstances (if any) in which the processing of personal dataof individuals outside of the vehicle (such as facial images of pedestrians) would beconsidered lawful and proportionate under Article 6 of UK GDPR. Biometric data isalso likely to be special category data and therefore processing will also need tosatisfy Article 9 where this is the case.
+Implementer
+Recommendation
+ICO;Authorisationauthority; In-useregulator
+15. The AV regulator(s) should issue guidance for ASDEs andNUiC Operators clarifying how Data Protectionobligations[footnote 23] apply to AVs, in consultation with theInformation Commissioner’s Ofﬁce. Issues that could becovered include:
+a) The requirement to conduct a Data Protection ImpactAssessment (DPIA), and to make this document publiclyavailable alongside the vehicle’s safety case report atauthorisation[footnote 24];b) Clariﬁcation that an ASDE and/or NUiC Operators shouldprepare suitable DPIAs and make available for authorisationand licensing decisions;c) A self-assessment checklist to establish whether the ASDE /NUiC Operator is acting as a controller, processor, or jointcontroller;d) Any requirements to secure valid consent from the UiC or
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+25/66
+[Page #25]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+passengers for processing personal data within the vehicle(such as what kinds of data collection would constitute ‘locationdata’ and ‘cookies or similar’ under PECR) and whereadditional consent may be required, such as when there arenew passengers in the vehicle;e) Proposed retention and deletion schedules for personal datacollected by AVs, particularly location data;f) What would be considered necessary and legitimatepurposes for processing and sharing personal data (e.g. safetyimprovements, insurance claims etc.);g) Circumstances under which processing of personal data ofother road users outside the vehicle (such as facial images ofpedestrians) is likely to be considered lawful and proportionateunder Article 6 GDPR (e.g. vital interests, or legitimateinterests)[footnote 25];h) Circumstances under which processing of special categorypersonal data (e.g. biometric data of the UiC) is likely to beconsidered lawful and proportionate under Article 9 GDPR (e.g.explicit consent, or substantial public interest)[footnote 26];i) The testing of AI systems for AVs against the requirement ‘todesign the AV so that it is possible to construct an explanation of the key decisions made by the AV leading up to the notiﬁableevent, however caused’. See Rec. 29;j) Which ADS features (if any) could be considered ‘a decisionbased solely on automated processing, including proﬁling,which produces legal effects concerning [the data subject] orsimilarly signiﬁcantly affects [the data subject]’, for thepurposes of Article 22 GDPR.
+Data protection by design and by default and dataminimisation
+Data protection by design
+As deﬁned by the ICO (https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-by-design-and-default/#dpd3), ‘data protection by designis ultimately an approach that ensures you consider privacy and data protectionissues at the design phase of any system, service, product or process and thenthroughout the lifecycle’.
+Data minimisation
+Under the data minimisation principle(https://www.legislation.gov.uk/eur/2016/679/article/5) of UK GDPR, [Personal datashall be] ‘adequate, relevant and limited to what is necessary in relation to thepurposes for which they are processed’.
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+26/66
+[Page #26]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+One way in which AVs could implement a ‘data protection by design and by default’approach would be to anonymise personal data at the source, where identiﬁcationis not clearly necessary for any given purpose. In an AV context, this is likely to bepossible because for many of the types of data needed (such as video data), it willnot be necessary for individuals to be identiﬁable. For example, AVs mayunavoidably collect facial image data (e.g. via video of their surroundings), whichcould be considered ‘special category data’ under UK GDPR, but the facial imagedata itself is not required for safely avoiding obstacles.
+Our in-depth consultation with manufacturers and technical experts revealed that itis very likely that all facial image data of other road users could reasonably beanonymised at the point of collection, without any adverse impact on thefunctioning of the vehicle. This would eliminate the need for the vehicle to processspecial category data of pedestrians without their consent. For manufacturers thatpursue camera-only AV designs (not incorporating Lidar), it is technically feasible(https://techcrunch.com/2020/10/19/pimloc-gets-1-8m-for-its-ai-based-visual-search-and-redaction-tool/?guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAND8sOzngN1jk-75fLV_87LaEoT7Dup_aq_A89pB0mMO9IByK6qYyMed_Ql0B4QTiUgHdyx9cvMfa9OwhLuuBsr0XyJhqw0ElVGJClvdbdbtM2XbeNDXx9-nJzgZXq-IKdJAZZiJTp0zpIpOQHBuVHtJvtpEHvZcoBRH0e8zOVFD&guccounter=2) to detect facesand apply anonymisation techniques to them, to ensure that individuals’ privacy isprotected. ASDEs will need to ensure that such techniques fully anonymise faces,otherwise they may be considered ‘pseudonymised’ and therefore still subject toUK GDPR as personal data. This challenge does not arise with Lidar and radarsensor fusion devices as they do not record image data that would include facialimages.
+Implementer
+Recommendation
+Authorisationauthority
+16. ASDEs and NUiC Operators shall ensure that ‘data protectionby design and by default’ measures are incorporated throughoutthe AV development process. This should include:
+a) Ensuring any personal data collected by AVs or for training AVsystems is strictly limited to what is necessary for the purpose forwhich it is processed[footnote 27];b) Ensuring any personal data that is not necessary to performthe legitimate purposes established by Rec. 15(f) is anonymisedat the point of collection or creation (for instance by blurring orpixelating facial image data of pedestrians);c) Ensuring any personal data is only stored for as long as isstrictly necessary, and is not transferred from the vehicle exceptfor speciﬁc, clearly deﬁned purposes, with reference to thelegitimate purposes established by Rec. 15(f);d) Ensuring that any sharing of personal data that is required forone of the legitimate purposes established by Rec. 15(f) is done
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+27/66
+[Page #27]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UKin a way that protects individuals privacy, for instance through theuse of differential privacy techniques.
+AVs as surveillance cameras and telecommunicationsdevices
+The cameras on AVs have the capacity to function much like surveillance camerasin the sense that they can collect, store and transmit video data of environments,including other road users in public and private spaces.
+Given this capability, our recommended approach is that ASDEs should complywith legal requirements (https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-be-informed/), suchas transparency requirements as set out in UK GDPR, and follow established goodpractice for the responsible adoption of surveillance cameras, such as the ICO’sguidance (https://ico.org.uk/for-organisations/guide-to-data-protection/key-dp-themes/guidance-on-video-surveillance/) on surveillance cameras[footnote 28].
+Some AVs use video cameras that, while their primary purpose is safe operation,can also function as surveillance cameras by collecting, storing and transmittingvideo of their environments (in a non-targeted way). This video data couldpotentially be reused for other purposes such as evidence of crimes unrelated toroad safety, and there is some evidence (https://www.thetimes.co.uk/article/detective-tesla-videos-itself-being-keyed-cpfq2xgqf) that this is already happening in both publicand private places. Unlike dash cams, these are now potentially core capabilities ofthe safe operation of an AV, which would be regulated in the future by DfTagencies. In effect, this is potentially approving a surveillance capability, and DfTshould draw on the existing governance frameworks for surveillance cameras.
+Beyond the Data Protection legislation and guidance outlined above, the Police andCriminal Evidence Act (PACE) 1984 (s.20) and related Codes of Practice providethe existing legislative framework around the collection of criminal evidence,including the power for police to seize electronic information from vehicles, alongwith safeguards for the use of these powers, such as requirements for warrantsand/or consent. The PACE legislative framework would apply to informationcollected and stored in AVs, just as it applies to all other electronic devices.
+As ASDEs and NUiC Operators provide a service or system that involves facilitatingthe transmission of communications, they may also fall under the classiﬁcation of‘telecommunications operators’ for the purposes of the Investigatory Powers Act(IPA) 2016. IPA provides the legislative framework for police forces, intelligenceagencies and certain regulators to gather information for intelligence andinvestigation purposes along with oversight of the use of these powers by theInvestigatory Powers Commissioner. As ASDEs may be obliged to comply with theIPA,  it will be important to clarify and communicate any obligations to them,especially distinguishing between the categories of AV data that could satisfydeﬁnitions in the IPA. For example, if ASDEs are classiﬁed as telecommunicationsoperators, they will need to be able to distinguish between ‘communications data’
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+28/66
+[Page #28]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+and ‘the content of a communication’, which has much stricter requirements onbeing shared, as set out in s.261 IPA(https://www.legislation.gov.uk/ukpga/2016/25/section/261/enacted).
+Recommendation
+Implementer
+17. Where ASDEs are collecting video data of other road users,they should ensure adherence to the relevant ICO guidance onvideo surveillance (https://ico.org.uk/for-organisations/guide-to-data-protection/key-dp-themes/guidance-on-video-surveillance/). Theauthorisation authority should review adherence to the relevantICO guidance as part of the authorisation decision.
+ASDE,Authorisationauthority
+18. AV cameras that collect personally identiﬁable information(either within or outside the vehicle) should be clearly indicated. IfAVs are collecting camera data of other road users, this shouldbe clearly indicated on the outside of vehicles.
+ASDE,Authorisationauthority
+19. The Home Ofﬁce should issue guidance clarifying how theInvestigatory Powers Act 2016 applies to ASDEs and NUiCOperators.
+Home Ofﬁce
+3. Fairness
+Introduction
+AVs will have implications for the distribution of risks and beneﬁts across groups.Access to the technology will be uneven. The factors that determine who beneﬁtsfrom AVs will include questions of economic development and transport planningthat are outside the scope of this report. However, AVs as data-driven technologieshave the potential for various forms of algorithmic bias, which may be hard topredict in advance of deployment at scale.
+This bias may result in unfair outcomes for particular groups, which may give rise tolegally-deﬁned discrimination. Where AVs categorise vulnerable road users (forexample, children, adults, wheelchair users), there is a risk of discrimination thatcould include protected characteristics. As with any algorithmic system, there arerisks of bias and error that can be mitigated by diversifying training datasets and byappropriate choice of ML models and hyperparameters. Nonetheless, somesystemic injustices may only become apparent once systems are operational. Theuncertainties here point to a need for effective collection and sharing of data onhow AVs affect different groups.
+Bias in training data
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+29/66
+[Page #29]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+Issues of algorithmic bias have emerged as important and problematic across arange of data-driven technologies. Given the types of data required to perform theAV’s functionality (such as detecting types of road users and their movement), thereis reason to believe that these issues, particularly when it comes to protectedcharacteristics such as race, may not be as great with AVs as with, for example,facial recognition technologies (https://www.gov.uk/government/publications/cdei-publishes-brieﬁng-paper-on-facial-recognition-technology). However, the possibility ofsystemic biases should not be dismissed. Researchers involved in AV testing anddevelopment have already spotted potential data gaps caused by a concentrationof testing and data collection in some areas.[footnote 29] People and objects that areseen less often, such as wheelchairs and wheelchair users, may beunderrepresented in training data. Algorithmic bias could also occur with respect toin-vehicle technologies, for example in ‘attention detection’ technologies that usebiometric data to judge whether a user in charge is tired or distracted.
+Advanced sensing technologies such as gaze detection and intent prediction may,in the future, demand data at a granularity that has implications for bias. Safetycases may, in the future, beneﬁt from identifying, for example, young and oldpeople. Following recent changes to the UK Highway Code, an ethical focus onAVs offering additional protection for vulnerable road users would be justiﬁed,which may require more attention to classiﬁcation of types of road user.[footnote 30]The need for AVs to classify road users in terms of whether they are, for example,cyclists, pedestrians, or horse riders and make predictions accordingly, creates arisk if road users are hard to classify.[footnote 31]
+Recommendation
+Implementer
+20. To minimise the risk of algorithmic bias, ASDEs’ safetycases and impact assessments[footnote 32] should report on theﬁt between their training data and their ODDs. Substantiallyaltered ODDs should require new reports on training data.
+ASDE, withoversight from theAuthorisationauthority
+21. Where training data distinguishes between categories ofroad users, e.g. between children and adults for reasons ofsafety, this should be acknowledged as part of the safety caseand reported to the authorisation authority. Steps should betaken to anticipate and minimise unfair consequencesresulting from data bias, including discrimination.
+ASDE, withoversight from theAuthorisationauthority
+Differentiated treatment between different types of roaduser
+Recommendation
+Implementer
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+30/66
+[Page #30]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+22. Where systems distinguish between groups whiledriving, justiﬁed on the grounds of safety, e.g. theidentiﬁcation of children, wheelchair users or othervulnerable road users, ASDEs should have a duty to reportin order to allow independent scrutiny (including, but notlimited to, reporting this in the safety case).[footnote 33]
+ASDE, with oversightfrom theAuthorisationauthority and In-useregulator
+Risk distribution
+AVs will change the balance as well as the magnitude of risk, although thedistribution of risk may be unpredictable. Even if AVs enable large improvements inoverall safety, some groups may see substantial safety improvements while otherssee none or even face new hazards. As with other issues involving the rules of roaduse, perceptions of risk are likely to be important. It will be important to understandwhether vulnerable road users feel more or less vulnerable around AVs. Vulnerableroad users, who have recently been granted revised attention by the updatedHighway Code[footnote 34], are likely to have particular interests in changes of rulesof the road that may be made to accommodate AVs. There is a need for meaningfuldata on how AVs affect different groups. Some of this may be possible throughindependent scrutiny of risks and risk perceptions around AVs[footnote 35], but it willalso require access to ASDEs’ own data on collisions and near misses. ASDEs willneed to consider the types of data it is appropriate to collect for understandingimpacts on different groups and how data is stored, in line with data protectionrequirements. Assessing outcomes of collisions or near misses for discriminationcould be a lawful purpose for processing data such as a pedestrian’s detectedgender - but would have to take into account ‘data protection by design and bydefault’ considerations set out above.
+While our recommendation on mitigating bias in training data (Rec. 21) will help togive conﬁdence that training data used is representative of the ODD, it will also beimportant to ensure that the reality of the deployment domain continues to reﬂectthe ODD. Ongoing reporting and independent scrutiny of risks and biases thatmight emerge as AVs are deployed will be an important way to address this.
+Recommendation
+Implementer
+23. ASDEs and NUiC Operators should facilitateindependent scrutiny of emerging risks and biases (inaddition to those raised by notiﬁable events) so that thedistribution of risks can be assessed.
+ASDE, withoversight from thein-use regulatorand Authorisationauthority
+24. The in-use regulator, advised by CAVES, should collectdata on fairness and safety outcomes in order to allowfeedback to operators and collective learning. In the eventthat serious problems are identiﬁed and no other means
+In-use regulator
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+31/66
+[Page #31]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+prove effective in mitigation, the regulator should beempowered to impose sanctions, up to and including de-authorisation and product recall (cf. LC Rec. 20 - datagathering on safety).
+The in-use regulator should also compile evidence for wherean amendment to the regulatory framework may benecessary (e.g. updates to the RR) to ensure that AVs areacceptably safe, with continual improvements in safety (seealso Rec. 8).
+Fair treatment and access
+Some aspects of fairness might be designed into AV systems from the start so thatthey are more inclusive. For example, there could be new vehicle designs that aremore accessible to disabled people. Other questions of accessibility may becomeclear as systems are tested and deployed, which will demand careful oversight.The safe operation of AVs may make demands on other road users, who couldhypothetically be asked to change their behaviour or carry devices to make themmore easily detectable. Our recommendation is that it should be the ASDE’sresponsibility to ensure the safety of  vulnerable road users, and vulnerable roadusers should never be required to wear or carry devices that would make themmore visible to AVs. However, we also note that there may be additional safetybeneﬁts to such devices, which should be recognised by ASDEs.
+AVs could also have fairness implications resulting from the infrastructures thatsupport them. The Law Commissions were clear that ‘one of the UK Government’sprinciples for introducing AVs on GB roads is that they should be able to cope withexisting infrastructure’.[footnote 36] However, their report acknowledges that changesto infrastructure may become an important part of ASDEs’ safety cases in the nearfuture. AVs may suit some types of roads more than others, they may depend uponVehicle-to-infrastructure (V2I) connectivity, and demands for their safe operationmay create pressure to segregate AV spaces or ‘AV-only’ lanes.
+Some infrastructure changes may be paid for by ASDEs. However, if investments inAV-friendly infrastructure are costly and taxpayer-funded but seen as beneﬁting aminority of people who travel in AVs, this would change the balance of costs andbeneﬁts, jeopardising public trust. AV developers are currently incentivised todownplay the need for changes to infrastructure, as part of asserting thecapabilities of their systems. A thorough review of short-term AV infrastructureneeds and long-term infrastructure possibilities would allow planners and localauthorities to make better-informed decisions.
+Recommendation
+Implementer
+25. AV regulators should assess the potential risks ofdiscrimination, and the adequacy of accessibility features
+Authorisation authorityand licensing authority
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+32/66
+[Page #32]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+in their authorisation and licensing decisions, in line withtheir Public Sector Equality Duty (cf.  LC Rec. 63 -accessibility advisory panel).
+26. ASDEs should not, as part of their SEOC, requirevulnerable road users to carry or wear anything to makethem more easily detectable to AVs. Should vulnerableroad users decide to use such devices, however, ASDEsshould not ignore their potential additional safetybeneﬁts.[footnote 37]
+Authorisation authorityand In-use regulator
+27. If infrastructure upgrades are required that contributeto AV safety, their costs and beneﬁts for other road usersshould be fully understood and carefully balanced.
+Local authorities andother infrastructurebodies; NationalInfrastructureCommission
+4. Explainability
+Introduction
+Self-driving vehicles are sometimes referred to as ‘autonomous’ vehicles, but it isimportant to remember that they lack moral autonomy, so cannot be heldaccountable for their actions. For this reason, the UK Government avoidsdescribing them as ‘autonomous’ and instead uses the term ‘self-driving’. The term‘self-driving’ also aids public understanding and will become a protected term forthe purpose of marketing products to the public. Since a self-driving vehicle lacksagency, any action it performs must be traced back to its designers and operators.The Law Commissions have concluded that it is not reasonable to hold anindividual programmer responsible for the actions of the vehicle. Instead, the ASDEas an organisation bears responsibility. This raises a fundamental need for anappropriate degree of explainability for the vehicle’s ‘decisions’. We have seen inthe investigation of high-proﬁle self-driving vehicle crashes that perception andclassiﬁcation of some objects might be poor and that complete post hocexplanations might be difﬁcult.[footnote 38] This is a complicated area, and newlyemerging. We recommend that CAVES consider this issue in order to giveguidance to government on regulating this area (see Recs. 45 and 46).
+Explainability (being able to understand why AV systems do what they do, both inreal-time and in hindsight) enables improvements in safety and accountability, andprovides evidence with which to evaluate the safety and fairness of systems.[footnote39] It allows regulators to understand the behaviour of AVs and to hold ASDEs andNUiC Operators to account. Some machine learning based systems arechallenging to explain, but improving the explainability of AI systems is an activeresearch ﬁeld and a lot of progress has been made in this area. Some opacity maybe expected depending on the AI system used, but what matters is that there issufﬁcient explainability for accountability similar to the level of explainability
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+33/66
+[Page #33]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+currently needed to hold human drivers accountable. Technology companies andregulators need to be able to understand a system’s decisions so that they andothers can learn from collisions and near misses. Accordingly, the use of deeplearning for safety critical systems represents a substantial governance challenge.There are emerging efforts to build standards for transparency of ML systems.[footnote 40] We recognise there will be further effort required to ensure meaningfulexplainability and technical feasibility.
+Standardising the disclosure of data is also a clear priority. The ethical black boxfollows the example of ‘black box’ ﬂight recorders on aircraft, devices that aremandated by international regulators with the data they produce sharedimmediately with investigators. The intent is that it should be possible to generateexplanations for notiﬁable events, not just for collisions, to facilitate learning assystems grow in maturity. The additional task of explainability during a system’snormal operation to aid research and development has been labelled(https://www.bsigroup.com/en-GB/CAV/cav-resources/safety-benchmarking-report/) ‘digitalcommentary driving’ by the British Standards Institution (BSI. This process wouldprovide assurance that systems’ safety-critical sensors and decision makingsystems are doing what is expected of them, mitigating the possibility of surprises.
+The potential hazards of AVs as robots operating in open-ended, uncertainenvironments, raise the stakes for the interpretability of AI. With other technologiesthat make use of machine learning systems, performance has been prioritised overinterpretability. Growing interest in explainable AI is starting to redress this balance,but there may be some uses of machine learning in AVs, such as computer vision,that remain incompletely interpretable. It may be impossible to know with certaintywhy an AV image recognition system classiﬁed an object or a person according to aparticular category. Other parts of AV systems, such as those that determine thespeed and direction of the vehicle, are in many cases rules-based and thereforemore easily explainable.
+Techniques for ensuring explainability will differ across AV systems. An ASDE mayneed to review logs from a particular event or replay logs through a simulator.Generating explanations for ML-based systems remains an active research areaand it is likely that capabilities will advance signiﬁcantly in the coming years. Therecommendations have been framed to be as independent as possible of particularexplainable AI methods, and to put the onus on the ASDE to generate explanations,as and when required.
+Recommendation
+Implementer
+28. The ASDE should design the AV so that it is possibleto construct an explanation of the key decisions made bythe AV when it is undertaking the Dynamic Driving Task(DDT) for a bounded test scenario. These explanationsshould be made available as required under the duty ofdisclosure including, as a minimum:
+ASDE, reporting to theappropriate regulator
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+34/66
+[Page #34]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+a) to the authorisation authority as part of the SCR;b) to the NUiC Operator where appropriate.
+29. For collisions, near misses and other notiﬁable events,the ASDE should design the AV so that it is possible toconstruct an explanation of the key decisions made by theAV leading up to the event, however caused. Thisexplanation should be sufﬁcient to identify and rectifycauses of undesirable behaviours, and the ASDE shouldmake the explanation available to:
+ASDE, reporting to theAuthorisationauthority; also In-useregulator and collisioninvestigation unit
+a) a collision investigation unit for the incident beinginvestigated;b) the in-use regulator when investigating a notiﬁableevent to potentially apply a sanction;c) other parties with a legitimate need for the informationagreed in advance as part of authorisation (cf. LC Recs.21, 22, 29 on incident investigation; cf. LC Rec. 74 ondata disclosure).
+5. Data sharing
+Introduction
+There are many advanced technologies whose inner workings remain largelyopaque to their users and the general public. However, it would be a mistake topresume that there is no public interest in questions of explainability. Expertwitnesses and regulators able to translate features for the public will be importantintermediaries. We have seen that when prominent crashes have been investigatedby the National Transportation Safety Board in the US, the availability andinterpretability of data have become important points of contention. A balance willneed to be struck between trade secrets and data sharing, particularly when data issafety-critical. UNECE standards for a Data Storage System for Automated Driving(DSSAD) and an Event Data Recorder (EDR) can help to enable sharing of someof the data relating to safety-critical functions, such as establishing who was incontrol of a vehicle during an incident. However, as a data rich and data-driventechnology, there is also potential for data sharing to enable safety improvementsacross the AV sector.
+We note that there are already obligations under vehicle type approval to sharedata with regulators and third parties, and some similar requirements will benecessary to facilitate the sharing of data with the authorisation and licensingauthorities. Beyond these obligations, the wider goal of improving the safety andeffectiveness of AVs will require additional data-sharing.
+Data-sharing mandates may require standardised formats for data storage anddeﬁnitions of notiﬁable events, which currently vary widely between companies.
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+35/66
+[Page #35]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+Safety cultures
+The Law Commissions have discussed the aim of establishing a ‘no-blame safetyculture’, which would allow learning between competitors. Similar approaches haveled to improvements in safety in medicine and air travel, where learning isprioritised over legal liability in incident investigations. In the airline industry, forexample, the US National Transportation Safety Board has sought to encouragethe idea that ‘anybody’s accident is everybody’s accident’. Until recently, it waspossible to assert that airlines and aircraft manufacturers did not compete onsafety. Historically, this system was sustainable because of a tight relationshipbetween regulators and industry. The recent crashes of Boeing 737 Max aircraftreveal that such a model can lead to complacency, regulatory capture and seriousharm.[footnote 41]
+However, there may be beneﬁts to competition based on safety while thetechnology is new. NCAP and EuroNCAP, the New Car Assessment Programmes,do not only test for regulatory compliance; they also incentivise safety innovationabove and beyond the minimum through the use of star ratings.[footnote 42] Thesepositive effects of competition should be noted, but we should also recognise thatthis competition has often beneﬁted the safety of drivers and passengers ratherthan other road users. In the US, for example, road use has, on average, becomeincreasingly safe for drivers but more dangerous for pedestrians since 2000.[footnote43] We think that a balanced approach that involves aspects of a ‘no blame’ or‘safety ﬁrst’ culture  - for example, the sharing of safety-relevant data (see Rec. 32),alongside some degree of competition on safety - is optimal.
+Novel data sharing approaches
+Regulators and the AV sector should explore the ways in which mechanisms thatfacilitate responsible sharing of commercially sensitive data, such as dataintermediaries, could be used.  An example of a data intermediary that facilitatessafety improvements while ensuring the protection of commercially sensitive data inthe aircraft industry is included below.
+Case study: Advanced Product Concept Analysis Environment(APROCONE)
+APROCONE is an industrial data platform that facilitates collaborative productdesign in the airline industry. It involves a range of public and privateorganisations including Airbus, Rolls-Royce, academic partners, and supplychain companies in the aircraft industry.
+The purpose of APROCONE is to improve collaborative product design foraircraft, while protecting participants’ intellectual property through a digitalplatform that allows the secure exchange and sharing of product data. Theindustrial data platform operates between consortium partners who are able tocontrol their intellectual property, allowing other parties access to minimallyrequired information to support their own designs. Partners can choose to add
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+36/66
+[Page #36]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+or remove partners and use their existing analysis tools, with the platformperforming the required actions that ensure interoperability between partners,overcoming barriers to efﬁcient and cost effective data sharing.
+The data sharing facilitated by APROCONE has enabled an innovativeapproach to initial aircraft and engine sizing that is at least ten times faster andcould deliver signiﬁcant fuel burn savings. The platform has led tomanufacturing cost savings and has enhanced design processes by makingvaluable data available earlier in the design lifecycle.
+For full case study, see Centre for Data Ethics and Innovation’s Unlocking thevalue of data: Exploring the role of data intermediaries(https://www.gov.uk/government/publications/unlocking-the-value-of-data-exploring-the-role-of-data-intermediaries/unlocking-the-value-of-data-exploring-the-role-of-data-intermediaries).
+Privacy-enhancing technologies (PETS)
+One example of a privacy-enhancing technology (PET) that could be useful in thiscontext is federated analytics. Federated analytics refers (https://cdeiuk.github.io/pets-adoption-guide/what-are-pets) to ‘a paradigm for executing a computer programagainst decentralised data’. Federated learning, which is a subset of federatedanalytics, refers to approaches which train machine learning models on distributeddata sets. In the case of self-driving vehicles, it might be useful to explore howthese types of techniques could be applied to minimise the amount of data that isuploaded to a centralised server, since it would instead be stored locally in thevehicle itself.
+Case study: GBoard (https://cdeiuk.github.io/pets-adoption-guide/repository)
+GBoard is a keyboard app for Android and iOS devices. It features next-wordprediction, driven by a machine learning model. GBoard utilises federatedlearning where each mobile device downloads an initial model from a centralserver, which is further trained on the device using user data local to the device.The weights of the resulting model are periodically communicated back to thecentral server using a secure aggregation protocol (a form of multi-partycomputation), which aggregates the weights received from all mobile devicesinto a new common model that reﬂects data from each individual user, withoutsharing any of the underlying data. Devices download this new model, and thecycle repeats, such that the model is continuously trained(https://ai.googleblog.com/2017/04/federated-learning-collaborative.html) withoutcollecting user data centrally.
+Recommendation
+Implementer
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+37/66
+[Page #37]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+30. In consultation with the authorisation authority, the ASDEshall publish a summary of the SEOC, which will be madepublicly and freely available upon authorisation of the vehiclefor self-driving.
+ASDE, reportingto theAuthorisationauthority
+31. The ASDE and NUiC Operator should communicatesafety-relevant data with other organisations in the AVecosystem when requested, including other ASDEs, the in-useregulator, the authorisation authority and the collisioninvestigation unit, using agreed data formats, where thiscontributes to road safety. Data formats should be decided bythe authorisation authority and in-use regulator, in consultationwith the ICO.[footnote 44]
+ASDE and NUiCOperator, withoversight from theIn-use regulator
+a) The ASDE and NUiC Operator should share core safety-relevant data as stipulated by the in-use regulator and collisioninvestigation unit; (note that there will be some aspects ofsafety-relevant data that the ASDE and NUiC Operator will belegally required to share for law enforcement purposes.[footnote45])b) The in-use regulator and collision investigation unit shouldconsult on the agreed scope and format of the core safety-relevant data they will require from ASDEs and NUiCOperators;c) The ASDE and NUiC Operator should be encouraged toshare data with interested parties, using standards andformats developed via consensus;d) Regulators and the AV sector should explore the ways inwhich mechanisms that facilitate responsible sharing ofcommercially sensitive data, such as data intermediaries,could be used;e) ASDEs and NUiC Operators should explore the use ofprivacy-enhancing technologies such as federated learningtechniques (https://cdeiuk.github.io/pets-adoption-guide/what-are-pets), to minimise the volume of personal data that is uploadedto a centralised server.
+32. The ASDE and NUiC Operator shall provide summarisedsafety performance data to relevant bodies including the in-use regulator to enable the safe, ethical and effectiveoperation of the AV marketplace (cf. LC Recs. 20, 74).
+ASDE and NUiCOperator,reporting to theAuthorisationauthority
+33. The ASDE and NUiC Operator shall support reasonableaccess to all relevant proprietary information by a roadcollision investigation unit and other authorised bodies toenable collision and incident analysis and support the
+ASDE and NUiCOperator, withoversight from theIn-use regulator
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+38/66
+[Page #38]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+authorities in producing lessons learnt for dissemination toother ASDEs.[footnote 46]
+34. The in-use regulator shall deﬁne formats for safety-relevant data to enable sharing between relevantorganisations, including ASDEs, the authorisation authorityand the collision investigation unit, to ensure consistency andequity in regulation. This could be achieved via the guidancethe Commissions recommend they publish on data sharing.
+In-use regulator
+6. Public trust
+Introduction
+Whereas some technologies are developed behind closed doors, important aspectsof the development of AVs are taking place in public. Much of the testing andassurance of this technology needs to happen on public roads, which involvescomplicated relationships with other road users, citizens, local authorities andtransport planners. If the purported beneﬁts of AVs are to be realised, thetechnology will need to be trustworthy and public hopes and fears will need to bewell understood. As with other complex sociotechnical systems like air travel,people will decide whether to place their trust not in the technology per se but in thesystems that govern the technology and assure its safety and beneﬁts. Publicdialogue exercises(https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/ﬁle/951094/cav-public-acceptability-dialogue-engagement.pdf) and surveys haverevealed a mix of excitement and concern about the technology among the Britishpublic.
+A survey of 4,860 members of the British public conducted as part of the DriverlessFutures? project provides some insight into early public views[footnote 47]:
+Levels of comfort with the idea of using self-driving vehicles or sharing the roadswith them have remained similar since 2015. A small majority of respondentswould be uncomfortable using self-driving vehicles (58%) or sharing the roadwith them (55%);Respondents demanded transparency: not only that vehicles driving themselvesmust be identiﬁable (86% agreeing), 91% agreed that ‘the companies behind[self-driving vehicles] must be able to explain the actions taken by their vehicles,while 68% preferred the statement that self-driving vehicles ‘should be requiredto make public the full details of how their AI systems work’ to the suggestion thatthey should be able to ‘keep private the details’ (preferred by 12%). 81% agreedthat ‘there should be international standards regulating [self-driving vehicle]technology’ (3% disagreeing);86% of respondents agreed or strongly agreed that ‘it must be clear when avehicle is driving itself’;
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+39/66
+[Page #39]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+In the event of a collision, 92% agreed or strongly agreed with the statement ‘alldata must be made available to investigators’.
+Building public awareness and understanding of self-driving vehicles will be oneimportant element of facilitating public trust. Another important element will be theopportunity for the public to engage in genuine dialogue about this technology. Thefact that both the technology itself and the structures that will govern it are still inrelatively early stages of development presents an opportunity for an open publicconversation on these issues.
+Public information
+There is currently public confusion, exacerbated by some claims from industry,about the capabilities and limits of AV systems.[footnote 48] All of the issues above,including safety, fairness, privacy and transparency, raise the question ofpresenting accessible information about the functioning and performance of AVs tothe public. The Law Commissions have made recommendations for legislation thatclariﬁes terminology for AVs. Deﬁnitions of, for example, ‘self-driving’ also demandclarity on the conditions under which a vehicle can be said to perform thosefunctions. This means clear communication of a vehicle’s Operational DesignDomain (ODD), deﬁned by the BSI as the ‘Operating conditions under which agiven driving automation system or feature thereof is speciﬁcally designed tofunction’. Companies are currently incentivised to downplay ODD deﬁnitions inpublic communications and overstate the capacity of their technology. When itcomes to questions of liability, companies will have the opposite incentives, to claimthat their ODDs are narrow. If the technology is going to be trustworthy, technologydevelopers need to be clearer about all aspects of the ODD, including locations,weather conditions, road types, infrastructure requirements and other road users’behaviour.
+Recommendation
+Implementer
+35. The rules on the use of terminology such as ‘self-driving’should include requirements to inform the public about theconditions under which self-driving vehicles can operate, e.g.road types, locations, weather, other road users’ behaviour.[footnote 49] [footnote 50]
+ASDEs,Authorisationauthority and In-useregulator
+Consultation and public engagement
+The potential implications of AVs demand wide public consultation. The testing ofany technology in public raises ethical questions about safety risks, informedconsent, and the ability of people, if they are regarded in some way as testsubjects, to opt out if desired. Effective public engagement will be crucial tounderstanding and mitigating the ethical issues raised in this report. There shouldbe ongoing dialogue with the public that informs the design and regulation ofsystems. Groups at risk of marginalisation, such as disabled people, should be
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+40/66
+[Page #40]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+consulted so the design and regulation of systems can be as inclusive as possible.There is a need for ongoing dialogue and social research to deepen understandingof public views on liability, labelling, the explainability of decisions made by AVs,and possible infrastructure changes as AV systems expand and develop. These areimportant as they can have a direct impact on safety (infrastructure), acceptabilityof AVs (labelling, explainability) and on accountability and the requirement toprovide recompense (liability).
+Recommendation
+Implementer
+36. An accessible summary of the SCR should be made publicand should include clear statements of the functions and limitsof an AV within an ODD.
+ASDEs,Authorisationauthority
+37. The in-use regulator shall regularly publish publiclyaccessible reports on the achieved level of safety of AVs, whichshould include records of notiﬁable events and actions taken toimprove safety of deployed AVs, including updates to the RoadRules. This should form part of its duty to publish evidence of AVsafety, as recommended by the Law Commissions (cf. LC Rec.19).
+In-use regulator
+38. Prospective ASDEs and NUiC Operators should engagewith local communities, including local authorities, when an AVtrial is planned in a particular area.[footnote 51] This engagementshould inform testing and/or deployment (e.g. placing conditionson times, places, public information, maximum speeds etc).
+ASDE, NUiCOperator, In-useregulator
+Where the vehicle is permitted to carry passengers, the serviceoperator should consult with relevant authorities as proposedunder the Law Commissions’ passenger permitting scheme.
+39. Serious incidents in the operation of an AV should bepublicly investigated and reported. A road collision investigationunit should have a duty to report publicly on serious incidents.Evidence gathered during the investigation should be publishedso that others can learn lessons.[footnote 52]
+Road collisioninvestigationbranch
+40. CCAV should commission public dialogue and socialresearch to seek public views on:
+CCAV
+a) Balancing the tensions between achieving a ‘safety-ﬁrstculture’ and ensuring sufﬁcient accountability for theconsequences of AV behaviour;b) The distribution of AV risks and beneﬁts;c) Future changes to infrastructure and rules of the road andany associated costs;
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+41/66
+[Page #41]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+d) Explainability of decisions made by AVs;e) Labelling of vehicles.
+Trials
+It will be particularly important for trialling organisations (or ASDEs where relevant)to engage with local communities in the vicinity of their trials in order to understandopportunities and concerns. In the absence of governance attention, trials oftechnologies could become de facto deployments. Safety cases that are currentlybuilt around the presence of a safety driver (who is understood to have fullresponsibility) will look very different from safety cases for self-driving systems.Public trials of the technology are opportunities for learning beyond the datacollection carried out by the company running the test. Other parties should beencouraged and empowered to engage with and learn from the experiences of AVson public roads. Local authorities will have interests in the future viability of AVservices that might emerge from trials happening in their area, but they may lackthe resources to engage with trialling organisations in the co-design of trials or inmaking sense of trial data.
+As trials of the technology are in many cases happening in public, there may be aslippery slope from trials to de facto deployments of the technology as numbers ofvehicles scale up and ODDs expand. Large-scale, highly concentrateddeployments, measured by number of vehicles within a particular area, forexample, may have different ethical implications from smaller deployments. Theline between testing and deployment may be hard to draw. Systems that aredeployed may (and in many cases should) be used to gather ongoing data toimprove safety, service design etc.
+Recommendation
+Implementer
+41. Where AVs are being trialled, the safety driver shouldnot be removed unless the vehicle is authorised[footnote 53],and AVs should only carry passengers where theappropriate passenger licence has been issued.
+CCAV, in-useregulator andAuthorisationauthority
+CCAV should support local authorities to monitor trials intheir area (e.g. to identify signiﬁcant increases in thenumber of vehicles involved in a trial) and to makepassenger licencing decisions, for example via guidance.
+42. Where an ASDE is given a limited authorisation to trialan ADS feature, the vehicle must be re-authorised shouldthe ASDE wish to deploy the feature in a wider context.
+Authorisationauthority and In-useregulator
+Labelling
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+42/66
+[Page #42]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+The labelling of vehicles is ethically complex. Self-driving vehicles should beconsidered a new class of road user when operating in mixed trafﬁc. They will notalways behave in the same way as human drivers do (recognising that there is awide range of ‘normal’ driving behaviour) and while there may be some externalsigns of novelty (e.g. large Lidar sensors on a vehicle’s roof), people may not knowwhat these mean or if a vehicle is being driven by a human or by software. Sensorsare likely to become smaller over time and in some cases would be essentiallyinvisible, making some AVs indistinguishable from conventional cars. The novelty ofAVs creates an argument based on the principle of human autonomy that peoplehave a right to know what sort of agents they are sharing the road with. With someof the low-speed crashes in which human drivers have been blamed for collisionswith some types of self-driving vehicles, we can assume that uncertainty about theoften ultra-cautious manoeuvres of those vehicles was a contributory factor.
+One of the Engineering and Physical Sciences Research Council principles forrobotics states (https://www.tandfonline.com/doi/full/10.1080/09540091.2016.1271400),‘Robots are manufactured artefacts. They should not be designed in a deceptiveway to exploit vulnerable users; instead their machine nature should betransparent’. The range of possible interactions on the road make labellingcomplicated in practice, but this principle represents a good starting point.
+However, labelling could change the distribution of responsibilities in profoundways. An expectation that other road users will understand and adapt (as withemergency vehicle warning lights and sirens or L-plates for learner drivers) couldbe interpreted as an abdication of AV developers’ responsibility.  Additionally, self-driving vehicle companies may be concerned that clear labelling will lead other roadusers to behave differently around their vehicles, affecting their data collection, orto take advantage of their vehicles’ assumed greater caution. The emergence ofAVs onto roads will shift the responsibilities of all road users, as previoustechnologies have done. On balance, it is better that this is done in a deliberate andinformed way rather than under conditions in which road users are uncertain. Thisshould be seen as part of the debate on wider changes to rules of the road. Theethics of on-road communication with other road users should not be overlooked assystems develop. The practicalities of labelling would need careful research anddiscussion, but there is clear public support (https://driverless-futures.com/2022/05/09/survey-reports/) for the principle; 86% of UK surveyrespondents agreed or strongly agreed that ‘it must be clear when a vehicle isdriving itself’.
+External Human-Machine Interfaces (e.g. lights or display panels that clarify whenan AV has detected a pedestrian and deemed it safe to cross) may be deemednecessary by some ASDEs, in shared spaces or to break deadlocks at crossings.Such innovations would need to be developed with care, as they may be used asan excuse for unsafe practices by creating expectations that vulnerable road usersshould understand and know how to respond to signals.
+Recommendation
+Implementer
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+43/66
+[Page #43]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+43. AVs should be clearly labelled. Where vehicles candrive themselves or be driven conventionally at differenttimes, signals should indicate the status of operation. Thisexternal labelling should be in addition to information insidethe vehicle that clearly indicates mode of operation. AVtests and deployments should be clearly publicised withinand near the relevant location.
+ASDEs, withoversight from theauthorisationauthority[footnote 54]
+44. CAVES should review and advise on the practicalities oflabelling and the questions of liability raised by ExternalHuman-Machine Interfaces on AVs.
+Committee on AVEthics and Safety(CAVES)
+7. Governance
+Introduction
+Reﬁning and implementing this framework will take time because the introduction ofmore sophisticated ADSs and AVs will take place over years and decades. Also,implementing the framework will involve judgements by individual ASDEs and NUiCOperators which can have an impact on the safety and wellbeing of all road usersand other stakeholders. Whilst some of these are rightly the province of suchorganisations, there are areas where there is a need for consistent standardsbetween ASDEs and NUiC Operators, both to uphold societal norms and to avoidrisks that might arise due to inconsistency in behaviour between different AVs. It isnot possible to be prescriptive about such issues - certainly not with sufﬁcientforesight - hence we recommend the establishment of a joint Committee on AVEthics and Safety (CAVES) to advise the relevant authorities and to seekconsensus on those issues which need to be managed and agreed centrally, tosupport the safe and ethical introduction of AVs on UK roads.
+Committee on AV Ethics and Safety
+The purpose of the Committee should be to provide contestable advice andrecommendations - as opposed to decisions - on policy and ethical issuesregarding the safety of AVs. The scope of the advice and recommendations is likelyto include issues relevant to policy, authorisation, and in-use regulation andtherefore should be issued to the Department for Transport, including its motoringagencies. The Committee should assess the beneﬁts of AVs alongside the risks toprovide a balanced governance approach. We would expect the committee to sitwithin the Department for Transport and be managed by CCAV.
+In line with the government’s code of practice on scientiﬁc advisory committees andcouncils, the purpose of CAVES would be ‘to access, interpret and understand thefull range of relevant scientiﬁc information, and to make judgements about itsrelevance, potential and application’. The scientiﬁc expertise should be broad andlay members (https://www.gov.uk/government/publications/scientiﬁc-advisory-committees-
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+44/66
+[Page #44]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+code-of-practice/code-of-practice-for-scientiﬁc-advisory-committees-and-councils-copsac-2021) ‘may act as a critical friend, contribute experience from outside theprofessional membership, or provide an external non-expert perspective to thedecision-making process’. We see the Food Standard Agency’s scientiﬁc advisorycommittees (https://www.food.gov.uk/about-us/scientiﬁc-advisory-committees) (e.g. TheAdvisory Committee on Novel Foods and Processes) as a useful model thatCAVES could follow.
+Implementer
+Recommendation
+Authorisationauthority; In-use Regulator.
+45. The authorisation authority and in-use regulator shouldestablish a joint Committee on AV Ethics and Safety (CAVES)composed of experts and lay members with a diverse range ofperspectives (cf. LC Rec. 30 - in-use regulator’s duty to consult).
+a) CAVES should report to the Secretary of State for Transport(DfT). Since the SoS’s powers will likely be delegated to themotoring agencies, in practice CAVES will advise the motoringagencies (which are themselves part of DfT).b) CAVES’ recommendations and policy advice should be issuedto DfT and the regulators in parallel for full visibility. Its reportsand minutes should be public by default (recognising that somediscussions will need to be held in private). CAVES shouldprovide advice and constructive challenge to DfT. It should notmake policy decisions or overrule the Secretary of State.c) CAVES should have a standing Road Rules Subcommitteethat includes stakeholders representing different groups of roadusers, to provide advice on the deﬁnition of the RR, includingconsistency with published speciﬁcations for Automated DrivingSystems (ADS), especially on ethical rules and priorities.[footnote55]
+d) CAVES should be constituted as a non-statutory, ScientiﬁcAdvisory Committee, with diverse membership, including laymember representation (e.g. vulnerable road users). Expertiseshould include engineering, artiﬁcial intelligence, human factors,transport planning and policy, road safety, ethics and publicengagement. The committee should pay particular attention toquestions of accessibility, and should include a member withexpertise in disability issues (See LC Rec. 63 - accessibilityadvisory panel).e) CAVES should draw on the views of a wide range ofstakeholders and undertake stakeholder engagement to ensurethat the needs of all classes of road users (including vulnerableroad users) are considered in deﬁning the RR and in assuringthe overall governance of AVs, including authorisation andtemporary restrictions of AV operations.
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+45/66
+[Page #45]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+46. CAVES should have responsibility for assessing regulatorydecisions, and should advise on complex issues related to theregulation and governance of AVs, such as labelling,differentiated treatment towards vulnerable road users, andexplainability.
+Authorisationauthority; In-use Regulator.
+a) CAVES should assess regulatory decisions, and provide DfTwith assurance that the authorisation decision and forms ofrestrictions on AVs imposed by the regulators provide anappropriate alignment between innovation and safety;b) CAVES should review and advise on the practicalities oflabelling and the questions of responsibility raised by ExternalHuman-Machine Interfaces on AVs;c) CAVES should review the desirability of appropriatelydifferentiated treatment towards vulnerable road users, and whatadditional reporting duties may be required;d) CAVES should review the degree of explainability needed forregulatory oversight.
+Next steps
+The recommendations in this report will support and guide the Department forTransport as they deliver ‘Connected & Automated Mobility 2025: realising thebeneﬁts of self-driving vehicles’ (link), a roadmap that commits to developing a newlegislative framework that builds trust in self-driving vehicles while enablinginnovation.
+After laying primary legislation before Parliament in 2022, the Department forTransport will develop and consult on secondary legislation that will set out thedetails of the requirements and processes of the new legislative framework for self-driving vehicles in 2023. This report will closely inform the development of thatsecondary legislation.
+In particular, our recommendations will inform the design of the new safetyframework for self-driving vehicles, and will shape the requirements for whatconstitutes a sufﬁcient safety case by ASDE and NUiC Operators. Followingconsultation, the Department for Transport expects to publish further guidance onthis issue, closely informed by the recommendations of this report.
+Annex A: Safe and Ethical OperationalConcept and Safety Management Systems
+Safe and Ethical Operational Concept (SEOC)
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+46/66
+[Page #46]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+The intent of this brief note is to sketch out what (part of) a Safe and EthicalOperational Concept (SEOC) might look like. As identiﬁed above, the SEOC wouldbe a set of constraints on vehicle behaviour, including motion, signalling to otherroad users, and actions to preserve their own safety.
+The SEOC would be deﬁned as a set of  Self-Driving Constraints (SDCs) andprecedence between these constraints, as they can conﬂict in certaincircumstances. The constraints would also cover signalling as appropriatesignalling can reduce concern (and misleading signalling might increase concern).We illustrate part of a SEOC that relates to motion. These are intended to beillustrative and an ASDE’s SEOC would need to be thought through from theirperspective on safe and ethical behaviour, e.g. the extent to which they prioritisesafety of vulnerable road users. The intent here is to identify some example SDCs,some clear precedence rules, and some situation-dependent precedences so theconcept is clear.
+Table 1: Example SDCs
+SDC Description
+1 Avoid collision with all other objects
+2 Maintain safe distance to other objects (given predicted trajectories)
+3 Remain on the road, except at an access point to the roadside (e.g. house
+drive, car park entrance)
+4 Avoid movement that can cause discomfort or harm to passengers
+5 Leave the road away from an access point where this reduces overall risk
+6 Avoid movements that cause other vehicles to violate any other SDC
+7 Avoid movements that cause individuals concern about their safety
+8 Follow directions given by authorised persons
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+47/66
+[Page #47]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+Table 2: Example SDC Precedences
+SDC Precedence
+SDC 1 takes precedence over SDC 4 (e.g. an emergency stop for an unanticipatedobject in a vehicle path)
+SDC 5 takes precedence over SDC 3 (if doing so satisﬁes SDC 1)
+Table 3: Example SDC Situation Dependent Precedences
+Initiator Possible Constraint Conﬂict Constraint Honoured
+Response to Authorised Person(Constraint 8)
+Response leads to conﬂict withconstraint 1
+1
+Response leads to conﬂict withconstraint 2
+8
+Response leads to conﬂict withconstraint 3
+3
+Response leads to conﬂict withconstraint 7
+8
+This is intended to be simple enough to communicate the concept. Speciﬁc roadrules, e.g. clauses from  the Highway Code, would be organised under these top-level SDCs, where appropriate. It would  be expected that the notiﬁable eventswould include items from Table 3 where active (dynamic) choices have to be madebetween the SDCs; they would probably also include the ‘triggering’ of theprecedences from Table 2.
+Safety Management Systems (SMS)
+For ASDEs:
+The SMS should include, at a minimum:
+1. A process for safety assessment of design, veriﬁcation and change relating to
+the vehicle, covering software, hardware, subsystems and data.
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+48/66
+[Page #48]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+2. Procedures and mechanisms for responding to test failures, incidents, collisions 
+and hazardous failures.
+3. Processes, procedures, competencies, certiﬁcations and training for vehicle
+design, manufacture, maintenance and upgrade activities.
+4. Processes for responding to directives from regulators, including making design
+changes and communicating to users/operators of the vehicle.
+5. Processes for updating the safety documentation to allow for regular review and
+re-issue as appropriate.
+For NUiC Operators:
+The SMS should include, at a minimum:
+1. A process for safety assessment of changes relating to the vehicle and its safety
+case, deployment routes and infrastructure.
+2. Procedures and mechanisms for responding to incidents, collisions and
+hazardous failures.
+3. A process for management of speciﬁc restrictions, deviations and waivers
+covering the vehicle, infrastructure and routes, arising from the in-use regulatorand other authorities.
+4. Processes, procedures, competencies, certiﬁcations and training for vehicle
+operation, maintenance and upgrades.
+5. Processes for updating the safety documentation to allow for regular review and
+re-issue as appropriate.
+Annex B: List of recommendations
+Road safety
+Implementer
+Recommendation
+ASDE, reporting to theAuthorisation authority
+1. The ASDE shall deﬁne the AV ODD to be consistentwith the relevant Road Rules (RR) and to cover all classesof road users including vulnerable road users that canreasonably be expected in the ODD.
+The ODD deﬁnition should include all relevant featuresdeﬁned to an appropriate level of detail. The deﬁnitionshould cover the parameter ranges for ﬁxed sceneryelements, attributes of dynamic elements andenvironmental elements. It should also include all ethicallysalient features relating to other road users.
+Further guidance will be needed from DfT to deﬁne theseethically salient features.
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+49/66
+[Page #49]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+2. The ASDE shall ensure that the deployment domain iscompatible with the ODD prior to operational use of theAV.
+ASDE reporting to theIn-use regulator
+Authorisation authority
+3. The authorisation authority, in concert with the in-useregulator, shall develop and publish guidance on RR in thecontext of self-driving vehicles, with input from the CAVESRoad Rules Subcommittee, to inform the development ofSEOCs that:
+a) give complete coverage of situations that an AV couldreasonably be anticipated to encounter in the ODD;b) reﬂect rules of behaviour that are ethical and broadlyacceptable across different types of AV; andc) identify precedence between the rules.
+4. The ASDE shall deﬁne a SEOC, including Self-DrivingConstraints (SDCs) (see Annex A for more detail), forinclusion within its SCR submitted as part of authorisation,for the behaviour of the AV in its ODD, that:
+ASDE, reporting to theAuthorisation authority
+a) complies with road rules (RR);b) complies with any applicable regulations for automateddriving system (ADS);c) minimises occurrence of ‘at-fault’ collisions in its deﬁnedODD;d) mitigates risk of ‘non-fault’ collisions in its deﬁned ODD;e) manages entry to and exit from the ODD, ensuring atransition to safe control of the AV by the UiC where thereis one, or a safe transition to a minimal risk condition(MRC) on exiting the deployment domain;f) does not unfairly discriminate against road users orotherwise unfairly treat vulnerable road users;g) does not require other road users to violate applicablerules or SDCs;h) deﬁnes the priority of rules and SDCs where they canconﬂict in particular circumstances;i) does not cause individuals in the vicinity of the AVunjustiﬁed concern about their safety;appropriately balances the need to make progress withthe need to ensure safety.
+5. The ASDE shall demonstrate to the authorisationauthority that they have designed the AV to be consistentwith the SEOC, and provide supporting arguments andlinks to evidence in a SCR to gain authorisation for self-
+ASDE, reporting to theAuthorisation authority
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+50/66
+[Page #50]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+driving. The SEOC shall be made publicly available onceauthorisation is granted.
+6. The ASDE shall monitor the operation of the AV toidentify situations where it fails to implement the SEOC,inform the in-use regulator of ‘notiﬁable events’ and takeaction to resolve deviations from the SEOC that are notnotiﬁable. Government will need to consider how thisinteracts with NUiC Operators and what their obligationsin relation to the SEOC will be.
+ASDE and NUiCOperator, withoversight from the In-use regulator
+7. The ASDE and NUiC Operator shall comply withinstructions from the in-use regulator or authorisationauthority, e.g. to limit the AV deployment domain or modifythe vehicle design, to ensure continued safety ofoperation.
+ASDE and NUiCOperator
+8. ASDEs and NUiC Operator shall keep their SCR up todate and produce it to the authorisation authority whenrequired to gain approval for changes to the vehicle priorto deploying the changes as part of the vehicle’s re-authorisation.
+ASDE and NUiCOperator, reporting tothe Authorisationauthority
+9. The ASDE and NUiC Operator shall operate a safetymanagement system (SMS) for the AV governing howthey manage safety through the AV lifecycle, and provideperiodic independent SMS audit reports to the in-useregulator.
+ASDE and NUiCOperator, withoversight from theAuthorisation authorityand In-use regulator
+10. The authorisation authority should assess SMS andsafety culture within ASDEs and NUiC Operators as partof the authorisation and licensing decisions respectively,and approve deployments where they meet applicablecriteria.
+Authorisation authority
+11. For authorisation purposes, the authorisation authorityshall assess the safety of AV deployments based on:
+Authorisation authorityand In-use regulator
+a) the SCRb) independent SMS audit reportsc) notiﬁable events (cf. LC Rec. 20 - data gathering onsafety)
+The in-use regulator should assess a), b), and c) on anongoing basis.
+12. The authorisation authority shall deﬁne ‘notiﬁableevents’ in terms of deviation from the ASDE’s SEOC. Itwill, at a minimum, include trafﬁc infractions as deﬁned by
+Authorisation authority
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+51/66
+[Page #51]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+the Law Commissions; an incident that had it beenperformed by a human driver would have attractedcriminal or civil penalties (cf. LC Rec. 20 - data gatheringon safety).
+Authorisation authority
+13. The authorisation authority shall deﬁne a scheme fordetermining what changes to AV performance aresigniﬁcant enough to require re-authorisation prior toASDEs supplying updates to deployed AVs.
+ASDE, reporting to theAuthorisation authority
+14. The ASDE shall design the AV so that transfers ofauthority for control of the DDT from the AV to the UiCshall ensure safety, including providing the UiC withsufﬁcient time and information to achieve situationalawareness before they engage in the DDT.
+The ASDE shall have responsibility and accountability forbehaviour of the AV both within and outside the ODDunless it is conﬁrmed that the UiC has authority for controlof the DDT.
+Data privacy
+Recommendation
+Implementer
+15. The AV regulator(s) should issue guidance for ASDEs andNUiC Operators clarifying how Data Protection obligationsapply to AVs, in consultation with the InformationCommissioner’s Ofﬁce. Issues that could be covered include:
+ICO;Authorisationauthority; In-useregulator
+a) The requirement to conduct a Data Protection ImpactAssessment (DPIA), and to make this document publiclyavailable alongside the vehicle’s safety case report atauthorisation;b) Clariﬁcation that an ASDE and/or NUiC Operators shouldprepare suitable DPIAs and make available for authorisationand licensing decisions;c) A self-assessment checklist to establish whether the ASDE /NUiC Operator is acting as a controller, processor, or jointcontroller;d) Any requirements to secure valid consent from the UiC orpassengers for processing personal data within the vehicle(such as what kinds of data collection would constitute ‘locationdata’ and ‘cookies or similar’ under PECR) and whereadditional consent may be required, such as when there arenew passengers in the vehicle;
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+52/66
+[Page #52]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+e) Proposed retention and deletion schedules for personal datacollected by AVs, particularly location data;f) What would be considered necessary and legitimatepurposes for processing and sharing personal data (e.g. safetyimprovements, insurance claims etc.);g) Circumstances under which processing of personal data ofother road users outside the vehicle (such as facial images ofpedestrians) is likely to be considered lawful and proportionateunder Article 6 GDPR (e.g. vital interests, or legitimateinterests);h) Circumstances under which processing of special categorypersonal data (e.g. biometric data of the UiC) is likely to beconsidered lawful and proportionate under Article 9 GDPR (e.g.explicit consent, or substantial public interest);i) The testing of AI systems for AVs against the requirement ‘todesign the AV so that it is possible to construct an explanation of the key decisions made by the AV leading up to the notiﬁableevent, however caused’. See Rec. 29;j) Which ADS features (if any) could be considered ‘a decisionbased solely on automated processing, including proﬁling,which produces legal effects concerning [the data subject] orsimilarly signiﬁcantly affects [the data subject]’, for the purposesof Article 22 GDPR.
+16. ASDEs and NUiC Operators shall ensure that ‘dataprotection by design and by default’ measures are incorporatedthroughout the AV development process. This should include:
+Authorisationauthority
+a) Ensuring any personal data collected by AVs or for trainingAV systems is strictly limited to what is necessary for thepurpose for which it is processed;b) Ensuring any personal data that is not necessary to performthe legitimate purposes established by Rec. 15(f) isanonymised at the point of collection or creation (for instanceby blurring or pixelating facial image data of pedestrians);c) Ensuring any personal data is only stored for as long as isstrictly necessary, and is not transferred from the vehicle exceptfor speciﬁc, clearly deﬁned purposes, with reference to thelegitimate purposes established by Rec. 15(f);d) Ensuring that any sharing of personal data that is requiredfor one of the legitimate purposes established by Rec. 15(f) isdone in a way that protects individuals privacy, for instancethrough the use of differential privacy techniques.
+17. Where ASDEs are collecting video data of other road users,they should ensure adherence to the relevant ICO guidance onvideo surveillance (https://ico.org.uk/for-organisations/guide-to-data-protection/key-dp-themes/guidance-on-video-surveillance/). The
+ASDE,Authorisationauthority
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+53/66
+[Page #53]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+authorisation authority should review adherence to the relevantICO guidance as part of the authorisation decision.
+18. AV cameras that collect personally identiﬁable information(either within or outside the vehicle) should be clearly indicated.If AVs are collecting camera data of other road users, thisshould be clearly indicated on the outside of vehicles.
+ASDE,Authorisationauthority
+19. The Home Ofﬁce should issue guidance clarifying how theInvestigatory Powers Act 2016 applies to ASDEs and NUiCOperators.
+Home Ofﬁce
+Fairness
+Recommendation
+Implementer
+20. To minimise the risk of algorithmic bias, ASDEs’ safetycases and impact assessments should report on the ﬁtbetween their training data and their ODDs. Substantiallyaltered ODDs should require new reports on training data.
+ASDE, withoversight from theAuthorisationauthority
+21. Where training data distinguishes between categories ofroad users, e.g. between children and adults for reasons ofsafety, this should be acknowledged as part of the safetycase and reported to the authorisation authority. Stepsshould be taken to anticipate and minimise unfairconsequences resulting from data bias, includingdiscrimination.
+ASDE, withoversight from theAuthorisationauthority
+22. Where systems distinguish between groups whiledriving, justiﬁed on the grounds of safety, e.g. theidentiﬁcation of children, wheelchair users or othervulnerable road users, ASDEs should have a duty to reportin order to allow independent scrutiny (including, but notlimited to, reporting this in the safety case).
+ASDE, withoversight from theAuthorisationauthority and In-useregulator
+23. ASDEs and NUiC Operators should facilitateindependent scrutiny of emerging risks and biases (inaddition to those raised by notiﬁable events) so that thedistribution of risks can be assessed.
+ASDE, withoversight from thein-use regulator andAuthorisationauthority
+24. The in-use regulator, advised by CAVES, should collectdata on fairness and safety outcomes in order to allowfeedback to operators and collective learning. In the eventthat serious problems are identiﬁed and no other means
+In-use regulator
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+54/66
+[Page #54]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+prove effective in mitigation, the regulator should beempowered to impose sanctions, up to and including de-authorisation and product recall (cf. LC Rec. 20 - datagathering on safety).
+The in-use regulator should also compile evidence forwhere an amendment to the regulatory framework may benecessary (e.g. updates to the RR) to ensure that AVs areacceptably safe, with continual improvements in safety (seealso Rec. 8).
+25. AV regulators should assess the potential risks ofdiscrimination, and the adequacy of accessibility features intheir authorisation and licensing decisions, in line with theirPublic Sector Equality Duty (cf.  LC Rec. 63 - accessibilityadvisory panel).
+Authorisationauthority andlicensing authority
+26. ASDEs should not, as part of their SEOC, requirevulnerable road users to carry or wear anything to makethem more easily detectable to AVs. Should vulnerable roadusers decide to use such devices, however, ASDEs shouldnot ignore their potential additional safety beneﬁts.
+Authorisationauthority and In-useregulator
+27. If infrastructure upgrades are required that contribute toAV safety, their costs and beneﬁts for other road usersshould be fully understood and carefully balanced.
+Local authorities andother infrastructurebodies; NationalInfrastructureCommission
+Explainability
+Recommendation
+Implementer
+28. The ASDE should design the AV so that it is possibleto construct an explanation of the key decisions made bythe AV when it is undertaking the Dynamic Driving Task(DDT) for a bounded test scenario. These explanationsshould be made available as required under the duty ofdisclosure including, as a minimum:
+ASDE, reporting to theappropriate regulator
+a) to the authorisation authority as part of the SCR;b) to the NUiC Operator where appropriate.
+29. For collisions, near misses and other notiﬁable events,the ASDE should design the AV so that it is possible toconstruct an explanation of the key decisions made by the
+ASDE, reporting to theAuthorisationauthority; also In-use
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+55/66
+[Page #55]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+AV leading up to the event, however caused. Thisexplanation should be sufﬁcient to identify and rectifycauses of undesirable behaviours, and the ASDE shouldmake the explanation available to:
+regulator and collisioninvestigation unit
+a) a collision investigation unit for the incident beinginvestigated;b) the in-use regulator when investigating a notiﬁableevent to potentially apply a sanction;c) other parties with a legitimate need for the informationagreed in advance as part of authorisation (cf. LC Recs.21, 22, 29 on incident investigation; cf. LC Rec. 74 ondata disclosure).
+Data sharing
+Recommendation
+Implementer
+30. In consultation with the authorisation authority, the ASDEshall publish a summary of the SEOC, which will be madepublicly and freely available upon authorisation of the vehiclefor self-driving.
+ASDE, reportingto theAuthorisationauthority
+ASDE and NUiCOperator, withoversight from theIn-use regulator
+31. The ASDE and NUiC Operator should communicatesafety-relevant data with other organisations in the AVecosystem when requested, including other ASDEs, the in-useregulator, the authorisation authority and the collisioninvestigation unit, using agreed data formats, where thiscontributes to road safety. Data formats should be decided bythe authorisation authority and in-use regulator, in consultationwith the ICO.
+a) The ASDE and NUiC Operator should share core safety-relevant data as stipulated by the in-use regulator and collisioninvestigation unit; (note that there will be some aspects ofsafety-relevant data that the ASDE and NUiC Operator will belegally required to share for law enforcement purposes.)b) The in-use regulator and collision investigation unit shouldconsult on the agreed scope and format of the core safety-relevant data they will require from ASDEs and NUiCOperators;c) The ASDE and NUiC Operator should be encouraged toshare data with interested parties, using standards andformats developed via consensus;d) Regulators and the AV sector should explore the ways inwhich mechanisms that facilitate responsible sharing of
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+56/66
+[Page #56]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+commercially sensitive data, such as data intermediaries,could be used;e) ASDEs and NUiC Operators should explore the use ofprivacy-enhancing technologies such as federated learningtechniques (https://cdeiuk.github.io/pets-adoption-guide/what-are-pets), to minimise the volume of personal data that is uploadedto a centralised server.
+32. The ASDE and NUiC Operator shall provide summarisedsafety performance data to relevant bodies including the in-use regulator to enable the safe, ethical and effectiveoperation of the AV marketplace (cf. LC Recs. 20, 74).
+ASDE and NUiCOperator,reporting to theAuthorisationauthority
+33. The ASDE and NUiC Operator shall support reasonableaccess to all relevant proprietary information by a roadcollision investigation unit and other authorised bodies toenable collision and incident analysis and support theauthorities in producing lessons learnt for dissemination toother ASDEs.
+ASDE and NUiCOperator, withoversight from theIn-use regulator
+34. The in-use regulator shall deﬁne formats for safety-relevant data to enable sharing between relevantorganisations, including ASDEs, the authorisation authorityand the collision investigation unit, to ensure consistency andequity in regulation. This could be achieved via the guidancethe Commissions recommend they publish on data sharing.
+In-use regulator
+Public trust
+Recommendation
+Implementer
+35. The rules on the use of terminology such as ‘self-driving’should include requirements to inform the public about theconditions under which self-driving vehicles can operate, e.g.road types, locations, weather, other road users’ behaviour.
+ASDEs,Authorisationauthority and In-use regulator
+36. An accessible summary of the SCR should be made publicand should include clear statements of the functions and limitsof an AV within an ODD.
+ASDEs,Authorisationauthority
+37. The in-use regulator shall regularly publish publiclyaccessible reports on the achieved level of safety of AVs,which should include records of notiﬁable events and actionstaken to improve safety of deployed AVs, including updates tothe Road Rules. This should form part of its duty to publish
+In-use regulator
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+57/66
+[Page #57]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+evidence of AV safety, as recommended by the LawCommissions (cf. LC Rec. 19).
+38. Prospective ASDEs and NUiC Operators should engagewith local communities, including local authorities, when an AVtrial is planned in a particular area. This engagement shouldinform testing and/or deployment (e.g. placing conditions ontimes, places, public information, maximum speeds etc).
+ASDE, NUiCOperator, In-useregulator
+Where the vehicle is permitted to carry passengers, theservice operator should consult with relevant authorities asproposed under the Law Commissions’ passenger permittingscheme.
+39. Serious incidents in the operation of an AV should bepublicly investigated and reported. A road collisioninvestigation unit should have a duty to report publicly onserious incidents. Evidence gathered during the investigationshould be published so that others can learn lessons.
+Road collisioninvestigationbranch
+40. CCAV should commission public dialogue and socialresearch to seek public views on:
+CCAV
+a) Balancing the tensions between achieving a ‘safety-ﬁrstculture’ and ensuring sufﬁcient accountability for theconsequences of AV behaviour;b) The distribution of AV risks and beneﬁts;c) Future changes to infrastructure and rules of the road andany associated costs;d) Explainability of decisions made by AVs;e) Labelling of vehicles.
+41. Where AVs are being trialled, the safety driver should notbe removed unless the vehicle is authorised, and AVs shouldonly carry passengers where the appropriate passengerlicence has been issued.
+CCAV, in-useregulator andAuthorisationauthority
+CCAV should support local authorities to monitor trials in theirarea (e.g. to identify signiﬁcant increases in the number ofvehicles involved in a trial) and to make passenger licencingdecisions, for example via guidance.
+42. Where an ASDE is given a limited authorisation to trial anADS feature, the vehicle must be re-authorised should theASDE wish to deploy the feature in a wider context.
+Authorisationauthority and In-use regulator
+43. AVs should be clearly labelled. Where vehicles can drivethemselves or be driven conventionally at different times,
+ASDEs, withoversight from the
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+58/66
+[Page #58]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+signals should indicate the status of operation. This externallabelling should be in addition to information inside the vehiclethat clearly indicates mode of operation. AV tests anddeployments should be clearly publicised within and near therelevant location.
+authorisationauthority
+44. CAVES should review and advise on the practicalities oflabelling and the questions of liability raised by ExternalHuman-Machine Interfaces on AVs.
+Committee on AVEthics and Safety(CAVES)
+Governance
+Implementer
+Recommendation
+Authorisationauthority; In-use Regulator.
+45. The authorisation authority and in-use regulator shouldestablish a joint Committee on AV Ethics and Safety (CAVES)composed of experts and lay members with a diverse range ofperspectives (cf. LC Rec. 30 - in-use regulator’s duty to consult).
+a) CAVES should report to the Secretary of State for Transport(DfT). Since the SoS’s powers will likely be delegated to themotoring agencies, in practice CAVES will advise the motoringagencies (which are themselves part of DfT).b) CAVES’ recommendations and policy advice should be issuedto DfT and the regulators in parallel for full visibility. Its reportsand minutes should be public by default (recognising that somediscussions will need to be held in private). CAVES shouldprovide advice and constructive challenge to DfT. It should notmake policy decisions or overrule the Secretary of State.c) CAVES should have a standing Road Rules Subcommitteethat includes stakeholders representing different groups of roadusers, to provide advice on the deﬁnition of the RR, includingconsistency with published speciﬁcations for Automated DrivingSystems (ADS), especially on ethical rules and priorities.d) CAVES should be constituted as a non-statutory, ScientiﬁcAdvisory Committee, with diverse membership, including laymember representation (e.g. vulnerable road users). Expertiseshould include engineering, artiﬁcial intelligence, human factors,transport planning and policy, road safety, ethics and publicengagement. The committee should pay particular attention toquestions of accessibility, and should include a member withexpertise in disability issues (See LC Rec. 63 - accessibilityadvisory panel).e) CAVES should draw on the views of a wide range ofstakeholders and undertake stakeholder engagement to ensurethat the needs of all classes of road users (including vulnerable
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+59/66
+[Page #59]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+road users) are considered in deﬁning the RR and in assuringthe overall governance of AVs, including authorisation andtemporary restrictions of AV operations.
+46. CAVES should have responsibility for assessing regulatorydecisions, and should advise on complex issues related to theregulation and governance of AVs, such as labelling,differentiated treatment towards vulnerable road users, andexplainability.
+Authorisationauthority; In-use Regulator.
+a) CAVES should assess regulatory decisions, and provide DfTwith assurance that the authorisation decision and forms ofrestrictions on AVs imposed by the regulators provide anappropriate alignment between innovation and safety;b) CAVES should review and advise on the practicalities oflabelling and the questions of responsibility raised by ExternalHuman-Machine Interfaces on AVs;c) CAVES should review the desirability of appropriatelydifferentiated treatment towards vulnerable road users, and whatadditional reporting duties may be required;d) CAVES should review the degree of explainability needed forregulatory oversight.
+List of AbbreviationsADS: Automated Driving System(s)
+ASDE: Authorised Self-Driving Entity
+AV: Automated Vehicle (in this report we use the abbreviation ‘AV’ to refer to self-driving vehicles)
+CAVES: Committee on AV Ethics and Safety
+CCAV: Centre for Connected and Autonomous Vehicles
+CONOPS: Concept of Operations
+DDT: Dynamic Driving Task
+DfT: Department for Transport
+DPIA: Data Protection Impact Assessment
+DSSAD: Data Storage System for Automated Driving
+DVSA: Driver and Vehicle Standards Agency
+EDR: Event Data Recorder
+ERA: Emergency Refuge Area
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+60/66
+[Page #60]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+GDPR: General Data Protection Regulation
+ICO: Information Commissioner’s Ofﬁce
+LC: Law Commission(s) (here refers to the Law Commission of England and Walesand the Scottish Law Commission who are joint authors of the proposals on theregulation of Automated Vehicles)
+MRC: Minimal Risk Condition
+MRM: Minimum Risk Manoeuvre
+NCAP: New Car Assessment Programmes
+NUiC: No User-in-Charge
+NUiC Operator: No User-in-Charge vehicle Operator
+ODD: Operational Design Domain
+PECR: Privacy and Electronic Communications Regulations
+PETs: Privacy-Enhancing Technologies
+RR: Road Rules
+SCR: Safety Case Report
+SDV: Self-Driving Vehicle
+SEOC: Safe and Ethical Operational Concept
+SMS: Safety Management System
+UiC: User-in-Charge
+UNECE: United Nations Economic Commission for Europe
+VCA: Vehicle Certiﬁcation Agency
+VSCR: Vehicle Safety Case Report
+V2I: Vehicle-to-Infrastructure
+AcknowledgmentsProfessor John McDermid OBE FREng (Professor of Software Engineering,University of York)
+Professor Jack Stilgoe (Professor of Science and Technology Policy, UniversityCollege London and Turing Fellow)
+Centre for Connected and Autonomous Vehicles (CCAV)
+Centre for Data Ethics and Innovation Advisory Board
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+61/66
+[Page #61]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+Home Ofﬁce
+The Driver and Vehicle Standards Agency
+The Information Commissioner’s Ofﬁce
+The Law Commission of England and Wales and the Scottish Law Commission
+The Ofﬁce of the Biometrics and Surveillance Camera Commissioner
+The Vehicle Certiﬁcation Agency
+1. Law Commission of England and Wales and the Scottish Law Commission.
+Automated Vehicles: joint report (https://s3-eu-west-2.amazonaws.com/lawcom-prod-storage-11jsxou24uy7q/uploads/2022/01/Automated-vehicles-joint-report-cvr-03-02-22.pdf), January 2022. p.XVII
+2. Law Commission of England and Wales and the Scottish Law Commission.
+Automated Vehicles: joint report (https://s3-eu-west-2.amazonaws.com/lawcom-prod-storage-11jsxou24uy7q/uploads/2022/01/Automated-vehicles-joint-report-cvr-03-02-22.pdf), January 2022. p.XVII
+3. Law Commission of England and Wales and the Scottish Law Commission.
+Automated Vehicles: joint report (https://s3-eu-west-2.amazonaws.com/lawcom-prod-storage-11jsxou24uy7q/uploads/2022/01/Automated-vehicles-joint-report-cvr-03-02-22.pdf), January 2022. p.XVIII
+4. See Article 5(1)(c) of UK GDPR (https://www.legislation.gov.uk/eur/2016/679/article/5)
+5. Law Commission of England and Wales and the Scottish Law Commission.
+Automated Vehicles: joint report (https://s3-eu-west-2.amazonaws.com/lawcom-prod-storage-11jsxou24uy7q/uploads/2022/01/Automated-vehicles-joint-report-cvr-03-02-22.pdf), January 2022. p.XVIII
+6. See Law Commission of England and Wales and the Scottish Law Commission.Automated Vehicles: joint report (https://s3-eu-west-2.amazonaws.com/lawcom-prod-storage-11jsxou24uy7q/uploads/2022/01/Automated-vehicles-joint-report-cvr-03-02-22.pdf), January 2022. p.XIX
+7. See Article 4(1) of UK GDPR (https://www.legislation.gov.uk/eur/2016/679/article/4)
+8. Law Commission of England and Wales and the Scottish Law Commission.
+Automated Vehicles: joint report (https://s3-eu-west-2.amazonaws.com/lawcom-prod-storage-11jsxou24uy7q/uploads/2022/01/Automated-vehicles-joint-report-cvr-03-02-22.pdf), January 2022. p.XXI
+9. See Rule 204, The Highway Code (https://www.gov.uk/guidance/the-highway-code/road-users-requiring-extra-care-204-to-225), Updated 2022. Note thatvulnerable road users are referred to as ‘road users requiring extra care’ in theHighway Code.
+10. This supplements LC Rec. 30 - in-use regulator’s duty to engage with those with
+an interest in the safety of automated vehicles
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+62/66
+[Page #62]
+14/10/2023, 12:1411. Slovic, Paul. Perception of risk
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+(https://www.science.org/doi/10.1126/science.3563507), Science, 236(4799), 280–285, 1987.
+12. Liu, Peng., et al. How safe is safe enough for self-driving vehicles?
+(https://doi.org/%2010.1111/risa.13116), Risk Analysis, 39(2), 315–325, 2019. Notethat this was a small public survey.
+13. Stilgoe, Jack. How can we know a self-driving car is safe?
+(https://link.springer.com/article/10.1007/s10676-021-09602-1), Ethics and InformationTechnology, 23(4), 635-647, 2021.
+14. We propose that this be deﬁned in terms of behaviours such as: keeping a safedistance from the individual or infrastructure, decelerating well in advance ofstopping (as opposed to an emergency brake), mounting the pavement slowly ifit is necessary and permissible to do so.
+15. cf. LC Recs. 6 and 7 - safety standard; cf. LC Rec. 15 - safety case and EIA; cf.
+LC Rec. 20 - data gathering on safety
+16. Note that we expect DfT to publish good practice on how the SMS contents
+should be deﬁned in due course.
+17. This implements and strengthens the LC Rec. 13 to ‘cooperate’ with the in-useregulator; it requires the ASDE and NUiC Operator to comply with any changesin operation required by the in-use regulator - for example, to change a valetparking system or to avoid routes with level crossings.
+18. This is intended, with the authority as having control, to be ﬂexible. However, itwould include things like records of when rules are broken/priorities are appliedas these will indicate points where there are decisions that are potentiallyethically signiﬁcant.
+19. And minimum risk manoeuvre (MRM) should lead to a minimum risk condition
+(MRC); the combination is often referred to as MRX.
+20. This is in line with LC Rec. 49, and the discussion of inability to respond to a
+transition demand due to medical emergencies, but goes further in making clearthat responsibility for behaviours of the AV remains with the ASDE unless thehandover to the UiC is conﬁrmed.
+21. ‘Location data’ under the PECR has a speciﬁc meaning, and does not include
+general use of network-agnostic location services such as GPS signals (althoughmore general GDPR requirements still apply). How location data is collected andprocessed will affect their data protection obligations, and this is an importantarea for greater regulatory clarity.
+22. For example, as covered in guidance on surveillance systems: Information
+Commissioner’s Ofﬁce, Guidance on Video Surveillance (https://ico.org.uk/for-organisations/guide-to-data-protection/key-dp-themes/guidance-on-video-surveillance/).
+23. Note that the UK government is consulting on reforms to the data protection
+regime: See Department for Digital, Culture, Media and Sport, Data: a newdirection (https://www.gov.uk/government/consultations/data-a-new-direction),September 2021.
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+63/66
+[Page #63]
+14/10/2023, 12:1424. Note that there is no explicit obligation in UK GDPR requiring the publication of
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+DPIAs, but we consider it would be appropriate here.
+25. It may not be practical for such a list to be exhaustive but would assist
+organisations in undertaking DPIAs, which will be needed to assess what isnecessary, proportionate and appropriate in each given circumstance.
+26. As above, it may not be practical for such a list to be exhaustive but would assistorganisations in undertaking DPIAs, which will be needed to assess what isnecessary, proportionate and appropriate in each given circumstance.
+27. The ‘necessary purposes’ here could include, for example: responding fairly to
+the needs of other road users, safe operation of the vehicle and incidentinvestigation.
+28. As part of the consultation for the Data Protection and Digital Information Bill, thegovernment consulted on proposals to simplify the oversight framework for theregulation of surveillance cameras.  Following the government response to thisconsultation, there are now legislative proposals in parliament which, ifapproved, will repeal the Surveillance Camera Code and role of the SurveillanceCamera Commissioner . The government is currently looking at options forcontinuing some of the Surveillance Camera Commissioner’s ancillary functions,such as the third party certiﬁcation scheme.
+29. One example from Philip Koopman is of a AV system that failed to identify peoplein high-visibility clothing because it was unused to construction zones, which hadbeen avoided in testing, see IEEE Computer Society, Roundtable discussion onAVs_IEEE_Roundtable.pdf">‘Ethics, Safety, and Autonomous Vehicles’(http://users.ece.cmu.edu/~koopman/pubs/koopman21_Ethics_Safety_<abbr%20title=),2021.
+30. A recent European Commission report on the ethics of AVs argued for
+appropriately differentiated treatment towards vulnerable road users. SeeEuropean Commission, Ethics of Connected and Automated Vehicles(https://op.europa.eu/en/publication-detail/-/publication/89624e2c-f98c-11ea-b44f-01aa75ed71a1/language-en/format-PDF/source-search), 2020.
+31. It is notable, for example, that Uber ATG’s fatal collision in Arizona in March 2018was in part due to a classiﬁcation problem caused by a pedestrian, outside apedestrian crossing, pushing a bicycle across a road. See NationalTransportation Safety Board, Collision Between Vehicle Controlled byDevelopmental Automated Driving System and Pedestrian(https://www.ntsb.gov/investigations/accidentreports/reports/har1903.pdf), AccidentReport NTSB/HAR-19/03, 2019.
+32. Note that these impact assessments should consider impacts on relevant
+protected characteristics as set out in equality law, but the assessments shouldalso cover impacts on vulnerable road users.
+33. Note that in recommendation 49 on CAVES, we recommend that CAVES should
+review the desirability of appropriately differentiated treatment towardsvulnerable road users, and what additional reporting duties may be required.
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+64/66
+[Page #64]
+14/10/2023, 12:1434. See Rule 204, The Highway Code (https://www.gov.uk/guidance/the-highway-
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+code/road-users-requiring-extra-care-204-to-225), Updated 2022.
+35. The case for independent scrutiny to evaluate AI systems is in: Falco, Gregory.,
+et al. Governing AI safety through independent audits(https://www.nature.com/articles/s42256-021-00370-7). Nature Machine Intelligence 3,566–571, 2021.
+36. LC paragraph 3.44
+37. This follows a recommendation from the European Commission expert groupreport on the ethics of connected and automated vehicles. See EuropeanCommission, Ethics of Connected and Automated Vehicles(https://op.europa.eu/en/publication-detail/-/publication/89624e2c-f98c-11ea-b44f-01aa75ed71a1/language-en/format-PDF/source-search), 2020.
+38. Macrae, Carl. Learning from the failure of autonomous and intelligent systems:
+accidents, safety, and sociotechnical sources of risk(https://onlinelibrary.wiley.com/doi/10.1111/risa.13850). Risk analysis, 2021.
+39. Note that another aspect of explainability is that of explaining what is likely to
+happen in the future. This is covered in Rec. 5 which requires ASDEs to deﬁne aSEOC that would set out how the AV is intended to achieve safe and ethicalbehaviour.
+40. See for example the forthcoming IEEE standard on transparency (Winﬁeld, AlanFT, Serena Booth, Louise A. Dennis, Takashi Egawa, Helen Hastie, NaomiJacobs, Roderick I. Muttram et al. IEEE P7001: a proposed standard ontransparency (https://www.frontiersin.org/articles/10.3389/frobt.2021.665729/full),Frontiers in Robotics and AI, Volume 8, 225. 2021) and ISO/IEC NP TS 6254(https://standardsdevelopment.bsigroup.com/projects/9020-04875#/section)
+41. Herkert, Joseph, et al. The Boeing 737 MAX: Lessons for engineering ethics
+(https://link.springer.com/article/10.1007/s11948-020-00252-y). Science andengineering ethics, 26(6), 2957-2974. 2020.
+42. Any framework for certiﬁcation should acknowledge the possibility of incentives
+towards cheating, as revealed by the VW ‘dieselgate’ controversy.
+43. Tyndall, Justin. Pedestrian deaths and large vehicles
+(https://www.sciencedirect.com/science/article/abs/pii/S2212012221000241). Economicsof Transportation, 26, 100219. 2021.
+44. Note: this recommendation is broader than the requirements set out in LC Recs.
+20 and 57.
+45. See for example, LC Rec. 74, which establishes a legal basis for data disclosure
+on AV data controllers.
+46. Note that this aligns with the Law Commissions’ recommendation that the ASDE
+must cooperate with an investigation unit as much as the regulator.
+47. Tennant, Chris et al. Driverless Futures? A Survey of the British Public
+(https://driverless-futures.com/2022/05/09/survey-reports/), (2022). Driverless Futures?was a three-year social science project (2019-2022) funded by the Economic
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+65/66
+[Page #65]
+14/10/2023, 12:14
+Responsible Innovation in Self-Driving Vehicles - GOV.UK
+and Social Research Council, with researchers from University College London,UWE Bristol and City, University of London. See also Department for Transport,Transport and transport technology: public attitudes tracker(https://www.gov.uk/government/publications/transport-and-transport-technology-public-attitudes-tracker), 2021 (seven iterations since 2018).
+48. A recent US survey from J.D. Power found that 19% of people thought fully self-
+driving vehicles were already available to buy. When prompted for moreinformation, ‘Tesla’ was the most commonly used word by survey respondents.See J.D. Power, MIT Advanced Vehicle Technology Consortium, Partners forAutomated Vehicle Education (PAVE), Mobility Conﬁdence Index Study(https://www.jdpower.com/business/press-releases/2021-mobility-conﬁdence-index-mci-study), 2021.
+49. This expands on LC Rec. 23 - info to owners and UIC and LC Rec. 34 - criminal
+offence on terminology
+50. This could be addressed by the Government led AV-DRiVE group.
+51. This supplements LC Rec. 30 - in-use regulator’s duty to engage with those with
+an interest in the safety of automated vehicles
+52. Note: Recommendation 33 states that the ASDE and NUiC Operator shallsupport reasonable access to all relevant proprietary information by a roadcollision investigation unit and other authorised bodies to enable collision andincident analysis and support the authorities in producing lessons learnt fordissemination to other ASDEs.
+53. Prior to the commencement of the future framework, listing under AEVA 2018
+would be the appropriate alternative.
+54. Where AVs are being trialled only, and have not been authorised, trialling
+organisations should implement this.
+55. This would implement the Law Commissions’ recommendation for a ‘Road Rules
+Forum’ (LC Rec. 31).Back to top
+All content is available under the Open Government Licencev3.0, except where otherwise stated
+© Crown copyright
+https://www.gov.uk/government/publications/responsible-innovation-in-self-driving-vehicles/responsible-innovation-in-self-driving-vehicles
+66/66

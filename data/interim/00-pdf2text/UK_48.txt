@@ -1,0 +1,642 @@
+[Page #0]
+National Space Strategy
+September 2021
+[Page #1]
+© Crown copyright 2021
+This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3 or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: psi@nationalarchives.gsi.gov.uk.
+Where we have identified any third-party copyright information you will need to obtain permission from the copyright holders concerned.
+Any enquiries regarding this publication should be sent to us at: enquiries@beis.gov.uk
+Acknowledgements Cover image: The UK, seen from the International Space Station, Credit: © NASA
+[Page #2]
+National Space Strategy
+1
+Contents
+Foreword from the Prime Minister 
+2
+Foreword from the Secretaries of State 
+3
+Executive summary 
+5
+Part One: Context – Space today and tomorrow 
+8
+Growing and changing uses of space 
+9
+UK strengths and opportunities 
+13
+Part Two: UK vision and goals 
+18
+Goal 1: Grow and level up our space economy  
+19
+Goal 2: Promote the values of Global Britain  
+19
+Goal 3: Lead pioneering scientific discovery and inspire the nation  
+19
+Goal 4: Protect and defend our national interests in and through space 
+20
+Goal 5: Use space to deliver for UK citizens and the world  
+20
+Part Three: How the UK will achieve our goals 
+22
+Pillar One: Unlocking growth in the UK space sector 
+24
+Pillar Two: Collaborating internationally  
+32
+Pillar Three: Growing the UK as a science and technology superpower 
+36
+Pillar Four: Developing resilient space capabilities and services 
+37
+Ten Point Plan: Initial focus areas 
+41
+Part Four: Implementation 
+44
+Next steps 
+45
+Organisation of government activities 
+48
+[Page #3]
+2
+National Space Strategy
+Foreword from the Prime Minister
+I was barely five years old when Neil Armstrong shuffled down the Eagle’s ladder and left the first human footprint on the surface of the moon. Yet I still vividly recall my family and I not only being transfixed by NASA’s grainy black and white footage, but also excited by what the scenes we were witnessing meant for us all.
+front rank of the global space industry, and harnessing the technology of space to solve problems and improve public services back down on Earth.
+It’s a plan that will level up the UK by bringing opportunity to every part of it, with satellites being propelled into orbit from as far afield as Cornwall and Sutherland as soon as next year. A plan that will create more jobs by putting rocket boosters the size of a Saturn V’s F1 under British space businesses. And a plan that will see us take a leading role on the international stage, Global Britain becoming Galactic Britain as we work with other nations to pursue exciting missions and with the UN to set the standards that will ensure space is used responsibly and safely.
+The possibilities that now lay ahead, the ambitions that would be let slip, the breakthroughs we could look forward to. And of course being five years old it made me want to be an astronaut myself. Such is the unique power of space, turbocharging both our technology and our imaginations.
+Yet for all the UK’s prowess behind the scenes – Armstrong’s journey would never have happened without the engineering know-how of a chap from Anglesey named Tecwyn Roberts – we have for too long failed to properly embrace the opportunities that the space industry offers.
+The days of the UK space industry idling on the launch pad are over – this government has the Right Stuff, and this strategy marks the start of the countdown. 
+And so the home of Bell Burnell, Hawking and Payne-Gaposchkin, a country that has done so much to expand and enhance humanity’s understanding of the cosmos, has remained largely earthbound. When it comes to getting off the ground we contribute to the work of others rather than taking the lead ourselves.
+The Rt Hon Boris Johnson MP, Prime Minister  Credit: Number 10 Downing Street
+This strategy is about changing that. About tapping our vast pools of talent and enthusiasm, putting the UK firmly in the 
+[Page #4]
+National Space Strategy
+3
+Foreword from the Secretaries of State
+Space is inspiring; the whole world gathered to watch humanity take its first steps on the Moon in 1969 and every child has looked up in wonder at the stars. But perhaps fewer of us realise just how essential space is to every aspect of our modern daily life. Every time we use our smartphones to navigate, every time we take a flight, every time we check the weather forecast – we are using space. 
+We will empower British companies to capitalise on new opportunities, with the UK providing a comprehensive end-to-end offer for space businesses to start and grow, including launches into orbit from British spaceports from 2022. Space will help us fight climate change, with satellites providing an extraordinary insight into our climate and environment. And researchers and innovators will use space in new and exciting ways, improving the way we live and work. The UK must be in the vanguard of this next phase of space innovation. 
+The Space Race of the 20th century transformed and advanced our technology, our society, and our understanding of our place in the universe. The coming decades will do this again. New technologies and cheaper access to space will let us further explore the Earth and the solar system, deliver new ubiquitous services like space-enabled internet, and make new scientific discoveries in zero-gravity. 
+The UK can look back on a proud history of activity in space. From our first satellite Ariel 1 in 1962 and the launch of the Black Arrow rocket in 1971, to today’s construction of the Rosalind Franklin rover which will go to Mars as part of a major international mission, we have always brought to bear British skills, expertise, and ingenuity. To build on this foundation and seize this moment in history, our UK-wide Space Strategy sets out our vision and ambition for the UK space sector. It sets out how we will build one of the most innovative and attractive space economies in the world, creating the right conditions for space businesses to start, grow, innovate, and thrive, while giving them the confidence to do so. We will demonstrate leadership internationally, ensuring that space remains safe and sustainable as we enter the next exciting phase of exploration, and we will take steps to ensure that we can protect and defend the UK.
+We entered this first Space Race during an era of great power competition, with the US and Soviet Union vying for dominance. Today the nature of global power is shifting again as we move towards a more intensely competitive world. Space was once only the preserve of superpowers but increased commercial use of space will trigger a new wave of competition. Governments around the world will use a range of methods to compete, and this could include technologies intended to disrupt and deny others’ use of this domain. Any miscalculation could present a real risk to our wellbeing and security. We must act to prevent this.
+[Page #5]
+4
+National Space Strategy
+The Prime Minister has called for the UK to become a meaningful actor in space, and for the first time this strategy brings together our civil and defence activities into one integrated approach to achieve this ambition. Our partners in the space ecosystem will be vital to delivering this strategy, and we have asked the UK Space Agency and UK Space Command to work together to deliver on these goals. We will work alongside our research sector, expert institutions, agencies and across the whole of government to do this. But most importantly, this strategy sends a signal to businesses and innovators across the UK and further afield to take advantage of this moment of opportunity, and to come together and work with government to deliver on the strength of the UK’s ambitions.
+The Rt Hon Ben Wallace MP, Secretary of State for Defence
+The Rt Hon Kwasi Kwarteng MP, Secretary of State for Business, Energy, and Industrial Strategy
+[Page #6]
+National Space Strategy
+5
+Executive summary
+Space plays a critical role in our daily lives. Satellites orbiting the Earth only 160 kilometres above our heads keep us connected with our friends, families, and colleagues. They support our present and future security and prosperity, enabling us to navigate the oceans, keep our troops safe, monitor the climate and forecast the weather. And the space sector is a vital part of the UK’s economy, worth over £16.4 billion per year and employing over 45,000 people in diverse and exciting roles as scientists, engineers, entrepreneurs, and innovators.1 
+This first ever National Space Strategy brings together the UK’s strengths in science and technology, defence, regulation, and diplomacy to pursue a bold national vision. This strategy identifies five goals and the activities that government, academia and industry will need to take to achieve them. 
+The UK has built a thriving space economy with end-to-end support for space enterprises. We have a renowned science and technology sector, a strong talent pipeline, and leading satellite manufacturing and operations capabilities. Highly innovative British companies have built mature global supply chains. And from 2022 the first launches into space from the UK will take place. On the ground, British scientists and businesses have the skills and technologies to interpret and use the data we get from space, providing modern and innovative services to us all. And our broader strengths, from our modern regulatory regime to world-class financial and legal services, make the UK a fantastic place to start, invest in, and grow a space business.
+Space presents significant opportunities; the global space economy is projected to grow from an estimated £270 billion in 2019 to £490 billion by 2030.2 Constellations of satellites are being launched to deliver worldwide services. New state and commercial space stations are being planned and built. And space tourism operators are flying their first customers into space. However, as the opportunities have grown, so too have the threats; our potential adversaries are developing capabilitites that will put our people, equipment and information networks at risk and make it harder to protect the UK. Space is changing, the UK must respond.
+1 2 
+UK Space Industry: Size and Health Report 2020, published 19 May 2021, available at GOV.UKBEIS analysis using third party market projections, detailed in the Technical Annex. This implies an annual growth rate of 5.6%. 
+[Page #7]
+6
+National Space Strategy
+The UK vision
+We will build one of the most innovative and attractive space economies in the world, and the UK will grow as a space nation. We will protect and defend UK interests in space, shape the space environment and use space to help solve challenges at home and overseas. Through cutting-edge research, we will inspire the next generation and sustain the UK’s competitive edge in space science and technology.
+The UK’s goals
+Grow and level up our space economy
+Promote the values of Global Britain
+Lead pioneering scientific discovery and inspire the nation
+Protect and defend our national interests in and through space
+Use space to deliver for UK citizens and the world
+How we will achieve the goals
+Unlocking growth in the space sector
+Growing the UK as a science and technology superpower
+Collaborating internationally
+Developing resilient space capabilities and services
+The Ten Point Plan
+Immediate key interventions in the highest impact opportunities and the critical cross-cutting enablers.
+[Page #8]
+National Space Strategy
+7
+We will grow the UK as a science and technology superpower, participating in the most exciting research opportunities. This will include:
+The UK excels in the manufacture of satellites, spacecraft, highly complex payloads, end-to-end satellite service delivery, satellite communications, and high-end navigation systems. We have ambitious plans to build new leadership in high-growth areas, such as Earth Observation, navigation applications and services, and satellite broadband. And we will work to establish early leadership in potential and emerging markets such as in-orbit servicing, space travel and habitation, and active debris removal. 
+• 
+returning samples from Mars to the Earth for the first time and monitoring the sun for space weather events like solar flares
+•  collaborating on the NASA-led Artemis 
+programme to return humans to the Moon
+We will upgrade the UK’s space capabilities, that are crucial to so many of our civil and defence functions. This will include:
+We will take action to unlock growth in the UK space sector, using government to unleash the potential of our industry, entrepreneurs, and innovators. This will include:
+•  delivering the UK’s first Defence Space 
+Portfolio, investing £5 billion over 10 years in the military’s satellite communications and £1.4 billion in new technologies and capabilities
+•  ensuring innovative space businesses can access private finance through space-oriented venture capital funds, such as Seraphim Space Investment Trust, supported by the British Business Bank
+•  becoming the first country to launch a rocket into orbit from Europe in 2022 with the aim of becoming a leader in commercial small-satellite launch
+• 
+leading the world in modern space regulation, and building new space trading partnerships with the world, building on the success of the UK-Australia ‘space bridge’
+We will collaborate internationally with our partners and allies to achieve our goals, including:
+•  maintaining our role in the European Space Agency while building new and enhanced bilateral relationships with countries such as the US
+•  working at the UN to deliver leadership 
+on a safe, sustainable and secure space environment, in particular to deliver a new resolution on space threats 
+[Page #9]
+8
+National Space Strategy
+Part One: Context – Space today and tomorrow
+Satellite BuildAirbus Space© Docubyte/UK Space Agency
+[Page #10]
+National Space Strategy
+9
+Growing and changing uses of space
+Today, all nations depend on space for their prosperity and security. 
+Space sector in the UK
+Space technologies underpin over £360 billion per year in UK economic activity
+The Skynet Constellation of satellites has been helping to keep the UK safe for 50+ years
+The space sector was worth £16.4 billion in 2018/19
+The space sector supports over 45,000 jobs across the country
+Total employment 45,086
+Number of employees 
+12,000
+130
+Regional distribution of UK space industry employment (2018/19)
+Distribution of UK space industry companies (2019)
+Source: Know.space and KTN
+[Page #11]
+10
+National Space Strategy
+Space is a vital part of the UK’s economy. Satellites and space activities deliver navigation, weather forecasting, power grid monitoring, financial transactions, and better public services. Satellites also support television services to millions of UK households as well as other digital communications.
+We use satellites to monitor and map crops to enable more productive agriculture to sustainably feed a growing global population. And countries with capable space systems can lead the way in tackling challenges that face the entire globe, such as the fight against climate change and biodiversity loss.
+Space is vital to the UK’s security and resilience. It is fundamental to the UK’s strategic advantage and the successful conduct of military operations. Space capabilities form the backbone of secure global communications, navigation, and intelligence-gathering activities. From the first warning of imminent attacks and tracking of potentially hostile activity, to missile warning systems, space systems underpin the capabilities that keep us safe and competitive. Space is defined as part of the UK’s critical national infrastructure (CNI). CNI also relies on a wide range of resilient space technologies including position, navigation and timing (PNT) services and we have committed to making these services more resilient for both CNI users and our wider economy.
+The UK space sector is growing faster than the rest of the UK economy, and the average worker in the space sector is 2.6 times more productive than in other sectors.3 It is worth over £16.4 billion per year, employs over 45,000 people, and satellites underpin £360 billion per year of wider economic activity.4
+Space technologies and services also support the UK’s ambition to be a science and technology superpower. Earth observation satellites increase our understanding of our own planet while telescopes, laboratories, and rovers expand our understanding of the universe. The technologies we develop and knowledge we gain through space support our wellbeing, provide services for our everyday lives, and help us support other countries and meet the United Nations’ Sustainable Development Goals.5
+Space remains a tool for global influence and diplomacy, just as it was during the first Space Race in the 20th century. Human spaceflight and space exploration demonstrate the power and ingenuity of spacefaring nations. Activity in space is essential to the transmission of culture and information and can help provide disaster relief where conventional infrastructure is thin on the ground or destroyed.
+3 
+The UK space economy GVA has grown at 4.7% over the last 4 years, compared with the overall UK GDP growth of 3.7%.UK Space Industry: Size and Health Report 2020, published 19 May 2021, available at GOV.UKUN Sustainable Development Goals, available at sdgs.un.org/goals
+4 5 
+[Page #12]
+National Space Strategy
+11
+Goonhilly Satellite Array Credit: Spaceport Cornwall
+This growth will be fuelled by unprecedented demand for data and connectivity on Earth, new markets for satellite-enabled services and huge leaps in technological innovation. 
+The space sector is undergoing a rapid, transformative change
+The cost and complexity of acting in space has fallen dramatically. Miniaturisation, digitisation, reusability, regulatory reform, and increased private capital have reduced the barriers to space, allowing more countries and commercial players to enter a field once available only to a select few. New Space6 and the commercialisation of space presents a significant opportunity: the global space economy is projected to grow from an estimated £270 billion in 2019 to £490 billion by 2030.7
+UK civil expenditure on space has increased from £300 million in 2014 to £700 million in 2019, and the UK space sector has seen consistently high growth rates.8 However, other nations have invested proportionally more and the UK lags behind our international peers. As a result, while the UK sector has continued grow, it is not currently increasing its share of the global space economy. 
+6 
+‘New Space’ refers to the increasing commercialisation of the space sector, moving beyond purely state activity.BEIS analysis using third party market projections, detailed in the Technical Annex. This implies an annual growth rate of 5.6%.Including domestic civil spend from Space Foundation data, ESA contributions, EUMETSAT contributions, and EU space program contributions (Galileo and Copernicus), but excluding space defence spend.
+7 
+8 
+[Page #13]
+12
+National Space Strategy
+But this will not hold the UK back. This strategy sets out how we can become a highly agile space nation and make a generational leap forward in space technologies and capabilities unencumbered by the cost of maintaining older, outdated technologies. The government will act to put the UK space sector in a position to fully capitalise and lead in the new space markets of the future, as well as the established and growing space markets of today. 
+that can cause permanent damage, including the creation of long-lasting debris. As the Integrated Review made clear, this is happening in an era of intensifying constant competition across all domains, which increases the risk of escalation and miscalculation.9
+As our dependence on space grows, we need to protect and defend the UK’s interests
+Space is becoming more congested and contested
+The UK is working with our allies and other defence space operators to establish a safe and secure space domain. Our sovereign Skynet satellites provide assured communications for UK defence and NATO allies, while our commitment to augment space surveillance will strengthen our capability further. However, the UK is not keeping pace with the threat as adversaries invest more in space capabilities.
+The way that space is used is also changing. Constellations of thousands of satellites are being launched to deliver worldwide services. New state and commercial space stations are being planned and built. Space tourism operators are flying their first customers on suborbital spaceflights and robotic servicing spacecraft are extending the lives of older satellites and clearing space debris. 
+Commercial products are increasingly sophisticated, and our economy is more reliant upon space technologies. In the unlikely event the UK were deprived of access to global navigation satellite systems, for example, the impact on our economy could be as high as £5.2 billion lost in just five days.10 With this growing reliance on space technologies comes the risk that foreign investment or aggression by hostile actors will deprive us of their use. Government must act to secure space assets critical to the UK, while ensuring sensitive UK information does not come under the control of hostile state actors who wish to undermine our national security and that of our allies. 
+There are millions of pieces of potentially harmful debris from decades of activity orbiting in space. As the space above us gets busier, it becomes harder to track objects with confidence and to avoid accidental collisions. With greater reliance on infrastructure in orbit, natural threats such as severe space weather begin to pose greater risk of disruption to our daily lives. 
+Our potential adversaries are developing capabilities that will put our people, equipment and information networks at risk and make it harder to protect the UK. They are developing a range of methods to do this, from jamming and cyber-attacks, through to anti-satellite missiles 
+9  Global Britain in a Competitive Age: the Integrated Review of Security, Defence, Development and Foreign 
+Policy, published 16 March 2021, available at GOV.UK
+10  The Economic Impact on UK of a disruption to GNSS, report from June 2017, available at GOV.UK
+[Page #14]
+National Space Strategy
+13
+UK strengths and opportunities
+The UK has an end-to-end offer for space enterprises. We have a renowned science and technology sector, a strong talent pipeline, and a leading satellite manufacturing and operations capability. We benefit from a highly integrated and mature global supply chain of innovative and established companies and a new launch capability from 2022, as well as growing downstream skills and services in data use and exploitation. We are a growing leader in ancillary services, from a modern regulatory regime to private finance and insurance with the City of London providing an unparalleled global financial services centre. 
+leadership in high-growth opportunity areas in the coming years. The growth of the sector will be driven by the dynamism, entrepreneurialism, expertise and curiosity of the UK’s world-leading space companies and scientists. Government’s role is to help identify the opportunities the UK is best positioned to pursue and then to empower the sector to thrive. It should provide support only where it is needed and where only government can intervene. 
+To build a strong, diverse, and resilient sector, we must focus on removing barriers and increasing support on the areas of highest opportunity. This means sustaining our current competitive strengths, developing leadership in high-growth areas, and laying the foundations for leadership in emerging sectors.
+We have many areas of strength, drawing on our holistic offer for the space economy, with the UK being an excellent place to do business. The UK is well placed to leverage those strengths to build 
+Soldier setting up a satellite ground antenna. Credit: MoD, 2021
+[Page #15]
+14
+National Space Strategy
+1. Sustaining our current competitive strengths
+The UK has existing areas of deep commercial and technical expertise which we will continue to support and develop. The UK excels in the manufacture of spacecraft and highly complex payloads, with particular strength in small satellites. We are a leader in the ground-based manufacture and services for high-end navigation systems and satellite communications, as well as broadband for mobility applications (including maritime, aeronautical and land mobile). We also have thriving professional services that support the space sector, in particular IT, consultancy, insurance, and legal services. 
+Growing existing strengths
+Manufacture of spacecraft and complex payloads
+Communications and high-end  navigation terminals
+Mobility broadband services
+Professional  supporting  services
+[Page #16]
+National Space Strategy
+15
+2. Developing leadership in high-growth areas
+Over the next five to ten years, the UK has the potential to establish global leadership in some of the largest and fastest growing markets in the space sector. Owing to our strengths in analytics, artificial intelligence, and app development, we see key opportunities in markets that use data from space to build services and applications for Earth observation, navigation, and space domain awareness. We will also further develop leadership in satellite broadband operations, building on our recent investment in OneWeb.
+Leadership in high-growth areas
+Earth Observation applications and services
+Navigation applications and services
+Space Domain Awareness
+Satellite  broadband
+[Page #17]
+16
+National Space Strategy
+3. Laying the foundations for leadership in emerging sectors
+In the coming decades, emerging technologies and applications will generate whole new markets. In-orbit servicing will extend the economic life of satellites. Active debris removal will be increasingly required to keep orbits safe. And in-space manufacturing will be enabled by advances in robotics and 3D printing. Further into the future, space travel and habitation, energy production and the use of space resources could become significant commercial markets. We are already building capabilities in some of these sectors, where clear technological possibilities and market needs already exist, and we are demonstrating technologies in others. But we can go further. The government will act to put the UK space sector in a position to fully capitalise on the nascent opportunities of the future. The potential economic and societal benefits are huge, even if the risks and uncertainties appear high today.
+Emerging sectors
+In-spacemanufacturing
+Space travel and habitation
+Space-based energy
+Active debris removal
+In-situ space resource utilisation
+In-orbit servicing
+Increasing time for market to reach full scale
+[Page #18]
+National Space Strategy
+17
+[Page #19]
+18
+National Space Strategy
+Part Two:  UK vision and goals
+Rendering of Solar Orbiter mission. Credit: ©ESA
+[Page #20]
+National Space Strategy
+19
+Goal 2: Promote the values of Global Britain 
+This will be the most exciting decade in space since humans walked on the Moon, with opportunities and challenges in equal measure. 
+We will support an open and stable international order through our engagement on space. We will demonstrate global leadership and drive discussions on space safety, security and sustainability, and hold other nations to account for their actions in space. We will promote responsible behaviours and work to avoid miscalculation, escalation, and conflict. With the UK’s partners, we will modernise the guidelines governing the peaceful and responsible use of space to keep pace with new technologies and create opportunities for science and industry.
+Following the government’s Integrated Review and Build Back Better plan,11 this Space Strategy brings together the UK’s strengths in science and technology, defence, regulation, and diplomacy to pursue a bold national vision:
+We will build one of the most innovative and attractive space economies in the world, and the UK will grow as a space nation. We will protect and defend UK interests in space, shape the space environment and use space to help solve challenges at home and overseas. Through cutting-edge research, we will inspire the next generation and sustain the UK’s competitive edge in space science and technology.
+Goal 3: Lead pioneering scientific discovery and inspire the nation 
+We will support research that protects our planet and nation, allows us to live healthier and richer lives and answers the biggest questions about our place in the universe. British-built technologies and new missions for UK astronauts will ultimately help people to live and work in space. We will support our space sector to deliver one million engagement activities a year with young people across the UK, inspiring the next generations of space scientists, engineers, and entrepreneurs. This will help to build and sustain our strategic advantage through science and technology, as set out in the Integrated Review.
+This strategy defines five goals that the UK will achieve in and through space, which will guide government focus in the coming years as we work towards our vision.
+Goal 1: Grow and level up our space economy 
+We will make the UK one of the most attractive countries for space-sector businesses of all sizes and for talent to grow and thrive. We will back business to develop new commercial opportunities – from areas in which the UK already excels to fast growing markets and exciting future possibilities. We will create a national space ecosystem spreading employment across the UK, boosting exports, attracting talent and investment, and further integrating space data and technologies into daily life. 
+11  Build Back Better: our plan for growth, published 3 March 2021, available at GOV.UK
+[Page #21]
+20
+National Space Strategy
+Goal 4: Protect and defend our national interests in and through space
+Goal 5: Use space to deliver for UK citizens and the world 
+We will strengthen our security and enhance our resilience at home and overseas. Through increased autonomy and more diverse collaboration we will know what is happening in space and maintain our freedom to respond to threats and deter hostile behaviour. We will ensure that space fully supports our overall approach to defence, including integrating defence operations across the five domains.12 We will also ensure our CNI can rely on a wide range of resilient space technologies including PNT services. We will develop ambitious capabilities to improve our resilience and ensure we are fully able to protect UK interests, and those of our allies, in and through space, while maximising our freedom to operate. We will enhance our ability to prevent the transfer of sensitive UK technologies for use in hostile space programmes. 
+We will use space to tackle global challenges, including climate change and biodiversity loss, and deliver better services to the public such as modernising our transport system, supporting our NHS, and protecting our borders. We will support businesses to develop the new technologies and infrastructure to deliver these services through better government procurement, with clearer requirements, a more joined-up approach to civil and defence needs, and easier routes for firms to offer their expertise. We will also use space to help deliver the UN Sustainable Development Goals, putting the UK at the forefront of meeting the needs of our planet and its people.
+Government will work with British companies, researchers, innovators, and our partners and allies across the world to transform the UK’s space sector and achieve these goals.
+12  The five military operational domains are: maritime, land, air, space, and cyber.
+[Page #22]
+National Space Strategy
+21
+National Space Operations Centre providing continuous support to UK forces at home and overseas Credit: Ministry of Defence, 2021
+[Page #23]
+22
+National Space Strategy
+Part Three: How the UK will achieve our goals
+Rocket EngineAirbourne Engineering© Docubyte/UK Space Agency
+[Page #24]
+National Space Strategy
+23
+Achieving the UK’s goals in space will require co-ordinated action from government. However, public investment alone will not be sufficient. The UK will require a significant increase in private sector investment in space activities, alongside the full combined efforts of every participant in the UK space economy, from businesses to innovators, entrepreneurs, and space scientists. As the sector grows, develops, and matures, government will redefine our partnership with industry, changing from a primary funder to an influential customer. We will understand the barriers to growth and work with industry to reduce and remove them. 
+We will set the conditions for a competitive space sector and encourage a broad range of space companies to get involved. The sector will benefit from partnership with government, as well as advances in science and technology from academia, the entrepreneurialism of British businesses, stronger skills and education, and stronger and more diverse relationships with partners and allies across the world. Working together, we can ensure that the sector generates jobs, income, and intellectual property in the UK, contributing to sustained economic growth and benefits for our citizens.
+The space ecosystem is highly interconnected. Systems and structures across our economy and across the world affect how we can achieve the goals of the strategy, from the regulatory environment and skills to international co-operation, science, and technical capability. We will achieve our goals by acting across four pillars:
+•  unlocking growth in the space sector
+•  collaborating internationally
+•  growing the UK as a science and 
+Rocket launch Credit: ©OneWeb
+technology superpower
+•  developing resilient space capabilities 
+and services
+[Page #25]
+24
+National Space Strategy
+Pillar One: Unlocking growth in the UK space sector
+Space Strategy goal
+Grow and level up  our space economy
+Sector opportunities
+Current strengths
+High-growth areas
+Emerging Sectors
+Enabling intervention areas
+Build Trade
+Whole UK Ecosystem
+Dynamic Regulation
+Unleash Innovation
+Nurture Talent
+Improved Procurement
+Access to Finance
+[Page #26]
+National Space Strategy
+25
+As an independent trading nation, we are taking our place on the global stage, championing the benefits of free trade, lowering market barriers, and building new and exciting international partnerships. We will pursue pioneering new trade arrangements and seek to include innovative provisions for space in the UK’s future Free Trade Agreements, building on the UK-Australia Space Bridge announced in 2021.15
+We have a range of tools at our disposal to enable the space sector to sustain current advantage and grow leadership in opportunity areas and to level up our economy. We will also support the other goals for space and facilitate wider government objectives to unleash innovation and achieve net zero by 2050 (supporting the Plan for Growth, Innovation Strategy13 and the forthcoming Net Zero Strategy). We will make full use of this toolkit, depending on where the need is, and in those areas where only government can deliver the support required.
+Initiatives such as the Space Sector Export Academy are supporting UK innovators to become not only exporters but global market leaders.16 Through trade missions, we will showcase the capabilities of domestic suppliers to key overseas markets. And the UK will also work to build new Space Bridge agreements with international partners, to remove specific barriers to trade and foster mutual prosperity.
+Government will take a whole-ecosystem approach through the interventions detailed in this strategy, conscious of the interdependence between different parts of the value chain. We will also support businesses across their growth lifecycle, recognising that the needs of researchers and start-ups are distinct from established players.
+Our strengths as a scientific, academic, and financial leader make the UK an ideal place to invest in or grow a business. The National Security and Investment Act 2021 gives greater certainty and confidence to investors in the space sector and beyond, through a framework which ensures the UK will remain a leading investment destination but also protects companies and organisations operating here from technology appropriation or unfavourable foreign acquisition.
+The interventions below are aligned with the approach of the Defence and Security Industrial Strategy that highlighted the importance of defence in embracing the growing space innovation environment and enabling wider sector growth aspirations.14
+Building trading partnerships 
+We cannot build a successful sector based on domestic demand and domestic capability alone. Government will enable the UK space sector to form and maintain global trading partnerships and deliver investment in our capabilities. 
+13  UK Innovation Strategy: Leading the future by creating it, published July 2021, available at GOV.UK14  Defence and Security Industrial Strategy, published 23 March 2021, available at GOV.UK15  UK-Australia Space Bridge Agreement, published February 2021, available at GOV.UK16  The Space Sector Export Academy, available at GOV.UK
+[Page #27]
+26
+National Space Strategy
+Building a whole-UK space ecosystem 
+Leading the world in modern space regulation
+The space sector delivers economic growth alongside high-skill, high-innovation jobs across the whole of the UK. However, the balance of investment and jobs remains heavily located in certain regions. We will level up our space sector and ensure that the space economy works for everyone across England, Scotland, Wales, and Northern Ireland. 
+The UK is leading the world in modern regulation of space activities, in line with the ambitions of the Integrated Review. The Space Industry Act 2018 delivered a new global benchmark in space launch, while our UKSA cyber-security toolkit has provided exemplary guidance on the security of commercial space systems. New Space Industry Regulations enacted this year have propelled the development of commercial spaceflight technologies, from rockets to space planes. Government has created a new UK space regulator in the Civil Aviation Authority, which is regulating these emerging technologies.
+We will work across government and with local partners, the devolved administrations and their enterprise agencies, and our world leading universities to encourage more space businesses to start, grow and connect with partners in industry and the science and technology base. The devolved administrations are considering how they can use their powers and partner with local business, industry, and academic organisations to grow their space sectors alongside this UK-wide national strategy.
+We will continue to work together with industry and internationally to ensure the UK has the safest and most effective regulation of space activities. We will continually improve safety standards, implement relevant consents, and mitigate the negative environmental impacts of our space activities. Given the growing importance of world-class digital connectivity, a key strategic priority is to reinforce our position as an attractive location for the next generation of satellite broadband services. Therefore, we will work with Ofcom and through the International Telecommunications Union and European Conference of Postal and Telecommunications Administrations to ensure that the allocation, regulation, and licensing of frequency spectrum meets the needs of all UK space sectors and technologies across both civil and defence.
+We will support businesses in forming and developing clusters based on areas of local excellence, and identifiable domestic and international market opportunities, connecting these clusters nationally to form a networked ecosystem. We will work with business incubation centres to deliver targeted space business acceleration, foster collaboration to deliver national prosperity, and contribute to levelling-up. Some of the UK’s existing clusters of activity are shown in the diagram on the following page.
+[Page #28]
+National Space Strategy
+27
+We are supporting sector growth across the UK
+Proposed spaceport
+Centre of space activity
+Saxa Vord Spaceport
+Spaceport 1
+Space Hub Sutherland
+Prestwick Spaceport
+Scotland’s Central Belt 
+Spaceport Machrihanish
+Belfast
+Northeast Satellite Applications Centre of Excellence
+Spaceport Snowdonia
+Space Park Leicester
+Westcott Venture Park
+Harwell Space Cluster
+Spaceport Cornwall
+South Coast Satellite Applications Centre of Excellence
+Goonhilly Earth Station
+South West Satellite Applications Centre of Excellence
+[Page #29]
+28
+National Space Strategy
+As part of our approach to international collaboration, the UK will work with partners and allies, and in forums such as the UN, to modernise the international guidelines governing our peaceful use of space, in line with our values. This will ensure they support UK space activities, keep pace with new technologies, ensure a sustainable space environment is maintained and support science and industry. 
+This year, government has published a UK Innovation Strategy.18 This sets out where government will take the lead to achieve our overarching goal of becoming a global hub for innovation by 2035: 
+1.  unleashing business – we will fuel businesses who want to innovate
+2.  people – we will create the most exciting 
+place for innovation talent
+3. 
+institutions and places – we will ensure our research, development and innovation institutions serve the needs of businesses and places across the UK
+Unleashing innovation in the space sector
+The government is overseeing the fastest ever rise in public funding for research and development, and space is benefitting from this step-change increase in investment. Legislation has been introduced to establish an Advanced Research and Invention Agency. We are developing research and development (R&D) infrastructure such as the National Satellite Test Facility in Harwell and have opened a new National Space Propulsion Test Facility in Westcott, which will help space business test payloads and propulsion engines in the UK. We will build on the success of the pathfinder National Space Innovation Programme (which co-funded the development of new products and services both in earth observation data to tackle climate change challenges, and in ubiquitous telecoms provision) to enable the development of innovative space-enabled products, services and technologies. We will do this through offering co-funding to industry, academia, and research organisations.17
+4.  missions and technologies – we will 
+stimulate innovation in to tackle societal and global challenges and drive capability in key technologies
+The Satellite Applications Catapult will continue to bridge the gap between the UK’s world-class research communities and UK businesses, helping organisations realise the potential of space technologies and satellite-based services. It will continue to provide facilities, technology demonstrators, tools, and data platforms for organisations to access. The Knowledge Transfer Network will help businesses in space and across the economy to connect and collaborate with partners, suppliers, customers, and the research community.
+17  National Space Innovation Programme, a UK Space Agency Programme, further details at GOV.UK18  UK Innovation Strategy: Leading the future by creating it, published July 2021, available at GOV.UK
+[Page #30]
+National Space Strategy
+29
+The Defence Space Portfolio
+Space technology and applications help UK industries achieve net zero emissions and a more sustainable future. Cutting-edge innovations use real-time satellite data to reduce carbon emissions in shipping, and space-based solar power systems offer a potential zero carbon energy source. We will support our rapidly expanding space sector to integrate net zero thinking into its growth, monitor its environmental impact and encourage low-carbon and sustainable development.
+The UK’s prioritised defence ambitions within the space domain will be delivered through the establishment of a balanced Defence Space Portfolio. It will integrate current and planned capability management activities, combining existing core programmes with exciting new initiatives to ensure the UK has capabilities to support defence operations in the modern age. Defence is investing around £5 billion over the next decade to enhance our satellite communication capabilities (Skynet) and a further £1.4 billion in the acquisition and development of new technologies in space domain awareness, intelligence, surveillance and reconnaissance, command and control and other new capabilities for protect and defend activities. In doing so we will pull through advanced technologies and innovations into the hands of the user. This investment will play a part in stimulating innovation, commercialisation, and growth across the wider sector. Defence will utilise elements of the Defence Space Portfolio funding to further support space science and technology (which includes R&D), alongside existing funding. Further detail on the Defence Space Portfolio will be in the Defence Space Strategy.
+To benefit from the thriving innovative space ecosystem in the UK, we will adopt a whole-of-government approach to maximise the value of innovation funding and exploit synergies across civil and defence research. Through closer collaboration across the various government and commercial interests in space technologies, we will adopt an applied research approach to create options for potential technological development. We will do this through existing UKSA development pipelines, the Defence Space Portfolio, and implementing the Defence and Security Industrial Strategy, and through collaboration with industry.19
+19  Defence and Security Industrial Strategy, March 2021, available at GOV.UK
+[Page #31]
+30
+National Space Strategy
+Nurturing talent
+The government’s Plan for Jobs20 is helping businesses to recruit the right people and develop the skills they need to grow, but that is only part of the solution. We will continue to work in partnership with employers to help more young people gain access to work placements and to build on existing apprenticeship offers.
+A skilled and diverse workforce is vital to the success of space businesses and the growth of the sector, and careers in space offer exciting and rewarding jobs for thousands. The UK has a growing pipeline of home-grown talent supported by British universities and companies. This is supported by the UK’s new immigration system which prioritises the best talent from around the world through visas such as the Innovator Visa and the fast-track Global Talent Visa.
+Our investment in game-changing science and exploration missions will also inspire the next generation, as well as furthering our understanding of the universe  and our own planet and providing benefits to our communities. We will connect inspirational figures from today’s space workforce with students and young people.
+As in other sectors, the space sector needs its workforce to upskill and retrain over time as the sector innovates and technology progresses. We are reforming the skills system so that it better meets the needs of employers and the economy. We will survey wider training needs and provisions regularly against the requirements of both civil and defence space communities. Guided by the Space Skills Advisory Panel, we will work with employers, training providers and local partners to improve access to quality training. This will be based on assessments of the skills and knowledge currently most in demand among all employers, as well as those needed to support future needs. This does not just mean vital technical skills, but also the business and management skills which help turn science and technology into commercial advantage. The Defence Space Strategy will provide further detail on how we intend to address future defence training provision. 
+Using government procurement to best effect
+Space-enabled services hold vast potential to help government serve the citizens of the UK, from town planning, border security, transport improvement, environment monitoring, through to health and education services. But awareness of the potential of space-enabled services and technologies amongst government purchasers can be low. 
+We will break down the barriers to public sector procurement. Building on the UK’s Geospatial Data Strategy,21 the government has launched a new Dynamic Purchasing System22 to help the wider public sector procure space-enabled technologies and geospatial services and work to explore ways to rationalise the public sector’s procurement of Earth Observation data and services. As set out in the Defence and Security Industrial Strategy, we will improve the speed and simplicity of defence procurement, 
+20  Plan for Jobs, available on GOV.UK21  Unlocking the Power of Location: The UK’s geospatial strategy 2020 to 2025, published 14 July 2020, 
+available at GOV.UK
+22  Space enabled and Geospatial Services, available at crowncommercial.gov.uk
+[Page #32]
+National Space Strategy
+31
+We will work more closely with the financial sector to understand investors’ needs and bring them together with the investment opportunities of our thriving space innovation ecosystem. And through our work to nurture talent, we will build the business and management skills that help entrepreneurs and innovators attract investment from the private sector.
+providing more flexibility in how we procure and support capability and stimulate innovation and technology exploitation. 
+We will ensure that the UK embeds civil-defence dual use at the heart of our approach to government procurement. We will consider how capabilities and outputs can support multiple government departments and commercial users by designing for multiple purposes, where possible, while ensuring that each capability fully meets its core requirements. 
+Our modern legal framework is fit for the new commercial space age. Our new licence processes are low-cost and efficient to ensure the UK is a world-leading destination for spaceflight operators. All operator licences issued under the Space industry Act 2018 will contain a limit of liability, therefore no operator will face unlimited liability for activity carried out in compliance with the act.24 Our launch insurance requirements are tailored to specific activities and set on a case-by-case basis to be proportionate and reflect the diversity of space operations today and in the future. We will also launch a review of options to consider a lower limit of operator liability for in-orbit operations and alternative insurance models to support the needs of small satellite operators.
+Access to finance and insurance
+Space activities often entail high capital expenditure, significant risk, and long periods for return on investment. With space-enabled services and applications, the upfront costs may be lower, but there is less tangible capital to offer as collateral. The UK has an end-to-end offer for space enterprises including an unparalleled financial services centre in the City of London.
+The government-owned British Business Bank (BBB) helps finance markets to work more effectively for innovative firms seeking equity capital. This includes boosting the capacity of angel syndicates, particularly outside London, and investing in selected venture capital funds including those specialising in space technologies. One of these funds has seeded the Seraphim Space Investment Trust, which was recently listed on the London Stock Exchange. This will be the world’s first quoted vehicle investing primarily in space tech businesses. From summer 2021, the BBB will also be investing directly in companies alongside the private sector through a new £375 million programme, Future Fund: Breakthrough.23
+23  Future Fund: Breakthrough further details at the British Business Bank website24  With respect to claims made under section 34 and 36.
+[Page #33]
+32
+National Space Strategy
+Pillar Two: Collaborating internationally 
+a unique platform for sharing knowledge, technical expertise, and resources to achieve shared goals while amplifying our voice within global space endeavours. 
+The UK will become a partner of choice in space activities. The technical and material requirements for space projects mean that governments, institutions, and the private sector must act collectively to ensure a safe, secure, and sustainable future. We must draw on collaborative research and innovation, international opportunities, and global talent to be resilient and competitive. We will increase our bilateral and multilateral partnerships with other spacefaring nations, forging the best relationships to achieve our goals in space.
+We will work through ESA to: 
+• 
+lead cutting-edge missions to explore our solar system – including building a rover to return samples from Mars, components for the Lunar Gateway, and pursuing a lead role in a new comet interceptor mission
+•  develop and access large-scale facilities 
+on Earth or in space and send UK astronauts to the International Space Station
+Building global partnerships 
+•  access the skills and expertise of ESA, including through the ESA centre at Harwell, to deliver programmes that support the UK’s civil and economic interests
+The UK will grow and strengthen our relationships with partners such as the US, Five Eyes, with European states and across the world, working together to solve humanity’s greatest challenges, forging new bilateral partnerships, and expanding existing ones. Our ambition is to fully realise the potential of a new Global Britain focused on advancing shared interests with partners old and new in space. The UK’s new International Bilateral Programme within the pathfinder National Space Innovation Programme has committed funding to projects directly with partners such as NASA and the Japanese space agency, JAXA. The UK will build sustained multi-year collaboration in the future. Improving our bilateral relations will empower us to enhance our commercial and scientific endeavours with some of the world’s most dynamic and emerging space economies.
+•  put British businesses and scientists at 
+the heart of exciting space missions and support ground-breaking innovations
+•  use space to fight the global impacts of 
+climate change by establishing the UK-led TRUTHS calibration laboratory in space
+The UK has agreed to participate in the Horizon Europe and Copernicus EU programmes under the UK-EU Trade and Co-operation Agreement. Participation in these programmes enables UK researchers and technological industries to work closely with the brightest minds in Europe and around the world in delivering crucial environmental and scientific information, earth observation, and innovative research. 
+The European Space Agency (ESA) will remain a close multilateral partnership for the UK for civil science, exploration, climate monitoring, and technical collaboration. ESA brings space actors together. It provides 
+[Page #34]
+National Space Strategy
+33
+UK-Australia Space Bridge
+In 2020 the UK signed the Artemis Accords26
+The UK-Australia Space Bridge, signed in 2021, will unlock improved access to trade, investment and academic research opportunities, better advice to businesses and innovative bilateral collaborations. The UK and Australia share future ambitions for space and have similar plans to increase the size and job creation potential of the sector. This agreement will further develop the longstanding relationship between the two countries which dates to the 1970s when the Black Arrow rockets and Prospero satellite, built in the UK, were launched from Woomera, South Australia.
+This NASA-led international programme creates a shared international vision to facilitate human activity on the Moon and Mars. The UK reaffirms our support for activities to develop the Lunar Gateway and send astronauts back to the Moon over the coming decade. Together with partners, the UK will provide essential support that delivers new UK science, technical skills and inspires the next generation. Our participation will allow the UK space sector to demonstrate its world leading capabilities and deliver complex multi-year projects that foster new innovations.
+Together with local partners, the UK will also use space-based tools and applications to support the development of emerging economies and facilitate new markets. Space-based solutions can be the most effective way to deliver aid, enabling growth in the UK’s space sector and prosperity in partner countries. Since 2016 the UK has forged over 350 new relationships with international organisations across 47 developing countries.25 We will continue to develop global partnerships through collaboration on R&D, trade, development, security, and diplomacy, supporting the development of the economies of the future. And the UK will continue to support the International Disasters Charter which brings states together to share satellite data, enabling rapid response to natural disasters worldwide. 
+Diplomacy for an open and stable international order
+The UK will deliver global leadership on a safe, sustainable, and secure space environment working through international and inter-governmental forums and with our partners and allies. We will help modernise the guidelines governing peaceful and sustainable uses of space in line with UK values. This will ensure the guidelines keep pace with new technologies, ensure a sustainable space environment is available to all, and create opportunities for science and industry. We will also act with our partners to manage the risks posed by space debris, fulfilling the commitments made by the G7 in Cornwall in 2021.27
+International Partnerships Programme, available at GOV.UK
+25 26  The Artemis Accords, published 14 October 2020, available at GOV.UK27  G7 Nations Commit to the Safe and Sustainable Uses of Space, June 2021, available at GOV.UK
+[Page #35]
+34
+National Space Strategy
+Government will lead work with international partners at the UN to establish the framework for internationally recognised responsible space behaviours that would increase the security of space systems. Building on the successful 2020 UK-led resolution28 at the United Nations General Assembly and subsequent UN Secretary General report,29 we will run a further resolution to set up a UN working group to discuss the building blocks and details of responsible space behaviours. We will support global stability through arms-control and non-proliferation regimes and will work with allies to deter hostile activity against space systems including the use of weapons in space. Space sustainability and space security must be considered alongside each other, so the UK will work coherently across the UN Committee on the Peaceful Uses of Outer Space, the Disarmament Commission, and the Conference on Disarmament. Government will meet the challenges of an increasingly contested and congested environment in space through targeted and robust diplomacy.
+We will act to prevent the proliferation of technologies and capabilities that risk being misused and pose a threat in space and on earth through robust export controls. UK strategic export controls restrict the transfer of military and sensitive dual-use space technologies under appropriate international export control regimes, such as the Wassenaar Arrangement and the Missile Technology Control Regime. These include restrictions on space launch vehicles, satellites, satellite payloads, space qualified components and ground segment equipment. The UK is also working to ensure robust controls on downstream activities that could potentially be used to support military operations of concern. We will continue to work with our partners, as well as through other mechanisms such as the Hague Code of Conduct, to promote transparency and ensure effective international controls on the proliferation of emerging sensitive space-related technologies and potential activities of concern. 
+28  UNGA A/RES/75/36, available at https://undocs.org/A/RES/75/3629  Report of the UN Secretary-General on reducing space threats (2021), available at un.org
+[Page #36]
+National Space Strategy
+35
+Operation Olympic Defender
+The UK will protect and defend our space interests by working closely with international partners. We will continue to secure access and uses of space by strengthening existing partnerships and generating new relationships, and NATO has now made space an operational domain.30 We will continue to deepen our collaboration and co-operation on space policy, capability development, intelligence, and operations through the Combined Space Operations initiative (involving Five Eyes countries and France and Germany), and co-ordinate space efforts through joint activities such as the US-led Operation OLYMPIC DEFENDER. 
+The UK was the first nation to join the US-led multinational Operation Olympic Defender. Participating countries are maximising the benefit provided from space and space systems through co-operation across all space missions, preserving the safety of operating in space while enhancing mutual national security. These operations involve partners sharing information and resources as well as co-ordinating their capabilities. The UK’s role is to analyse and share information about space to ensure troops on the ground are aware of threats and their options to maintain access to space services.
+30  NATO’s approach to Space, published 22 April 2021, available at NATO.int
+[Page #37]
+36
+National Space Strategy
+Pillar Three: Growing the UK as a science and technology superpower
+The UK will set long-term space science and exploration goals. Activities in space are highly complex. Missions launched today have been in planning for decades and may take decades more to arrive at their destination. As such, government must be highly strategic in the missions we select and support. International collaboration on science and technology requires long-term and dependable partners, and researchers need certainty on national priorities. We will move to a longer-term strategic planning approach for national space science and exploration, mapped against long-term UK ambitions. We will take appropriate risks to maximise the societal benefits and will ensure funding continuity through the mission lifecycle.
+Government will champion UK-led space science, exploration and innovation which expands our horizons and inspires the next generation. We will leverage our world-class researchers, education, businesses and facilities, building the UK as a science and technology superpower, and in doing so, helping to achieve our goals in space. These activities support our wider goals, tackling global challenges such as climate change, growing and levelling up the economy, and enriching the lives of people in the UK and around the world.
+The government has set targets for total R&D spending to constitute 2.4% of GDP by 2027. Space is benefitting from this step-change increase in investment. Alongside support for fundamental research, research institutes, and blue skies technology, we will build on the success of the National Space Innovation Programme which supports the development of innovations through UK-led collaborations between industry and academia. In the coming decade we will continue to collaborate in high-profile missions such as returning samples from Mars to the Earth for the first time and monitoring the sun for space weather events like solar flares, as well as the NASA-led Artemis programme which will see humans return to the Moon. We will also continue to focus on high quality research missions exploring the Earth and its climate such as the ESA Biomass mission measuring changes in forest carbon.
+We will explore opportunities to increase national mission opportunities and participate in flagship multilateral science and technology missions. There will be opportunities for UK talent to gain mission experience, for instrument developers to do in-orbit demonstration, and for the supply chain of UK SMEs and smaller space universities to diversify. 
+The UK will continue to invest over the next four years in science and technology, and research and development to support the Defence Space Portfolio. The Defence Science and Technology Laboratory, working with wider government, industry, academia and internationally, will support the delivery of defence ambitions set out in the Integrated Review. Their defence science and technology space programme will focus on the generation after next projects ranging from developing future concepts to protect and defend space assets, to technologies to observe and characterise space objects. 
+[Page #38]
+National Space Strategy
+37
+Pillar Four: Developing resilient space capabilities and services
+UK Space Command 
+We have established a new UK Space Command. This joint command will take its policy and strategy direction from the National Space Council and MOD Space Directorate. It will encourage coherence across defence space capability delivery and operations. By harnessing the energy and adaptability of the UK’s space sector, UK Space Command will drive space capability development across defence, to deliver leading capabilities where they are needed, generate the necessary workforce, and conduct day-to-day space operations.
+The UK relies on a broad range of space capabilities every day. These include infrastructure in orbit and on the ground, the people that operate it, and the applications and services that run on it. Secure global communications are key to our ability to protect and defend and support high-speed connectivity to remote and rural communities. Satellite-derived position, navigation and timing signals underpin services such as banking and transportation, as well as almost all the UK’s CNI (including energy, policing and healthcare) and defence operations. Space capabilities are already central to many basic and safety-critical civil functions, and this dependency on space will only increase.
+Our civil space capabilities have grown organically over time in response to rapidly changing needs. In some areas we have mature capabilities and well-understood needs, such as weather forecasting which relies upon both terrestrial monitoring stations, and global satellite data. In other areas, such as PNT, we have a long history of using space to support services such as in-flight navigation, but advancing technologies present new options which are not yet mature and fully realised. And in some areas, the civil possibilities of using space to support our daily lives are only just emerging and are not yet fully understood.
+The UK has a long history of using space-based capabilities to meet its needs, particularly in defence where defence and security-critical needs are mature and well understood. Building on this, we will integrate resilient space capabilities and services across defence domains, including in operational planning, doctrine, capability development, training, and education. This guarantees that space is a fundamental component of our defence moving towards true multi-domain integration and further enhancing our operational effectiveness. Further detail on defence space capability priorities will be in the Defence Space Strategy.
+[Page #39]
+38
+National Space Strategy
+OneWeb
+To deliver our capability requirements, we will employ the Integrated Review’s ‘own-collaborate-access’ framework to guide decisions on how to procure the technologies, services, and systems we need. We will seek to establish a leading role in space-related technologies where there is a realistic prospect of delivering strategic advantage for the UK. We will need skilled experts who can translate the UK’s needs into detailed specifications and technical requirements, enabling government to better collaborate with industry, academia, and wider partners. We will work together with the sector to test new technologies, processes and operations that can underpin the development of more advanced UK space capabilities.
+In 2020, the UK took a $500 million equity share in OneWeb, an innovative, low-earth orbit satellite communications company. By 2022 OneWeb will have over 600 satellites in orbit, providing global reach and global broadband connectivity. Investing in OneWeb contributes to the government’s commitment to making the UK a world leader in space and in science, research and development and supports the government’s aspirations for UK leadership in space-enabled capabilities and services.
+Government will regularly map and fully understand its capability needs from space as technology advances and new opportunities emerge. We will increase our space expertise and build greater control over a larger range of space capabilities. We will need a flexible approach to determining where space capabilities can be most useful and where dual-use capabilities can best meet civil and defence needs. In some cases, only space can offer solutions – while, in others, a combination of space-enabled and terrestrial technologies will be necessary.
+[Page #40]
+National Space Strategy
+39
+The key civil and defence capability priorities for the UK are described in the table below:
+Capability
+UK activity
+The UK will invest around £5 billion over the next 10 years in our military satellite communications programme, delivering through the Skynet 6 programme and investigate the dual use applications of free-space optical communications systems. We will also investigate new waveforms and encryption methods to provide better end-to-end protection. The UK will foster UK innovation in satellite communications technologies through ARTES: the European Space Agency’s Advanced Research in Telecommunications Systems programme.
+Satellite CommunicationsGlobal, secure, and resilient communications and information exchange via satellites and ground stations for civil and defence purposes.
+The UK will develop a constellation of small ISR satellites with supporting architectures and invest in both earth observation data infrastructure and hardware development capability. The UK also intends to develop and benefit from the Copernicus Earth Observation programme under the terms of the UK-EU Trade and Co-operation Agreement.
+Earth Observation (EO) and Intelligence, Surveillance and Reconnaissance (ISR)The ability to gather Earth observation data and electronic intelligence anywhere on the planet, for both civil and defence use. 
+The UK will establish a civil/defence National Space Operations Centre. UK Space Command will be in the lead for command and control operations. National Capability management will be undertaken from a joint civil and defence perspective where appropriate.
+Command-and-Control, and Space Capability ManagementThe organisational structures and process which enable us to direct our resources for activities and missions in space.
+The UK will ensure the right space control systems and processes are in place, as part of the Defence Space Portfolio, to give the UK supplementary abilities to protect and defend our space interests.
+Space ControlThe ability to ensure our space capabilities have adequate resilience to disruption from adversarial activity and operational freedom in space.
+[Page #41]
+40
+National Space Strategy
+Capability
+UK activity
+Government is evaluating the case for investing in resilient PNT capabilities through a mix of innovative new terrestrial and space-based technologies.
+Position, Navigation and Timing (PNT)PNT is the ability to determine location, time, and relative direction accurately and precisely. It enables 4G and 5G communications networks, supports navigation on land, at sea, and in the air, and supports the capabilities of our armed forces. 
+We will be the first country to launch a small satellite from Europe in 2022 from the spaceports being developed across the UK. Current proposed spaceports are located in Scotland’s Shetland Isles, Sutherland, Argyll, Prestwick, and Outer Hebrides; Snowdonia in Wales; and Cornwall in England.
+Orbital Launch CapabilitySpaceflight is a prerequisite to acting in space. Launch capabilities are needed to deliver satellites into Earth’s orbit, carry humans on suborbital and orbital spaceflight, conduct suborbital science and technology experiments and send payloads beyond Earth’s orbit to the Moon, Mars, and other parts of the solar system.
+The UK will explore advanced in-orbit debris removal servicing, refuelling and assembly technologies nationally and in partnership with others, including ESA. In time, we will be able to build and repair satellites in orbit, conduct commercial activities including producing fuel and materials in space to support robotic and crewed space activity, and conduct defence operations to protect and defend our interests in and from space.
+In Orbit Sservicing and Manufacturing (IOSM)Many of the UK’s key capabilities rely on satellites in orbit. New technologies will enable the UK to service and maintain our satellites to maximise resilience, effectiveness, and value for money.
+The UK will expand existing dual-use sensor and data networks, adding the ability to task sovereign sensors, understand space weather, and exploit space surveillance and tracking data. The civil and defence National Space Operations Centre will provide space domain awareness information to industry. The commercial integration cell will continue to provide the vital link between industry and defence in enhancing Space Domain Awareness.
+Space Domain Awareness (SDA)The detection, identification, and tracking of objects in space and understanding the effects of space weather to ensure the UK has knowledge of what is occurring in space.
+[Page #42]
+National Space Strategy
+41
+Ten Point Plan: Initial focus areas
+2.  Fight climate change with 
+KEY: Initiatives by strategic pillar
+space technology
+  Growth and competitiveness
+  Science superpower
+The UK will not reach its goal of net zero emissions by 2050 without a clear understanding of how climate change is impacting the Earth, to guide crucial decision-making and investments. We will strive to remain at the forefront of earth observation technology and know-how, including by participating in Copernicus, the world’s leading global earth observation programme and working with partners in ESA on the TRUTHS mission to deliver a tenfold improvement in accuracy. 
+International collaboration
+  Resilient capability 
+Government cannot pursue every space-related activity now. We must make tough strategic choices and target resources to pursue the highest impact opportunities and the critical cross-cutting enablers that will lay the groundwork for a thriving future in space. 
+3.  Unleash innovation across the 
+1.  Capture the European market in commercial small satellite launch
+space sector
+Our UK Innovation Strategy identifies the priority technologies that will drive innovation and growth in the space sector – from robotics and smart machines, advanced materials and manufacturing to AI, digital and advanced computing. This includes strengthening the pull-through of innovation into commercial opportunities to expand UK exports, intellectual property, and know-how. For example, we will build on the success of the National Space Innovation Programme to encourage the development of cutting-edge space products. 
+The UK will achieve the first small satellite launch from Europe in 2022 with the aim of becoming the leading provider of commercial small satellite launch in Europe by 2030. Government is investing to develop spaceports across locations in England, Scotland, and Wales, laying the groundwork for end-to-end UK services building, launching, and operating small satellites, and working closely with industry to implement modern regulations and create favourable conditions for launch. 
+[Page #43]
+42
+National Space Strategy
+4.  Expand our horizons with space 
+6.  Lead the global effort to make 
+science and exploration
+space more sustainable
+We will put space at the heart of our ambition to lead the world as a science and technology superpower. The UK’s national programme of space science and exploration will better focus on UK strengths and priorities, and we will strengthen bilateral relationships with established and emerging space nations to maximise benefits on shared objectives. Missions such as the US-led Artemis programme open the door for greater UK involvement in human spaceflight and provide opportunities for UK companies to innovate and develop future manufacturing capabilities. 
+We will build on UK early advantage in robotics and in-orbit servicing and manufacturing to establish global leadership in space sustainability. This includes positioning the UK at the forefront of modern regulation for novel space activities, while keeping space sustainable, safe, and secure. The UK is leading efforts at the UN to promote safe space operations that will benefit all. We will explore advanced in-orbit debris removal, servicing, refuelling and assembly technologies, bringing together industry, academia, and government to ensure the UK is ready to grasp the opportunities of the future space economy. 
+5.  Develop our world-class 
+space clusters
+7.  Improve public services with 
+space technology
+The government will work with the space sector to support, connect, and level-up locally-led space ecosystems across the UK, capitalising upon sector expertise from Cornwall to the Shetland Islands, Durham to Newport and Portsmouth to Belfast. We will link local clusters into valuable networks of innovators and investors, showcasing the strengths of the UK space sector and leveraging the Harwell cluster in the Oxford-Cambridge Arc to provide a compelling ‘front door’ for international investors in the heart of the UK’s leading space business hub.31
+We will improve key public services spanning healthcare, the environment, transportation, and infrastructure by identifying where space-enabled applications already available on the market could improve lives and reduce costs for the taxpayer. The potential real-world benefits are numerous and diverse from satellite-enabled NHS drones to turning around test results in remote areas faster, to space-enabled sensors and tracking that detects problems in critical infrastructure before they cause outages. We will pilot new delivery with the possibility of rolling out to other UK locations throughout the decade. 
+31  Oxford-Cambridge Arc, available at GOV.UK
+[Page #44]
+National Space Strategy
+43
+8.  Deliver the UK Defence 
+10. Use space to modernise and 
+Space Portfolio
+transform our transport system 
+Space technology will underpin the modernisation and transformation of the UK transport system, providing enhanced connectivity and positioning services, ensuring safe and reliable operation, and resilient infrastructure. We are supporting innovative public transport projects across the UK, made possible by space-enabled technologies, such as the T-Cabs project to build and trial a fleet of self-driving shuttles. We are also facilitating shared services for short journeys through GPS enabled geo-fencing solutions, including national trials of environmentally friendly e-rental scooters.
+Having established Space Command, we will launch a National Space Operations Centre, fusing civil and defence expertise to monitor, protect, defend, and promote UK interests in Space. We will launch the UK’s first Defence Space Portfolio to be detailed in the Defence Space Strategy, developing independent space domain awareness capabilities to protect UK satellites, and advancing our secure satellite communications programme, Skynet. We will develop a small constellation of Intelligence, Surveillance and Reconnaissance satellites and explore other new initiatives to protect and defend the UK, pulling through advanced technologies from R&D to operation and exploring opportunities for dual civil and defence use. 
+9.  Upskill and inspire our future 
+space workforce
+We will partner with employers to help more young people gain access to work placements and apprenticeships in rewarding careers such as space engineering and space systems. Guided by the Space Skills Advisory Panel, we will work with employers, training providers and local partners to promote quality training in the skills required by the space sector. These include not only technical skills, but also the business management skills that help turn science and technology into commercial advantage. Finally, we will use the wonder of space to inspire the next generation into STEM careers, inviting space professionals to lead exciting activities and competitions in schools, from building satellites to designing space habitats. 
+[Page #45]
+44
+National Space Strategy
+Part Four:  Implementation
+© NASA/ESA
+[Page #46]
+National Space Strategy
+45
+Next steps
+Space is unique in its capacity to grow our economy, transform our society and inspire us to greater heights of human progress. This strategy has set out our vision and the goals the government will pursue to make the UK a meaningful actor in space, drawing on our proud heritage and strengths in industry, science and technology, and innovation. 
+Following the Spending Review, we will develop a delivery framework to set out the government’s detailed plans to achieve the vision and goals of this strategy, in partnership with the space sector. Working with industry, we will consider a range of metrics to evaluate the delivery of the strategy and the performance of the identified sub-sectors, to ensure the UK space economy continues to grow and develop in line with our vision and goals.
+The strategy will be supported through four phases: 
+In the Ignition Phase from 2022 to 2023, we will implement the National Space Strategy by establishing programmes funded through the Spending Review to deliver on the strategy goals, establishing new space relationships, and building on our leadership as a science superpower, as well as seeing the first UK orbital launches. 
+In the Countdown Phase towards the end of 2021, as well as publishing the National Space Strategy:
+• 
+the government will publish our Defence Space Strategy to outline how defence will achieve the national space ambitions
+•  alongside the National Space Strategy, the government has also published our Severe Space Weather Preparedness Strategy,32 which sets out a five-year vision for boosting UK resilience to the risk of severe space weather
+In the Thrust Phase leading to 2030, we will see the benefits of the strategy embed into the UK economy, society, and daily life. Leadership in new technologies and new markets will emerge through UK innovation, entrepreneurialism, and targeted government support. 
+• 
+the Comprehensive Spending Review Process will set budgets for government space activities into the coming years, with this strategy providing the direction to align resources with space ambition
+In the Orbit Phase from 2030 onwards, we will re-evaluate the Space Strategy, assessing our progress against our goals, and ensuring the UK adapts to a changing space environment. The UK will reinforce our leadership in areas of the space economy and renew our commitments to science and technology, innovation, and defence.
+32  Severe Space Weather Preparedness Strategy, September 2021, available at GOV.UK
+[Page #47]
+46
+National Space Strategy
+Orbit phase (2030 onwards)• Reassessed strategy and priorities 
+including: – progress on potential emerging 
+sectors reviewed
+ – maintenance and continual improvement of national space ecosystem
+4
+ – international credibility as 
+space power
+ – reinforced leadership as influential 
+science superpower
+Thrust phase(2023 to 2030)• Accelerated progress including: – leadership sustained in existing 
+strengths
+ – leadership gained in high-growth areas
+3
+ – foundations laid in potential 
+emerging sectors
+ – expert status sustained in space 
+regulatory frameworks – investment scaled leading to 
+ground-breaking discoveries
+Ignition phase(2022 to 2023)• Core foundations and mobilisation 
+including: – funded programmes established 
+according to the strategy and spending review
+2
+ – bilateral partnerships enhanced
+Countdown phase(through end 2021)• Space strategy and:
+ – Defence Space Strategy – Severe Space Weather Preparedness Strategy – Spending Review 2021 – Delivery Planning and new 
+1
+Today
+governance established
+[Page #48]
+National Space Strategy
+47
+As the UK implements the strategy and achieves the goals and vision we have set out, we will:
+We are levelling up the United Kingdom and will ensure that the space economy works for all parts of the UK. The government will engage with the devolved administrations to fully understand the needs of their local space economies and enable space clusters of excellence to grow and thrive. 
+•  be a modern, agile, and innovative spacefaring nation, a science and technology superpower, and be led by private sector enterprise supported by government
+The UK has some of the greatest minds and skills within the space sector and the government will ensure that this expertise informs every step of the implementation of the strategy. Therefore, the government will invite regular insight, advice, and challenge from industry experts and wider stakeholder to inform the delivery of the strategy. 
+•  have enhanced space security and 
+assurance through increased autonomy and more diverse collaboration
+• 
+focus the government’s investment, driving segmental leadership, growth, and discovery, across the whole of the UK
+• 
+lead in the sectors of the future and fast-growing downstream operations and services
+[Page #49]
+48
+National Space Strategy
+Organisation of government activities
+To achieve these ambitions, the government will implement an integrated approach to space activities to accelerate progress, innovation, and growth. We will improve the clarity and efficiency of space policy across government. 
+•  Research and Innovation, which are key agencies for the delivery of this strategy. Through its arms-length bodies, it uses satellite-enabled capabilities to monitor land use, deliver accurate weather forecasting, and coordinate resilience to space weather.
+In 2019, the government announced the National Space Council, a Cabinet Committee chaired by the Prime Minister. The council was stood up in 2020, with the role of setting the national ambition for space, providing strategic direction to the cross-government approach to space and developing this strategy. 
+•  The Ministry of Defence works for a secure and prosperous UK with global reach and influence, protecting its people, territory, values, and interests at home and overseas. It is responsible for ensuring we can protect and pursue our interests in and through space, and meeting the needs of our armed forces, as well as developing capabilities with built-in opportunities for potential collaboration across government, with international partners and the private sector.
+We will ensure there is a clear cross-government approach to national space policy, governance, and delivery. Work to define this cross-government approach is being commissioned as part of this strategy’s implementation plan to deliver integrated working across the civil, defence, and wider governmental interests in space, reducing the challenges of delivering dual use programmes.
+•  The UK Space Agency develops and delivers UK civil space programmes, based on its deep competence in space science and technology and its partnerships within government, across the UK sector and with international space institutions. It enables delivery of national space capabilities, invests in early-stage R&D and helps to represent the UK in international space co-operation. 
+The principal government departments and agencies with responsibilities for delivering the National Space Strategy are outlined below. All government departments will consider the use of space-enabled services and technologies in the delivery of their activities, ensuring the best value for money solutions for the citizen.
+•  UK Research and Innovation invests in multidisciplinary R&D across the UK by supporting academic research and commercialisation that advance scientific discovery and tackle real-world challenges. Its strategic investment underpins and directly supports the exploitation of space technologies, pioneering scientific discovery, UK capabilities and skills development.
+•  The Department for Business, 
+Energy and Industrial Strategy is the central department with co-ordinating responsibility for civil space policy. It is also the sponsoring department of the UK Space Agency and UK 
+[Page #50]
+National Space Strategy
+49
+•  The Foreign, Commonwealth and Development Office pursues UK national interests, works to avoid conflict in space and projects the UK as a force for good in the world building relationships between states, partnering with allies at NATO and influencing the UN on the use of ‘space for good’ and responsible space behaviours. It promotes space technology which has the potential to be truly transformative in delivering on the challenges of the 2030 Sustainable Development Agenda,33 Paris Agreement,34 and the Sendai Framework.35
+•  The Department for Environment, 
+Food, and Rural Affairs is responsible for ensuring appropriate environmental regulation for England around space activities and promoting use of Earth observation technologies across government, both in the UK and internationally in support of the environment and our rural economy, contributing to national prosperity. 
+•  The Department for Digital, Culture, Media, and Sport aims to increase growth and productivity through improved digital connectivity. It is responsible for working with Ofcom to ensure that the frequency spectrum required to enable every aspect of our activities in space is well regulated, allocated, and licensed to meet the needs of all sectors and technologies across both civil and defence domains. 
+•  The Department for Transport is 
+responsible for supporting the transport network to get goods and people travelling. In space this is ensuring the Space Industry Act and Space Industry Regulations continue to provide a modern legal framework that is internationally competitive and will support innovation and growth in the UK space sector. It will ensure that new spaceflight activities regulated under these provisions by the Civil Aviation Authority are safe and provide the right opportunities for industry.
+•  The Cabinet Office is responsible for co-ordinating the security of the realm and to support the design and implementation of HM Government’s policies and the Prime Minister’s priorities. It leads UK policy on geospatial data, Critical National Infrastructure and the National Risk Assessment including space and severe space weather. It also co-ordinates satellite data for emergency management and manages the secretariat for the National Space Council.
+•  The Department for International 
+Trade leads the UK’s trade relationships, facilitates foreign direct investment into the space sector competitively and securely, enables exports to global markets including working with UK Export Finance, and jointly enforces the UK’s strategic export controls over dual-use space technologies and services.
+33  Transforming our world: the 2030 Agenda for Sustainable Development, available at sdgs.un.org34  The Paris Agreement, available at unfcccc.int35  The Sendai Framework for Disaster Risk Reduction, available at undrr.org
+[Page #51]
+50
+National Space Strategy
+This publication is available from: https://www.gov.uk/government/publications/national-space-strategy
+If you need a version of this document in a more accessible format, please email enquiries@beis.gov.uk. Please tell us what format you need. It will help us if you say what assistive technology you use.
+[Page #52]
+None

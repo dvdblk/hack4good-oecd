@@ -1,0 +1,394 @@
+[Page #0]
+Decrypting the UK's high-growth quantum technology companies
+July 2023
+[Page #1]
+Executive summary           Introduction           Business demography         Funding and innovation         Methodology         About
+The UK’s 51 active, high-growth quantum technology companies are concentrated in the South East of England, particularly around the "Golden Triangle" of the university cities of Cambridge, London, and Oxford. This aligns with the fact that 24 (47.1%) of the companies are academic spinouts, which often base themselves near the institutions they originated from to access facilities and other support services.
+security measures, such as encryption and decryption techniques. Artificial intelligence is the next most populous sub-sector, with seven active quantum companies. Companies with operations at the intersection of these two emerging technology areas are innovating in applications from data analysis to drug discovery.
+Executive summary 
+Companies with all-male founding teams dominate the sector, accounting for 76.3% of the active population of quantum businesses. Companies with mixed-gender founding teams account for 18.4% of the companies, with all female-founded companies accounting for the remaining 5.26% of companies. Most founders of UK high-growth quantum companies are UK nationals (73.7%), 17.1% of founders have a European nationality, and the remaining 9.20% of founders have non-UK or non-European citizenship.
+The UK’s active, high-growth quantum technology companies secured a record £98.9m in equity investment in 2022 via 21 deals. This beats the previous record value of £86.5m secured in 2020 via 23 deals. Top investors in the UK’s quantum technology companies over the last decade include Parkwalk Advisors with nine deals, Oxford Science Enterprises with eight, and Entrepreneur First with five deals.
+While the UK’s quantum sector is still nascent—like quantum technology itself—there is an exciting group of companies across the country securing record public and private funding to support their growth.
+Last year was also a record for the total value of grant funding secured by quantum technology companies. The companies won £24.8m in grant funding via 54 awards, beating the previous peak by value of £23.8m in 2020 from 58 awards.
+While the UK’s quantum sector is still nascent—like quantum technology itself—there is an exciting group of companies across the country securing record public and private funding to support their growth.
+The top sub-sectors and emerging sectors are digital security, with 12 active companies with some operations in this area. This aligns with the unique capabilities of quantum technologies in enhancing 
+Page 1
+[Page #2]
+Executive summary           Introduction           Business demography         Funding and innovation         Methodology         About
+faster and more precise solutions.
+In addition to academic support, the UK government’s commitment to quantum technologies—as set out in the National Quantum Strategy—further amplifies the industry’s growth trajectory. Ongoing investments in research and development, infrastructure, and talent development programs will foster the expansion of  the quantum ecosystem. Such support will attract more companies to the UK, further driving technological advancement.
+Introduction to quantum
+However, the field of quantum computing remains relatively nascent, requiring specialised hardware designs and error correction techniques to maintain the delicate quantum states. While research remains vital, there are significant technical challenges that must be overcome for its successful commercialisation, often requiring specialised environments. This might be a reason why academic spinouts constitute half of the UK’s quantum computing ecosystem, as they benefit from academic support and access to specialised facilities.
+The UK quantum ecosystem consists of a robust network of organisations, research institutions and innovative companies that are harnessing the power of quantum technologies for various applications. These range from encryption techniques within the cybersecurity sector to speeding up engineering processes. This report focuses on the demographics of high-growth quantum technology companies, including the public and private funding landscape.
+This report includes data on the 51 active, high-growth quantum companies headquartered in the UK. These companies employ over 500 people based on their latest accounts filed at Companies House. Where relevant, the report includes data for companies that have previously been part of the active category but have exited through acquisition or via an initial public offering (IPO) and those that have ceased operations. The report focuses on UK SMEs using quantum technologies to drive progress in the technology ecosystem nationwide. Quantum-driven advancements show immense potential across a range of strategically important fields, such as drug discovery, cryptography, security services, and  artificial intelligence (AI)—setting the stage for transformative outcomes.
+Looking towards the future, the UK’s quantum ecosystem holds great promise and potential. Continued advancements in error correction techniques, scaleability, and integration will play pivotal roles in overcoming technical challenges and facilitating the widespread adoption of quantum computing. Building upon its robust academic foundation and position as a research leader, the UK is well positioned in the global quantum race. The close collaboration between universities, research networks, and quantum companies provides fertile ground for innovation and knowledge transfer—propelling the industry forward. 
+At its core, quantum computing employs qubits—quantum bits capable of existing in multiple states simultaneously, enabling parallel processing and offering exponential speed advantages over classical computers. Quantum technologies offer revolutionary possibilities in communication, cryptography, sensing and simulation— empowering companies, governments, and institutions with
+Page 2
+[Page #3]
+Executive summary           Introduction           Business demography         Funding and innovation         Methodology         About
+Business  demography
+High-growth quantum companies are concentrated in the South East, especially around academic hubs. Top sub-sectors for quantum companies include digital security services and AI. Gender diversity is low among founders, though age is well-distributed. Most founders are UK nationals. Nearly half of quantum companies are academic spinouts, with spinouts  from the University of Oxford having secured the most  equity finance.
+Page 3
+[Page #4]
+Executive summary           Introduction           Business demography         Funding and innovation         Methodology         About
+Regional distribution
+Regional distribution of high-growth quantum companies (June 2023) 
+Number of quantum companies headquartered per UK region
+The regional distribution of quantum companies in the UK highlights a notable concentration in the South East, where 11 companies are headquartered. This concentration can partly be attributed to the strength of quantum research at the University of Oxford, which has spun out eight quantum technology companies. The region’s strength in the sector is also bolstered by the presence of the National Quantum Computing Centre, a UK Research and Innovation (UKRI) funded quantum computing research centre based in Harwell.
+0
+11
+3
+1
+Nearly half (47.1%) of the active population of high-growth quantum companies are spinouts. These companies are clustered around the "Golden Triangle" of the university cities of Cambridge, London, and Oxford.
+4
+4
+6
+2
+9
+11
+4
+Page 4
+[Page #5]
+Executive summary           Introduction           Business demography         Funding and innovation         Methodology         About
+computing out of the lab and into the commercial ecosystem. So we set up Phasecraft to do that. And since then, we've grown from nothing to a team of about 19 people based in Bristol and London. And we're really focused on this goal of making practical quantum computing happen as soon as we possibly can,”  says Montanaro.
+Company spotlight:Phasecraft 
+This approach is creating results for the company, with several records for quantum algorithms set by the team. “We've developed the world's fastest quantum algorithms for solving some particular tasks in modelling and simulating quantum systems by hundreds of thousands or millions of times compared with the best previous work. We've also implemented the world's most complex experiments of implementing some of these quantum simulation tasks, like modelling a quantum mechanical system on a quantum computer in collaboration with our partners at Google,” says Montanaro. 
+"Phasecraft is the quantum algorithms company. We're trying to develop ultra-efficient algorithms for near-term quantum computers to enable them to solve really important problems like developing new batteries, new solar cells, that kind of thing,” explains Dr Ashley Montanaro, Co-Founder and CEO of the Bristol and London-based company.
+Phasecraft was launched in 2019 as a spinout from the University of Bristol and UCL by Montanaro and his co-founders, Dr Toby Cubitt and Dr John Morton. It raised £750k in pre-seed funding in March 2019 from several investors, including the UCL Technology Fund and Parkwalk Advisors, followed by a £3.7m seed round in 2020 led by LocalGlobe. “We thought in 2019 that it was the time to take quantum 
+Partnerships are essential for Phasecraft to help it determine practical applications for its technology. Montanaro explains that such partnerships are engagements that are win-win, with each side benefiting from the expertise of the other. “These are primarily R&D partnerships where we're working closely with their scientists to try to understand the 
+Page 5
+[Page #6]
+Executive summary           Introduction           Business demography         Funding and innovation         Methodology         About
+Commenting on the marathon journey to reach the full promise of practical quantum computing in the UK, Montanaro is positive but notes that the government has a role to play in supporting funding initiatives and access to talent, though it is already doing good work in the sector. He describes that the government’s role could involve “breaking down barriers when it comes to bringing in the most talented people from all over the world or working with PhD students, again, from all over the world at some of our best universities.”
+potential of quantum algorithms for solving their problems.” Phasecraft is working in partnership with multinational chemical company Johnson Matthey for modelling battery materials, among other material science applications of the quantum  company’s technology. 
+"I think the UK is a great place to set up a quantum computing startup, or a quantum technology startup more generally, and you can see this just by the sheer numbers of startups that have been founded in the UK compared with other countries in Europe, or indeed most other places in the world…"
+Relationships with hardware companies are also important, given that the company produces algorithms that it needs to test on the most cutting edge hardware available. Montanaro notes that the UK lacks large-scale quantum hardware that may be easier to access in the US but is optimistic about the UK as a place to start a quantum company: “I think the UK is a great place to set up a quantum computing startup, or a quantum technology startup more generally, and you can see this just by the sheer numbers of startups that have been founded in the UK compared with other countries in Europe, or indeed most other places in the world… One thing that we do not have in the UK compared to the US are these very large tech organisations such as IBM, Google, Microsoft, Intel, who are investing substantially in quantum computing and often have very significant and well-funded hardware efforts.” 
+Though it is still early days for Phasecraft in its mission to use quantum algorithms to solve practical problems—and for the sector overall—Montanaro is optimistic.“I think the future is going to be bright for quantum computing in the UK.”
+Dr Ashley Montanaro 
+Co-Founder and CEO of Phasecraft
+Page 6
+[Page #7]
+Executive summary           Introduction           Business demography         Funding and innovation         Methodology         About
+such as QuantrolOx, which develops machine  learning-based software for quantum control, or Secqai, an AI-based cybersecurity software company.
+sector and the analytics and insights sector each encompass five companies, effectively accommodating the rapid advancements in the field of quantum computing. An example of this is Liverpool-based Zaiku Group, which provides research and consultancy services in the fields of AI, blockchain, and encryption.
+Top sub-sectors
+The leading sub-sector in the UK quantum industry, with 12 companies, is digital security services. This prominence can be attributed to the unique capabilities of these technologies in enhancing security measures, such as encryption and decryption techniques. The growth of this sub-sector reflects the rising demand for tools capable of managing and safeguarding sensitive data communications as societies become increasingly digitised. Companies leading in this sub-sector include Crypta Labs, which develops quantum random number generator hardware and software components for cryptography purposes.The London-based company has raised £4.09m over seven rounds of funding and has received ten innovation grants, totalling £1.44m.
+While quantum is most commonly associated with hardware and software, the UK has seen a large increase in the number of companies specialising in research and consulting services. The consulting 
+Top sub-sectors by number of active high-growth quantum companies (June 2023) 
+A close second is the AI sub-sector, with seven companies. The intersection of quantum computing and AI has created a cohort of companies developing breakthroughs in the fields of data analysis, machine learning, and optimisation. This includes companies 
+Page 7
+[Page #8]
+Executive summary           Introduction           Business demography         Funding and innovation         Methodology         About
+quantum chemistry to solve a real pain point in the pharmaceutical industry—identifying novel and stable drug molecules. Cambridge-based Kuano leverages AI-led chemistry and target quantum mapping in its drug discovery platform to accelerate drug development and generate potential candidates with greater selectivity and efficiency.  
+Company spotlight: Kuano 
+To prove the technology, Kuano raised a £150k pre-seed investment round in March 2020. “We had some initial in silico proof of concepts that we wanted to finalise,” explains Stojevic. The company has subsequently raised an additional £1.17m to support its growing operations, which include a wet lab to help prove its platform and help open doors with pharmaceutical companies. Stojevic notes that navigating funding and partnership discussions with those not as well-versed in the field can sometimes be challenging: “Investors and the pharmaceutical industry are most interested in our platform, which also excites us. But that has a number of components we need to then translate.  We’re working with AI and futuristic quantum simulations, we want to explain this and get people excited about it.”
+“We’re aiming to design really superior molecule candidates for enzyme targets; this is a frustrated need in the industry,” explains Dr Vid Stojevic, Co-Founder and CEO of Kuano. “The vast majority of enzymes have not been drugged, and the reason for that is not the biology, but the chemistry. The fundamental roadblock in opening up that space is quantum, or molecular simulations in general.” 
+Stojevic and his co-founders CTO David Wright, Head of Chemistry Parminder Ruprah, and Senior Medicinal Chemist Jarryl D’Oyley launched Kuano in 2020, looking to capitalise on their expertise across quantum physics, AI, and chemistry. The co-founders recognised the potential of using 
+The biggest challenges Kuano faces in the near future are commercials, such as convincing pharmaceutical partners that its quantum simulation approach yields 
+Page 8
+[Page #9]
+Executive summary           Introduction           Business demography         Funding and innovation         Methodology         About
+Kuano has benefitted from the support available for quantum technology and biotech companies in the UK and is looking to build on this foundation to grow overseas, particularly in the US, as it further commercialises its technology. “There are things in the UK that we've benefited from a whole lot, like winning quite a few Innovate UK grants. The networks associated with these are super helpful. We've obviously benefitted from programmes like Enterprise and Investment Scheme and Research and Development tax credits. All these things are massively helpful— not many countries have the equivalent,” says Stojevic. He explains that a natural next step  for the company will be to turn to the US. “We are looking to scale up bigand requires going to the US. The scale of the North American companies and markets is immense, we can feel that pull already, even though perhaps we’re not quite at that stage yet.”
+results. “It's a challenge sometimes,” explains Stojevic. Another commercial challenge is that the company is not developing a software-as-a-service type product and is instead focused on building a business model that is more akin to a traditional biotech company, albeit enabled by quantum simulations. “What that means is that the bar to entry is quite high,” says Stojevic. He explains that the company is taking a two-pronged approach. Initially, focusing on shorter-term projects with pharmaceutical partners where Kuano is paid milestone payments based on chemistry milestones with a longer-term focus on developing drug molecules in-house and then licensing these promising candidates to pharmaceutical companies once they reach a certain stage. 
+"There are things in the UK that we've benefited from a whole lot, like winning quite a few Innovate UK grants. The networks associated with these are super helpful. We've obviously benefitted from programmes like Enterprise and Investment Scheme and Research and Development tax credits. All these things are massively helpful— not many countries have the equivalent."
+Vid Stojevic 
+Co-Founder and CEO of Kuano
+Stojevic describes that a current focus for the  company is growing its commercial teams to focus on this stage of its growth.  “We need to get more business development and executive people into the company. And we’ve started doing that at the board level. It has been an area where we lack experience because most of us, including myself, come from an  academic background.”
+Page 9
+[Page #10]
+Executive summary           Introduction           Business demography         Funding and innovation         Methodology         About
+The UK is a prominent hub for quantum research, supported by strong government backing. Naturally, many founders are UK nationals (73.7%), indicating a robust domestic presence. Additionally, 26.3% of quantum founders in the UK come from abroad,  highlighting the international appeal of the country as an attractive place for founders to base their businesses. This is likely due to the supportive 
+regulatory environment the UK provides Reserach & Development (R&D)-intensive companies, alongside leading research institutions, a strong talent pool, and access to funding. This diverse representation contributes to the growth and dynamism of the quantum ecosystem in the country. 
+Founder diversity
+As of June 2023, female-only founding teams represented just 5.26% of the high-growth quantum ecosystem. The gender composition of founders within the quantum industry remains unbalanced, with all-male teams representing 76.3% of the sector. Nevertheless, there is a silver lining as 18.4% of quantum companies consist of mixed-gender founding teams.
+Gender composition of high-growth quantum company founding teams (June 2023)
+Age of high-growth quantum company founders (June 2023)
+Nationality of high-growth quantum company founders (June 2023)
+The founders in the sector come from a diverse range of age groups. The significant representation of founders in the 30-39 (31.1%) and 40-49 (32.4%) age brackets may be attributed to senior researchers at universities transitioning from academia to focus on spinout companies. These individuals, with extensive research careers and access to specialised facilities and academic networks, contribute to the relatively higher presence of founders in these age brackets. This may also explain the low proportion of founders in the 20-29 (4.05%) age bracket, who would likelystill be pursuing their academic careers and building a network in the sector.
+5.26%
+4.05%
+9.2%
+4.05%
+8.11%
+18.4%
+17.1%
+31.3%
+20.3%
+76.3%
+73.7%
+32.4%
+20-29
+UK
+All male
+30-39
+Europe
+Mixed gender
+40-49
+Rest of the world
+All female
+50-59
+60-69
+70+
+Page 10
+[Page #11]
+Executive summary           Introduction           Business demography         Funding and innovation         Methodology         About
+Spinout distribution
+Regional distribution of quantum spinouts (June 2023)
+The UK has established itself as a hub for IP-rich spinouts, with nearly half (47.1%) of the total quantum population comprising of academic spinouts. Oxford University leads the way with eight active companies, accounting for one-third of all quantum spinouts. These businesses have collectively raised £164m in equity finance, accounting for 76.6% of the total funds raised by all quantum spinouts in the UK. Oxford University’s spinout portfolio includes notable companies such as Oxford Ionics and Quantum Dice.
+University of Glasgow1
+University of Leeds2
+The University of Bristol is another prominent player in the quantum ecosystem, with a portfolio of four spinouts. The institution's dedicated quantum research facility encapsulates its wide-ranging research from theory to technology. In addition, it actively fosters partnerships with the private sector, solidifying its impact in the field.
+University of She�eld2
+Lancaster University1
+University of Cambridge3
+University of Oxford8
+University College London2
+University of Bristol4
+University of Sussex1
+University of Southampton1
+Page 11
+[Page #12]
+Executive summary           Introduction           Business demography         Funding and innovation         Methodology         About
+Founded in 2019, Oxfordshire-based Oxford Ionics develops trapped ion quantum computers. Unlike some of its peers, which rely on lasers to control the qubits in their trapped ion computers, Oxford Ionics uses its patented Electronic Qubit Control system, allowing the company to integrate its technology with standard semiconductor manufacturing processes. Ballance says this allows the company to use “the same kind of production line that can build chips for cars, cell phones, or laptops”. 
+Company spotlight :Oxford Ionics
+“The problem with quantum computers is that you go through a trough of disillusionment,” says Dr Chris Ballance, Co-Founder and CEO of Oxford Ionics, explaining the challenge the UK’s quantum sector faces. “The reason you go through a trough of disillusionment is people see short-term progress and extrapolate. And there's a lot of work that goes in the middle,  taking short-term prototypes into  sustainable products.” 
+Ballance and his co-founder, Chief Technology Officer Thomas Harty, attained their PhDs in quantum computing from the University of Oxford and were on the brink of heading abroad for post-doctoral work before the UK’s National Quantum Technologies Programme launched in 2014. This provided the pair with the funding they needed to execute the ideas they had to advance the field of quantum computing. “After a few years, we got to the point where we had demonstrated quite a few world records using our technology,” says Ballance. He and Harty asked themselves, “Why is no one else doing it the way we’re doing it?” Following a conversation at a Royal Society dinner with Hermann Hauser, serial entrepreneur and founder of semiconductor designer Arm, the pair were encouraged to start Oxford Ionics. ‘Hermann said something like, "It's such a good idea, you should just bloody well start a company,”’ explains Ballance.
+Ballance explains the vision for Oxford Ionics: “We’re not building small systems that people can use as toys,” he says, “we’re really focused on building out the technology that will scale out to useful  business revenue.” 
+Page 12
+[Page #13]
+Executive summary           Introduction           Business demography         Funding and innovation         Methodology         About
+The company closed a seed round in early 2020, just before the COVID-19 pandemic started to have an im-pact in the UK. Since then, it has moved quickly, win-ning five Innovate UK grants worth £3.62m to support its research. In July 2022, Oxford Ionics announced its partnership with listed German semiconductor manu-facturer Infineon to produce quantum processing units. In January 2023, it raised £30.0m in equity investment from investors, including Oxford Science Enterprises and Lansdowne Partners.
+At Oxford Ionics, Ballance and the team are staying focused on their long-term vision for the company: “We’re down selecting massively from all of the different ways we could do stuff into the harder ways of doing things, but which will carry on scaling out to very large scale devices,” says Ballance. “Importantly, this means the devices we will release to the market will make a meaningful quantum advantage to people’s applications.”
+"The UK ecosystem, seeded by UK government investment, has put us in a really strong position [...]. I think it's really important that especially public sector investment doesn't blink and really keeps an eye on very long-term growth and long-term positioning, rather than aiming for short-term visible things."
+Ballance says the UK government has played a key role in supporting the ecosystem but says it is important to continue to keep a longer-term perspective. “The UK ecosystem, seeded by UK government investment, has put us in a really strong position over the last, you know, six, seven years. And we're in danger of losing that if we're not very careful in how we play the game…I think it's really important that especially public sector investment doesn't blink and really keeps an eye on very long-term growth and long-term positioning, rather than aiming for short-term visible things.”
+Dr Chris Ballance 
+Co-Founder and CEO of Oxford Ionics
+Page 13
+[Page #14]
+Executive summary           Introduction           Business demography         Funding and innovation         Methodology         About
+Funding and  innovation
+Investment into the UK’s high-growth quantum ecosystem has grown significantly over the last decade—with companies raising a record-breaking £98.9m in equity funding in 2022. Similarly, the number of published patent applications by quantum companies has surged from two in 2012 to 91 in 2020.
+Page 14
+[Page #15]
+Executive summary           Introduction           Business demography         Funding and innovation         Methodology         About
+large grant awards can vary the annual total. 
+respectively in 2020 and did not receive additional grant funding until 2022. 
+Public funding
+As described, the noticeable drop in public funding for 2021 reflects the low number of companies in the sector. It is also likely that for some businesses, the grants awarded in 2020 reduced the need for further funding in 2021. For instance, QLM Technology and Oxford Ionics received grants of £1.24m and £1.68m 
+Public funding plays a pivotal role in the growth and development of businesses in the quantum sector. In 2022 high-growth quantum companies received a significant £24.8m in grant funding—the highest annual total for companies in the sector. Innovate UK awarded 53 grants, worth £22.6m—accounting for approximately 91.1% of grant funding received by quantum companies in 2022.
+Beauhurst’s grant dataset is dynamic, and constantly updated as new awards are discovered. This report’s annual grant values and deal numbers contain Innovate UK grant data that was accessed in June 2023.
+Grant funding secured by high-growth quantum companies (2013-2022)
+The number of active quantum companies in the UK is still relatively small, this means that large grant awards can lead to notable annual variations in totals. In 2020 Innovate UK awarded £20.8m via 53 grants to high-growth quantum companies. M Squared and Nu Quantum were the top two recipients of grant funding receiving £3.58m and £2.52m respectively, contributing significantly to the annual total recorded in 2020. Moreover, of the 23 companies that received grant funding in 2020, eight companies were awarded a total of £1.00m or more, whereas, in 2021, only two companies received a total of £1.00m or more in grant funding, further illustrating how 
+58
+£24.8m
+Amount secured 
+£23.8m
+Number of grants 
+54
+29
+27
+£8.96m
+£6.88m
+16
+15
+14
+17
+£4.20m
+8
+8
+£3.53m
+£4.81m
+£2.02m
+£1.42m
+£1.06m2016
+2013
+2014
+2015
+2017
+2018
+2019
+2020
+2021
+2022
+Page 15
+[Page #16]
+Executive summary           Introduction           Business demography         Funding and innovation         Methodology         About
+Even though total investment in quantum companies between 2019 and 2022 appears vastly different, the small number of active companies means large deals can result in significant annual variation in totals. 
+Private funding
+Over the past decade, equity investment in high-growth quantum companies has increased considerably. In 2022 these companies secured a record-breaking £98.9m in equity investment via 21 deals. This is reflective of the notable growth the UK quantum ecosystem has experienced over the past decade—more companies have formed and entered the industry, helping to drive investor interest. 
+Equity investment secured by high-growth quantum companies (2013-2022)
+Although 2022 marks a record year for equity investment in high-growth quantum companies, over 60% of total investment for that year can be attributed to a single £38.0m fundraising deal by Oxford Quantum Circuits in July, with investors including Oxford Science Enterprises, British Patient Capital, and Lansdowne Partners. While investment declined from a peak of £86.5m in 2020 to £29.7m in 2021, Cambridge Quantum Computing accounted for 39.4% of total investment in 2020 via two fundraising deals in February (£441k) and December (£33.6m) that year. 
+23
+£98.9m
+Amount secured 
+21
+£86.5m
+Number of deals
+15
+14
+10
+10
+9
+7
+£29.9m
+£29.7m
+£13.6m
+£11.8m
+2
+1
+£5.81m
+£5.21m
+£480k
+£150k2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+Page 16
+[Page #17]
+Executive summary           Introduction           Business demography         Funding and innovation         Methodology         About
+Entrepreneur First also ranks highly, having participated in five deals over the past decade. Entrepreneur First runs an accelerator programme that connects individuals with potential co-founders to form new companies and provides support in raising funds from external investors as well as investing itself. 
+For example, Entrepreneur First invested £10.0k in Crypto Quantique in March 2016 following the company’s involvement in the accelerator programme. Since then, the cybersecurity company has raised a total of £13.6m in equity and debt funding and a further £1.76m via grant funding. 
+Top investors
+Parkwalk Advisors leads the way as the top investor of high-growth quantum companies, participating in nine deals between 2013 and 2022. Parkwalk Advisors, a specialist investor in academic spinouts, has participated in a range of fundraising rounds including Crypto Quantique’s £6.00m funding round in July 2022, and Phasecraft’s £3.70m funding round in December 2020. 
+Top investors by number of equity deals with quantum companies (2013-2022)
+Oxford Science Enterprises (OSE) follows closely behind as a top investor of high-growth quantum companies, participating in eight deals. OSE is an independent investment company that works in partnership with the University of Oxford. It invests in spinouts and early-stage companies associated with the university—focusing on the areas of deeptech, health tech, and life sciences. It has contributed to top fundraisings such as Oxford Quantum Circuits’ £38.0m fundraising round in July 2022 as well as Oxford Ionics' fundraising rounds in June 2020 (£2.50m) and January 2023 (£30.0m).
+Page 17
+[Page #18]
+Executive summary           Introduction           Business demography         Funding and innovation         Methodology         About
+Sam Harman, the firm's deeptech specialist, notes that significant early-stage activity is focused on determining the foundational layers of a yet undetermined “quantum computing stack”. “There are lots of companies coming through the pipeline, particularly at the very early stage and via our interactions with departments at the university and with research labs,” says Harman. “At the moment, we’re seeing stronger stuff further down the stack rather than applications. People are waiting to see how the stack plays out. In hardware control, we’ve seen some strong talent and IP in the calibration of qubits. Quantum simulation is proving interesting. These companies are simulating how quantum algorithms could work. The technology has moved beyond toys to commercial demand.” 
+Investor spotlight:Deeptech  at OSE 
+Oxford Science Enterprises (OSE) is an investor in innovative companies commercialising scientific research and technology. It backs academic  founders from the Oxford cluster. The firm specialises in the life sciences, healthtech, and deeptech sectors and has done eight deals with quantum technology companies over the last ten years. It counts ORCA Computing, Oxford Quantum Circuits, Quantum Motion, and PQShield among its portfolio companies. 
+Patience is crucial for any investor but particularly those investing in quantum computing. This is due to ongoing innovations required to reach the production of hardware and software that could provide end users with a quantum advantage. The term refers to being able to solve a problem that a classic computer could not tackle. Harman explains that OSE is well structured to invest over the long term: “Quantum has a long time horizon that works for us as a patient capital fund. We’re set up with evergreen capital that sits on our balance sheet. Quantum is certainly an industry 
+Page 18
+[Page #19]
+Executive summary           Introduction           Business demography         Funding and innovation         Methodology         About
+high-fidelity qubits. Harman explains that the  company has focused on integrating its technology with existing semiconductor fabrication processes to “tap into a heavily invested and optimised manufacturing process.” 
+where this is helpful.” Harman explains that the type of commercial viability and uptake of the technology that would result in venture-scale exit activity is still a way off. “We’re still expecting to see several years of R&D without much additional traction. Mega valuations are longer away,” says Harman. He notes that the fusion power sector is a relevant comparison of the duration for venture capital investments to pay off in quantum computing.
+"Hardware is capital intensive. These companies will need hundreds of millions of pounds. Where will the pounds come from? Companies will be looking to the US for series C and D, for those £100m to £200m cheques."
+Another aspect of investing in quantum computing that differs from venture capital favoured sectors such as software is how capital-intensive the technology is to develop, particularly on the hardware side. Harman highlights that a risk for the UK’s nascent quantum sector is the funding gap: “Hardware is capital intensive. These companies will need hundreds of millions of pounds. Where will the pounds come from? Companies will be looking to the US for series C and D, for those £100m to £200m cheques.” Harman notes that anything the public sector can do to close the funding gap will be valuable, as well as “helping companies by being a first customer.”
+The complexity and long-term nature of quantum investments can pose a daunting challenge for investors unfamiliar with the technology. Harman explains that investors often manage portfolios across various sectors and use heuristics to evaluate technologies. “We inevitably find that investors rely on a framework or shorthand to judge a company  and its technology. This can be a tricky thing with quantum. One metric is the number of qubits. This can be misleading as other KPIs such as the fidelity of qubits, how many can fit on a chip, and how well the technology integrates with classical computing technologies are also important.” A relevant example is OSE portfolio company Quantum Motion, which focused on producing quantum processors with 
+Sam Harman 
+Senior Associate, Deeptech at OSE
+Page 19
+[Page #20]
+Executive summary           Introduction           Business demography         Funding and innovation         Methodology         About
+Oxford Quantum Circuits 
+QLM Technology
+£38.0m 
+July 2022
+£12.0m 
+July 2022
+Amount raised
+Date
+Amount raised
+Date
+Oxford Quantum Circuits (OQC) develops quantum computing hardware. OQC’s Coaxmon is a three-dimensional superconducting circuit that can scale qubit numbers commercially without compromising their quality. OQC claims that the architecture of its patented technology improves the flexibility and scalability of superconducting circuits, optimising them for commercial use. The University of Oxford spinout was co-founded by CEO Ilana Wisby and Dr Peter Leek in 2017. Dr Leek is responsible for developing OQC’s core intellectual property. OQC has also collaborated with leading industry brands such as Equinix and Fujitsu to improve access to quantum computing services. 
+Cardiff-based QLM Technology is a photonics company that uses quantum technologies to detect, localise, and quantify the emission rate of greenhouse gases. Its gas imaging camera uses a light detection sensing range (lidar) and gas absorption spectroscopy (a technique that senses and localises gases) to detect greenhouse gas emissions. The University of Bristol spinout was co-founded by CTO Xiao AI, CSO John Rarity, and non-executive director Yuri Andersson in 2017 to help organisations achieve net zero through the mitigation of greenhouse gas emissions. QLM is currently led by CEO Dr Murray Reed. Since launching, QLM Technology has expanded its operations to Bristol and San Francisco and secured a total of £15.5m in equity financing and £1.95m in grant funding. 
+The Berkshire-based company has received £1.88m in grant funding and £40.9m in equity funding to date. OQC raised £869k in its latest fundraising round in February 2023 with participation from investors, such as HiJoJo Partners and Quantum Exponential, to support its expansion into Asian markets with a specific focus  on Japan. 
+Page 20
+[Page #21]
+Executive summary           Introduction           Business demography         Funding and innovation         Methodology         About
+The COVID-19 pandemic, for instance, might have served as a catalyst for increased research and  development activities in the quantum computing field. The pandemic-induced shift towards remote work and virtual collaborations may have created more opportunities for researchers to pursue their projects, increasing patent applications.
+The data presented below for 2021-2022 offers a preliminary view of the patent landscape in the quantum computing field, but it is important to note that it is subject to change. There is an up to 18-month time gap between when patent applications are submitted and when they are made public, which is why there appears to be a potential decline in the number of patent applications in recent years and a lower proportion of patents granted.
+UK innovation
+High-growth UK quantum companies are innovating across a broad spectrum, filing patents to protect their intellectual property in jurisdictions worldwide. Their developments span from intricate microresonator systems to advanced two-qubit interactions, innovative mode-locked lasers, and sophisticated nonlinear crystal technologies. Such applications showcase the vibrant and complex landscape of quantum technology innovation.
+Patent activity by high-growth quantum companies (2011-2022)
+91
+Published patent applications
+Over the past decade, there has been a notable increase in the number of patent applications by quantum companies. The upward trend began in 2016 when 12 out of 19 published patent applications were granted, accounting for 63.2% of all applications during the year. However, in 2020, there was a significant surge in patent applications, reaching 100 in total, but only nine have been granted to date (9.00%). Various external factors could have contributed to the surge in patent applications, particularly in 2020. 
+Granted patents
+74
+The dashed line indicates where the data is preliminary
+41
+28
+32
+15
+14
+14
+13
+12
+10
+9
+9
+11
+9
+8
+7
+4
+3
+2
+1
+12015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2011
+2012
+2013
+2014
+Page 21
+[Page #22]
+Executive summary           Introduction           Business demography         Funding and innovation         Methodology         About
+Equity investmentTo be included in our analysis, any investment must be: 
+MethodologyDefining high-growth quantum companiesBeauhurst identifies high-growth startup companies using eight triggers (outlined on this page) that it believes suggests a company has high-growth potential. A company is considered high-growth if it achieves any of the eight triggers. For this report, only high-growth companies that have operations directly related to quantum technologies have been included. Companies in quantum adjacent industries and developing adjacent technologies such as semiconductors and lasers have been excluded. More detail on Beauhurst’s data and high-growth tracking triggers is available via its website. 
+High growth triggers
+Equityinvestment
+Academic spinouts
+•  Some form of equity investment 
+•  Secured by a UK company 
+High-growthlists
+Scaleups
+•  Issued between 1 January 2013 and                                       
+31 December 2022 
+Accelerator  attendances
+Major grant  recipients
+Announced and unannounced fundraisingsAn unannounced fundraising is an investment made into a private company that is completed without press coverage or a statement from the recipient company or funds that made the investment. These transactions are an integral part of the UK’s high-growth economy, accounting for around 70% of all equity transactions.
+Management Buy-outs/Buy-ins
+Venture debt
+Page 22
+[Page #23]
+Executive summary           Introduction           Business demography         Funding and innovation         Methodology         About
+Barclays Eagle Labs
+Barclays Eagle Labs is a growing national network that provides business incubation, dedicated growth programmes, mentoring and co-working and office space for ambitious high-growth businesses.
+With Eagle Labs dotted all across the UK and many more in the pipeline, our focus is to help to connect, educate, inspire and accelerate ambitious UK businesses and entrepreneurs.
+By cultivating a community of like-minded entrepreneurs and providing a collaborative work environment, access to peers and opportunities to maximise growth through digital connections and growth programmes, curated events and funding opportunities, Eagle Labs is able to help startups to grow at pace.
+Find out more at labs.uk.barclays.
+Eagle Labs also specialises in positively disrupting key industries by bringing together key corporate players, industry bodies, leading universities and startups to enable rapid innovation and investment by asking them to collaborate and currently have dedicated lawtech, healthtech, energytech and agritech industry-aligned programmes.
+Important InformationWe have pulled together the resources in this document for you to help with your independent research and business decisions. This document contains opinions from independent third parties and link(s) to third party websites and resources that we (Barclays) are not providing or recommending to you.
+It does not constitute an offer to sell or buy any security, investment, financial product or service and does not constitute investment, professional, legal or tax advice, or a recommendation with respect to any securities or financial instruments.
+The information, statements and opinions contained in this document are of a general nature only and do not take into account your individual circumstances including any laws, policies, procedures or practices you, or your employer or businesses may have or be subject to. Although the statements of fact on this page have been obtained from and are based upon sources that Barclays believes to be reliable, Barclays does not guarantee their accuracy or completeness.
+Barclays (including its employees, Directors and agents) accepts no responsibility and shall have no liability in contract, tort or otherwise to any person in connection with this content or the use of or reliance on any information or data set out in this content unless it expressly agrees otherwise in writing.
+Page 23
+[Page #24]
+Executive summary           Introduction           Business demography         Funding and innovation         Methodology         About
+Beauhurst
+For more information and a free demonstration, visit beauhurst.com
+Beauhurst is a searchable database of the UK’s  high-growth companies. 
+Contact4th Floor, Brixton House385 Coldharbour Lane London SW9 8GL
+Our platform is trusted by thousands of business professionals to help them find, research and monitor the most ambitious businesses in Britain. We collect data on every company that meets our unique criteria of high-growth; from equity-backed startups to accelerator attendees, academic spinouts and fast-growing scaleups.
+www.beauhurst.comT: +44 (0)20 7062 0060E: consultancy@beauhurst.com
+Our data is also used by journalists and researchers who seek to understand the high-growth economy, and powering studies by major organisations – including the British Business Bank, HM Treasury and Innovate UK – to help them develop effective policy.
+Page 24
+[Page #25]
+eaglelabs@barclays.com
+labs.barclays
+Before you go
+Barclays Eagle Labs
+@Eagle_Labs
+Get in touch if you would like to find out how we can support you and your business. We’d love to hear from you.
+Barclays Eagle Labs
+Barclays Bank UK PLC is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation  Authority (Financial Services Register No. 759676). Registered in England. Registered No. 9740322. Registered Office: 1 Churchill Place, London E14 5HP. Barclays Bank UK PLC adheres to The Standards of Lending Practice which is monitored and enforced by The Lending Standards Board. Further details can be found at www.lendingstandardsboard.org.uk. 
+@eaglelabs
+DisclaimerWe’re not responsible for, nor do we endorse in any way third party websites or their content. 
+EagleLabs
+The views and opinions expressed in this report don’t necessarily reflect the views of Barclays Bank UK PLC, nor should they be taken as statements of policy or intent of Barclays Bank UK PLC. Barclays Bank UK PLC and its employees have made every attempt to ensure that the information contained in this document is accurate at the time of publication. No warranties or undertakings of any kind, whether express or implied, regarding the accuracy or completeness of the  information is given. Barclays accepts no liability for the impact of, or any loss arising from, any decisions made based on information contained and views expressed in this document.

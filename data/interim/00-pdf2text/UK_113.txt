@@ -1,0 +1,2297 @@
+[Page #0]
+International State of Quantum Information Technologies Research
+Part 1: 
+UK, EU Frameworks, France, Germany, Austria, Denmark, Finland, Netherlands, Poland, Spain, Sweden & Switzerland.
+[Page #1]
+Acknowledgements
+Publication Information
+This is a publication from the Quantum 
+The authors would like to thank 
+Computing & Simulation Hub, an EPSRC funded 
+Dr Rupesh Srivastava for his invaluable 
+collaboration of seventeen universities, bringing 
+help with the provision of data and 
+together academia and industry as part of the 
+preparation of this report.
+UK National Quantum Technologies Programme. 
+This report was authored by Christopher Noble, 
+Dr Keith Norman and Adi Sheward-Himpson  
+under the guidance of the QCS Hub 
+Leadership team.
+PAGE
+02
+[Page #2]
+Contents
+Publication Information ......................................................................................................... 02
+Austria .......................................................................................................................................... 20
+Quantum Centres .............................................................................................................. 20
+Acknowledgements................................................................................................................. 02
+Collaborations ..................................................................................................................... 20
+Introduction ................................................................................................................................ 04
+Denmark .......................................................................................................................................22
+Collaborations ......................................................................................................................23
+UK .................................................................................................................................................... 05Collaborations ..................................................................................................................... 06European Union ........................................................................................................... 06US ........................................................................................................................................ 07Grants and Publications .................................................................................................. 07
+Finland ...........................................................................................................................................25
+Quantum Centres ...............................................................................................................25
+Collaborations ..................................................................................................................... 26
+European Union ........................................................................................................................ 09Quantum Flagship ............................................................................................................. 09Advanced Quantum computing with Trapped IONs. ......................................... 09NExt ApplicationS of Quantum Computing ........................................................... 09Programmable Atomic Large-Scale Quantum Simulation ...............................10Funding Mechanisms .........................................................................................................10
+Netherlands ................................................................................................................................ 28
+Quantum Centres .............................................................................................................. 29
+Poland ........................................................................................................................................... 32
+Spain ..............................................................................................................................................34
+France ..............................................................................................................................................11Centres of Quantum ...........................................................................................................12Paris Centre for Quantum Computing (PCQC) ......................................................12Quantum Engineering Grenoble programme (QuEnG) ......................................12
+Sweden ......................................................................................................................................... 36
+Collaborations ...................................................................................................................... 37
+Switzerland ................................................................................................................................. 39
+Germany ........................................................................................................................................15Quantum Alliance ................................................................................................................15Munich Quantum Valley ....................................................................................................16Jülich Supercomputing Centre ...................................................................................... 17Fraunhofer-Gesellschaft .................................................................................................. 17Collaborations .......................................................................................................................18
+Quantum Centres .............................................................................................................. 39
+Closing remarks .........................................................................................................................42
+References ...................................................................................................................................43
+PAGE
+03
+[Page #3]
+Introduction
+International research in quantum computers has developed rapidly over the last decade, with many countries investing heavily to support the development of quantum technologies. 
+This report is the first of two reports that summarise global activity in quantum technology. It presents a snapshot of activities across Europe, focusing on governmental and large-scale groupings and activities. 
+The report shows the scale of activity, and the growing involvement and maturity of the industrial sector. Research Hubs are a common feature of many of the programmes across Europe, showing the continued relevance of rigorous academic research to the mission of developing Quantum Technologies for real-world applications. There are also emerging procurement based programmes, with National Centres acting as customers for first machines, and of course a growing number of efforts that use the commercially available services available through the cloud.  Within all these activities there is a  high degree of connectivity between nations, with a large number of jointly authored papers, MOUs between states, and trans-national projects. 
+I am delighted to see this report bring together an overview of the state of quantum computing research in the UK and Europe. I hope it will be a source of encouragement for those active in quantum computing research, and a reinforcement of the need to commit to this research at a national and a global level.
+Professor Dominic O’BrienDirector, Quantum Computing and Simulation Hub
+PAGE
+04
+[Page #4]
+United Kingdom
+The National Quantum Technologies Programme is now in its second phase, which includes a £94m refresh of the four technology Hubs funded by the EPSRC [5]. The technology hub for quantum computing, NQIT, evolved into the Quantum Computing and Simulation Hub, made up of seventeen leading UK universities, and with scientific research spanning the full stack of hardware and software.
+modgnKdetinU
+The UK was one of the first countries to initiate a formal national programme in quantum technologies. In 2013, then UK Chancellor George Osbourne made a “commitment to invest in quantum technology” in his Autumn Statement [1], which translated into an initial £270m investment to create a UK National Quantum Technologies Programme (NQTP) [2]. This ultimately grew to £380m over a five-year period, from 2014-19, and included nearly £13m of private funding.
+i
+This ‘Phase 1’ of the UK’s national programme included a funding call for dedicated quantum research centres for communications, computing, imaging, sensing, and measurement, leading to four hubs involving close to thirty universities [2] [3]. One of these hubs was Networked Quantum Information Technologies (NQIT), involving nine UK universities, and with the support and engagement of over thirty companies. Some of the achievements of the NQIT Hub in this time include a photonically-connected ion trap architecture with world-leading fidelity, the high-performance emulator QuEST, and the generation of seven spinout companies, such as OQC and Universal Quantum. Separately, there were three skills hubs focussing on training and manpower: Quantum Engineering and Science, Quantum Enterprise, and Innovation in Quantum Business.
+UK Quantum Computing and Simulation Hub
+Research that the QCS Hub is involved with includes:• 
+Implementation of ion trap processors, and development of next generation ion traps
+The UK programme is sponsored by the UK Department for Business, Energy and Industrial Strategy (BEIS), EPSRC, UKRI, Dstl, GCHQ, KTN, STFC and the MoD), and also supports work at the UK National Physical Laboratory and the Fraunhofer Centre for Applied Photonics.
+•  Superconducting gate improvements, and new schemes for annealing
+•  Diamond Nitrogen vacancy related technologies
+•  Photonic simulators
+•  Silicon quantum logic using commercial CMOS
+National Quantum Technologies Programme
+•  Cold atom systems for quantum simulation
+Research focusAcademically led
+Commercial focusIndustry led
+Phase 2, 2019 - 2025 (£400m+)
+•  Verification, validation and benchmarking of the technologies available in the Hub
+ISCF Wave 2PioneerProgramme£20m
+ISCF Wave 3CommercialChallenge
+FundamentalPhysics
+National QuantumComputing Centre
+Training
+Technology Hubs
+•  Architectural and control studies, using the technologies available in the Hub, and 
+£40m
+£25m
+£90m
+£93m
+£153m
+simulation of technology platforms using QUEST
+125
+175
+300
+85
+41UK Start-ups
+>£135m
+40
+£1bn
+•  Algorithm development for Machine Learning and solving partial differential equations
+MSc candidates PHD candidates
+Hub Partners
+QuantumApprenticeships
+UK V/C fundsraised
+UK QTSupplies
+UKpublic/privateinvestment
+• 
+Industrial applications
+300Employed
+•  Fundamental studies of non-classical systems
+PAGE
+05
+[Page #5]
+The national programme now also includes the National Quantum Computing Centre, launched by the then Science Minister Amanda Solloway at London Tech week in 2020, [6]. Based at the Harwell Science Campus in Oxfordshire, the NQCC is a £93m investment by UKRI over 5 years [7], with the facility due for completion in 2023 [8]. The NQCC's strategic intent includes the creation of a UK sovereign capability, which will catalyse the UK supply chain in the sector.
+CollaborationsEuropean Union
+The UK has had significant involvement in projects funded by European Union (EU) mechanisms, primarily through the FP7 and Horizon 2020 funding programmes – these are covered in more depth in the following EU section in this report. The terms of UK involvement in the EU’s latest funding programme, Horizon Europe, were agreed in December 2020, however this association has not been finalised [14].The UK government has since launched the Horizon Europe guarantee, with the last legal grant signature date before the end of December 2022. [14] In the event of being unable to associate, the UK has set out its alternative, which includes funds for bottom-up collaborations with researchers in partner countries around the globe, multilateral and bilateral collaborations, and continued funding for UK researchers to join Horizon Europe consortia as third country participants [15].
+Some notable activities for NQCC since its foundation include the signing of a Memorandum of Understanding with the QCS Hub, a collaboration with OQC [10], and the launch of its SparQ Applications Discovery Programme [11]. It has also published a Quantum Readiness Survey in conjunction with EY. This survey found that 81% of senior UK executives expect quantum computing to play a significant role in their industry by 2030 [12].
+Outside of this, a new Hartree National Centre for Digital Innovation was announced in June 2021. Quantum computing forms part of a wider programme to enable UK businesses to explore and adopt innovative digital technologies. UKRI will invest £172 million in the centre over five years, with an additional £38 million in-kind contribution from IBM [13].
+We have analysed the UK involvement in EU quantum computing projects – We have analysed the UK involvement in EU quantum computing projects, covering activity in both FP7 and Horizon 2020. 80 projects were funded in total, one of the highest such figures in Europe, with the projects’ start dates distributed as shown. 
+Separately, the related Quantum Communications Hub has made major contributions to quantum networking, which is likely to be an enablingtechnology for QIT. In consortium with BT and Toshiba Europe Ltd, the Quantum Communications Hub has implemented an extended quantum network from Cambridge Science Park to BT’s Research and Innovation Labs Campus [ref : https://www.quantumcommshub.net/industry-government-media/collaboration-opportunities/case-studies/bt/]
+UK Quantum Computing EU Projects
+2008
+2009
+2010
+2011
+2012
+2013
+Innovate UK have also run and Quantum Commercialisation Challenge, investing £153 million, supported by £205 million from industry, to develop new products and technologies based on advances in quantum science [ref: https://www.ukri.org/what-we-offer/our-main-funds/industrial-strategy-challenge-fund/artificial-intelligence-and-data-economy/commercialising-quantum-technologies-challenge/].
+)raey(
+2014
+2015
+tratS
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+Grand Total
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+Number of projects
+PAGE
+06
+[Page #6]
+Through Clarivate’s Web of Science, we analysed papers published from 2018 onwards, where some or all of the authors were based in UK institutions. Note that UK author involvement in a paper does not mean the lead institution is UK based. A visualisation of the top ten funding bodies for these pieces of work, in terms of number of papers allocating their funder, is shown below – UKRI/EPSRC funding dominates, along with funding from European sources. There is also activity from Australia, China and the USA.
+United States
+A joint statement between the UK and the USA was published in November 2021, with the intent of enhancing cooperation on quantum information science and technology. The joint statement facilitates continued collaboration between the US National Institute of Standards and Technology and the UK National Physical Laboratory. Furthermore, an enhanced partnership between the US National Science Foundation and UKRI is intended to enable additional collaboration on research in QIS. [16]
+setatSdetinU
+553
+199
+117
+94
+Grants and Publications
+UK RESEARCH INNOVATION UKRI
+European Commission
+HCRAESERNAEPORUE
+NOTADNUOFECNECS
+LARUTANLANOTAN
+I
+CFSNANHCFO
+The report will now examine UK grants and publications relating to QIT. In this analysis, and elsewhere in this report, we have used a standard search terminology as follows: “quantum computing” OR “quantum computation” OR “quantum computer” OR “quantum error” OR “quantum circuit” OR “quantum simulation” OR “quantum architecture” OR “quantum compile” OR “quantum software”.
+CRELCNUOC
+I
+I
+I
+I
+519
+52
+80
+63
+ENGINEERING AND PHYSICAL RESEARCH COUNCIL EPSRC
+ROYAL SOCIETY OF LONDON
+NATIONAL SCIENCE FOUNDATIONNSFC
+FOTNEMTRAPED
+SETATSDETNU
+In July 2022, we analysed active UKRI grants encompassing research grants, studentships and CR&D Bilaterals. In terms of an overall count of participant involvement (at an institutional level), the UK’s top collaborators are USA (65), Germany (24), Canada (16), Switzerland (14, primarily through IBM Research GmbH), Japan (12), France (9) and Australia (8).
+56
+66GERMAN 
+ESNEFED
+AUSTRALIAN RESEARCH COUNCIL
+I
+RESEARCH FOUNDATION
+208
+131
+76
+60
+UNIVERSITY OF OXFORD
+UNIVERSITY COLLEGE LONDON
+UNIVERSITY OF BRISTOL
+UNIVERSITY OF EDINBURGH
+115
+52
+61
+IMPERIAL COLLEGE LONDON
+UDICE FRENCH RESEARCH UNIVERSITIES
+163
+UNIVERSITY OF LONDON
+106
+57
+FOYT
+EROPAGNS
+UNIVERSITY OF CAMBRIDGE
+LANOTAN
+I
+CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS
+SREVNU
+I
+I
+I
+PAGE
+07
+[Page #7]
+1,113 papers involving UK authors were published in this period. The most common journals these papers were published in are shown below.
+Journal
+Number of citations
+Journal
+Number of citations
+Australia 
+21
+Japan 
+12
+Austria 
+9
+Luxembourg 
+1
+Journal
+Number of papers
+Belgium 
+5
+Malaysia 
+1
+PHYSICAL REVIEW A 
+99
+Brazil 
+2
+Mexico 
+2
+PHYSICAL REVIEW LETTERS 
+63
+Canada 
+5
+Netherlands 
+31
+PHYSICAL REVIEW RESEARCH 
+39
+China 
+34
+Pakistan 
+2
+QUANTUM SCIENCE AND TECHNOLOGY 
+39
+Czech Republic  2
+Poland 
+5
+NEW JOURNAL OF PHYSICS 
+38
+Denmark 
+11
+Russia 
+2
+PHYSICAL REVIEW B 
+37
+Finland 
+1
+Spain 
+11
+QUANTUM 
+33
+France 
+3
+Switzerland 
+8
+NPJ QUANTUM INFORMATION 
+29
+PRX QUANTUM 
+27
+Germany 
+32
+Thailand 
+1
+NATURE COMMUNICATIONS 
+25
+Hungary 
+1
+UK 
+163
+Iceland 
+1
+USA 
+222
+Israel 
+3
+These papers were then ranked in terms of number of citations, and the top fifty selected. These fifty papers were cited 600 times between them. The overall number of citations can provide an indication on the strength and scientific merit of the papers. 
+Italy 
+9
+Grand Total 
+600
+Again, note that a paper’s lead author may be based outside of the UK, with one or more of the other named authors based at a UK institution. The lead author’s institutional country for these fifty papers is shown.
+The number of citations on a country-by-country basis can provide an insight into levels of activity, as well as crosslinks and collaborations between the country in question and the originator of the paper. The USA tops the list, followed by the UK, and China, Germany and the Netherlands some distance behind.
+Journal
+Number of papers
+Australia 
+1
+Austria 
+1
+China 
+2
+Germany 
+2
+Japan 
+3
+Netherlands 
+4
+Pakistan 
+1
+Spain 
+1
+UK 
+27
+USA 
+8
+Grand Total 
+50
+PAGE
+08
+[Page #8]
+European Union
+Total Cost €
+Name
+Description
+Participants
+9,588,000
+AQTION
+Advanced Quantum computing with Trapped IONs.
+The project consists of 7 academic partners – at the Universities of Innsbruck, Mainz, Oxford, and Complutense de Madrid, ETH Zurich, Forschungszentrum Jülich and Fraunhofer IOF – and 3 industrial partners, TOPTICA Photonics AG, Bull SAS, AKKA DSW GmbH.
+nonUnaeporuE
+A number of member states of the European Union (EU) are covered in more depth individually later in this report, however there has been a concerted effort by the EU as a whole which will be detailed here.
+i
+AQTION focuses on the scalability, availability, and Advanapplicability aspects of trapped-ion quantum computers, tackling the transition from current laboratory-based experiments to industry-grade quantum computing technologies.
+Quantum FlagshipThe Quantum Flagship is the third large-scale research and innovation initiative of its kind, after the Graphene Flagship and the Human Brain Project. It is funded by the European Commission and consists of a set of research and innovation projects selected through a peer-review process. It started in October 2018. [17]
+4,671,332.50
+NEASQC
+NExt ApplicationS of Quantum ComputingThe goal is to prepare the next applications of quantum computing, bringing together academic experts and industrial end-users to investigate and develop a new breed of Quantum-enabled applications that can take advantage of NISQ (Noise Intermediate-Scale Quantum) systems in the near future.
+Atos, (coordinator, France)AstraZeneca AB (Sweden)CESGA (Fundación Publica Gallega Centro Tecnológico de Supercomputación de Galicia (Spain) Electricité de France (EDF (France) HQS Quantum Simulations GmbH, (Germany) HSBC Bank Plc, (United Kingdom) Irish Centre for High-End Computing (ICHEC), Leiden University, through its Leiden Institute of Advanced Computer Science (Netherlands) TILDE SIA, (Latvia) TOTAL S.E (France)Universidade da Coruña – CITIC (Spain) VUniversité de Lorraine, through the LORIA lab) (France).
+The Flagship has a budget of €1 billion and a duration of 10 years, and is designed to bring together research institutions, academia, industry, enterprises, and policy makers, in a joint and collaborative initiative. [18]
+03
+04
+01
+02
+1b€
+10+ yrs
+5000+
+140
+QuantumFlagshipin a nutshell.
+Quantum Technologieswill be funded with at least one billion Euro by the European Commission
+Flagship's timescale
+Researchers residing in all EU and associated countries
+Research and Innovation Action (RIA) proposals of the first Quantum Flagship call
+10,334,392.50
+OpenSuperQ
+An Open Superconducting Quantum Computer.
+The project consists of ten partners across five European countries. Within Germany are Saarland University, EURICE (European Research and Project Office GmbH) and Forschungszentrum Jülich. Spain has the University of the Basque Country, whilst Sweden hasChalmers University of Technology and Low Noise Factory.
+The overall vision of the OpenSuperQ project is to build a hybrid high-performance open quantum computer of up to 100 qubits and to sustainably make it available at a central site for external users.
+The Quantum Technologies Flagship conducts research and development activities in the key domains of quantum computing and simulation, quantum communication, and quantum sensing. Projects related to quantum computing and simulation in the Flagship are listed below.
+Switzerland has both ETH Zurich and its spinout Zurich Instruments, whilst Finland has the VTT Technical Research Centre of Finland and Bluefors.
+PAGE
+09
+[Page #9]
+Funding MechanismsThe EU’s most noticeable research and innovation funding programme is Horizon Europe, with a budget of €95.5 billion and due to run until 2027. It follows on from Horizon 2020, and the earlier Framework Programmes (FP) for Research and Technological Development. Quantum has featured increasingly in these programmes – of the UK’s 80 EU quantum-related projects in FP7 and Horizon 2020, 58 were funded through the later Horizon 2020. In Horizon Europe, quantum features within Cluster 4 - Destination 4: Digital and Emerging Technologies for Competitiveness and Fit for the Green Deal. There is a clear link to the Quantum Flagship, being listed as its own topic in the destination, with the objective “to further develop quantum technologies and their applications in the areas of quantum computing, simulation, sensing and communication, in order to strengthen European technological sovereignty in this strategic field and achieve first-mover industry leadership.” [21]
+Total Cost €
+Name
+Description
+Participants
+14,666,159
+QLSI
+Quantum Large Scale Integration in SiliconThe project aims to demonstrate that silicon spin qubits are a compelling platform for scaling to very large numbers of qubits.
+CEA, TUD, CNRS, IMEC, TNO, Fraunhofer IPMS, Univ. of Copenhagen, UCL, Forschungszentrum Jülich, Univ. of Basel, Univ. of Twente, Hitachi, Univ. of Konstanz, IHP, ATOS, STMicrolectronics, Infineon Dresden, Quantum Motion, Soitec.
+9,659,515
+PASQuans
+Programmable Atomic Large-Scale Quantum Simulation.
+Max-Planck-Gesellschaft zur Förderung der Wissenschaften e.V. (Germany)Institut d’optique théorique et appliquée IOTA - SupOptique (France) Ruprecht-Karls-Universität Heidelberg (Germany)Centre national de la recherche scientifique CNRS (France), Österreichische Akademie der Wissenschaften (Austria), Università degli Studi di Padova (Italy), University of Strathclyde (United Kingdom)Freie Universität Berlin (Germany), My Cryo Firm (France) Bull SAS (France) Muquans (France)Azur Light Systems (France)TOPTICA Photonics AG (Germany) Forschungszentrum Jülich GmbH (Germany)
+A next generation platform for quantum simulation with cold atoms will be developed, with the goal to build the largest programmable quantum simulator, at more than 500 atoms.
+A prominent example of a programme receiving funding is QuantERA, which received funding through Horizon 2020. QuantERA is a European network of 39 research funding organisations from 31 countries, which supports research and innovation in quantum technologies. QuantERA also funds projects itself, to the level of €89M across 77 projects.
+The European Commission has a Digital Decade strategy in place, the aim of which is for the EU to become digitally sovereign in an interconnected world. Quantum technologies are seen as a key element of this digital sovereignty, of global strategic importance.
+The Programme’s goals are as follows:•  Successfully providing the European quantum community with Calls 
+for Proposals in QT
+•  Promoting excellent research in QT•  Encouraging transnational collaborations in QT•  Networking research funders in QT•  Mapping national, regional & European public policies in QT•  Spreading research excellence across the European Research Area (ERA).
+The Flagship will contribute to world-leading quantum computers and simulators that will be ultimately acquired by the European High Performance Computing Joint Undertaking – a joint initiative between the EU, European countries and private partners to develop a world-leading supercomputing ecosystem in Europe. This is central to the Digital Decade goal of having a first computer with quantum acceleration by 2025, with a view to being at the cutting edge of quantum capabilities by 2030. [19]When examining international partnerships for the Digital Decade, quantum is listed as a potential area of collaboration, though it is worth noting that the European Flagship programme is partly based on an ambition to reduce or remove the dependency on the USA and China to meet the fundamental technological needs of European citizens and companies. [20]
+QuantERA aims to enhance cooperation between academia & industry, recently issuing guidance for the public sector engaging with industry. QuantERA cooperates with the European Quantum Technologies Flagship to bridge academic research with engineering endeavours, and joint efforts are directed towards speeding up knowledge and technology transfers. [23]
+Non EU Institutions There are several Europe-based intergovernmental institutions which are not part of the EU that have active Quantum Technology programmes, notably the European Space Agency (ESA) and CERN [ref https://home.cern/news/press-release/knowledge-sharing/cern-quantum-technology-initiative-unveils-strategic-roadmap]
+A newly introduced “Coordination and Support Action” (CSA) called QUCATS (2022-2025) aims to strengthen the foundations of the Flagship and related initiatives, via maintenance and development of the strategy, and aiming to grow all quantum technologies. This is supported by €6.5m funding for 3 years by the European Commission.
+PAGE
+10
+[Page #10]
+France
+A selection of these relating to quantum computing are shown below:
+The PRESQUILE project is to help identify and overcome the scientific and technological obstacles to integrating spin qubits within well-established CMOS technology.
+In January 2021 France announced its Quantum Plan, a €1.8 billion investment over 5 years. French President Emmanuel Macron outlined two focus areas for the plan:“The first is global and integrated technological development, from fundamental research to industrialization. The second is the strengthening of the French innovation ecosystem in its European environment, in particular by developing human capital and by recruiting, training and attracting the best both in public research and in industry,” [24]. A commitment of €1bn by the French government sees annual spending to rise from €60 million to €200 million, described at the time as putting France in third place in this metric after the United States and China. The remaining €800 million will come from commitments made by industrial players (€500 million), European funding (€200 million), and investors in the French startup ecosystem (€100 million) [24].
+The RobustSuperQ project aims to accelerate French R&D relating to superconducting and hybrid qubits protected against decoherence. In 5 years, the project should demonstrate a high-fidelity quantum processor that is controllable and measurable.
+ecnarF
+The QubitAF project is to improve cold-atom platforms for quantum simulation by increasing the number of manipulated atoms, certifying results, and detailing the performance of these platforms.
+•  The QAFCA project seeks to develop compact and transportable 
+cold-atom sensors to measure gravitational fields, with applications in climate change analysis and the anticipation of natural disasters, and even in civil engineering and CO2 storage.
+The plan allocates nearly €800 million to computers alone, divided into work on simulators and partially quantum machines (€350 million) and towards universal fault-tolerant devices (€430 million). The other funds will be devoted to sensors (€250 million), post-quantum cryptography (€150 million), quantum communications (€320 million) and related technologies which facilitate the development of quantum equipment (cryogenics, for example, €300 million) [25] [26]. As part of this plan, in January 2022 the creation of a new quantum computing platform was announced. The platform has a total budget of €170 million, and aims to make the technology accessible to as many people as possible, including the scientific community and French and EU start-ups. The intent is to ensure France does not miss out on the major advances quantum computing could make in the decades to come. [22] Secretary of State for Digital, Cédric O, remarked: “By mid-2022, we will open a procedure […] for the purchase of two to three quantum hardware machines that are integrated into the platform.”
+•  e-DIAMANT, which is closely connected to industry, deals with NV centres in diamonds, aiming to create the entire chain necessary for the manufacture of these defects and their exploitation.
+•  The NISQ2LSQ project will study in-depth the different correction 
+strategies for random errors through the quantum aspect of qubits. Correction codes will be tested in experiments on superconducting and photonic platforms.
+•  The EpiQ project will study all the logical building blocks needed for a quantum processor to function properly (compilation, manipulation, optimization, intermediary languages, certification, etc.), by identifying constraints and better simulating actual machines, in an effort to develop new algorithms that can surpass today’s capacities
+In March 2022, ten selected projects were announced during the launch of the €150M Quantum Priority Research and Equipment Programme (PEPR) over 5 years. The Quantum PEPR is an acceleration programme, aiming at supporting research activity ranging from basic science to proofs of concept (TRL 1 to 4), and is co-driven by the French National Centre for Scientific Research (CNRS), the French Alternative Energies and Atomic Energy Commission (CEA), and the French National Institute for Research in Digital Science and Technology (INRIA) [27]. 
+PAGE
+11
+[Page #11]
+Quantum CentresThere are several notable hubs for quantum in France:
+Quantum Engineering Grenoble programme (QuEnG)
+Quantum Engineering Grenoble aims to develop a highly connected ecosystem for quantum technologies, through fostering interfaces between different areas of knowledge and creating synergies between academia and industry. Six work packages are contained within QuEnG, including several directly or indirectly related to quantum computing, as shown. A fundamental ambition of our project is to train the next generations of quantum engineers, and hence QuEnG hosts two PhD programmes: The QuEnG doctoral programme funded by the Idex-UGA, and the GreQue doctoral programme funded by the Marie-Sklodowska Curie Actions within Horizon 2020 [30].
+Paris Centre for Quantum Computing (PCQC)
+The PCQC was established in 2014, with the long-term objectives of: high impact, interdisciplinary research; international visibility for the quantum research in Paris and in France; the dissemination of quantum research via workshops/visits and students exchange; and the collaboration with industry for the commercialization of end-to-end quantum solutions.
+Work packages include:•  Quantum processors and simulators•  Architecture and software•  Qubit – photon interfaces•  Quantum sensing•  Energetics of quantum computing•  Philosophical and societal challenges of quantum technologies
+PCQC is a research federation made up of the CNRS, the University of Paris, Sorbonne University, and later enlarged to include INRIA and PSL Research University. Its research areas, including quantum computing and the foundations of quantum information, are shown [28].
+Computing
+Security
+•  Theoretical Quantum Cryptography
+•  Quantum Algorithms and Complexity
+•  Device-Independence and Security 
+•  Error Correction and Fault Tolerance
+In addition, QuEnG has a Quantum Algorithmic Group, which investigates topics including architectures of quantum computers, quantum error correction, quantum programming language and compilation, computation models based on quantum phenomena, and applications. The labs involved within this group are shown in Table 1.
+in Realistic Conditions
+•  Distributed Quantum Computing
+•  Quantum Key Distribution
+•  Quantum Metrology and Memories
+•  Cryptography beyond QKD
+Communications
+Foundations of Quantum Information
+Néel
+Institut Néel
+•  Entanglement Theory and Quantum Correlations
+•  Quantum Games
+LPMMC 
+Laboratoire de Physique et Modélisation des Milieux Condensés
+•  Quantum Communication Complexity
+INAC 
+Institute for Nanosciences & Cryogenics
+•  Non-locality
+•  Hybrid Quantum Networks and Entangled Photon Sources
+LETI 
+Laboratoire d'électronique et de technologie de l'information
+•  Quantum Axiomatics
+LIG 
+Grenoble Informatics Laboratory
+•  Philosophy of Quantum Mechanics
+•  Delegation of Computation and 
+PACTE 
+Laboratoire des sciences sociales
+Multipartite Resources
+L’Institut Fourier  Laboratoire de mathématiques
+PPL 
+Philosophie, pratiques & langages
+Members of the PCQC are involved in a number of European projects related to quantum computing, including both the aforementioned PASQuans and QuantERA [29].
+PAGE
+12
+[Page #12]
+CollaborationsIn 2018, the then Prime Minister of Australia, Malcolm Turnbull, and the President of France, Emmanuel Macron, announced plans for a new French-Australian collaboration between Australia’s first quantum computing company, Silicon Quantum Computing (SQC), and the French research and development organisation, the Commissariat à Énergie Atomique et aux Énergies Alternatives (the CEA). The Memorandum of Understanding (MoU) outlines steps to form a joint venture in Silicon CMOS quantum computing technology to accelerate technology development and create commercialisation opportunities [31]. In August 2021, a joint statement between France and the Netherlands was signed, strengthening bilateral cooperation in quantum technologies. [32] The then Dutch secretary of state for economic affairs and climate policy, Mona Keijzer, described a European quantum ecosystem, and noted that “The Netherlands and France have been leaders in this field for years, and in order to maintain this international lead, it is necessary to cooperate at the European level.”
+An analysis of French involvement in EU projects reveals a similar overall involvement to the UK, at 80 projects total, without the post-2020 drop-off (7 projects in 2021 vs 1 for the UK).
+France Quantum Computing EU Projects
+2008
+2009
+2010
+2012
+2013
+2014
+)raey(
+2015
+tratS
+2016
+2017
+2018
+2019
+2020
+At an institutional level, France’s research lab CNRS has expanded its presence in Canada with the creation of the Quantum Frontiers Lab with l’Université de Sherbrooke. THE collaboration was initially part of the ‘Quantum Circuits and Materials Laboratory’ (LCMQ) International Research Project (IRP), which was created in 2017 between the Physics Department of l’Université de Sherbrooke and multiple laboratories in France. Based on the success of this collaboration, the IRP has now become an International Research Laboratory (IRL) with quantum circuits and devices one of its major research focuses. Its goal is to conduct cutting-edge collaborative international research, to promote exchange between researchers and students from l’Université de Sherbrooke and France, and to promote emerging projects between the scientific communities of France and Quebec [33].
+2021
+2022
+0
+2
+4
+6
+8
+10
+12
+14
+Number of projects
+We analysed papers published from 2018 onwards, with some or all of the authors are based in French institutions. A visualisation of the top ten funding bodies for these bodies of work is shown below – as well as domestic and European funding, there is also notable activity from the UK and United States. Similar visualisations categorising the papers and showing the affiliations of the authors are also shown.
+42
+34
+147
+45
+The multinational Thales, which is headquartered in Paris and in which the French State has over a 25% stake [34], is notably active in quantum technologies. In September 2021 Thales signed an MoU with the National University of Singapore (NUS), marking the start of a two-year partnership to jointly develop and test quantum technologies for commercial applications [35], In December of the same year, Thales, PASQAL, the Paris Regional Authority and GENCI announced a multi-year partnership to develop new methods to address planning and scheduling challenges related to the optimization of critical systems through PASQAL’s quantum processor. The project is supported by the PAck Quantique program (PAQ), an initiative launched in 2020 by the Paris Regional Authority, GENCI and Le Lab Quantique to accelerate the development of quantum technologies [36].
+NATIONAL SCIENCE FOUNDATION NSF
+GERMAN RESEARCH FOUNDATION DFG
+FRENCH NATIONAL RESEARCH AGENCY ANR
+UK RESEARCH INNOVATION UKRI
+43
+EUROPEAN RESEARCH COUNCIL ERC
+32
+22
+108
+UNITED STATES DEPARTMENT OF ENERGY DOE
+ECNE
+FONOTADNUOF
+42
+EUROPEAN COMMISSION
+I
+CSLARUTAN
+CFSNANHC
+LANOTAN
+I
+23UNITED STATES 
+ENGINEERING PHYSICAL SCIENCES RESEARCH COUNCIL EPSRC
+I
+I
+DEPARTMENT OF DEFENSE
+PAGE
+13
+[Page #13]
+Journal
+Number of citations
+Journal
+Number of citations
+97
+96
+396
+138
+Argentina 
+6
+Japan 
+6
+UNIVERSITÉ GRENOBLE ALPES
+COMMUNAUTÉ UNIVERSITÉ GRENOBLE ALPES
+UDICE FRENCH RESEARCH UNIVERSITIES
+UNIVERSITÉ PARIS CITÉ
+Australia Austria 
+1217
+Netherlands New Zealand 
+142
+Belgium 
+5
+Portugal 
+1
+Brazil 
+6
+Republic of Korea  1
+122
+Canada 
+14
+Romania 
+6
+SORBONNE UNIVERSITÉ
+40
+90CEA
+377
+Chile 
+1
+Singapore 
+1
+China 
+19
+Slovenia 
+1
+CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS
+Denmark 
+4
+South Africa 
+1
+FOETUT
+117
+France 
+142
+Spain 
+44
+79
+PN
+I
+UNIVERSITÉ PARIS-SACLAY
+TSN
+Germany 
+48
+Sweden 
+3
+I
+SC
+PSL RESEARCH UNIVERSITY PARIS
+I
+I
+SRNC
+SYHP
+Hungary 
+1
+Switzerland 
+29
+India 
+2
+UK 
+11
+Ireland 
+1
+USA 
+152
+560 papers from French authors were published in this period. The most common journals these papers were published in are shown below.
+Israel 
+1
+Italy 
+22
+Grand Total 
+573
+Journal
+Number of papers
+The lead author’s institutional country for these fifty papers is shown in Table 2.
+PHYSICAL REVIEW A 
+35
+PHYSICAL REVIEW LETTERS 
+26
+PHYSICAL REVIEW B 
+24
+Journal
+Number of papers
+NATURE COMMUNICATIONS 
+17
+Austria 
+1
+PHYSICAL REVIEW RESEARCH 
+16
+Belgium 
+1
+PHYSICAL REVIEW X 
+15
+Brazil 
+1
+PRX QUANTUM 
+13
+Canada 
+1
+NATURE PHYSICS 
+12
+Denmark 
+1
+NPJ QUANTUM INFORMATION 
+12
+France 
+15
+SCIENTIFIC REPORTS 
+12
+Germany 
+6
+Italy 
+2
+Japan 
+1
+These papers were then ranked in terms of number of citations, and the top fifty selected. These fifty papers were cited over 570 times between them. These citations can provide an indication of activity, as well crosslinks and collaborations between the countries in question.
+Netherlands 
+2
+Spain 
+4
+Switzerland 
+1
+USA 
+14
+Grand Total 
+50
+PAGE
+14
+[Page #14]
+Germany
+Hamburg
+The Federal Republic of Germany is based on the principle of federalism and on constructive cooperation between the Federal Government and the 16 individual states (called the Länder). The Federal Government and the states act independently regarding the funding and organisation of research. In 2018 across Germany more than 104 billion euros were invested in research and development generally, with the public sector providing approximately 30% of funding – in addition to funding higher education, the public sector also finances non-university research organisations that are especially involved in fostering research talent. There are more than 5,000 foundations incorporated under civil law in Germany that aim to promote science. The Stifterverband is an association of foundations, which in 2019 alone provided 17.2 million euros in funding for education, science and cooperation between business and science. Additionally, roughly €15.5 million are used to fund endowed chairs. [37] In 2019, business enterprises invested more than €75.6 billion in R&D, making industry the biggest contributor to R&D funding. The Federation of German Industries (BDI) is the umbrella organisation for more than 40 affiliated industrial associations that represent the interests of over 100,000 companies with more than 8 million employees.
+Hannover • Braunschweig
+Aachen • Bonn • Köln
+ynamreG
+Dresden • Würzburg
+Stuttgart • Ulm
+München
+Integrated Quantum ScIence and technology
+Munich Center for Quantum Science and Technology
+German Quantum Alliance [40]
+Affiliated with Quantum-Alliance.de
+Quantum computing related centres include:
+In May 2021, Germany announced a €2bn national programme, divided into two streams. The science ministry committed to spend €1.1bn by 2025 to support research and development in quantum computing. The economy ministry will spend €878m backing practical applications, of which Germany’s Aerospace Center (DLR) will receive the bulk of the funding - about €740m to partner with industrial companies. Then Science Minister Anja Karliczek said the government’s goal was to meet the target of building a competitive quantum computer in Germany in five years, and to create a network of companies in the field to develop cutting-edge applications [38].
+Name
+Description
+Institutions
+ct.qmat
+Complexity and Topology in Quantum Matter
+•  Julius-Maximilians-Universität Würzburg(JMU)•  Technische Universität Dresden
+ML4Q
+Matter and Light for Quantum Computing
+•  University of Cologne•  RWTH Aachen•  University of Bonn•  Research Center Jülich
+MCQST
+Munich Center for Quantum Science and Technology
+•  Ludwig-Maximilians-Universität Munich (LMU)•  Technical University Munich (TUM)•  Max Planck Institute of Quantum Optics (MPQ)•  Walther-Meißner-Institut (WMI)•  Deutsches Museum (DM)
+Quantum CentresQuantum Alliance
+IQST
+Integrated Quantum Science and Technology
+•  University of Stuttgart•  Ulm University•  Max Planck Institute for Solid State Research, Stuttgart
+The Quantum Alliance is a consortium of “German Clusters of Excellence” and research centres working in quantum science and technology across Germany, which was formed in 2019. The Quantum Alliance is funded by the German Research Foundation [39].
+PhoenixD
+Merge optical systems, design and simulation tools with all relevant production technologies into one combined platform
+•  Leibniz Universität Hannover•  TU Braunschweig•  Laser Zentrum Hannover e.V.•  Max Planck Institute for Gravitational Physics   (Albert-Einstein-Institute)
+PAGE
+15
+[Page #15]
+Munich Quantum Valley
+•  The development of the quantum information theory behind Noisy Intermediate-Scale 
+Theoretical Quantum Computing (THEQUCO)
+Quantum (NISQ) and analog devices.
+At a state level, notable is The Munich Quantum Valley (MQV), an initiative for the promotion of Quantum science and technology supported by the Bavarian state government. As a hub between research, industry, funders and the public it is intended, among other things, to help develop and operate competitive quantum computers in Bavaria, in addition to education and training. It is part of Bavaria’s Hightech Agenda+, a fund of €900m to strengthen the state’s technology investment in 2021 and 2022.
+•  New quantum algorithms both for present and planned scalable generations of devices.
+•  builds new methods and protocols to certify quantum computers and their capability of demonstrating a quantum advantage. Finally, it investigates the improvement of current quantum computers by establishing new control and error mitigation methods, and helps scaling them up by devising and improving error correction techniques.
+•  The creation of a Munich Quantum Software Stack: a unified software stack, enabling 
+Quantum Development Environment, System Software & Integration (Q-DESSI)
+the use of quantum-computing systems for reliable, scalable and multi-user access, and supporting hybrid HPC/QC applications.
+•  The development of a programming environment, including problem-independent 
+The MQV was founded in January 2022 by:•  The Bavarian Academy of Sciences and Humanities (BadW),•  The German Aerospace Center (DLR)•  The Fraunhofer Society (FhG)•  The Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)•  The Ludwig-Maximilians-Universität München (LMU)•  The Max Planck Society (MPG)•  The Technical University of Munich (TUM)
+programming abstractions and development tools, hybrid abstractions integrating QC into Von-Neumann-based languages, quantum operating and runtime systems, new architectures for control processors as well as the integration into the HPC ecosystem
+•  The development of electronic components and systems for future quantum computers
+Scalable Hardware & Systems Engineering (SHARE)
+•  Semiconductor Technology and Integration for Functional and Scalable QC-Hardware.
+•  The focus will be on the implementation and evaluation of NISQ-compatible variational or kernel-based algorithms in order to identify a potential quantum advantage already on existing noisy hardware. For the underlying theory, the QACI consortium will work closely together with the THEQUCO consortium.
+Quantum Algorithms for Application, Cloud & Industry (QACI)
+[41]
+The MQV has published a three-point plan, which includes the establishment of a centre for quantum computing and quantum technologies, a quantum technology park, and qualification and training.
+•  Make best use of the planned hardware generations within the MQV.
+Hardware Adapted Theory (HAT)
+•  Contribute to the hardware development itself by providing numerical modeling of 
+hardware components
+•  Developing tools to characterize the hardware and its errors.•  The consortium will develop hardware-adapted quantum control strategies and quantum 
+The MQV operates across the full stack, with particular strengths in neutral atom, superconducting and trapped ion technologies, and with over 50 research groups involved across the institutions. It is divided into the following work packages, with interlinks between them. [43]
+error-correction protocols to optimize the fidelity and robustness of experimental quantum operations in the presence of noise and experimental imperfections and constraints.
+There have been several notable activities by the MQV since its formation at the start of 2022. In February 2022, a Call for Lighthouse Projects was announced, targeting application-oriented fundamental research projects. In August that year the first five projects to be funded were announced, totalling around €17m. [44] In March MQV launched its “Fit for Quantum” initiative, designed to promote quantum technologies among young scientists, with universities in Augsburg, Bayreuth, Erlangen-Nuremberg, Munich, Regensburg, and Würzburg will each receive around €144k in funding. [45] Finally, in June 2022 MQV made around €20m available for new professorships in Bavaria to strengthen the state’s profile in quantum sciences and quantum technologies [46].
+Superconducting Qubit Quantum Computer (SQQC)
+•  Implement fast (re-)calibration and tune-up schemes including specific firmware for the 
+operation of generalized types of qubits.
+•  Efficient optimization algorithms including real-time pulse sequencing and high-fidelity 
+reset operations for high trigger rates will be developed.
+•  In collaboration with the THEQUCO, Q-DESSI and HAT consortia, the SQQC consortium 
+will then develop and run benchmark algorithms in a high-performance computing environment
+Trapped Atom Quantum Computer (TAQC)
+•  The construction of a gate-based quantum computer based on neutral strontium atoms.
+•  This includes fast and high-quality optical switches (together with partners at Qubig and 
+the University of Heidelberg) and their fast electronic control (together with Fraunhofer IIS).
+•  The TAQC consortium will also leverage the synergies within the MQV to develop a remote 
+access point to our quantum computing demonstrator
+PAGE
+16
+[Page #16]
+Jülich Supercomputing Centre
+Fraunhofer-Gesellschaft
+The Jülich Supercomputing Centre, based in the state of North Rhine-Westphalia, was the first German supercomputing centre, opening in 1987. It opened a new quantum computer building in summer 2021, and now offers JUNIQ (Jülich UNified Infrastructure for Quantum computing) – a “Quantum Computing Platform as a Service,” providing European users support and access to quantum computer emulators and quantum computing technologies of different types and maturity. JUNIQ will also integrate quantum computers in the form of quantum-classical hybrid computing systems into the modular HPC environment of the Jülich Supercomputing Centre. [47]
+The Fraunhofer-Gesellschaft, based in Germany, is a leading applied research organization which plays a significant role in the innovation process. Founded in 1949, it operates 76 institutes and research units throughout Germany and has over 30,000 employees, with an annual research budget of €2.9 billion, of which €2.5 billion is from contract research [50]. In June 2021 it announced a collaboration with IBM, through the hosting of the first IBM quantum computer outside the United States, within the “Competence Center Quantum Computing Baden-Württemberg”. The system is available to industrial companies, SMEs, startups and academic institutions, with all processed project and user data remaining in Germany. “Our goal is to enable Baden-Württemberg, as a leading industrial and innovative region in Europe, to play a major role in creating added value with quantum computing” said Dr. Nicole Hoffmeister-Kraut, the state’s Minister of Economic Affairs, Labour and Housing [51], [52].
+An important part of this is QSolid, a four-year project running from January 2022 to December 2026, which aims to develop a comprehensive ecosystem for a demonstrator based on superconducting qubits, which will be made accessible to external users via JUNIQ. 25 companies and research institutions are involved in the project, which has a budget of €76.3m, the majority of which is funded by the Federal Ministry of Education and Research. The first prototypes of the planned demonstrators in QSolid are being produced at Leibniz IHPT in Jena and are expected to be operational by 2024. [49]
+Six collaborative projects have been announced by the Competence Centre for kick-off in 2021 and 2022. Six Fraunhofer Institutes are collaborating on these projects, along with 16 other university, college and non-university institutes from the state as well as about 40 associated corporate partners from Baden-Württemberg and wider Germany [52], [53]. A call for proposals for a second phase of projects was announced in June 2022, aiming to transfer research into practical applications and further expand the quantum computing ecosystem of universities, research institutes, start-ups and companies in Baden-Württemberg [52].
+Research institutions involved in QSolid include:
+•  Seven subinstitutes from Jülich’s 
+•  Leibniz IPHT
+Project
+Description
+Peter Grünberg Institute
+•  National Metrology Institute (PTB),
+•  Jülich Supercomputing Centre (JSC),
+•  CiS Forschungsinstitut für 
+QC-4-BW
+Diamond-based spintronic quantum register for a scalable quantum processor
+•  Central Institute of Engineering, 
+Mikrosensorik,
+QORA
+Quantum optimization using resilient algorithms
+Electronics and Analytics (ZEA-2)
+•  Ulm University,
+SEQUOIA
+Software engineering of industrial, hybrid quantum applications and algorithms
+•  Qruise (a spin-out from 
+•  University of Stuttgart,
+SiQuRe
+Modeling and simulation of qubit registers from chains of NV centers on dislocations in diamond
+Forschungszentrum Jülich)
+•  Freie Universität Berlin,
+•  Fraunhofer IPMS
+•  University of Konstanz,
+QuESt
+Material design for electrochemical energy storage and conversion devices using innovative simulation techniques
+•  Fraunhofer IZM-ASSID,
+•  University of Cologne
+EFFEKTIF
+Stability analysis and error correction protocols for critical infrastructure networks
+•  Karlsruhe Institute of Technology (KIT),
+[49]
+PAGE
+17
+[Page #17]
+CollaborationsIn July 2018 Germany’s Forschungszentrum Jülich and the DESY (Deutsches Elektronen-Synchrotron) research centre signed an MoU with the Canadian companies TRIUMF, TRIUMF Innovations, D-Wave Systems and 1Qbit. The MoU sets out to jointly establish Canadian and German quantum computing and machine learning networks and to collaborate on applied quantum computing and machine learning initiatives of mutual interest [54]. This represents a strong, international collaboration between the research and private sectors.
+An analysis of the funding categories for German active QIT-related projects reveals the majority of activity is contained within “quantum computer demonstration setups.”
+Funding Measure
+  Quantum computer demonstration setups
+  Quantum processors and technologies for 
+quantum computing
+  Enabling technologies for quantum 
+technologies
+  Application network for quantum 
+computing
+In 2021, a report completed for Canada’s National Research Council (NRC) by Global Advantage identified Germany as a priority collaboration partner in research and development of quantum technologies [55].
+  Enabling start-up –company foundations in quantum technologies and photonics
+  Quantum technologies - funding of 
+research work at universities and research institutions
+An analysis of German involvement in EU projects reveals more activity than any other country, at 87 projects total, 48 of which began between 2017 and 2021.
+  Quantum computing - algorithms, 
+software, applications
+  Key components for quantum technologies
+Germany Quantum Computing EU Projects
+  Young talent competition quantum futur 
+–round 2.
+2008
+  Young talent competition quantum futur
+2009
+  Quantum futur education - network of interdisciplinary education and training concepts in quantum technologies
+2010
+2011
+2012
+  Quantera call 2021
+2013
+)raey(
+  Quantum futur education - network of interdisciplinary education and training concepts in quantum technologies.
+2014
+2015
+tratS
+2016
+  Scientific preliminary projects (WIVOPRO): 
+2017
+photonics and quantum technologies
+2018
+  Quantera call 2019
+2019
+2020
+2021
+We analysed papers published from 2018 onwards, with some or all of the authors are based in German institutions. A visualisation of the top ten funding bodies for these bodies of work is shown below – as well as domestic and European funding, there is also notable activity from China, the UK and Spain. Similar visualisations categorising the papers and showing the affiliations of the authors are also shown.
+2022
+0
+2
+4
+6
+8
+10
+12
+14
+Number of projects
+PAGE
+18
+[Page #18]
+These papers were then ranked in terms of number of citations, and the top fifty selected. These fifty papers were cited over 880 times between them. These citations can provide an indication of activity, as well crosslinks and collaborations between the countries in question, with China third on the list, behind the USA and Germany, and ahead of Spain and the UK.
+106
+101
+560
+200
+NATIONAL SCIENCE FOUNDATION NSF
+FEDERAL MINISTRY OF EDUCATION RESEARCH BMBF
+GERMAN RESEARCH FOUNDATION DFG
+EUROPEAN RESEARCH COUNCIL ERC
+Journal
+Number of citations
+Journal
+Number of citations
+62
+67
+86
+Argentina Australia Austria Azerbaijan Belgium Brazil Canada China Czech Republic Denmark Finland France Germany Hungary Iceland Israel 
+6232058345515125125117
+Italy Japan Mexico Netherlands Poland Russia Slovakia South Africa Spain Sweden Switzerland Thailand UK USA 
+14212106151150137149386
+349
+UK RESEARCH INNOVATION UKRI
+ALEXANDER HUMBOLDT FOUNDATION
+TNEMNREVOG
+EUROPEAN COMMISSION
+82
+62
+HSNAPS
+I
+ENGINEERING AND PHYSICAL RESEARCH COUNCIL EPSRC
+NATIONAL SCIENCE FOUNDATION OF CHINA NSFC
+276
+181
+91
+74
+HELMHOLTZ ASS0CIATION
+RESEARCH CENTRE JÜLICH
+TECHNICAL UNIVERSITY OF MUNICH
+UDICE FRENCH RESEARCH UNIVERSITIES
+72
+67
+FREE UNIVERSITY OF BERLIN
+UNIVERSITY OF COLOGNE
+180
+266
+RWTH AACHEN UNIVERSITY
+MAX PLANCK SOCIETY
+69
+50
+Grand Total 
+884
+CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS
+UNIVERSITY OF STUTTGART
+Journal
+Number of papers
+Australia Austria Belgium China France Germany Israel Japan Poland Russia Spain Switzerland UK USA Grand Total 
+1114215111123 5 1250
+1,326 papers from German authors were published in this period. The most common journals these papers were published in are shown below.
+Journal
+Number of publications
+PHYSICAL REVIEW B 
+111
+PHYSICAL REVIEW A 
+102
+PHYSICAL REVIEW LETTERS 
+93
+PHYSICAL REVIEW RESEARCH 
+60
+NATURE COMMUNICATIONS 
+36
+NEW JOURNAL OF PHYSICS 
+36
+QUANTUM 
+33
+QUANTUM SCIENCE AND TECHNOLOGY 
+31
+NPJ QUANTUM INFORMATION 
+28
+PHYSICAL REVIEW APPLIED 
+27
+PAGE
+19
+[Page #19]
+Austria
+Research groups include:•  Quantum information science and quantum computation•  Matter-wave interferometry•  Many-body quantum theory•  Theory of quantum foundations•  Quantum micromechanics•  Relativistic quantum information•  Quantum information and foundations of physics and several other areas [61].
+The Quantum Austria Research Initiative launched November 2021 and runs until 2026. At the initiative of the Austrian Federal Ministry of Education, Science and Research (BMBWF), €107m in funding was invested from the NextGenerationEU Development and Resilience Plan to accelerate the development of quantum research and technologies. The aim is to enhance Austria’s competitiveness and increase European cooperation in this strategic key technology sector, with funding available for both basic research as well as the development of practical applications. A total of three calls for applications are planned until 2026 [56], [57].
+In a similar vein, the Austrian Academy of Sciences runs the Erwin Schrödinger Center for Quantum Science & Technology (ESQ). ESQ is described as an Austria-wide postdoc programme, supporting the integration of incoming experienced researchers, and discovery programme allowing the exploration of highly innovative research. It is financed by the BMBWF, with the project also receiving funding from the EU’s Horizon 2020 programme, and is operated in partnership with 40 Austrian research groups at the University of Vienna, the Vienna University of Technology and the University of Innsbruck, as well as the Austrian Academy of Sciences [62].
+airtsuA
+The first Quantum Austria projects were announced in July 2022. The first project to be approved was the proposal “MUSICA” (Multi-Site Computer Austria) with a funding amount of €20 million. This joint project under the consortium leadership of the Vienna Scientific Cluster, a collaboration of several Austrian universities, aims to establish a powerful new research infrastructure in the field of high-performance computing in Austria in the coming years. Coupling this HPC infrastructure with a quantum computer is one of the funding initiative’s key goals. [58] €3 million of funding was also made available for ten university-led research projects in Graz, Innsbruck, and Vienna.
+The University of Innsbruck is a major centre for the development of trapped ion technologies, and was the first research group to successfully demonstrate controlled teleportation of quantum information [ref Deterministic quantum teleportation with atoms, Nature 429 734 (2004)]. They have research programmes in:•  2D ion crystals for quantum simulation•  Single ion-single photon interactions•  Surface ion traps•  Photon frequency conversion for ions•  Precision measurements
+•  QCosmo (Quantum Control of Molecules)•  Quantum information•  Quantum Simulation•  Ultrafast two-qubit phase gates
+Quantum CentresThe Vienna Centre for Quantum Science and Technology (VCQ) is a joint initiative of the University of Vienna, the Vienna University of Technology, the Austrian Academy of Sciences, and the Institute of Science and Technology Austria, which unites quantum physicists of Vienna’s research institutions in one collaborative centre. The research institutions are the University of Vienna, the Vienna University of Technology, the Institute of Science and Technology Austria, and the Austrian Academy of Sciences. There are 14 research groups in the Quantum Information / Computing / Communication work package, and it is notable how the VCQ so closely groups the work between computing and communication [59], [60].
+CollaborationsAustrian research is also highly collaborative, with the BMBWF stating “international collaboration and international exchange in education, science and research are essential prerequisites for assuring Austria’s quality location for activities in these fields,” [63]. The EU is particularly important in this context. Since 2014 Austria has received around €1.5 billion from Horizon 2020 across all fields, with 3,656 participations (of which approximately 37% can be attributed to businesses and 29% to universities), ranking third in Europe. [64]. In the context of Quantum Austria, the Austrian Research Promotion Agency (FFG) described how “The funding instruments of FFG and FWF (Austrian Science Fund) provide tailor-made support here for local stakeholders along the entire innovation axis. In addition, through its European network, FFG is contributing to strengthening transnational cooperation on this important key technology,” [56].
+Vienna is also home to the Vienna Doctoral Program on Complex Quantum Systems (CoQuS), a training center for around 40 students who are selected from an international pool of applicants, based primarily on their academic excellence. The doctoral program is funded by the Austrian Science Fund, and jointly hosted and co-financed by the University of Vienna and the Vienna University of Technology. Research in CoQuS covers experimental and theoretical quantum physics, including quantum information science and computation, cold atoms and atom chips, and quantum integrated devices. 
+PAGE
+20
+[Page #20]
+An example of Austria’s collaboration with European neighbours is a project around spin qubits, as published in Nature Materials under A singlet-triplet hole spin qubit in planar Ge. The authors are affiliated with institutions in Austria, Italy, Germany and Spain, with the research supported by funding from multiple sources, [65] [66].
+291 papers from Austrian authors were published in this period. The most common journals these papers were published in are shown below.
+JournalPHYSICAL REVIEW LETTERS PHYSICAL REVIEW A NATURE NPJ QUANTUM INFORMATION NEW JOURNAL OF PHYSICS PRX QUANTUM QUANTUM IEEE TRANSACTIONS ON COMPUTER-AIDED DESIGN OF INTEGRATED CIRCUITS AND SYSTEMS NATURE PHYSICS PHYSICAL REVIEW RESEARCH 
+Number of publications
+26191312101087
+An analysis of papers published from 2018 onwards, with some or all of the authors are based in Austrian institutions, was undertaken. A visualisation of the top ten funding bodies for these bodies of work is shown below – as well as domestic and European funding, there is also notable activity from Germany and the United States. Similar visualisations showing the affiliations of the authors are also shown.
+39
+24
+21
+100
+77
+AUSTRIAN SCIENCE FUND FWF
+EUROPEAN RESEARCH COUNCIL ERC
+AIR FORCE OFFICE OF SCIENTIFIC RESEARCH AFOSR
+UK RESEARCH INNOVATION UKRI
+These papers were then ranked in terms of number of citations, and the top fifty selected. These fifty papers were cited 630 times between them. These citations can provide an indication of activity, as well crosslinks and collaborations between the countries in question, with the USA, Germany, Spain and China leading after Austria.
+31
+20
+19
+GERMAN RESEARCH FOUNDATION DFG
+Number of citations111475233135
+JournalAustralia Austria Azerbaijan Belgium Brazil Canada Chile China Czech Republic  25Denmark 26France 68Germany 1India 3Israel 
+Number of citationsJournal14Italy 4Japan 1Korea 18Netherlands Poland 1Republic of Korea  1Russia Spain Sweden Switzerland Thailand UK USA Grand Total 
+LIT SECURE AND CORRECT SYSTEMS LAB, STATE OF UPPER AUSTRIA
+66
+FOTNEMTRAPED
+SETATSDETNU
+EUROPEAN COMMISSION
+20
+EODYGRENE
+27
+NATIONAL SCIENCE FOUNDATION NSF
+UNITED STATES DEPARTMENT OF DEFENSE
+I
+1351226119161 630
+29
+24
+112
+69
+MAX PLANK SOCIETY
+UDICE FRENCH RESEARCH UNIVERSITIES
+UNIVERSITY OF INNSBRUCK
+JOHANNES KEPLER UNIVERSITY LINZ
+21
+23
+41
+JournalAustria China France Germany Italy Netherlands 
+Number of papers2122712
+JournalRussia Spain Switzerland UK USA Grand Total 
+Number of papers1113950
+88
+CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS
+HELMHOLTZ ASSOCIATION
+UNIVERSITY OF VIENNA
+AUSTRIAN ACADEMY OF SCIENCES
+34
+TECHNISCHE UNIVERSITÄT WIEN
+15 SOFTWAREPARK 
+HAGENBERG
+PAGE
+21
+[Page #21]
+Denmark
+Copenhagen:
+Aalborg:
+• Solid state research• Quantum photonics• Quantum 
+• Nano-Optic
+Denmark has a proud history in quantum, from Niels Bohr formulating his theory on the hydrogen atom in 1913. Its quantum research activity is strong. The University of Copenhagen ranks 7th in the world on quantum scientific impact measured by the number of unique first-author publications, and Danish quantum researchers receive a higher proportion of EU research funds than researchers in other fields. Denmark has the highest concentration of enrolled graduates attending quantum-related scientific studies globally, with 635 graduates attending quantum-related studies per million inhabitants. France has the second most graduates with 438 per million inhabitants [67], [20].
+cryptography (QKD)
+Aarhus:
+• Precision 
+measurement
+• Quantum 
+• Design competences 
+communication
+kramneD
+of accelerator systems and subsystems• Nano- and 
+• Quantum 
+cryptography
+• Quantum 
+optics
+microfabrication• Magnetism and 
+• Quantum matter
+quantum materials
+The Ministry of Foreign Affairs of Denmark highlights the competencies shown within the Danish quantum ecosystem. Despite this, Denmark does not have a formal national programme in place. Certain stakeholders consider the government’s official stance on quantum technology and support for funding applied research and innovation to be weaker than in neighbouring countries, though the stakeholders do recognise that some government actors show dedication to the quantum agenda, notably Innovation Fund Denmark and the Ministry of Foreign Affairs, [20].
+Odense:
+• Quantum 
+plasmonics and 2D photonic materials• Quantum 
+mathematics
+Danish Quantum Ecosystem
+A noteworthy project recently funded by the Innovation Fund is PhotoQ, a four-year, circa €3m initiative. The project has the overarching ambition to build a scalable photonic-based quantum computer. The consortium behind this works across the entire value chain, with expertise in logistics optimization provided by AMCS Group, quantum chemistry via Molecular Quantum Solutions, quantum algorithmic expertise at Aarhus University and Kvantify, laser technology from NKT Photonics, and in the development of photonic quantum computer hardware at the Technical University of Denmark, [68].
+Following an earlier national programme (Qubiz), the Danish Quantum Community was initiated in January 2020, on the initiative of the Department of Physics and Astronomy at Aarhus University, Department of Physics at the Technical University of Denmark (DTU), and the Niels Bohr Institute at Copenhagen University. The purpose of the Danish Quantum Community is to unite all national stakeholders and to create a room for synergies across research institutions, industries, and funding bodies with the aim of advancing the development of quantum technologies in Denmark [70].
+In June 2022 the University of Copenhagen, in collaboration with DTU, announced Denmark's first programme of study in quantum information science, aimed at ensuring the development of a qualified quantum sciences workforce. The programme is a two-year MSc that is interdisciplinary, combining the fields of physics, mathematics, chemistry and computer science, and begins with a general introduction to quantum information theory before specialisations [71].
+PAGE
+22
+[Page #22]
+On June 8th 2022, Denmark and the United States signed a Joint Statement on Cooperation in Quantum Information Science and Technology, described as a means of leveraging both countries’ strengths in quantum information science and technology (QIST) and QIST-enabling fields to pursue innovative research, grow the future marketplace, build a strong supply chain, and nurture future skills. Anne Hougaard Jensen, Director of Invest in Denmark, noted that with the Joint Statement “I am sure that our increased cooperation with American companies and research institutions will grow our world-class ecosystem further,” [77].
+A notable trait in Denmark is the significant role of foundations in the funding of quantum research and development. This can be shown with the activity of two foundations, The Villum Foundation and The Novo Nordisk Foundation. The Villum Foundation, founded in 1971, primarily supports research activities in science and technology, and makes large grants to “research centres without walls” – the VKR Centres of Excellence. [72] In 2016 it granted 30m DKK (~€4m) for a new research centre at the University of Copenhagen - The Villum Centre of Excellence for the Mathematics of Quantum – with the aim to contribute to the mathematical understanding of quantum physics, with a special emphasis on the interaction between quantum matter and quantum information.
+An analysis of Denmark’s involvement in EU projects reveals 35 projects funded in total, with over half that number starting since 2017.
+The Novo Nordisk Foundation is an independent Danish foundation with corporate interests, which awarded nearly 9bn DKK in grants for new projects and initiatives in 2021 alone. [73] In September 2020, it awarded 108.6m DKK (~€14.6m) to the University of Copenhagen for two new centres, focussed on quantum simulation in the field of biochemistry. The Solid-State Quantum Simulators for Biochemistry (Solid-Q) centre will work on applying and integrating two types of quantum simulation hardware, whilst the Quantum for Life centre aims to develop mathematical algorithms that can be used for the quantum simulation of biomolecules. [74] More recently, in July 2022 the foundation provided 13.7m DKK for the research project Fundamentals of Neutral Atom Quantum Simulators, as part of its NERD programme. [75]. In September 2022, the Novo Nordisk Foundation announced a twelve year programme to develop Denmark’s first fully functional generally applicable quantum computer, with funding of DKK 1.5 billion [76].
+Denmark Quantum Computing EU Projects
+2008
+2009
+2010
+2011
+2012
+)raey(
+2013
+2014
+tratS
+2015
+2016
+2017
+2018
+2019
+2020
+CollaborationsDenmark is a small nation and traditionally relies on collaboration and partnerships to overcome key barriers [20]. In April 2022, it was announced that NATO had selected a Danish site to host a quantum technology centre, as part of the Defence Innovation Accelerator for the North Atlantic (DIANA). The centre will be based at the Niels Bohr Institute with contributions from the Technical University of Denmark (DTU), the Aarhus University, and the Danish National Metrology Institute. The project will consist of an accelerator to provide training and mentoring for companies to develop commercial solutions, and a centre for development and testing of physical components for quantum technologies.A test centre and manufacturing unit composed of physical laboratories and testing facilities that could be involved in the development and testing of physical components for quantum sensors, quantum encryption units, or quantum computers [76].
+2021
+0
+1
+2
+3
+4
+5
+6
+Number of projects
+An analysis of papers published from 2018 onwards, with some or all of the authors based in Danish institutions, was undertaken. A visualisation of the top ten funding bodies for these bodies of work is shown below – there is heavy European funding, along with notable funding from foundations. Microsoft, which in 2018 opened a Quantum Materials Lab in Copenhagen tasked with fabricating the materials for a scalable quantum computer [78] – in collaboration with the University of Copenhagen and DTU – also features on the list.
+PAGE
+23
+[Page #23]
+Similar visualisations showing the affiliations of the authors are also shown.
+174 papers from Danish authors were published in this period. The most common journals these papers were published in are shown right.
+JournalPHYSICAL REVIEW B PHYSICAL REVIEW LETTERS PHYSICAL REVIEW A NATURE PHYSICS NPJ QUANTUM INFORMATION PHYSICAL REVIEW RESEARCH PRX QUANTUM QUANTUM NANO LETTERS NATURE COMMUNICATIONS 
+Number of papers1313128555544
+52
+37
+23
+27
+EUROPEAN COMMISSION
+EUROPEAN RESEARCH COUNCIL ERC
+MICROSOFT
+ENGINEERING AND PHYSICAL SCIENCES RESEARCH COUNCIL EPSRC
+30GRUNDFORSKNINGSFOND 20
+DANMARKS 
+13
+48
+These papers were then ranked in terms of number of citations, and the top fifty selected. These fifty papers were cited just under 500 times between them. These citations can provide an indication of activity, as well crosslinks and collaborations between the countries in question. After Denmark, the USA tops the list, followed jointly by the UK and the Netherlands.
+CARLSBERG FOUNDATION
+FFDDÅRSGNNKSROF
+VILLUM FONDEN
+28
+20
+UK RESEARCH INNOVATION UKRI
+ERFTED
+I
+I
+GERMAN RESEARCH FOUNDATION DFG
+Number of citationsJournal22Australia 10Austria 2Belgium 2Brazil 5Canada 1Chile China 13Czech Republic  2Denmark France Germany Greece Hungary India Iran Israel 
+Number of citationsJournal14Italy 8Japan 1Malaysia 38Netherlands 1Norway 1Poland Portugal 1Republic of Korea  11Singapore 1Slovenia 29 Spain 2Sweden 13Switzerland 38UK 65USA 499Grand Total 
+94
+41
+40
+UNIVERSITY OF COPENHAGEN
+TECHNICAL UNIVERSITY OF DENMARK
+AARHUS UNIVERSITY
+188132011212
+13
+10
+10
+10
+65
+DELFT UNIVERSITY OF TECHNOLOGY
+LUND UNIVERSITY
+NIELS BOHR INSTITUTE
+The lead author’s institutional country for these fifty papers is shown.
+FOYT
+FOYT
+Lead CountryAustralia Austria China Denmark 
+Total11125
+Lead CountryGermany Iran Italy Netherlands 
+Total3123
+Lead CountrySpain Switzerland UK USA Grand Total 
+Total415350
+10
+10
+I
+I
+SREVNU
+SREVNU
+NODNOL
+LOTSRB
+MAX PLANCK SOCIETY
+HELMHOLTZ ASSOCIATION
+I
+I
+I
+PAGE
+24
+[Page #24]
+Finland
+Quantum Centres
+Finland established a national Centre of Excellence – Quantum Technology Finland (QTF) – in 2018. The programme, initially running until 2025, brings together researchers from Aalto University, the University of Helsinki and VTT Technical Research Centre of Finland. The research combines experimental, theoretical and applied, with a strong focus on superconducting and silicon-based devices, superconducting-metal interfaces. QTF is described as a global leader in thermodynamics and control of heat in quantum circuits, thermal microwave detection on hybrid devices made out of 1D and 2D materials cooled down into deep-mK regime, as well as on industrial-level production of superconducting sensors, building on Finnish expertise in developing electronics, superconducting circuits and sensors [79] [80] [81]. With an annual budget of around €12M, the programme is split into 5 work packages:
+As well as QTF, In July 2021 Aalto University, the University of Helsinki and VTT – the same institutions collaborating in QTF – announced InstituteQ. The partners described how the need to the need to team up resources and expertise across a wide spectrum in a collaborative center to pursue goals was well-demonstrated by similar initiatives across the EU. [83] The overall goals of InstituteQ are: to enable the partners to develop, coordinate and carry out the highest-level research in QSIT; to provide the best possible education for future workforce in this field, both in graduate and industrial programs; to drive innovation and leverage the national ecosystem building in quantum technology and to foster the development of relevant national infrastructures.
+dnanF
+l
+i
+There is a strong regional push for QIT in Helsinki. All three aforementioned institutions are based within the Greater Helsinki region. The City of Helsinki owns Helsinki Partners, a city marketing, investment and talent attraction company. It has begun promoting quantum computing, advertising a complete supply chain with activity from R&D to production. As well as the three institutions, Helsinki partners showcase IQM – a hardware provider for quantum computers, focusing on superconducting technology – and Bluefors, a manufacturer of dilution refrigerator systems [84] [85]. 
+1. 
+Control of quantum coherence and dissipation
+2.  Quantum machines and simulators
+3.  Hybrid architectures
+4.  Enabling technologies
+Focus areas for the Helsinki region include:
+•  Dilution refrigeration
+5. 
+Future quantum technologies
+•  Superconducting chip design and simulation
+•  Delivery and installation of quantum computing systems
+•  Superconducting electric circuits
+The 11 research teams include Superconducting Qubits and Circuit QED, Quantum Computing and Devices, and Photonics. QTF also partners with OtaNano, founded and developed by AALTO and VTT, and described as Finland's national research infrastructure for micro-, nano-, and quantum technologies. OtaNano provides nanofabrication, nanomicroscopy, and ultra-low temperature measurement facilities for quantum technologies, with around 500 users of the facilities annually and with over 30 collaborating companies [82].
+•  Quantum software and algorithms
+•  Fabrication of superconducting circuits
+•  Characterization of electronic circuits in cryogenic temperatures
+•  New quantum computing, control, initialization and readout schemes
+•  Cryogenic measurement systems
+•  Control electronics and QPUs
+PAGE
+25
+[Page #25]
+Outside of this, VTT and IQM are co-developing Finland’s first quantum computer (superconducting) as part of a €20.7m public procurement project funded by the Ministry of Economic Affairs and Employment. This begins with an initial five-qubit computer, Helmi, with an overall goal to build a larger, 50-qubit device by around 2024. [79]. Helmi, hosted at VTT, will be connected with the Finnish LUMI exa-scale supercomputer. LUMI is co-funded by the European High-Performance Computing Joint Undertaking (through the EU’s Connecting.
+Finland Quantum Computing EU Projects
+2010
+2012
+2013
+)raey(
+2016
+2017
+tratS
+Europe Facility and Horizon 2020) and the LUMI Consortium, composed of the following countries: Finland, Belgium, Czech Republic, Denmark, Estonia, Iceland, Norway, Poland, Sweden, and Switzerland [86] [87].
+2018
+2019
+2020
+2021
+0
+1
+2
+3
+4
+5
+6
+CollaborationsIn April 2022 a Joint Statement of the United States and Finland around cooperation in QSIT was issued. This described collaboration and joint promotion in quantum computing and networking, as well as other quantum technologies, as underpinning the development of society and industry. It also included a statement “committing to create inclusive scientific research communities and tackle cross-cutting issues of common interest such as equity, diversity, inclusion, and accessibility, so that every person is able to fully participate and have an equal opportunity to succeed [88].In the same month, it was announced that India and Finland will establish an Indo-Finnish Virtual Network Centre on Quantum Computing. The bilateral collaboration between the two countries attempts to stimulate innovative research and development projects that address a specific need or challenge, demonstrate high industrial relevance and commercial potential, and deliver benefit to both nations [89].
+Number of projects
+We analysed papers published from 2018 onwards, where some or all of the authors are based in Finnish institutions. A visualisation of the top ten funding bodies for these bodies of work is shown below, together with the affiliations of the authors. Finnish and European funding dominates, there is also activity from Japan, the UK and Germany. Unsurprisingly, Aalto University, VTT and the University of Helsinki top the affiliation list, with the University of Oulu also featured.
+47
+17
+8
+8
+ACADEMY OF FINLAND
+EUROPEAN RESEARCH COUNCIL ERC
+UK RESEARCH INNOVATION UKRI
+MINISTRY OF EDUCATION CULTURE SPORTS SCIENCE AND TECHNOLOGY JAPAN MEXT
+An analysis of Finland’s involvement in EU projects reveals 19 projects funded in total, with over half starting in the last four years.
+6
+6
+6
+ALFRED KORDELIN FOUNDATION
+ENGINEERING AND PHYSICAL SCIENCES RESEARCH COUNCIL EPSRC
+24
+HCRAESERNAMREG
+GFDNOTADNUOF
+EUROPEAN COMMISSION
+6
+6
+I
+EMIL AALTONEN FOUNDATION
+EUROPEAN UNION'S HORIZON 2020 RESEARCH AND INNOVATION PROGRAMME
+PAGE
+26
+[Page #26]
+Number of citationsJournal56Australia 9Austria 4Belgium 2Brazil 16Canada 1Chile 12China Colombia 1Czech Republic  24Denmark 179Finland 12France 46Germany 3Hungary 1Iceland 3India 9Italy 
+JournalJapan Mexico Netherlands Poland Portugal Russia Singapore South Africa Spain Sweden Switzerland Thailand UK Ukraine USA Vietnam Grand Total 
+Number of citations1929122111211241311931401621
+18
+62
+8
+6
+CTT TECHNICAL RESEARCH CENTER FINLAND
+AALTO UNIVERSITY
+UNIVERSITY OF JYVÄSKYLÄ
+HELMHOLTZ ASSOCIATION
+6
+6
+14
+IQM
+RWTH AACHEN UNIVERSITY
+UNIVERSITY OF HELSINKI
+6
+6
+14
+UNIVERSITY OF TURKU
+UNIVERSITY OF NEW SOUTH WALES SYDNEY
+UNIVERSITY OF OULU
+98 papers from Finnish authors were published in this period. The most common journals these papers were published in are shown below.
+The lead author’s institutional country for these fifty papers is shown.
+Journal
+Journal
+Number of papers
+Number of papers
+Australia Austria China Denmark Germany Iran Italy Netherlands Spain Switzerland UK USA Grand Total 
+111253123415350
+PHYSICAL REVIEW B 
+6
+NATURE COMMUNICATIONS 
+5
+APPLIED PHYSICS LETTERS 
+4
+NATURE 
+4
+PRX QUANTUM 
+4
+ANNALEN DER PHYSIK 
+3
+PHYSICAL REVIEW RESEARCH 
+3
+SCIENTIFIC REPORTS 
+3
+ADVANCED QUANTUM TECHNOLOGIES 
+2
+COMMUNICATIONS PHYSICS 
+2
+These papers were then ranked in terms of number of citations, and the top fifty selected. These fifty papers were cited 621 times between them. These citations can provide an indication of activity, as well crosslinks and collaborations between the countries in question. After Finland, there is plenty of activity in the USA, followed by Australia, ahead of Germany.
+PAGE
+27
+[Page #27]
+Netherlands
+Leiden:
+Applied quantum algorithms, with aQa, Google, Shell, Volkswagen, Total and others
+September 2019 saw the release of National Agenda for Quantum Technology (NAQT), with the intent of positioning the Netherlands as a world-leading centre and hub for quantum technology. The Netherlands has invested approximately €615 million in quantum technology research and development, with funding from the Dutch Ministry of Economic Affairs and Climate Policy. In 2021, €54m was allocated from the National Growth Fund for the programme’s first phase, with a further € 228m conditionally allocated for a second phase. In 2022, this conditional grant was converted into a definitive grant, and a further €333m reserved from the National Growth Fund for a 3rd phase. There is emphasis on creating a strong ecosystem connecting research, industry, startups, and national facilities [90] [91]. Core areas for the programme include Quantum Computation, Quantum Communication, Quantum Simulation and Quantum Sensing. For each area, the programme is building a network of suppliers, equipment manufacturers, application developers and end users [92].
+Delft: 
+sdnalrehteN
+Quantum computing, internet & network, with QuTech, Kavli Institute, Microsoft, Intel and others
+Amsterdam:
+Twente:
+Applied quantum algorithms, quantum sensing & simulation, with QuSoft, CWI, UvA, VU, SURFsara and others
+Quantum electronics and quantum photonics, with MESA+, Lockheed Martin, QuiX, Imec and others
+Eindhoven:
+Post-quantum crypto, quantum simulation & materials, with ASML, ThermoFisher, NanoLabNL and others
+Quantum Delta Netherlands (QDNL) is a public-private partnership of global technology companies, government agencies and all major quantum research centers in the Netherlands, launched in 2020 with the mandate to coordinate and execute the Netherland’s national agenda for NAQT. QDNL is described as a comprehensive program to “turn the NL into a Silicon Valley for Quantum Technologies,” aiming to position the Netherlands as a leading ecosystem in quantum technologies, with actions targeting all aspects of the ecosystem [93].
+There are five hubs within QDNL, as shown, headquartered at Delft, Amsterdam, Leiden, Eindhoven, and Twente. Each hub consists of research institutes, universities, companies, and startups. QDNL’s funding will be used to train 2,000 researchers and engineers, to scale 100 startups and to host three corporate R&D labs in the Netherlands by 2027.
+Quantum Computing and Simulation is one of the QDNL's three key technology demonstrators, with research and innovation and quantum ecosystem forming the first two action lines [94] [93]. Furthermore, as part of the QDNL network, researchers at Eindhoven University of Technology are building a hybrid quantum computer, with an aim to deliver by 2024 [95].
+PAGE
+28
+[Page #28]
+In August 2021, an MoU was signed between the Netherlands and France, with responsibility for implementation lying with QDNL and the French national quantum programme. The MoU is designed to strengthen cooperation in areas of mutual interest, including scalable quantum computers, cross-border quantum communication networks, private investment in start-ups and industry involvement in quantum. The first action from the MoU was a joint Dutch/French job board, an initiative of QDNL which offers a free overview the majority of jobs available in thequantum-ecosystem of the Netherlands and France, which are collected daily from the sites of startups, knowledge institutes and businesses [96].
+Quantum Centres
+In June 2015, TU Delft and TNO, along with the Dutch Research Council, the Ministry of Economic Affairs and the Ministry of Education announced their intention to support QuTech for a period of 10 years, with the Knowledge and Innovation programme Holland High Tech also partnering on the endeavour. Holland High Tech is one of the nine key economic focus areas established and supported by the Dutch government to further strengthen the Dutch international position through the “golden triangle” formed by companies, research institutes and government. [98] QuTech is a mission-driven research institute for quantum computing, covering the full stack from and with particular strengths in solid-state qubits, as well as the quantum internet [87] [88]. Since 2015 QuTech has collaborated with Intel on spin qubits in quantum dots, superconducting qubits, cryogenic control electronics, and quantum computer architecture. [99] QuTech’s goals for quantum computing are:
+In March 2022, the Quantum Application Lab (QAL) opened to explore the advantages and business opportunities for quantum computing
+•  QAL is a public-private R&D partnership that offers a unique team of scientists, 
+researchers, engineers, application developers, software and hardware specialists in a leading platform to explore and bring to market the benefits of quantum computing. QAL will support companies to navigate this complex and changeable environment. It will focus initially on optimization, simulation and machine learning applications. The founding consortium partners of QAL are: the University of Amsterdam (UvA) and Centrum Wiskunde & Informatica (CWI, the national research institute for mathematics and computer science),
+1. 
+To build a modular spin-qubit processor
+  2. 
+To release a scalable error-protected logical qubit with a 17-qubit superconducting circuit
+  3. 
+To develop a scalable quantum computing control system stack
+•  The Netherlands Organization for applied scientific research (TNO)
+  4. 
+To implement cryogenic integrated control and readout electronics  operating in close proximity to the qubits
+• 
+the Dutch collaborative ICT Organization for Dutch higher education and research (SURF)
+5. 
+To provide analyses and ideas towards implementing and assessing  the performance of quantum error correction for superconducting spin qubits [99], [100].
+•  Technical University TU Delft (on behalf Quantum Inspire)
+•  The Netherlands eScience Centre.
+QuTech also has the Qubit Research (QuRe) division, working to develop novel qubits that are protected from noise by design, on the belief that protected qubits will enable them to build a scalable quantum computer.
+IBM Quantum will serve as a technology provider [97].
+PAGE
+29
+[Page #29]
+In 2019 QuTech announced a partnership with Microsoft, who opened a new lab at Delft called the Microsoft Quantum Lab Delft in 2019. Ernst-Jan Stigter, General Manager of Microsoft Netherlands, asserted that “Joint public-private investments in resources and infrastructure, as we see here today, are critical to a quantum future,” [101].
+At a regional level, QuSoft founded Quantum.Amsterdam, along with partners Centrum Wiskunde & Informatica and The University of Amsterdam. It is an innovation hub with a mission to connect academia, industry and society in a quantum ecosystem in the Amsterdam region by facilitating knowledge exchanges and innovation [107].
+Both QuTech and QuSoft are collaborating as part of the Quantum Software Consortium (QSC). QSC is a project of University of Amsterdam, Leiden University, Delft University of Technology, Center for Mathematics and Computer Science (CWI) and Vrije Universiteit Amsterdam, partnered with QuTech and QuSoft, which is funded through the Gravitation programme of NWO (Netherlands Organization for Scientific Research) and awarded a 10-year grant for fundamental research in 2017. The QSC leverages the nearby clusters of expertise in quantum software (QuSoft, QuTech & Leiden) and quantum hardware (QuTech, Amsterdam & Leiden), and acts across four research lines, (i) software for quantum computers, (ii) software for quantum networks, (iii) cryptography in a quantum work and (iv) demonstrators [108] [109].
+In May 2020, QuTech announced Quantum Inspire, a prototype full-stack quantum computer, serving as a training and education platform, a test-bed for application development and as an invitation for co-development and collaborative R&D of quantum computers. Quantum Inspire is described as a platform with a high degree of modularity, containing a processor made of semiconductor spin qubits whilst also providing access to a processor made of superconducting (transmon) qubits. [102] QuTech is also a founder of Quantum Delft, a research and business community working within the growing quantum ecosystem at Delft [103].
+As well as QuTech, QuSoft – collaboration between the University of Amsterdam (UvA) and Centrum Wiskunde & Informatica (CWI) – was also founded in 2015. QuSoft’s mission is to develop new protocols, algorithms and applications that can be run on small to full-scale prototypes of a quantum computer [104]. The research at QuSoft can be divided into five research lines: Quantum Simulations & Few-Qubit Applications, Quantum Information Science, Cryptography in a Quantum World, Quantum Algorithms & Complexity and Quantum for Society and Business.One notable project QuSoft is working on is Project DisQover, a collaboration with ABN AMRO that explores potential applications of quantum computing in the financial industry. It aims to identify the complex computing problems ABN AMRO is currently tackling or would like to tackle in the near future, and research if and how these problems can be solved more efficiently on a quantum computer. QuSoft is also working with the Bosch Group in a two-year collaboration, investigating potential quantum computing use cases at Bosch, in topics ranging from optimization to machine learning. The collaboration involves an exploratory study of the use cases, as well as in-depth analysis and proof-of-concept simulations of the most promising applications [105].
+Women in Quantum Development, or in short WIQD (pronounced “wicked”), is a professional network for quantum technology enthusiasts from industry, academia, and policy. Its mission is to bring together women in quantum in the Netherlands, and beyond, for support, networking, and community growth [110].
+An analysis of the Netherlands’s involvement in EU projects reveals 42 projects funded in total, and a clear ramp-up in activity – half of the projects have started within the last three years alone.
+Netherlands Quantum Computing EU Projects
+2008
+2010
+2013
+)raey(
+2014
+2015
+tratS
+QuSoft has also started an exchange program with Quantum Leap Africa (QLA), a research institute in Rwanda closely linked to AIMS, the African Institute for Mathematical Sciences. For this exchange program QuSoft hosts QLA Master students – during their time in the Netherlands, they work on an MSc research project under the guidance of QuSoft researchers to prepare them for a future in quantum research [106].
+2016
+2017
+2018
+2019
+2020
+2021
+0
+1
+2
+3
+4
+5Number of projects
+6
+7
+8
+9
+10
+PAGE
+30
+[Page #30]
+We analysed papers published from 2018 onwards, where some or all of authors are based in Dutch institutions. A visualisation of the top ten funding bodies for these bodies of work is shown below, along with visualisations showing the affiliations of the authors are also shown. After funding from the Netherlands and Europe, Intel tops the list. Unsurprisingly, Aalto University, VTT and the University of Helsinki top the affiliation list, with the University of Oulu also featured.
+457 papers from Dutch authors were published in this period. The most common journals these papers were published in are shown below.
+JournalPHYSICAL REVIEW A QUANTUM PHYSICAL REVIEW LETTERS NATURE PHYSICAL REVIEW B QUANTUM SCIENCE AND TECHNOLOGY NATURE COMMUNICATIONS NEW JOURNAL OF PHYSICS NPJ QUANTUM INFORMATION PHYSICAL REVIEW X 
+No. of papers32191815141413131311
+121
+87
+30
+28
+NETHERLANDS ORGANIZATION FOR SCIENTIFIC RESEARCH NWO
+EUROPEAN COMMISSION
+NATIONAL SCIENCE FOUNDATION NSF
+GERMAN RESEARCH FOUNDATION DFG
+These papers were then ranked in terms of number of citations, and the top fifty selected. These fifty papers were cited 619 times between them. These citations can provide an indication of activity, as well crosslinks and collaborations between the countries in question. Again, the USA dominates the list after the Netherlands itself, followed at some distance by several EU countries, along with China and the UK.
+24
+20
+UK RESEARCH INNOVATION UKRI
+SWISS NATIONAL SCIENCE FOUNDATION SNSF
+96
+JournalAustralia Austria Belgium Brazil Canada Chile China Denmark Finland France Germany Hungary India Ireland 
+Number of citations1342261211011128121
+Number of citationsJournal1Israel 7Italy 4Japan 218Netherlands Poland 4Republic of Korea  21Singapore 22Spain 2Sweden 25Switzerland 20UK 210USA 
+EUROPEAN RESEARCH COUNCIL
+40
+22
+17
+INTEL CORPORATION
+ENGINEERING AND PHYSICAL SCIENCES RESEARCH COUNCIL EPSRC
+UNITED STATES DEPARTMENT OF ENERGY DOE
+228
+45
+40
+38
+62
+DELFT UNIVERSITY OF TECHNOLOGY
+UNIVERSITY OF AMSTERDAM
+DE
+EUQNHCETYLOPELOCÉ
+HCRAESERCF
+I
+LPPANOTAZNAGRO
+I
+SDNALREHTEN
+EDELARÉDÉF
+NOTACOSSA
+I
+ZTLOHMLEH
+ENNASUAL
+I
+I
+56
+I
+I
+I
+TNECS
+I
+LEIDEN UNIVERSITY
+Grand Total 
+619
+38
+29
+JournalAustralia Belgium China Italy Netherlands 
+Number of papers113132
+JournalPoland Spain Switzerland USA Grand Total 
+Number of papers141650
+RESEARCH CENTRE JÜLICH
+55
+NEHCAAHTWR
+YT
+LEIDEN UNIVERSITY EXCL LUMC
+33
+I
+SREVNU
+UNIVERSITY OF CALIFORNIA SYSTEM
+I
+PAGE
+31
+[Page #31]
+Poland
+The mission of the Centre is to create an integrated basis for interdisciplinary research in fields of quantum information processing and foundations of physics. Its research areas include Quantum Cryptography, Quantum Error Correction and Fault-Tolerant Quantum Computation [113].
+Quantum computing is contained within Poland’s Cyber Poland 2025 program, under “High Performance Computing & Quantum Computing.” The program aims to bring quantum computing to Poland's strategic resources [111]. In February 2022 it was announced the Polish Poznań Supercomputing and Networking Center (PSNC) would join the IBM Quantum Network, becoming the first such hub in central and eastern Europe. Janusz Cieszyński, Secretary of State, Government Plenipotentiary for Cybersecurity noted: “In order to keep a strong position in the European economy, Poland needs to actively participate in research and development work focusing on quantum computing. Also, to meet the ambitious objectives in the area of digital innovation benefiting science and the information society, we need to ensure that Poland has access to innovative e-infrastructure. Such access is vital for ensuring that all interested Polish parties are capable of taking advantage of highly advanced engineering and big data computing technologies. The incorporation of quantum computers into Poland’s strategic resources is one of the tasks we have ventured to achieve under the Cyber Poland 2025 program,” [112].
+In 2018, the Centre for Quantum Optical Technologies was founded at the University of Warsaw. It has research programmes in 
+•  Quantum Technologies•  Quantum Memories•  Quantum Information and Inference
+•  Quantum Resources and Information•  Quantum Optical Devices
+dnaoP
+The Centre was established with involvement from the University of Oxford under the International Research Agenda Programme, operated by the Foundation for Polish Science, and is hosted in the Centre of New Technologies. 
+l
+More recently, in February 2021 six Polish universities and two institutes of the Polish Academy of Science, signed a letter of intent on cooperation and the development of research. The cooperation between scientific centres will aim to establish an organisational structure for research and development of quantum technologies in Poland. The signatories of the letter also recognise the need for systemic and financial support from state bodies for world-class research in this field conducted in Poland. The signatories were as follows: Warsaw University, University of Gdańsk, Centre for Theoretical Physics PAN, Jagiellonian University, Nicolaus Copernicus University in Toruń, Adam Mickiewicz University, Wrocław University of Technology and the Institute of Physics of PAN [114].
+There are some notable large-scale projects in Poland. One such example is the TEAM-NET project “Quantum computers in the near future: challenges, optimal implementations and practical applications”. TEAM-NET is a programme of the Foundation for Polish Science which allows the funding of interdisciplinary scientific research carried out by a network of cooperating research teams. This project received PLN 17.77m (~€3.75m), and has four research groups investigating: quantum computing, quantum machine learning, control of complex quantum systems, quantum error correction and the issue of identifying resources responsible for the so-called quantum acceleration. The consortium of institutions include: the Centre for Theoretical Physics, the Faculty of Physics, Astronomy and Applied Computer Science at the Jagiellonian University, the Institute of Theoretical and Applied Informatics of the Polish Academy of Sciences [115]. Another TEAM-NET funded project is “Near-term Quantum Computers,” which aims at characterizing the computational power and investigating possible practical applications of quantum computing devices consisting of a limited number of imperfect qubits [116].
+Whilst Poland lacks a coordinated national quantum programme, there is a strong research activity in quantum, and cooperation between leading institutions helps drive the quantum agenda.
+In 2007, The Quantum Information Centre in Gdańsk (KCIK) was established at the University of Gdańsk as a joint research unit with eight Polish universities and research institutions: Gdańsk University of Technology, Adam Mickiewicz University,University of Gdańsk, Jagiellonian University, Nicolaus Copernicus University, University of Łódź, University of Wrocław, and the Polish Academy of Sciences (PAN). In June 2011, membership of KCIK was expanded to include the Centre for Theoretical Physics PAN.
+PAGE
+32
+[Page #32]
+In terms of European activity, fifteen research teams from Poland were among the winners of the QuantERA Co-funded Call 2021 for international research projects in the field of quantum technologies. Ten basic research projects will be co-funded by the National Science Centre and five applied research projects will be co-funded by the National Centre for Research and Development. The National Science Centre has awarded funding for that purpose of over PLN 7.7m [117]. Poland has had seven quantum-computing-related projects funded through FP7 and Horizon 2020.
+200 papers from Polish authors were published in this period. The most common journals these papers were published in are shown below.
+JournalNo. of papers18PHYSICAL REVIEW A 11PHYSICAL REVIEW LETTERS 7PHYSICAL REVIEW  7QUANTUM 7QUANTUM INFORMATION PROCESSING 6NEW JOURNAL OF PHYSICS 5NPJ QUANTUM INFORMATION 5PHYSICAL REVIEW RESEARCH ENTROPY 4IEEE TRANSACTIONS ON INFORMATION THEORY   4
+We analysed papers published from 2018 onwards, where some or all of the authors are based in Polish institutions. A visualisation of the top ten funding bodies for these bodies of work is shown below, along with visualisations showing the affiliations of the authors are also shown. Germany, the UK and Spain all feature prominently.
+These papers were then ranked in terms of number of citations, and the top fifty selected. These fifty papers were cited 440 times between them. These citations can provide an indication of activity, as well crosslinks and collaborations between the countries in question. Other than the USA (which tops the list) and Poland itself, Germany, China, the UK, Spain and the Netherlands feature highly.
+46
+11
+10
+14
+NATIONAL SCIENCE CENTRE POLAND
+SPANISH GOVERNMENT
+ENGINEERING AND PHYSICAL SCIENCES RESEARCH COUNCIL
+GERMAN RESEARCH FOUNDATION DTG
+JournalNumber of citationsAustralia 5Austria 15Belgium 3Brazil 4Canada 5China 281Croatia Czech Republic  25Denmark 3Egypt 9Finland 3France 43Germany 1Greece 1Iceland 10Ireland 3Israel 9Italy 
+JournalJapan Korea Lithuania Mexico Netherlands Norway Poland Russia Singapore Spain Sweden Switzerland Thailand UK USA Portugal 
+Number of citations8213231782326121271102
+13
+10
+9
+UK RESEARCH INNOVATION UKRI
+EUROPEAN RESEARCH COUNCIL ERC
+34
+EDTAT
+EUROPEAN COMMISSION
+12
+AYNULATAC
+9
+I
+LARENEG
+FOUNDATION FOR POLISH SCIENCE
+EUROPEAN UNION UNDER THE EUROPEAN REGIONAL DEVELOPMENT FUND
+52
+27
+14
+14
+POLISH ACADEMY OF SCIENCES
+FAHRENHEIT UNIVERSITIES
+ADAM MICKIEWICZ UNIVERSITY
+CENTER FOR THEORETICAL PHYSICS POLISH ACADEMY FOR SCIENCES
+Grand Total 
+440
+24
+12
+13
+JournalAustria Canada China Egypt Finland France Germany 
+Number of papers1151117
+JournalNetherlands Poland Singapore Spain UK USA Grand Total 
+Number of papers319112750
+JAGIELLONIAN UNIVERSITY
+AGH UNIVERSITY OF SCIENCE TECHNOLOGY
+33
+YGOLONHCET
+23
+ANOLECRAB
+13
+ECNECSFO
+UNIVERSITY OF WARSAW
+ETUT
+UNIVERSITY OF GDANSK
+I
+MAX PLANCK SOCIETY
+I
+TSN
+I
+PAGE
+33
+[Page #33]
+Spain
+There are various other groups within Quantum Spain, such as The QUANTIA (Quantum AI for scientific and industrial applications) group of Universidad de Zaragoza is exploring applications of quantum optimization for commercial and scientific interests. These include comparative studies of quantum algorithms of optimization (variational algorithms NISQ, quantum annealers, and qudit type molecular processors), and analysis of non-supervised quantum machine learning algorithms [122]. Another team is the Quantum Computers and Quantum Simulations Group of the University of Valencia, which studies and characterizes noise in quantum computers using AI techniques. [123]
+Spain’s national initiative, Quantum Spain, is framed within the National Strategy for Artificial Intelligence. Its aim is to establish a solid quantum computing ecosystem in Spain, taking advantage of and promoting the talent of local researchers who are experts in this technology. This objective leverages the existing Spanish Supercomputing Network [118]. €22m was initially made available for the endeavour, with funding provided by Spain’s Ministry of Economic Affairs and Digital Transformation and the EU’s NextGenerationEU.
+Quantum Spain also has a TalentQ programme, designed to train the next generation of quantum experts. The TalentQ program will promote the search and training of Spanish quantum talent through the organisation of online and face-to-face courses, quantum hackathons, promotion of local initiatives and groups in quantum computing, among other activities [124].
+Quantum Spain involves 25 universities and infrastructure and supercomputing centres, from 14 autonomous communities. The Barcelona Supercomputing Center (BSC, the main node of the Spanish Supercomputing Network) began coordination work on the project in 2021. [118]
+napS
+i
+Outside of Quantum Spain, in January 2022, the CUCO (CUantica COmputacion) project to research potential quantum computing applications, led by firm GMV was announced, running for 2 years with €5.8m of funding. The project focuses on quantum computing applications and algorithms in the strategic industries of the Spanish economy such as Energy, Financial, Space, Defence and Logistics. It includes 7 companies (Amatech, BBVA, DAS Photonics, GMV, Multiverse Computing, Qilimanjaro Quantum Tech and Repsol), 5 research centres (BSC, CSIC, DIPC, ICFO y Tecnalia) and the public university UPV (Universitat Politècnica de València). [125] It is financed by the Centre for the Development of Industrial Technology, with support from the Ministry of Science and Innovation [126].
+Universidad de Cantabria (UC)
+Navarra de Servicios y Tecnologías S.A. (NASSERTIC)
+RES NODES
+Centro de Supercomputación de Galicia (CESGA)
+RESEARCH
+Consorci de Serveis Universitaris de Catalunya
+HPC SIMULATORS
+Barcelona Supercomputing Center (BSC-CNS)
+Centro de Supercomputación de Castilla y León (SCAYLE)
+QUANTUM COMPUTER
+PIC (CIEMAT - IFAE)
+Centro Extremeño de iNvestigación, Innovación Tecnológica y Supercomputación (CénitS)
+Instituto Universitario de Investigación de Biocomputación y Física de Sistemas Complejos (BIFI)
+Universidad Autónoma de Madrid (UAM)
+Universitat de València
+Instituto de Astrofísica de Canarias (IAC)
+An analysis of the Spain’s involvement in EU projects reveals 43 projects funded in total, with a large portion of activity taking place between 2018-2020.
+[118]
+Universidad de Málaga (UMA)
+The project foresees the construction of a quantum computer that will be installed at BSC headquarters and that will progressively be equipped with chips of different generations and numbers of qubits, initially based on superconducting circuit technology. The construction of the hardware will be carried out in collaboration with companies [119]. In June 2022, an open call for tender for a quantum computer was announced. This is an €8.2m call for the “acquisition of a computer based on superconducting qubit technology and its quantum processors... for use by the BSC-CNS and the users of the Spanish Supercomputing Network,”
+Spain Quantum Computing EU Projects
+20082010201120122013201420152016201720182019202020212022
+)raey(
+tratS
+BSC also has a Quantic Group, focussed on quantum simulation architectures in HPC systems, allowing the behaviour of quantum algorithms to be reproduced using the parallelised architecture of supercomputers. These simulators will make it easier for developers to design circuits and algorithms, reproducing the operation of ideal quantum computers (without noise), offering traceability of the steps to be executed, as well as a reference for experimental developments [121].
+7
+0
+1
+2
+3
+4
+5
+6
+Number of projects
+PAGE
+34
+[Page #34]
+We analysed papers published from 2018 onwards, where some or all of the authors are based in Spanish institutions. A visualisation of the top ten funding bodies for these bodies of work is shown below, along with visualisations showing the affiliations of the authors are also shown. After funding from the Spanish government and Europe, there is clear regional activity shown (Basque, Catalunya), as well as funding from Germany, China and the USA.
+512 papers from Spanish authors were published in this period. The most common journals these papers were published in are shown below.
+JournalPHYSICAL REVIEW A PHYSICAL REVIEW B NEW JOURNAL OF PHYSICS PHYSICAL REVIEW LETTERS PHYSICAL REVIEW RESEARCH QUANTUM QUANTUM INFORMATION PROCESSING PRX QUANTUM NATURE COMMUNICATIONS QUANTUM SCIENCE AND TECHNOLOGY 
+No. of papers482417161413121099
+215
+65
+45
+43
+SPANISH GOVERNMENT
+BASQUE GOVERNMENT
+GERMAN RESEARCH FOUNDATION (DFG)
+NATIONAL NATURAL SCIENCE FOUNDATION OF CHINA NSFC
+These papers were then ranked in terms of number of citations, and the top fifty selected. These fifty papers were cited 619 times between them. These citations can provide an indication of activity, as well crosslinks and collaborations between the countries in question. Again, the USA dominates the list after the Netherlands itself, followed at some distance by several EU countries, along with China and the UK.
+53
+35
+28
+EUROPEAN RESEARCH COUNCIL ERC
+FOUNDATION CELLEX
+151
+JournalAustralia Austria Belgium Brazil Canada Chile China Denmark Finland France Germany Hungary India Ireland 
+Number of citations1342261211011128121
+Number of citationsJournal1Israel 7Italy 4Japan 218Netherlands 4Poland Republic of Korea  21Singapore 22Spain 2Sweden 25Switzerland 20 UK 210USA 
+EUROPEAN COMMISSION
+50
+FOTNEMTRAPED
+SETATSDETNU
+30
+EODYGRENE
+GENERALITAT DE CATALUNYA
+NATIONAL SCIENCE FOUNDATION NSF
+I
+126
+80
+53
+53
+CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS CSIC
+UNIVERSITAT POLITECNICA CATALUNYA
+INSTITUT DE CIENCIES FOTONIQUES ICFO
+MAX PLANCK SOCIETY
+76
+Grand Total 
+619
+40
+48
+BASQUE FOUNDATION FOR SCIENCE
+JournalAustria Canada China Denmark Finland France Germany India 
+Number of papers11221171
+JournalItaly Netherlands Russia Spain Switzerland UK USA Grand Total 
+Number of papers1111625850
+ICREA
+90
+SRNCEUQF
+LANOTANERTNEC
+EHCREHCERALED
+UNIVERSITY OF BASQUE COUNTRY
+68
+I
+41
+I
+BARCELONA INSTITUTE OF SCIENCE TECHNOLOGY
+I
+TNECS
+COMPLUTENSE UNIVERSITY OF MADRID
+I
+PAGE
+35
+[Page #35]
+Sweden
+Collaborations
+Sweden lacks a national programme in quantum, however that is not to say the country lacks large-scale, coordinated activity. A prime example of this is the Wallenberg Centre for Quantum Technology (WACQT), established in 2018 to create long-term expertise in quantum computing, simulation, communication, and sensing. This SEK 1.2bn (circa €110m) centre spans multiple universities and is funded through the Knut and Alice Wallenberg Foundation, with an additional SEK 200m from universities and industry taking total funding to SEK 1.4bn. The research programme is managed and mainly located at Chalmers University of Technology, with KTH Royal Institute of Technology and Lund University, as well as several industrial partners, including Saab, Hitachi ABB, AstraZeneca, Ericsson, Jeppesen and Volvo [127]. The collaboration between academia and industry is seen as key for taking Sweden forward, in this case provide WACQT scientists with real-life applications to investigate whilst companies gain forefront knowledge and competence which allow them to identify business opportunities [127] [128].
+In April 2022, the United States and Sweden signed a Quantum Cooperation Statement, detailing the shared agendas of both countries to engage in good-faith cooperation in QIST, such as to build a global market and supply chain, and to create respectful and inclusive scientific research communities. Anna Ekström, the Swedish Minister for Education, Ministry of Education and Research, said, “By making a joint statement that we want to collaborate in the quantum field, Swedish and American researchers get the opportunity to collaborate with the best researchers in this field in our two countries. It contributes to strengthening our position as leading research nations,” [129].
+nedewS
+Sweden is involved in several large-scale EU-funded projects, collaborating with European partners. A notable example is at the aforementioned Chalmers University of Technology, Andreev qubits for scalable quantum computation (AndQC). The goal of this project is to establish the foundations of a new solid state platform for scalable quantum computation, based on Andreev qubits. This platform is implemented by utilizing the discrete superconducting quasiparticle levels (Andreev levels) that appear in weak links between superconductors. The €3.6m project runs from September 2019 to March 2023 and consists of the below partners organisations:•  Delft University of Technology (Academic, Netherlands)•  National Research Council of Italy (CNR) (Public, Italy)•  Universidad Autónoma de Madrid (UAM) (Academic, Spain)•  The French Alternative Energies and Atomic Energy Commission (CEA) (Research 
+Quantum Computing is considered core for WACQT [128]. There is a strong expertise in superconducting qubits, on which the project’s principal investigators have worked for many years. The strong cooperation between experimentalists and theoreticians is considered a cornerstone for success at WACQT. The first milestone for the quantum computer project is to build two interlinked blocks each containing ten qubits within four years, which will make it possible to demonstrate basic quantum simulations of small systems. The final goal is to develop a 100-qubit quantum computer within ten years.
+Institute, France)
+•  University of Basel (Academic, Switzerland)•  University of Copenhagen (Academic, Denmark)•  Budapest University of Technology and Economics (Academic, Hungary)  [130]
+WACQT has a vision to is to build an open and interactive Swedish quantum technology community, considering that rich flow of ideas in an open environment increases both the scientific quality and relevance as well as shortens the time to utilisation of results. The following instruments help achieve this: a graduate school, the Swedish Graduate School in Quantum Technology; a postdoc program; a guest researcher program; industrial partnerships [127] [128].
+Aside from the strengths in superconducting in Sweden, there is a notable expertise in trapped Rydberg ions in Stockholm. In 2017, researchers at Stockholm University reported on the excitation of a single trapped strontium ion into the Rydberg state, and that same year carried out the first coherent Rydberg excitation of an ion and performed a single-qubit Rydberg gate, thus demonstrating the basic elements of a trapped Rydberg ion quantum computer [131] [132]. A new 3 year, €3m project in this field begins in October 2022. Brisk Rydberg Ions for Scalable Quantum Processors (BRISQ), led from Stockholm University, aims to realize a prototype of a fully scalable quantum computer which has the capability to run quantum algorithms with a circuit depth exceeding one million. 
+PAGE
+36
+[Page #36]
+An analysis of Sweden's involvement in EU projects reveals 18 projects funded in total, with a third of these beginning in the last two years (excluding 2022).
+The collaborators for this project are :
+Sweden:
+Sweden Quantum Computing EU Projects
+University of Stockholm coordinator.
+2009
+2010
+2012
+2014
+)raey(
+2016
+tratS
+2017
+2018
+2019
+2020
+2021
+0
+1
+2
+3
+4
+5
+6
+Number of projects
+We analysed papers published from 2018 onwards, where some or all of the authors are based in Swedish institutions. A visualisation of the top ten funding bodies for these bodies of work is shown below, along with visualisations showing the affiliations of the authors are also shown. After funding from the Swedish government and the EU, the Knut and Alice Wallenberg Foundation is notable, as is funding from Germany, China and the UK.
+Germany:
+HQS Quantum Simulations GmbH
+53
+17
+11
+12
+Germany:
+[133]
+SWEDISH RESEARCH COUNCIL
+KNUT AND ALICE WALLENBERG FOUNDATION
+MAX PLANCK SOCIETY
+ENGINEERING PHYSICAL SCIENCES RESEARCH COUNCIL EPSRC
+Forschungszentrum Julich GmbH
+Austria:
+Infineon Technologies Austria AG.
+15
+Austria:
+Germany:
+11
+11
+EUROPEAN RESEARCH COUNCIL ERC
+Universitaet Innsbruck.
+Eberhard Karls Universitaet Tuebingen.
+UK RESEARCH INNOVATION UKRI
+ENGINEERING PHYSICAL SCIENCES RESEARCH COUNCIL EPSRC
+45
+EUROPEAN COMMISSION
+13
+GERMAN RESEARCH FOUNDATION DFG
+9 NANOLUND
+PAGE
+37
+[Page #37]
+These papers were then ranked in terms of number of citations, and the top fifty selected. These fifty papers were cited 589 times between them. These citations can provide an indication of activity, as well crosslinks and collaborations between the countries in question. Other than Sweden, there are high citation figures from the USA, France, Germany, China and Spain.
+38
+23
+13
+12
+CHALMERS UNIVERSITY OF TECHNOLOGY
+UPPSALA UNIVERSITY
+UNIVERSITY OF COPENHAGEN
+NIELS BOHR INSTITUTE
+Journal
+Number of citations
+Journal
+Number of citations
+6Argentina 17Australia 19Austria 3Belgium 1Brazil 7Canada 42China Croatia 1Czech Republic  3Denmark Finland France Germany Greece Hungary 
+India Italy Japan Netherlands Norway Poland Russia Singapore Spain Sweden Switzerland UK USA 
+113118312141114283090
+17
+12
+9
+STOCKHOLM UNIVERSITY
+UDICE FRENCH RESEARCH UNIVERSITIES
+26
+LUND UNIVERSITY
+TMYGOLONHCET
+224 605911
+16
+STESUHCASSAM
+I
+10
+FOETUT
+ROYAL INSTITUTE OF TECHNOLOGY
+CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS
+I
+TSN
+Grand Total 
+589
+I
+The lead author’s institutional country for these fifty papers is shown.
+134 papers from Swedish authors were published in this period. The most common journals these papers were published in are shown below.
+JournalAustria Belgium Canada China Denmark Finland France Germany Italy Japan Netherlands Norway Spain Sweden Switzerland UK USA Grand Total 
+Number of papers21154113121111722550
+Journal
+Number of papers
+PHYSICAL REVIEW B 
+17
+PHYSICAL REVIEW A 
+15
+PHYSICAL REVIEW LETTERS 
+7
+NEW JOURNAL OF PHYSICS 
+5
+APPLIED PHYSICS LETTERS 
+4
+PHYSICAL REVIEW APPLIED PHYSICAL REVIEW RESEARCH 
+44
+PRX QUANTUM 
+4
+NATURE COMMUNICATIONS 
+3
+PHYSICAL REVIEW X 
+3
+PAGE
+38
+[Page #38]
+Switzerland
+The Basel Centre is part of the Georg H. Endress Postdoc cluster, a cross-border collaboration between the University of Basel and the Albert-Ludwigs University in Freiburg (Germany). This is a dedicated ten-year initiative to foster and educate outstanding young scientists to provide the academic talent and technology skills for the rapidly developing fields of quantum science and quantum computing, through engaging young scientists in projects involving existing research groups at Basel and Freiburg [137].
+Switzerland was one of the first countries to bring together quantum research in a coordinated programme – through their National Centre of Competence in Research (NCCR) vehicle.
+dnalrezti
+Switzerland has established national centres across different themes, including QSIT – Quantum Science & Technology. Created in 2010 with the goal to advance the fundamental understanding of quantum systems and to establish practical platforms for exploring applications in quantum computing, communication, sensing and simulation, the QSIT initiative brings over 30 research groups together from organisations across Switzerland. A notable research activity is in engineered quantum states, in particular engineered topological states and entangled ‘dressed’ states between a cavity and a qubit [134]. The participating organisations include ETH Zürich, University of Basel, Université de Genève, EPFL, IBM and Università della Svizzera Italiana.
+There is also notable activity in Zurich. ETH Zürich’s Quantum Center coordinates the institutions various scientific and structural activities in quantum science and technology, in particular interconnecting research and teaching across ETH departments. The Center also serves as an ETH Zürich-wide contact point for larger projects, including collaborations with industrial partners and funding through Swiss and international grant agencies [138] There is also an Engineering Unit, which engages in collaborations with Swiss and international industries. It promotes the creation of spin-off companies based on its own developments and those of its partner labs at ETH. It fosters the creation of intellectual property and supports developments pursued by individual research groups at ETH in the context of quantum engineering [139]. The Engineering Unit is supported by ETH Zürich through an ETH+ Project, the NCCR QSIT, ETH Zürich Foundation, and its member groups.
+wS
+On the 16th of December 2019, the Federal Government and the Swiss National Science Foundation (SNSF) announced that “SPIN: Spin Qubits in Silicon” was one of six new NCCRs. For its first phase from August 2020 to July 2024, the NCCR SPIN will receive federal funding of CHF 17m (€17.7m). The goal of SPIN is to develop small, fast and scalable quantum bits and quantum interconnects such that wafer-scale quantum circuits can be fabricated by the semiconductor industry [135] It is carrying out research in electron spin qubits, quantum architectures, and hole spin qubits [135].
+Related to this is the ETHZ-PSI Quantum Computing Hub, a research facility jointly operated by ETH Zürich and the Paul Scherrer Institut (PSI). PSI is the largest research institute for natural and engineering sciences in Switzerland, employing 2100 people and with an annual budget of approximately CHF 400 million. The hub builds on the extensive experience at the Quantum Devices Laboratory and the Trapped Ion Quantum Information group at ETH Zürich and combines it with the broad expertise and resources available at PSI. The aims of the Hub are to scale up to larger scale systems of tens of qubits, advance materials and control, and to exploit synergies across technologies and the software stack [140].
+Quantum Centres
+As well as participating in national programmes, various universities have dedicated quantum centres. The Basel Quantum Centre at the University Basel is one such example, with research areas including quantum computing, spin qubits and quantum optics. The centre comprises 15 research groups in theoretical and experimental quantum physics, and is thematically closely connected to the Swiss Nanoscience Institute (SNI), the NCCR Quantum Science and Technology, and the NCCR SPIN. It draws its major funding from the Swiss National Science Foundation and from many European programs including the Quantum Technologies Flagship [136].
+Both ETH Zürich and PSI are part of the ETH Domain. The ETH Domain comprises Switzerland’s two federal institutes of technology (FIT) – ETH Zurich and the EPFL in Lausanne – and four research institutes: the Paul Scherrer Institute (PSI), the Swiss Federal Institute for Forest, Snow and Landscape Research (WSL), the Swiss Federal Laboratories for Materials Science and Technology (Empa) and the Swiss Federal Institute of Aquatic Science and Technology (Eawag).
+PAGE
+39
+[Page #39]
+An analysis of Switzerland's involvement in EU projects reveals 56 projects funded in total, one of the highest in Europe, with 39 of these starting in the last four years.
+Empa
+PSL
+ETH Zurich
+Eawag
+WSL
+Switzerland Quantum Computing EU Projects
+2008
+2010
+2011
+2013
+)raey(
+2014
+2016
+tratS
+2017
+2018
+2019
+2020
+2021
+0
+2
+4
+6
+8
+10
+12
+14
+[141]
+Number of projects
+EPFL
+We analysed papers published from 2018 onwards, where some or all of the authors are based in Swiss institutions. A visualisation of the top ten funding bodies for these bodies of work is shown below, along with visualisations showing the affiliations of the authors are also shown.
+EPFL has its own Center for Quantum Science and Engineering (QSE). The Center promotes and supports collaborative research through the creation of collaborative QSE grants, multidisciplinary education, and innovation, focusing on two pillars: Applied quantum algorithms and data science, and quantum hardware materials and systems. The former looks at fundamental research for the development and improvement of quantum algorithms and the related software infrastructure, to their large-scale implementation. The latter explores new physical implementations of quantum hardware, leveraging the nanofabrication facilities present on campus. In conjunction with EPFL’s Startup Launchpad, QSE has launched its Grants for Entrepreneurial Projects in Quantum, aimed at accelerating the journey from lab to market through an investment up to CHF 180k over a period of two years [142] [143].
+179
+47
+33
+28
+SWISS NATIONAL SCIENCE FOUNDATION SNAF
+EUROPEAN RESEARCH COUNCIL ERC
+GERMAN RESEARCH FOUNDATION DFG
+NATIONAL SCIENCE FOUNDATION NSF
+28
+26
+24
+154
+UK RESEARCH INNOVATION UKRI
+UNITED STATES DEPARTMENT OF ENERGY DOE
+ENGINEERING PHYSICAL SCIENCES RESEARCH COUNCIL EPSRC
+Finally, there is the Swiss Quantum Hub (SQH) non-profit organization based in Geneva that describes itself as a Think Tank, Startup accelerator and Business Services for the Swiss QC community. SQH provides, among other things, publications, training, a startup accelerator programme and provides links to quantum researchers, businesses and investors [144].
+EUROPEAN COMMISSION
+27
+NCCR QSIT
+21 INTEL 
+CORPORATION
+PAGE
+40
+[Page #40]
+JournalArgentina 
+Number of citations6
+JournalItaly 
+Number of citations26
+159
+75
+27
+27
+ETH ZURICH
+INTERNATIONAL BUSINESS MACHINESIBM
+Australia 
+15
+Japan 
+6
+LANOTANERTNEC
+EHCREHCERALED
+HCNERFECDU
+Austria 
+13
+Netherlands 
+20
+EUQF
+SE
+I
+I
+HCRAESER
+T
+Belgium 
+6
+Poland 
+1
+I
+I
+SREVNU
+I
+TNECS
+SRNC
+Brazil 
+3
+Portugal 
+1
+I
+I
+I
+Canada 
+9
+Republic of Korea  1
+54
+26
+23
+Chile 
+1
+Russia 
+1
+China 
+43
+Singapore 
+2
+DELFT UNIVERSITY OF TECHNOLOGY
+151
+Denmark 
+18
+Slovenia 
+1
+KCNALPXAM
+ÉCOLE POLYTECHNIQUE FÉDÉRALE DE LAUSANNE
+YT
+AVENEGFO
+France 
+23
+Spain 
+49
+I
+SREVNU
+YTECOS
+Germany 
+37
+Sweden 
+3
+I
+50
+I
+Hungary 
+1
+Switzerland 
+184
+UNIVERSITY OF BASEL
+India 
+2
+UK 
+25 
+22
+Ireland 
+2
+USA 
+128
+UNIVERSITY OF CALIFORNIA SYSTEM
+Israel 
+2
+Grand Total 
+629
+483 papers from Swiss authors were published in this period. The most common journals these papers were published in are shown below.
+The lead author’s institutional country for these fifty papers is shown.
+Journal
+Journal
+Number of papers
+Number of papers
+Australia 
+1
+PHYSICAL REVIEW RESEARCH 
+26
+Belgium 
+1
+PHYSICAL REVIEW LETTERS 
+22
+Canada 
+1
+NATURE 
+17
+China 
+2
+PHYSICAL REVIEW A 
+17
+Denmark 
+2
+NATURE COMMUNICATIONS 
+16
+Germany 
+3
+NPJ QUANTUM INFORMATION 
+13
+Italy 
+2
+PHYSICAL REVIEW B 
+12
+Japan 
+1
+QUANTUM SCIENCE AND TECHNOLOGY 
+12
+Netherlands 
+2
+NATURE PHYSICS PHYSICAL REVIEW APPLIED 
+119
+Spain 
+3
+Switzerland 
+23
+These papers were then ranked in terms of number of citations, and the top fifty selected. These fifty papers were cited 629 times between them. These citations can provide an indication of activity, as well crosslinks and collaborations between the countries in question. The USA tops the list after Switzerland, followed by Spain, China and Germany.
+UK 
+2
+USA 
+7
+Grand Total 
+50
+PAGE
+41
+[Page #41]
+Closing remarks
+There is clearly a lot of activity relating to QIT across the European countries investigated in this report. Many countries, following the UK’s early example, now have national programmes and strategies in place, with large amounts of funding being committed to enact this. European cooperation is strong, and countries are leveraging the EU’s mechanisms as part of this; the UK has historically been a strong partner in EU projects, and its participation in Horizon Europe and its subsequent effects are uncertain. There is much talk on ecosystem development, both at a national and more localised level, with strong regional clusters forming in many countries. Collaboration between research groups is seen as key, even more so when these are linked to industry and part of an overarching national initiative. The USA, with its strong activity and funding in quantum technologies, has a strong presence throughout the report; China is also notably featured throughout, suggesting that there is some collaboration with European countries, at least at an academic level. 
+This report is the first in a series of two – North America and Asia will be covered in detail in the next publication. If you would like to be kept informed of future QCS Hub reports, please subscribe. The raw data behind the figures displayed in this report are available upon request.
+PAGE
+42
+[Page #42]
+References
+[9]  National Quantum Computing Centre, “Strategic Intent,” [Online]. Available: https://www.nqcc.ac.uk/strategic-intent/. [Accessed 10 August 2022].
+[1] 
+HM Treasury and George Osborne, “Chancellor George Osborne’s Autumn Statement 2013 speech,” 5 December 2013. [Online]. Available: https://www.gov.uk/government/speeches/chancellor-george-osbornes-autumn-statement-2013-speech. [Accessed 26 July 2022].
+[10]  Quantum Computing & Simulation Hub, “Announcing a Memorandum 
+of Understanding between the Quantum Computing and Simulation Hub and the National Quantum Computing Centre,” 17 February 2021. [Online]. Available: https://www.qcshub.org/article/announcement-of-a-memorandum-of-understanding-with-the-national-quantum-computing-centre. [Accessed 10 August 2022].
+[2]  M. Durrani, “UK splashes out £270m on quantum technology,” Physics World, 30 January 2014. [Online]. Available: https://physicsworld.com/a/uk-splashes-out-270m-on-quantum-technology/. [Accessed 26 July 2022].
+[11]  National Quantum Computing Centre, “NQCC launches its SparQ Applications Discovery Programme and a collaboration with OQC as part of its quantum readiness initiatives,” 26 May 2022. [Online]. Available: https://www.nqcc.ac.uk/updates-article/nqcc-launches-its-sparq-applications-discovery-programme-and-a-collaboration-with-oqc-as-part-of-its-quantum-readiness-initiatives/. [Accessed 10 August 2022].
+[3]  P. Knight and I. Walmsley, “UK national quantum technology 
+programme,” Quantum Science and Technology, vol. 4, no. 4, 2019.
+[4]  Networked Quantum Information Technologies, “Academic Partners,” 
+[Online]. Available: https://nqit.ox.ac.uk/content/academic-partners.html. [Accessed 23 September 2022].
+[12]  EY, “81% of UK business leaders expect industry disruption from 
+quantum computing by 2030, according to EY study,” 15 June 2022. [Online]. Available: https://www.ey.com/en_uk/news/2022/06/81-of-uk-business-leaders-expect-industry-disruption-from-quantum-computing-by-2030-according-to-ey-study. [Accessed 10 August 2022].
+[5]  Uk National Quantum Technologies Programme, “Strategic 
+Intent,” [Online]. Available: https://uknqt.ukri.org/wp-content/uploads/2021/10/UKNQTP-Strategic-Intent-2020.pdf. [Accessed 23 September 2022].
+[6]  HPCwire, “Science Minister Launches National Quantum Computing Centre,” 2 September 2020. [Online]. Available: https://www.hpcwire.com/off-the-wire/science-minister-launches-national-quantum-computing-centre/. [Accessed 10 August 2022].
+[13]  Hartree Centre, “New £210 million centre to provide industry and 
+research access to AI and quantum computing,” 04 June 2021. [Online]. Available: https://www.hartree.stfc.ac.uk/Pages/New-%C2%A3210-million-centre-to-provide-industry-and-research-access-to-AI-and-quantum-computing.aspx. [Accessed 10 August 2022].
+[7]  National Quantum Computing Centre, “Annual Report 2021,” 5 
+November 2021. [Online]. Available: https://uknqt.ukri.org/wp-content/uploads/2022/02/NQCC-Annual-Report-5Nov21.pdf. [Accessed 10 August 2022].
+[14]  E. &. I. S. Department for Business, “Supporting UK R&D and 
+collaborative research beyond European programmes,” GOV.UK, 20 July 2022. [Online]. Available: https://www.gov.uk/government/publications/supporting-uk-rd-and-collaborative-research-beyond-european-programmes/supporting-uk-rd-and-collaborative-research-beyond-european-programmes. [Accessed 27 July 2022].
+[8]  UKRI, “Breaking ground at the National Quantum Computing Centre,” 
+21 September 2021. [Online]. Available: https://www.ukri.org/news/breaking-ground-at-the-national-quantum-computing-centre/. [Accessed 10 August 2022].
+PAGE
+43
+[Page #43]
+[15]  D. Matthews, “UK publishes details of ‘Plan B’ alternative to Horizon Europe,” Science|Business, 21 July 2022. [Online]. Available: https://sciencebusiness.net/news/uk-publishes-details-plan-b-alternative-horizon-europe. [Accessed 1 August 2022].
+[24]  A.-F. Pelé, “French President Details €1.8b Quantum Plan,” EE Times 
+Europe, 22 January 2021. [Online]. Available: https://www.eetimes.eu/french-president-details-e1-8b-quantum-plan/. [Accessed 08 September 2022].
+[16]  The White House, “The United States and United Kingdom Issue Joint Statement to Enhance Cooperation on Quantum Information Science and Technology,” 04 November 2021. [Online]. Available: https://www.whitehouse.gov/ostp/news-updates/2021/11/04/the-united-states-and-united-kingdom-issue-joint-statement-to-enhance-cooperation-on-quantum-information-science-and-technology/. [Accessed 10 August 2022].
+[25]  Business France, “€1.8 billion in funding for quantum technologies,” 
+21 January 2021. [Online]. Available: https://www.businessfrance.fr/discover-france-news-1-8-billion-in-funding-for-quantum-technologies. [Accessed 11 August 2022].
+[26]  Gouvernement de la République française, “Stratégie nationale sur les 
+technologies quantiques,” Saclay, 2021.
+[17]  Quantum Flagship, “Introduction to the Quantum Flagship,” [Online]. 
+[27]  Centre national de la recherche scientifique, “The French Quantum 
+Available: https://qt.eu/about-quantum-flagship/introduction-to-the-quantum-flagship/. [Accessed 10 August 2022].
+national R&D strategy just started,” 07 March 2022. [Online]. Available: https://www.cnrs.fr/en/cnrsinfo/french-quantum-national-rd-strategy-just-started. [Accessed 11 August 2022].
+[18]  QRANGE, “About QRANGE,” [Online]. Available: https://qrange.eu/
+project/about-qrange. [Accessed 10 August 2022].
+[28]  Paris Centre for Quantum Computing, “Research Areas,” [Online]. 
+Available: http://www.pcqc.fr/research.html. [Accessed 10 September 2022].
+[19]  EuroAccess Macro-Regions , “Call: Support and coordination of the 
+Quantum Technologies Flagship Initiative,” [Online]. Available: https://www.euro-access.eu/calls/functional_electronics_for_green_and_circular_economy_ria. [Accessed 10 August 2022].
+[29]  Paris Centre for Quantum Computing, “Research Projects,” [Online]. 
+Available: http://www.pcqc.fr/projects.html. [Accessed 11 August 2022].
+[20]  KPMG, “Quantum technology in Denmark,” KPMG, Copenhagen, 2020.
+[30]  Université Grenoble Alpes, “Quantum Engineering,” [Online]. Available: 
+https://quantum.univ-grenoble-alpes.fr/. [Accessed 11 August 2022].
+[21]  EuroAccess, “Programme: Horizon Europe - Cluster 4 - Destination 
+4: Digital and Emerging Technologies for Competitiveness and Fit for the Green Deal,” [Online]. Available: https://www.euro-access.eu/programm/horizon_europe_-_cluster_4_-_destination_4_-_digital_and_emerging_technologies_for_competitivness_and_fit_for_the_green_deal. [Accessed 23 September 2022].
+[31]  Commissariat à l’Energie Atomique et aux Energies Alternatives , “Australian Prime Minister and French President announce plans for new quantum computing collaboration,” 02 May 2018. [Online]. Available: https://www.cea.fr/english/Pages/News/Australian-Prime-Minister-and-French-President-announce-plans-for-new-quantum-computing-collaboration.aspx. [Accessed 11 August 2022].
+[22]  Quantera, “The programme,” [Online]. Available: https://quantera.eu/. 
+[Accessed 10 August 2022].
+[32]  Government of the Netherlands, “Joint statement of France and 
+the Netherlands,” 31 August 2021. [Online]. Available: https://www.government.nl/documents/diplomatic-statements/2021/08/31/joint-statement-of-france-and-the-netherlands. [Accessed 11 August 2022].
+[23]  QuantERA, “Industry & Quantum,” [Online]. Available: https://quantera.
+eu/industry-qt/. [Accessed 23 September 2022].
+PAGE
+44
+[Page #44]
+[33]  Compound Semiconductor, “CNRS Sets Up Quantum Research Lab In Canada,” 25 April 2022. [Online]. Available: https://compoundsemiconductor.net/article/114645/CNRS_Sets_Up_Quantum_Research_Lab_In_Canada. [Accessed 11 August 2022].
+[41]  Technische Universität München, “Munich Quantum Valley is launched,” 
+28 January 2022. [Online]. Available: https://www.tum.de/en/about-tum/news/press-releases/details/37157. [Accessed 12 August 2022].
+[42]  Munich Quantum Valley, “Mission Statement: The Munich Quantum 
+[34]  Thales, “Share and shareholding,” [Online]. Available: https://www.
+Valley Initiative aims to establish Quantum Computation and Quantum Technologies in Bavaria.,” [Online]. Available: https://www.munich-quantum-valley.de/about/. [Accessed 12 August 2022].
+thalesgroup.com/en/investor/retail-investors/share-and-shareholding. [Accessed 12 September 2022].
+[35]  National University of Singapore, “New partnership between QEP and Thales to spur innovation in quantum security and quantum sensors,” 29 September 2021. [Online]. Available: https://news.nus.edu.sg/new-partnership-qep-and-thales/. [Accessed 11 August 2022].
+[43]  Munich Quantum Valley, “Research consortia,” [Online]. Available: 
+https://www.munich-quantum-valley.de/research/consortia/. [Accessed 12 August 2022].
+[36]  Thales, “THALES, PASQAL, PARIS REGION AND GENCI, LAUNCH A 
+[44]  Munich Quantum Valley, “Nearly 17 million euros funding for Lighthouse 
+NEW PARTNERSHIP TO EXPLORE THE USE OF PASQAL’S QUANTUM TECHNOLOGY APPLIED TO CRITICAL SYSTEMS’ OPTIMIZATION,” 14 December 2021. [Online]. Available:https://www.thalesgroup.com/en/worldwide/group/press_release/thales-pasqal-paris-region-and-genci-launch-new-partnership-explore. [Accessed September 12 2022].
+Projects,” 04 August 2022. [Online]. Available: https://www.munich-quantum-valley.de/news-and-events/news/Funding-for-Lighthouse-Projects.html. [Accessed 12 August 2022].
+[45]  Munich Quantum Valley, “Fit for quantum: Around one million euros for 
+teaching in quantum technology,” 25 March 2022. [Online]. Available: https://www.munich-quantum-valley.de/news-and-events/news/news_hightech_agenda_bayern_2022-03-25.html. [Accessed 12 August 2022].
+[37]  Bundesministerium für Bildung und Forschung, “Research funding 
+system,” [Online]. Available: https://www.research-in-germany.org/en/research-landscape/why-germany/research-funding-system.html. [Accessed 12 August 2022]. [38]Reuters Staff, “Germany to support quantum computing with 2 billion euros,” 11 May 2021. [Online]. Available: https://www.reuters.com/article/us-germany-quantumcomputer-idUSKBN2CS0W9. [Accessed 12 August 2022].
+[46]  Munich Quantum Valley, “Extended funding for quantum sciences and quantum technologies,” 10 June 2022. [Online]. Available: https://www.munich-quantum-valley.de/news-and-events/news/news_hightech_agenda_bayern_2022-06-10.html. [Accessed 12 August 2022].
+[47]  S. Moss, “Germany’s Forschungszentrum Jülich launches D-Wave 
+[39]  Deutsche Forschungsgemeinschaft, “Current Clusters of Excellence,” 10 August 2022. [Online]. Available: https://www.dfg.de/en/funded_projects/current_projects_programmes/list/index.jsp?id=EXS. [Accessed 12 August 2022].
+quantum computer on the cloud,” Data Centre Dynamics, 19 January 2022. [Online]. Available: https://www.datacenterdynamics.com/en/news/germanys-forschungszentrum-j%C3%BClich-launches-d-wave-quantum-computer-on-the-cloud/. [Accessed 12 August 2022].
+[40]  Quantum Alliance, “Quantum Alliance,” [Online]. Available: https://www.
+[48]  Forschungszentrum Jülich, “JUNIQ,” 28 June 2022. [Online]. Available: 
+quantum-alliance.de/QA-MEDIA/QA-Downloads/QuantumAlliance_Flyer.pdf. [Accessed 12 August 2022].
+https://www.fz-juelich.de/en/ias/jsc/systems/quantum-computing/juniq-facility/juniq. [Accessed 12 August 2022].
+PAGE
+45
+[Page #45]
+[49]  Forschungszentrum Jülich, “QSolid – Paving the Way for the First German Quantum Computer,” 09 March 2022. [Online]. Available: https://www.fz-juelich.de/en/news/archive/press-release/2022/2022-03-09-qsolid. [Accessed 12 August 2022].
+[57]  FWF Austrian Science Fund, “Quantum Austria Funding Initiative,” [Online]. Available: https://www.fwf.ac.at/en/research-funding/fwf-programmes/quantum-austria-funding-initiative. [Accessed 22 August 2022].
+[50]  Fraunhofer-Gesellschaft, “About Fraunhofer,” January 2022. [Online]. Available: https://www.fraunhofer.de/en/about-fraunhofer.html. [Accessed 12 August 2022].
+[58]  FWF Austrian Science Fund, “First Quantum Austria Research Projects Approved,” 12 July 2022. [Online]. Available: https://www.fwf.ac.at/en/news-and-media-relations/news/detail/nid/20220712-2781. [Accessed 22 August 2022].
+[51]  Fraunhofer-Gesellschaft, “Curtain up: Fraunhofer and IBM to unveil quantum computer,” 15 June 2021. [Online]. Available: https://www.fraunhofer.de/en/press/research-news/2021/june-2021/fraunhofer-and-ibm-to-unveil-quantum-computer.html. [Accessed 12 August 2022].
+[59]  Vienna Center for Quantum Science and Technology, “About VCQ,” 
+[Online]. Available: https://vcq.quantum.at/about/. [Accessed 22 August 2022].
+[60]  Vienna Center for Quantum Science and Technology, “Quantum 
+[52]  Fraunhofer-Gesellschaft, “Competence Center Quantum Computing Baden-Württemberg,” [Online]. Available: https://www.iaf.fraunhofer.de/en/networkers/KQC.html. [Accessed 12 August 2022].
+Information / Computing / Communication,” [Online]. Available: https://vcq.quantum.at/quantum-information-computing-communication/. [Accessed 22 August 2022].
+[53]  Fraunhofer-Gesellschaft, “Collaborative projects within the 
+[61]  University of Vienna, “CoQuS Mission Statement,” [Online]. Available: 
+Competence Center Quantum Computing,” [Online]. Available: https://www.iaf.fraunhofer.de/en/networkers/KQC/projects.html. [Accessed 12 August 2022].
+https://coqus.at/about-coqus/. [Accessed 22 August 2022].
+[62]  Österreichische Akademie der Wissenschaften, “About ESQ,” [Online]. 
+Available: https://www.oeaw.ac.at/esq/home/about-esq. [Accessed 22 August 2022].
+[54]  TRIUMF, “New Agreement Signed to Establish Canada-Germany 
+Quantum Computing and Machine Learning Networks,” Newswise, 17 July 2018. [Online]. Available: https://www.newswise.com/articles/new-agreement-signed-to-establish-canada-germany-quantum-computing-and-machine-learning-networks. [Accessed 12 August 2022].
+[63]  Austrian Federal Ministry of Education, Science and Research , 
+“International research collaboration,” [Online]. Available: https://www.bmbwf.gv.at/en/Topics/Research/Research-international/International-research-collaboration.html. [Accessed 16 September 2022].
+[55]  D. Katz, “Germany identified by NRC as priority collaboration partner in quantum,” Global Advantage Consulting Group, 03 February 2021. [Online]. Available: https://globaladvantageconsulting.com/germany-identified-by-nrc-as-priority-collaboration-partner-in-quantum/. [Accessed 12 August 2022].
+[64]  Österreichische Forschungsförderungsgesellschaft, “Horizon 2020 – 
+Austria has already secured over EUR 1.5 billion in European research funding,” 06 July 2020. [Online]. Available: https://www.ffg.at/en/press/horizon-2020-austria-has-already-secured-over-eur-15-billion-european-research-funding. [Accessed 16 August 2022].
+[56]  FWF Austrian Science Fund, “Austria Launches “Quantum Austria” Research Initiative,” 25 November 2021. [Online]. Available: https://www.fwf.ac.at/en/news-and-media-relations/news/detail/nid/20211125-2697. [Accessed 22 August 2022].
+[65] 
+I. o. S. a. T. Austria, “Scientific Service Units,” [Online]. Available: https://ist.ac.at/en/research/scientific-service-units/. [Accessed 22 August 2022].
+PAGE
+46
+[Page #46]
+[66]  D. H. A. B. A. e. a. Jirovec, “A singlet-triplet hole spin qubit in planar Ge,” 
+[75]  Novo Nordisk Foundation., “Ten supernerds receive research grants through the NERD programme, which has been extended by 5 years based on great success,” 4 July 2022. [Online]. Available: https://novonordiskfonden.dk/en/news/ten-supernerds-receive-research-grants-through-the-nerd-programme-which-has-been-extended-by-5-years-based-on-great-success/. [Accessed 18 September 2022].
+Nature Materials, vol. 20, pp. 1106-1112, 03 June 2021.
+[67]  Quantum Delta, “Economic impact of Quantum in The Netherlands,” 
+18 May 2020. [Online]. Available: https://quantumdelta.nl/pdf/20200518%201400%20QuTech_Economic%20Impact%20of%20Quantum_vFinal2_200728.pdf. [Accessed 23 August 2022].
+[76]  GIP Digital Watch, “NATO quantum technology centre to open in 
+[68]  NKT Photonics, “Danish photonic quantum computer,” [Online]. 
+Denmark,” 06 April 2022. [Online]. Available: https://dig.watch/updates/nato-quantum-technology-centre-to-open-in-denmark. [Accessed 18 September 2022].
+Available: https://www.nktphotonics.com/cases/danish-photonic-quantum-computer/. [Accessed 18 September 2022].
+[69]  Ministry of foreign affairs of Denmark, “Invest in Denmark,” Ministry of 
+[77]  Ministry of Foreign Affairs of Denmark, “DENMARK AND THE UNITED STATES WILL STRENGTHEN COOPERATION IN QUANTUM,” 08 June 2022. [Online]. Available: https://investindk.com/insights/bilateral-quantum-declaration. [Accessed 17 September 2022].
+Foreign Affairs, Copenhagen, 2021.
+[70]  QuantumDTU, “Danish Quantum Community,” [Online]. Available: 
+https://quantum.dtu.dk/dk-quantum-community. [Accessed 24 August 2022].
+[78]  Esat Dedezade, “Microsoft and the University of Copenhagen are building the world’s first scalable quantum computer,” 24 September 2018. [Online]. Available: https://news.microsoft.com/europe/2018/09/24/microsoft-and-the-university-of-copenhagen-are-building-the-worlds-first-scalable-quantum-computer/. [Accessed 18 September 2022].
+[71]  M. S. Jensen, “Denmark’s first quantum information science 
+programme to open soon,” 23 June 2022. [Online]. Available: https://news.ku.dk/all_news/2022/06/denmarks-first-quantum-information-science-programme-to-open-soon/. [Accessed 18 September 2022].
+[72]  The University of Southern Denmark , “The Villum Foundation,” 
+[79]  H. Majumdar, “VTT’s quantum technology in Finland and 
+[Online]. Available: https://www.sdu.dk/en/om_sdu/fakulteterne/samfundsvidenskab/forskning/forskningsstoette/fonde-og-puljer/private-danske-fonde/villum-fonden. [Accessed 18 September 2022].
+Europe,” 26 February 2021. [Online]. Available: https://www.innovationnewsnetwork.com/quantum-technology-in-finland/9749/. [Accessed 25 August 2022].
+[73]  Novo Nordisk Foundation, “Novo Nordisk Foundation,” [Online]. 
+[80]  Quantum Technology Finland, “Quantum Technology Finland — the 
+Available: https://novonordiskfonden.dk/en/. [Accessed 18 September 2022].
+home of future science,” [Online]. Available: https://qtf.fi/. [Accessed 25 August 2022].
+[74]  University of Copenhagen , “Tomorrow’s pharmaceuticals could be discovered by quantum simulators,” 23 September 2022. [Online]. Available: https://science.ku.dk/english/press/news/2020/tomorrows-pharmaceuticals-could-be-discovered-by-quantum-simulators/. [Accessed 18 September 2022].
+[81]  Quantum Technology Finland, “ABOUT,” [Online]. Available: https://qtf.
+fi/about/. [Accessed 25 August 2022].
+[82]  Aalto University, “OtaNano,” 12 August 2022. [Online]. Available: 
+https://www.aalto.fi/en/otanano. [Accessed 25 August 2022].
+[83]  M. M. H. M.-G. ,. P. &. P. J. Günes, “InstituteQ : The Finnish National Quantum Institute,” Arkhimedes, vol. 2022, no. 1, pp. 18-27, 2022.
+PAGE
+47
+[Page #47]
+[84]  Helsinki Partners, “Quantum Computing business opportunities in Greater Helsinki,” [Online]. Available: https://helsinkibusinesshub.fi/quantum-computing/. [Accessed 25 August 2022].
+[91]  Quantum.Amsterdam, “Quantum Delta NL awarded 228 Million Euro for second phase of its programme to Accelerate Quantum Technology,” 09 April 2021. [Online]. Available: https://www.quantum.amsterdam/quantum-delta-nl-awarded-228-million-euro-for-second-phase-of-its-programme-to-accelerate-quantum-technology. [Accessed 26 August 2022].
+[85]  Helsinki Partners, “Helsinki Business Hub is now Helsinki Partners,” 
+[Online]. Available: https://helsinkibusinesshub.fi/about-hbh-2/. [Accessed 25 August 2022].
+[92]  Quantum Delta Nederland, “National Agenda for Quantum 
+[86]  European High-Performance Computing Joint Undertaking, “LUMI: a new EuroHPC world-class supercomputer in Finland,” 21 October 2021]0. [Online]. Available: https://eurohpc-ju.europa.eu/lumi-new-eurohpc-world-class-supercomputer-finland-2020-10-21_en. [Accessed 25 August 2022].
+Technology,” 2019.
+[93]  Quantum Delta NL, “Quantum Delta NL in a nutshell,” [Online]. 
+Available: https://quantumdelta.nl/pdf/QDNL_fan_explaining_cats_and_action_lines_incl_budget.pdf. [Accessed 28 August 2022].
+[87]  “Presentation Day of the Finnish Quantum-Computing Infrastructure FiQCI,” The Finnish Quantum-Computing Infrastructure, [Online]. Available: https://ssl.eventilla.com/event/GGlzk. [Accessed 25 August 2022].
+[94]  Quantum Delta NL, “Action Line 1: research and innovation,” [Online]. Available: https://quantumdelta.nl/research-and-innovation/. [Accessed 28 August 2022].
+[95]  Netherlands Point of Entry, “Quantum computing,” [Online]. Available: https://www.welcome-to-nl.nl/work-in-nl/quantum-computing. [Accessed 30 August 2022].
+[88]  United States Department of State, “Joint Statement of the United 
+States and Finland on Cooperation in Quantum Information Science and Technology,” 06 April 2022. [Online]. Available: https://www.state.gov/joint-statement-of-the-united-states-and-finland-on-cooperation-in-quantum-information-science-and-technology/. [Accessed 25 August 2022].
+[96]  R. Huizenga, “Quantum Delta NL joins forces with France and launches joint job board,” Quantum Delta NL, 02 September 2021. [Online]. Available: https://quantumdelta.nl/jobboardpressreleaseeng/. [Accessed 01 September 2022].
+[89]  The Hindu, “India, Finland to establish Virtual Network Centre on Quantum Computing,” 19 April 2022. [Online]. Available: https://www.thehindu.com/sci-tech/technology/india-finland-to-establish-virtual-network-centre-on-quantum-computing/article65335313.ece. [Accessed 25 August 2022].
+[97]  QDNL, “Quantum Application Lab opens to explore the advantages 
+and business opportunities for quantum computing,” Quantum Delta NL, 24 March 2022. [Online]. Available: https://quantumdelta.nl/qal/. [Accessed 01 September 2022].
+[90]  Nationaal Groeifonds, “Quantum Delta NL,” [Online]. Available: https://
+[98]  QuTech, “History,” [Online]. Available: https://qutech.nl/history/. 
+www.nationaalgroeifonds.nl/projecten-ronde-1/quantum-delta-nl. [Accessed 26 August 2022].
+[Accessed 30 August 2022].
+[99]  QuTech, “Division of Quantum Computing,” [Online]. Available: https://qutech.nl/research-engineering/quantum-computing/. [Accessed 30 August 2022].
+PAGE
+48
+[Page #48]
+[100]  QuTech, “Division of Quantum Internet,” [Online]. Available: https://qutech.nl/research-engineering/quantum-internet/. [Accessed 30 August 2022].
+[110]  WIQD, “Women in Quantum Development,” [Online]. Available: https://
+www.wiqd.nl. [Accessed 01 September 2022].
+[111]  gov.pl, “CyberPoland 2025,” [Online]. Available: https://www.gov.pl/web/polski-lad/cyberpoland-2025. [Accessed 01 September 2022].
+[101]  E. Dedezade, “Microsoft’s new quantum computing lab in Delft opens its doors to a world of possibilities,” Microsoft, 21 February 2019. [Online]. Available: https://news.microsoft.com/europe/2019/02/21/microsofts-new-quantum-computing-lab-in-delft-opens-its-doors-to-a-world-of-possibilities/. [Accessed 30 August 2022].
+[112]  M. Maciąg-Kruszewska, “Polish PSNC to Join IBM Quantum Network, 
+Becoming First Hub in Central and Eastern Europe,” 11 February 2022. [Online]. Available: https://www.ibm.com/blogs/southeast-europe/poland-psnc-ibm-quantum-hub/. [Accessed 01 September 2022].
+[102]  QuTech, “Quantum Inspire,” [Online]. Available: https://qutech.nl/
+quantum-inspire/. [Accessed 30 August 2022].
+[113]  Krajowe Centrum Informatyki Kwantowej, “History,” [Online]. Available: https://kcik.ug.edu.pl/en/history/. [Accessed 01 September 2022].
+[103]  QuTech, “Quantum Delft website launched!,” 06 April 2020. [Online]. 
+Available: https://qutech.nl/2020/04/06/quantum-delft-website-launched/. [Accessed 19 September 2022].
+[114]  University of Gdańsk, “COOPERATION AGREEMENT. DEVELOPMENT 
+OF QUANTUM RESEARCH IN POLAND,” 01 February 2021. [Online]. Available: https://ug.edu.pl/news/en/756/cooperation-agreement-development-quantum-research-poland. [Accessed 01 September 2022].
+[104]  QUSOFT, “THIS IS OUR FOUNDATION,” [Online]. Available: https://
+qusoft.org/about-us/. [Accessed 01 September 2022].
+[105]  Quantum.Amsterdam, “Collaboration Projects,” [Online]. Available: 
+[115]  Fundacja na rzecz Nauki Polskiej, “Polish contribution to the 
+https://new.quantum.amsterdam/q-a-collaborations/q-a-projects/#Bosch. [Accessed 01 September 2022].
+development of quantum computers,” 16 May 2019. [Online]. Available: https://www.fnp.org.pl/en/polski-wklad-w-budowe-komputera-kwantowego/. [Accessed 01 September 2022].
+[106]  QUSOFT, “QUSOFT,” [Online]. Available: https://qusoft.eu. [Accessed 01 
+[116]  Near-term Quantum Computers Project, “About the project,” [Online]. Available: https://nisq.pl/about-the-project. [Accessed 01 September 2022].
+September 2022].
+[107]  Quantum.Amsterdam, “Home,” [Online]. Available: https://www.
+quantum.amsterdam. [Accessed 01 September 2022].
+[117]  National Science Centre Poland, “Success of Polish research teams in the QuantERA Call 2021,” 15 December 2021. [Online]. Available: https://www.ncn.gov.pl/en/aktualnosci/2021-12-15-wyniki-quantera-call-20211. [Accessed 02 September 2022].
+[108]  Quantum Software Consortium, “About,” [Online]. Available: https://www.quantumsc.nl/ABOUT-QSC2/About-QSC/. [Accessed 01 September 2022].
+[118]  Quantum Spain, “Quantum Spain,” [Online]. Available: https://quantumspain-project.es/en/quantum-spain/. [Accessed 03 September 2022].
+[109]  Quantum Software Consortium, “Overview,” [Online]. Available: https://www.quantumsc.nl/Research/Overview/. [Accessed 01 September 2022].
+PAGE
+49
+[Page #49]
+[119]  HPCwire, “BSC to Coordinate Quantum Spain, the National Quantum Computing Ecosystem,” 29 October 2021. [Online]. Available: https://www.hpcwire.com/off-the-wire/bsc-to-coordinate-quantum-spain-the-national-quantum-computing-ecosystem/. [Accessed 03 September 2022].
+[127]  Chalmers University of Technology, “Industrial Collaboration,” 21 
+September 2021. [Online]. Available: https://www.chalmers.se/en/centres/wacqt/collab%20with%20industry/Pages/default.aspx. [Accessed 05 September 2022].
+[128]  Chalmers University of Technology, “Research programme description: Wallenberg Centre for Quantum Technology,” [Online]. Available: https://www.chalmers.se/en/news/Documents/programme_description_WCQT_171114_eng.pdf. [Accessed 05 September 2022].
+[120]  Dirección de Barcelona Supercomputing Center - Centro Nacional de 
+Supercomputación (BSC-CNS), “Expediente: CONSU02022002OP,” 01 August 2022. [Online]. Available: https://contrataciondelestado.es/wps/portal/!ut/p/b0/DcqxCoAgEADQTzpqDByCmiKopdIlrk7q6LQEkz4_xwcPDCxgPCY-MPLtUbI1WfsI-6siG1HErsI7R9xzgBkMGKY2Cejed9Q3KXRDcKEs3u_ccBqVgse5-gezXNir/. [Accessed 03 September 2022].
+[129]  National Quantum Coordination Office, “The United States and 
+Sweden Sign Quantum Cooperation Statement,” 11 April 2022. [Online]. Available: https://www.quantum.gov/the-united-states-and-sweden-sign-quantum-cooperation-statement/. [Accessed 05 September 2022].
+[121]  Quantum Spain, “Application,” [Online]. Available: https://
+quantumspain-project.es/en/quantum-simulation-architectures-in-hpc-systems. [Accessed 03 September 2022].
+[130]  Chalmers University of Technology, “Andreev qubits for scalable quantum computation (AndQC),” 03 September 2020. [Online]. Available: https://www.chalmers.se/en/projects/Pages/Andreev-qubits-for-scalable-quantum-computation-QAndQCQ.aspx. [Accessed 05 September 2022].
+[122]  Quantum Spain, “Application,” [Online]. Available: https://
+quantumspain-project.es/en/quantum-ai-for-scientific-and-industrial-applications/. [Accessed 03 September 2022].
+[123]  Quantum Spain, “Application,” [Online]. Available: https://
+quantumspain-project.es/en/quantum-ai-for-noise-characterization-of-quantum-computers/. [Accessed 03 September 2022].
+[131]  G. e. a. Higgins, “Single Strontium Rydberg Ion Confined in a Paul Trap,” 
+Physical Review X, vol. 7, no. 2, p. 021038, 2017.
+[124]  Quantum Spain, “TalentQ,” [Online]. Available: https://quantumspain-
+[132]  G. e. a. Higgins, “Coherent Control of a Single Trapped Rydberg Ion,” 
+project.es/en/talentq-en/. [Accessed 03 September 2022].
+Physical Review Letters, vol. 119, no. 22, p. 220501, 2017.
+[125]  Quantum Computing Report, “Spain Forms CUCO Project to Research Potential Quantum Computing Applications,” 13 January 2022. [Online]. Available: https://quantumcomputingreport.com/spain-forms-cuco-project-to-research-potential-quantum-computing-applications/. [Accessed 03 September 2022].
+[133]  CORDIS, “Brisk Rydberg Ions for Scalable Quantum Processors,” 08 
+March 2022. [Online]. Available: https://cordis.europa.eu/project/id/101046968. [Accessed 05 September 2022].
+[134]  Eidgenössische Technische Hochschule Zürich, “NCCR “QSIT - Quantum 
+Science and Technology”,” [Online]. Available: https://nccr-qsit.ethz.ch. [Accessed 06 September 2022].
+[126]  CUCO, “CUCO project,” [Online]. Available: https://www.cuco.tech/en/
+home/. [Accessed 03 September 2022].
+PAGE
+50
+[Page #50]
+[135]  University of Basel, “Current Research,” [Online]. Available: https://
+[144]  Swiss Quantum Hub, “Swiss Quantum Hub,” [Online]. Available: https://www.swissquantumhub.com/about-us/. [Accessed 06 September 2022].[145] M. Pollet, “France opens access to quantum computing to researchers, start-ups,” 5 January 2022. [Online]. Available: https://www.euractiv.com/section/industrial-strategy/news/france-opens-access-to-quantum-computing-to-researchers-start-ups/. [Accessed 11 August 2022].
+www.nccr-spin.ch/current-research. [Accessed 06 September 2022].
+[136]  Basel Quantum Center, “EXCELLENCE IN QUANTUM SCIENCE AND 
+QUANTUM TECHNOLOGY,” [Online]. Available: https://www.quantum.unibas.ch. [Accessed 06 September 2022].
+[137]  Basel Quantum Center, “Georg H. Endress Postdoc Cluster,” [Online]. 
+Available: https://www.quantum.unibas.ch/g-h-e-postdoc-cluster/. [Accessed 06 September 2022].
+[146]  Quantonation , “ABOUT US,” Post Scriptum, [Online]. Available: https://
+www.quantonation.com/team/. [Accessed 11 August 2022].
+[138]  Eidgenössische Technische Hochschule Zürich, “The Center,” [Online]. 
+Available: https://qc.ethz.ch/the-center.html. [Accessed 06 September 2022].
+[147]  QuTech, “About us,” [Online]. Available: https://qutech.nl/about-us/. 
+[Accessed 24 August 2022].
+[139]  Eidgenössische Technische Hochschule Zürich, “Engineering Unit,” 
+[148]  Technische Universiteit Delft, “Research Themes for Delft Technology 
+[Online]. Available: https://qc.ethz.ch/engineering-unit.html. [Accessed 06 September 2022].
+Fellowship 2021-2022,” [Online]. Available: https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/campagnes/delft-technology-fellowship/qutech. [Accessed 24 August 2022].
+[140]  Paul Scherrer Institut, “Welcome to the ETHZ-PSI Quantum Computing 
+Hub,” [Online]. Available: https://www.psi.ch/en/lnq/qchub. [Accessed 06 September 2022].
+[149]  Government of Canada, “What We Heard Report,” 18 July 2022. 
+[Online]. Available: https://ised-isde.canada.ca/site/national-quantum-strategy/sites/default/files/documents/2022-07/1032_06_21_nqs_wwh_report_en_v4.pdf. [Accessed 06 September 2022].
+[141]  Eidgenössische Technische Hochschule Zürich, “ETH Domain,” [Online]. Available: https://ethz.ch/en/the-eth-zurich/organisation/eth-domain.html. [Accessed 06 September 2022].
+[150]  IQT News, “Government of Canada has announced new investments in support of National Quantum Strategy,” 23 March 2022. [Online]. Available: https://www.insidequantumtechnology.com/news-archive/government-of-canada-has-announced-new-investments-in-support-of-national-quantum-strategy/. [Accessed 06 September 2022
+[142]  EPFL, “Center for Quantum Science and Engineering (QSE Center),” [Online]. Available: https://www.epfl.ch/research/domains/quantum-center/. [Accessed 06 September 2022].
+[143]  EPFL, “Grants for Entrepreneurial Projects in Quantum,” [Online]. 
+Available: https://www.epfl.ch/research/domains/quantum-center/grants-for-entrepreneurial-projects-in-quantum/. [Accessed 06 September 2022].
+PAGE
+51
+[Page #51]
+None
