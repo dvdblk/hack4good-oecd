@@ -105,7 +105,7 @@ print("Converting mmd to text")
 (all_pdf_text, all_pdf_names) = text_from_mmd(input_folder_path)
 print("List of pdf texts generated")
 for pdfs, names in zip(all_pdf_text, all_pdf_names):
-    print("Creating anotation for", names)
+    print("Creating annotation for", names)
     annotation = text_to_annotations(pdfs)
     print("Annotation created")
     print("Converting annotation to dictionary for hard skills")
