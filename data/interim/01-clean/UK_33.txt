@@ -1,0 +1,249 @@
+[Page #0]
+AI Skills in the UK
+[Page #1]
+Contents
+Foreword
+While digital transformation has been a defining feature of global business over the past decade, 2020 has ushered in seismic changes, most notably due to COVID-19 and the urgent shift to remote working. As Satya Nadella put it: the world experienced two years of digital transformation in two months.
+or risk being left behind. This new report into AI skills now sheds light on how organisations can mitigate that risk, by addressing the gaps in workforce readiness.
+Foreword
+We hear from customers every day who are passionate about AI’s potential and want to ensure their employees are set up for success. At the same time, we know this process is easier said than done and at Microsoft, we continue to view learning as a continuous journey. With that in mind and to help you achieve this goal, this report offers a range of practical advice, taken from our own experience, from subject matter experts and organisations on this journey including: • Assess your business. What does your skills mix look like in comparison to businesses at a similar stage of AI maturity, and those further ahead?
+Page 01
+Borne of necessity from the crisis, many organisations have accelerated their digital transformation journey – making significant investments in digital infrastructure to support remote operations. Industry analyst firms such as IDC are now predicting AI and cloud technology will play a significant role in helping businesses and societies deal with the ongoing, large-scale disruption wrought by COVID-19. Research into the economic impact of COVID-19 by Imperial College London also highlights the need for business agility, emphasising that the ability to respond and adapt to change faster, leaner and smarter is more crucial than ever for business survival in these extraordinary circumstances.
+Simon LambertChief Learning Officer, Microsoft UK
+1. Measuring UK readiness
+Page 02
+• Put your people first. Incentivise and
+empower staff at all levels to learn about AI. Focus on developing peoples’ skills as much as developing new AI-powered technology to ensure success.
+• Identify “champions for change” genuinely interested in AI. Champions are the front line of change management, your eyes and ears, your feedback loop.
+We understand that such uncertainty can naturally breed caution, but it also presents new opportunities: the digital foundations are in place for firms to now accelerate their automation and augmentation journeys. Equipping the workforce with the skills needed to capitalise on emerging AI technologies is the next major hurdle. At Microsoft, we believe digital transformation is only truly possible with the right digital skills, and we see it as our responsibility to help people acquire those digital skills – for their own benefit and to future-proof UK competitiveness.
+2. From intention to action
+• Develop a flexible learning and
+Page 06
+3. Setting the UK up for success
+development program. Your employees are highly motivated to learn; give them the freedom to choose how to upskill in AI skills with a mixture of formal and experienced-based training. This is the best way to ensure participation in learning programs.
+Page 12
+• Create an ongoing culture of
+Today we have new data from a major global study by Microsoft, showing how the UK’s AI skills and AI adoption levels compare to the rest of the world. The findings show that, compared to global averages, the UK suffers from lower relative AI maturity and adoption, a more pressing AI skills gap, and a concerning lack of AI re-skilling of the UK workforce. This low AI readiness and skills misalignment has very real consequences for the country’s competitiveness on the global stage. Microsoft research carried out in October 2019 found those organisations already using AI at scale were outperforming the competition by 11.5% - up from 5% in 2019. Our message to UK organisations was to “get serious” with AI
+experimentation by encouraging staff to try new things without judgement, learn from the results - and share this knowledge with their colleagues.
+ Conclusion
+Page 24
+As you can see, even in this uncertain time, many organisations are continuing to focus on up-skilling their workforce and accelerating digital maturity. We’re heartened by this commitment to developing AI understanding, and hope this report will help UK business leaders identify valuable areas of opportunity as we all look toward the AI-powered future.
+Appendix
+Page 06
+S .Lambert
+[Page #2]
+Chapter 1
+Chapter 1
+We warned this opportunity to transform businesses’ bottom line should not be missed, but it was clear that for many organisations, AI was still the elephant in the room. Just over a quarter of UK business leaders believed the country has the structure in place to become world leaders in AI innovation. The data also revealed a worrying gap between intention and action when it comes to AI skills. 76% of business leaders claimed they understood the breadth and depth of AI skills their workforce will need to succeed in the next 12 months, yet only 11% of employees had completed training to improve their understanding of how to use AI in their job.
+economic growth and ensuring UK competitiveness. As the world becomes ever more connected, AI technology is an increasingly important component of that digital ecosystem.
+Over the past few years, Microsoft has undertaken extensive research investigating the state of AI in the UK, with the objective findings revealing a compelling argument to embrace AI adoption. In 2018, we discovered UK organisations embracing AI were outperforming the competition by 5%. Fast forward to October 2019, and that competitive advantage had more than doubled to 11.5%.
+To help understand the challenges organisations face in preparing their workforces for an AI-driven world, in late March 2020, Microsoft carried out a major new international research project focusing on AI and skills. We surveyed over 12,000 people in 20 countries who work within enterprise companies, including 600 in the UK. The data revealed where UK organisations stand in terms of AI adoption compared to their global counterparts, as well as what the most AI-advanced organisations have in common.
+Measuring UK AI readiness
+Introducing Microsoft AI skills research
+Since that survey was conducted ongoing geopolitical and economic uncertainty and the outbreak of COVID-19 have accelerated the pace of change and created a new global mandate around the use of AI and the development of the right digital skills.
+We discovered the most successful organisations are as focused on developing the skills of their people as they are with developing new AI-powered technology.
+ Fast forward to October 2019, and that competitive advantage had more than doubled to11.5%
+Even before COVID-19, many companies were in the process of developing the “remote everywhere” digital ecosystem that is crucial for connecting with customers, creating jobs, boosting
+Even before COVID-19, many companies were in the process of developing the “remote everywhere”
+The recent pandemic is significantly accelerating the demand for digital skills. Meeting this demand cannot just be a top down process pushed by business leaders - it requires an enormous bottom-up effort from individuals at all levels who are self-motivated to improve their digital and AI-augmented skills. As leaders rethink their business operations, there will be much more focus on staff learning and adaption, to take an ongoing agile approach to this new world of work.”
+Lord Clement Jones, Former Chairman of the House of Lords Select Committee on Artificial Intelligence
+[Page #3]
+Chapter 1
+Chapter 1
+So, how does the UK fare?
+Power of democratisation
+However, UK organisations are on par with their global peers in reporting successful AI projects: 68% vs. 69%.
+StrategyInvolves deciding what you will do for your customer better than your competitor
+In short, the UK’s AI maturity trails the global average. UK organisations are less likely to be classified as ‘AI pros’ in comparison to the global average (15% vs. 23%). The UK reports a higher failure rate of AI (defined as projects generating no value) than the global average. 29% of UK organisations report projects that aren’t generating value, compared to the global average of 19%.
+This latest research imparts a clear warning that UK organisations need to address AI readiness, or risk missing out on potential performance gains of 11.5% – a gap that will only grow wider in an increasingly AI-powered world. To help businesses address this gap and realise the full value of AI, together with Goldsmiths University of London we developed a framework for developing a holistic AI strategy as part of last year’s report (see Figure 2).
+Additionally, UK organisations are more likely to be using AI to drive operational efficiencies and free up people from basic tasks than the global average, but less likely to be deriving new product innovation or happier customers from AI projects. This puts the UK at a disadvantage as businesses shift from focusing on short-term efficiencies to pursuing higher value-added benefits of AI.
+DemocratisationAllowing access to the benefits of AI to all, including the skills needed
+PerformanceWhat you do, is just as important as how you do it
+We believe that organisations best positioned for success are those in which three core dimensions of AI usage – strategy, performance and democratisation – are all present and symbiotic. Strategy involves deciding what you will do for your customer better than your competitor. Performance means that what you do is just as important as how you do it. Democratisation allows access to the benefits of AI to all, including the skills needed to be successful.
+Finally, as you’ll see in Figure 1, a smaller proportion of the UK workforce is currently AI-augmented or works with AI day-to-day. Compared to their global peers, UK organisations have more runway to seize the opportunities of an AI-augmented workforce.
+15% vs. 23% UK organisations are less likely to be classified as ‘AI pros’ in comparison to the global average
+Of the three pillars, this report will focus in particular on the third pillar of democratisation. Success isn’t simply about throwing more AI at the business. To realize the full benefits of AI, you have to democratise access to AI skills and keep investing in those skills as technology and the needs of your business evolve. We’ll talk more about what this means in the following section.
+UK workforce is currently AI-augmented or works with AI day-to-day
+70%
+69%
+65%
+60%
+50%
+52%
+51%
+“Many companies struggle to move AI projects from proof of concept to production. To succeed, you must put enough resources and expertise into educating people, helping them embrace new innovations and creating champions for change.”
+40%
+42%
+37%
+30%
+28%
+20%
+23%
+19%
+17%
+15%
+10%
+11%
+6%
+6%
+0%
+Work with AI day-to-day
+Developing AI
+Supervising AI
+Managers who are augmented
+Managers who are not augmented
+Employees who are not augmented
+Employees describing themselves as augmented workers
+Chris Withers, Head of AI & Advanced Analytics, EMEIA Financial Services, EY
+Global
+UK
+[Page #4]
+Chapter 2
+Chapter 2
+The UK faces a looming AI skills gap. According to a recent analysis by McKinsey, the UK is in the top quartile of countries on AI readiness, with strong policy and academic foundations, yet the country faces a shortage of people with advanced digital skills, which is at odds with its strengths in academia, and represents a huge missed opportunity.
+ We’re not capitalising on the strength and quality of the UK’s academic institutions when it comes to AI. If Britain’s businesses mirrored the skill level and effort of our Universities, we’d be in great shape.
+Lord Clement Jones, Former Chairman of the House of Lords Select Committee on Artificial Intelligence
+Our own research supports this conclusion – the data indicates that more than a third (35%) of UK leaders believe there will be an AI skills gap in the next two years, and 28% believe we are already experiencing one (compared to 24% of leaders globally).
+Globally, this trend is reversed – 44% prioritise the technology, compared to 56% who focus on the people.
+ From intention to action
+UK business leaders would be well-served to consider one of the key findings of our global study: leaders in AI are putting skills first. The research finds that those firms that gain the most from AI have also invested in skilling their employees and building a positive, innovation-oriented culture.
+While hardly a rosy outlook among business leaders, employee perceptions of the challenge are even more revealing: Just 26% of UK employees do not foresee an AI skills gap (well above the global average of 16%). However, in spite of these clear concerns across all levels of organisations, we’re seeing inertia from UK leadership in relation to AI skills.
+93% of senior executives at AI-leading firms globally say they are actively building the skills of their workers or have plans to. Nearly two-thirds (64%) of employees at these companies say they have already benefitted from reskilling programs, and 70% indicate that they are confident their employers are preparing them for the AI world.
+26% of UK employees do not foresee an AI skills gap
+Only 17% of UK employees say they have been part of re-skilling efforts (far less than the 38% globally), and only 32% of UK employees feel their workplace is doing enough to prepare them for AI (well below global average of 42%).
+But these percentages drop considerably across businesses that are less advanced with AI deployment – which suggests that upskilling is often a blind spot for companies as they bring more AI into their business.
+One possible reason for this disconnect is that UK leadership appears to be focusing on the technology itself before the skills of the people using it, while the reverse is true globally. 61% of UK managers say they’re focusing on the AI they implement, compared to 39% who say they’re focused on their people and how they work with AI.
+[Page #5]
+Chapter 2
+Chapter 2
+“Having a functional understanding of AI is important for staff at all levels throughout an organisation. For example, senior leadership have to make short and long-term strategic decisions about when and where to invest in and deploy A.I. technology. Knowing the value and impact of different solutions and skills, as well as what kinds of results can be realistically expected at each step, helps them make the right call.
+It also helps if all non-technical users of an A.I. system have a functional understanding of machine learning so they can better see and appreciate their role in the system. This is especially important if the system alters its behaviour according to their feedback or interaction with it. Users will then be able to identify if the system is failing to provide the required outcomes - or is demonstrating any biases.”
+Lydia Gregory, Co-founder of AI consultancy FeedForward AI
+Bridging the gap
+continuous and experience-based, and that communication flows openly and effectively in both directions.
+17%of UK employees say they have been part of AI re-skilling efforts
+While UK business leaders have good intentions when it comes to adopting AI, there continues to be a noticeable discrepancy between their aspirations and the reality for many organisations. For example, our new data shows only 17% of UK employees say they have been part of AI re-skilling efforts - far less than the 38% average reported globally.
+ Employees who feel free to ‘step outside the classroom’, actively integrate their knowledge of AI into their day-to-day job, ask questions and solicit feedback on their experiences find it far easier to trust the technology, develop new skills and capitalise on the opportunities the technology offers them long-term.
+ Learning shouldn’t be just about taking a course – it should be about learning from others on the job. The most successful companies create an environment where everyone can share knowledge and experience and teach each other.”
+ Reconciling this disconnect and ensuring workers have the tools to augment their roles with AI is paramount if the UK hopes to realise its potential as an AI leader. Training is critical, but it is only the first step. As with any effective digital transformation project, organisations must develop processes to ensure learning is
+To support the requirements of AI at scale, organisations need a proactively democratic culture – one that fosters open, collaborative participation so the entire workforce can learn, communicate and improve in the context of their actual job.
+Simon Lambert, Chief Learning Officer, Microsoft UK
+[Page #6]
+Chapter 2
+Chapter 2
+Case study: Mott MacDonald
+With a mission to help solve some of the world’s most urgent social, environmental and economic challenges, London-based, global engineering, management and development consultancy, Mott MacDonald is using AI technology to build a knowledge network that allows its 16,000 employees to more easily share knowledge and expertise. Here, Simon Denton, Productivity Applications Architect at Mott MacDonald, discusses how AI is helping the firm reimagine knowledge management and deliver exceptional project results for clients.
+What opportunities do you think AI technology presents to your organisation?
+How is Mott MacDonald using AI to improve knowledge management?
+Because we are a global consulting firm, our success relies on the excellence of our employees, which in turn depends on their ability to share knowledge and learn from one another. So we focus on the people as much as the technology. We’ve been using Project Cortex, a new service in Microsoft 365, to help our team members socialise information and find material they’re looking for faster and more easily. Project Cortex uses AI to enhance knowledge, knowledge sharing and knowledge reuse, allowing us quicker access and connection to colleagues and their expertise. Our brand proposition is opening opportunities with connected thinking - and an AI-driven approach is key to helping us deliver on that brand promise.
+We’re increasingly seeing crossover between the virtual and physical worlds, where we enhance the physical world with technology to create smart infrastructure and drive better social, economic and environmental outcomes. That’s where the big opportunity is - infusing technology and AI into the organisation to enable people to ‘see the unseen’ and thus maximise their existing investments. That’s where AI gives you the edge.
+What role do you think AI plays in helping businesses and society respond to the current levels of global disruption?
+AI is a tool for good. At Mott MacDonald, we were lucky and started our digital transformation around five years ago, so when we had to flip the switch and create 16,000 individual offices overnight, it was not only possible but relatively seamless. While other organisations may be at different points in their journey, the current circumstances have forced all of us to overcome our fear of the unknown much more quickly. We’re seeing an exponential curve where businesses are discovering that they can change rapidly and easily, and AI technology plays a big role in that ability to change.
+What does Mott MacDonald do to support a culture of learning?
+You cannot create a culture without a community. And you cannot create a community overnight. We accepted it as a long-haul process where we encouraged the formation of a networks for specialised areas, provided the tools and a framework to support them, and put in processes that meant there was a two-way feedback loop that captures and shares key findings, which leadership then acts on. The other key element, which is so, so incredibly powerful, is advocating digital change champions and helping them build their own networks geographically or with users of particular digital tools. Your champions are the front line of change management, they are your eyes and ears, they are your feedback loop. They are the most important part of all.
+They are the most important part of all.
+[Page #7]
+Chapter 2
+Chapter 2
+Actionable insights for business leaders
+Allow people from across the organisation to participate in AI implementation from the outset, and ensure everyone has the support needed to understand how the technology works. This will allow you to scale from a foundation of strength, experience and shared buy-in.
+Democratise access
+Let your employees know what to expect
+Communicate your plans to implement AI and how you will help equip staff with the key skills they need. This will not only help employees better understand the learning opportunities available to them, it will make them more engaged with the process.
+The worst champions are “voluntold”, i.e. people that were told to take part, rather than proactively wanting to take part. Instead, seek people who are naturally interested and enthusiastic. Then give them all the support they need, while also allowing them to take a rest or step back, should they need to.
+Find champions through self-selection & empower them.
+Your employees are highly motivated to learn; giving them the freedom to choose which skills they cultivate is the best way to ensure participation in learning programs. Consider how to map flexible career development paths - and help guide employees in their selections, to ensure it works for them and for the business.
+Develop a flexible learning and development program
+What does your skills mix look like in comparison to businesses at a similar stage of AI maturity, and those further ahead? Discover best practices for considering your approach to AI with Microsoft’s AI Business School, a free online masterclass designed for business leaders.
+Assess your business
+[Page #8]
+Chapter 3
+Chapter 3
+improvement. This process requires a fundamental rethinking of everything from recruitment to the way performance is measured to the way teams are organised and collaborate with each other. But regardless of the size of the organisation and scope of the shift needed, successful culture change is grounded in purpose, and the belief that change is possible.
+However, UK organisations face a number of barriers as they seek to re-skill and upskill their workforce.
+In 2018, the World Economic Forum indicated that by 2022, at least 54% of employees in all industries will require significant re-skilling or upskilling to meet future workforce needs, thanks to AI and other automation technologies.
+More than a third of respondents indicate that lack of budget is their top concern
+34%
+Other respondents indicate citing unclear ROI as a barrier
+28%
+And according to Deloitte, the majority of UK workers agree that in order to do their job effectively, they need to learn new skills - particularly skills involving advanced IT and technical knowledge. The need for the UK to address AI readiness and skills alignment couldn’t be more urgent.
+Cultivating an AI-ready culture
+Until recently, AI adoption was driven largely by proofs of concept. Now, however, as organisations bring more AI into the business, they need to adopt a new mindset and a new way of working if they are going to embed it at scale. After all, it is not the technology that holds deployment back; it is the lack of an AI-ready culture.
+A quarter of respondents said that uncertain role investment was their top challenge (compared to 20% globally). These results align with a recent global study by KPMG that found that technology industry leaders consider capacity, culture and capability the top barriers to workforce transformation in the age of AI.
+Setting the UK up for AI success
+A democratic culture that allows every level and layer of the organisation to participate in the journey to implementation is a key ingredient for success. Equally important is a culture that celebrates the idea of a growth mindset - where one aims to find solutions to problems, rather than accept that a problem cannot be solved, or feel that they are not empowered or able to solve it. First coined by psychologist Carol Dweck, a growth mindset stands in stark opposition to a fixed mindset, where people stick to activities and utilise skills they’ve already mastered, rather than risk failing at something new. Those who operate from a growth mindset focus on learning new things, understanding that they won’t succeed at all of them at first.
+Addressing these barriers is key for UK organisations seeking to capitalise on AI’s promise in the recovering digital economy. As we showed earlier in this report, those organisations that are most advanced in terms of AI adoption – and enjoying quantifiable competitive advantages – are investing heavily in their workforces, to ensure employees have the digital skills needed to succeed. Our data shows 76% of UK organisations that would be considered “AI pros” have increased skills investment; by contrast, 73% of UK “AI beginners” have made no investment in building their skills pipeline, well above the global average (58%). Broadly speaking, the data indicates UK organisations perform worse when it comes to corporate culture, including dimensions such as innovation, flexibility and training, hinting at a possible systemic problem in their approach to transformation. This suggests that organisations looking to future-proof their workforces in the age of AI, should begin by examining their culture.
+76%of UK organisations that would be considered “AI pros” have increased skills investment
+Organisations that encourage a growth mindset are more agile and better equipped to respond and adapt to change - qualities that not only set them up for success in AI, but also help ensure their survival in turbulent times.
+This is easier said than done, of course. At Microsoft, we know from experience creating a culture of learning and coaching is an ongoing, iterative process of continual
+[Page #9]
+Chapter 3
+Chapter 3
+Case study: The NHS Business Services Authority
+The NHS Business Services Authority (NHSBSA) is an Arm’s Length Body of the Department of Health & Social Care providing a range of critical central services to NHS organisations, NHS contractors, patients and the public. This includes managing the NHS Pension scheme, issuing European Health Insurance Cards (EHIC) and administering payments to pharmacists and dentists. Here, Darren Curry, Chief Digital Officer at NHSBSA describes the learning and cultural journey that the organisation has been on, working with Microsoft and using AI, to improve the management of medicine prescriptions in the UK.
+How is your organisation taking advantage of AI?
+formal training and informal mentoring to our higher skilled and more experienced members of the team.
+We manage vast amounts of data and repetitive transactional processes every day. AI helps us automate and create efficiencies at scale, which in turn allows us to improve the quality of our data. Using predictive analytic models we can examine and forecast trends to help us make better, more informed decisions. AI lets our workforce concentrate on where they can add the most value, rather than cut costs.
+How have people responded to this mix of formal and more informal, hands on learning?
+The feedback has been really positive. The formal training offers a foundational framework for delivering new products and making business decisions based on the right reasons, while using AI in the best ways. Hands-on training helps staff practice what they learn, getting to grips with real products and solving real problems, supported by the genuine expertise Microsoft has to offer. The two complement each other very well.
+The CBI says addressing the AI skills gap is essential for pandemic recovery efforts. What are your thoughts on this?
+It’s definitely a real challenge - getting It’s definitely a real challenge - recruiting people with the right skills is key to the recovery, so some degree of educational reform is needed but it’s not just about recruitment - investing in our people is just as important. Training and developing a skilled workforce is not a short term commitment but an absolute necessity to ensure we create the right environment and deliver for the NHS.
+How do you create a culture of learning that encourages staff growth when they’re not taking a course?
+We make sure people know, explicitly, that this is an environment where they can experiment – try things out and if it doesn’t work, that’s fine, as long as we all learn from it. It’s important that people flag up when things won’t or don’t work as quickly as possible though, which means continually testing your assumptions. We encourage a mind-set where people don’t see unsuccessful experiments as failures – rather they’re seen as part of the learning process, which is a kind of success in itself. We will continue to use all knowledge and experience gained to inform our decisions as
+As part of our commitment we have developed an apprenticeship scheme and this year we are taking on 10 people for a three year degree apprenticeship. We will be supplementing classroom style learning with contemporary practical experience, partnering with companies such as Microsoft. This is essential in helping people to learn on the job, under supervision while developing their skills in the real world. We also collaborate with Microsoft to offer
+AI continues to develop.
+[Page #10]
+Chapter 3
+Chapter 3
+Actionable insights for business leaders
+It isn’t a single technology implementation that users need to be trained on. It’s a digital transformation enabler, and requires people, processes and tools to work in harmony, supported by an AI-ready culture. Discover ways to foster an AI-ready culture in your business and a framework to drive that change in your organization.
+Treat AI like a paradigm shift, rather than as a project
+Model a growth mindset
+Be willing to share your learnings and your failures as readily as you do your successes. Being open about your own opportunities for growth will give your teams permission to do the same.
+Employees who feel empowered to upskill or re-skill are less likely to feel threatened by the technology and more likely to take advantage of the learning opportunities available to them.
+Encourage curiosity and continuous learning
+Understand that AI is a long haul, learning journey.
+You’ve got to take a long-term approach and encourage a culture of experimentation as an essential element of that journey
+Realise Ai
+Ensure you know what specific problem you are trying to solve with AI – and use the right technology for the problem. AI might be part of the answer, or not the right answer at all.
+is not a silver bullet.
+Only by developing staff’s capabilities do you enable them to carry their learnings forward, and ultimately use AI in the right way - to increase the value people can create.
+Invest in your people & their skills.
+[Page #11]
+Chapter 3
+Chapter 3
+Ask the Expert: Ask the Expert: Q&A with Chris Withers, Head of AI & Advanced Analytics, EMEIA Financial Services, EY
+What are the first steps in creating an AI-ready culture?
+How is EY approaching AI skills development?
+We offer a wide range of formal and informal development opportunities and have created AI learning paths for our employees which combine online learning and practical experience. We use certifications - EY Badges – to incentivise and recognise the investment our people make to equip themselves with the right AI skills and experience to respond to the changing needs of our clients.
+Focus on your people and get them to identify how to solve real business problems using AI. Start by bringing people together with a ‘problem solver’ mindset from the business and the technology teams. Level-set on what AI can – and can’t – do and then let the creativity flow. These people become advocates for AI, and champions for driving change through the organisation.
+How should organisations be thinking about reskilling and upskilling?
+What advice do you have for business leaders looking to prepare their workforce for AI?
+First, it’s really important that people self-select for learning opportunities so they are committed to the journey. Second, senior leadership must create opportunities for people to apply their new knowledge to solve business problems. This creates a virtuous circle of knowledge to enable organisations to scale expertise and create an environment where every employee, at every level, can understand the impact of AI technology on the business.
+There is no ‘one size fits all’ approach to AI skills development. Your strategy should be defined by the type of business you are, the sort of data you have available, and where you think you can get value from the technology.
+ There is no ‘one size fits all’ approach to AI skills development.
+[Page #12]
+Conclusion
+ Conclusion
+“The most successful organisations will be the ones that transform both technically and culturally, equipping their people with the skills and knowledge to become the best competitive asset they have. Human ingenuity is what will make the difference - AI technology alone will not be enough. At Microsoft, we’re on this journey just like everyone else, not least because the best learners make the best teachers. The larger point though, is not to be intimidated by the technology - instead, get excited, develop your curiosity - and let’s keep learning from one another.”
+AI disruption is inevitable. Just as every company – large and small – is now a software company, every business will soon become an AI business; it is the next level of competitive differentiation:
+Simon Lambert, Chief Learning Officer, Microsoft UK
+1.
+ This presents both a creative challenge and a huge opportunity for UK businesses. The data clearly shows AI maturity leads to quantifiable performance gains, and that the organisations furthest along the AI adoption curve have invested heavily in upskilling and re-skilling their workforces. The data also points to common barriers organisations face in AI adoption, including a measurable gap between intent and action, and a culture that is ill-prepared for the seismic shift required to deploy AI at scale.
+2.
+ The good news is the data reveals clear opportunities for UK businesses looking to seize this moment and capitalise on the possibilities of AI technology. By investing in their workforce, developing and nurturing the right digital skills, and celebrating constant curiosity and lifelong learning as core tenants of their company culture, UK organisations can outpace their global peers and begin realising their full potential in an AI-powered world.
+To learn more about how to implement AI technology and drive lasting business impact, visit Microsoft’s AI Business School which offers six industry-specific learning paths to help you unlock AI’s potential.
+Thank you.
+[Page #13]
+Appendix
+Methodology Global and UK AI Skills Research:
+KRC Research conducted a random online sample of approximately 12,000 people working within enterprise companies (more than 250 employees), between March 12-30. Within each market the sample was comprised of at least 500 workers and 100 leaders (director level and above). Markets represented include: Germany, the United Kingdom, Russia, Poland, the Czech Republic and Slovakia (combined), Hungary, Australia, Brazil, Israel, Turkey, South Africa, the United Arab Emirates, the United States, India, Canada, Italy, the Netherlands, Spain and Sweden.
+12K people working within enterprise companies were reached
+Appendix
+Methodology: Accelerating Competitive Advantage with AI:
+between 15th – 23rd July 2019. 2018 survey conducted online by YouGov between the 11th and 21st September 2018 to 1,002 UK organisation leaders and 4,020 UK organisation employees. Data findings were then analysed using complex variable and single variable analysis. Using Cronbach’s alpha, the analysis looked at how correlated items appear in the same index model. The items within index/scales were sufficiently inter-correlated to justify aggregation. We used an extreme groups design to analyse our data, which looked at the difference in performance outcomes experienced by firms scoring very low (i.e. the bottom quartile) and very high (i.e. the top quartile) on variables describing AI adoption and AI intentions.
+All elements of this study were conducted by Microsoft in partnership with Dr Chris Brauer, Goldsmiths, University of London and Thread in summer/autumn 2019 and YouGov. The process used a mixed-method approach to provide business leaders with insights on how best to move forward responsibly in an AI-enabled world.
+Survey of leaders and employees was conducted online by YouGov – we surveyed 1,010 UK organisation leaders and 4,002 UK organisation employees based in large enterprises (500+ employees.) Fieldwork was undertaken
+© 2020 Microsoft Corporation. All rights reserved. This document is provided “as-is.” Information and views expressed in this document, including URL and other Internet Web site references, may change without notice. You bear the risk of using it. This document does not provide you with any legal rights to any intellectual property in any Microsoft product. You may copy and use this document for your internal, reference purposes.
+[Page #14]
+For more information:https://www.microsoft.com/en-gb/ @MicrosoftUK

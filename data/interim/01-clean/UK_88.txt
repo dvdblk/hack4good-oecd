@@ -1,0 +1,642 @@
+[Page #0]
+Green growth: opportunities for the UK
+GREEN GROWTH: OPPORTUNITIES FOR THE UK
+A REPORT FOR LLOYDS BANKING GROUP
+JULY 2021
+Commissioned by
+[Page #1]
+Green growth: opportunities for the UK
+ABOUT OXFORD ECONOMICS
+Oxford Economics was founded in 1981 as a commercial venture with Oxford University’s business college to provide economic forecasting and modelling to UK companies and financial institutions expanding abroad. Since then, we have become one of the world’s foremost independent global advisory firms, providing reports, forecasts and analytical tools on more than 200 countries, 250 industrial sectors, and 7,000 cities and regions. Our best-in-class global economic and industry models and analytical tools give us an unparalleled ability to forecast external market trends and assess their economic, social and business impact.
+Headquartered in Oxford, England, with regional centres in New York, London, Frankfurt, and Singapore, Oxford Economics has offices across the globe in Belfast, Boston, Cape Town, Chicago, Dubai, Dublin, Hong Kong, Los Angeles, Melbourne, Mexico City, Milan, Paris, Philadelphia, Stockholm, Sydney, Tokyo, and Toronto. We employ 400 full-time staff, including more than 250 professional economists, industry experts, and business editors—one of the largest teams of macroeconomists and thought leadership specialists. Our global team is highly skilled in a full range of research techniques and thought leadership capabilities from econometric modelling, scenario framing, and economic impact analysis to market surveys, case studies, expert panels, and web analytics.
+Oxford Economics is a key adviser to corporate, financial and government decision-makers and thought leaders. Our worldwide client base now comprises over 2,000 international organisations, including leading multinational companies and financial institutions; key government bodies and trade associations; and top universities, consultancies, and think tanks.
+July 2021
+All data shown in tables and charts are Oxford Economics’ own data, except where otherwise stated and cited in footnotes, and are copyright © Oxford Economics Ltd.
+This report is property of Lloyds Banking Group and may not be published or distributed without their prior written permission.
+The data presented here are based on information provided by third parties, upon which Oxford Economics has relied in producing its report and forecasts in good faith. Any subsequent revision or update of those data will affect the assessments shown.
+To discuss the report further please contact:
+Andrew P Goodwin: apgoodwin@oxfordeconomics.com
+Oxford Economics
+4 Millbank, London SW1P 3JA, UK
+Tel: +44 203 910 8000
+[Page #2]
+Green growth: opportunities for the UK
+FOREWORD
+Lloyds Banking Group commissioned Oxford Economics to help share the overall story of the opportunities and challenges that the green economy presents for the UK.
+We are not the first business to look at this topic so we want to learn from work that has already been done and bring the most authoritative elements together into one story.
+Ultimately we want to highlight the opportunities for the UK, showing how green investments can grow our economy across all regions of the country and help it to recover, while also helping to improve our environment and reduce harmful carbon emissions.
+This topic is, of course, of particular interest and importance in the lead up to the 2021 United Nations Climate Change Conference of the Parties (COP26) which will be hosted in Glasgow in November.
+This paper is the first to come out of our research with Oxford Economics and provides a foundation for the next phase, which will examine opportunities for green growth across the nations and regions of the UK.
+Lloyds Banking Group July 2021
+[Page #3]
+Green growth: opportunities for the UK
+TABLE OF CONTENTS
+Executive summary1
+1. Introduction3
+2. The net zero challenge5
+2.1 Progress to date5
+2.2 How the UK can reach net zero9
+2.3 The need to invest11
+2.4 Funding the investment need15
+3. A great green opportunity17
+3.1 The current size of the UK’s green economy18
+3.2 Future growth potential22
+4. Considerations for the labour market and skills29
+4.1 Net impacts on employment29
+4.2 Implications for skills30
+5. The impact of COVID-1934
+6. Conclusions36
+[Page #4]
+Green growth: opportunities for the UK
+EXECUTIVE SUMMARY
+In 2019 the UK parliament passed legislation to commit the country to reducing net emissions of greenhouse gases by 100% by 2050. Achieving this goal will make the UK a “net zero” emitter. Emissions have already been reduced by 40% since 1990, and the UK has made significant progress in decarbonising electricity generation and manufacturing, in particular. However, as we move forward decarbonisation will become increasingly challenging and expensive, and will often come to rely on new technologies which are still under development.
+40%
+Reduction in the UK’s greenhouse gas emissions since 1990.
+Reaching net zero will require significant changes right across the economy, requiring not only substantial investment in new technologies and activities, but also new policies from government and a need for individuals to adjust aspects of their lifestyles.
+The Climate Change Committee estimates that the UK will need to invest £1.4 trillion between 2020 and 2050 to reach net zero. This includes an average of £50 billion per year between 2025 and 2050—an amount broadly comparable to the government’s annual spending on schools. Some 40% of the investment needed between 2020 and 2050 will be directed to the power sector, and a further 24% will be needed in land transport to electrify the UK’s vehicle fleet. Another substantial area of investment will be homes, where there is a need to invest some £253 billion to improve home insulation and fit low-carbon sources of heat and hot water. The estimated investment need is smaller for agriculture, although the sector is nonetheless anticipated to undergo significant changes in response to reduced consumption of meat and dairy products, and an increased need to use land for tree planting and the growth of biofuel crops.
+£50 billion
+CCC’s estimated average annual investment need for 2025-2050 to reach net zero by 2050.
+Governments around the world are seeking solutions to similar challenges and considering how their own transitions can be financed. But this need to invest means that there is also a unique opportunity for British businesses to innovate, produce, and supply the goods and services needed to enable the transition, not only in the UK but across the globe.
+Official estimates suggest that the UK’s green economy already supports 200,000 to 400,000 jobs. And while there is considerable uncertainty surrounding future growth, two recent studies have suggested that by 2050 the number of jobs in the green economy could grow to between 1.4 million and 2.5 million.
+There is substantial growth potential within the fields of low-carbon energy and electric vehicles to serve UK and international demand. The need to retrofit buildings, particularly homes, with insulation and low-carbon heating will support significant activity for local businesses across the UK.
+While there is undoubtedly significant growth potential for the UK’s green economy, the impact of this growth on the overall size of the economy is so far unclear. Many of the new green jobs will emerge as a result of the transformation of existing roles, for example as heating engineers switch to
+1
+[Page #5]
+Green growth: opportunities for the UK
+fitting heat pumps instead of gas boilers, or car manufacturers switch production from petrol-powered to electric vehicles. What is more, certain carbon-intensive activities, such as those linked to fossil fuels, will need to scale back over the next 10 years or so.
+In light of this, skills will play a pivotal role in the UK’s ability to deliver and capitalise on the net zero transition. The UK will need to bolster its supply of skills in subjects such as science, technology, engineering, and maths (STEM) to ensure it is equipped to innovate and implement the new technologies needed. But the process of adaptation is not just about technology and innovation: the transition will bring opportunities for workers in a wide range of roles, including lower skilled roles in the construction sector.
+Re-training programmes will be needed to ensure workers are able to adapt to new tasks and techniques. This is essential to ensure workers displaced by the need to reduce emissions can quickly move into new green economy roles. Alongside this, many workers will need to learn new skills to enable them to continue in their current roles—for example, car mechanics will need to learn how to work on an increasing share of electric vehicles. Research suggests that workers in construction, manufacturing, motor trades, and the transport sectors may be most affected by the transition.
+Awareness of, and momentum towards, the need to meet the net zero goal are, of course, building at a time when the world is still trying to navigate a path out of the COVID-19 pandemic. This has led to calls for economic policies which both support recovery and contribute to decarbonisation objectives. But aside from the potential for “win-win” economic stimulus measures, it is too early to judge whether the pandemic will have a substantial and lasting effect on the transition. Emissions fell during 2020, particularly due to a reduction in travel and the early signs are that there may be lasting reductions due to behaviour change in areas such as business travel, home working, and the greater use of online shopping. However, the impact of these changes may be relatively limited compared to the scale of the challenge ahead. And while the government has been able to implement many of the changes needed to tackle the pandemic, it is unclear whether the country will unite with the same sense of purpose to tackle the seemingly much less immediate threat of climate change. What is more, the economic damage wrought by the pandemic may make it more difficult to fund and justify the large investments needed to reach net zero.
+The evidence we have reviewed highlights the considerable effort and thought that is being dedicated to achieving net zero. But the path ahead is extremely uncertain and for many businesses and individuals it may be unclear how they can play their part in the effort to reach net zero and also capitalise on the opportunities it will create. There is therefore a need for clear and practical guidance to help different types of business understand the path ahead (with interim milestones along the way) and to guide them as they seek to engage and prosper in a zero carbon future.
+2
+[Page #6]
+Green growth: opportunities for the UK
+1. INTRODUCTION
+In 2019 the UK parliament passed legislation to commit the country to reducing net emissions of greenhouse gases by 100% by 2050. This means that the UK must ensure that any greenhouse gases still emitted by that point are offset by those removed from the atmosphere.
+Meeting this target will require significant changes in areas such as energy efficiency, renewable electricity generation, the widespread electrification of transport and heating, and the development of technologies such as carbon capture and storage. It will also require lifestyle changes to reduce demand for carbon-intensive activities.
+Such widespread and transformational change will, inevitably, bring significant economic consequences, but also new opportunities for businesses right across the UK.
+Against this backdrop, Lloyds Banking Group has asked Oxford Economics to review evidence on the potential impact of the transition to net zero on the UK economy.
+Throughout this report we refer to the overall process of change required to move the economy to net zero as the “net zero transition”, or simply the “transition”.
+We start in Chapter 2 by exploring the challenges ahead, and the scale of investment needed to reach net zero. Chapter 3 examines the current size and future potential of the UK’s green economy, and considers the sectors where the greatest opportunities for business may lie. In Chapter 4 we consider how the labour market and skills needs may be impacted by the transition, and in Chapter 5 we briefly consider how COVID-19 may impact on the UK’s net zero ambitions. We outline our conclusions in Chapter 6.
+This report sets the scene and provides a foundation for a wider programme of work that Oxford Economics is undertaking in collaboration with Lloyds Banking Group on the green economy. The next phase of research will build on the findings of this review by exploring how green economy opportunities could vary across the nations and regions of the UK.
+3
+[Page #7]
+Green growth: opportunities for the UK
+METHODOLOGY AND ACKNOWLEDGEMENTS
+The content in this paper is based on a review of existing literature and data relating to the net zero transition and green economy. Our primary focus has been to review UK sources to identify insights which are specific to the UK context, although in some areas we also draw on international sources to obtain broader perspectives.
+Our literature and data review were complemented by a series of consultations with external experts with a range of perspectives on the transition to net zero and the green economy. We are grateful to the following individuals for sharing their time and insights:
+Sam Alvis, Deputy Policy Director at the Green Alliance
+Mike Barry, former Plan A Director and Strategic Advisor, speaker, commentator on sustainable business
+Dr Clair Gough, University of Manchester
+Alberto Marzucchi, Associate Professor of Applied Economics at the Gran Sasso Science Institute (Italy)
+Philipp Rode, Executive Director of LSE cities and Senior Research Fellow at LSE
+Sameer Savani, Head of Innovation and Engineering at ADS
+Giles Wilkes, Senior Fellow at the Institute for Government
+4
+[Page #8]
+Green growth: opportunities for the UK
+2. THE NET ZERO CHALLENGE
+2.1 PROGRESS TO DATE
+43%
+The UK has already made significant progress in reducing greenhouse gas emissions. By 2018, emissions were some 40% lower than in 1990.1 A key driver of this trend has been the decarbonisation of the UK’s electricity generating capacity, which saw 43% of the UK’s electricity produced from renewables in 2020, compared to just 3% in 1998.
+Share of renewables in the UK’s electricity generating mix in 2020.
+Fig. 1. UK electricity generating mix, 1998-20202
+Electricity generated (TWh)
+Gas
+Coal
+Nuclear
+Other non-renewable
+Wind
+Bioenergy
+Solar
+Other renewable
+Source: BEIS
+In fact, the majority of the reduction in emissions since 1990 has been driven by the power and manufacturing sectors. In contrast, emissions have increased slightly in certain parts of the economy: transport and storage, wholesale and retail, construction, and consumer expenditure.3
+1 Climate Change Committee, The Sixth Carbon Budget: The UK’s Path to Net Zero, 2020, p.60. This figure includes emissions from international aviation and shipping. 2 BEIS, Energy Trends: UK electricity, accessed April 2021. 3 In this context consumer expenditure primarily reflects emissions from consumers’ user of personal transport and gas for home heating, cooking and hot water.
+5
+[Page #9]
+Green growth: opportunities for the UK
+Fig. 2. Absolute change in greenhouse gas emissions by sector, 1990-20194
+Change in emissions, 1990-2019
+Transport and storage
+Wholesale and retail trade; repair ofmotor vehicles and motorcycles
+Construction
+Consumer expenditure
+Agriculture, forestry and fishing
+Other
+Mining and quarrying
+Water supply; sewerage, wastemanagement and remediation activities
+Manufacturing
+Electricity, gas, steam and airconditioning supply
+-140,000 -100,000 -60,000 -20,000 20,000
+'000s tonnes of CO2 equivalent
+Source: Oxford Economics analysis of ONS data
+Despite this progress, there is reason to believe that further reductions in emissions may become more challenging and expensive as we move forward. This is because many of the cheaper and easier changes have, quite naturally, been implemented first. The search for further reductions will likely push the UK into areas where decarbonisation is more technically challenging and costly.
+One way of considering the emissions intensity of an industry is to calculate the volume of emissions it generates relative to the value added it generates for the economy.
+On this basis the most emissions-intensive industries include those in transport, energy-intensive manufacturing and processing, agriculture, utilities, and waste management. Many of these industries face substantial technological challenges to reduce their carbon footprint. At the same time, they supply goods and services of wider economic and social importance. For example, air transport connects people and places to facilitate international trade, investment, and the transfer of knowledge; the energy sector ensures that UK businesses and households have access to reasonably-priced and secure energy supplies; and the agricultural sector helps ensure the UK’s food supply and manages vast areas of the countryside. There is a critical role for investment and innovation to cut emissions in these industries (and considerable efforts are already underway in many areas), but while new technologies and approaches are being developed policymakers must decide how to balance the need for emissions reduction against other objectives.
+4 ONS, Atmospheric emissions: greenhouse gases by industry and gas, accessed April 2021.
+6
+[Page #10]
+Green growth: opportunities for the UK
+In contrast, the nature of activity in certain industries means that they produce relatively low volumes of emissions. This is particularly the case for high-value office-based activities. For example, “professional, scientific and technical activities”, which include legal services, accountancy, and management consultancy, amongst others, accounted for 7.7% of the UK’s GDP in 2018, but only 0.4% of emissions.
+Fig. 3. Greenhouse gas emissions per £m of GVA (highest-emitting industries)5,6
+Tonnes of CO2 equivalent per £m of GVA, 2018
+Air transport services
+Coke and refined petroleum products
+Industrial gases, inorganics and fertilisers (all inorganicchemicals)
+Manufacture of basic iron & steel
+Agriculture, forestry and fishing
+Electricity, gas, steam and air conditioning supply
+Cement, lime, plaster and articles of concrete, cement andplasterWaste collection, treatment and disposal services; materialsrecovery services
+Manufacture of petrochemicals
+Water transport services
+Manufacture of glass, refractory, clay, other porcelain andceramic products, stone, & abrasive products
+Manufacture of dyestuffs, agro-chemicals
+Mining and quarrying
+Manufacture of vegetable and animal oils and fats
+Land transport services and transport services via pipelines,excluding rail transport
+Other basic metals and casting
+Wood and of products of wood and cork, except furniture;articles of straw and plaiting materials
+Sewerage services; sewage sludge
+Paper and paper products
+2,000
+4,000
+6,000
+8,000
+10,000
+Agriculture, forestry and fishingElectricity, gas, steam and air conditioning supplyTransport and storageMining and quarryingWater supply; sewerage, waste management and remediation activitiesManufacturing
+Source: Oxford Economics analysis of ONS data
+5 ONS, Atmospheric emissions: greenhouse gases by industry and gas, accessed May 2021. 6 ONS, GDP output approach – low-level aggregates, accessed April 2021.
+7
+[Page #11]
+Green growth: opportunities for the UK
+Given the global nature of climate change and the need to decarbonise, it is important for the UK to consider not only the emissions resulting from UK-based producers, but also those embedded within the goods we import, which often generate emissions elsewhere in the world. Indeed, it is important to understand the extent to which UK emissions may have been reduced by shifting emissions to elsewhere in the value chain.
+The contribution to emissions of the goods we import can be examined using separate data from the Department for Environment, Food and Rural Affairs (DEFRA). These show that while the emissions embedded within the UK’s imports have declined in recent years, the size of that decline was somewhat less than achieved by UK producers: the emissions content of UK imports fell by 23% between 1997 and 2018, compared to a 37% reduction for goods both produced and consumed within the UK.
+Fig. 4. Change in emissions, 1997-20187
+% change 1997-2018
+Transport emissions generated directly byhouseholds
+4%
+Household heating emissions
+-11%
+UK production emissions attributable to UKfinal consumption
+-37%
+Imports used by UK businesses for UKconsumption and directly by UK consumers
+-23%
+Total
+-26%
+Source: DEFRA
+7 DEFRA, UK’s carbon footprint, accessed April 2021.
+8
+[Page #12]
+Green growth: opportunities for the UK
+2.2 HOW THE UK CAN REACH NET ZERO
+While the extent of the decarbonisation challenge varies significantly across sectors, all parts of the economy will need to recognise the scale of the challenge and adapt. As one of our consultees noted “this isn’t about spotlighting—this is floodlighting”.
+Transition will, inevitably, take different forms in different industries:
+• Some parts of the economy will need to adapt their products and processes to reduce their emissions footprint, for example to manufacture cleaner products using cleaner processes.
+• Some existing activity may need to scale up, e.g. clean energy and
+transport. In other areas, transition may mean doing less of some things, e.g. activity linked to fossil fuels.
+•
+• The transition may also spur completely new activities, for example
+carbon capture and storage.
+These changes will entail significant innovation and investment in new technologies and activities. But technology alone cannot provide the solution.
+Consumers will need to adjust lifestyles to reduce their emissions footprint, for example by using cleaner forms of transport, eating less meat, and embracing the circular economy to a much greater extent to re-use and re-purpose products. To enable this, our consultees noted the importance of both educating people on the scale of the challenge, and ensuring they have the information needed to take informed decisions, for example through product labelling that provides information on the full carbon footprint of things they buy.
+ This isn’t about
+spotlighting – this is floodlighting.
+ Dr Clair Gough, University of Manchester
+There will also be an important role for the government to legislate to guide and enforce change, for example by stopping the sale of petrol and diesel cars and introducing greener standards for new buildings.
+In certain areas, however, the technological challenge or cost of reducing emissions may be too great. Part of the solution will therefore be to remove emissions from the atmosphere by planting more trees or “direct air capture” technology. The capacity to remove emissions in this way will be limited and carbon removal will have to be used sparingly. This approach also implies that certain sectors will need to reach negative net emissions to offset those unable to completely decarbonise.
+The Climate Change Commission (CCC) has developed “pathways” to demonstrate how the UK could reach net zero by 2050, and the contribution that different sectors will need to make towards this effort (Fig. 5).8 Under its “Balanced Net Zero Pathway” the greatest reductions in emissions would come from surface transport (which includes cars, vans, HGVs, buses and trains), residential buildings, manufacturing and construction, and power.
+8 Climate Change Committee, The Sixth Carbon Budget: The UK’s Path to Net Zero, 2020. The Balanced Net Zero Pathway is the CCC’s recommended scenario and forms the basis of its advice on the level of the Sixth Carbon Budget.
+9
+[Page #13]
+Green growth: opportunities for the UK
+Fig. 5. Share of total emissions reduction by sector9
+The CCC’s analysis shows how net zero could be achieved. But a theme identified by a number of our consultees was the lack of clear, specific, and practical guidance setting out what businesses and other organisations need to do to move towards net zero. While some large businesses have the resources to act as leaders in this space, it can be particularly challenging for small- and medium-sized enterprises (SMEs) to invest time and resources in understanding what they should be doing. What is more, many of the challenges are common across a particular industry and it would be inefficient for each organisation to try and find solutions individually. Our consultees suggested a need for sector-specific plans to provide guidance, and a need to coordinate efforts to find solutions that can be adopted and applied by different actors.
+The risks of inaction are illustrated by the CCC’s baseline scenario, which assumes no further climate change policies are implemented beyond those which are currently funded. It shows that without new policies, the falling trend in the UK’s emissions would halt and actually start to reverse (Fig. 6).
+9 Climate Change Committee, The Sixth Carbon Budget: The UK’s Path to Net Zero, 2020.
+10
+[Page #14]
+Green growth: opportunities for the UK
+Fig. 6. Greenhouse gas emissions pathway under different scenarios, 1990-205010
+MtCO2 equivalent1,0009008007006005004003002001000-100
+Outturn
+Baseline
+Balanced Net Zero Pathway
+Source: Climate Change Committee
+2.3 THE NEED TO INVEST
+£1.4 trillion
+The CCC estimates that to meet its net zero objective by 2050 the UK would need to invest £1.4 trillion between 2020 and 2050. 11,12 Annual investments to reduce carbon emissions will need to be built up gradually through the early 2020s, as markets, technologies, and resources are not necessarily available to move straight to full scale. After this initial ramping up, the CCC estimates that an average of £50 billion per year will need to be spent between 2025 and 2050.
+CCC’s estimate of the total investment needed between 2020 and 2050.
+The figure of £50 billion is broadly comparable to the government’s spending on schools in 2020-2113 (although, as discussed below, the funding required to meet net zero will need to come from all parts of society, not just the government). The CCC notes that the £50 billion compares to total UK economy-wide investment of £390 billion in 2019.14
+Investment under the CCC Balanced Net Zero Pathway peaks in 2035, at which point emissions would be 80% lower than today. By then, all new cars, vans and water boilers would be low carbon; all UK electricity production would be low carbon; consumption of high-carbon meat and dairy would be reduced
+10 Climate Change Committee, The Sixth Carbon Budget: The UK’s Path to Net Zero, 2020. 11 Climate Change Committee, The Sixth Carbon Budget: The UK’s Path to Net Zero, 2020. 12 The CCC’s estimates reflect the additional investment needed, compared to what would be invested in a high-carbon system. For example, the estimates include the additional costs of purchasing electric vehicles compared to fossil-fuelled vehicles, plus the costs of additional charging infrastructure. 13 HM Treasury, Policy paper: Budget 2020, accessed April 2021. Table 1.9 shows that the Departmental Resource Budget for Schools was £47.6 billion in 2020-21. 14 Climate Change Committee, The Sixth Carbon Budget: The UK’s Path to Net Zero, 2020, p. 239.
+11
+[Page #15]
+Green growth: opportunities for the UK
+by at least 20%; and 440,000 hectares of new woodland would have been planted.
+As shown in the chart below, the largest investments will be needed in those sectors expected to contribute the greatest reductions in emissions: transport, buildings, power and fuel and, to a lesser degree, manufacturing and construction.
+Fig. 7. Annual investment pathway by activity and year15
+£ billions, 2019 prices
+Power & fuel,incl. networksResidentialbuildingsOther buildings
+SurfacetransportOther transport
+Manufacturing& constructionAgriculture andLULUCFOther
+Source: Climate Change CommitteeNote: Surface transport includes investments in cars, vans, HGVs, buses, trains and smart logistics; LULUCF corresponds to land use, land-use change and forestry.
+A move to low-carbon technology means an increase in electricity demand, necessitating a significant investment in low-carbon energy generation. Spending to 2050 on power generation, fuel, and distribution networks alone comprises 40% of the total £1.4 trillion investment requirement. The CCC believes this can be achieved without adding significantly to household energy bills, and that policies could be designed to enable lower-income households to benefit from lower energy bills.16
+15 These figures are based on the “Balanced Net Zero Pathway”. 16 Climate Change Committee, The Sixth Carbon Budget: The UK’s Path to Net Zero, 2020, p. 22.
+12
+[Page #16]
+Green growth: opportunities for the UK
+Fig. 8. Total investment to 2020-205017
+£ billions, 2019 prices
+Other transport, 21
+Other buildings, 107
+Surface transport, 331
+Manufacturing & construction, 56
+Residential buildings, 253
+Agriculture and LULUCF, 41
+Power & fuel, incl. networks, 559
+Other, 14
+Source: Climate Change CommitteeNote: Surface transport includes investments in cars, vans, HGVs, buses, trains and smart logistics; LULUCF corresponds to land use, land-use change and forestry.
+Investment in buildings includes better insulation for homes, as well as switching to non-fossil fueled heat sources, such as electric boilers or air-source heat pumps.
+Reducing emissions from transport is mostly achieved by switching the UK fleet to electric vehicles, which would be financed by households and businesses.
+The estimated investment need is smaller for agriculture, although the sector is nonetheless anticipated to undergo significant changes in response to reduced consumption of meat and dairy products, and an increased need to use land for tree planting and the growth of biofuel crops.
+ELECTRIC VEHICLES
+The Climate Change Committee’s Balanced Net Zero Pathway assumes there will be no sales of new fossil fuel and plug-in hybrid (PHEVs) vehicles by 2032. By that point battery-electric vehicles (BEVs) would account for all new car sales. In contrast, just 5% of new car sales were BEVs in 2020 (see Fig. 9).
+17 Climate Change Committee, The Sixth Carbon Budget: The UK’s Path to Net Zero, 2020.
+13
+[Page #17]
+Green growth: opportunities for the UK
+Fig. 9. Proportion of all new car sales that are battery-electric vehicles under the CCC’s Balanced Net Zero Pathway18
+BEVs out of all car sales (%)100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+Source: Climate Change Committee
+Under the same scenario, the number of BEVs on UK roads is expected to reach almost 25 million in 2035, up from 140,000 in 2020 (Fig. 10). Even though sales of PHEVs are expected to cease in the early 2030s, around 3 million such vehicles will still be circulating on UK roads in 2035.
+A high take-up of BEVs will require substantial investment in supporting infrastructure, namely in charging points throughout the UK. The right panel in Fig. 10 shows that in 2020 there were around 21,000 public charging points in the UK. By 2035 that figure would need to increase to 390,000.
+Fig. 10. Electric cars on the road and supporting charging infrastructure in the Balanced Net Zero Pathway19
+EVs on UK roads (millions)
+UK public charging points (000s)
+3-7kWh
+22kWh
+50kWh
+150kWh+
+Battery-electric
+Plug-in hybrid
+Source: Climate Change Committee
+Source: Climate Change Committee
+18 Climate Change Committee, The Sixth Carbon Budget: The UK’s Path to Net Zero, 2020.
+14
+[Page #18]
+Green growth: opportunities for the UK
+2.4 FUNDING THE INVESTMENT NEED
+The government’s Ten Point Plan for a Green Industrial Revolution outlines £12 billion of total public investment by 2030, with policies aimed at mobilising £42 billion of private sector investment.20 In contrast, the CCC estimates that an average of £47 billion of investment will be needed per year between 2025 and 2030, suggesting a large gap between current plans and the investment needed to meet 2050 goals.
+Nonetheless, the costs of achieving net zero by 2050 cannot be left to the Treasury alone, as there is a limit to what can be expected from public funds, particularly as the UK emerges from the COVID-19 pandemic. What is more, public funding would be an inefficient method of funding the types of changes needed.21
+The net zero transition will need to be financed by all parts of society: households, businesses, banks, and capital markets, as well as government. The CCC notes that “This required increase in investment can, and should, be delivered largely by the private sector.”22 Nonetheless, the CCC suggests that the government can reduce the cost of capital for both public and private investors through stable and effective policy design.23 By providing such policy certainty, risks for investors, and therefore the cost of financing the transition, can be reduced.
+Fig. 11. How different groups may contribute to the financing of the net zero transition
+19 Climate Change Committee, The Sixth Carbon Budget: The UK’s Path to Net Zero, 2020. 20 Department for Business, Energy & Industrial Strategy, The Ten Point Plan for a Green Industrial Revolution, 2020. 21 Hirst, N., Paying for net-zero – The fiscal framework for the UK’s transition to low-carbon energy, 2020. 22 Climate Change Committee, The Sixth Carbon Budget: The UK’s Path to Net Zero, 2020, p.20. 23 Climate Change Committee, The Sixth Carbon Budget: The UK’s Path to Net Zero, 2020.
+15
+[Page #19]
+Green growth: opportunities for the UK
+It is also important to note that the CCC anticipates that while there would be significant up-front investment costs, in the longer term there could be large offsetting reductions in operating costs, notably through lower fuel and maintenance costs for electric vehicles; reduced fuel costs for energy generation; and energy efficiency improvements to buildings. These savings build over time as lower-carbon technologies are put in place, and the CCC estimates that by 2050 the value of annual operating cost savings could be greater than annual investment needs.
+Fig. 12. Annual investment needs and operating cost savings24
+£ billions, 2019 prices
+Annual investment needs
+Annual operating cost savings
+Source: Climate Change Committee
+24 Climate Change Committee, The Sixth Carbon Budget: The UK’s Path to Net Zero, 2020.
+16
+[Page #20]
+Green growth: opportunities for the UK
+3. A GREAT GREEN OPPORTUNITY
+In the previous chapter we outlined the scale of investment that will be needed for the UK to reach net zero. This investment will, in turn, create opportunities for businesses to build new markets for and supply the goods and services needed to enable decarbonisation.
+Significantly, opportunities to capitalise on the green economy will not only result from the UK’s efforts to meet net zero. There will also be opportunities to develop new export markets to support decarbonisation in other countries.
+In this chapter we examine the current size of the UK’s green economy, and review evidence of its future growth potential.
+WHAT IS THE GREEN ECONOMY?
+There is no single, widely used definition of the green economy. Nonetheless, a range of definitions have been proposed and these typically fall under one of four approaches.
+• The first approach is to consider a green industrial sector, which includes activities linked to the supply of green goods and services, such as electric vehicles and green energy. The two green economy definitions used by the UK’s ONS follow this approach and are discussed below.
+• Some of the literature discusses green growth, under which economies grow in a way that is consistent with environmental objectives. The OECD defines green growth as “fostering economic growth and development while ensuring that natural assets continue to provide the resources and environmental services on which our well-being relies”.25
+• Linked to the previous point, some researchers consider the green economy with reference to the transition needed to reach a situation where an economy is green, for example by decarbonising transport or heavy industry. This has been highlighted by the UN Environment Programme, for example.26
+• A fourth approach is based on the principles of environmental accounting, which
+maps the complex interrelationships between the economy and the environment, and how one impacts on the other. This approach has been set out by the Food and Agriculture Organization of the United Nations in its “System of Environmental Economic Accounting”, which includes guidance on how to estimate the economic value of natural assets.27
+For this study we are primarily interested in the economic opportunities represented by the first group. These activities will be the “enablers” of the transition and could offer important growth potential in the coming years.
+Measuring the green economy is not straightforward, however. Firstly, important aspects of the green economy cannot be identified within standard industrial classifications because existing
+25 OECD, Towards Green Growth, 2011. 26 UN Environment Programme, Green Economy, accessed May 2021. 27 Food and Agriculture Organization of the United Nations, System of Environmental-Economic Accounting (SEEA), accessed May 2021.
+17
+[Page #21]
+Green growth: opportunities for the UK
+data do not provide separate categories for green and non-green activity, for example to distinguish between different types of electricity generation, or the manufacture of petrol or electric vehicles. In part, this reflects that it can be difficult for official definitions to evolve at a similar rate to green technologies. And secondly, individual firms may engage in both green and non-green activities (e.g. a heating engineer may install systems powered by gas and by renewable technologies). As such, separate surveys are typically needed to measure green activity and, as a result, data on the green economy tend to appear with a greater lag and be less detailed than data available for the economy as a whole.
+Within the UK two definitions are used by the Office for National Statistics (ONS) to measure the green economy:
+• The “Environmental Goods and Services Sector” (EGSS) incorporates a range of energy-related and environmental activities (e.g. renewable energy, recycling, waste management, and the protection of biodiversity).
+• The “Low Carbon and Renewable Energy Economy” (LCREE) definition provides a more detailed disaggregation of energy production and related activity, but excludes aspects of environmental protection, such as waste management, which form a large part of the EGSS definition.
+3.1 THE CURRENT SIZE OF THE UK’S GREEN ECONOMY
+ONS data suggest that hundreds of thousands of people already work in green economy roles, although the actual number varies substantially between the two green economy definitions in use.
+Some 404,000 full-time equivalent (FTE) jobs are estimated to have been supported by the environmental goods and services sector (EGSS) in 2018.28 This is an increase of 54,000 since 2010. Waste management forms the largest share of EGSS employment, supporting 146,000 jobs. This is followed by buildings, construction & energy saving (76,000 jobs), while other environmental services and water-related activity each support around 60,000 jobs.
+28 ONS, Environmental goods and services sector (EGSS) estimates, accessed April 2021.
+18
+[Page #22]
+Green growth: opportunities for the UK
+Fig. 13. Employment in the Environmental Goods and Services Sector, 201829,30
+Employment (FTE, 000s), 2018
+146.4
+Waste management
+76.4
+Buildings, construction & energy saving
+61.8
+Other environmental services
+58.2
+Water
+Low emission vehicles, carbon capture,inspection and control, industrial equipment
+28.1
+16.8
+Renewable energy
+16.4
+Agriculture & forestry
+Source: ONS
+Slightly more recent estimates are available for the low carbon and renewable energy economy (LCREE). However, this definition is narrower than the EGSS definition: ONS estimates that this sector supported 202,000 FTE jobs in 2019.31
+29 The sub-sectors have been grouped as follows: Waste management: waste; recycling. Buildings, construction & energy saving: environmental-related construction; energy saving & sustainable energy systems; insulation activities. Other environmental services: in-house environmental activities; environmental charities; managerial activities; environmental consultancy & engineering; environmental-related education. Water: wastewater; water quantity management. Low emission vehicles, carbon capture, inspection and control, industrial equipment: environmental low emission vehicles, carbon capture and inspection and control; production of industrial environmental equipment. Renewable energy: production of renewable energy. Agriculture & forestry: management of forest ecosystems; organic agriculture. 30 ONS, Environmental goods and services sector (EGSS) estimates, accessed April 2021. Estimates for 2018 were provisional at the time we accessed these data. 31 ONS, Low carbon and renewable energy economy estimates, accessed April 2021.
+19
+[Page #23]
+Green growth: opportunities for the UK
+Fig. 14. Employment in the Low Carbon and Renewable Energy Economy, 201932
+Employment (FTE, 000s)
+Energy efficient products
+126.8
+Low carbon electricity
+36.8
+Low emission vehicles and infrastructure
+16.9
+Energy from waste and biomass
+9.3
+Low carbon heat
+7.6
+Low carbon services
+4.7
+Source: ONS
+The jobs outlined above supported sales to both UK and overseas customers. UK companies exported more than £11 billion of goods and services under the EGSS definition in 2018, or £7 billion in 2019 under the narrower LCREE definition.33,34 Exports have increased under both definitions since 2015, although EGSS exports had previously declined between 2011 and 2015.
+32 ONS, Low carbon and renewable energy economy estimates, accessed April 2021. 33 ONS, Environmental goods and services sector (EGSS) estimates, accessed April 2021. 34 ONS, Low carbon and renewable energy economy estimates, accessed April 2021.
+20
+[Page #24]
+Green growth: opportunities for the UK
+Fig. 15. Exports of green economy goods and services35,36
+£m
+12,000
+10,000
+8,000
+6,000
+4,000
+2,000
+Low Carbon and Renewable Energy EconomyEnvironmental Goods and Services Sector
+Source: ONS
+The more detailed breakdown available for LCREE exports shows that low emissions vehicles and infrastructure accounted for 60% of total LCREE exports in 2019.
+Fig. 16. LCREE exports by sector, 201937
+£ millions
+Low emission vehicles andinfrastructure
+Energy efficient products
+1,148
+Low carbon electricity
+Low carbon heat
+4,263
+1,228
+Energy from waste and biomass
+Low carbon services
+Source: ONS
+35 ONS, Environmental goods and services sector (EGSS) estimates, accessed April 2021. 36 ONS, Low carbon and renewable energy economy estimates, accessed April 2021. 37 ONS, Low carbon and renewable energy economy estimates, accessed April 2021.
+21
+[Page #25]
+Green growth: opportunities for the UK
+3.2 FUTURE GROWTH POTENTIAL
+The value of investment needed to meet net zero indicates that there will be substantial amounts of expenditure on green goods and services over the coming decades.
+At the same time, forecasting the impact of this expenditure is extremely challenging. At this stage it is unclear which technologies will prevail in many areas; how many jobs might be supported by the successful technologies; and the share of the UK and international markets that UK businesses will be able to capture. Forecasts of green growth potential therefore rely on a large number of assumptions and results are, inevitably, subject to a high degree of uncertainty.
+Nonetheless, researchers have developed approaches to forecasting growth in various elements of green economy activity. In this section we review some of the most recent projections.
+3.2.1 Cross-cutting studies
+The first set of papers we reviewed considered a number of aspects of the green economy. Two of these studies produced forecasts of employment in the Low Carbon and Renewable Energy Economy (LCREE). Firstly, research by Ecuity for the Local Government Association estimates that renewable and low-carbon technologies could support 1.38 million jobs across the UK by 2050.38 This compares to the most recent ONS estimate of 202,000 green economy jobs under the LCREE definition, implying an average growth rate of 6.4% per year. The Ecuity estimates assume that much of the job creation could be concentrated in the short term: approximately 600,000 green jobs by 2030. This in part reflects the more immediate opportunities in retrofitting homes, for instance through installing low-carbon heating and hot water systems, to reduce emissions. Other jobs will be focussed on low-carbon electricity (mostly solar panels and offshore wind) and low carbon heat (heat pumps and hydrogen boilers).
+1.38 million
+Ecuity / Local Government Association estimate of the number of low-carbon jobs in the UK in 2050.
+An earlier paper by Ricardo Energy and Environment for the CCC suggested that the number of jobs supported in the LCREE could be substantially greater at around 2.5 million by 2050.39
+38 Ecuity, Local green jobs – accelerating a sustainable economic recovery, 2020. 39 McCullough, Alan, et al., UK business opportunities of moving to a low-carbon economy, 2017.
+22
+[Page #26]
+Green growth: opportunities for the UK
+Fig. 17. Estimates of jobs in the low carbon and renewable energy economy (LCREE)40,41,42 Current (UK), and forecasts by Ecuity (for England) and Ricardo/CCC (for UK)
+Employment (000s)
+Energy efficient products
+Low carbon electricity
+Low emission vehicles andinfrastructure
+Energy from waste and biomass
+Low carbon heat
+Low carbon services
+800 1,000 1,200 1,400
+ONS LCREE, UK (2019)Ricardo/CCC low scenario, UK (2050)
+Ecuity/LGA, England (2050)
+Source: ONS, Ecuity/Local Government Association, Ricardo Energy & EnvironmentNote: Ecuity/LGA reports a total figure for the UK but estimates split by sub-sector are only available for England.
+Further insights into the growth potential of the green economy are provided by the government’s “Energy Innovation Needs Assessment” (EINA).43 As the title suggests, the focus of this work was on identifying the “key innovation needs across the UK’s energy system”, although the work also developed estimates of the economic potential of 11 technology areas.44 45
+In total, the EINA research identified that 11 elements of the green economy could support £53 billion of GVA and 500,000 jobs by 2050. These figures reflect opportunities for UK businesses resulting from demand for goods and services from both within the UK, and from export markets.46
+The largest source of potential employment identified relates to the deployment of new nuclear fission technologies in power generation. The next largest sectors relate to road transport (which includes both the design and manufacture of electric vehicles, and other developments in road transport such as smart logistics), and “building fabric” which includes work to improve the construction and design of buildings, and retrofit existing buildings.
+Growth in jobs related to road transport were expected to be mainly supported by export opportunities and to peak in 2050. In contrast, jobs linked to building
+40 ONS, Low carbon and renewable energy economy estimates, accessed April 2021. 41 Ecuity, Local green jobs – accelerating a sustainable economic recovery, 2020. 42 McCullough, Alan, et al., UK business opportunities of moving to a low-carbon economy, 2017. 43 Vivid Economics for Department for Business, Energy & Industrial Strategy, Energy Innovation Needs Assessment, 2019. 44 Vivid Economics for Department for Business, Energy & Industrial Strategy, Energy Innovation Needs Assessment, 2019, p. 4. 45 The word “potential” is crucial here: the estimates relate to what could be achieved under a series of assumptions, but the authors highlight that they are not forecasts of what will happen. 46 The report from which these data are taken does not indicate a current baseline jobs number on a consistent basis.
+23
+[Page #27]
+Green growth: opportunities for the UK
+fabric are primarily driven by anticipated UK demand and are expected to peak in the 2030s, reflecting the large volume of work needed to retrofit the UK’s existing building stock to improve insulation and energy efficiency.
+Fig. 18. Employment potential identified by the government’s Energy Innovation Needs Assessment47
+Jobs (000s) in 2050 or peak year if earlier
+Nuclear fission: the deployment of new technologies for power generation.
+Road transport: opportunities to reduce the energy consumption of road vehicles, including the design and manufacture of electric vehicles, battery systems, autonomous vehicles, and smart logistics.
+Nuclear fission
+Road transport
+Building fabric: improvements to reduce emissions from buildings across the lifecycle, from pre-construction and design, materials and components, construction, building operation, materials, and the retrofit of existing buildings.
+Building fabric*
+Carbon capture,utilisation, & storage**
+Carbon capture, utilisation, & storage (CCUS): technologies to extract carbon as a by-product of energy production and industrial processes.
+Heating & cooling
+Heating & cooling: improving technologies and systems for domestic use.
+Offshore wind
+Offshore wind: opportunities for innovation lie in improved technologies, grid integration, and operations.
+Biomass & bioenergy
+Biomass & bioenergy: opportunities in the production of biofuels, equipment for conversion, and associated services.
+Smart systems
+Exportopportunities
+Smart systems: enable the more efficient integration of low-carbon technologies to the energy network through smart system equipment and services.
+Smart systems
+Domesticopportunities
+Hydrogen & fuel cells
+Industry: opportunities from improving processes, equipment, and digitalisation of key areas of manufacturing.
+Tidal stream
+Hydrogen & fuel cells: include technologies covering hydrogen production, delivery, and end use.
+Tidal stream: the UK is at the forefront of tidal-related power generation and could benefit from first-mover advantage. However, the global market for tidal stream is likely to be relatively small.
+* peak in 2030s** peak in 2040s
+Source: Vivid Economics
+47 Vivid Economics for Department for Business, Energy & Industrial Strategy, Energy Innovation Needs Assessment, 2019.
+24
+[Page #28]
+Green growth: opportunities for the UK
+3.2.2 Sector-specific studies
+Alongside the cross-cutting studies outlined above, certain researchers have undertaken detailed research into specific aspects of the green economy. In this section we outline recent research in three areas: green energy; electric vehicles; and buildings.
+Green energy48
+The National Grid estimates that 260,000 extra workers will be needed in the energy industry and its supply chain by 2050 to meet net zero. Including workers needed to replace those leaving the industry, 117,000 roles will need to be filled in the 2020s, 152,000 in the 2030s, and a further 131,000 in the 2040s. Since this estimate includes the supply chain, it cannot be determined how many of these jobs fit within the green economy definitions outlined above, or other sectors.
+Fig. 19. Workers required up to 205049
+Workers required up to 2050 (000s)
+New jobs created in the energysector and its supply chain
+Replacing workers leaving theworkforce (e.g. retirement)
+Source: National Grid
+Electric vehicles
+The UK has a large and well-established automotive industry, and is well positioned to benefit from the transition to greener road transport, not just in the UK but globally.
+The government’s EINA estimates that green road transport products could support £14.3 billion of GVA across the UK by 2050—the largest opportunity identified by the EINA in terms of GVA. This sector could also support 95,000 jobs (of which 73,000 would be sustained by exports), the second largest number behind nuclear fission. The largest opportunity for the UK is in the assembly of light duty electric vehicles and batteries.
+48 National Grid, Building the Net Zero Energy Workforce, 2020. 49 National Grid, Building the Net Zero Energy Workforce, 2020.
+25
+[Page #29]
+Green growth: opportunities for the UK
+Fig. 20. Estimates of green jobs supported by the EV industry50
+Jobs (000s), 2050
+LDV assembly & EV battery
+Connected Autonomous Vehicle
+Powertrain excluding battery
+Fuel cells
+Export
+Domestic
+Buses
+Trucks
+10 15 20 25 30 35 40 45 50
+Source: Vivid Economics
+This EINA estimate is broadly similar to one by the Faraday Institute, which estimates that 34,500 new jobs could be created in electric vehicle and battery manufacturing by 2040.51 The EINA also suggests that the UK can benefit from a strong competitive position in software development, with around 25,000 jobs in connected autonomous vehicle software packages.
+Opportunities in this sector will be weighted towards the long-term, as increasing demand for electric vehicles displaces internal combustion engines. The EINA estimates that by 2030, green road transport will be less than one-quarter of its projected size in 2050.
+The LSE’s Grantham Institute suggests the opportunity from EVs could be realised sooner.52 Applying a broader definition that includes the rollout of charging infrastructure alongside electric vehicle, battery, and autonomous hardware and software, it estimates that the UK could support 80,000 jobs by 2030.
+Nonetheless, it is important to consider that in many cases new jobs in EV production will replace those lost in the manufacture of internal combustion engine (ICE) vehicles. The Faraday Institute estimates that in the absence of a future UK electric vehicle or battery production industry, vehicle producers would gradually wind down production of ICE vehicles, resulting in 105,000 fewer jobs than current levels by 2040 (including in the supply chain). In contrast, they estimate a net increase of 50,000 jobs by 2040 (including in the supply chain) relative to current levels with EV investment.53
+Enhancing the energy efficiency of buildings
+50 Vivid Economics for Department for Business, Energy & Industrial Strategy, Energy Innovation Needs Assessment: Road transport, 2019. 51 The Faraday Institution, UK electric vehicle and battery production potential to 2040, 2020. 52 Martin, R. and Valero, A. for Centre for Economic Performance, LSE, Seizing sustainable growth opportunities from zero emission passenger vehicles in the UK, 2020. 53 The Faraday Institution, UK electric vehicle and battery production potential to 2040, 2020.
+26
+[Page #30]
+Green growth: opportunities for the UK
+Improvements to reduce emissions from buildings are needed across the entire lifecycle: from pre-construction and design, materials and components, construction, building operation, materials, and the retrofit of existing buildings. Much of this work is more transitional than other aspects of the green economy. For example, the EINA research estimates that the economic contribution accrues in the short-to-medium term, peaking in the mid-2030s, when it could support 91,000 jobs.54 Opportunities are almost entirely UK-based, as retrofit and other services are unlikely to be traded extensively. The greatest opportunity is identified in the build process, which could support around 32,000 jobs in the mid-2030s. Once the retrofit market shrinks from this point, activity is likely to fall back. By 2050, the EINA research suggests green building fabric could support around 35,000 jobs. A further 50,000 jobs could be supported in the heating and cooling of domestic and non-domestic buildings by 2050, largely through the installation, operation, and maintenance of heat pumps.
+The Energy Efficiency Infrastructure Group (EEIG) looked at the potential impact of retrofitting all homes to meet Energy Performance Certificate (EPC) rating C by 2030.55 It highlights the labour-intensity of home renovation investment, arguing that energy efficiency projects could be used to stimulate the economy as it recovers from COVID-19. The study estimates that 150,000 skilled and semi-skilled jobs could be supported by work to make homes more energy efficient by 2030.
+350,000
+CITB estimate of the number of new construction roles needed by 2028.
+The Construction Industry Training Board (CITB) estimates the need for an additional 350,000 workers by the late 2020s to meet net zero—a 13% increase in the construction workforce.56 These jobs would be mainly supported by retrofitting work, but also some new build. While demand is expected to fall as retrofits are completed, it will remain at between 200,000–250,000 additional jobs throughout most of the 2030s and 2040s.
+54 Vivid Economics for Department for Business, Energy & Industrial Strategy, Energy Innovation Needs Assessment: building fabric, 2019. 55 Energy Efficiency Infrastructure Group, Energy efficiency’s offer for a net zero compatible stimulus and recovery, 2020. 56 CITB, Net Zero: 350,000 new construction roles to be created by 2028, 2021.
+27
+[Page #31]
+Green growth: opportunities for the UK
+Fig. 21. Additional construction workers needed to meet net zero57
+Additional construction workers relative to 2019 (FTE, 000s)
+2021 2023 2025 2027 2029 2031 2033 2035 2037 2039 2041 2043 2045 2047 2049
+Source: CITB
+57 CITB, Net Zero: 350,000 new construction roles to be created by 2028, 2021.
+28
+[Page #32]
+Green growth: opportunities for the UK
+4. CONSIDERATIONS FOR THE LABOUR MARKET AND SKILLS
+4.1 NET IMPACTS ON EMPLOYMENT
+The evidence reviewed in the previous chapter highlights that there is a substantial opportunity for the UK to capitalise on the opportunities presented by the net zero transition. However, while growth is expected in many of these green economy activities, the impact on the overall size of the economy and number of people employed is unclear.
+Certain aspects of the transition will lead to changes in the nature of activity, but not necessarily additional work. For example, heating engineers may fit heat pumps instead of gas boilers; car manufacturers may produce electric vehicles instead of petrol ones. Such adaptation implies a change in the nature of roles, but it is uncertain if and how the number of roles will change.
+What is more, growth in the green economy is expected to occur in parallel to the scaling back of more carbon intensive activity, particularly that related to fossil fuels and associated supply chains. As outlined in the North Sea Transition Deal, OGUK, an industry body for the offshore oil and gas industry, estimates that the sector’s contribution to overall employment could fall from 270,000 jobs across the UK in 2019, to 190,000 jobs by 2030 (including supply chain and worker spending multiplier effects).58
+Many of the job losses in carbon-intensive energy sectors are projected to occur over the coming decade. For example, the New Economics Foundation notes that all UK coal-fired power plants will close by 2025.59 IPPR estimates that 28,000 jobs could be lost in the coal, oil, and gas industries by 2030 across the north of England alone.60
+The absence of a clear set of conclusions regarding the impact of green growth on overall employment numbers in the UK is perhaps unsurprising given the considerable uncertainties highlighted in the previous chapter. Certain international studies have, nonetheless, considered the net impact of the transition.
+The International Labour Organization (ILO) suggests that the transition will have a positive impact on overall employment.61 They estimate that actions to limit global warming could create 24 million jobs across the global energy sector by 2030, with the loss of around 6 million jobs in carbon-intensive sectors—or four green jobs created for every brown job lost. In a report for G7 environment ministers on the impact of green policies, the OECD notes that green job creation can lead to a reduction in jobs in the brown sectors they
+58 OGUK for Department of Business, Energy and Industrial Strategy, North Sea Transition Deal, 2021. 59 New Economics Foundation, Trust in Transition: Climate Breakdown and High Carbon Workers, 2019. 60 Emden, J. and Murphy, L., Risk or reward? Securing a just transition in the North of England, 2018. 61 International Labour Organization, World Employment and Social Outlook 2018: Greening with jobs, 2018.
+29
+[Page #33]
+Green growth: opportunities for the UK
+replace, and that there can be significant knock-on effect on employment in other sectors, for example through supply chain impacts.62 Overall the article suggests that “the net effect on employment is hard to measure but overall job creation and job destruction tend to be of similar size for well-implemented green policies”.63
+4.2 IMPLICATIONS FOR SKILLS
+Changes in the types of jobs available, and changes to tasks within existing jobs, across many parts of the economy imply that skills will play a crucial role in enabling the net zero transition. The evidence we have reviewed indicates that skills needs for green economy jobs will vary across sectors and roles. One theme, however, is the potential importance of skills in science, technology, engineering, and maths (STEM), which the OECD highlights as of particular importance in the context of advanced economies, alongside technical, managerial, and leadership skills.64 The importance of STEM skills is also highlighted within the UK context by the National Grid as important to delivering the net zero transition within the UK power sector.65 A separate study focused on the Scottish energy sector found that over the next decade, the largest skills needs will be for highly qualified individuals to fulfil roles as science and technology professionals, business and public service associate professionals, and corporate managers.66
+To be able to absorb
+the inventions of other countries you need to have a high level of skills
+Similar themes were echoed by one of our consultees, Alberto Marzucchi, who highlighted how green jobs often comprise analytical, design, and technical elements, and can be more intensive in cognitive ability, in part because many green jobs involve solving problems and doing things in new ways. Another of our consultees noted that while much of the technical innovation needed may happen internationally, the UK would need the right skills to be able to implement and capitalise on these technologies: “to be able to absorb the inventions of other countries you need to have a high level of skills.”
+ Giles Wilkes, Senior Fellow at the Institute for Government
+Nonetheless, while more advanced skills may be needed in many technical areas and to support the development and adoption of new technologies, the net zero transition will bring opportunities for workers with different levels of expertise. Forecasts by the Construction Industry Training Board indicate that to meet net zero, almost half of additional jobs will require relatively low skills levels (NVQ level 2 or below) to support building retrofits.67
+62 OECD, Employment Implications of Green Growth: Linking jobs, growth, and green policies, 2017. 63 OECD, Employment Implications of Green Growth: Linking jobs, growth, and green policies, 2017, p. 11. 64 OECD, Employment Implications of Green Growth: Linking jobs, growth, and green policies, 2017, p. 17. 65 National Grid, Building the Net Zero Energy Workforce, 2020. 66 Skills Development Scotland, Sectoral Skills Assessment – Energy, 2021. 67 Eunomia for CITB, Building Skills for Net Zero, 2021.
+30
+[Page #34]
+Green growth: opportunities for the UK
+The LSE’s Just Transition Jobs Tracker considers skills needs for the transition right across the economy.68 The study estimates that approximately 6.3 million jobs across the UK—a fifth of the total—are likely to be affected by the transition to a green economy. They consider two types of jobs:
+•
+Jobs that require upskilling, which are existing jobs whose skills need to be significantly adapted to meet the needs of a net-zero economy (e.g. petroleum engineers and heavy equipment operators). Jobs in demand, which are existing jobs expected to be in high demand due to their importance to the net zero economy. This includes specialised roles such as wind turbine installers, but also other workers such as the builders and engineers needed to build green economy infrastructure.
+•
+Construction is identified as the sector most exposed to these trends, with around 60% of roles exposed (split evenly between the two types of impact). Half of manufacturing jobs are affected, particularly through high demand for goods supporting the transition, implying that there may be opportunities for increasing employment in sustainable jobs in this sector. Motor trades, transport and storage, and mining, quarrying and utilities will each see more than a quarter of the workforce requiring reskilling. The jobs in demand in these sectors are less than half of the total affected, suggesting that the workforce in these sectors may face greater challenges in the transition.
+At the other end of the scale, jobs in many service sectors are less exposed to the transition.
+68 Place-based Climate Action Network (PCAN), Just Transition Jobs Tracker, 2019.
+31
+[Page #35]
+Green growth: opportunities for the UK
+Fig. 22. Share of jobs expected to be affected by the transition69
+Employment (% of total jobs)
+Construction
+Manufacturing
+Motor trades
+Transport & storage
+Mining, quarrying & utilities
+Wholesale
+Business administration
+Property
+Professional, scientific & technical
+Require upskilling
+Public administration & defence
+In demand
+Information & communication
+Financial & insurance
+Agriculture, forestry & fishing
+Retail
+Arts, entertainment, recreation & other
+Education
+Health
+Accommodation & food services
+Source: Place-based Climate Action Network (PCAN)
+These findings imply that training will be key to both easing the transition for displaced workers and preventing skills shortages holding back green growth.
+The latter point has been highlighted by the OECD, which identifies skills gaps and shortages as “a major bottleneck in a number of sectors, such as renewable energy, energy and resource efficiency, renovation of buildings, construction, environmental services, and manufacturing”.70 Similarly, the Adecco Group (2021) argues that “skills investment and development need to be understood not merely as a result of the transition, but rather as the decisive factor that enables the Green Transition in the first place”.71
+The OECD also recognises the need for adaptability in adjusting skills and education plans to support the green economy. It argues that “comprehensive measures for vocational training and reskilling can improve transferability across firms and sectors, thus enhancing ability to successfully relocate as needed”.72 Reskilling the workforce will require coordination between different stakeholders, to identify skills shortages and develop responses that support
+69 Place-based Climate Action Network (PCAN), Just Transition Jobs Tracker, 2019. 70 OECD, Making the Green Recovery work for jobs, income and growth, 2020. 71 The Adecco Group, Skills for the Green Economy, 2021. 72 OECD, Making the Green Recovery work for jobs, income and growth, 2020.
+32
+[Page #36]
+Green growth: opportunities for the UK
+the transition. The OECD cites the example of Styria in Austria, where unemployed workers from a closed down automobile sector were retrained to make solar cells for a local company.73
+UK research has also highlighted the importance of adult education to enabling the transition. NESTA, an innovation charity, finds that workers in carbon-intensive sectors, such as construction, manufacturing, and transportation and storage are, on average, lower-skilled and have lower engagement in adult learning than counterparts in less carbon-emitting sectors. The authors suggest that UK institutions must provide “the right conditions for an inclusive and fair adult learning system” if the UK is to fully capitalise on the opportunities presented by the green economy.74
+73 OECD, Enabling Local Green Growth: Addressing Climate Change Effects on Employment and Local Development, 2012. 74 Kapetaniou, C. and McIvor, C., Going Green: Preparing the UK workforce for the transition to a net-zero economy, 2020.
+33
+[Page #37]
+Green growth: opportunities for the UK
+5. THE IMPACT OF COVID-19
+While the path to net zero will occur gradually over the coming decades, our consultees highlighted the urgent need to accelerate the rate of progress. At the same time, the world remains in the grip of the COVID-19 pandemic and it is natural to consider how this may impact on the transition.
+There have been calls from a number of quarters to link COVID-19 economic recovery packages to green objectives in search of a “win-win” that both reinvigorates economic activity and makes some of the investments necessary to enable the net zero transition. Internationally, this approach has been advocated by the IMF,75 amongst others, and within the UK the government has linked its Ten Point Plan to the need to “build back better”.76
+While governments around the world have followed a similar path, it is important to acknowledge that green measures have often operated in parallel to measures which have a detrimental impact on climate objectives. Vivid Economics has undertaken research to benchmark the “greenness” of COVID-19 recovery packages across countries and finds that the UK’s policies will make a positive net contribution to environmental objectives and compare favourably to many European and international peers.77
+Aside from the scope for policy stimulus measures to work towards green objectives, there are a number of ways in which COVID-19 may impinge on the UK’s ability to deliver the net zero transition.
+In the early stages of the pandemic there was a dramatic reduction in emissions as people stayed at home and industrial facilities paused operations. On 1 April 2020, fossil CO2 emissions in the UK were 27% lower than on 5 February in the same year, with most of the difference attributable to the surface transport sector.78 By 31 December 2020 emissions were still 21% lower than on 5 February.79
+While emissions are likely to have risen as the economy has gradually re-opened, our consultees felt that there was at least potential for changes implemented during lockdown to have a lasting impact on behaviours in certain areas. For example, there may be a lasting reduction in business travel; reduced commuting as people spend more time working at home; and greater use of online shopping.
+More broadly the experience of COVID-19 has demonstrated that significant government-led change can be achieved when people unite for a common purpose. However, one of consultees noted that the appetite for behaviour
+75 International Monetary Fund, Greening the Recovery, 2020. 76 Department for Business, Energy & Industrial Strategy, The Ten Point Plan for a Green Industrial Revolution, 2020. 77 Vivid Economics for Finance for Biodiversity Initiative, Greenness of Stimulus Index, 2021. 78 De-Gol, A., Estimated changes in fossil CO2 emissions caused by COVID-19 confinement measures, 2020. 79 De-Gol, A., Estimated changes in fossil CO2 emissions caused by COVID-19 confinement measures, 2020.
+34
+[Page #38]
+Green growth: opportunities for the UK
+change may be lower for climate change than for a pandemic since the threat is, seemingly, much less imminent: “COVID is an immediate here and present visible danger … that’s not the way carbon and climate change works. It’s diffuse, it’s someone else in a distant time, and the causality isn’t as clear.”
+Covid is an
+immediate here and present visible danger … that’s not the way carbon and climate change works. It’s diffuse, it’s someone else in a distant time, and the causality isn’t as clear.
+The IMF suggests the latter point can be countered, arguing that policymakers will be able to point to the experience of the pandemic to demonstrate the importance of preparing for threats that may appear remote, but which can strike quickly.80
+The economic impact of the pandemic could also affect the country’s ability to tackle climate change. Diminished economic prospects may mean that there is a reduced ability and willingness to pay for environmental improvements amongst households, businesses, and government. Reduced demand for energy and transport weakens the case for long-term green investment (for example in rail travel to replace short-haul flights). And more broadly, COVID-19 means that economic forecasts, and therefore investment cases, have become much more uncertain.81
+ Giles Wilkes, Senior Fellow at the Institute for Government
+80 International Monetary Fund, Greening the Recovery, 2020. 81 Citizens Advice, Meeting net zero - Options for network company highly anticipatory investments in a post-COVID-19 environment, 2020.
+35
+[Page #39]
+Green growth: opportunities for the UK
+6. CONCLUSIONS
+The path to net zero represents a huge challenge that will require a focused and dedicated effort from all individuals, businesses, and government over the coming decades. Success will rely on innovating and adopting new technologies and processes, and ensuring the funding is available to pay for the investments needed.
+At the same time, this challenge is one the UK is well placed to embrace and capitalise on. Some of the greatest challenges arise in fields such as green energy, the automotive sector, and the need to decarbonise aviation. The UK’s base of research and innovation in these fields should mean there is potential for the UK to capitalise on its strengths and play a pivotal role in global efforts to deliver the innovations needed.
+At the same time, the economic opportunity for UK businesses is not confined to those at the cutting edge of technology: most sectors of the economy will need to adapt in some way and this means there are significant and wide-ranging opportunities for businesses that are enablers of the adaptation process. Perhaps the clearest example of this is the need to create hundreds of thousands of jobs across the country to upgrade UK’s homes.
+The effects of the net zero transition will not only be felt within the green economy. In many important industries, such as manufacturing and transport, individuals will need to adapt to new equipment, products, and processes. And while brand new jobs will emerge in some areas, these need to be considered in the context of falling employment elsewhere. Training and re-training will therefore play a pivotal role, to ensure the UK does not run into skills bottlenecks which prevent the full extent of the green growth opportunity from being realised, but also to ensure the adaptation process occurs smoothly so that individuals are equipped to perform new roles.
+Another recurring theme which emerged during our research is the considerable degree of uncertainty about how net zero transition will be achieved. This is manifested in the forecasts for growth in the green economy which provide a wide range of estimates for the magnitude of the opportunity, both in aggregate and for individual sub-sectors. This is understandable given the extent of the technological challenges and the long time horizon over which net zero will be reached.
+Nonetheless, our consultees emphasised both the scale of the challenge and the need to be taking much greater steps now to avert harmful climate change. While we do not yet have all the answers, there was a sense that clearer plans are needed to outline what can already be done, and interim milestones to ensure the UK remains on track.
+Many of the challenges are too great for individual businesses or other organisations to tackle alone, and this is particularly true for smaller businesses. There is therefore a need for clear and specific practical guidance
+36
+[Page #40]
+Green growth: opportunities for the UK
+to help different types of business understand the path ahead and to guide them as they seek to engage and prosper in a zero carbon future.
+37
+[Page #41]
+Green growth: opportunities for the UK
+38

@@ -1,0 +1,1703 @@
+[Page #0]
+Local Skills Report &
+Labour Market Plan
+Greater Manchester Employment & Skills Advisory Panel
+Version 2 - March 2022
+Greater Manchester Local Skills Report and Labour Market Plan (V2, March 2022) 1
+[Page #1]
+Contents
+1
+Foreword3
+2
+Introduction: Skills Advisory Panels6
+3
+Skills Strengths and Needs12
+4
+Skills and Labour Market Strategy25
+5
+Skills Action Plan36
+6
+Assessment of Progress44
+7
+Positive Impact Stories51
+8
+Looking Forward60
+Further Reading64
+See accompanying Data Annex document for:
+• Sector Overview summaries
+• Annex A – Core indicators
+• Annex B1 – Additional Analysis
+• Annex B2 – Data Sources / References
+Greater Manchester Local Skills Report and Labour Market Plan (V2, March 2022) 2
+[Page #2]
+1 Foreword
+Cllr Bev Craig, Chair
+Greater Manchester Employment & Skills Advisory Panel
+In introducing Greater Manchester’s first Local Skills
+Report and Labour Market Plan in March 2021, my
+predecessor wrote that in Greater Manchester, our
+people are our greatest asset. I share that view and
+believe it remains the perfect way to open this
+updated report: the strengths and needs of our
+people, our communities, our businesses and our
+place continue to drive all that we do.
+As I write, Covid-19 remains part of our day-to-day lives, although we are learning to
+adapt in order to live with it. As was the case throughout the worst of the pandemic, its
+impact has been felt unevenly by different individuals, communities, and parts of the
+economy. Taken together with other labour market factors – such as changes to the
+supply of labour following the UK’s exit from the EU and the rising cost of living – our
+people, our place and our businesses still face challenges.
+This is why skills and jobs are at the heart of the respective recovery and growth plans
+set out by central government and Greater Manchester, and why ‘human capital’
+featured as one of the six key drivers identified in the recent Levelling Up White Paper.
+Skills and good work can support fulfilling, healthy and productive lives, helping people
+enter or return to the labour market, retrain, up-skill and progress. They can also help
+businesses to thrive and grow, ensuring they are in a position to compete in a national
+and global marketplace, offer fair wages and working practices, and to plan for the
+future in terms of business resilience and workforce development.
+Against that backdrop, the fundamental issues facing Greater Manchester have not
+changed substantially since this Panel published its first report, nor have the core
+priorities and actions identified in response. This report does not, therefore, replace that
+one or rehearse those matters again in detail.
+Greater Manchester Local Skills Report and Labour Market Plan (V2, March 2022) 3
+[Page #3]
+However, progress has been made in a number of areas in terms of how we identify
+and address those issues. Whilst the first Greater Manchester Local Skills Report &
+Labour Market Plan set out a comprehensive overview of priorities, actions and
+achievements across this agenda, this second report narrows the focus and
+concentrates on two elements in particular that will shape our work in the year ahead.
+First, the employer intelligence that is shaping the Panel’s work has taken huge steps
+forward. It is driving our strategic planning and commissioning, and providing a key
+source of up-to-date intelligence to support providers in their curriculum planning. Deep-
+dive reports and associated recommendations/action plans now cover many of our
+priority occupational areas in both Greater Manchester’s frontier sectors and
+foundational economy, and the Greater Manchester Skills Observatory is providing
+unprecedented levels of insight into employers’ skills and labour market needs and
+behaviours. This report therefore brings together the key insights from that activity to
+date, acting as a transition to the employer-led Local Skills Improvement Plans that will
+be introduced in the future under the Skills for Jobs White Paper.
+The second element I wish to highlight is the report and recommendations from the
+Greater Manchester Independent Inequalities Commission. In her foreword to the
+report, Kate Pickett, the Commission’s Chair, wrote that sustainable wellbeing should
+be the real wealth of the city-region: “This must be a time of great hope. A time for
+change, a time of recognition that we all want to build back better, and that we cannot
+let the shadows of the past dim the bright promise of a fairer future.”
+Along with the drive for recovery and growth, that promise of a fairer future is at the
+heart of this Panel’s ambitions for Greater Manchester’s education, skills and work
+system.
+However, skills alone are not a silver bullet. For individuals, deep-seated inequalities of
+opportunity face some of our residents, creating barriers that skills programmes and
+employment interventions alone cannot address. And for employers, skills gaps and
+labour shortages are often conflated, with wider labour market conditions and demand-
+side issues being overlooked.
+Skills improvements must go hand-in-hand with employer investment in both the current
+workforce and the talent pipeline if we are to make sure people have the skills and
+Greater Manchester Local Skills Report and Labour Market Plan (V2, March 2022) 4
+[Page #4]
+knowledge to do the jobs that are available now and to prepare for the jobs of the
+future. Employment support must go hand-in-hand with shifts in business processes,
+employment practices and job quality if we are to make sure that the labour market is
+resilient, adaptable and diverse, and that that pay recognises the value rather than the
+cost of all work – not just through economic returns but the wider benefits. Local
+responsiveness must go hand-in-hand with the flexibilities, trust and resources from
+central government that will empower local solutions to local challenges, designed with
+and for the people, employers and places they are intended to serve.
+And one of the biggest challenges of all, is that all of this must happen in an economic
+environment in which not just the cost of doing business but the cost of living is rising
+rapidly.
+Over the last two years we have seen some incredible work from a host of public
+services, education and training providers, employment support organisations, and
+businesses, coming together to meet challenges we never previously imagined facing,
+not only in the public health response but to ensure that Greater Manchester’s residents
+could continue studying, training and working as safely and effectively as possible. The
+positive impact of devolved functions and local mobilisation across health, skills and
+employment support is an important part of the story of localism and this story will
+continue to unfold as we work with government to implement the Levelling Up White
+Paper.
+This is a wide-reaching agenda, with many challenges to overcome. We cannot do it
+alone, nor can we do it overnight. But by focusing in the months ahead on the issues
+and steps set out in this report, I believe we can take real steps forward, towards a
+fairer, greener and more prosperous Greater Manchester.
+Cllr Bev Craig
+Chair, Greater Manchester Employment & Skills Advisory Panel and GMCA Lead
+for Education, Skills & Work, and Digital
+Greater Manchester Local Skills Report and Labour Market Plan (V2, March 2022) 5
+[Page #5]
+2 Introduction: Skills Advisory Panels
+Skills Advisory Panels: the national context
+Since 2018, Skills Advisory Panels (SAPs) have been bringing together employers,
+skills providers and key local stakeholders to better understand and resolve skills
+mismatches at a local level. SAPs are part of Mayoral Combined Authorities and
+Local Enterprise Partnerships and there are 36 in total across England. The
+Department for Education (DfE) has supported SAPs with grant funding primarily to
+produce high-quality analysis of local labour markets and publish Local Skills
+Reports, which set out the local skills strengths and needs and how the SAP
+proposes its area addresses its key priorities.
+This second iteration of SAPs’ Local Skills Reports comes at a time when DfE is
+Trailblazing new Local Skills Improvement Plans (LSIPs), in eight areas of the
+country. Developed by Employer Representative Bodies (ERBs), LSIPs are part of a
+suite of reforms launched in DfE’s Skills for Jobs White Paper that aim to put
+employers more firmly at the heart of the skills system. An evaluation of the eight
+Trailblazers will inform the national roll out of the programme. In the meantime, and
+before LSIPs are rolled out across the country, it is DfE’s intention that Skills Advisory
+Panels and this Local Skills Report should continue to influence the behaviour of local
+partners and feed intelligence to central government, including to sectoral focussed
+skills teams and the national-level Skills and Productivity Board (SPB).
+In Greater Manchester, the Employment and Skills Advisory Panel (ESAP) reflects
+our integrated approach to the labour market, underpinned by Greater Manchester’s
+unique range of devolved functions across skills, employment support and health &
+social care. The GM ESAP brings together core partners/stakeholders from across
+that full landscape, in order to consider the labour market system in its entirety, rather
+than skills in isolation. GM ESAP’s first Local Skills Report & Labour Market Plan was
+published in March 2021.
+Greater Manchester Local Skills Report and Labour Market Plan (V2, March 2022) 6
+[Page #6]
+2.1 Background: Greater Manchester geography and
+governance
+Greater Manchester encompasses the ten districts of Bolton, Bury, Manchester,
+Oldham, Rochdale, Salford, Stockport, Tameside, Trafford and Wigan. With over
+124,000 businesses, more than 2.8m residents, and a further 7m people living within an
+hour’s commute, a prosperous and productive North of England requires a successful
+Greater Manchester.
+Innovative forms of cooperation between Greater Manchester’s private and public
+sectors, and between local and central government, mean it continues to be an
+example of effective leadership for the Northern Powerhouse, the UK, and the world.
+Greater Manchester is building on a decade of strong investment in businesses,
+infrastructure, and in new forms of government. Our ten local authorities have worked
+closely together for decades, and with the formation of the Combined Authority, election
+of a Mayor, and six devolution deals signed, the city-region now has a unique set of
+functions, powers and levers across multiple policy areas, influence over billions of
+pounds of associated spending, and a new relationship with central government:
+• Devolved adult skills functions and associated funding
+• Devolved employment support through GM Working Well (Work & Health
+Programme), including a locally-commissioned offer of targeted Working Well
+intervention and services to supplement the core activity
+• Devolved health & social care system under the Greater Manchester Health &
+Social Care Partnership
+• Working flexibly and remaining responsive to the needs of ‘place’ when using
+(and augmenting) nationally funded models such as Careers & Enterprise
+Company activity
+• Earned confidence as a testbed for valuable pilot/test & learn programmes, many
+of which are in partnership with government, including Fast Track Digital
+Workforce (a forerunner to the bootcamp model being tested under the National
+Skills Fund), Enterprising You (skills development pilot for self-employed people
+in partnership with the Federation of Small Businesses), and Future Workforce
+Fund (NEET reduction/prevention programme in partnership with Prince’s Trust)
+Greater Manchester Local Skills Report and Labour Market Plan (V2, March 2022) 7
+[Page #7]
+• Trailblazing activity with partners where GM has shown particular leadership and
+appetite, such as around ageing well and supporting older workers (Greater
+Manchester was the first place in the UK to be recognised by the WHO as an
+age-friendly city-region)
+• ESF Co-Financing Organisation status, which has enabled local commissioning
+of skills provision and employment support to meet employers’ and residents’
+needs, including the £40 million Skills for Growth programme.
+Against that backdrop, working with government and with local partners, Greater
+Manchester has begun a shift in the way that adult education and skills are prioritised
+and funded via the devolved Adult Education Budget, helped tens of thousands of
+unemployed residents back into work through the nationally-acclaimed GM Working
+Well suite of support, piloted new ways of working to address skills gaps linked to jobs,
+and is working to explore and address the recognised interactions between poor
+physical and/or mental health and productivity.
+Greater Manchester’s Independent Prosperity Review and Local Industrial Strategy
+identified that there are barriers to be overcome to improve economic performance.
+These include population health, education and skills, infrastructure, innovation, and
+leadership and management.
+With those cross-cutting challenges in mind, in recent years Greater Manchester has
+established a clear vision for an integrated labour market system that brings together
+education, skills, work and health, recognising that these factors are inextricably linked
+to strong communities, resilient citizens, and a thriving economy. We recognise, too,
+that these activities must be aligned in a place in ways that are simply not possible at
+national level if the policies from different parts of government are to deliver positive
+outcomes for our residents and businesses on the ground. Clarity, simplicity and
+responsiveness are vital.
+This holistic view to the wider Greater Manchester labour market drives the
+considerations of the Employment and Skills Advisory Panel.
+Greater Manchester Local Skills Report and Labour Market Plan (V2, March 2022) 8
+[Page #8]
+2.2 Greater Manchester ESAP: role and remit
+Whilst Greater Manchester’s ESAP is not a decision-making body, it provides vital
+strategic advice, oversight and recommendations to decision-makers, pools intelligence
+from across the labour market system, and leverages existing networks and
+relationships to provide challenge and debate across the labour market landscape.
+ESAP members represent networks of partners, rather than solely their own
+organisation or institution. They act as conduits to wider networks of stakeholders and
+providers in Greater Manchester’s skills and employment ecosystem, bringing their
+expertise and that of the networks that they represent to bear and providing the crucial
+link between local and national, and between policy development and implementation.
+GM ESAP Membership
+Panel members represent wider networks of core stakeholders and partners across
+Greater Manchester’s education, skills, employment support and health landscape as
+well as a number of national partners. ESAP is chaired by Greater Manchester
+Combined Authority’s portfolio Lead for Education, Skills & Work and Digital.
+• Association of Colleges
+• Association of Education and Learning Providers (AELP)
+• Business Representatives (large & SME)
+• Department for Education (national)
+• Department for Work & Pensions (national)
+• Education & Skills Funding Agency (local)
+• Employment Related Services Association (ERSA)
+• GMCA: Portfolio Lead and Lead CEx for Education, Skills & Work and Digital
+• GM Centre for Voluntary Organisations (GMCVO)
+• GM Chamber of Commerce
+• GM Colleges Group
+• GM Education & Employability Board
+• GM Executive Lead for Population Health and Commissioning
+• GM Higher Education Institutions
+• GM Learning Provider Network
+Greater Manchester Local Skills Report and Labour Market Plan (V2, March 2022) 9
+[Page #9]
+• GM Local Enterprise Partnership
+• Jobcentre Plus (local)
+• Learning & Work Institute, CEx
+• Local Authorities
+• Regional Schools Commissioner
+• The Growth Hub
+The Panel:
+• Acts as a ‘critical friend’ to GM’s decision-makers, working closely with key
+stakeholders to focus on the contribution that employment and skills policy and
+delivery can make to the competitiveness and performance of GM’s economy
+and to improving the quality of life for our people and communities
+• Provides detailed oversight of the whole employment and skills landscape to
+ensure that policy and delivery changes are aligned to local priorities, making
+use of a range of data and local intelligence to ensure provision is responding to
+the needs of learners & businesses across GM’s post-16 landscape
+• Brings together representatives of local employers and providers to understand
+local skills needs and translate them into skills provision and employment
+support services
+• Forms a strong strategic partnership between central Government and Greater
+Manchester
+• Aligns agendas from education, skills, work and health to ensure GM truly
+benefits from a devolved system.
+In delivering these functions, the Panel draws on a range of evidence and intelligence in
+order to shape Greater Manchester’s labour market response.
+Quantitative measures like those set out in the data/core indicators within the analytical
+Annexes which accompany this report provide only part of that evidence base. The data
+must be accompanied by local ‘soft’ intelligence, gathered from the Panel and its
+members’ networks, and from businesses and employer networks/representative
+bodies at both district and city-regional level.
+Greater Manchester Local Skills Report and Labour Market Plan (V2, March 2022) 10
+[Page #10]
+In particular, the Panel’s work is informed by GMCA’s research team and Skills for
+Growth industry intelligence unit, and the GM Skills Observatory (a partnership between
+GMCA, the Greater Manchester Chamber of Commerce and The Growth Company).
+2.3 Greater Manchester ESAP: core ambition
+Together, this evidence base is giving us a clearer picture than ever before about
+Greater Manchester’s labour market strengths and needs, and is driving our response
+under four core strategic priorities, articulated in the Panel’s first report:
+Young People
+• Young people leave education and training ready to succeed in the labour market, with a balance of academic, technical and ‘life ready’ skills
+Adults
+• Adults can acquire the skills, mindset and support they need to fulfil
+their career potential and adapt to changing employer needs throughout their lives, from entering employment for the first time through to highly skilled careers and retraining.
+Employers
+• Employers have access to a system that is flexible, resilient and
+adaptable, and which meets their needs in the rapidly changing 21stcentury world of work driving a sustainable economic future for GM in which companies compete on the basis of high productivity, good quality work, and excellent employment practices
+Support
+• Residents are supported by a welfare system, under Universal Credit,
+that provides access to good work for those who can, support for those who could, and care for those who can’t
+Greater Manchester Local Skills Report and Labour Market Plan (V2, March 2022) 11
+[Page #11]
+3 Skills Strengths and Needs
+Summary • Greater Manchester’s goal is to deliver ambitious improvements in skills and employment
+for the 2.8 million people living in the city-region. Central to this is developing a responsive, integrated labour market system that enables all residents to achieve their full potential, that helps to tackle long-standing inequalities of opportunity, and which provides the talent that our businesses need to thrive and grow, now and in the future.
+• Those inequalities have been brought into sharper focus by the uneven impact of the Covid-19 pandemic. Most recently, recovery in national employment rates has not been mirrored in Greater Manchester, where both unemployment and economic inactivity have risen. At the same time, vacancies are at unprecedentedly high levels, although many are for jobs in mid- to low-skills/low pay brackets.
+• The city-region is economically diverse, with no particular dependence on any single
+sector or occupational group for its economic well-being. GM has some labour market assets of national and international significance, which are driving demand for a pipeline of higher level technical skills. However, 40% of GM employment is in the foundation and service sectors, where roles are often low paid and opportunities for productivity gains and in-work progression are limited.
+• We are maintaining a focus on those priority sectors highlighted in GM’s Local Industrial
+Strategy, many of which also reflect national priorities:
+o Four ‘frontier sectors’ – those industries seen as fundamental to our future
+economic well-being: Health Innovation, Advanced Materials and Manufacturing, Digital, Creative & Media, and ‘Clean Growth’
+o The foundational economy – those sectors with significant employment
+volumes but not necessarily productivity-transformative potential: Retail, Social Care, and Hospitality & Tourism.
+• A series of industry intelligence deep-dives are being conducted to identify
+occupationally-specific skills issues in these industries and in specific sub-sectors, with action plans developing for each sector/occupational area. (See accompanying annex for sector overviews of Health & Social Care, Construction, Low Carbon Buildings (Retrofit), Green Economy, Digital & Tech, Logistics and Manufacturing.)
+• A number of Growth Locations have also been identified across GM which have potential
+to drive inclusive employment growth and inward investment, focused on clusters of existing and new industries in each place linked to those priority sectors.
+• Against that backdrop, one of the overarching skills challenges is that Greater
+Manchester’s population is lower skilled than the national average, especially in respect of the higher proportion of people with no/low qualifications and the lower proportion of residents with level 4+ qualifications. These longstanding issues must be addressed if our residents are to contribute to and benefit from inclusive growth.
+Greater Manchester Local Skills Report and Labour Market Plan (V2, March 2022) 12
+[Page #12]
+3.1 Greater Manchester’s Economy and Labour Market
+Context
+Since 2019, Greater Manchester’s labour market activity has been shaped by the
+comprehensive evidence base developed for Greater Manchester’s Local Industrial
+Strategy (LIS)1, from which the Skills Observatory and industry intelligence insights
+have evolved.
+That evidence identified many strengths in Greater Manchester’s education and skills
+system, including a history of partnership working at city regional level between
+employer organisations and learning providers, rapid improvements in college
+performance, and a vibrant higher education sector. However, it also highlighted a
+number of challenges and inequalities, not just around education and employment but
+across health and other aspects of life. It noted that too many people lack the functional
+and technical skills, especially digital skills, that employers need to thrive, grow and
+increase productivity, and that skills inequalities serve to constrain life chances.
+Links between disadvantage and low productivity are well-documented. As the 2019
+Index of Multiple Deprivation (IMD) data shows, over a fifth of the neighbourhoods in
+Greater Manchester fall into the bottom 10% of most deprived neighbourhoods
+nationally in respect of employment and income. Meanwhile, in terms of skills
+deprivation, 13% of Greater Manchester neighbourhoods fall into the bottom 10%,
+although this masks significant variation between districts (in Oldham, for example, 30%
+of neighbourhoods are amongst the most deprived on skills). We therefore welcome the
+ambition set out in the Levelling Up White Paper (Feb 2022), and look forward to
+working with government to deliver systemic change within Greater Manchester across
+the Paper’s 12 missions to level up internally as well as relative to other parts of the UK.
+1 The background and key themes were set out in the first GM LSR (March 2021) so are not being repeated in detail here. They encompass the GM Independent Prosperity Review and associated technical reports which helped to inform the LIS. Technical papers covered a range of issues around productivity, innovation & global competitiveness, skills & employment, and infrastructure. Skills & employment papers included Transitions in Employment and Skills, A New Approach to Education, Training and Skills, and The Future of Work and Skills (all available on the GMIPR webpage)
+Greater Manchester Local Skills Report and Labour Market Plan (V2, March 2022) 13
+[Page #13]
+3.2
+Impact of Covid-19 on Greater Manchester’s Labour
+Market
+These matters, and inequalities more generally, were brought into sharper focus by the
+Covid-19 pandemic, with Greater Manchester experiencing some of the longest periods
+of the most severe restrictions in the country.
+The state of the labour market in the wake of the pandemic and associated lockdowns
+remains difficult to read. On the one hand, there is a sense that the most dire
+predictions – which included ‘downside’ modelling of unemployment reaching 13%2 -
+have failed to materialise. On the other, there is evidence that the shocks caused by the
+pandemic are being felt unevenly, both at individual/place level and by different sectors
+of the economy, and are likely to endure for some time.
+As shown in the core indicators (data annexes, sections A1.9, B1.3), unemployment
+trends in Greater Manchester and the North West of England have diverged from
+national patterns of recovery. At November 2021, unemployment had risen in the NW
+for four consecutive months to 4.7%, according to the Labour Force Survey. In addition
+to unemployment, there has been a rise in economic inactivity. In autumn 2021, 23.9%
+of Greater Manchester’s working age residents were inactive – a higher level of
+inactivity than in both the UK and the North West. This suggests that as people have
+lost their jobs, many are leaving the labour market completely, either voluntarily or
+otherwise, rather than returning to/searching for work. The economically inactive are a
+complex and diverse group; encouraging them back into participation swiftly may be a
+challenge and is likely to require both bespoke employment support and improved
+access to retraining opportunities, as well as potentially, greater flexibility and support
+from employers.
+However, there are also some more positive signals that the labour market has also
+proved surprisingly resilient. It was feared that after the ending of the furlough scheme
+2 Fiscal Sustainability Report, July 2020, Office for Budgetary Responsibility
+https://obr.uk/fsr/fiscal-sustainability-report-july-2020/
+Greater Manchester Local Skills Report and Labour Market Plan (V2, March 2022) 14
+[Page #14]
+in the autumn of 2021, redundancies would rise. This has not happened, with
+redundancies in December 2021 significantly lower than in December 2020.
+At the same time, numbers of vacancies in the jobs market have repeatedly set new
+records in Greater Manchester. The extent of these vacancies was largely unforeseen
+at the height of the pandemic and points to opportunities within the labour market.
+However, many vacancies were in mid-to-low pay and skills brackets, and pointed to
+possible limitations on business activity as employers struggled to recruit.
+In early 2022, the GM Skills Observatory noted that:
+• The GM labour market was improving, but hiring was slowing in what remained a
+tight labour market and ‘employee-favoured’ in some occupations where demand
+for skilled workers outstripped supply.
+• Labour supply: A snapshot in late January/early February showed the main
+occupational areas advertising vacancies were ICT, Sales, Teaching, Accounting
+& Finance, and Engineering. The percentage of roles deemed ‘hard to fill’ had
+fallen since autumn 2021 but was still over one third of vacancies in GM.
+Employers have indicated expected vacancies in the months ahead across
+construction trades, social care, sales, customer service, hospitality,
+manufacturing, and cross cutting project/ business/office management.
+• Skills supply/gaps: highest in IT, construction, and manufacturing and the
+urgency of filling gaps had increased: 80% need to be resolved within 3 months.
+Stronger emphasis than previously on ‘soft’ management skillsets and digital.
+• Strong demand for sales, social media, digital marketing and business
+development specialist to support return to pre-pandemic levels of activity and
+turnover/profit.
+• Cost of training remained a limiting factor for many businesses, as inflation and
+increased liabilities arising from the pandemic impacted business investment.
+Indications also suggest that sectors that experienced the combined impact of the
+pandemic and its restrictions together with other factors, such as wider economic
+trends, including EU trade conditions/supply chains and a heavy reliance on labour
+provided by overseas workers who have left the UK, have felt the heaviest impact –
+including hospitality, social care, manufacturing and haulage/logistics.
+Greater Manchester Local Skills Report and Labour Market Plan (V2, March 2022) 15
+[Page #15]
+There are a number of trends highlighted in the evidence:
+COVID Impact - Trends
+Shift to online shopping and away from city centre retail
+• Rise of logistics sector, importance of drivers and warehousing
+• Lower high street footfall means fewer jobs in retail
+• Shifting use of city centre space and changing nature of high streets, with
+increasing number of hospitality venues as number of shops decline
+Shift to home working and away from office-based roles
+• Decrease in commercial property, city centre residential
+•
+Impact of decrease in city centre based workers on foundation economy
+• Rise in suburban centres
+Shift towards local tourism and away from international/inbound travel
+• Airport and related industries/roles in turmoil
+• Some signs of a rise in domestic travel and tourism
+Wider Economic Trends
+Shift towards use of digital technology and away from traditional manual
+methods
+•
+Increasing need for digital specialists, software dev, cyber, cloud, AI,
+machine learning
+•
+Increasing use of tech in traditional sectors (manufacturing, construction,
+hospitality)
+Automation of workplaces
+• Software being used to automate certain roles – finance, HR, production
+processes, etc.
+• Shift towards the value of human-based roles – sales, management, care,
+education
+Shift towards insecure/temporary/flexible career pathways and away from
+“jobs for life”
+•
+Jobseekers more flexible, career-switching options more prevalent
+• More uncertainty among young people
+Systemic / structural labour market issues
+• Changes to supply of labour, regulatory frameworks, trade, supply chains,
+etc following Brexit
+• Capacity within the training and assessment system
+Greater Manchester Local Skills Report and Labour Market Plan (V2, March 2022) 16
+[Page #16]
+3.3 Greater Manchester’s labour market strengths & needs
+Greater Manchester is maintaining its focus on those priority sectors highlighted in
+GM’s Local Industrial Strategy, many of which also reflect national priorities:
+o Four ‘frontier sectors’ – those industries seen as fundamental to our
+future economic well-being: health innovation, advanced materials and
+manufacturing, digital, creative and media, and ‘clean growth’
+o The foundational economy – those sectors with significant employment
+volumes but not necessarily productivity-transformative potential: retail,
+social care, and hospitality & tourism.
+Along with a vibrant visitor economy, the city-region is home to some assets of national
+and global importance which are helping to drive the skills agenda, including (but not
+limited to):
+•
+Innovation GM (IGM), which has created the most developed blueprint in the
+country for levelling up through innovation, and laid foundations for further
+investment from government as one of three Innovation Accelerators announced
+in the Levelling Up White Paper. IGM features elements such as:
+o
+the Advanced Machinery and Productivity Institute (AMPI), a new
+research centre located in the Rochdale-Bury Gateway North industrial
+park that will drive innovation among the UK’s advanced machinery
+manufacturers, with multi-region reach across Greater Manchester and
+West Yorkshire
+o Crescent Salford: the Salford Innovation Triangle is a cluster of
+internationally significant innovation and R&D activity, in partnership
+between the University of Salford with MediaCityUK and Salford Royal
+Hospital. New facilities at Crescent include Energy House 2.0 - the
+world’s first full-sized, two bedroom, brick built terraced house constructed
+inside an environmentally controllable chamber to investigate the future of
+housing - and the North of England Robotics Innovation Centre. This
+will be supported by the new Greater Manchester Institute of Advanced
+Technical Skills, a partnership between FE, HE and industry, led by the
+University of Salford which received approval from government in
+Greater Manchester Local Skills Report and Labour Market Plan (V2, March 2022) 17
+[Page #17]
+December 2021 and will begin delivering higher technical skills
+qualifications from September 2023.
+• The Oxford Road Corridor has:
+o a high value business base with a concentration of life sciences,
+professional services and digital businesses. With its access to a
+skilled workforce, a modern science park that is one of the UK’s most
+established life science and tech communities, and incentives for new
+businesses wishing to grow, the area continues to attract investment and
+compete on a global scale, and requires the talent/skills pipeline to match
+o significant assets within the culture sector (Whitworth Art Gallery,
+Manchester Museum, RNCM, Holden Art Gallery, Manchester School of
+Art, Manchester poetry Library and Manchester Art Gallery) which play an
+important role in the cultural ecosystem of the city-region, and play an
+important role in the narrative around Manchester’s status as a UNESCO
+City of Literature and the wider visitor/leisure economy of Greater
+Manchester
+• As the largest cluster of creative industries outside of London and the South
+East, Greater Manchester’s vibrant and diverse culture and creative sector is
+part of a thriving visitor economy, encompassing the hospitality & leisure sector
+and night-time economy, along with sporting and creative assets which range
+from grass-roots to world-class. Whilst these industries face a period of recovery
+from the impact of the pandemic, they remain a key asset for Greater
+Manchester and the UK more generally, and Greater Manchester’s ability to
+create, attract and share creative and cultural content/talent played a vital role
+during lockdown in supporting residents’ health and wellbeing, including:
+o
+the United We Stream platform, developed and launched within just two
+weeks of the first national lockdown taking effect and going on to reach
+more than 8 million people across the world. In its first two months the
+platform hosted more than 300 globally renowned artists and local
+breakthrough talent (including events curated by Contact Theatre,
+Manchester Jazz Festival, Night & Day, Manchester Camerata and
+Brighter Sound), and went on to hold further events such as the
+Headstock mental health and wellbeing event and a 24 hour Haçienda
+Greater Manchester Local Skills Report and Labour Market Plan (V2, March 2022) 18
+[Page #18]
+House Party on New Year’s Eve. United We Stream also raised £400,000
+in donations for distribution to more than 100 businesses and individuals
+working in the GM culture and night time economy.
+o As part of the Great Place Project, GMCA and a range of cultural
+organisations across Greater Manchester developed and distributed
+22,000 Creative Care Kits to young people not online who were feeling
+isolated during lockdown. Two more Creative Care Packs were
+subsequently developed and distributed across Greater Manchester, one
+for isolated older residents and one for younger people, to engage them in
+social action.
+• Digital, Creative & Tech assets, ranging from a thriving community of innovative
+start-ups to large-scale industry employers, and well-established sector networks
+providing a collective voice for the industry in bodies like Manchester Digital and
+the GM Cyber Advisory Group, which is taking forward targeted strands of work
+around curriculum, career pathways and best practice in talent development.
+A piece of work is also underway to explore a number of Growth Locations across
+Greater Manchester which have the potential to drive inclusive economic growth, attract
+inward investment, capitalise on some of the city-region’s innovation assets, and create
+jobs at scale, including in the high value frontier sectors.
+Working with district partners and informed by the Places for Everyone plan and
+Stockport Local Plan, six of these locations have been identified, presenting
+opportunities for the whole city-region to bring forward development at a scale that can
+drive transformational change in GM, including opportunities for communities and
+places which may not have benefitted previously from economic development and
+growth. These Growth Locations, with zero carbon ambitions integral to their design
+and delivery, each present the opportunity to enhance existing sectoral strengths and
+supply chains, and also set the platform for growth in new areas, such as Advanced
+Materials.
+A key strand to the Growth Locations activity will be to ensure that further education,
+higher education and training providers are engaged and able to provide the necessary
+training and development to ensure that residents have the skills required to support
+Greater Manchester Local Skills Report and Labour Market Plan (V2, March 2022) 19
+[Page #19]
+growth in both current industries and the planned future growth in new industries. As
+this work develops, it will consider the opportunity to create skills/training specialisms in
+each district linked to the types of growth planned, ensuring provision responds to
+evolving employer needs and enabling residents in every part of the city-region to
+contribute to and benefit from inclusive economic growth.
+Fig.1: Greater Manchester Growth Locations:
+Skills Strengths, Gaps and Issues
+Analysis of skills strengths and needs in a place is not simply a case of looking at skills
+supply based on residents’ skills levels – often, but not always, using qualifications as a
+proxy for skills. It also requires consideration of the labour market ‘skills ecosystem’ in
+its entirety, including the impact of employer behaviour, business models/processes,
+and demand for skilled workers. For example, despite the number of employers
+reporting skills gaps, hard to fill vacancies, and workplaces with employees not fully
+proficient in their roles, more than a third of GM employers provided no training at all in
+20193.
+3 Employer Skills Survey, 2019
+Greater Manchester Local Skills Report and Labour Market Plan (V2, March 2022) 20
+[Page #20]
+Greater Manchester’s thriving innovation economy described above highlights the need
+for an equally thriving skills and talent pipeline, with increased support for technical
+skills development, especially at level 3, 4 and 5, through apprenticeships and high
+quality technical/vocational education, providing the clear lines of sight and progression
+pathways into and within these high value roles and sectors.
+At the same time, a large proportion of the GM workforce – at least two in every five
+jobs – is based in the foundation economy, key-workers delivering those everyday
+essential goods and services needed for social and economic functioning and
+wellbeing. Many of these roles tend to be considered low skill, but that might be as
+much a reflection of the low pay/low economic returns linked to service sectors rather
+than an accurate reflection of the skills, knowledge and attributes required to do the
+work.
+Addressing functional numeracy, literacy, and digital skills, alongside enhancing
+essential skills and employability, remains a key challenge. Greater Manchester’s
+population is lower skilled than the national average – especially in respect of the
+proportions of residents with no/low qualifications and those with level 4+ skills (see
+core indicators - A2.1).
+Despite this skills/qualifications profile, skills shortages do not appear to be a
+particularly acute economy-wide problem (see A4.1-2). This might be due in part to a
+long-standing prevalence of low quality jobs and low demand for skilled labour,
+highlighted in the 2019 GM Independent Prosperity Review4 and a decade earlier in the
+Manchester Independent Economic Review5. But that overall picture masks distinct
+variations, with acute skills gaps in some individual sectors and occupations.
+An employer-led response
+Since 2019, GMCA’s industry skills and labour market intelligence function, established
+4 Greater Manchester Independent Prosperity Review (Feb 2019), https://www.greatermanchester-ca.gov.uk/what-we-do/economy/greater-manchester-independent-prosperity-review/  5 Manchester Independent Economic Review, Understanding Labour markets, Skills and Talent, 2009, p7 http://manchester-review.org.uk/
+Greater Manchester Local Skills Report and Labour Market Plan (V2, March 2022) 21
+[Page #21]
+as part of the Skills for Growth programme, has been building our understanding of the
+skills and employment strengths and needs of Greater Manchester’s frontier sectors,
+foundation economy and in the cross-cutting capabilities/ enablers which underpin
+the entire labour market. This employer-driven, evidence-led approach has since been
+mirrored in the government’s Skills for Jobs reform agenda, and is driving our response
+to the four core priorities set out in section 2.3 above. At February 2022, sectoral deep
+dives had been completed in:
+These sectors, together with Haulage & Logistics and consideration of wider
+contributions of digital transformation and low carbon transition in support of national
+and local targets around Net Zero, also reflect nationally identified priorities. The full
+reports are available here and sector overview summaries are set out at the beginning
+of the annex document that accompanies this report. The findings are already being
+addressed through the ESF Skills for Growth programme. Further deep dives are
+underway, with publication expected on an ongoing basis through Spring/early Summer
+2022:
+That work has highlighted a number of key in-demand occupations within each sector,
+summarised in Fig.2 below. However, many of the labour market issues facing these
+Greater Manchester Local Skills Report and Labour Market Plan (V2, March 2022) 22
+[Page #22]
+sectors require a response that goes far beyond skills-based interventions. The next
+chapter of this report therefore narrows the focus from this broader landscape and drills
+down into a number of targeted skills priorities that the ESAP seeks to address.
+Greater Manchester Local Skills Report and Labour Market Plan (V2, March 2022) 23
+[Page #23]
+Fig.2 – GM Economy: Sector Breakdown
+Greater Manchester Local Skills Report and Labour Market Plan (V2, March 2022) 24
+[Page #24]
+4 Skills and Labour Market Strategy
+4.1 The Strategic Framework
+Skills for Jobs: Lifelong Learning for Opportunity and Growth, (January 2021) outlined
+five areas of FE skills policy reform aimed at building a world-class further and technical
+education system, many elements of which reflect Greater Manchester’s existing
+strategy for a more flexible, responsive system with our residents’ and employers’
+needs at its heart. The Levelling Up White Paper (February 2022), published shortly
+before this report, reaffirmed those commitments and sent a further signal about the
+way that government policies and investment in education, skills and jobs will be
+marshalled to spread opportunity more evenly and boost productivity.
+Alongside the national policy framework, Greater Manchester’s labour market strategy
+is shaped by, and feeds into, a range of established place-based strategies/blueprints.
+These are listed in full in the Further Reading section at the end of this report and
+include the skills, work and economic development strategies at district level in each of
+our ten local authorities, and the report from Greater Manchester’s Independent
+Inequalities Commission.
+4.2 GM Strategic Priorities
+Greater Manchester’s core ambitions, together with the rationale for each, were set out
+in detail in the first LSR. Those interdependent education, skills and work priorities (see
+section 2.3) remain the cornerstones of Greater Manchester’s labour market strategy.
+They are underpinned by a range of:
+• Cross-cutting priorities
+• Priorities linked to Covid recovery, and
+• Sector/occupationally specific priorities.
+Greater Manchester Local Skills Report and Labour Market Plan (V2, March 2022) 25
+[Page #25]
+4.2.1 Cross-cutting priorities
+4.2.1.a Tackling inequalities and levelling up:
+We must seize opportunities to dovetail implementation of the Levelling Up White Paper
+with our response to the recommendations from the GM Independent Inequalities
+Commission. Skills and employment interventions - via GM’s devolved Adult Education
+Budget and other programmes – will have a vital role to play here, in:
+1. Supporting employment and/or progression
+2. Re-skilling and upskilling to enable all residents to benefit from opportunities
+in growth and foundation sectors of the economy
+3. Supporting residents to improve their essential/basic skills, including English,
+maths and digital, including the new Multiply programme that will be delivered
+under the UK Shared Prosperity Fund from 2022/23
+4. Building stronger communities and engaging adult residents to return to
+education and training.
+4.2.1.b Employer engagement:
+None of our objectives can be delivered without employer involvement. Yet this has
+become an increasingly busy arena in which it is difficult for employers, especially
+SMEs and micro enterprises that make up around 90% of GM’s business base, to
+understand skills/qualifications, the funding and incentives landscape, and to know how
+and where to engage with the system to greatest effect.
+We must move away from a transactional ‘ask and offer’ approach to a more strategic
+relationship, which recognises both that the publicly funded skills and employment
+system can only do so much, and that employers have a much wider and richer role to
+play in developing the talent pipeline.
+4.2.1.c Combatting climate change
+Greater Manchester’s ambition for carbon neutrality by 2038 and the clean growth
+Greater Manchester Local Skills Report and Labour Market Plan (V2, March 2022) 26
+[Page #26]
+challenge is set out in GM’s Five Year Environment Plan6, launched at in March 2019
+during the second Greater Manchester Green Summit. This carries multiple skills
+opportunities and challenges, including (but not limited to) investing in innovation and
+development of new technologies, new approaches to the design, construction and
+maintenance of cleaner buildings, transport and other infrastructure, ensuring that the
+skills are in place to update and retrofit the existing infrastructure, and supporting
+businesses, communities and residents to develop their ‘carbon literacy’ and adopt
+cleaner practices.
+These matters are being considered in detail within the sector deep dives, both in
+relation to Low Carbon Buildings and the Green Economy, and to the wider implications
+in other sectors, such as Manufacturing, Logistics and Rail.
+4.2.1.d Ageing society and older workers:
+Whilst employers and funders often prioritise training for young people, demographic
+change means that by 2041 the over-50 population is forecast to account for 83% of
+forecasted total population growth. GM has below national average economic activity
+rates for over-50s, a situation worsened by the pandemic, with older workers more likely
+to experience long-term unemployment and economic inactivity - in effect, entering
+unplanned and often involuntary early retirement. As many as 80% of the ‘missing
+million’ of individuals who have moved into economic inactivity as a result of the
+pandemic are aged over 50, and ONS data show that one-third of unemployed people
+aged over 50 have been out of work for at least a year, while one in five have been out
+of work for at least two years; this compares with 20% and 8% of those aged under 50
+respectively.
+With traditional employment support less effective at supporting older workers, there is
+a need to maintain and update currency of work-relevant knowledge and skills, and to
+build on the activity in this space that has made Greater Manchester the first place in
+the UK recognised by the WHO as an first age-friendly city-region.
+4.2.1.e STEM skills:
+The OECD estimates that around a third of existing jobs will change radically in the next
+6 https://www.greatermanchester-ca.gov.uk/what-we-do/environment/
+Greater Manchester Local Skills Report and Labour Market Plan (V2, March 2022) 27
+[Page #27]
+15-20 years as a result of automation/AI, and up to 14% of jobs – ‘sunset roles’ – could
+disappear completely. As set out in section 3.3 above, Science, Technology,
+Engineering and Mathematics (STEM) industries are key to Innovation GM and our LIS
+frontier sectors, and are powered by skills that can be applied throughout the economy.
+Through Greater Manchester’s STEM Framework (launched in early 2020), we are
+taking an employer-led approach to identifying and increasing the pipeline for the
+priority occupations we need now and in the future, creating an agile and diverse STEM
+workforce, with the skills and flexibility Greater Manchester needs as we enter the
+fourth industrial revolution.
+4.2.1.f Digital inclusion:
+The pandemic underlined the importance of ensuring that all our residents have the
+digital skills and connectivity needed to access vital every-day services, opportunities
+for learning and work, and even social interactions that are crucial to health and well-
+being.
+Our ambitions to be one of the best places in the world to grow up, get on and grow old,
+and to be recognised as a world-leading digital city-region, cannot be realised unless
+we focus on getting the foundations right. The ability to get online and to function safely
+and effectively is vital in an increasingly digital world, and baseline digital skills and
+proficiency in common software/tools are an entry ticket into the labour market. Greater
+Manchester has prioritised access to digital skills and an enhanced entitlement within
+our devolved AEB funding policy that goes beyond the statutory minimum (Level 1),
+supporting relevant learning which meets the Essential Digital Skills Framework up to
+and including Level 2.
+4.2.1.g Commissioning, evaluation and social value:
+Where our labour market and skills strategy is supported by funded activity, it is vital
+that strong performance/risk management, evaluation and social value principles are
+applied, managing resources and drawing in investment in ways that tackle inequalities
+and create lasting benefits to society, the environment and the economy. Smart
+commissioning strategies and approaches are adopted, and Social Value requirements
+have operated since 2017. This ensures our residents and employers receive quality
+services, are enabled to achieve sustainable outcomes, and that all local
+commissioning delivers the widest possible benefits for Greater Manchester.
+Greater Manchester Local Skills Report and Labour Market Plan (V2, March 2022) 28
+[Page #28]
+4.2.2 Priorities for Covid-19 recovery and renewal
+The themes of recovery and renewal are embedded throughout this labour market
+strategy, in both the sector-specific and cross-cutting priorities, in particular those
+targeting disadvantage and inequalities. Whilst Greater Manchester’s Living with Covid
+Resilience Plan was developed as a 12 month response during the peak of the crisis,
+the approach it described to recovery, resilience and renewal, with activity focused
+around three areas, remains an appropriate framework for the ongoing labour market
+priorities and actions:
+• where the impact of Covid has been significant and even devastating
+• where the impact has caused challenge, and
+• where the impact has driven innovation and accelerated new approaches.
+These principles have influenced activity developed directly in response (for example,
+the Inequalities Commission recommendations and Greater Manchester’s Young
+Person’s Guarantee), as well as the shaping the way that GM-commissioned
+programmes were pivoted in the immediate response phase and continue to support
+residents and businesses (including AEB flexibilities, GM’s Working Well suite of
+employment support, and the Enterprising You pilot programme testing skills support for
+low-income self-employed and gig economy workers). It is also a theme running
+through the industry intelligence reports.
+4.2.3 Sector and Occupational Priorities
+The industry intelligence work completed to date has identified a series of
+sector/occupation-specific priorities. Not all of those call for a wholly skills-focused
+response, nor are all within ESAP’s gift to lead a direct response, but they illustrate the
+complex interdependencies of meeting the skills and workforce needs of businesses in
+some of our key sectors:
+Greater Manchester Local Skills Report and Labour Market Plan (V2, March 2022) 29
+[Page #29]
+Sector and Occupational Strategic Priorities
+Short term
+Long term
+Construction (including Retrofit)
+Skills curriculum/offer should include further reference to future skills like retrofit, sustainable building materials, modular building, and wider modern methods of construction.
+x
+x
+Encourage employers to take ownership of the skills challenge themselves, supporting the future talent pipeline by opening up traineeship, apprenticeship, and other entry level positions for young people to gain occupational competence as well as qualifications
+x
+x
+Respond to appetite from young people to consider environmental and sustainability issues in careers pathways by positioning construction occupations/careers as “Green jobs” where possible.
+x
+x
+Work with government and CITB to review incentive schemes to ensure they are meeting objectives appropriately. Grant eligibility criteria should not disincentivise employers from taking on young people / job seekers who have already completed a relevant qualification.
+x
+Local authorities, developers, and main contractors should review social value commitments included as part of procurement and planning permissions, to ensure they are fully meeting the needs of the sector.
+x
+Digital
+Digital skills are needed in all sectors due to digital transformation. There is a need for “digital champions” in existing IT and wider non-technical roles to support with digital skills related to data, information governance, digital marketing, and digital finance applications.
+x
+Careers: the digital industry offers lots of opportunity, but it is complex and some areas of the industry do not have clear progression pathways. Careers advice should include key messages around real life stories of those who have successfully navigated their route into the sector.
+x
+x
+There needs to be more transition activity supporting individuals from training into employment, preferably by industry experts through mentoring activity which supports individuals with digital portfolio development, interview and CV techniques and navigating the sector.
+x
+Greater Manchester Local Skills Report and Labour Market Plan (March 2022)
+30
+[Page #30]
+Inclusivity should be embedded in all skills initiatives with programming designed to remove barriers to engagement and target specific groups who may otherwise miss out.
+x
+The wealth of inspiration activity promoting digital skills and careers needs to be joined up for maximum impact, including shared messaging, targeting, and better signposting and transition between them
+x
+Education
+Immediate skills gaps include SEN training, careers guidance training (incl. SEN-specific), upskilling to support staff around child development delays due to COVID-19 pandemic; behaviour management; supply teachers training
+x
+Staff throughout the education sector are dealing with children and young people with affected by the pandemic – from being less ‘school ready’ in early years settings to emotional / social difficulties across all settings. This cuts across many policy areas but in the short term, training is needed to help staff in better identifying and supporting those affected.
+x
+Need for greater flexibility in training delivery models to meet the needs of both employers and employees (eg options for evening and weekend learning)
+x
+Careers in the adult education sector need the same parity of esteem as working in schools. Since full teaching qualifications are not needed, there is a huge imbalance in pay.
+x
+High staff turnover in Early Years, in part due to low pay (often apprenticeship minimum rather than NMW/NLW) and feeling of being undervalued. Use GM Good Employment Charter and other levers to encourage improvements in pay and conditions.
+x
+Diversification of the workforce, both relating to gender balance and underrepresented groups within the education workforce. Whilst gender imbalance is a national issue, in GM the proportion of male working in the sector is lower than the UK average; male role models, as well as individuals from other underrepresented groups, to advocate for careers in the sector.
+x
+Green Economy
+Work with central government to understand their policies around preferred technologies and green solutions, so that we can work with employers and providers to build capacity in relevant parts of the system and the employer market can respond by upskilling staff.
+x
+x
+Greater Manchester Local Skills Report and Labour Market Plan (March 2022)
+31
+[Page #31]
+GM to seize opportunities to become a centre of excellence around Retrofit training and technology, electric vehicle infrastructure skills, and electrical engineering skills.
+x
+Prioritise reskilling individuals working in so-called “sunset jobs” – roles which will see decline in the shift to Net Zero (eg Gas Heating Engineers, Oil/Gas Extraction & Refinery, Mining, some ‘dirty’ Manufacturing jobs. Similar issues in supply chains: no big auto manufacturers or aerospace businesses in GM, but lots of firms operating in supply chains for components like combustion engines.)
+x
+x
+Careers: enthusiasm from young people leaving schools and colleges for a career in a “Green” role should be harnessed and used to promote key in-demand occupations that aren’t traditionally thought of as Green Jobs, eg elements of construction, logistics, etc. Also need advice and resources in place to advise and support adults in ‘sunset jobs’.
+x
+x
+Improve links between local skills policy, planning authorities, and transport authorities, including around schemes proposed under HS2/Integrated Rail Plan and Places for Everyone strategies, to ensure that skills capacity and development are given due thought in early project stages.
+x
+x
+Work is required to increase basic carbon literacy across the economy: increasing all businesses’ awareness of Net Zero, and their understanding of/strategies for sustainability and carbon reduction in their business processes and practices.
+x
+x
+Health and Social Care
+In addition to core skills, additional training is needed across the sector with topics such as compassionate management, values-based recruitment, sector specific language training and improved digital skills all being required.
+x
+Resilience and wider Health & Wellbeing training should be available to all HSC staff, since burnout and stress are often attributed to high turnover and retention issues.
+x
+Many staff have indicated a desire for upskilling and to be given additional responsibility within their role. Successful pilot projects should be rolled out further. Linked to this, further operation of multi-disciplinary teams is recommended. For example, pilot schemes involving care workers assuming some district nurse roles and supporting with some designated healthcare tasks have (anecdotally) improved job satisfaction helped recruitment and retention. This type of re-design helps strengthen more integrated career pathways.
+x
+x
+Careers: perception of the sector must be changed, and HSC promoted as a career choice with good prospects and progression, and not just as a short-term role/last resort. This includes building better links with schools and colleges, career
+x
+x
+Greater Manchester Local Skills Report and Labour Market Plan (March 2022)
+32
+[Page #32]
+and employability support organisations and job centres, dispelling myths, highlighting positive role models and key skills / values which make people successful in the role. Also ensuring that there are adequate work experience and placement opportunities
+There are clear issues around pay, terms and conditions particularly around entry level positions. GMCA and the HSCP would like to see more employers from the Sector sign up to the Greater Manchester Good Employment Charter and look at how this can immediately be linked to the procurement process.
+x
+Work should be done around removing barriers into employment. Application processes should be changed to open the sector to a more diverse workforce. Values-based recruitment has been shown to be successful but isn’t always understood.
+x
+Logistics
+Skills and labour shortages across all sub sectors: high numbers of vacancies and an unprecedented labour market shortage of HGV drivers. Highest vacancies are for Delivery Drivers, HGV Drivers, Transport Planners, Logistics Administrators, Transport Managers and Transport Co-ordinators.
+x
+Skills gaps exist in the planning, control, and scheduling aspect of the sector, in roles such as planning supervisor and controller, and import/export specialists, as well as in warehousing roles, particularly workers with higher level digital skills.
+x
+Work with government/IFATE to address gaps in Apprenticeship standards: Fleet Managers, Logistics Operations Maintenance / Procurement / Warehousing Managers, Supply Chain Managers.
+X
+x
+Urgent demand for skills linked to automation and digital transformation, which are being driven at pace due to need for growth and efficiency.
+x
+Soft skills continue to be a common theme for development in the sector, to improve efficiency and cohesion at all organisational levels.
+x
+Following Brexit, businesses face challenges around the rules of import and export. Transport Management teams require upskilling around new rules, documentation and associated processes.
+x
+Impact of net zero targets: introduction of low-emission schemes and an increase in sustainable technology innovation and development will drive higher costs and the demand for new skills in the sector.
+x
+x
+Greater Manchester Local Skills Report and Labour Market Plan (March 2022)
+33
+[Page #33]
+Wider labour shortages linked to conditions and perceptions of the industry need to be addressed: whilst high recent demand has pushed wages up in some parts of the industry, the age profile of the workforce shows few young people entering the sector, particularly in driving roles.
+x
+Hospitality
+In addition to occupationally specific skills and labour shortages around chefs and other roles, wider training needs include sales and customer service skills, with a focus on business innovation.
+x
+Explore modular approach to training programmes to meet the needs of businesses and emerging hospitality trends.
+x
+Skills development needed in Recruitment & Selection to create more diverse talent pipeline, and raising better awareness amongst hospitality employers on the benefits of workforce development (beyond compulsory training) and government initiatives.
+x
+x
+Careers: consider a campaign to invigorate appetite amongst young people and career switchers who may wish to explore a future career in hospitality, and to encourage the return of workers who might have left the sector during the pandemic.
+x
+Hospitality associations and employers should consider designing a sector specific health and wellbeing charter in conjunction with staff working in the sector.
+x
+x
+Life Sciences
+Shorter courses and modular alternatives to degree / Master’s courses are required. Employers’ specific skills needs may be more immediate and not need the full breadth of a longer course.
+x
+x
+Promote/facilitate increased collaboration between SMEs to explore how, by working together, more training courses and apprenticeships become viable. Shared learning and networking also create a stronger ecosystem.
+x
+x
+Careers: more must be done to position health and life sciences careers as rewarding - both financially and emotionally. The chance to make a social impact is a high priority for young people when choosing a career pathway – the sector should use this to encourage young people to take up roles in the sector and make a difference to human health.
+x
+x
+Greater Manchester Local Skills Report and Labour Market Plan (March 2022)
+34
+[Page #34]
+Diversification of the workforce: employers should ensure that that they are working to improve representation in the sector. While this is a long-standing issue, more and better engagement with young people from underrepresented groups and disadvantaged backgrounds would be beneficial.
+x
+x
+Need for greater clarity around Incentive payments from government and a ‘funding map’ to address confusion across the sector around the support available to support learning and growth.
+x
+Manufacturing
+Support employers with the transition to digitalisation and automation – these developments are a great opportunity to develop some staff into subject matter experts within their business, improving job satisfaction and productivity.
+x
+x
+Facilitate and enhance peer-to-peer business networks around skills delivery. Many networks exist but have been hampered by the pandemic.
+x
+Progression routes, potential future careers, and occupation pathways should be made clearer and linked to formal qualifications, to improve transparency for existing staff.
+x
+x
+Work with business networks to increase number of STEM Ambassadors across GM.
+x
+Build better and more valuable links between local employers and schools to dispel myths and improve reputation of the Manufacturing sector. In particular, role models from technical engineering and production backgrounds should be encouraged to engage.
+x
+x
+Encourage diverse hiring practices within the GM manufacturing sector, targeting under-represented groups and promoting the sector to remove barriers and increase opportunities.
+x
+x
+Greater Manchester Local Skills Report and Labour Market Plan (March 2022)
+35
+[Page #35]
+5 Skills Action Plan
+A local strategy alone cannot deliver the nature and scale of activity needed, and skills
+interventions alone cannot transform the labour market. The challenge of balancing
+actions needed for recovery, tackling labour market (and other) inequalities, and
+enabling inclusive growth and productivity gains is a complex one. In both policy and
+commissioning terms, it requires a combination of actions that can be undertaken at
+sufficient scale to have impact, together with activities that are suitably tailored, flexible
+and responsive to employers’ and residents’ needs on the ground.
+As a Panel, we will continue to engage with members’ respective networks, including
+central government departments and their local agencies, to make full use of the
+Panel’s reach to build connections, influence policy and provide system stewardship,
+working together to integrate national, city-region and local activity in ways that simplify
+the offer, and deliver the best possible outcomes for individuals and employers.
+With commissioned skills and work programmes, this means bringing together a
+combination of:
+• National: large-scale universal activity where volumes and resources required
+can only reasonably be led by central Government, or where a lighter touch
+approach to support is adequate to achieve a positive outcome for the individual.
+These national programmes must, nonetheless, work in the local context
+• Co-commissioned: partnership activity which meets local needs by aligning
+national policy and resourcing at scale with co-design and/or co-commissioning
+with local partners in Greater Manchester. This approach has seen successful
+‘test and learn’ activity in which we have piloted activity in partnership with
+government (such as the successful bootcamp pilots initially funded by DCMS
+and then expanded by DfE and now being rolled out as the cornerstone of the
+National Skills Fund), as well as co-commissioned programmes such as GM’s
+activity in partnership with DWP and JCP to deliver GM Working Well (Work and
+Health Programme). In this way we can help government to view the interaction
+Greater Manchester Local Skills Report and Labour Market Plan (March 2022)
+36
+[Page #36]
+and interdependencies of skills, work and health policies and programmes in a
+place
+• Local: tailored programmes and interventions designed, commissioned and
+delivered locally for residents requiring more intensive or bespoke
+skills/employment support, and enabling greater alignment of
+programmes/funding streams and reduction in silo working. Examples include
+our sector-focused skills provision through GM’s ESF Skills for Growth
+programme, flexibilities within devolved AEB funding policy, and the local
+additionality offered within Working Well, such as Early Help and the Specialist
+Employment Service for people with a learning disability and/or autism via GM’s
+ten local authorities and Individual Placement and Support for people with a
+severe mental illness.
+Rather than setting out the full range of Greater Manchester’s labour market actions
+across all core priorities (these were set out in detail in the Panel’s 2021 report and
+many are ongoing), the table below focuses on specific actions planned for the next 12
+months to address the cross-cutting, sector-focused priorities and inequalities-focused
+priorities identified in Chapter 4 above.
+Greater Manchester Local Skills Report and Labour Market Plan (March 2022)
+37
+[Page #37]
+Action Plan, 2022-23 Timescale Young people leave education and training ready to succeed in the labour market, with a balance of academic, technical and ‘life ready’ skills
+Partners
+Ensure high quality technical pathways into priority sectors by supporting further T-level roll-out across GM
+Colleges Employers/ ERBs
+Ongoing collaboration and support ahead of roll-out in September 2022 Ongoing
+Work with employers/ERBs to support talent pipeline activity to strengthen links between the worlds of education and employment through generation of:
+ESAP LEP Employers/ ERBs
+• T level placements • Apprenticeship and Traineeship opportunities (all ages) • Employer/workplace encounters and related activity (through Pledge5, Meet Your Future and
+similar campaigns)
+Continue to support education leaders to bring about sustainable change in careers education and embed careers and enterprise in education by:
+ESAP GMCA Careers & Enterprise Company Employers/ ERBs LEP Local Authorities
+Ongoing
+Specialist SEND specialist Careers & Enterprise Co-ordinator from Spring 2022
+•
+facilitating links between schools/colleges and employers through the GM Enterprise Adviser Network, including dedicated support for schools/employers around young people with special educational needs and/or disabilities (SEND)
+• expansion of the GM Careers Hub to deliver full coverage across GM.
+Continue to develop services for young people that help to build and improve life- and work-readiness, including:
+GMCA Employers Providers
+• Review and refresh the Greater Manchester Apprenticeships & Careers Service (GMACS) platform to include: financial literacy/digital inclusion/health & wellbeing support, dedicated pages for employers/post-16 providers/LAs/teachers, Young Person’s Guarantee
+GMACS refresh: Spring 2022
+Greater Manchester Local Skills Report and Labour Market Plan (March 2022)
+38
+[Page #38]
+commitments, GM Curriculum for Life, live opportunities from employers/social capital, young person’s blog, social action/citizenship resources, and improved navigation/ease of use • Continued development and testing of early beta Curriculum for Life, designed by young
+CfL testing:
+people
+• Scale up/roll out the #BeeWell programme which focuses on wellbeing as a key factor in tackling inequalities in education attainment and health outcomes, following a successful pathfinder phase in Autumn 2021 that saw almost 40,000 secondary school pupils across GM take part in a survey co-designed by young people and building on GM’s previous Life Readiness surveys.
+#BeeWell – ongoing
+Adults can acquire the skills, mindset and support they need to fulfil their career potential and adapt to changing employer needs throughout their lives, from entering employment for the first time through to highly skilled careers and retraining
+Ensure AEB funded adult skills provision continues to meet needs, including:
+AEB funded skills providers (Colleges, Local Authorities, Independent Training Providers, VCSE sector)
+Ongoing. AEB funding arrangements extended for AY 2022/23. New qualifications to be added from April 2022 Details to be confirmed bu DfE – expected launch in Aug 22 (for delivery in AY22/23 to 24/25)
+• English, maths and digital skills (linked to statutory entitlements) to residents without relevant
+qualifications
+• Working with providers to shift the offer in ways that build progression pathways into priority
+occupations/sectors, from entry level upwards
+• ongoing delivery, monitoring and review of the Level 3 entitlement (Lifetime Skills Guarantee) including the GM Level 3 offer, which extends eligibility to qualifications in local priority sectors not covered by the national offer.
+Work with DfE to support development and roll-out of government’s UKSPF-funded Multiply numeracy initiative, in partnership with local providers and other relevant organisations to integrate the programme into the GM essential skills and employability offer in ways that avoid duplication, displacement and competition with existing numeracy/maths provision – further details awaited from government.
+ESAP, GMCA, DfE, HMT, DWP/JCP Local skills & employment support providers, VCSE sector
+Greater Manchester Local Skills Report and Labour Market Plan (March 2022)
+39
+[Page #39]
+Develop AEB commissioning strategy for 2023/24 onwards, with particular consideration given to: • stronger links between AEB funded provision and pathways into/within GM’s priority sectors • a more place-based approach, recognising different needs across districts, with reference to
+GMCA ESAP All providers Local Authorities Employers
+Autumn 2022
+Growth Locations focus on outcomes and progression improved analysis of learner journeys.
+• •
+Developing, evaluating and, where appropriate, scaling up targeted test & learn activity, including:
+ESAP GMCA DWP/JCP LAs All providers
+Ongoing IWPS – from January 2022
+• Work with DWP and Tameside Borough Council to deliver the Tameside In Work
+Progression Service pilot
+• Targeted support for the over-50s – including launch of age-friendly employer toolkit • Removing Barriers to Apprenticeship pilots – including scaling up supported
+Launch toolkit: Spring 2022
+apprenticeships model for people with special educational needs and/or disabilities (SEND) based on successful Salford Supported Apprenticeships project
+Supported Apps: Spring 2022
+GM Works: As set out in the Mayor’s manifesto, we will develop a ‘one stop’ platform for residents to access information and advice on the range of services and provision available to help them move into work, progress in their careers, undertake training and upskill, and move into or progress in self-employment. This will pull together all of the activity outlined above, plus services commissioned/ delivered by partners in GM, and will build/develop existing tools to incorporate access to personal coaching, an interactive skills builder and job matching.
+GMCA ESAP (and members’ wider networks)
+Development: spring/summer 2022. Testing phase: late 2022. Launch: spring/ summer 2023
+Employers have access to a system that is flexible, resilient and adaptable, and which meets their needs in the rapidly changing 21st century world of work, driving a sustainable economic future for GM in which companies compete on the basis of high productivity, good quality work, and excellent employment practices Subject to confirmation of funding by DfE, expand Bootcamps provision at levels 3-5, funded via the National Skills Fund, to provide intensive training to address employers’ hard-to fill/skills shortage vacancies in priority sectors and support residents with the technical skills needed for roles:
+In-principle approach considered by ESAP in Jan
+DfE GMCA/ESAP Providers Employers
+Greater Manchester Local Skills Report and Labour Market Plan (March 2022)
+40
+[Page #40]
+2022 and GMCA in Feb 2022.
+• Commission new bootcamp projects across GM’s frontier sectors (including Digital & Creative, Advanced Materials/Manufacturing, Green Economy, Life Sciences), supporting 2,500 people into live job vacancies
+Develop specifications/ launch commissioning in early Spring 2022 for delivery from May/June onwards
+• Explore the potential of the bootcamp model to support foundation economy sectors with
+labour shortages such as health & social care and hospitality
+• Building upon the recommendations of the Inequalities Commission, we will target groups of
+residents underrepresented in key sectors and facing disadvantage in the labour market, learning from successes in overcoming barriers in bespoke, targeted projects within GM’s Fast Track Digital Workforce Fund pilot.
+Continue implementation of GM’s £42m ESF Skills for Growth programme, supporting up-skilling and progression for 25,000 residents, and support for 3,000 SMEs to September 2023:
+GMCA Skills Observatory Employers/ERBs Providers
+SME Support: from Oct 2021
+• Ongoing delivery of SME Support (launched October 2021) • Ongoing delivery of provision commissioned to date: Retrofit, Digital (Reskill/Upskill), Digital (Skills for Growth & Productivity), Health & Social Care, Manufacturing (Lean Manufacturing & Management), Manufacturing (Digitalisation), Construction, Hospitality. • Commissioning and launch of new skills provision across Allied Health Professions, Life
+From June 2021
+Sciences, Logistics, and Cross-sector professional skills (Sales, Marketing & Business Development).
+Jan-March 2022
+• Complete remaining industry intelligence reports to build the evidence base and work with industry, employers and providers to implement individual action plans for each sector: Green Economy, Advanced Manufacturing, Finance, Business & Professional Services, FinTech, Rail, Retail, Culture/Creative, Education, Digital (Public Sector Digitalisation).
+Complete all reports and associated commissioning by Summer 2022
+Work with GM LEP to explore opportunities to champion improved carbon literacy and carbon management within businesses (especially SMEs) across the GM economy, with the expansion/embedding of green skills and low carbon business practices
+GM LEP Employers/ERBs
+Spring/Summer 2022
+Greater Manchester Local Skills Report and Labour Market Plan (March 2022)
+41
+[Page #41]
+Work with Greater Manchester Institute of Technology partners to ahead of launch, including engagement across wider system to ensure pipeline and clear pathways into IoT provision
+GMIoT partnership, led by University of Salford (HE / FE / industry) Employers GMCA Public sector employers GMCA
+Ongoing ahead of formal launch in Sept 2023
+Continue to support collective approach to/commissioning of Apprenticeships provision within GM public service employers via Public Sector Apprenticeships network
+Ongoing
+Continue implementation of GM’s £42m ESF Skills for Growth programme, supporting up-skilling and progression for 25,000 residents, and support for 3,000 SMEs to September 2023:
+GMCA Skills Observatory Employers/ERBs Providers Growth Location partners/LAs
+SME Support: from Oct 2021
+• Ongoing delivery of SME Support (launched October 2021) • Ongoing delivery of provision commissioned to date: Retrofit, Digital (Reskill/Upskill), Digital (Skills for Growth & Productivity), Health & Social Care, Manufacturing (Lean Manufacturing & Management), Manufacturing (Digitalisation), Construction, Hospitality. • Commissioning and launch of new skills provision across Allied Health Professions, Life
+From June 2021
+Sciences, Logistics, and Cross-sector professional skills (Sales, Marketing & Business Development).
+• Complete remaining industry intelligence reports to complete the evidence base and work with industry, employers and providers to implement individual action plans for each sector: Green Economy, Advanced Manufacturing, Finance, Business & Professional Services, FinTech, Rail, Retail, Culture/Creative, Education, Digital (Public Sector Digitalisation).
+Jan-March 2022
+Ongoing Jan-March 2022
+Greater Manchester Local Skills Report and Labour Market Plan (March 2022)
+42
+[Page #42]
+Residents are supported by a welfare system, under Universal Credit, that provides access to good work for those who can, support for those who could, and care for those who can’t.
+Work with JCP to align locally funded skills provision (including AEB, Sector-based Work Academies, bootcamps) with GM Working Well suite of programmes to support jobseekers into roles within priority sectors, including social care, hospitality, logistics.
+GMCA JCP Skills providers
+Ongoing
+Continue to develop the Elemental social prescribing platform linked to the GM Working Well suite to test innovative approaches to referring residents to a wide menu of integrated support and services, including skills and employability interventions, in order to tackle the link between poor health, low skills and worklessness. Work with partners delivering UK Community Renewal Fund and Levelling Up Fund projects in 2022 to ensure successful delivery and integration into existing GM/district labour market support landscape.
+GMCA GMHSCP JCP Ingeus ESAP/GMCA Providers DLUHC
+Ongoing
+CRF: to June 2022 LUF: ongoing
+Greater Manchester Local Skills Report and Labour Market Plan (March 2022)
+43
+[Page #43]
+6 Assessment of Progress
+6.1
+Taking a local leadership role
+ESAP has focused on providing leadership, both in setting the direction of travel for
+future activity over which Greater Manchester has direct control and in providing system
+stewardship to ensure national policy operates effectively in the local context. This will
+be increasingly important moving forward, in order to ensure that the increasing volume
+of national policies, interventions and commissioned programmes are implemented in
+ways that genuinely meet local needs and integrate within the existing landscape,
+avoiding duplication, displacement and unhelpful competition.
+As is reflected throughout this report, ESAP has been developing its role as the primary
+labour market forum in Greater Manchester, bringing together networks of core
+stakeholders to consider skills and work priorities and contribute real-time intelligence,
+to provide challenge, and to shape the way in which the skills and employment
+ecosystem in Greater Manchester responds to new and existing challenges.
+That will continue as we take forward the actions outlined in this report in the context of
+the Skills for Jobs and the associated funding and accountability reforms and Skills Bill,
+and the Levelling Up White Paper. We will work with central government to develop and
+implement new measures in ways that best deliver our shared ambitions. And we will
+work with local partners, providers and stakeholders – including businesses, sector
+networks and ERBs – to integrate any new activity into the GM landscape, aligning
+existing approaches, policies, programmes and investment effectively, and making
+those vital connections between residents, employers and providers.
+6.2 Enhancing local knowledge
+We have seen a step-change in Greater Manchester in the way that we are gathering
+and using intelligence about current and future skills needs. We have stronger links
+than ever before with industry and a broader range of qualitative and quantitative
+analysis at our disposal through the GM Skills Observatory partnership, which shares,
+corroborates and sense-checks the rich array of data and research from across the
+Greater Manchester Local Skills Report and Labour Market Plan (March 2022)
+44
+[Page #44]
+partner organisations, and regularly presents its findings and outputs to ESAP in order
+to help shape the Panel’s thinking.
+As we look ahead to the roll-out of Local Skills Improvement Plans following evaluation
+of the trailblazer, we can do so with the confidence of knowing that the foundations of
+the employer-driven, evidence based approach that is at the heart of the LSIP policy
+intent is already well-established.
+In order to develop this function and enhance our understanding still further, local
+discussions are underway about how ESAP and its networks will bring together ever-
+more granular evidence/intelligence, built from the ground up across Greater
+Manchester’s districts and with much deeper reach into Greater Manchester’s 100,000+
+business base. In particular, we need to improve our understanding of what more needs
+to be done to link the increasing numbers of unemployed and economically inactive
+residents with the record levels of job vacancies. We also need to improve the range
+and coherence of activity on the demand side, supporting businesses in contributing to
+every part of the talent pipeline, from articulating and sharing intelligence around their
+current skills needs, to the opportunities they can offer beyond the ‘business of doing
+business’.
+6.3 Covid recovery and renewal plans
+Over the last year, the Panel has maintained the balance described in the first LSR
+between, on the one hand, supporting individuals, employers and sectors directly
+impacted by the pandemic and, on the other, continuing to address existing labour
+market inequalities. ESAP shaped the skills and employment elements of GM’s
+economic resilience plan and continues to focus on building a fairer, greener and more
+resilient labour market for the future.
+With the recognition that Covid is something that we must learn to live with – as
+individuals, communities, businesses and policy-makers – comes the recognition that
+resilience requires sustainable approaches to driving change, rather than short-term
+initiatives that result in cliff-edges as funding and programmes fall away. This is why the
+Panel’s focus moving forward will be on embedding activity that will support the creation
+Greater Manchester Local Skills Report and Labour Market Plan (March 2022)
+45
+[Page #45]
+of good jobs and a skills system to match, and tackling some of those inequalities that
+made the difference between the pandemic having a catastrophic impact rather than a
+challenging one for so many.
+The value of timely intelligence available locally through ESAP members’ respective
+networks has come to the fore during the pandemic and will continue to be a key
+element of that sustainable, integrated approach to renewal and inclusive growth.
+6.4
+Impact on local skills and employment support provision
+In partnership with providers, we are beginning to tackle some long standing gaps and
+mismatches in skills supply and demand through:
+• major programmes of skills commissioning, incorporating new elements of
+devolved AEB (including the new national and GM Level 3 offer), and launching
+a series of sector-focused skills and capacity-building programmes under the
+£40m ESF Skills for Growth Programme
+• using the flexibilities of devolved AEB funding policy in partnership with Local
+Authorities to tackle barriers to participation in essential skills provision,
+including accessing the new digital skills entitlement and scaling up the
+successful ESOL Support Service which has streamlined the initial assessment
+approach for ESOL and reduced waiting lists for learners
+•
+testing scalable pilot approaches to meeting skills and employment needs
+tailored to particular cohorts or occupational areas, such as the bootcamp model
+that has been rolled out nationally following successful pilots in Greater
+Manchester and other locations
+• continuing to build stronger links between the words of education and
+employment through Greater Manchester’s Enterprise Adviser Network, which is
+approaching full coverage of all eligible schools and colleges in Greater
+Manchester, expanding th GM Careers Hub to deliver full coverage across the
+city-region, and in populating GMACS with the most up-to-date labour market
+information coming out of the industry intelligence work
+Greater Manchester Local Skills Report and Labour Market Plan (March 2022)
+46
+[Page #46]
+• aligning skills and employment support in collaboration with JCP and GM
+Working Well delivery partners, including extension of the devolved Job Entry
+Targeted Support (JETS) programme, implementation of Restart support for the
+long-term unemployed, stewardship of the Kickstart programme through a local
+stakeholder board, and delivering a programme of AEB-funded training to
+support Working Well clients into vacancies in the social care sector.
+One of the areas that we were unable to progress as intended has been the
+establishment of more robust ‘steady state’ baseline data to inform the next tranche of
+AEB commissioning, due to the continued disruption arising from the pandemic. With a
+view to developing the AEB commissioning strategy for 2023/24 and beyond, this will
+be one of the areas for focus moving forwards, in particular establishing better baseline
+information about the community learning aspects of AEB provision to ensure that from
+the earliest stages on a learning journey, the skills, knowledge and attributes being
+developed set up those clear lines of sight and progression pathways into the
+occupations and sectors that have been identified as having inclusive growth potential.
+In parallel we will work with providers, in particular Greater Manchester’s FE institutions,
+to ensure that they have the tools they need, in the context of FE reforms, to realise
+their full potential as anchor institutions in each place.
+Whilst some of our activity is intangible – the influencing, nudging and behavioural
+change that are the engine room this kind of long-term journey of change, the impact is
+already making a clear difference to tens of thousands of our residents and businesses.
+Some non-exhaustive examples of impact to date are highlighted below, linked to
+Greater Manchester’s four core education, skills and work ambitions:
+Greater Manchester Local Skills Report and Labour Market Plan (March 2022)
+47
+[Page #47]
+Careers & Enterprise: GM Careers Hub extended to deliver full coverage with Careers Leaders across GM, together with 190 Enterprise Advisers matched to almost every school and college across GM, with all school/college Careers Leaders receiving regular CPD alongside support from their Enterprise Coordinator and Enterprise Adviser Wellbeing and Life Readiness: 40,000 secondary school pupils across GM took part in the #BeeWell survey in autumn 2021, co-designed by young people and building on GM’s previous year 10 Life Readiness surveys Gatsby Benchmarks: 34 schools/colleges are fully implementing all eight Benchmarks and nearly a quarter are fully implementing seven Benchmarks
+Young people leave education and training ready to succeed in the labour market, with a balance of academic, technical and ‘life ready’ skills
+GMACS: Over 100,000 student users of GMACS
+Meet Your Future: campaign reached just under 50,000 young people in 2020/2021, with more opportunities to engage planned in 2022
+Pledge 5: Over 300 employer pledges received for opportunities (eg workplace experiences, apprenticeships, mentoring and traineeships) for c.1,500 young people as part of a Mayoral initiative to engage new GM employers in supporting the talent pipeline
+NEET: £10m ESF NEET and Youth Employment programme commissioned to support 6,000 young people and young adults (15-24yrs) not in education, employment or training
+Young Person’s Guarantee: System engagement across GM’s public sector, VCSE sector and corporate partnerships, to join up services/offers and deliver against the YPG priorities identified by young people themselves. Adult Education Budget: Funded almost a quarter of a million adult skills courses for 100,000 residents during the first two years of the devolved Adult Education Budget (c.£96 million/pa).
+Adults can acquire the skills, mindset and support they need to fulfil their career potential and adapt to changing employer needs
+Level 3 Lifetime Skills Guarantee: rolled out the new L3 entitlement, supplemented with a GM qualifications list to extend the entitlement to occupational areas in GM not covered by the national offer
+Tackling Barriers: provided targeted funding to support access to AEB provision including a £1.5m Local Authority grants programme to tackle digital exclusion and barriers to accessing AEB and ESOL courses
+Greater Manchester Local Skills Report and Labour Market Plan (March 2022)
+48
+[Page #48]
+ESOL Advice Service: worked with Local Authorities to scale up Manchester City Council’s ESOL Advice Service model, which has improved the assessment, referral and enrolment process for residents waiting for English language provision and shortened waiting lists Retraining and Upskilling: Supported over 1,200 residents to date through Bootcamp pilots, with more in development, as well as supporting low-income self-employed people and individuals working in the gig economy to upskill through EnterprisingYou Covid-19 responsiveness: Introduced flexibilities to respond to changing needs during the pandemic and to fill gaps in national support
+throughout their lives, from entering employment for the first time through to highly skilled careers and retraining
+Older Apprentices: 160 over 50s were surveyed to understand their views of undertaking an apprenticeship to further their career or re-train to help develop our skills offer for older workers
+Skills for Growth SME Support: £7m programme has supported over 1,000 businesses and 1,300 individuals to Jan 2022
+Employers have access to a system that is flexible, resilient and adaptable, and which meets their needs in the rapidly changing 21st century world of work, driving a sustainable economic future for GM in which companies compete on the basis of high productivity, good quality work, and excellent employment practices
+Sector-focused skills provision: Seven specialist skills programmes with total value of £12.5m in place at Jan 2022, delivering higher level modular programmes for upskilling workers across priority sectors, with further specifications in development GM Apprenticeship Levy Matchmaking Service: 500 new apprenticeship starts funded by levy transfers within GM since service launch in in August 2019, with a total value of £5m
+Removing Barriers to Apprenticeships: 7 small-scale pilot projects funded to tackle and better understand under-representation in our apprentice population. 99 learners engaged across the 7 projects
+Technical skills pipeline: By September 2022, all GM FE colleges will be delivering T levels, across four sectors. All nine FE colleges and three sixth form colleges have worked with Gatsby to prepare for roll-out, with five ‘community of practice’ networks established for subject specialists to share best practice
+GM Public Sector Network: Continued collaboration / collective commissioning of apprenticeship provision across GM’s LAs, blue-light services and health & social care employers
+Work & Health Programme: Supported 19,200 residents to date through the devolved Working Well (Work & Health Programme), of whom more than 7,500 have entered work
+Residents are supported by a welfare system,
+Greater Manchester Local Skills Report and Labour Market Plan (March 2022)
+49
+[Page #49]
+Job Entry Targeted Support: £19.5m programme to support 20,000 newly/recently unemployed. Supported >10,000 residents, achieving 125% of the referral target and more than 200% of the job outcome target
+under Universal Credit, that provides access to good work for those who can, support for those who could, and care for those who can’t
+Elemental: Launched social prescribing platform, enabling referral to a menu of integrated support & services to WW clients in GM
+WW Early Help: £6.5m programme testing early intervention system; supported 3,000 residents who were newly unemployed or at risk of becoming so due to adverse health conditions
+Specialist Employment Support: Launched £4m three-year service that will support 1,200 people with complex health needs and disabilities
+Greater Manchester Local Skills Report and Labour Market Plan (March 2022)
+50
+[Page #50]
+7 Positive Impact Stories
+Case Study: Greater Manchester ESF Skills for Growth –
+boosting skills, reducing carbon
+Greater Manchester’s £42million ESF Skills for Growth programme will provide sector-
+focused upskilling and support in-work progression for 25,000 individuals and 3,000
+businesses over the three years to September 2023. Since the programme was
+launched in autumn 2020, over 1,000 SMEs have already benefited from the SME
+Support element, and commissions have been awarded for skills programmes in
+Retrofit, Digital Careers Upskilling, Digital Skills for Growth & Productivity, Construction,
+Health & Social Care, and Lean Manufacturing & Management.
+The first of these industry-driven programmes to go live was the Retrofit Skills Hub, a
+£1.1m programme launched in June 2021 to upskill 1,140 individuals, not only in
+relevant technical skills but working with business leaders and building provider
+capacity. The programme is being delivered by the North West Skills Academy’s Low
+Carbon Academy, along with partners The Retrofit Academy, The Manchester College,
+Oldham College and Fabric.
+rof
+Safeil Maqbool - Managing Director, Grayson Building Services Ltd
+As a quantity surveyor by trade with 10 years’ experience within the construction
+industry and already qualified as a Retrofit Coordinator, Safeil was keen to give his
+team the opportunity to upskill and transfer existing skills into a NVQ within the suite of
+Insulation qualifications, and has several members of his team in training to date.
+“As the business owner I thought it was key for me to fully understand every element of
+the qualifications and the concept to ensure that, firstly, the qualifications were fit for
+purpose, and to support all my installers in my business. By doing this I have been able
+Greater Manchester Local Skills Report and Labour Market Plan (March 2022)
+51
+[Page #51]
+to ensure we are, and will be, PAS2035 compliant and that as a business the team has
+a ‘fabric first’ approach.
+“The process has been simple from talking initially with Stephanie in the recruitment
+team to being on programme and working with Tutor/Assessor Phil. Phil has been great
+with myself and my team - he has been on hand to support throughout, delivering 1-1
+sessions, building our knowledge and understanding and coming out to sites.”
+Michael Wilson - Insulation Manager, Next Energy
+Next Energy, a domestic heating and insulation company, work on sites across the ten
+boroughs of Greater Manchester. They are already PAS 2035 compliant but Michael
+wanted to futureproof the business by ensuring that the whole insulation workforce has
+the skills and qualifications required to maintain compliance when specialist staff were
+not available.
+Next Energy originally signed up two members of staff, but after they successfully
+completed their Insulation qualification, Michael signed up four more members of the
+team, recognising that, not only will he have a fully trained and qualified workforce, but
+retention will improve as the investment in their development shows team members that
+they are valued.
+Samuel Riley – CEO, Low Carbon Academy
+The Low Carbon Academy is supporting progression/up-skilling within the sector by
+delivering both full qualifications as part of the Skills for Growth Programme and
+intensive, short intensive training through Retrofit bootcamps.
+As well as CEO of the Low Carbon Academy, Sam is a member of the Mayor of Greater
+Manchester’s Retrofit Taskforce and vice-chair of its Retrofit Skills sub-group, launched
+in May 2021 to bring together industry, infrastructure and education/skills specialists to
+look at how infrastructure improvements can take place on a mass scale, while
+identifying opportunities to boost new skills, create good jobs, and drive investment in
+low-carbon industries.
+“Greater Manchester is making real progress to tackle the skills shortage in
+Construction and Retrofit. The retrofit bootcamps welcome new entrants into the sector
+Greater Manchester Local Skills Report and Labour Market Plan (March 2022)
+52
+[Page #52]
+whilst the ESF Skills for Growth Retrofit and Construction programme focusses on
+upskilling the workforce to higher levels.
+“Alongside these commissions, the Retrofit Taskforce are working hard in a sub group
+to connect private providers, colleges and universities so we can provide a full end-to-
+end solution for GM employers and residents. I am proud to be leading on behalf of
+private retrofit training providers and, together, I believe we can support GM in
+achieving net zero by 2038.”
+Case Study: Working with employers to develop
+Occupational Traineeships
+The UK’s Fashion and Textile industry has flourished in the past five years and
+forecasts predict continued growth and a positive long-term outlook for fashion and
+textile manufacturing in line with the rise of the ‘Made in Britain’ marque. Greater
+Manchester’s Manufacturing industry is one of our priority frontier sectors, with a
+number of niche strengths, including textiles manufacturing.
+However, this resurgence is threatened by an unprecedented skills crisis in the industry.
+Discussions with employers have highlighted challenges around recruiting staff and
+developing talent pipelines in this industry, and DfE were keen to develop pilots for
+occupational traineeships where there are hard to fill vacancies for apprenticeships and
+other roles. In addition, whilst there are new Apprenticeship standards and pathways at
+Levels 2,3 and 4, they are not currently being delivered by Greater Manchester colleges
+or providers, and a gap was identified at entry level to support talent into the sector.
+Following discussions with DfE, and in light of the gaps highlighted in the GM Skills for
+Growth industry intelligence report on Manufacturing skills, GMCA approached UKFT
+(the Sector Skills Body for the UK fashion & textile industry) to explore an occupational
+traineeship pilot. Partners across Greater Manchester and Lancashire, including Salford
+City College, have worked together to develop a UKFT-accredited Occupational
+Traineeship to encourage young people into the industry.
+Greater Manchester Local Skills Report and Labour Market Plan (March 2022)
+53
+[Page #53]
+Initially, 20 of these fully funded occupational traineeships will be available in Spring
+2022 with employers across Greater Manchester and Lancashire for candidates aged
+16 to 24 years. They will complete a six-week course which includes a minimum of 70-
+hours work experience, a Level 1 qualification covering the basics in sewing or textiles
+manufacturing, and a job or apprenticeship interview.
+Case Study: Skills Bootcamps - Fast Track Digital Workforce
+Skills Bootcamps provide intensive training courses lasting up to 16 weeks, giving
+people the opportunity to build up sector-specific skills and fast track to an interview
+with a local employer with vacancies and skills gaps. The key objectives are to support
+adults to retrain and help employers to fill current skills shortage vacancies. According
+to Manchester Digital's 2022 Digital Skills Audit, 54% of businesses in the digital
+industry were unable to fill vacancies in the last year and 59% of businesses said they
+couldn’t find candidates with the desired skills, knowledge or behaviour. However,
+businesses that recruited from bootcamps or reskilling courses say the skill level,
+knowledge and behaviours either met or exceeded expectations.
+In Greater Manchester we have been delivering bootcamps since 2019 through the
+Fast Track Digital Workforce Fund, initially working with DCMS and Lancashire
+Digital Skills Partnership, and then with DfE, to test digital skills bootcamps. This multi-
+year £5.9m pilot which has benefited 1,200 learners to date, the success of which has
+led to further opportunities to work with Government to develop local approaches to
+retraining in the region. These pilot projects have involved close collaboration between
+employers and training providers to co-design and co-deliver courses that best meet
+employers’ skills needs, and we have also encouraged projects that focus on under-
+represented cohorts and those experiencing disadvantage/labour market inequalities,
+an approach which has seen real successes, including.
+• Skills City – Based at HOST at MediaCityUK, Skills City aims to break down
+barriers faced by those from underrepresented and disadvantaged backgrounds
+by fast tracking them into careers in technology. Delivering bootcamps in the
+Greater Manchester Local Skills Report and Labour Market Plan (March 2022)
+54
+[Page #54]
+most in-demand industry skills including Cloud, Cyber Security and Data
+Analytics
+• Sharp Futures – Based at the Sharp Project in Manchester, Sharp Futures is a
+social enterprise that supports diverse talent into the creative & digital sector in
+partnership with the likes of BBC & ITV. Through the pilot they ran short courses
+in production management and content creation helping young people get into
+the creative industry.
+• Tech Returners – Tech Returners remove the barriers faced by returners faced
+by career breaks and empower skilled people back into technology careers in
+partnership with the likes of Autotrader and AO. Through the pilot they ran
+software related programmes helping people to return to a tech career and
+upskill into a better role.
+Greater Manchester Local Skills Report and Labour Market Plan (March 2022)
+55
+[Page #55]
+Case study: Aligning devolved skills and employment
+support to fill social care vacancies: Northern Care Alliance
+The health and social care sector is one of the cornerstones of our foundation
+economy, accounting for almost 13% of Greater Manchester’s labour market. The vital
+role of social care in particular has never been more apparent, with job vacancies for
+these key worker roles remaining high throughout the pandemic. With a combination of
+skills gaps and labour shortages more generally, it is one of the occupational areas
+experiencing most pressing shortages of suitably skilled and experienced workers.
+Greater Manchester’s unique range of devolved functions across skills, work and
+health, and the strong relationship between GMCA and the GM Health & Social Care
+Partnership, have enabled alignment our devolved adult education provision and
+employment support through GM Working Well (Work & Health Programme) to address
+gaps in the social care workforce.
+Leaders of the Northern Care Alliance (an NHS Foundation Trust created by bringing
+together Salford Royal NHS Foundation Trust and The Pennine Acute Hospitals NHS
+Trust), identified a need for additional support with the recruitment and retention of
+social care workers, particularly those delivering home care services.
+Through a partnership between Northern Care Alliance, Salford Employ, Greater
+Manchester Mental Health, Salford Adult Social Care, the CCG and The Growth
+Company a package has been developed aimed at unemployed and low-income in-
+work claimants interested in pursuing a career in Health and Social Care. That package
+encompasses fully funded, accredited training, work experience to help boost
+confidence and apply that new learning in practice, and occupationally specific ESOL
+provision for individuals who need additional support to communicate in a care
+setting/context. It also includes flexible recruitment practices such as two day working
+interviews to ensure a good match for both employer and candidate.
+Following an initial pilot phase, the intention is to scale up the approach in 2022,
+working with additional providers and referral/recruitment pathways, and testing
+different routes/delivery models.
+Greater Manchester Local Skills Report and Labour Market Plan (March 2022)
+56
+[Page #56]
+Case study: Upskilling in self-employment: EnterprisingYou
+EnterprisingYou (EY) is a pilot programme designed to test ways to support business
+growth and individual progression/upskilling for low-income self-employed individuals in
+Greater Manchester, including those who work in the gig economy and small business
+owners. These patterns of self-employment and freelance/gig working are particularly
+prevalent in some of Greater Manchester’s priority sectors with in-demand skills,
+including Digital/Creative and Construction, yet these individuals struggle to access the
+kind of skills support and CPD activity open to employed workers.
+To date, it has supported 1,350 low-income self-employed residents and gig economy
+workers through the £8m pilot, which is the only programme of its kind in England
+supporting workers in the gig economy. Two-thirds of participants reported increased
+business turnover, 54% increased business profitability, 59% improved business
+stability and longevity, and 71% report having improved skills needed to run their
+business.
+John Consterdine, founder of Manchester Taxi Tours, launched his business in
+2011 providing bespoke guided, award-winning tours of the city, including music, sport
+and Coronation Street themed tours. Manchester’s only taxi driver with a tour guide
+Green Badge and with over 30 years' experience, John was advised to get in touch with
+EY when the Covid-19 pandemic meant that he was unable to operate tours and the
+business began to struggle.
+Within two days of applying
+to the programme, John
+had a business coach, a
+health and wellbeing
+mentor and a financial
+mentor. As well as support
+from his business coach,
+John was also able to
+access some of the training
+courses on offer through EY
+to help adapt his business model. John has since implemented changes to the business
+Greater Manchester Local Skills Report and Labour Market Plan (March 2022)
+57
+[Page #57]
+and improvements to his website following a digital marketing course, and has learned
+how to use social media to promote his tours.
+John said: “I've been able to bounce ideas off a specialised business coach and explore
+ways to innovate my business. EnterprisingYou have given me a whole network of
+experts to discuss my business with and come up with new approaches and solutions
+to problems.”
+Case Study: Older workers – Greater Manchester’s Age-
+Friendly Employer Toolkit
+Greater Manchester is the first UK city-region to launch a toolkit designed to help and
+inform employers on the positive impact an age-friendly workplace can bring.
+The success of our economy is increasingly tied to its older workers as our population
+continues to age. Enabling more people to
+be in fulfilling work for longer is therefore a
+win-win for everyone. It helps employers
+retain skilled and experienced workers, it
+benefits individuals who want to stay in
+work for longer, and it supports the
+economic health and prosperity of Greater
+Manchester.
+Research shows that older workers are
+likely to be a key contributor in boosting
+an organisation’s performance as a result
+of their lower job turnover, greater
+management experience and longer
+general work experience. Analysis of
+international data also showed that having
+a worker over 50 in a team is associated
+with increased productivity of co-workers around them, particularly younger colleagues.
+Greater Manchester Local Skills Report and Labour Market Plan (March 2022)
+58
+[Page #58]
+Yet older workers have been disproportionately impacted by the pandemic, are more
+likely than other workers to experience longer periods of unemployment, or even fall
+into economic inactivity, and are less well-served by the standard employment support
+offer. GM’s ESAP identified this as a particular area of concern in Greater Manchester
+and, through the partnership between GMCA and the Centre for Ageing Better (CfAB),
+an employer toolkit has been developed, setting out a number of impactful yet easy-to-
+implement ideas that will help businesses reap the benefits of a thriving and age-
+diverse workforce, and signposts to further information.
+The toolkit is built around five principles that have been established by CfAB as
+supporting policy and practice in age-friendly employment:
+• be flexible about working flexibly
+• hire age-positively
+• ensure everyone has the health support they need
+• encourage career development at all ages
+• create an age-positive culture.
+The toolkit contains a range of employer case studies, such as home care provider
+Home Instead’s ‘UnRetire Yourself’ campaign, prompted by a survey which revealed
+that one in four retirees felt they had given up their career too soon, Manchester City
+Council’s flexible working and career development practices which saw almost a
+quarter of the Council’s apprentice cohort in 2018/19 being over 50 years of age, and
+Electricity North West’s financial wellbeing support and retirement planning within the
+employee assistance programme available to their workforce, a third of whom are over
+50.
+Greater Manchester Local Skills Report and Labour Market Plan (March 2022)
+59
+[Page #59]
+8 Looking Forward
+Whilst the immediate crisis of the Covid-19 pandemic has passed, we continue to face
+uncertainties in the labour market and changes in the world of work. Many of these are
+external factors (though not unique to Greater Manchester) which will inevitably have an
+impact on the success of our skills strategy in the short term and the shape of medium-
+and longer-term planning:
+• Ongoing extent of ‘scarring’ for businesses and sectors from Covid, Brexit and
+wider economic influences – changes to the workforce including redundancies,
+need for retraining/upskilling of existing workers, reduced employer investment in
+training & development, changing business models, levels of indebtedness,
+pauses in trading, delayed or cancelled investment, ongoing disruption and
+absences, extended low levels of demand, business closures
+• Degree of ‘scarring’ for individuals - life chances, unemployment rate and
+duration, increases in rates of economic inactivity, health impacts, and appetite
+to engage with the skills and employment interventions – and the jobs – that are
+available
+• Severity and duration of disruptions to international trade, with the associated
+knock-on impact to supply chains in terms of workforce/skills supply and demand
+• Extent of business model change (digitalisation, flexible working, reduction in
+person-person services)
+• Return of confidence: consumer, business, investor (timing and strength)
+• Geography of impacts and labour market interdependencies (e.g. the impact on
+city centres and towns)
+• Central policy response and constraints – fiscal and monetary environment
+• Extent to which health / public health interventions successful embed our ability
+to live with Covid.
+One of the themes running through this report is that skills alone will not mitigate these
+factors. Skills interventions and – if our strategy is successful – skills improvements
+must go hand-in-hand with employer investment in both the current workforce and the
+60
+[Page #60]
+talent pipeline. Employment support must go hand-in-hand with shifts in business
+processes, employment practices and job quality. Local responsiveness must go hand-
+in-hand with the flexibilities, trust and resources from central government that will
+empower local solutions to local challenges, designed with and for the people,
+employers and places they are intended to serve. This is, after all, the core principal of
+the Levelling Up White Paper.
+If we are to improve the agility, responsiveness and inclusiveness of GM’s talent pool in
+a labour market which has both high numbers of job vacancies and high numbers of
+unemployed and economically inactive residents, we need to look differently at work
+and skills: identifying job roles and subsectors most in demand and those that are
+declining or vulnerable is a good start, as is highlighting ‘skills networks’ of
+competencies that have transferability to other (sometimes apparently unrelated)
+occupations.
+But we also need to better understand at a granular level why people and jobs do not
+currently align, and develop/commission integrated support that links people to jobs.
+The importance of lifelong learning and retraining has already come to the fore as
+individuals explore and pursue multiple careers during their working lives. Flexible,
+bespoke training might come to replace lengthy qualifications in some jobs and
+occupational pathways, whilst the formal qualification offer will remain appropriate for
+others. What we mean by ‘employability’ is also likely to change, which employers
+looking for different qualities and attributes than they might have in the past.
+Many of the actions set out in this report are part of a long-term journey of change on
+which we will work with government and local partners. As acknowledged previously,
+this is a wide-reaching agenda and no single part of the system – whether national or
+local, public sector or private – can bring about the required changes alone. Equally, no
+stakeholder can sit back and expect change to happen without bringing their own
+expertise, energy and capacity to the table.
+With that in mind, we are starting to have different conversations, both within Greater
+Manchester and with central government, about the ways in which we can make skills
+and employment policies work better on the ground.
+61
+[Page #61]
+We are looking ahead to the roll-out of Local Skills Improvement Plans, and having
+discussions with Employer Representative Bodies within Greater Manchester to
+consider how best we can capture the voice of industry in ways that go beyond the
+current reach and membership of those bodies and ensure a truly representative
+articulation of employers’ skills needs.
+Those conversations must also prompt self-reflection amongst employers about what
+businesses and industries themselves are doing to help fill gaps in their workforce (and,
+in some cases, to diversify it) though innovative recruitment, retention, development
+and employment practices, and to generate the interest and talent that they will rely on
+for future success.
+Through this approach we’ve already been able to work with schools, colleges,
+employers and other partners to bring fresh conversations and ideas to the table,
+meaningfully and at scale, which were absent before. Partnerships across health, skills,
+school readiness, the green agenda, transport, culture, justice and other areas now
+exist where we haven’t had that same traction in the past; work and skills are a
+common thread linking and enabling all of these policy areas.
+We have already seen with the devolved Adult Education Budget that we can do things
+differently when we are given local control. In addition to the pandemic response
+measures, in the first two years of devolution we were able to introduce a range of
+flexibilities which will, over time, will help us to better meet the needs of Greater
+Manchester’s residents and employers, as well as joining up complementary services
+that have previously operated separately from each other and delivering better value for
+money for the public purse. Many of those changes have been reflected in subsequent
+government policy.
+It is important that we take the opportunity presented by the Levelling Up White Paper,
+and the invitation from the government to work with them to explore opportunities for
+‘deeper devolution’ and to tell the ‘Greater Manchester story’, highlighting the earned
+confidence of our track record of delivery to date and the added value of our integrated
+approach, especially where the evidence before us and the issues we face, far from
+Westminster, suggest that there might be a compelling case for doing things differently.
+62
+[Page #62]
+It is apparent throughout this report that Greater Manchester is not going from a
+standing start. Employers are already at the heart of our labour market strategy, and
+our integrated approach to skills and employment provision is driven by the needs of
+our people, our businesses and our place.
+In the meantime, we will continue to work in partnership across Greater
+Manchester to bring cohesion to the system and to use our levers across
+education, skills, work and health to support inclusive growth, positive outcomes
+and improved productivity across our place. We will drive the shift towards a
+system characterised not by its individual parts or where one policy or funding
+stream stops and another kicks in, but by evidence-led approaches and by the
+fairer distribution of opportunities. Together, we will ensure that Greater
+Manchester is a great place to grow up, get on and grow old; a great place to
+invest, do business, to visit and study: a place with good lives for all.
+63
+[Page #63]
+Further Reading
+Greater Manchester: the Strategic Framework
+Greater Manchester’s labour market strategy is set within a strategic framework which
+is driven and defined by:
+• Our People, Our Place – the Greater Manchester Strategy (GMS)7
+• Greater Manchester Local Industrial Strategy (LIS), together with the GM
+Independent Prosperity Review and associated technical reports
+• Greater Manchester’s annual Labour Market and Skills Review dashboards
+• The Next Level: Good Lives for All in Greater Manchester – the report from
+Greater Manchester’s Independent Inequalities Commission
+• Building a Greater Manchester, making a Greater Britain – The Greater
+Manchester Local Enterprise Partnership’s economic vision
+•
+Innovation GM, a business-led innovation ecosystem across the city-region that
+will help level up our communities, generate the solutions we need to achieve net
+zero, and create the conditions for more businesses in more places to benefit
+from global exporting and inward investment
+• Greater Manchester’s Digital Blueprint
+• The Five Year Environment Plan for Greater Manchester
+• The work of the GM Ageing Hub, in partnership with the Centre for Ageing
+Better, including research on unlocking the ‘longevity economy’ for Greater
+Manchester
+• Greater Manchester’s Covid response, including the Greater Manchester Living
+with Covid Resilience Plan
+• Greater Manchester Social Value Framework, 2020 (GMCA, 2020), Social Value
+can make Greater Manchester a better place - Greater Manchester Combined
+Authority (greatermanchester-ca.gov.uk)
+7 At the time of writing, a refreshed Greater Manchester Strategy 2021-2031: Good Lives for All was being finalised for publication following consideration by GMCA at its meeting in December 2021.
+64
+[Page #64]
+• Greater Manchester STEM Framework, (GMCA, 2019), Greater Manchester
+STEM Framework - Greater Manchester Combined Authority
+(greatermanchester-ca.gov.uk)
+• Greater Manchester Work & Skills Strategy and Priorities, (GMCA, 2016),
+https://www.greatermanchester-ca.gov.uk/what-we-do/work-and-skills/
+Ten distinctive places: One unique Greater Manchester
+Each of the ten Greater Manchester districts has its own strategic plans (a number of
+which were in the process of being reviewed and updated at the time of writing):
+• Bury’s Economic Strategy - undergoing refresh in Spring 2022 as part of the
+Let’s Do It Bury 2030 Strategy
+• Bolton’s Economic Strategy to 2030 is the long-term strategy developed by
+Bolton Vision, with an underpinning Skills Strategy and revised Economic
+Regeneration Plan in development
+• Manchester’s Work and Skills Strategy, undergoing refresh in Spring 2022, is
+underpinned by an Adult Education and Skills Plan for 2019-2025
+• Oldham’s Work and Skills Strategy 2016-2020 is being updated, with a new
+Corporate Plan, Business Growth and Investment Strategy, and Work and Skills
+Strategy (with a focus on aligning skills, employment and business support
+services) due for publication in the first quarter of 2022/23
+• Rochdale’s Inclusive Skills, Work and Health Plan 2021-2023 sets out eight
+priorities and what success looks like, recognising the interdependence between
+skills, health and employment
+• Salford’s Employment and Skills Strategy – undergoing refresh in Spring 2022
+• Stockport’s Economic Plan – in development Spring 2022 to support the One
+Stockport Borough Plan
+• Tameside’s Inclusive Growth Strategy, 2021-26 sets out plans for how
+Tameside can be a place where all residents can start well, live well and age well
+65
+[Page #65]
+• Trafford’s Inclusive Economy Recovery Plan sets out ongoing actions pending a
+refresh of the Employment, Enterprise and Skills plan in Spring 2022
+• Wigan’s Employment and Skills Strategy 2020-2030 sets out the borough’s
+long-term plans to help residents makes choices and gain skills that will help
+them contribute to increased local productivity and an inclusive, future-proofed
+economy.
+See accompanying Data Annex document for:
+Sector Overviews
+Annex A – Core indicators
+Annex B1 – Additional Analysis
+Annex B2 – Data Sources / References
+National Policy and Strategy documents:
+A Plan for Jobs (HMT, 2020)
+Build Back Better: Our Plan for Growth, (HMT, 2021)
+Skills for Jobs: Lifelong Learning for Opportunity and Growth, FE Reform White Paper
+(DfE, 2021)
+Levelling Up the United Kingdom White Paper (DLUHC, 2022)
+66

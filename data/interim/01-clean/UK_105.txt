@@ -1,0 +1,250 @@
+[Page #0]
+14/10/2023, 16:17
+New Study Reveals 1 in 10 UK Workers have In-Demand AI Skills - News & Insights — UK & Ireland
+News & Insights — UK & Ireland
+A R T I F I C I A L I N T E L L I G E N C E
+New Study Reveals 1 in 10 UKWorkers have In-Demand AI Skills
+APRIL 20, 2023
+Salesforce, the global leader in CRM, today
+released data revealing that just one in 10
+UK workers feel they have AI skills –
+further evidencing the digital skills crisis
+currently facing the UK. With the rise of
+transformative technologies like
+generative AI, this represents a growing
+concern for UK business.
+Generative AI has the potential to
+fundamentally transform how work gets
+done across all industries and workers
+agree that AI skills are important. Nearly a
+https://www.salesforce.com/uk/news/stories/ai-digital-skills-uk/
+1/9
+[Page #1]
+14/10/2023, 16:17
+New Study Reveals 1 in 10 UK Workers have In-Demand AI Skills - News & Insights — UK & Ireland
+quarter of respondents rank AI skills as
+among the top three most important
+digital skills right now, and believe AI will
+be the most important skill to have over
+the next ﬁve years. Half understand how
+this technology will impact their work and
+job.
+However, 3 in 4 (75%) of UK workers say
+they do not feel ready to operate in a
+digital world. And whilst the same
+percentage report using digital skills in
+their day-to-day, few report skills beyond
+collaboration technology, digital
+administration, and digital project
+management.
+Salesforce’s research points to a lack of
+digital conﬁdence across the UK
+workforce, and the need for business to
+better explain just how accessible digital
+skills can be – especially those related to
+AI.
+Not everyone needsto learn how to codein the generative AIera… It’s aboutshowing peoplewhere exactly, andoen how easily,they can ﬁt into thedigital-ﬁrstworkplace.
+ZAHRA BAHROLOULOUMI, CEO,SALESFORCE UKI
+https://www.salesforce.com/uk/news/stories/ai-digital-skills-uk/
+2/9
+[Page #2]
+14/10/2023, 16:17
+New Study Reveals 1 in 10 UK Workers have In-Demand AI Skills - News & Insights — UK & Ireland
+“UK workers report AI, coding and app
+development as the fastest growing and
+most in-demand digital skills today. But
+not everyone needs to learn how to code
+in the generative AI era,” said Zahra
+Bahrololoumi, CEO, Salesforce UKI. “Like
+all technology, generative AI will need
+deep machine learning experts and
+engineers as much as it will creatives and
+storytellers – people who understand how
+to work alongside AI, building on the
+content it generates. It’s about showing
+people where exactly, and often how
+easily, they can ﬁt into the digital-ﬁrst
+workplace.
+Employees recognise thevalue of AI
+More UK workers are excited about
+generative AI’s use in their workplace
+(49%) than worried about it replacing
+them in their job (38%). This is in line
+with interest from management: almost
+half (46%) of UK people leaders say that
+their company is considering ways to use
+generative AI.
+Workers clearly recognise that the path
+forward requires reskilling, and want to be
+part of it. An emphatic 96% believe
+businesses should prioritise AI skills as
+part of the strategy to develop their
+workforce.
+Without thenecessary skills andknowledge of how to
+https://www.salesforce.com/uk/news/stories/ai-digital-skills-uk/
+3/9
+[Page #3]
+14/10/2023, 16:17
+New Study Reveals 1 in 10 UK Workers have In-Demand AI Skills - News & Insights — UK & Ireland
+use generative AIand integrate thistechnologyeﬀectively andresponsibly,businesses willcontinue to facebarriers to successfulimplementation.
+ZAHRA BAHROLOULOUMI, CEO,SALESFORCE UKI
+“This is a watershed moment for the tech
+industry. Digital transformation remains
+ﬁrmly at the top of the CEO agenda and
+many leaders that I speak to see AI as a
+game changer for their business – a tool to
+better connect with their customers,
+personalise experiences, and operate
+more eﬃciently,” said Bahrololoumi.
+“However, AI is only as good as the data
+that serves it and the people that work
+with it. Without the necessary skills and
+knowledge of how to use generative AI
+and integrate this technology eﬀectively
+and responsibly, businesses will continue
+to face barriers to successful
+implementation.”
+The UK is moving towardsskills-based hiring
+The vast majority (87%) of UK workers
+consider skills-based experience more
+important than a degree when trying to
+land a job in today’s market.
+https://www.salesforce.com/uk/news/stories/ai-digital-skills-uk/
+4/9
+[Page #4]
+14/10/2023, 16:17
+New Study Reveals 1 in 10 UK Workers have In-Demand AI Skills - News & Insights — UK & Ireland
+This reﬂects a shift by companies toward
+skills-based hiring at all levels. Most people
+leaders (82%) surveyed say that skills are
+the most important attribute when
+evaluating candidates. Only 18% believe
+that relevant degrees are the most
+important.
+It’s a transformative approach to
+recruitment that stands to deliver better
+business performance in several areas.
+Over half of people leaders (55%) cite
+talent retention as a key business beneﬁt
+to skills-based hiring. Increased knowledge
+sharing (48%) and workforce diversity
+(42%) also rank highly.
+Additionally, most people leaders believe
+that prioritising employees’ digital skills
+development will have similarly positive
+impacts on business performance –
+including increased productivity (47%),
+team performance (43%), and problem-
+solving capabilities (40%).
+Employees rank digital skills training as the
+second most important workplace beneﬁt,
+over and above pay bonuses and
+wellbeing beneﬁts. How people work, and
+what they value about their jobs, is
+fundamentally changing in the digital-ﬁrst
+era.
+Addressing the UK’swidening digital skills gap
+Salesforce is urging UK business and
+government to work together to establish
+a national online digital skills platform to
+https://www.salesforce.com/uk/news/stories/ai-digital-skills-uk/
+5/9
+[Page #5]
+14/10/2023, 16:17
+New Study Reveals 1 in 10 UK Workers have In-Demand AI Skills - News & Insights — UK & Ireland
+show people where to access the training
+they need.
+The company is providing skills-based
+training modules on Trailhead, Salesforce’s
+free online learning platform.
+Trailhead is available to everyone and can
+take them from a low level of technical
+knowledge into a Salesforce role in as little
+as six months. It is currently helping more
+than ﬁve million people learn in-demand
+skills.
+“As AI, data and automation innovation
+accelerates, so too will the urgency for UK
+businesses to adapt. By taking action to
+close the digital skills gap now we can
+better support the millions of UK workers
+to navigate this new era,” added
+Bahrololoumi.
+Explore further:
+•
+Visit the Salesforce Digital Skills page formore on this topic.
+•
+Learn how Trailhead Coach helps people
+build a skills-based career.
+•
+Learn about Trailhead and the TrailblazerCommunity.
+•
+Deep dive into jobs in the SalesforceEcosystem.
+•
+Get more insights on how Salesforcedevelops and uses AI here.
+Research Methodology
+Salesforce’s Digital Skills Survey was
+conducted by TRUE Global Intelligence in
+https://www.salesforce.com/uk/news/stories/ai-digital-skills-uk/
+6/9
+[Page #6]
+14/10/2023, 16:17
+New Study Reveals 1 in 10 UK Workers have In-Demand AI Skills - News & Insights — UK & Ireland
+partnership with Dynata in February 2023.
+The sample size was 1,007 UK working
+adults and 633 UK people managers. The
+ﬁgures are representative of working adult
+populations (ages 18+).
+Share
+Tags
+ARTIFICIAL INTELLIGENCE
+MODERN WORK
+SNAPSHOTS
+Related
+MODERN WORK
+DIGITAL TRANSFORMATION
+Salesforce Survey FindsDigital Skills Ranked #1Workplace Skill in UK, butthe Next Generation Isn’tConvinced
+Nine in 10 U.K. Workers MustLearn New Digital Skills by2030, According to NewSalesforce and IDCResearch
+NOV 30, 2022
+JUL 07, 2021
+https://www.salesforce.com/uk/news/stories/ai-digital-skills-uk/
+7/9
+[Page #7]
+14/10/2023, 16:17
+New Study Reveals 1 in 10 UK Workers have In-Demand AI Skills - News & Insights — UK & Ireland
+MODERN WORK
+ARTIFICIAL INTELLIGENCE
+Salesforce Gives $5M toCreate More CareerOpportunities in Tech
+Salesforce Execs Weigh In:What Is Generative AI?
+MAR 31, 2023
+DEC 08, 2022
+Get the latest Salesforce news
+Sign up to get news alerts, behind-the-scenes insights, and research from
+Salesforce News & Insights
+Email Address
+you@example.com
+Subscribe
+News
+Stories
+Press Releases
+Follow us
+https://www.salesforce.com/uk/news/stories/ai-digital-skills-uk/
+8/9
+[Page #8]
+14/10/2023, 16:17
+New Study Reveals 1 in 10 UK Workers have In-Demand AI Skills - News & Insights — UK & Ireland
+WORLDWIDE
+© Copyright 2023 Salesforce, Inc. All rights reserved. Various trademarks held by their respective owners.
+salesforce UK Limited, village 9, ﬂoor 26 Salesforce Tower, 110 Bishopsgate, London, UK, EC2N 4AY. General Enquiries:
+0800 0921223 | Fax: +44 870 351 5473 | Sales: 00800 7253 3333
+Legal
+Terms of Service
+Privacy
+Responsible Disclosure
+Contact Us
+Modern Slavery Act Transparency Statement
+Trust
+Cookie Preferences
+Your Privacy Choices
+https://www.salesforce.com/uk/news/stories/ai-digital-skills-uk/
+9/9

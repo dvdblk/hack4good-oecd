@@ -1,0 +1,888 @@
+[Page #0]
+Empfehlungen zur Weiterentwicklung der Hightech-Strategie 2025
+April 2021
+[Page #1]
+Inhaltsverzeichnis
+Über diesen Bericht
+Das Hightech-Forum ist das offizielle Beratungsgremium der Bundesregierung zur Umsetzung der Hightech-Strategie 2025. In dieser Ergebnispublikation legt das Hightech-Forum seine wichtigsten Empfehlungen für die Weiterentwicklung der Forschungs- und Innovationsstrategie der Bundesregierung vor. Die wichtigsten Themen und Empfehlungen aus den insgesamt neun Beratungs- und Impulspapieren des Hightech-Forums wurden für diese Publikation neu aufgearbeitet, angereichert und zusammengefasst. Diese Ergebnispublikation des Hightech-Forums wurde im Rahmen der Ergebniskonferenz des Hightech-Forums am 21. April 2021 erstmals veröffentlicht. Alle Impulspapiere und Beratungsthemen des Hightech-Forums finden Sie auch unter: www.hightech-forum.de
+Vorwort der Co-Vorsitzenden
+Executive Summary und Ausblick
+Zentrale Empfehlungen zur Weiterentwicklung der Hightech-Strategie 2025
+IdeenpapierInnovationskultur in Deutschland gemeinsam weiterentwickeln 34
+ÜbersichtDie Hightech-Strategie 202538
+Beratungspapiere des Hightech-Forums 2019–2021
+EinblickeDas Hightech-Forum und seine Arbeit 40
+Dachthema Missionsorientierte Innovationspolitik 12
+Dachthema Beteiligung als strategisches Instrument der Innovationspolitik 16
+Dachthema Agile Forschungs- und Innovationsförderung24
+Die Mitglieder des Hightech-Forums
+Dachthema Initiative für Transferfreiheit –Förderung von wissens-intensiven Gründungen28
+Dachthema Resilienz und technologische Souveränität20
+Danksagung und Impressum
+[Page #2]
+Vorwort der Co-Vorsitzenden
+regionalen Innovationssystemen und dem des Bundes. Im Frühjahr 2020 legten die Mitglieder zudem Leitlinien für die Innovationspolitik nach der COVID-19-Pandemie vor und stellten die Chancen für eine Neuausrichtung mittels nach-haltiger Innovationen und werteorientiertenWachstums heraus.
+Liebe Leserinnen und Leser,
+Vorwort der Co-Vorsitzenden
+nie zuvor waren Forschung und Innovation so präsent und gleichzeitig so wichtig wie heute. Ob Gesundheit, Klimawandel oder Wirtschaft: Wo immer eine Gesellschaft vor großen Her-ausforderungen steht und sich neu orientiert, liefern Wissenschaft und Forschung wichtige und innovative Beiträge für einen Wandel. Dafür ist es wichtig, die Gesellschaft in diese Entwick-lung mit einzubeziehen. Dies schafft Vertrauen und bildet den entscheidenden Schritt, um die Wirtschaft an werteorientierter Wertschöpfung neu auszurichten, aber auch eigene Verhaltens-änderungen zu bewirken.
+Mit dieser Ergebnispublikation bündelt das Hightech-Forum nun seine wichtigsten Emp-fehlungen für eine Weiterentwicklung der For-schungs- und Innovationsstrategie der Bundes-regierung in der kommenden Legislaturperiode.
+Christian Luft
+Co-VorsitzenderStaatssekretär im Bundesministerium für Bildung und Forschung
+Unser herzlicher Dank gilt den Mitgliedern des Hightech-Forums, die diese Empfehlungen in transparenten, offenen und konstruktiven Diskursen erarbeitet haben. Er gilt aber ebenso Ihnen als Leserinnen und Leser für Ihr Interesse an den breit gefächerten Perspektiven für eine künftige Forschungs- und Innovationspolitik. Wir hoffen, Ihnen auf den folgenden Seiten wertvolle Inspiration zu innovativem Denken und Handeln geben zu können – und damit nicht zuletzt wichtige Impulse für unsere gemein-same Zukunft.
+Die Bundesregierung hat in ihrer ressortüber-greifenden Hightech-Strategie 2025 zentrale Ziele, Handlungsfelder und Aufgaben ihrer Forschungs- und Innovationspolitik formuliert. Die 21 Expertinnen und Experten des Hightech-Forums sind berufen, hierfür Empfehlungen auszusprechen und dabei neue Perspektiven aus Wirtschaft, Zivilgesellschaft, Verwaltung und Wissenschaft in die Politik einzubringen.
+Seit 2019 hat das Hightech-Forum die Regierung daher zur Steigerung der staatlichen Innova-tionskraft, zur engeren Verschränkung mit der Nachhaltigkeitsstrategie und zur Erreichung des 3,5-Prozent-Ziels beraten. Auch die Bedeutung neuer gesellschaftlicher und wirtschaftlicher Entwicklungen wurde in Diskussionen zu Sozialen Innovationen, zu Qualifikation und zu Offener Wissenschaft aufgegriffen. Weitere Beratungen erfolgen zu Innovations- und Wettbewerbsfä-higkeit, beispielsweise im Rahmen der Impuls-papiere der Zukunft der Wertschöpfung und zur Verschmelzung von „Bio“ und „IT“.
+Prof. Dr. Reimund Neugebauer
+Co-VorsitzenderPräsident der Fraunhofer-Gesellschaft e. V.
+In einem Piloten für einen Beteiligungsprozess zur Weiterentwicklung der Hightech-Strategie übernahmen die Forumsmitglieder Patenschaften für sieben Regionaldialoge und zogen daraus wichtige Erkenntnisse zu erfolgreicher Partizi-pation sowie zu Schnittstellen zwischen den
+Berlin, April 2021
+[Page #3]
+Executive Summary und Ausblick
+ErgebnisberichtExecutive Summary und Ausblick
+Gegenwärtig überlagert die Pandemie andere globale Herausforderungen. Die Bekämpfung des Klimawandels ist dringlicher denn je. Im Natur- und Umweltschutz hat Deutschland seine Ziele für 2020 weitgehend verpasst. In engem Austausch mit der Bevölkerung liefern Wissen-schaft und Forschung neue Erkenntnisse und Lösungs-ansätze für diese Herausforderungen. Eine Bündelung der innovativen Kräfte für die Erreichung ehrgeiziger gesell-schaftlicher Ziele wurde erstmals mit den zwölf Missionen der Hightech-Strategie 2025 versucht. Der missions-orientierte Ansatz in der Innovationspolitik sollte weiter-entwickelt werden. Das Hightech-Forum schlägt Verbes-serungen und eine ambitionierte Stärkung insbesondere hinsichtlich der Zielsetzung, Förderung und Steuerung von Missionen vor. → Siehe Dachthema Missionsorientierte Innovationspolitik(Seite 12–15)
+Die vorliegenden Empfehlungen des Hightech-Forums sind auf die Weiterentwicklung der zukünftigen For-schungs- und Innovationsstrategie gerichtet. Sie basieren auf den acht Impulspapieren, die das Gremium während der 19. Legislaturperiode veröffentlicht hat, und stehen unter dem Einfluss der Erfahrungen mit der COVID-19-Pandemie, die eine der größten Bewährungsproben der vergangenen Jahre ist. Mit den „Sieben Leitlinien für neues* Wachstum“ hat das Hightech-Forum bereits im Frühjahr 2020 erste Erfahrungen mit der Pandemie reflektiert und innovationspolitische Wege aus der Krise gewiesen. Im Kern der Empfehlungen standen agiles Re-gierungshandeln, die gezielte Steigerung der Investitionen in Forschung und Entwicklung (3,5-Prozent-Ziel), euro-päische Partnerschaften sowie der konsequente Einsatz von Forschung und Innovationen für das Gemeinwohl und die Erreichung der Nachhaltigkeitsziele. → Siehe Übersicht der Beratungspapiere des Hightech-Forums 2019–2021 (Seite 9–11)
+Forum deshalb Strategien auf der Basis verbindlicher Architektur- und Förderrahmen an und schlägt einen Innovationspakt zwischen Wissenschaft, Wirtschaft und Gesellschaft vor. Für die Skalierung von disruptiven Inno-vationen werden europäisch abgestimmte Technologie-Architekturen und Leitmärkte gefordert.→ Siehe Dachthema Resilienz und technologische Souveränität ( Seite 20–23)
+Die Mitglieder dringen zudem darauf, die Transfer- und Gründungskultur in Deutschland weiter zu beflügeln. Mehr Offenheit, Flexibilität und Experimentierfreude müssten im Forschungs- und Innovationssystem angeregt und auch belohnt werden. Mithilfe einer Initiative für Transferfrei-heit sollten mehr wissensintensive Gründungen, insbeson-dere Ausgründungen aus Forschungseinrichtungen und Hochschulen, ermutigt und erleichtert werden. Den politi-schen Zielsetzungen und Erwartungen an (Aus-)Gründun-gen kommen hier in Form von rechtlichen Vorgaben und Rahmenbedingungen eine bedeutende Rolle zu. → Siehe Dachthema Initiative für Transferfreiheit – Förde-rung von wissensintensiven Gründungen (Seite 28–33)
+Die gemeinschaftliche Entwicklung einer offenen, proak-tiven und gleichzeitig vorsorgenden Innovationskultur ist dem Hightech-Forum ein sehr wichtiges Anliegen. Denk-anstöße und erste Maßnahmenvorschläge wurden in zwei Stakeholder-Dialogen mit Vertreterinnen und Vertretern aus Gesellschaft, Wirtschaft und Wissenschaft definiert und in einem Ideenpapier festgehalten.→ Siehe Kapitel Innovationskultur in Deutschland gemein-sam weiterentwickeln (Seite 34–37)
+Infolge der COVID-19-Krise schnürte die Regierung ein Zukunftspaket und stellte öffentliche Investitionen von mehr als 60 Milliarden Euro für Bildung, Forschung und Innovation zur Verfügung. Forschungsprojekte und neue Entwicklungen wurden in Deutschland auf allen Ebenen von Wirtschaft, Wissenschaft, Gesellschaft und Politik und in verschiedensten Lebensbereichen angestoßen. Insbesondere der vom Hightech-Forum immer wieder angemahnte Kulturwandel zu mehr Agilität sowie die Digi-talisierung der Aus- und Weiterbildung, der öffentlichen Verwaltung und der Geschäftsmodelle erfuhren einen starken Schub. Viele der notwendigen Modernisierungen beruhen auf der Anwendung von bereits bestehenden Techniken und Lösungen. Die Krise zeigt dabei auf, dass vorausschauende öffentliche Förderung von Forschung und Innovation, auch von Sozialen Innovationen, ein essenzieller Baustein für die Krisenfestigkeit von Gesell-schaft und Wirtschaft ist. Digitalisierung und innovative Technologien bieten hierfür ganz neue Möglichkeiten. Das Hightech-Forum rät dazu, diese Chancen noch konse-quenter zu nutzen.
+Die Politik sollte in einer zukünftigen Innovationsstra-tegie Rahmenbedingungen und Anreize setzen, damit Forschungs- und Innovationsvorhaben stärker an gesell-schaftlichen Zielen und Bedürfnissen ausgerichtet werden und in die breite Anwendung kommen können. Mehr Inno-vationsorientierung, Offenheit gegenüber neuen Innova-tionsakteuren und Agilität in der öffentlichen Verwaltung und Beschaffung gelten hierfür als wichtige Voraussetzun-gen. Ein weiterer zentraler Aspekt sind Grundrechte im Krisenmanagement für die Entwicklung von Innovationen und Lösungsansätzen. Während der Eindämmung der COVID-19-Krise wurden die Möglichkeiten der Digitali-sierung und Automatisierung, z. B. bei der Testung, der Rückverfolgung und beim Quarantänemanagement, aus Datenschutzgründen nicht ausgeschöpft, obwohl sie den Schutz von Gesundheit und Leben sowie mehr Bewegungs-freiheit erlauben könnten. Fließen perspektivisch mehr Ressourcen in die gemeinschaftliche Entwicklung und Priorisierung von Lösungsansätzen, in den Aufbau neuer Systeme und Kompetenzen und in agile sowie partizipative Vorgehensweisen, so kann damit ein wichtiger Beitrag für mehr Innovationen hierzulande geleistet werden. Das Hightech-Forum empfiehlt generell, Bürgerinnen und Bürger verbindlicher und unbürokratisch in die Innova-tionspolitik einzubinden und die gesellschaftliche Teilhabe an Innovationen zu stärken.→ Siehe Dachthemen Agile Forschungs- und Innovations-förderung (Seite 24–27) sowie Beteiligung als strategisches Instrument der Innovationspolitik (Seite 16–19)
+Mit diesem Ergebnisbericht bündelt das Hightech-Forum seine Empfehlungen über die bereits veröffentlichten Beratungspapiere hinaus. Erneut stehen gesellschaftliche Ziele und Bedürfnisse, agiles und innovatives Regierungs-handeln, die Förderung von technologischen, sozialen und ökologischen Innovationen, die Ermutigung von Qualifi- zierung und wissensintensiven Gründungen sowie die breite Beteiligung der Gesellschaft im Fokus der Empfehlungen.
+Vor allem in Bezug auf disruptive Innovationen und Techno-logien mit hohem Neuigkeitsgrad sieht das Hightech- Forum großen Verbesserungsbedarf im deutschen Inno-vationssystem. Im globalen Wettbewerb mit den USA und (Südost-)Asien fällt die Skalierung und wirtschaft-liche Umsetzung von Ergebnissen der Spitzenforschung in Deutschland zu zögerlich aus. Das Potenzial wissenschaft-licher Durchbrüche wird zu selten in Deutschland von Akteuren genutzt und im globalen Maßstab zur Entfaltung gebracht. Mit Blick auf die technologische Souveränität und Handlungsfähigkeit Europas mahnt das Hightech-
+[Page #4]
+BeratungenZentrale Empfehlungen zur Weiterentwicklung der Hightech-Strategie 2025
+Beratungspapiere des Hightech-Forums 2019–2021
+Wege zum 3,5-Prozent-Ziel
+In der Hightech-Strategie 2025 hat die Bundesregierung das Ziel formuliert, den Anteil der Investitionen in For-schung und Entwicklung (FuE) bis 2025 auf 3,5 Prozent des Bruttoinlandsprodukts zu steigern. In ihren Beratungen geben die Mitglieder des Gremiums wichtige Impulse und beschreiben die Forschungsförderung als Zusammenspiel einer Vielzahl von Einflussfaktoren. Sie betrachten nicht nur finanzielle, sondern auch rechtliche, gesellschaftliche, technologische und ökonomische Aspekte. Investitionen in Forschung und Entwicklung sind die Quellen des Wohl-stands von morgen und müssen gezielt für Innovationen gehebelt werden. Referenz →
+Das Hightech-Forum hat in seiner Laufzeit neun Beratungspapiere veröffentlicht, mit denen wichtige Impulse für die künftige Weiterentwicklung des deutschen Forschungs- und Innovationssystems gesetzt werden. Die Empfehlungen in den Impulspapieren haben nichts an Aktualität oder Gültigkeit eingebüßt und sollten in einer zukünftigen Innovationsstrategie berücksichtigt werden.
+Aus den Beratungen des Hightech-Forums lassen sich zudem fünf Dachthemen ableiten, die sich wie ein roter Faden durch die Impulspapiere ziehen. In der vorliegenden Ergebnis-publikation werden die zentralen Empfehlungen zu den Dachthemen MissionsorientierteInnovationspolitik, Beteiligung als strategisches Instrument der Innovationspolitik, Resilienz und technologische Souveränität, Agile Forschungs- und Innovationsförderung und Initiative für Transferfreiheit – Förderung von wissensintensiven Gründungen gebündelt.
+Innovation und Qualifikation
+Innovationspolitik nach der Corona-Krise. Sieben Leitlinien für neues* Wachstum
+Agiles Regierungshandeln, gesellschaftlicher Zusammen-halt und ein breiter Konsens über die Notwendigkeit von tiefgreifenden Maßnahmen haben dazu beigetragen, dass sich im Juni 2020 erste Wege aus der Corona-Krise zeigten. Das Hightech-Forum weist in seinen sieben Leitlinien auf die historische Chance hin, mithilfe der umfangreichen Innovationsförderungen und Konjunkturpakete eine Trans-formation hin zu einem neuen und qualitativen Wachstum. Dafür sind die Nachhaltigkeitsziele für Deutschland und die Welt wichtiger denn je und mit großem Engagement anzugehen. Unter neuem Wachstum versteht das Hightech-Forum eine positive Entwicklung in Richtung sozialer, wirtschaftlicher und ökologischer Nachhaltigkeit. Neues Wachstum ist qualitativ und orientiert sich an zentralen Werten der Gesellschaft. Neues Wachstum schafft Mehr-wert für heutige und zukünftige Generationen. Referenz →
+Fachwissen, Ausbildungen und Berufsanforderungen ver-ändern sich in immer kürzeren Zyklen. Lebenslanges Lernen muss für alle zur Normalität werden. Der Grundstein für die Motivation zu lebenslangem Lernen wird bereits in der Kindheit und der Grundausbildung gelegt. Hier sollten frühe Selbstwirksamkeitserfahrungen, ein konstruktiver Umgang mit Fehlern sowie das Experimentieren und Lernen in Gruppen stärker in den Lernalltag integriert werden. In der Erwachsenenbildung müssen Kompetenzentwicklung und Weiterbildung zukünftig stärker professionalisiert, ziel-gruppenspezifisch ausgerichtet und bei Bedarf aus Steuer-mitteln finanziert werden. Das Hightech-Forum empfiehlt ein individuelles Weiterbildungsbudget, die Gewährung von Rentenpunkten und den Ausbau der bereits genutzten Prüfungsprämien. Wichtige Signale könnten zudem von einem individuellen Recht auf Weiterbildung ausgehen. Ein weiterer Schwerpunkt der Empfehlungen ist die Frage, wie Zukunftskompetenzen frühzeitig erkannt und in der Breite vermittelt werden können. Eine Kernempfehlung ist die Gleichstellung der Digitalkompetenzen mit den Grundkompetenzen Lesen, Schreiben und Rechnen. Referenz →
+[Page #5]
+Beratungen
+Beratungspapiere des Hightech-Forums 2019–2021
+Agilität im Innovationssystem
+Offene Wissenschaft und Innovation
+Nachhaltigkeit im Innovationssystem
+Bio-IT-Innovationen
+In Deutschland besteht Nachholbedarf bei der Digita-lisierung und der Innovationsfähigkeit der öffentlichen Verwaltung. Der Staat setzt im Innovationssystem nicht nur die politischen Rahmenbedingungen, er ist als Ausbilder, Forschungsförderer, Investor und Nutzer von Innovationen ein wichtiger Akteur. Zentral für die Stärkung einer agilen Kultur und staatlicher Innovationsfähigkeit ist die Führungs-ebene. Das Personalwesen im öffentlichen Dienst sollte zugunsten durchlässiger Karrierewege sowie flexiblerer Arbeitsformen und Weiterbildungen modernisiert werden. Organisatorisch ist mehr „Beidhändigkeit“ gefragt, also die Fähigkeit, einerseits effizient und fehlerfrei im Ver-fahrensvollzug zu arbeiten und andererseits ziel- und nutzerorientiert Innovationen voranzutreiben. Zahlreiche Praxisbeispiele zeigen, wie öffentliche Verwaltungen diese „Beidhändigkeit“ umsetzen, insbesondere in der For-schungs- und Innovationsförderung sowie der öffentlichen Beschaffung. Referenz →
+Die Datenschätze der Wissenschaft, der Unternehmen und der öffentlichen Verwaltung müssen noch besser als bisher zum Wohle der Gesellschaft genutzt werden. Forschung und Innovation können zudem gewinnen, wenn unterschiedliche Wissensgeber beteiligt werden – von der Forschungsfrage und Bedarfsermittlung bis zur Geschäfts-modellentwicklung. Dies erfordert einen Kulturwandel auf allen Seiten. Im Wissenschaftssystem müssen die Einbin-dung der Gesellschaft und das frühzeitige Teilen von Daten stärker gefördert und belohnt werden als bisher. Das Be-ratungsgremium empfiehlt zudem, dass der Staat in seiner Rolle als Daten- und Wissensproduzent als Vorbild voran-geht. Nicht nur indem er öffentliche Daten rechtskonform für die Forschung und Gesellschaft zugänglich macht, etwa als Teil der Forschungsförderung, sondern indem er die notwendigen Rahmenbedingungen und Infrastrukturen schafft. Hierzu gehören die Weiterentwicklung einer agilen Forschungsförderung, der Aufbau von Datenplattformen und Standards sowie Rechtssicherheit für das Teilen und Nutzen von Daten. Referenz →
+Innovationen können mehr Nachhaltigkeit ermöglichen und zugleich muss mehr Nachhaltigkeit ins Innovations-system gebracht werden. Das Hightech-Forum empfiehlt der Politik unter anderem, Nachhaltigkeit in all ihren Dimensionen als handlungsleitendes Ziel der Forschungs- und Innovationspolitik zu berücksichtigen und die Nach-haltigkeitsstrategie stärker mit der Hightech-Strategie zu verzahnen. Ein Weg hierfür sind die zwölf Missionen der Hightech-Strategie, die konsequenter umgesetzt und regierungsweit besser koordiniert werden müssen. Das öffentliche Beschaffungswesen soll für die Entwicklung nachhaltiger Produkte und Services besser positioniert werden. Zudem rät das Gremium, die Internalisierung externer Kosten zu „wahren Preisen“ voranzutreiben und alternative Wohlstandsindikatoren für die Messung von Nachhaltigkeit einzusetzen. Um mehr Gründungen mit nachhaltigen Geschäftsmodellen hervorzubringen, sind stärkere Anreize für nachhaltige Investitionen erforderlich. Schlüsselbereiche für nachhaltige Innovationen sind z. B. die Kreislaufwirtschaft, die Bioökonomie sowie eine treib-hausgasarme Industrieproduktion. Referenz →
+Aus dem Zusammenwachsen von Biologie und Informa-tionstechnologie entwickeln sich bahnbrechende Innova-tionen, die zu ganz neuen Möglichkeiten in der Medizin, der Land- und Ernährungswirtschaft oder der industriellen Produktion führen werden. Globale Player, allen voran große Technologieunternehmen, gehen mit weitreichenden Projekten voran. Das Gremium rät der Bundesregierung, das Thema auf die politische Agenda zu heben, die Bio-IT-Forschung zu stärken und gemeinsam mit Gesellschaft und Wirtschaft in die Anwendung zu bringen. Das Gremium empfiehlt der Bundesregierung daher, eine Bio-IT-Agenda als Kernbestandteil einer weiterentwickelten Hightech-Strategie umzusetzen. Ein neues Bio-IT-Forschungszentrum soll alle relevanten Fachkompetenzen deutschlandweit verbinden, um Forschung und Entwicklung auf inter-nationalem Niveau voranzutreiben. Zudem soll die Politik die frühe Einbindung der Gesellschaft, z. B. in der Produkt-entwicklung, anregen und fördern. Dazu gehört auch eine breite gesellschaftliche Debatte über die ethischen und sozialen Herausforderungen neuer Bio-IT-Anwendungen. Referenz →
+Soziale Innovationen
+Zukunft der Wertschöpfung
+Keine der großen Herausforderungen unserer Zeit wie beispielsweise der Klimawandel, die Digitalisierung und die alternde Gesellschaft kann allein durch Technik bewältigt werden. Es braucht dafür auch neue Organisationsmodelle und die Änderung von Verhaltensweisen, also Soziale Innovationen. Diese entstehen häufig aus individuellen Bedürfnissen und lösen Probleme, die eng mit der Lebens-realität der Menschen verknüpft sind. Das Hightech-Forum empfiehlt der Bundesregierung daher, die Förderung So-zialer Innovationen strategischer anzugehen, um konkretes ressortübergreifendes Handeln auszulösen. Sozialunter-nehmen, also Unternehmen, die gemeinwohlorientierte Zwecke mit unternehmerischen Mitteln verfolgen, sollen als Impulsgeber für Soziale Innovationen gestärkt werden, indem ihnen z. B. neue Finanzierungsquellen erschlossen und mehr Vernetzungs- und Beratungsangebote geschaffen werden. Referenz →
+Digitalisierung und geopolitische Verschiebungen stellen die deutsche Industrie doppelt vor die Herausforderung, ihre produktions- und exportorientierten Geschäftsmo-delle anzupassen. Das Hightech-Forum rät dazu, stärker in immaterielle Produktionsfaktoren zu investieren, digitale Infrastrukturen zu schaffen sowie Innovationschancen zu nutzen, die sich durch Offenheit und Kooperation ergeben. Nachhaltige Produkte und Services sollten im Zentrum dieser neuen Geschäftsmodelle stehen. Die konsequente Digitalisierung der Produkte und Produktion über Unter-nehmensgrenzen hinweg eröffnet der deutschen und euro-päischen Industrie neue Chancen in der Datenökonomie. In der EU und in Deutschland müssen hierfür nicht nur die technologischen Infrastrukturen, sondern auch geeignete innovationsförderliche Rahmenbedingungen gesetzt werden. Referenz →
+Zu den ImpulspapierenAuf der Website des Hightech-Forums finden Sie alle Impulspapiere und Empfehlungen zu den Beratungsthemen 2019 bis 2021. www.hightech-forum.de/publikationen
+[Page #6]
+Missionsorientierte Innovationspolitik
+DachthemaMissionsorientierte Innovationspolitik
+Missionen sind in Deutschland ein neues Instrument der Innovationspolitik und auch inter-national wird der Ansatz vielfach erst in der Praxis getestet, z. B. im neuen „Horizont Europa“-FuI-Rahmenprogramm der Europäischen Union. Die Governance, also die Steuerung und Koordination der Missionen, ist umfangreich und erfordert klare Zuständigkeiten, geeignete Dialogformate und ausreichend Ressourcen. Die Bundesregierung sollte die Umsetzung anhand von konkreten Förderzielen, Meilensteinen und Wirkungsmessungen beobachten und konsequent vorantreiben. Hierfür müssen die Ressorts der Bundesregierung noch stärker zusammenarbeiten und mit regionalen und lokalen Initiativen verbunden werden, sodass sich die Anstrengungen gegenseitig befruchten und ergänzen sowie Lücken erkannt und geschlossen werden.
+Das Hightech-Forum unterstreicht die Chancen und Herausforderungen der missionsorien-tierten Innovationspolitik und empfiehlt für die zukünftige Weiterentwicklung insbesondere:
+Missionen sind ein Instrument der Innovationspolitik, um ehrgeizige gesellschaftliche Ziele mit vereinten Kräften, einem Bündel an Innovatio-nen und über Sektorgrenzen hinweg zu erreichen. Missionen binden vielfältige Akteure ein. Durch klar definierte Verantwortlichkeiten und das koor-dinierte Zusammenspiel der Akteure über Ebenen hinweg sowie den zielorientierten Einsatz verschiedener Politikinstrumente und angemessener Förderung werden sie wirksam. Hierfür muss ein Zeitrahmen zu ihrer Um-setzung festgelegt werden, der durch zielorientierte, messbare Meilensteine überprüfbar ist.¹
+Ein breites Innovationsverständnis verankern
+Für nahezu alle großen Herausforderungen, insbesondere für die Missionen der Hightech-Strategie, werden Lösungen benötigt, die sich aus technologischen, sozialen und ökologi-schen Innovationen zusammensetzen. Dabei spielen technologieoffene Förderansätze eine große Rolle. Wichtig ist zudem, dass für jedes Problem die Kombination von sozialen, öko-logischen und technologischen Innovationen an anderen Erfolgskriterien gemessen werden müssen. Entsprechend sind die Bewertungsmaßstäbe auch für die Missionen anzupassen. →
+Aktive Beteiligung von Bürgerinnen und Bürgern fördern
+Innovationen schließen gesellschaftliche Anwendung ein – stets werden daher vielfältigeAkteure diese mitgestalten. Dabei sind auch umfassend und früh die Bürgerinnen und Bürger zu beteiligen. Das Hightech-Forum regt an, dass die Bundesregierung dieses Potenzial umfänglich nutzt und die Missionen gemeinsam mit der Gesellschaft formuliert und um-setzt. Dazu sollte es zum einen mehr (digitale) Angebote und Ressourcen für den Dialog mit zivilgesellschaftlichen Gruppen geben. Zum anderen sollten Partnerschaften entstehen, bei denen sich politische Leitungsebenen (z. B. bei Rahmensetzung und Formulierung der Mission) mit den jeweiligen Umsetzungsebenen (z. B. durch Initiativen aus der Wissenschaft, Wirtschaft und Gesellschaft) ergänzen. Die Bundesregierung sollte Experimente mit viel-fältigen Beteiligungsformaten unterstützen sowie wissenschaftlich auswerten und prüfen lassen, wie wirksam sie zur Umsetzung einer Mission beitragen können. (Siehe Dachthema Beteiligung als strategisches Instrument der Innovationspolitik) →
+„Wir setzen uns dafür ein, die nationale Nachhaltig-keitsstrategie und die Hightech-Strategie stärker zu verzahnen.“Prof. Dr. Antje Boetius
+Ziele klar, ehrgeizig und realistisch formulieren und ganzheitlich beurteilen
+Krebs bekämpfen, klimaneutrale Industrie, saubere Mobilität oder Artenvielfalt erhalten: Die Bundesregierung hat in der Hightech-Strategie 2025 erstmals zwölf Missionen formuliert, um Aktivitäten von Forschung und Innovation (FuI) zielgerichtet zu bündeln. Das Hightech-Forum sieht Missionen grundsätzlich als vielversprechendes Instrument an, insbesondere wenn es darum geht, viele innovative Kräfte aus unterschiedlichsten Bereichen hinter einem gesellschaftlichen Ziel zu vereinen. Die Bundesregierung sollte Missionen zukünftig konkret und wirksam fördern. Der missionsorientierte Ansatz muss dazu beitragen, die Ziele der deutschen Nachhaltigkeitsstrategie und des European Green Deal mithilfe von sozialen, ökologischen und technologischen Innovationen zu erreichen.
+Künftige Missionen sollten mit ehrgeizigen, aber auch erreichbaren und messbaren Zielen greifbar gemacht werden. Wichtig ist dabei, noch stärker darauf zu achten, dass die Ziele in der Gesellschaft auf Resonanz stoßen – möglichst durch Co-Design in der Formulierung der Ziele. Wenn möglichst viele Menschen das Ziel einer Mission tragen, beteiligen sie sich auch eher an der Umsetzung. Werden zu ambitionierte oder zu breite Ziele für eine Mission festgelegt, dann fällt es schwerer, sich einzubringen oder das Ziel überhaupt ernst zu nehmen. Die Missionen sollten zudem ganzheitlich beurteilt werden, denn eine Zielerreichung hat wiederum vielfältige Auswirkungen in ganz unterschiedlichen Bereichen. Auch mögliche
+[Page #7]
+Dachthema
+Missionsorientierte Innovationspolitik
+Die 12 Missionen der Hightech-Strategie 2025
+Fehlentwicklungen sind von vornherein mitzudenken und zu beobachten. Beispielsweise entstehen durch den Wandel hin zu einer klimaneutralen Produktion Wirkungen auf den Arbeitsmarkt, Konflikte mit Naturschutzzielen oder zusätzliche Probleme beim Struktur-wandel in einer Region. →
+Die Hightech-Strategie 2025 definiert zwölf Missionen, die große und komplexe gesellschaftliche Herausforderungen adressieren. Sie wurden bei der Erstellung der Strategie von den Ressorts in Feldern definiert, in denen eine Bünde-lung aller relevanten Akteure hinter einem gemeinsamen Ziel notwendig ist, um weitere Fortschritte zu erzielen. Die Missionen sollen als neues innovationspolitisches Instrument die ressortübergreifende Zusammenarbeit in der Forschungs- und Innovationspolitik stärken sowie Forschungsergebnisse gezielt in die Umsetzung bringen.²
+Seit etwa 15 Jahren ist eine verstärkte Ausrichtung der Forschungs- und Innovationspolitik auf die Adressierung der sogenannten großen gesellschaftlichen Herausforde-rungen („grand challenges“) wie Klimakrise, demografischer Wandel oder Sicherheit zu beobachten. Die neue Missions-orientierung der Forschungs- und Innovationspolitik, die zuletzt von zahlreichen Industrieländern aufgegriffen wurde, zielt auf Systemtransformation ab und hat den Anspruch, die inhaltlich sehr umfassenden Herausforde-rungen in konkrete und lösbare Probleme zu übersetzen. Damit unterscheiden sie sich grundlegend von früheren missionsorientierten Ansätzen, die stärker konkrete tech-nologische Ziele verfolgten.
+Governance und Förderung der Missionen wirksam gestalten
+„Die Potenziale neuer Technologien entfalten sich nur dann, wenn sie mit Verhaltensänderungen und neuen sozialen Prak-tiken einhergehen. Soziale Innovationen können hier einen wichtigen Beitrag leisten.“ Prof. Dr. Anke Hassel
+Die Missionen sind zentrales Element der Hightech-Strategie. Dadurch verantwortet das Bundesministerium für Bildung und Forschung auch vorrangig deren Umsetzung und Management, von der Formulierung der Ziele über die Motivation zur Beteiligung bis hin zum Monitoring. Die politische Leitungsebene der Bundesregierung muss diesen ressort-übergreifenden Missionen höhere Priorität einräumen und sicherstellen, dass sie außerhalb von Abteilungsstrukturen und ohne formelle Weisungsgebundenheit effektiv koordiniert werden können. In Zukunft wäre es wichtig, eine (virtuelle) Governance-Struktur zu finden, mit der alle Beteiligten sowohl auf der vertikalen (z. B. von EU über Bund und Länder bis hin zu Kommunen) als auch der horizontalen Ebene (z. B. zwischen den Ressorts und Wirtschaftsbereichen) besser eingebunden und koordiniert werden können. Management bedeutet auch, den Beteiligten klar definierte Rollen zuzuweisen und sie bei der Umset-zung der Missionen mit Ressourcen zu unterstützen. →
+Missionen ziel- und ergebnisorientiert umsetzen
+Was ist der Ausgangspunkt einer Mission? Welche Maßnahmen tragen wie viel zur erfolgreichen Umsetzung bei? Welche Daten können in welchem Umfang gesammelt und ausgewertet werden? Die fortlaufende Beobachtung und reflexive Bewertung der Ziel-erreichung einer Mission ist eine besondere Herausforderung und zugleich für den Erfolg besonders entscheidend. Der Fortschritt einer Mission muss messbar sein, wofür ein unbüro-kratisches Monitoring-System aufgebaut werden sollte. Bei Zielerfüllung sind Missionen klar zu beenden. Ergeben sich tiefgreifende Veränderungen, können Missionen auch abge-brochen und/oder neu formuliert werden. Wissenschaftlich lassen sich Erfolg und Wirkung von Missionen vor allem in den Zwischenschritten und Meilensteinen ihrer Umsetzung untersuchen. Auch bei der Wirkungsmessung sollten partizipative Elemente gestärkt werden. Beispielsweise könnte die Bundesregierung Bürgerforen in das Monitoring einbinden. (Siehe Dachthema Beteiligung als strategisches Instrument der Innovationspolitik) →
+Biologische Vielfalt erhalten
+Gut leben und arbeiten im ganzen Land
+Die Batteriezellproduktion in Deutschland aufbauen
+Krebs bekämpfen
+Nachhaltiges Wirtschaftenin Kreisläufen
+Künstliche Intelligenz in die Anwendung bringen
+„Mit Bio-IT-Innovatio-nen können wir wichtige Missionen mit neuer Dynamik verfolgen. Die Gesellschaft ist dabei von vornherein konsequent einzubeziehen.“Prof. Dr. Christiane Woopen
+Plastikeinträge in die Umwelt substanziell verringern
+Weitgehende Treibhausgasneutralität der Industrie
+Forschung und Versorgung digital vernetzen – für eine intelligente Medizin
+Neue Quellen für neues Wissen
+Technik für den Menschen
+Eine sichere, vernetzte und saubere Mobilität
+Referenzen
+1
+In Anlehnung an: OECD. Definition of ‘mission-orientation policiesʼ. International Database on STI Policies. Mission-Oriented Innovation Policies. Verfügbar unter: www.stip.oecd.org/stip/moip/the-definition-of-moips
+2 Bundesregierung (2019). Fortschrittsbericht zur Hightech-Strategie 2025.
+Berlin, Bundesministerium für Bildung und Forschung. Verfügbar unter: www.bmbf.de/upload_filestore/pub/Fortschrittsbericht_zur_Hightech_Strategie_2025.pdf
+Quelle: Eigene Darstellung in Anlehnung an: Forschung und Innovation für die Menschen. Die Hightech-Strategie 2025, verfügbar unter: www.bmbf.de/upload_filestore/pub/Forschung _und_Innovation_fuer_die_Menschen.pdf
+[Page #8]
+Beteiligung als strategisches Instrument der Innovationspolitik
+DachthemaBeteiligung als strategisches Instrument der Innovationspolitik
+Innovationen sind erfolgreich, wenn sie auf gesellschaftliches Interesse und Bedürfnisse treffen. Politik, Wissenschaft und Wirtschaft sollten ihre Forschungs- und Innovationsvor-haben deswegen möglichst früh mit gesellschaftlichen Zielvorstellungen und Bedürfnissen zusammenbringen (siehe Dachthema Missionsorientierte Innovationspolitik). Beteiligung ist ein Weg, um Innovationen in der gesamten Wertschöpfungskette von Forschung und Entwicklung bis hin zur Nutzung zu begleiten und zu gestalten. Denn in der Gesellschaft besteht nicht nur Bedarf, Innovationen anzuwenden – viele Menschen möchten auch die eigenen Fragen, Perspektiven und Kompetenzen einbringen und so Entwicklungen mitge-stalten. Um dies alles miteinander zu verzahnen, braucht Innovationspolitik neue Kompe-tenzen, Kanäle und Formate der Zusammenarbeit. Eine Beteiligung sollte schlank, effizient und unbürokratisch organisiert werden. Das Hightech-Forum empfiehlt dazu Folgendes:
+„Die breite Beteiligung der Gesellschaft an der Forschung ist eine wichtige Voraussetzung für neue Ideen und Innovationen, die wir für eine lebens-werte Zukunft dringend brauchen.“Prof. Johannes Vogel Ph.D.
+Bei der Entwicklung der künftigen Innovationsstrategie Partizipation breit anlegen
+Bisher nutzt Deutschland eher klassische Beteiligungsverfahren, in denen Fachexpertise angehört wird und Kommentierungen eingeholt werden. Bei der Entwicklung der künftigen Innovationsstrategie sollte die Bundesregierung mehr Beteiligung über die ganze Breite der Gesellschaft anregen. Vorbild dafür können Verfahren der öffentlichen Konsultation sein, z. B. Offener Survey und Ko-Design für das „Horizont Europa“-FuI-Rahmenprogramm oder offene Anhörungen zu Fragen der Innovationspolitik in den USA. Wichtig ist hierbei, ver-bindliche Rahmenbedingungen für konkrete Beteiligungsprozesse zu schaffen und dabei zu bleiben. Empfohlen wird, zuerst einen Prototyp für einen Teilbereich zu entwickeln. Die Politik muss kooperatives Handeln zwischen den Ressorts sicherstellen und sich um die Mitarbeit von unterschiedlichen, auch kritischen Akteursgruppen und interessierten Einzel-personen bemühen. Den Teilnehmenden sollte von Beginn an mitgeteilt werden, wie mit den Beiträgen umgegangen wird bzw. wie diese weiter diskutiert werden können.¹ →
+Interesse der Bürgerinnen und Bürger an Wissenschaft und Forschung
+ groß  teils, teils  gering
+24 %
+59 %
+17 %
+Bürgerschaftliche Beteiligung an Innovationspolitik strukturell verankern
+N = 1017 Befragte
+Quelle: Wissensbarometer 2019, herausgegeben von Wissenschaft im Dialog. Verfügbar unter: www.wissenschaft-im-dialog.de/projekte/wissenschaftsbarometer/wissenschaftsbarometer-2019/
+Die Bundesregierung sollte Bürgerinnen und Bürger auf Dauer verbindlich an der Gestaltung und Umsetzung von Innovationspolitik beteiligen bzw. Vorstellungen unterschiedlicher gesellschaftlicher Zielgruppen aufgreifen. Dazu empfiehlt das Hightech-Forum, „Bürger-foren“ oder „Zukunftsräte“ in der Forschungs- und Innovationspolitik dort einzurichten und zu finanzieren, wo sie für die Gestaltung von Rahmenbedingungen der Innovationspolitik wichtig sind und einen Mehrwert bringen. Neben der direkten Beteiligung von Menschen bieten sich auch neue Möglichkeiten der indirekten Beteiligung. So könnte die Nutzung von KI-basierten Methoden, z. B. die anonymisierte Auswertung von Beiträgen oder Diskussio-nen in sozialen Medien, dazu beitragen, die Perspektiven und Vorstellungen unterschied- licher Zielgruppen besser in der Innovationspolitik (z. B. Visionsentwicklung, Missionen) zu berücksichtigen. →
+„In der ko-kreativen Entwicklung von gemein- samen Visionen und Lösungsansätzen liegt die große Stärke von Beteiligungsprozessen.“Prof. Dr. Patrizia Nanz
+Innovation entsteht durch den gegenseitigen Austausch und die Einbindung möglichst vieler Ideengeberinnen und Ideengeber. Das Hightech-Forum setzt sich für die Entwicklung einer innovationspolitischen Beteiligungskultur ein, in der Beteiligung nicht als einseitiges Senden bzw. Empfangen von Meinungen verstanden wird, sondern als Verständigungsprozess, zu dem alle Akteure aktiv beitragen können.¹
+[Page #9]
+Dachthema
+Beteiligung als strategisches Instrument der Innovationspolitik
+Strukturwandel und Innovationspolitik gemeinsam entwickeln
+Öffentlichkeit soll stärker in Entscheidungen über Wissenschaft und Forschung einbezogen werden
+Es geht darum, unter-schiedliche Bedürfnisse und Perspektiven von Beginn an zu berücksich-tigen sowie voneinander zu lernen.
+Innovationen sind unweigerlich mit Veränderungen verbunden. Insofern ist Innovations-politik immer auch ein Teil regionaler Strukturpolitik. Das Hightech-Forum empfiehlt Formate, wie z. B. Beteiligungswerkstätten, einzurichten, um Ideen und Wünsche der Menschen vor Ort zu Leitbildern, Visionen oder Zielvorstellungen zu verdichten und zu dis-kutieren, wie sich jede und jeder zur Erreichung dieser Ziele einbringen kann. Über solche Werkstätten oder Foren lässt sich eine föderale Verzahnung von Bundes- und Länderebene erreichen. Auch europäische Initiativen sind auf regionaler Ebene gut über die geförderten EU-Projekte und -Programme in Beteiligungsformate einzubinden. Beteiligung gelingt mit dem richtigen Know-how und kann Innovationen und Transformation beschleunigen. Sie erfordert entsprechende Ressourcen und klare Verantwortlichkeiten. Zu klären ist insbe-sondere, was mit den Ergebnissen dieser Werkstätten passiert und wer die Verantwortung für die Umsetzung und Finanzierung (auf unterschiedlichen Ebenen) übernehmen wird.¹
+ Zustimmung unentschieden keine Zustimmung keine Angaben
+30 %
+3 %
+51 %
+16 %
+N = 1017 Befragte
+Quelle: Wissensbarometer 2019, herausgegeben von Wissenschaft im Dialog. Verfügbar unter: www.wissenschaft-im-dialog.de/projekte/wissenschaftsbarometer/wissenschaftsbarometer-2019/
+Forschung und Innovation an gesellschaftlichen Werten, Zielen und Bedarfen ausrichten
+Gesellschaftliche Teilhabe an Forschung und Innovation verbessern
+Die Halbwertszeit des Wissens und Innovationszyklen werden immer kürzer. Zudem ver-schmelzen Technologien zu ganz neuen Anwendungen. Dies macht es deutlich schwieriger, neue Technologien und Innovationen im Nachhinein, als fertige Marktanwendungen, zu verstehen und zu bewerten. Damit öffentlich geförderte Forschung häufiger und auch zügiger in die Anwendung kommt, muss die Gesellschaft in Vorhaben von Forschung und Innovation (FuI) eingebunden werden – von der Forschungsfrage bis hin zur Geschäfts-modellentwicklung. Es geht darum, unterschiedliche Bedürfnisse und Perspektiven von Beginn an zu berücksichtigen sowie voneinander zu lernen. Methoden wie Bürgerdialoge, Ko-Kreation, Crowd Science, partizipative oder transdisziplinäre Forschung und Bürgerfor-schung helfen dabei. Ein fester Prozentsatz der staatlichen FuI-Förderung sollte in solche Beteiligungsformate für „Responsible Research and Innovation (RRI)“ investiert werden. →
+Für die Innovationsfähigkeit ist es wichtig, dass sich möglichst viele Menschen mit Forschung und Innovation auseinandersetzen bzw. zu einem souveränen Umgang mit Innovationen befähigt werden (siehe Dachthema Resilienz und technologische Souveränität). Wissenschafts- kommunikation, Beteiligungsformate und Transfer in die Gesellschaft gewinnen an Bedeu-tung und sollten in die Ausbildung und die Stellenprofile der Forscherinnen und Forscher aufgenommen werden. Entsprechende Anreizmöglichkeiten für Forschende sind von Bund und Ländern zu schaffen, z. B. durch Erfolgskriterien und Vergütung, aber auch durch Berücksichtigung bei Karriere-Entscheidungen. Damit können Wissenschaftseinrichtungen Beteiligungsaktivitäten und Transferleistungen ihrer Mitarbeiterinnen und Mitarbeiter motivieren und fördern. →
+„Wir sind erst am Beginn des Weges zu mehr Offen-heit. Verschwiegenheit war lange eine Tugend, sei es in Unternehmen oder in der Forschung – wir lernen erst jetzt, was es zu gewinnen gibt.“Prof. Dr. Dr. Andreas Barner
+„Der Mittelstand hat eine zentrale Bedeutung für die wirtschaftliche Ent-wicklung und Innova-tionsfähigkeit in Deutsch-land, besonders für den ländlichen Raum. Die Verzahnung von Gesell-schaft, Wissenschaft und Wirtschaft ist hier ent-scheidend für den Wandel zu mehr Nachhaltigkeit und den Erhalt einer gesunden Umwelt.“Prof. em. Dr. Wolfgang Lücke
+Zugang zu öffentlichen Forschungsergebnissen und Daten gewähren
+Regionaldialoge
+Pilot für einen Beteiligungsprozess zur Hightech-Strategie 2025
+Mit Blick auf die Entwicklung einer innovationspolitischen Beteiligungskultur sollte der Staat nicht nur Politik und FuI-Förderung partizipativer und agiler gestalten (siehe Dach-thema Agile Forschungs- und Innovationsförderung), sondern auch mit gutem Beispiel vorangehen und seine Wissens- und Datenbestände datenschutzkonform für die Gesell-schaft, Wirtschaft und Wissenschaft nutzbar machen (siehe Dachthema Resilienz und technologische Souveränität). Staatliche „Datenspenden“, der Aufbau staatlicher Daten- treuhandmodelle oder von Datenkooperativen wären innovative Wege zu einer neuen Form der Beteiligung an öffentlich finanziertem Wissen inklusive Daten. →
+Die Bundesregierung initiierte 2020 einen ersten Beteiligungs-prozess zur Hightech-Strategie, um diese gemeinsam mit der Gesellschaft weiterzuentwickeln. Zentraler Bestandteil dieses Pilotprojekts waren sieben Regionaldialoge. 2020 fanden bundesweit Akteurskonferenzen statt, von Karlsruhe über die Lausitz bis Bremerhaven – sowohl digital als auch vor Ort. Diese wurden parallel von Online-Diskussionen begleitet. Thematisch widmeten sie sich Innovationsschwerpunkten, z. B. „nachhaltige Mobilität in der Stadt“, „Kreislaufwirtschaft“ oder „Künstliche Intelligenz in der Landwirtschaft“. Im Austausch mit regionalen Akteuren und Initiativen sollte Praxiswissen diskutiert, sollten blinde Flecken aufgedeckt und neue Pers-pektiven entdeckt und sollte die Verzahnung aller Innovations- bereiche und -ebenen in Deutschland verbessert werden.
+Online-Diskussion
+Akteurs-konferenz
+Reflexions-Workshop
+Referenz
+1
+Bundesministerium für Bildung und Forschung (2020). Kernbotschaften aus dem Beteiligungsprozess zur Weiterentwicklung der Hightech-Strategie 2025. Verfügbar unter: www.mitmachen-hts.de/sites/default/files/downloads/kernbotschaften_hightech-strategie_beteiligungsprozess.pdf
+Weitere Informationen und Ergebnisse des Beteiligungsprozesses: www.mitmachen-hts.de
+[Page #10]
+Resilienz und technologische Souveränität
+DachthemaResilienz und technologische Souveränität
+Die jüngsten Erfahrungen mit der COVID-19-Krise zeigen, dass die Systeme für Resilienz in Deutschland und Europa verbessert und modernisiert werden müssen. Digitalisierung und neue Technologien bieten hierbei ganz neue Möglichkeiten. In der Zukunft geht es darum, diese Chancen konsequenter zu nutzen, um Schaden abzuwenden, die Grundrechte und die Versorgung zu sichern sowie mehr Handlungsfreiheit zu gewinnen.
+Resilienz beschreibt die Fähigkeit von Gesellschaften und Organisationen, sich auf plötzliche und schwer vorher-sehbare negative Ereignisse (Schocks und Krisen) vorzubereiten, diese zu bewältigen und auf Basis der gemachten Erfahrungen ihre Systeme für Voraus-schau und Versorgungssicherheit anzu-passen und zu verbessern. Fragen der Resilienz überschneiden sich in einigen Bereichen mit Fragen der technologi-schen Souveränität.1
+Gesellschaften, die technologisch souverän sind, können selbstbestimmt über den Einsatz neuer Lösungen entscheiden. Dadurch haben sie bei der Vorsorge und im Krisenfall mehr Handlungs- und Bewältigungsmöglichkeiten, beispielsweise durch die Entwicklung und Produktion neuer Tests und Medikamente sowie durch digitales Krisenmanagement. Neben exzellenter Wissenschaft, innovativen Unternehmen und mehr Agilität (siehe Dachthema Agile Forschungs- und Innovationsförderung) tragen hierzu auch ganz wesentlich internatio-nale Kooperationen und Partnerschaften in Forschung und Innovation (FuI) bei. Deutsch-land sollte deswegen souverän, im Sinne einer größtmöglichen Entscheidungsfreiheit, nie aber protektionistisch handeln.
+Mit Blick auf die zukünftige Innovationsstrategie empfiehlt das Hightech-Forum der Bundesregierung übergreifende Maßnahmen zur Förderung von Vorausschau, Resilienz und technologischer Souveränität.
+„Die Veränderungs-geschwindigkeiten der Technologien und ihrer Anwendungen sind deut-lich schneller als unsere Innovationsprozesse. Wir müssen nicht nur den richtigen Rahmen finden, sondern wir werden nur dann erfolgreich sein, wenn wir die Geschwindig-keit erhöhen oder mit-halten können.“Frank Riemensperger
+Spitzenforschung im großen Maßstab in die Anwendung bringen
+Deutsche Spitzenforschung ist in wichtigen Zukunftsfeldern wettbewerbsfähig, etwa in Teilen der Quanten-, Bio-, Nano-, Informations-, Sensor- und Wasserstofftechnologien. Die Entwicklung von nachhaltigen Innovationen und technologischer Souveränität erfordert jedoch eine viel stärkere Vernetzung von Grundlagenforschung, Aus- und Weiterbildung sowie Wirtschaft. Benötigt werden verbindliche Architektur- und Förderrahmen, die alle Akteure, Systeme und Elemente betrachten, die für Souveränität und Skalierung in einem Technologiefeld notwendig sind. Sie müssen immer auf der Analyse der gesamten Techno-logie-Architektur und der vorhandenen Kompetenzen und Akteure in Europa erfolgen. Hier-zu gehören Schlüsseltechnologien, Infrastrukturen, Materialien, Qualifizierungen, Dienst-leistungen und mögliche Anwender. Ein unstrukturierter und kleinteiliger Flickenteppich aus Fördermaßnahmen und Initiativen ist unbedingt zu vermeiden. →
+Die Bundesregierung muss insgesamt stärker darauf dringen, dass exzellente Ergebnisse aus der Forschung zum Wohle der Gesellschaft in die breite Anwendung kommen (siehe Dachthema Initiative für Transferfreiheit – Förderung von wissensintensiven Gründungen). Resilienz und technologische Souveränität erfordern eine kritische Marktgröße oder Skalierung von Innovationen. In einem Innovationspakt sollten sich Politik, Wirtschaft und Wissenschaft zu gemeinsamen Anstrengungen verpflichten. An der Erreichung des 3,5-Prozent-Ziels bis 2025 ist dabei festzuhalten. Um höhere FuI-Investitionen der Wirt-schaft, insbesondere in die Skalierung von Pilotprojekten und Prototypen, zu erreichen, müssen Anreize gesetzt werden. Wichtig ist eine nachhaltigkeitsorientierte Deregulierung in zentralen Innovationsfeldern, wie z. B. der Mobilität und Energiewirtschaft. Regulierende Maßnahmen sollten auf ein erforderliches Minimum reduziert werden. Politische Innova-tionshemmnisse sind abzubauen, hierzu zählen komplizierte Fördermodelle, bürokratische Verfahren und lange Entscheidungszeiträume. Im Rahmen des European Green Deal und der Konjunkturpakete sind europäische Innovations- und Infrastrukturprojekte von der Regierung einzufordern und gemeinsam mit Wirtschaft, Wissenschaft und Gesellschaft voranzubringen, um Leitmärkte für Zukunftstechnologien und nachhaltige Innovationen in Europa zu entwickeln. →
+Technologische Souveränität bedeutet die Fähigkeit, Technologien, die ein Staat oder Staatenbund für sich als kritisch für Wohlfahrt, Wettbewerbs-fähigkeit und Handlungsfähigkeit definiert, selbst vorzuhalten und weiter-zuentwickeln oder diese ohne einseitige strukturelle Abhängigkeit von anderen Wirtschaftsräumen zu beziehen. Souveränität erfordert Kompetenzen, um Technologien zu prüfen, einzu-setzen, zu verbessern und selbst zu entwickeln.2
+Klimawandel, Pandemien und Protektionismus sind drei akute Herausforderungen, vor denen Deutschland und Europa stehen. Sie sind grenzüberschreitend und greifen tief in die Funktionsweise von Gesellschaft und Wirtschaft ein. Prinzipiell gilt: Je nachhaltiger Gesellschaft und Wirtschaft aufgestellt sind, desto resilienter sind sie und desto besser werden sie mit solchen Herausforderungen umgehen können.
+[Page #11]
+Dachthema
+Resilienz und technologische Souveränität
+Grundlagenforschung bleibt das Fundament für die Wissensgesellschaft und trägt wesent-lich zu technologischer Souveränität und Resilienz bei. Die Bundesregierung sollte der Wissenschaft gerade in Zeiten knapper Budgets ausreichend finanzielle und strukturelle Freiräume ermöglichen. Der Transfer in die Gesellschaft muss jedoch stärker über erfolgs-basierte Anreize eingefordert werden. →
+Lesen, schreiben, rechnen – digital handeln: Der souveräne Umgang mit digitalen Techno-logien und Daten hat sich zu einer vierten Grundkompetenz entwickelt. Daneben braucht es nichtdigitale Schlüsselfähigkeiten wie Kreativität, Anpassungsfähigkeit oder unterneh-merisches Denken. Lehrende und Lernende müssen besser befähigt werden, um mit den aktuellen und zukünftigen Herausforderungen umzugehen. Notwendig sind neue Curricula, eine adäquate digitale Infrastruktur sowie professionelle Ausstattung und Unterstützung im Lehrbetrieb, etwa durch IT-Servicedesks oder Online-Bildungsbeauftragte. →
+Rund
+Rund
+80%
+60%
+der Deutschen finden, dass Schulen Programmieren ebenso selbstverständlich vermitteln sollten wie Rechnen oder Schreiben.
+der Unternehmen sehen digitale Souveränität als einen wichtigen Standortfaktor.
+Die Wissenschaft nimmt nicht nur im Krisenfall eine beratende und gestaltende Rolle ein. Sie ist auch zentral für moderne Systeme der Vorausschau und liefert wertvolle Erkennt- nisse für den Umgang mit Risiken und Unsicherheiten. Die Forschung zur Frühaufklärung und zu Resilienz muss deutlich gestärkt werden. Benötigt werden insbesondere Modelle und Simulationen, die naturwissenschaftliche mit gesellschaftlichen und wirtschaftlichen Perspektiven verbinden. Zudem ist der regelmäßige Austausch zwischen Politik, Wissen-schaft, Wirtschaft und Gesellschaft über Vorsorge, Vorbereitung und Resilienz zu fördern, etwa in Open-Science- und Foresightprojekten. (Siehe Dachthema Beteiligung als strategi-sches Instrument der Innovationspolitik) →
+N = 500 befragte Entscheider und Ent-scheiderinnen in Unternehmen
+Fortbildung muss integraler Bestandteil des (Arbeits-)Lebens werden und sich den Lebensumständen der Menschen anpassen. So nutzen immer mehr Menschen zeitlich flexible Formate wie Web-Tutorials, Podcasts, Onlinekurse (MOOCs) oder digitales Coaching. Die Bundesregierung sollte, unter anderem mit Wirtschaft und Bildungsträgern, den Bedarf analysieren, neue Angebote ableiten und vertrauenswürdige Zertifizierungen (weiter-)entwickeln. →
+Quelle: Repräsentative Umfrage von YouGov im Auftrag von eco – Verband der Internetwirtschaft e. V. unter 500 Unternehmensentscheidern verschie-dener Branchen. Verfügbar unter: www.eco.de/presse/mehrheit-der-deutschen-unternehmen-ueberzeugt-digitale-souveraenitaet-sichert- wirtschaftsstandort-deutschland
+Rund
+70%
+der Deutschen denken, dass Informatik ein Pflichtfach werden sollte.
+Der Staat sollte allen ermöglichen, an neuen Technologien und Innovationen teilzuhaben. Dies erfordert innovative Programme und Initiativen auch für Gruppen in gesellschaftlich schwächeren Positionen oder mit geringer Vorbildung. Damit Menschen Phasen von Kurz-arbeit oder Arbeitslosigkeit für Fortbildungen in Zukunftskompetenzen nutzen, sind klare Anreize notwendig. Gleichzeitig sollte die Qualifizierung rund um sogenannte systemkriti-sche und Engpassberufe stärker gefördert werden. →
+Digitale Souveränität fördern
+N = 1012 Befragte
+Quelle: Repräsentative Umfrage von Bitkom Research im Auftrag des Digital-verbands Bitkom, 2018. Verfügbar unter: www.bitkom.org/Presse/Presseinformation/Drei-von-vier-Buergern-wollen-Bildungsfoederalismus-abschaffen.html
+Die Bundesregierung sollte sich für eine europäische Digitalstrategie einsetzen, die technolo-gische Unabhängigkeit und Sicherheit für alle Mitgliedstaaten fördert. Dabei ist die gesamte Technologie-Architektur in den Blick zu nehmen: Nur wenn die Bereiche Software, Hardware, Ökosysteme, Konnektivität und Rohstoffe gemeinsam betrachtet werden, können Anbieter und Kompetenzen gezielt gefördert und kann somit technologische Souveränität in Europa erreicht werden. →
+Internationale Partnerschaften für Resilienz und techno- logische Souveränität unterstützen
+Das Hightech-Forum betont, dass innovationsfreundliche Rahmenbedingungen für den Aufbau digitaler Ökosysteme notwendig sind. Insbesondere sollte die Bundesregierung das Wettbewerbsrecht so weiterentwickeln, dass es skalierbare digitale Geschäftsmodelle ermöglicht und den Austausch zwischen den Akteuren fair gestaltet. Für einen gemeinsamen europäischen Forschungs- und Datenraum sollte die Bundesregierung auf Synergien und Schnittstellen der Nationalen Forschungsdateninfrastruktur (NFDI) und der European Open Science Cloud (EOSC) mit dem Dateninfrastruktur Projekt GAIA-X drängen. →
+In Europa sind gemeinsame Resilienz-Strategien für kritische Bereiche der Versorgung zu entwickeln und umzusetzen. Dies betrifft neben der klassischen Grundversorgung im besonderen Maße die digitalen Systeme, die Datengrundversorgung und -sicherheit sowie neue Wertschöpfungsmodelle. Diese sind durch nationale Strategien zu unterfüttern bzw. zu ergänzen. Resilienz verursacht Mehrkosten, diese müssen durch die damit verfolgten gesellschaftlichen Ziele gerechtfertigt sein. Zum Beispiel Mehrkosten für die Sicherung von Bildung, Ernährung, Gesundheit und Umweltschutz. →
+„Europa ist unsere Zu-kunft. Wir müssen bei den neuen Technologien den Anspruch haben, vorne mitzuspielen. Das bedeu-tet auch, unsere Kompe-tenzen zu erweitern, etwa in den Bereichen KI, High-Performance Computing oder 5G.“Prof. Dr. Sabina Jeschke
+Der zukünftige Wettbewerb in der Digitalökonomie entscheidet sich über die Datenverfüg-barkeit und den -zugriff sowie über digitale Geschäftsmodelle. Das Hightech-Forum emp-fiehlt, mehr Räume für datengetriebene Anwendungsmodelle zu schaffen. Der Staat sollte hier als Vorbild für eine Kultur und Praxis der kontrollierten Öffnung vorangehen. Gleich-zeitig ist dabei die Souveränität der Bürger über ihre persönlichen Daten zu wahren bzw. überhaupt erst herzustellen. (Siehe Dachthema Beteiligung als strategisches Instrument der Innovationspolitik) →
+Vor dem Hintergrund geopolitischer Konkurrenzen gewinnen multilaterale Abkommen in der Innovationspolitik, etwa zu Technologiestandards, Sicherheitsüberlegungen oder Forschungsethik, an Bedeutung. Die Beteiligung deutscher Akteure sollte von der Regierung stärker angeregt und gefördert werden. →
+„Gut ausgebildete Menschen können besser mit Veränderungen und Unsicherheiten umgehen. Sie machen unsere Unter-nehmen innovativ und fit für den globalen Wett-bewerb. Das deutsche Aus- und Weiterbildungs-system muss so moderni-siert werden, dass es alle Menschen mitnimmt und auf lebenslanges Lernen vorbereitet.“Dr. Marion Jung
+Im Sinne der strategischen Handlungsfähigkeit und der Vermeidung von strukturellen Abhängigkeiten von einzelnen Ländern sollte die Ausweitung von internationalen FuI-Part-nerschaften weiter unterstützt werden. Deutschland hat als globaler Wirtschaftsakteur auch ein Interesse und eine gewisse Verantwortung für die Unterstützung und Befähigung von Ländern mit geringeren Innovationskapazitäten. →
+Zukunftskompetenzen und Qualifizierung stärken
+Vorausschau, Resilienz und technologische Souveränität benötigen andere Kompetenzen und Qualifikationen, als heute ausgebildet werden. Hierzu braucht es eine systematische Weiterentwicklung der Aus- und Weiterbildung in Deutschland. In einem regelmäßigen Dialog zwischen den Unternehmen, Bildungsträgern, Sozialpartnern, Ministerien sowie den Industrie- und Handelskammern sollten neue Anforderungen und Zukunftskompetenzen definiert werden. Passende Bildungsangebote für alle Lernphasen sind zu entwickeln und auszurollen. →
+Referenzen
+1
+In Anlehnung an: Fünfter Innovationsdialog in der 19. Legislaturperiode 2021:Resilienz von Lieferketten und Wertschöpfungsnetzwerken.
+2
+Edler, J., et al. (2020). Technologiesouveränität. Von der Forderung zum Konzept. Fraunhofer-Institut für System- und Innovationsforschung ISI. Verfügbar unter: www.isi.fraunhofer.de/content/dam/isi/dokumente/publikationen/technologiesouveraenitaet.pdf
+ Weitere Informationen verfügbar unter: www.acatech.de/allgemein/
+fuenfter-innovationsdialog-der-19-legislaturperiode
+[Page #12]
+Agile Forschungs- und Innovationsförderung
+DachthemaAgile Forschungs- und Innovationsförderung
+Ministerien und öffentliche Einrichtungen arbeiten in einem Spannungsfeld: Während zunehmende Unsicherheiten und rasante Veränderungen die Grenzen langfristiger Planungen und fester Strukturen aufzeigen, ist ein verlässlicher Staat genau darauf angewiesen. Dieses Dilemma ist aber lösbar, wie der frühe Umgang mit der COVID-19-Pandemie zeigte: Beweglich wie nie gingen staatliche Stellen neue Wege, indem sie statt in Behördengrenzen, staatlichen Ebenen und Haushaltstiteln in Herausforderungen dachten und wo nötig auch externe Kom-petenz einbezogen. Diese Beweglichkeit entstand aus der Not der Krise heraus, war teils zu hektisch und ließ im Zeitablauf wieder nach. In Zukunft muss Agilität zur Normalität werden.
+Agilität wird in Politik und Wirtschaft mit einem Kulturwandel hin zu mehr Eigeninitiative, Reaktionsschnelligkeit, Kundenorientierung, Lernfähigkeit sowie Anpassungsfähigkeit – insbeson-dere von Bürokratien und Systemen – verbunden. Agilität in der Politik und öffentlichen Verwaltung bedeutet, dass vermehrt ressortübergreifende Teams eingesetzt werden, um zügig und bedarfsorientiert mit neuen Trends umzugehen und diese mitzugestalten. Wirtschaft, Wissenschaft und Gesell-schaft werden aktiv in die Entwicklung und Gestaltung von Innovationspolitik eingebunden. Die Bedürfnisse von Innovatoren, Zuwendungsempfängern und Nutzern öffentlicher Leistungen bzw. der Gesellschaft stehen im Mittel-punkt.¹
+Agiles Regierungshandeln kann sowohl das Agenda-Setting als auch die Politikformulierung und ihre Umsetzung verbessern sowie die Innovationsfähigkeit aller Akteure stärken. Das Hightech-Forum empfiehlt der Bundesregierung, mit folgenden Schritten notwendige Impulse und Rahmenbedingungen zu setzen:
+Staatliche Agilität und Innovationskraft fördern
+Agilität erfordert einen übergreifenden Kulturwandel und insbesondere eine Modernisie-rung des Personalwesens in der öffentlichen Verwaltung. Eine Bewertung der Innovations-kraft und der Agilität der deutschen Verwaltung ist aufgrund fehlender Daten nicht möglich. Eine zukünftige Innovationsstrategie sollte mehr „Beidhändigkeit“ fördern. Hierfür sind regelmäßige Innovationsmessungen (z. B. „Innovationsbarometer“), agile Umsetzungs-projekte und staatliche Inkubatoren sowie Coaching zu agiler Führung in der öffentlichen Verwaltung einzurichten und zu finanzieren. →
+Die öffentliche Hand als innovative Beschafferin etablieren
+Bund, Länder und Kommunen verfügen über einen Förderhebel für Zukunftstechnologien und Innovationen, den sie zu selten einsetzen: ihre Einkäufe. Das Hightech-Forum betont die Notwendigkeit, die Daten aus der Vergabestatistik hinsichtlich der Beschaffung von Innovationen auszuwerten und verfügbar zu machen. Auf dieser Basis sollten in den öffent-lichen Verwaltungen innovationsorientierte Beschaffungsstrategien erarbeitet werden. Das Hightech-Forum empfiehlt staatlichen Stellen zum einen, Nachhaltigkeit und Innovation als strategische Einkaufsziele festzulegen und über deren Erreichen regelmäßig zu be-richten. Zum anderen sollten messbare Ziele für die Anwendung moderner Beschaffungs-methoden festgelegt werden. Insbesondere Förderansätze der agilen Beschaffung von Innovationen wie „Pre-commercial Procurement“ und „Public Procurement of Innovative Solutions“ sind häufiger einzusetzen und weiterzuentwickeln. →
+„In Zeiten rasanter Ent-wicklungen und techno-logischer Umbrüche, aber auch globaler Pandemien, wie wir sie gerade erleben, braucht Deutschland ein Innovationssystem, das sich durch Reaktions-schnelligkeit, Kreativität und Anpassungsfähigkeit auszeichnet.“Prof. Dr. Holger Hanselka
+Förderprogramme öffnen
+Bisher decken die Programme der Forschungs- und Innovationsförderung einen begrenz-ten Teil der Wirtschaft und einen noch kleineren Teil der Gesellschaft ab. Geprüft werden sollte, ob durch eine stärkere Öffnung von Förderprogrammen für neue Akteursgruppen zusätzliche Innovationspotenziale gehoben werden können. Gerade Kleinunternehmen mit oft herausragenden handwerklichen Kompetenzen, Start-ups mit neuen Ideen und zivil-gesellschaftliche Akteure mit besonderem Verständnis für Probleme und Bedürfnisse in der Gesellschaft werden bisher zu wenig berücksichtigt. Wenn mehr und eventuell weniger erfahrene Akteure mitmachen, müssten die Förderprogramme mit zusätzlichen Mitteln zur Begleitung, Projektkoordination sowie zur Ergebnisaufbereitung ausgestattet werden. →
+Mehr Wissen, mehr Beteiligte, mehr Komplexität, mehr Tempo: Forschungs- und Innovations-förderung muss mit einem ständigen „mehr“ in verschiedenen Dimensionen klarkommen. Die Politik soll gesellschaftliche, technologische und ökologische Veränderungen früher auf-greifen und proaktiv mitgestalten. Eine höhere Innovationskraft und Agilität in der öffentlichen Verwaltung und im gesamten Innovationssystem gelten hierfür als Grundvoraussetzung.
+[Page #13]
+Dachthema
+Agile Forschungs- und Innovationsförderung
+Forschungs- und Innovationsförderung agil aufstellen
+In Zukunft muss Agilität zur Normalität werden.
+Öffentliche Programme und Ausschreibungen müssen schlanker, flexibler und ziel-orientierter gemanagt werden. →
+Empfohlen werden dazu:• vereinfachte und vor allem digitale Antragsverfahren • zügige Bearbeitungszeiten und fortlaufende agile Betreuung •
+längerfristige, zielorientierte Programme mit agilen Elementen, insbesondere mit tranchenweiser Auszahlung von Mitteln vorab sowie nach Meilensteinerreichung,
+„Innovationen entstehen letztlich in kreativen Köpfen, die eine Vielfalt von Expertise und Erfahrungen miteinander verbinden. Deshalb soll-ten Fachleute auch mal zwischen den Sphären Wissenschaft, Wirtschaft und Politik wechseln.“Prof. Dr. Birgitta Wolff
+ bei gleichzeitiger Möglichkeit, Projektpläne in einem zumutbaren Zielkorridor
+agil anzupassen
+• mehr niederschwellige und technologieoffene Förderformate für „kleinere“ und  neue Akteure, etwa Prototype Funding oder Wettbewerbe• schlanke Evaluierung und reflexive Begleitforschung• Wissens- und Technologietransfer in Gesellschaft und Wirtschaft von Anfang
+an mitdenken, durch entsprechende Konditionen und Strukturen;
+ Ergänzung durch privates Kapital möglich machen (siehe Dachthema Initiative
+für Transferfreiheit – Förderung von wissenintensiven Gründungen)
+„Wir brauchen neue, agile Formate wie z. B. Realla-bore, damit Wissenschaft, Wirtschaft, Gesellschaft und Politik gemeinsam Neues erproben und die Rahmenbedingungen für Innovationen noch pass-genauer weiterentwickeln können.“Prof. Dr. Reimund Neugebauer
+Reallabore und Experimentierräume ausbauen
+Für den Einsatz neuer und verschmelzender Technologien, wie beispielsweise künstliche Intelligenz, Bio-IT, Blockchain oder Quanten, müssen häufig erst die passenden Rahmen-bedingungen bestimmt und Regulierungsansätze entsprechend gestaltet werden. Reallabore oder Experimentierräume bieten die Möglichkeit, die Bedingungen und Regulierungsan-forderungen für den Einsatz neuer Technologien und Innovationen erst mal in geschützten Räumen mit sämtlichen Beteiligten und Betroffenen zu entwickeln und zu testen. Die Bundesregierung hat geklärt, dass Experimentierklauseln für Reallabore genutzt werden können und eine Arbeitshilfe für die Formulierung rechtssicherer Experimentierklauseln entwickelt.² Nun sollte sie die Kapazitäten für solche Reallabore ausbauen, ihre Finanzierung und Bewerbung stärken sowie die geförderten Anwendungsbereiche über die Energie-forschung hinaus erweitern. →
+Innovative Beschaffung: Aufholbedarf in Deutschland
+34%
+100%
+90%
+Deutschlands Innovationspolitik nutzt im Rahmen der öffentlichen Beschaffung lediglich 34 % der Möglichkeiten.
+80%
+70%
+60%
+50%
+Reallabore der Energiewende in Deutschland
+40%
+Quelle: Bundesministerium für Wirt-schaft und Energie: Die Energiewende praktisch umsetzen. Reallabore der Energiewende. Verfügbar unter: www.bmwi.de/Redaktion/DE/ Schlaglichter-der-Wirtschaftspolitik/ 2019/10/kapitel-1-4-die-energiewende-praktisch-umsetzen.html
+30%
+20%
+10%
+0%
+I
+Irla
+L
+L
+L
+S
+S
+Slo
+Slo
+S
+Fin
+F
+E
+Z
+T
+P
+P
+B
+B
+R
+K
+G
+D
+D
+U
+U
+t
+N
+N
+Ö
+ita
+M
+r
+s
+ie
+stla
+c
+c
+r
+e
+y
+rie
+u
+p
+elg
+ole
+o
+u
+ulg
+s
+ä
+e
+a
+n
+o
+alta
+K
+a
+ttla
+c
+lie
+r
+x
+t
+o
+h
+h
+a
+p
+r
+n
+u
+g
+t
+nla
+n
+h
+m
+e
+a
+d
+e
+n
+w
+e
+w
+t
+n
+u
+ie
+e
+c
+a
+w
+w
+ie
+tie
+r
+w
+k
+u
+r
+ä
+a
+e
+n
+erla
+s
+a
+e
+d
+r
+e
+n
+reic
+e
+eiz
+reic
+n
+h
+rie
+m
+e
+c
+g
+n
+n
+c
+m
+kei
+n
+n
+n
+n
+n
+n
+d
+ie
+e
+d
+ie
+b
+n
+g
+al
+h
+a
+hla
+d
+n
+ie
+d
+e
+nla
+r
+e
+u
+n
+n
+r
+n
+n
+k
+n
+n
+h
+h
+d
+n
+g
+n
+n
+e
+d
+d
+Referenzen
+1 Hightech-Forum (2020). Agilität im Innovationssystem. Impulspapier.
+2 Bundesministerium für Wirtschaft und Energie (2020). Recht flexibel.
+Verfügbar unter: www.hightech-forum.de/publikationen/
+Arbeitshilfe zur Formulierung von Experimentierklauseln. Verfügbar unter: www.bmwi.de/Redaktion/DE/Publikationen/Digitale-Welt/recht-flexibel- arbeitshilfe-experimentierklauseln.pdf?__blob=publicationFile&v=8
+Quelle: Europäische Kommission, Directorate-General for Communications Networks, Content & Technology (2019): The Strategic Use of Public Procurement for Innovation in the Digital Economy.Verfügbar unter: www.ec.europa.eu/digital-single-market/en/news/benchmarking-national-innovation-procurement-investments-and-policy-frameworks-across-europe
+[Page #14]
+Initiative für Transferfreiheit – Förderung von wissensintensiven Gründungen
+DachthemaInitiative für Transferfreiheit —Förderung von wissensintensiven Gründungen
+Das Hightech-Forum hat sich Fragen der Förderung des Wissens- und Technologietransfers und der „Wagnis- und Gründungskultur“ in verschiedenen Beratungspapieren gewidmet. Ausgründungen und die Förderung von wissensintensiven Start-ups sind ein wichtiger Pfad des Technologietransfers. Insbesondere im Bereich der Zukunftstechnologien und nach-haltiger Innovationen sind wissensintensive (Aus-)Gründungen von zentraler Bedeutung für Resilienz, technologische Souveränität, industrielle Transformation und das Erreichen der Nachhaltigkeitsziele. Die Neugründungsquote ist in diesen Bereichen in Deutschland im internationalen Vergleich zu gering.5, 6
+Ausgründungen basieren auf geistigem Eigentum und anderen Ergebnissen der Forschungseinrichtung, die wiederum direkt (Beteiligung) oder nur indirekt (durch Forschende) an dem Unterneh-men beteiligt ist. Der Übergang von gemeinnütziger Forschungstätigkeit hin zu wirtschaftlicher Tätigkeit ist häufig fließend.
+In den Beratungen des Hightech-Forums wurden eine Reihe von politischen und rechtlichen Rahmenbedingungen offenkundig, die wissensintensive Gründungen behindern. Aus diesem Grund schlägt das Hightech-Forum eine Initiative für mehr Transferfreiheit vor, die sich auf diese Aspekte konzentriert. Sie sind wichtige, aber nicht alleinige Elemente für die Ermutigung von wissensintensiven Gründungen.
+Die Empfehlungen ergänzen somit die in bisherigen Beratungspapieren vorgeschlagenen Verbesserungen bezüglich der Aktivierung von Wagnis- und Wachstumskapital, der stärkeren Vernetzung von Wissenschaft, Wirtschaft und Gesellschaft, der Öffnung von Wissenschaft und Innovation sowie dem Aufbau unternehmerischer Kompetenzen. →
+In Anlehnung an die Grundideen des „Wissenschaftsfreiheitsgesetzes“ will diese Initiative klare politische Ziele und ermutigende Rahmenbedingungen für Ausgründungen und wissensintensive Start-ups in Deutschland schaffen. Da nicht an allen Forschungseinrich-tungen und Hochschulen bereits die notwendige starke Gründungskultur vorhanden ist, um Gestaltungsspielräume gründungsfreundlich zu nutzen, sind in diesen Einrichtungen besondere Anstrengungen notwendig.
+„Deutschlands Forschung ist in vielen Bereichen Weltklasse. Viel zu häufig finden aber die Forschungs-ergebnisse nicht ihren Weg in Wirtschaft und Gesellschaft. Wir brauchen mehr Anreize und bessere Rahmenbedingungen für Ausgründungen sowie mehr Anerkennung für anwen-dungsnahe Forschung, damit aus hochklassigen Ideen Innovationen werden.“Prof. Dr. Katharina Hölzle
+Das Hightech-Forum empfiehlt folgende Eckpunkte für die Initiative:
+Stärkung aller Technologie-Transferpfade für KMU in Deutschland
+Alle Transferpfade sind für die Wirtschaft und Gesellschaft von großer Bedeutung. Sie müssen politisch unterstützt und ergebnisorientiert gefördert werden. In Deutschland ist der Beitrag des Mittelstands an der gesamtwirtschaftlichen Innovationsleistung rückläufig und droht infolge der COVID-19-Krise weiter zu sinken.4, 6, 7 In der zukünftigen Innovations-strategie der Bundesregierung müssen deshalb klare Schwerpunkte gesetzt werden, um den Technologietransfer in kleine und mittelständische Unternehmen (KMU) sowie wissens-intensive Gründungen substanziell zu stärken. Der politisch geäußerte Wunsch nach mehr Technologietransfer in die Wirtschaft darf dabei nicht zur Einschränkung der Wissen-schaftsfreiheit in der Grundlagenforschung führen. Die Wege und Konditionen des Techno-logietransfers werden prinzipiell von den Wissenschaftseinrichtungen gewählt.
+Ein zentrales Ziel des Wissens- und Technologietransfers ist es, Informationen und Daten, Erfindungen und Ideen aus der Wissenschaft so weiterzugeben, dass Unternehmen daraus marktfähige Technologien, Produkte und Dienstleistungen entwickeln können und dadurch auch im Sinne gesellschaftlicher Ziele wirksame Innovationen in Anwendung bringen. Der Transfer von Wissen und Technologien aus der Wissenschaft in die Wirtschaft, im Weiteren hier als „Technologietransfer“ bezeichnet, ist Aufgabe der Hochschulen und außeruniversitären Forschungseinrichtungen.¹ Die Ergebnisse und die Effizienz dieses Transfers gelten in Deutsch- land und Europa jedoch seit Jahren als verbesserungswürdig („European Paradox“). Dies trifft insbesondere für den Transferpfad der wissensintensiven (Aus-)Gründungen zu.2, 3, 4
+Start-ups oder Gründungen sind ein Überbegriff für junge Unternehmen, die auf einer innovativen Geschäftsidee beruhen und ein schnelles Wachstum anstreben. Wissensintensive Start-ups streben die Nutzung von Know-how, Infrastruktur und/oder geistigem Eigentum einer Wissenschaftsein-richtung an.
+In der zukünftigen Innovationsstrategie sind die Transferinstrumente aller Wissenschafts-einrichtungen ergebnisorientiert weiterzuentwickeln. Die Vereinbarungen des Pakts für Forschung und Innovation sind umzusetzen.8 Hochschulen müssen bei ihren Bemühungen für mehr Transfer und Entrepreneurship systematisch unterstützt werden. Erfolgreiche Transfermodelle und -strategien, insbesondere für kleine und mittelständische Unterneh-men, sollten evaluiert und deutschlandweit ausgerollt werden. Die weitere Professionali-sierung des Technologietransfers ist zu fördern. Eine starke Förderung von Validierungen (z. B. Prototypen) und Demonstratoren ist wichtig, um die wirtschaftlichen Potenziale von
+[Page #15]
+Dachthema
+Initiative für Transferfreiheit – Förderung von wissensintensiven Gründungen
+Erfindungen und neuen Technologien für Start-ups und KMU greifbarer zu machen. Die Bundesregierung sollte durch ihre Förderpolitik Anreize für kooperative Wertschöpfung mit KMU setzen, um staatlich geförderte Programme mit klarem Anwendungsbezug zu hebeln. →
+Förderung von wissensintensiven Gründungen und Entrepreneurship sollte neben Forschung und Lehre als wichtige, gemeinnützige Mission der Hochschulen und außeruniversitären Forschungseinrichtungen anerkannt werden. Eine entsprechende Berücksichtigung im Gemeinnützigkeitsrecht wäre ein weithin sichtbarer politischer Beitrag zu einem Kultur-wandel in Richtung einer „Gründungs- und Wagniskultur“ in Deutschland. Eine rechtliche Verankerung könnte es ermöglichen, dass Unterstützungsleistungen vorwettbewerblich und in der Phase vor der Gründung (z. B. Bildung, Training, Beratung, Nutzung der Infra-struktur, Proof-of-Concept) gemeinnützig durchgeführt werden dürfen. Das hätte den Vor-teil, dass der Ausgründungsprozess für Wissenschaftseinrichtungen und Gründungsteams wesentlich vereinfacht wird, weil die Vorgründungsleistungen nicht mehr über Unterneh-mensanteile oder Zahlungen vergütet (und verhandelt) werden müssten.
+Als gründungsfreundlich gelten Trans-ferbedingungen, die für alle Parteien transparent, nachvollziehbar und fair sind (z. B. höheres Risiko bedeutet hö-here Ertragschance). Insbesondere sind pragmatische, liquiditätsschonende Lösungen in der Anlaufphase kritisch, um die Finanzierung und das Wachstum des Unternehmens zu ermöglichen. Dies bedeutet z. B. den Verzicht auf hohe Einmalzahlungen am Beginn sowie die Vereinbarung von erfolgsbasierten anstatt von fixen Zahlungen. Aufgrund der hohen Unsicherheit bezüglich des Geschäftsmodells und der zukünftigen Entwicklung zum Zeitpunkt des Ver-tragsabschlusses wird empfohlen, Zeit-punkte für Nachbesserungen im Vertrag vorzusehen. Es gibt viele vertragliche Möglichkeiten für die Umsetzung von gründungsfreundlichen Bedingungen, insbesondere über die Kombination von Zahlungsbausteinen. Diese Vielfalt sollte im Sinne der Gründerinnen und Gründer erhalten bleiben. Wichtig ist der gemeinsame Wille der Vertragspar-teien, die Ausgründung rechtskonform, zügig und so nachhaltig wie möglich auf den Weg zu bringen.
+Transferkultur: Politisches Narrativ und klare Zielsetzungen zur Ermutigung von Ausgründungen und wissensintensiven Start-ups
+Der Technologietransfer durch (Aus-)Gründungen bedingt, dass junge Unternehmen den Zugang zu geistigem Eigentum (IP), Ressourcen und Know-how der Forschungseinrichtung erhalten müssen. Die Wissenschaftseinrichtungen können verhandeln, zu welchen Bedin-gungen diese Zugänge gewährt werden.10 Die politischen Erwartungshaltungen und recht-lichen Rahmenbedingungen führen in diesem Bereich jedoch regelmäßig zu Zielkonflikten. Einerseits sollen durch möglichst günstige Konditionen mehr Ergebnisse der öffentlich geförderten Forschung durch Unternehmen aufgegriffen werden,8 andererseits soll ein möglichst hoher monetärer Rückfluss erzielt werden (z. B. gemäß haushaltsrechtlichen Vor-gaben). Insbesondere bei Ausgründungen sorgen sich die Forschungseinrichtungen, Grün-dungen zu übervorteilen, Spitzenkräfte zu verlieren oder an einem zukünftigen Erfolg nicht ausreichend beteiligt zu sein. Der Transfer verursacht zudem Kosten, die speziell bei (Aus-)Gründungen meist nicht kurzfristig durch Verwertungen von geistigem Eigentum gedeckt werden können.11
+Präzisierung der Vorschriften zum EU-Beihilferecht und Harmonisierung des Rechts
+Während der Gründungsphase müssen sich Wissenschaftseinrichtungen, Gründungsteams und Investoren auf Nutzungs- und Übergabebedingungen für geistiges Eigentum und andere Ressourcen einigen. Sie bewegen sich dabei in einem komplexen Rechtsrahmen. Das EU-Beihilferecht sowie das Haushalts- und Zuwendungsrecht setzen Forschungseinrich-tungen prinzipiell bei der Unterstützung nach der Gründung eines Unternehmens oder in der Zusammenarbeit mit KMU enge Grenzen, die häufig einen effektiven Technologietrans-fer behindern. Für die Förderung des Transfers in wissensintensive Gründungen gibt es aber auch rechtliche Handlungsspielräume für gründungsfreundliche Konditionen, die noch nicht von allen Forschungs- und Transfereinrichtungen optimal genutzt werden. So kommt es immer wieder zu Unsicherheiten in der Interpretation der Regeln sowie damit verbun-denen Verzögerungen und Irritationen bei Vertragsverhandlungen. Gerade in Deutschland erscheint die Dauer der Verhandlungen im internationalen Vergleich als zu lang.13 Die Bewertung des jungen Unternehmens sowie die Bemessung notwendiger Rückflüsse für die (zumeist) exklusive Überlassung von geistigem Eigentum, das während der Tätigkeit in der Wissenschaftseinrichtung gewonnen wurde, richten sich nach dem Kriterium der Marktüblichkeit. Die Auslegung der Marktüblichkeit (EU-Beihilferecht) und die Bewertung einer Ausgründung, insbesondere wenn es noch keinen Markt für eine Technologie/ Erfindung gibt, variieren jedoch stark je nach Forschungseinrichtung und Vertragsparteien.14 Dies führt zu Intransparenz, Verunsicherung und Ineffizienz im Transferprozess und kann abschreckend auf den Kreis der potenziellen Gründerinnen und Gründer wirken.
+Entrepreneurship bezieht sich auf Gründertum und das dazugehörige unternehmerische Denken und Handeln von Personen.
+Das Hightech-Forum empfiehlt ein neues politisches Narrativ für den Transfer in Ausgrün-dungen und wissensintensive Start-ups. Wichtig ist hierfür die Förderung einer ermutigenden Transferkultur, die darauf abzielt, gemeinsam mit Gründerinnen und Gründern wissens- intensive Start-ups so auf den Weg zu bringen, dass sie erfolgreich sein können. (Aus-)Gründungen dienen wichtigen gesellschaftlichen Zielen öffentlich finanzierter Wissen-schaft. Nicht die naturgemäß unsicheren Verwertungseinnahmen bzw. Mittelrückflüsse sollten das Maß des Erfolgs bei (Aus-)Gründungen sein, sondern der Beitrag der Wissen-schaft zu Innovationen, neuen Unternehmen und Arbeitsplätzen sowie zur Lösung der großen gesellschaftlichen Herausforderungen. Forschungs- und Transfereinrichtungen sollten an der Erreichung dieser längerfristigen Ziele gemessen und entsprechend gefördert werden. Bund und Länder müssen dafür auch bestehende Zielkonflikte, z. B. mit haushalts- oder zuwendungsrechtlichen Vorgaben, auflösen.
+Ranking gründungsstarke Hochschulen in Europa
+University of Cambridge, UK529 Unternehmen421 Gründer/-innen
+London School of Economics, UK329 Unternehmen267 Gründer/-innen
+University of Oxford, UK327 Unternehmen242 Gründer/-innen
+Technische Universität Berlin193 Unternehmen197 Gründer/-innen
+Technische Universität München176 Unternehmen213 Gründer/-innen
+Entrepreneurship im internationalen Vergleich
+Die Bundesregierung sollte sich dafür einsetzen, dass in den FuEuI-Unionsrahmen (Unions-rahmen für staatliche Beihilfen zur Förderung von Forschung, Entwicklung und Innovation) Klarstellungen aufgenommen werden, welche die Überlassung bzw. Nutzung von geisti-gem Eigentum sowie von Infrastruktur an wissensintensive Gründungen regeln. Dies sollte insbesondere die folgenden Fragestellungen betreffen: a) Auswahl der (Aus-)Gründung als (exklusive) Nutzerin, b) gründungsfreundliche Konditionen und die Frage, wer c) das wirt-schaftliche Risiko trägt. Dies muss mit nationalem Recht (insbesondere Haushaltsrecht auf Bundes- und Länderebene) harmonisiert werden.
+Förderung von wissensintensiven Gründungen als gemeinnütziges Ziel
+14 %
+USA
+Das Ranking zeigt die Anzahl der Unternehmensgründungen seit 1990.
+10 %
+China
+Ihren gemeinnützigen Zweck leiten Hochschulen und Forschungsgesellschaften bislang ausschließlich aus ihrem gesellschaftlichen Auftrag ab, Forschung und Entwicklung durch-zuführen. Im Sinne des § 52 Abgabenordnung (AO) ist dies ein gemeinnützig anerkannter Satzungszweck. Erfüllt die Einrichtung dagegen ihren politisch formulierten Auftrag, Tech-nologietransfer in Form einer Gründungsberatung und -unterstützung anzubieten, verlässt sie den Boden der Gemeinnützigkeit. Ziel muss es sein, in Hochschulen und Forschungsein-richtungen in der Breite Unterstützung von Gründungsvorhaben in der Vorgründungsphase als Teil der institutionellen Gründungsförderung kostenfrei anbieten zu können.12
+Quelle: European Startups (www.europeanstartups.co), Zugriff am 15.03.2021
+8 %
+UK
+5 %
+Deutschland
+Prozentanteil derjenigen 18- bis 64-Jährigen, die während der letzten 35 Jahre ein Unternehmen gegründet haben und/oder gerade dabei sind, ein Unternehmen zu gründen
+Handreichungen und gründungsfreundliche Muster-Vereinbarungen
+Quelle: Global Entrepreneurship Monitor – Länderbericht Deutschland 2017/2018. Verfügbar unter: www.gemconsortium.org/report/gem-2017-2018-global-report
+Durch die Vereinfachung und Offenlegung von gründungsfreundlichen und rechtskonformen Vertragskonditionen für die Überlassung geistigen Eigentums und anderer Ressourcen wer-den die Erwartungen von Gründern, Investoren und Wissenschaftseinrichtungen frühzeitig
+Das Hightech-Forum empfiehlt, zu prüfen, ob die Unterstützung von wissensintensiven Gründungen durch die Aufnahme eines gemeinnützigen Zwecks in die Abgabenordnung § 52 AO mehr Handlungsspielräume in der Vorgründungsphase bringen würde. Die
+[Page #16]
+Dachthema
+Initiative für Transferfreiheit – Förderung von wissensintensiven Gründungen
+Begleitforschung und Benchmarking zum Gründungsgeschehen
+geklärt.15 Template Agreements oder standardisierte Vorlagen werden z. B. bereits in den USA eingesetzt, um Verhandlungen zu beschleunigen sowie finanzielle und personelle Ressourcen zu schonen.16
+Wer sind die Gründerinnen und Gründer?
+In Deutschland gibt es eine Vielzahl an Formaten zu Gründungsförderungen sowie unter-schiedliche Transferorganisationen und -praktiken. Die Budgets für Gründungsförderung kommen dabei überwiegend aus Drittmitteln und sind entsprechend volatil.21 Diese Hetero-genität führt zu ungleichen Voraussetzungen für Gründerinnen und Gründer. Bisher gibt es zu wenig Initiativen, um die übergreifende Transferkultur sowie den Erfolg verschiedener Grün-dungsförderungen zu messen, sichtbar zu machen und gute Praktiken vermehrt umzusetzen.
+Geringer Frauenanteil
+Die Bundesregierung sollte Wissenschaftseinrichtungen in Deutschland bei der Formulie-rung von Guidelines, Muster-Vereinbarungen und Handreichungen unterstützen, mit denen rechtskonforme und förderliche Konditionen für die Nutzung geistigen Eigentums und von Ressourcen durch (Aus)Gründungen transparent gemacht werden. Mit der Entwicklung einer Handreichung der Hochschulrektorenkonferenz zur Anwendung der De-Minimis-Regel im EU-Beihilferecht,17 einem Leitfaden zur Vermarktung von geistigem Eigentum an Ausgründungen 18 sowie einer IP-Toolbox und eines Prozess-Leitfadens für EXIST-För-derungen wurde bereits ein Anfang genommen. Diese Bemühungen sind auszuweiten und sollten die Bedürfnisse unterschiedlicher Transferorganisationen, Gründungsteams und Investoren gleichberechtigt berücksichtigen. Dabei sollten die Bedingungen gründungs-freundlich ausgestaltet und die Wissenschaftseinrichtungen für effiziente Gründungspro-zesse belohnt werden.
+ Männer Frauen
+„Ich möchte erreichen, dass die Herausforderungen, vor denen innovative, junge Unternehmen stehen, verstanden und Unter-stützungsmöglichkeiten im Innovationssystem entsprechend angepasst werden.“Julia Römer
+15,9 %
+Die Bundesregierung sollte eine systematische Erhebung der Gründungsneigung und Wahr-nehmung der Gründungsförderung in der Wissenschaft sowie zum Gründungsgeschehen fördern.22 Für eine Verbesserung der Gründungsförderung und der Transferpraktiken ist zudem eine Dokumentation und ein Vergleich bestehender Förderungen, Mittelausstattun-gen, Ausgründungspraktiken und -ergebnisse der Einrichtungen innerhalb von Deutschland sowie mit führenden internationalen Einrichtungen von zentraler Bedeutung.
+84,1 %
+Hohes Bildungsniveau
+ mit akademischem Abschluss ohne akademischen Abschluss
+16,1 %
+Flexible Wissenschaftskarrieren und Ermutigung von (Aus-)Gründungen
+Referenzen
+83,9 %
+Letzter Zugriff am 10.02.2021, und vgl. Cuntz, A.; Dauchert, H.; Meurer, P.; Philipps, A. (2012): Hochschulpatente zehn Jahre nach Abschaffung des
+1 In Deutschland siehe z. B. § 2 Abs. 7 HRG, Hightech-Strategie 2025, Pakt für
+Forschung und Innovation IV und in der EU siehe z. B. Art. 179 AEUV, Vertrag über die Arbeitsweise der Europäischen Union
+ Hochschullehrerprivilegs, a.a.O. (siehe Anm. 2), S. 512 Verschiedene Studien zeigen, dass gerade die frühe Gründungsberatung ein  wesentlicher Erfolgsfaktor von Ausgründungen ist. Vgl. Göktepe-Hultén, D.; Slavtchev, V. (2017): Effekte der Frühphasenunterstützung von Gründungen aus öffentlichen Forschungseinrichtungen: Das Beispiel Max-Planck-Innovation. In: Wirtschaft im Wandel. Hrsg. v. Leibniz-Institut für Wirtschaftsforschung Halle (IWH), Halle (Saale), 1/2017, S. 5–8, verfügbar unter: www.iwh-halle.de/publikationen/detail/effekte-der-fruehphasenunterstuetzung-von-gruendungen-aus-oeffentlichen-forschungseinrichtungen/ | Letzter Zugriff am 10.02.2021, und vgl. Acatech (2010): Wirtschaftliche Entwicklung von Ausgründungen aus außeruniversitären Forschungseinrichtungen. Berlin. Verfügbar unter: acatech_berichtet_und_empfiehlt_Ausgruendungen_Text.pdf | Letzter Zugriff am 10.02.2021
+2 Cuntz, A.; Dauchert, H.; Meurer, P.; Philipps, A. (2012): Hochschulpatente zehn Jahre nach Abschaffung des Hochschullehrerprivilegs. Studien zum deutschen Innovationssystem 13-2012, Expertenkommission Forschung und Innovation (EFI), Berlin. Verfügbar unter: www.e-fi.de/fileadmin/Innovationsstudien_2012/ StuDIS_13_EFIGS.pdf | Letzter Zugriff am 09.11.2020
+Unternehmensgründungen stellen für die meisten Forschenden in Deutschland ein Novum und nicht selten einen Bruch mit ihrer bisherigen (wissenschaftlichen) Karriere dar. In Hightech-Bereichen nimmt ihre Bedeutung, insbesondere international, jedoch zu. Der wahrgenommene Rollenkonflikt zwischen Wissenschaft und Entrepreneurship stellt in Deutschland eine der größten persönlichen Barrieren für Ausgründungen dar.5 Nach inter-nationalem Vorbild sollten eng in eine Ausgründung involvierte Wissenschaftlerinnen und Wissenschaftler die Möglichkeit haben, ein bis zwei Jahre bis zu 50 Prozent ihrer Zeit für die Gründung aufzubringen. Eine Forschungseinrichtung oder Hochschule sollte Regeln erlassen, in welchem Ausmaß dies erfolgen kann. In dieser Zeit entwickeln sie gemeinsam mit dem Forschungsteam des Start-ups die Technologie und das Know-how weiter und übergeben es dann an das Managementteam des Start-ups (CTO oder CEO). Nach dieser Phase kehren sie in die Forschung zurück, bleiben aber an der Gründung minderheits-beteiligt. Forschende aus dem wissenschaftlichen Team wechseln häufig ganz in das Gründungsteam.19 Die Wissenschaftseinheit profitiert von der wertvollen Expertise ihrer Forschenden20 und von der Entwicklung eines Start-up-Ökosystems im Umfeld der Einrichtung.
+Gründungserfahrung
+ verfügen bereits über  Gründungserfahrung keine Gründungserfahrung
+3 Schröder, M. (2019): Start-Up-Kultur – Wie Unis zur Keimzelle für Unternehmen  werden. In: Handelsblatt, 27.05.2019. Verfügbar unter: www.handelsblatt.com/ unternehmen/mittelstand/hochschul-ausgruendungen-start-up-kultur-wie- unis-zur-keimzelle-fuer-unternehmen-werden/24378324.html | Letzter Zugriff am 07.11.2020
+47,1 %
+4 Vgl. Astor, M.; Rammer, C.; Klaus, C.; Klose, G. (2016): Endbericht: Innovativer Mittelstand 2025 – Herausforderungen, Trends und Handlungsempfehlungen für  Wirtschaft und Politik. Studie im Auftrag des Bundesministeriums für Wirtschaft und Energie. Verfügbar unter: www.bmwi.de/Redaktion/DE/Publikationen/Studien/studie- endbericht-innovativer-mittelstand-2025.pdf?__blob=publication File&v=14 | Letzter Zugriff am 10.02.2021Joachim Herz Stiftung (2021): Warum gründen Deutschlands Forscher:innen nicht? Zur Psychologie des Gründens. Verfügbar unter: www.joachim-herz-stiftung.de/fileadmin/Redaktion/JHS_Forschen_Gruenden_2021_Web_neu.pdf | Letzter Zugriff am 10.02.2021
+13 Demleitner, K. (2018): Vom Umgang mit Schutzrechten bei Ausgründungen aus  Hochschulen und außeruniversitären Forschungseinrichtungen. Books on Demand14 Gawenko, W.; Hinz, M. (2020): Patentbewertung bei Spin-offs im Rahmen einer  Ausgründung aus Wissenschaftseinrichtungen. In: Zeitschrift für Öffentliche und gemeinwirtschaftliche Unternehmen, Nr. 43. S. 35–49. Verfügbar unter:  www.nomos-elibrary.de/10.5771/0344-9777-2020-1-2-35/patentbewertung-
+52,9 %
+5
+Geschäftsmodelle für mehr Nachhaltigkeit und Innova-tionsfähigkeit *
+bei-spin-offs-im-rahmen-einer-ausgruendung-aus-wissenschaftseinrichtungen-jahrgang-43-2020-heft-1-2?page=1 | Letzter Zugriff am 10.02.2021
+15 Expertenkommission Forschung und Innovation (2019): Jahresgutachten zu
+6 Rammer, C., et al. (2016): Die Rolle von KMU für Forschung und Innovation in  Deutschland. Studie im Auftrag der Expertenkommission Forschung und
+Forschung, Innovation und technologischer Leistungsfähigkeit Deutschlands 2019. Verfügbar unter: www.e-fi.de/fileadmin/Gutachten_2019/EFI_
+Innovation. Studien zum deutschen Innovationssystem 10/2016. Mannheim.
+43 %
+ Gutachten_2019.pdf | Letzter Zugriff am 10.02.202116 Vgl. z. B. Carnegie Mellon University: Guidelines – Formation of Carnegie Mellon  University (“CMU”) Spin-Off Companies. Verfügbar unter: www.cmu.edu/cttec/
+ Verfügbar unter: www.e-fi.de/fileadmin/Innovationsstudien_2016/
+StuDIS_10_2016.pdf | Letzter Zugriff am 10.02.2021.
+42,6 %
+7 ZEW-Leibniz-Zentrum für Europäische Wirtschaftsforschung (2021): Innovationen in der deutschen Wirtschaft. Indikatorenbericht zur Innovationserhebung 2020. Verfügbar unter: www.zew.de/publikationen/zew-gutachten-und-forschungsberichte/forschungsberichte/innovationen/innovationserhebung | Letzter Zugriff am 10.02.2021
+forms/spin-off-guidelines-cmu.pdf | Letzter Zugriff am 10.02.2021
+66,6 %
+17 Hochschulrektorenkonferenz (2021): Unterstützung von Gründungsaktivitäten und  Unternehmen durch Hochschulen – Eine Handreichung zur De-Minimis-Verordnung
+Für wissenschaftliche Gründerinnen und Gründer sollten Tarifvertragsmodelle und Com-pliance-Regelungen geboten werden, die sich an der internationalen Praxis orientieren und für die Rekrutierung von Top-Talenten zusehends kritisch werden. Damit können For-schende gemäß ihrer Expertise an (mehreren) Unternehmen beteiligt sein und gleichzeitig ihren wissenschaftlichen Track-Record weiterführen. Wie international üblich, können die Wissenschaftlerinnen und Wissenschaftler im Scientific Advisory Board agieren und/oder eine virtuelle/stille Minderheitsbeteiligung am Unternehmen halten. Transfer- und (Aus-)Gründungserfahrungen sollten zudem stärker in wissenschaftlichen Karrieren be-rücksichtigt und belohnt werden. Sollten Ausgründungen scheitern, werden international Rückkehroptionen in die öffentliche Forschung eröffnet, um Karrierebrüche von top aus-gebildeten Personen zu vermeiden. Dies sollte auch in Deutschland möglich sein. Wenn (Aus-)Gründungsprozesse partnerschaftlich und positiv verlaufen, ergeben sich langfristige Beziehungen und Netzwerke, inklusive spannender Arbeitsplätze für Absolventinnen und Absolventen und zukünftiger Kooperationen und Forschungsaufträge. Diese stellen indirekte Rückflüsse aus den Investitionen in Transferaktivitäten dar.
+ Green Economy Gründung Social Entrepreneurship Gründung rein digitales Geschäftsmodell
+im EU-Beihilferecht. Verfügbar unter: www.hrk.de/fileadmin/redaktion/hrk/ 02-Dokumente/02-05-Forschung/HRK_Handreichung_fuer_Hochschulleitungen_
+8 Vgl. Gemeinsame Wissenschaftskonferenz (GWK) (2019): Pakt für Forschung und
+ De-Minimis.pdf | Letzter Zugriff am 10.03.202118 Transferallianz (2020): Leitfaden. Vermarktung von geistigem Eigentum (IP) an  Ausgründungen. Verfügbar unter: www.transferallianz.de/fileadmin/user_upload/ aktuelles/2021-02-12_Leitfaden_IP-Vermarktung_final.pdf | Letzter Zugriff am 10.03.2021
+Innovation – Fortschreibung 2021–2030 (PFI IV). Verfügbar unter:
+ www.gwk-bonn.de/fileadmin/Redaktion/ Dokumente/Papers
+ * Mehrfachnennung möglich
+/PFI-IV-2021-2030.pdf | Letzter Zugriff am 10.02.2021. – Es wurde vereinbart, dass die außeruniversitären Wissenschaftsorganisationen neue Instrumente entwickeln und Transfererfolge durch interne Anreizinstrumente anerkennen und fördern. Die wirtschaftsnahe Transferförderung soll strategisch stärker auf kleine und mittlere Unternehmen (KMU) sowie Ausgründungen ausgerichtet werden.9 Vgl. Gemeinsame Wissenschaftskonferenz (GWK) (2020): Pakt für Forschung und
+Quelle: Deutscher Startup Monitor 2020:Innovation statt Krise. BundesverbandDeutsche Startups e. V. Verfügbar unter: www.deutscherstartupmonitor.de/ wp-content/uploads/2020/09/dsm_2020.pdf
+19 Vgl. Gründungsradar 2018 des Stifterverbands: „Studierende und Absolventen sind Treiber von Ausgründungen – an mehr als der Hälfte der Gründungen sind
+ Absolventen beteiligt, Studierende an 43 Prozent.“ Verfügbar unter:  www.gruendungsradar.de/downloads | Letzter Zugriff am 10.02.202120 So sind frühere Erfahrungen beim Ausgründen auch einer der stärksten Faktoren für zukünftige Ausgründungsaktiviäten. Vgl. Krabel, S.; Mueller, P. (2009): What drives scientists to start their own company?: An empirical investigation of Max Planck Society scientists. In: Research Policy, 38, 6, S. 947–956
+Innovation Monitoring-Bericht 2020. Verfügbar unter: www.gwk-bonn.de/fileadmin/Redaktion/Dokumente/Papers/GWK-Heft-68_Monitoring-Bericht-2020-Band_I.pdf | Letzter Zugriff am 10.02.2021. – 2017 blieb die Neugründungs quote in der FuE-intensiven Industrie in Deutschland mit 3,4 % deutlich hinter  Großbritannien, Frankreich und den Niederlanden zurück; die Neugründungsquote
+21 Vgl. Gründungsradar 2018 des Stifterverbands: „Gründungsförderung [an  Hochschulen] überwiegend drittmittelfinanziert: Drei von vier Euro in der  Gründungsförderung kommen aus Drittmitteln.“ Verfügbar unter:  www.gruendungsradar.de/downloads | Letzter Zugriff am 10.02.202122 Siehe z. B. Bauer, H.; Högsdal, N.; Münch, J.; Schneider H. (2020):
+insgesamt ist in Deutschland auch 2018 weiter gesunken (siehe KfW: KfW
+ Gründungsmonitor 2018). Die Gesamtzahl der Ausgründungen der außeruniversitären  Wissenschaftsorganisationen ging im Berichtsjahr von 64 auf 58 zurück.10 Das EU-Beihilferecht (Primärrecht) sowie der FuEuI-Unionsrahmen aber auch das  Gemeinnützigkeitsrecht (Begünstigungsverbot nach § 55 AO) und bundesländer-spezifisches Haushaltsrecht setzen dabei die wesentlichen rechtlichen Vorgaben.11 Vgl. Ann, C.; Krause, M. (2020): Patente an der Uni – nur ein Draufzahlgeschäft?
+Entrepreneurship Meets Education – Gründungskultur an Hochschulen fördern.
+ Hochschule der Medien Stuttgart. Verfügbar unter: www.hdm-stuttgart.de/
+science/science/ scienceverzeichnis/583/Entrepreneurship_Meets_Education_ Studie_Spinnovation-1.pdf | Letzter Zugriff am 10.02.2021
+In: FAZ, 05.09.2020. Verfügbar unter: www.faz.net/aktuell/karriere-hochschule/hoersaal/patente-an-der-uni-nur-ein-draufzahlgeschaeft-16934899.html |
+[Page #17]
+Innovationskultur in Deutschland gemeinsam weiterentwickeln
+Innovationskultur in Deutschland gemeinsam weiterentwickeln
+IdeenpapierEine offene Innovationskultur für eine nachhaltige Zukunftsvorsorge
+Empfehlungen für die Weiterentwicklung einer nachhaltigen Innovationsstrategie
+Vor dem Hintergrund der fortlaufenden Diskussionen zur besseren Vereinbarkeit von Vorsorge und Innovation empfahl das Hightech-Forum in seinem Impulspapier „Wege zum 3,5-Prozent-Ziel“ die Einrichtung eines Stakeholder-Prozesses, um der Frage nachzugehen, wie ein verantwortungs-voller Rahmen für Innovationen aussehen könnte. Im Jahr 2020 wurden folglich zwei digitale Stakeholder-Dialoge zum Thema Innovationsoffenheit und Zukunftsvorsorge veranstaltet, an denen 22 Expertinnen und Experten aus Wissenschaft, Wirtschaft, Politik und Zivilgesellschaft teilnahmen. Die Ergebnisse dieser beiden Dialoge wurden mit allen Teilnehmenden abgestimmt und in einem Ideenpapier zusammengefasst. Das Hightech-Forum möchte hiermit die Zwischenergebnisse fest-halten und einen Beitrag zur Weiterentwicklung der Innovationskultur in Deutschland liefern. Diese Form der Verständigungsprozesse und Dialoge sollte auch in Zukunft fortgeführt werden, um voneinander zu lernen und gemeinsam konkrete Umsetzungsmaßnahmen zu planen und voranzubringen.
+Um eine offene Innovationskultur zu verankern, sollte die Bundesregierung:
+Innovationen können Antworten auf große Her-ausforderungen geben. Die Anwendung neuer Ideen und Praktiken – verstanden als Innovatio-nen – wird aber stets von Fragen begleitet: Welche Innovationen können Probleme nach-haltig und zügig lösen? Wer bringt diese Inno-vationen hervor und wie wirken sich diese aus? Welche Rolle spielen Bürgerinnen und Bürger im Zusammenspiel mit Wissenschaft, Wirtschaft und Staat? Wer nachhaltige Entwicklung und Wettbewerbsfähigkeit in Europa gleichermaßen stärken will, um im globalen Innovationswett- bewerb zu bestehen, braucht eine neue Innova-tionskultur, die Offenheit und Agilität ermöglicht und zugleich der Zukunftsvorsorge verpflichtet ist. Innovationsoffenheit und Zukunftsvorsorge verstärken sich wechselseitig.
+1
+Raum für Experimente schaffen
+Eine offene Innovationskultur braucht Freiräume, um sich zu entfalten. Wenn die Bundesregierung Experimentierräume breit und vielfach fördert, können diese Forschungs- und Entwicklungs-prozesse sowie die Anwendung beschleunigen, flexibilisieren und bürokratisch entlasten. Gleichzeitig bieten die Räume die Chance, In-novationsprozesse für neue Akteure zu öffnen. Unternehmen, Wissenschaftsorganisationen und zivilgesellschaftliche Akteure können dort Technologieanwendungen und ihre Regulierung in einem verantwortungsvollen Rahmen gemein-sam gestalten sowie ihren gesellschaftlichen Nutzen erproben.
+Um technische und soziale Innovationen für eine nachhaltige Entwicklung zu nutzen, sollten sich Zivilgesellschaft, Wirtschaft, Wissenschaft und Politik gemeinsam engagieren. Diese Idee wurde in zwei Stakeholder-Dialogen, gemeinsam mit Teilnehmenden aus Wissenschaft, NGOs, Wirtschaft und Politik, entwickelt. Im Folgen-den werden Empfehlungen genannt, wie Inno-vationsoffenheit und Zukunftsvorsorge für eine nachhaltige Innovationsstrategie systematisch verzahnt werden können. Dies erfordert den Mut, alte Pfade zu verlassen und Neues auszu-probieren.
+„Kommunale Vorbilder sollten stärker gefördert werden. Wir brauchen Leuchttürme für systemische Veränderungen.“Prof. Dr. Günther Schuh
+„Wir müssen der Innovation Chancen geben und mutiges Handeln zulassen.“Johannes Oswald
+„Wir brauchen eine Aufklärung 2.0, wo wir das systemische Denken in den Vordergrund stellen. Nicht nur in der Erstausbildung, sondern auch in der Aus- und Weiterbildung der Führungskräfte im Verwaltungs- und politischen System.“Prof. Dr. Patrizia Nanz
+Offenheit bedeutet, auszuprobieren und Fehler machen zu dürfen. Vorsorge bedeutet, dies unter transparenten und verantwortbaren Rah-menbedingungen tun zu können. Innovations-offenheit fordert daher, einen neuen Blick auf die Möglichkeiten von und die Verantwortung für Innovationen zu richten. Die Basis dafür stel-len ein klares Wertefundament (unter anderem Nachhaltigkeit), eine starke Technologiebasis und klare Regeln dar. Innerhalb dieser Rahmen- bedingungen müssen Werte artikuliert und Pro-bleme kooperativ definiert und gelöst werden können. Die erforderlichen Zukunftsinvestitio-nen in Innovationen sind erheblich und erfordern einen gesellschaftlichen Konsens.
+„Wettbewerbsfähigkeit wird künftig durch das Zusammenspiel von Innovation und Regulierung entschieden. Wir müssen daher weg von einer Regulierung, die verbietet, und hin zu einer Regulie-rung, die nachhaltige Innovationen im großen Maßstab belohnt.“Dr. Martin Brudermüller
+Die Teilnehmenden der bisherigen Dialoge wün-schen sich eine Fortsetzung des Dialogs unter Einbezug weiterer Stakeholder zur Vertiefung und Konkretisierung der Empfehlungen.
+„Es braucht dringend eine Weiterentwicklung der Strategien und Möglichkeiten zu inter-nationaler Zusammenarbeit mit anderen Wirtschaftszonen, wie Afrika und Asien.“Prof. Dr. Antje Boetius
+[Page #18]
+Ideenpapier
+Innovationskultur in Deutschland gemeinsam weiterentwickeln
+(z. B. Digitalkompetenzen) sowie Fähigkeiten-bündel in Ergänzung zu einzelnen Fachkennt-nissen vermittelt werden (z. B. durch Bildung für nachhaltige Entwicklung), um das Verständnis für systemische Zusammenhänge und deren Gestaltung auszubauen.
+setzen. Er kann dann entsprechend handeln und Probleme lösen, wenn er zugleich seine Vor-bildfunktion (z. B. für nachhaltige Beschaffung) einnimmt, agil handelt und auch über etablierte Interessen hinweg mutig den Ausstieg aus nicht nachhaltigen Strukturen, Technologien, Prozes-sen und Gewohnheiten in Gang setzt. Im Hin-blick auf die Beschleunigung der Prozesse sollte die Bundesregierung bestehende Förderpro-gramme kritisch auf ihre zügige Umsetzbarkeit und Wirksamkeit hin überprüfen.
+wickeln, um lokale, regionale und überregionale Kooperationen zwischen Wirtschaft und Wissen-schaft, z. B. über Branchennetzwerke, Transfer- und Kompetenzzentren, zu stärken.
+Vor Ort, aus der Gesellschaft heraus, werden Zukunftsbilder entworfen und kann konkreter Nutzen entstehen – für das Stadtquartier, die Kommune oder die Region, aber auch darüber hinaus. Das Spannungsfeld zwischen Anspruch der Skalierbarkeit auf der einen Seite und kon-kretem Nutzen für die Region oder Kommune auf der anderen Seite gilt es auszuloten. Bürge-rinnen und Bürger sind dabei die zentralen Ge-staltungsakteure ihrer Zukunft. Der Staat sollte seine Innovationspolitik an der Entwicklung die-ser vielschichtigen und gemeinsam entwickelten Zukunftsbilder ausrichten. So kann eine nach-haltigkeitsorientierte Innovationskultur Wohl-stand sicherstellen, sozialen Fortschritt fördern und ökologische Verträglichkeit erreichen.
+Frühzeitige und lokale Partizipationsangebote, z. B. in kommunalen Innovationsprojekten, helfen, den gesellschaftlichen Wandel und Innovation besser zu synchronisieren. Bürgerinnen und Bürger sind deutlich stärker, transparenter und routinierter in die Ausrichtung der Innovations-entwicklung einzubeziehen (z. B. durch das Konzept des Bürgerrats). Auch auf Bundesebene braucht es neue, gesellschaftliche Schnittstellen und institutionalisierte Austauschformate, die eine frühzeitige und langfristige (nicht projekt-förmige) Teilhabe ermöglichen. Das würde die Zusammenarbeit zwischen Zivilgesellschaft, Wirtschaft und Wissenschaft vertrauensvoll gestalten.
+Eine offene Innovationskultur und unterstüt-zende Infrastrukturen werfen auch das Licht auf eine neue Rolle ihrer Wissens- und Bewer-tungsgrundlagen. Die Bundesregierung sollte deswegen die Überarbeitung der Wohlstands-indikatorik konsequent weiterverfolgen und die Umsetzung forcieren. Sie ist der Hebel zur Erfolgsmessung einer nachhaltigen Innovations-politik.
+Eine offene Innovationskultur fußt auf einem Systemblick für die Innovationen von und für morgen. In der Bildungspolitik müssen der souveräne Umgang mit neuen Technologien
+Die folgenden Teilnehmerinnen und Teilnehmer der Dialoge sowie weitere Unterstützerinnen und Unterstützerdieses Ideenpapiers befürworten die Fortführung der Gespräche:
+2 Das Zusammenspiel von lokaler und internationaler Ebene stärken
+Prof. Dr. Dr. Andreas BarnerPräsident, Stifterverband für die Deutsche Wissenschaft e. V.
+Dr. Marion JungGeschäftsführerin, ChromoTek GmbH
+Iris PlögerMitglied der Hauptgeschäfts-führung, Bundesverband der Deutschen Industrie e. V. (BDI)
+Eine offene Innovationskultur ist ein europäi-sches Gemeinschaftswerk. Um das zu gestalten, sind eine konsistente Governance von Innova-tionsprozessen und das Zusammenwirken aller politischen Ebenen, von der EU-Ebene bis hin zur Kommune, erforderlich. Europäisches Den-ken lokal verankern und global wirksam werden lassen: Internationale Partnerschaften und neue institutionalisierte Schnittstellen zwischen Ge-sellschaft, Wissenschaft und Politik ermöglichen es, in einem vernetzten System Innovationsver-antwortung zu praktizieren. Die Außenperspek-tive als internationaler Austausch, z. B. inter-nationaler Innovationsdialog, ist wesentlicher Bestandteil der deutschen und europäischen Innovationspolitik.
+3
+Systeminnovationen in den Fokus rücken
+Prof. Dr. Irene BertschekLeitung Forschungsbereich Digitale Ökonomie, ZEW – Leibniz-Zentrum für Europäische Wirtschaftsforschung
+Jörg-Andreas KrügerPräsident, Naturschutzbund Deutschland e. V. (NABU)
+Frank RiemenspergerVorsitzender der Geschäftsführung, Accenture DACH
+Eine offene Innovationskultur braucht einen Perspektivenwechsel: Eine Innovationspolitik, die es mit der Zukunftsvorsorge ernst meint, muss das gesamte Innovationssystem und seine Auswirkungen in den Blick nehmen. Die Bun-desregierung sollte die Zusammenarbeit über Sektoren- und Disziplingrenzen hinweg stärken – sowohl innerhalb der öffentlichen Verwaltung als auch mit neuen, externen Akteuren. Nur so lassen sich heute gesellschaftliche Probleme in ihrer Komplexität verstehen und gemeinsam bearbeiten. Hierfür werden neue Infrastrukturen und Austauschräume benötigt, die innovative Kräfte über Organisations- und Fachgrenzen zu-sammenbringen und flexibel anpassbar bleiben. Bund und Länder sollten solche Inkubatoren für Systeminnovationen fördern, evaluieren und erfolgreiche Modelle ausrollen.
+Prof. em. Dr. Wolfgang LückePräsident a. D., Universität Osnabrück
+Julia RömerCEO, Coolar UG
+Prof. Dr. Antje BoetiusDirektorin, Alfred-Wegener-Institut (AWI)
+Dr. Volker Meyer-GuckelStv. Generalsekretär, Stifterverband für die Deutsche Wissenschaft e. V.
+Dr. Werner SchnappaufVorsitzender, Rat für Nachhaltige Entwicklung (RNE)
+Dr. Martin BrudermüllerVorstandsvorsitzender, BASF SE
+Prof. Dr. Günther SchuhLehrstuhlinhaber für Produktions-systematik und Direktor des Werkzeugmaschinenlabors WZL, RWTH Aachen
+Ulla BurchardtMitglied, Rat für Nachhaltige Entwicklung (RNE)
+Prof. Dr. Patrizia NanzVizepräsidentin, Bundesamt für die Sicherheit der nuklearen Entsorgung (BASE)
+Prof. Dr. Holger HanselkaPräsident, Karlsruher Institut für Technologie (KIT)
+Prof. Dr. Reimund NeugebauerPräsident, Fraunhofer-Gesellschaft e. V.
+Prof. Johannes Vogel Ph. D.Generaldirektor, Museum für Naturkunde Berlin
+Auf lokaler Ebene ist es entscheidend, Kommunen und Regionen als starke Innovationsakteure für eine nachhaltige Entwicklung zu befähigen, z. B. durch Investitionen und niedrigschwellige För-dermöglichkeiten. Sie müssen handlungsfähig sein, um Lösungen für die konkreten Herausfor-derungen vor Ort anbieten zu können. Die Bun-desregierung sollte zudem Regionalförderung und Clusterwettbewerbe konsequent weiterent-
+Prof. Dr. Anke HasselProfessor of Public Policy, Hertie School of Governance
+Dr. Steffi OberTeamleiterin Ökonomie/Forschungspolitik, Naturschutzbund Deutschland e. V. (NABU)
+Prof. Dr. Birgitta WolffProfessorin für Allgemeine BWL, Präsidentin a. D., Goethe-Universität Frankfurt am Main
+Prof. Dr. Katharina Hölzle MBALeiterin des Fachgebiets IT-Entrepreneurship, Hasso-Plattner-Institut für Digital Engineering gGmbH Universität Potsdam
+Die Bewältigung der COVID-19-Pandemie zeigt: Innovationen wie die rasant entwickelten Impf-stoffe bieten Lösungen für Herausforderungen an. Der Staat muss den Rahmen für deren Einsatz
+Johannes OswaldGeschäftsführer, Oswald Elektro-motoren GmbH
+[Page #19]
+Die Hightech-Strategie 2025
+Die Hightech-Strategie 2025
+werden die Forschungs- und Technologieförderung eng mit der Aus- und Weiterbildung verzahnt. Denn Fortschritt kann nur mit Fachkräften gestalten werden, die fit für die Aufgaben der Zukunft sind und neue Technik nutzen und weiterentwickeln können. Und es wird auf engagierte und aufgeklärte Bürgerinnen und Bürger gesetzt, die den Wandel mitgestalten und im täglichen Leben davon profitieren.
+Kommunikation in die Netzwerke und Gremien der Mitglieder
+Stadt und Land
+l i t ä t
+M o b i
+e i t ,d K li m a
+k
+a lti gN a c hnE n e r gie u
+Sicherheit
+h
+Hightech-Forum
+3 Die Hightech-Strategie etabliert eine offene
+Gesundheit und
+W
+2 Vorsitzende19 Mitglieder
+irt
+Innovations- und Wagniskultur
+s
+A
+c
+Pfl ege
+r
+h
+b
+a
+eit
+f
+t
+u
+4.
+n
+Kreativität, Agilität und Offenheit für Neues sind die Schlüssel, um die Gesellschaft der Zukunft zu gestalten und neue Perspektiven für Wachstum und Wohlstand zu eröffnen. Für innovative Ergebnisse werden innovative Formen der Zusammenarbeit benötigt, die Denkräume schaffen und neue Akteurinnen und Akteure in das Inno-vationsgeschehen einbeziehen. Dabei wird eine größtmög-liche Vernetzung und Kooperation verfolgt. Denn Perspek-tivenreichtum schafft Raum zur Ideenentfaltung.
+d
+-
+Die t
+s
+n
+o
+n
+i
+echnologischeBasis
+t
+e
+ Gesellschaftliche Herausforderungen
+a
+z
+v
+t
+o
+u
+n
+n
+n
+e
+I
+k
+d
+r
+e
+n
+Ideen
+wz
+u
+-
+ten
+snessi
+W
+Deutschlands Zukunfts- kompetenzen
+Offene Innovations- und Wagniskultur
+Beratung
+nekrät
+Die Governance der Hightech-Strategie 2025
+D
+i
+eist s
+e
+F
+a
+c
+Unternehmerg
+Impulse
+Als lernende Strategie soll die HTS 2025 schnell und zielgerichtet auf Veränderungstrends im Innovations-system reagieren. Die Umsetzung und Weiterentwicklung der HTS 2025 wird daher durch das Hightech-Forum aus Wissenschaft, Wirtschaft und Gesellschaft begleitet und unterstützt. Die Beratungsergebnisse des Hightech- Forums werden kontinuierlich in die Runde der Staats-sekretärinnen und Staatssekretäre zur HTS 2025 einge-bracht. Somit ist ein kontinuierlicher Dialog zwischen der Politik und dem Hightech-Forum angelegt.
+h
+k
+r
+ä
+f
+t
+e
+b
+a
+sis
+Austausch
+Die Beteiligung der Gesellschaft
+n
+e
+g
+g b ri n
+n
+u
+k
+ W i r
+W i s s e n z u r
+Quelle der Grafik: Bundes-ministerium für Bildung und Forschung
+Runde der Staatssekretärinnen/-sekretärezur Hightech-Strategie 2025
+relevant sind. Insbesondere die Themenfelder „Gesundheit und Pflege“, „Nachhaltigkeit“, „Klimaschutz und Energie“, „Mobilität“, „Stadt und Land“, „Sicherheit“ sowie „Wirt-schaft und Arbeit 4.0“ werden in den Fokus genommen. An ihnen wird gemeinsam mit allen am Innovationsgeschehen beteiligten Akteurinnen und Akteuren gearbeitet.
+Die Hightech-Strategie 2025 (HTS 2025) richtet sich an drei großen Handlungsfeldern aus:
+Die Bundesregierung koordiniert ihre Aktivitäten ressort-übergreifend und bezieht Wissenschaft, Wirtschaft und Gesellschaft aktiv in die Gestaltung ihrer Forschungs- und Innovationspolitik ein. Die Möglichkeit, Anpassungen an aktuelle technologische und gesellschaftliche Entwicklungen vorzunehmen, sowie eine breite Partizipation sind fest in der HTS verankert. Die Governance der HTS 2025 wurde mit der Runde der Staatssekretärinnen und Staatssekretäre und dem Hightech-Forum dementsprechend eingerichtet.
+Diskussion der Impulse aus dem Hightech-Forum
+1 Die Hightech-Strategie geht die großen gesellschaft-
+lichen Herausforderungen an
+Ressortübergreifende Zusammenarbeit
+Mit der Hightech-Strategie soll eine Forschung gefördert werden, die auf aktuelle und zukünftige Bedarfe ausge-richtet ist und im Alltag der Menschen ankommt. Ziele sind technologische und nichttechnologische einschließlich sozialer Innovationen, bei denen der Nutzen für den Men-schen im Mittelpunkt steht. Dazu werden Missionen ent-wickelt und ganz konkrete Ziele verfolgt, hinter denen sich Wissenschaft, Wirtschaft und Gesellschaft vereinen. Mit der Hightech-Strategie 2025 wird ganz gezielt Forschung zu Aspekten gefördert, die für Wirtschaft und Gesellschaft
+2 Die Hightech-Strategie stärkt Deutschlands
+Zukunftskompetenzen
+Die Geschäftsstelle Hightech-Forum unterstützt orga-nisatorisch und inhaltlich die Co-Vorsitzenden sowie die Mitglieder für die Beratungsthemen zur Umsetzung der Hightech-Strategie.
+Die Zukunftskompetenzen für ein fortschrittliches Deutsch-land sollen systematisch und kontinuierlich weiterentwickelt werden. Dazu werden Schlüsseltechnologien gefördert, die mit ihren breiten Anwendungsmöglichkeiten neue, auch disruptive Innovationspotenziale eröffnen und die Wirt-schaft im internationalen Wettbewerb stärken. Gleichzeitig
+Weiterentwicklung und Umsetzung der Forschungs- und Innovationsstrategie
+Quelle: Bundesministerium für Bildung und Forschung: „Fortschrittsbericht zur Hightech-Strategie 2025“
+Weitere Informationen: www.hightech-strategie.de
+[Page #20]
+Das Hightech-Forum und seine Arbeit
+Das Hightech-Forum arbeitet kompetent in flexiblen Veranstaltungsformaten
+EinblickeDas Hightech-Forum und seine Arbeit
+500+
+Veranstaltungeninsgesamt
+Teilnehmende
+Teilnehmende
+185
+183
+Mitwirkende
+Teilnehmende
+52
+Teilnehmende
+Das Hightech-Forum steht für eine große Bandbreite an Empfehlungen an die Bundesregierung
+1
+Workshops und Online-Dialoge
+Parlamentarische Veranstaltungen
+Patenschaften für Regionaldialoge*
+Sitzungen des Hightech-Forums
+Ergebniskonferenz
+* Regionaldialoge im BMBF-Beteiligungsprozess zur Weiterentwicklung der Hightech-Strategie 2025 (Pilot)
+Darin veröffentlichte Anzahl an einzelnen Empfehlungen an die Bundesregierung
+Impulspapiere
+Innovationspolitik nach der Corona-Krise. Sieben Leitlinien für neues* Wachstum
+Ergebnisbericht
+Beratungspapiere insgesamt
+Das Hightech-Forum zeichnet sich durch eine hohe Beratungsqualität aus
+Bio-IT-Innovationen
+Innovation und Qualifikation
+Das Hightech-Forum steht für Dialog und Transparenz
+Zukunft der Wertschöpfung
+Offene Wissenschaft und Innovation
+Expertisen und Interviews
+Agilität im Innovationssystem
+Bio-IT-Innovationen
+Innovation und Qualifikation
+Zukunft der Wertschöpfung
+Personen im Netzwerk des Hightech-Forums
+Offene Wissenschaft und Innovation
+Agilität im Innovationssystem
+Öffentliche Kommentierungen und Stellungnahmen
+Nachhaltigkeit im Innovationssystem
+ Politik & Öffentliche Verwaltung Wissenschaft Verbände Zivilgesellschaft Wirtschaft
+Wege zum 3,5-Prozent-Ziel
+Soziale Innovationen
+Innovationspolitik nach der Corona-Krise. Sieben Leitlinien für neues* Wachstum
+[Page #21]
+Einblicke
+Das Hightech-Forum und seine Arbeit
+Das Hightech-Forum ist das zentrale Beratungsgremium der Bundesregierung zur Umsetzung der Hightech-Strategie 2025. Seine Aufgabe ist es, die Forschungs- und Innovationspolitik der Bundesregierung mit konkreten Umsetzungs- und Handlungsempfehlungen zu begleiten.
+Die Mitglieder desHightech-Forums während der zweiten Sitzung imBundesministerium für Bildung und Forschung
+Der Beratungsauftrag ist zeitlich an die aktuelle Legislaturperiode gekoppelt. Ein zentrales Anliegen des Hightech-Forums ist es, den Beratungsprozess transparent und offen zu gestalten.
+„Das Hightech-Forum hat sich natürlich mit hochtechnischen Fragen befasst, aber genauso intensiv mit vielfältigen sozialen Aspekten von Innovationen. Eine Hightech-Strategie muss diese beiden Perspektiven gut miteinander verbinden.“Prof. Dr. Manfred Prenzel
+„Wir wollen die nächsten techno-logischen Entwicklungen anführen. Deshalb suchen wir mit Wissen-schaft, Wirtschaft und Gesellschaft kontinuierlichen Dialog. Wissen ist nicht nur Selbstzweck, sondern soll so stark wie möglich für die Bürgerinnen und Bürger unseres Landes einen Nutzen haben.“Staatssekretär Christian Luft
+Die Hightech-Forums- Mitglieder in der Diskussion während der dritten Sitzung am 20. November 2019
+Christian Luft, Co-Vorsitzender und Staatssekretär im Bundes-ministerium für Bildung und Forschung, und weitere Teilnehmende während des Parlamentarischen Abends
+„Das Hightech-Forum ermöglicht es, unterschiedliche wissenschaft-liche Kompetenzen und Erfahrungen zusammenzuführen und für den technologischen Fortschritt in Deutschland fruchtbar zu machen.“Prof. Dr. Christiane Woopen
+Teilnehmerinnen des Parlamentarischen Abends des Hightech-Forums,die Mitglieder Birgitta Wolff und Christiane Woopen
+„Digitalisierung trägt dazu bei, Ungleichheiten in vielen Bereichen abzumildern. Gleichzeitig führt sie aber auch zu neuen Ungleichheiten, zum Beispiel im Bereich der digitalen Bildung und digitalen Arbeit. Auf unserem Weg zu einer inklusiven Gesellschaft ist es von entscheidender Bedeutung, diese gesellschaftlichen Entwicklungen zu erkennen und ihnen entgegenzuwirken.“Prof. Dr. Hanna Krasnova
+Teilnehmerinnen und Teilnehmer des Workshops „Soziale Innovationen imAnwendungsfeld Mobilität“ im Juli 2019
+Sechste Sitzung des Hightech-Forums am30. September 2020 im virtuellen Format
+[Page #22]
+Die Mitglieder des Hightech-Forums
+Die Mitglieder des Hightech-Forums
+Christian Luft
+Prof. Dr. Reimund Neugebauer
+Prof. Dr. Hanna Krasnova
+Prof. em. Dr. Wolfgang Lücke
+Prof. Dr. Patrizia Nanz
+Co-VorsitzenderStaatssekretär im Bundesministerium für Bildung und Forschung
+Co-VorsitzenderPräsident der Fraunhofer-Gesellschaft e. V.
+Professorin am Lehrstuhl für Wirtschaftsinformatik Universität Potsdam
+Prof. emeritus und ehemaliger Präsident der Universität Osnabrück
+Vizepräsidentin des Bundesamtes für die Sicherheit der nuklearen Entsorgung (BASE)
+Prof. Dr. Dr. Andreas Barner
+Prof. Dr. Antje Boetius
+Dr. Martin Brudermüller
+Johannes Oswald
+Prof. Dr. Manfred Prenzel
+Frank Riemensperger
+Präsident des Stifterverbandes für die Deutsche Wissenschaft e. V.
+Direktorin des Alfred-Wegener-Instituts (AWI)
+Vorstandsvorsitzender (CEO) der BASF SE
+Geschäftsführer der Oswald Elektromotoren GmbH
+Professor für Empirische Bildungsforschung mit Bezug zur Lehrer*innenbildung an der Universität Wien
+Vorsitzender der Geschäftsführung von Accenture DACH
+Prof. Dr. Holger Hanselka
+Prof. Dr. Anke Hassel
+Prof. Dr. Katharina Hölzle MBA
+Julia Römer
+Prof. Dr. Günther Schuh
+Präsident des Karlsruher Instituts für Technologie (KIT)
+Professor of Public Policy an der Hertie School of Governance
+Leiterin des Fachgebiets IT-Entrepreneurship am Hasso-Plattner-Institut für Digital Engineering gGmbH Universität Potsdam
+CEO und Gründerin der Coolar UG
+Vorsitzender des Verwaltungsrats der Next.e.GO Mobile SE, Lehrstuhlinhaber für Produktionssystematik an der RWTH Aachen
+Prof. Dr. Sabina Jeschke
+Dr. Marion Jung
+Prof. Johannes Vogel Ph.D.
+Prof. Dr. Birgitta Wolff
+Prof. Dr. Christiane Woopen
+Vorstand Digitalisierung & Technik der Deutschen Bahn AG
+Geschäftsführerin der ChromoTek GmbH
+Generaldirektor des Museums für Naturkunde Berlin
+Professorin für Allgemeine BWL, Präsidentin a. D., Goethe-Universität Frankfurt am Main
+Geschäftsführende Direktorin des Cologne Center for Ethics, Rights, Economics, and Social Sciences of Health (CERES), Universität zu Köln
+[Page #23]
+Danksagung
+Impressum
+Die Mitglieder des Hightech-Forums bedanken sich bei allen Organisationen und Teilnehmerinnen und Teilnehmern für Impulse und Anregungen während der Workshops, Online-Konsultationen, Regionaldialoge und Stakeholder-Dialoge. Besonderer Dank gilt auch den Autorinnen und Autoren der Kurz-Expertisen sowie Expertinnen und Experten, die in Interviews die Arbeit des Gremiums mit ihrem Fachwissen unterstützt haben. Außerdem dankt das Hightech-Forum allen Beteiligten, die die Möglichkeit zur öffentlichen Kommentierung der Beratungspapiere genutzt haben.
+Herausgeber Hightech-Forum
+Konzeption und GestaltungStegmeyer Fischer Creative Studio, Stuttgart
+Lektorat Eva Bachmann, München
+Abbildungen, Illustrationen S. 5, 44 (Christian Luft): Bundesregierung / Steffen KuglerS. 5, 44 (Reimund Neugebauer): Bernhard HuberS. 12: Stegmeyer Fischer Creative StudioS. 16: Stegmeyer Fischer Creative StudioS. 19: istock, Placebo365 S. 20: Stegmeyer Fischer Creative StudioS. 24: Stegmeyer Fischer Creative StudioS. 27: istock, Dean Mitchell S. 28: Stegmeyer Fischer Creative StudioS. 42: Lars HübnerS. 43: Hans-Joachim Rickel, Frederic Schweizer, Lars Hübner, Hightech-ForumS. 44 und 45: Hightech-Forum
+Alle Empfehlungen des Hightech-Forums Auf der Website des Hightech-Forums finden Sie alle Beratungs-papiere von 2019 bis 2021. www.hightech-forum.de
+Die Geschäftsstelle Hightech-Forum Die Geschäftsstelle Hightech-Forum ist bei der Fraunhofer-Gesellschaft angesiedelt. Sie koordiniert den Beratungsprozess und unterstützt die Mitglieder des Hightech-Forums in ihrer Gremienarbeit.
+Mitarbeiterinnen und Mitarbeiter der GeschäftsstelleFelix Bickert Dr. Patrick Dieckhoff Sophie Ebobissé Dr. Beate El-Chichakli Dr. Franziska Engels Kathrin Kießling Luca Koch Dr. Juliane Lutz Valerie Ponell Tobias Schaaf Martin Wegele
+Druck Offizin Scheufele, Stuttgart
+Leitung RedaktionBeate El-Chichakli
+Kontakt Geschäftsstelle Hightech-Forum Anna-Louisa-Karsch-Straße 2 | 10178 Berlin kontakt@hightech-forum.de
+Studentische MitwirkendeNikolas Beaury Madeleine Berensmann Julia Greve Tom JostenValérie NowakVincent Tandler-Schneider
+Kontakt Presse Valerie Ponell Presse- und Öffentlichkeitsarbeit ponell@hightech-forum.de T. 030 688 3759 1621
+Vorgeschlagene Zitierweise Hightech-Forum (Hrsg.) (2021): zusammen. wachsen. gestalten. Ergebnisbericht des Hightech-Forums. Empfehlungen zur Weiterentwicklung der Hightech-Strategie 2025, Berlin
+Redaktionsschluss 9. März 2021
+Die Inhalte der vorliegenden Publikation wurden im aktuellen Hightech-Forum auf der Sitzung am 24. Februar 2021 beraten und kommentiert.
+Die in diesem Bericht dargelegten Positionen geben nicht notwendigerweise die Meinung der Bundesregierung wieder.
+Dieses Werk ist einschließlich aller seiner Teile urheberrechtlich geschützt. Jede Verwertung, die über die engen Grenzen des Urheberrechtsgesetzes hinausgeht, ist ohne schriftliche Zustimmung des Herausgebers unzulässig. Herausgeber und Autorinnen und Autoren übernehmen keine Haftung für inhaltliche oder drucktechnische Fehler.
+Papier aus verantwortungsvollen Quellen, klimaneutral gedruckt.
+[Page #24]
+www.hightech-forum.de

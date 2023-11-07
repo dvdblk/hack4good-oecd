@@ -1,0 +1,624 @@
+[Page #0]
+Fueling the AI transformation Four key actions powering widespread value from AI, right now in Germany.
+Deloitte’s State of AI in the Enterprise | 5th Edition report | German Cut December 2022
+[Page #1]
+Table of contents
+Executive Summary and Foreword
+Page 03
+Action 4 Select use cases that can
+Page 23
+help accelerate value
+Introduction
+Page 05
+Summary
+Page 26
+Action 1 Invest in culture and leadership
+Page 14
+Acknowledgements
+Page 28
+Action 2 Transform operations
+Page 19
+Methodology
+Page 31
+Action 3 Orchestrate tech and talent
+Page 21
+[Page #2]
+Executive Summary
+This year, Germany contributes a disproportionally high number of organizations associated with the strongest AI outcomes (Trans-formers), ranking 3rd out of the 13 countries surveyed. However, this position seems to be volatile for two fundamental reasons.
+Invest in culture and leadershipGerman organizations are falling far short of global findings when it comes to the importance of cultural initiatives. Many challenges, including an executive vision of AI or a less reserved attitude of the workforce when it comes to human-machine collaboration, can be addressed by realizing the importance of establishing an AI-ready culture.
+Firstly, most of the German Transformers are barely fulfilling these criteria. This means their place is not secure in the high-paced domain of AI and they can easily fall back behind global competition. Secondly, our survey results show that many German companies seem to have skipped building the foundations for sustainably leveraging AI, which can be seen in the above-average criticality of challenges reported by German respondents.
+Transform operationsTo ensure an ethical and quality-oriented applica-tion of AI, the entire operating model may need to be changed to accommodate the unique capabil-ities of intelligent machines. Workflows and roles should be re-evaluated to manage risk and achieve new value.
+This report explores Germany’s position deriving tailored insights on the four key actions that many business leaders are taking to harness AI’s potential and drive value across their enterprises:
+Orchestrate Tech and TalentOn the flip side of the culture and leadership coin, companies must develop their AI strategies in a tight talent market, with growing off-the-shelf plat-forms, tools and accelerators that can jump-start a company’s transformation.
+Select use cases that accelerate valueAI is fueling transformations across all industries, and many leaders have begun to unlock the use cases that drive the most value within their given context. The important takeaway is to orchestrate a strategy of both near-term and long-term differ-entiated applications of AI.
+[Page #3]
+Foreword
+The era of value
+unleashing the potential AI holds to drive new opportunities for our businesses, for our employ-ees and for our society in general. It is about resolving the constraints of how we have done business before.
+This year again, we clearly state that we are early on in the Age of With™—an era defined by humans with machine collaboration—while we see signs that businesses are ever closer to realizing AI opportunity and applying next-level human cognition. Our findings suggest that even though German companies are well-positioned in some areas, other areas might be a cause for concern.
+In recent years, we have navigated unprece-dented disruption in the economy and society at large. A global pandemic. Rapidly changing supply chains. Shifting employee needs. Unex-pected geopolitical conflicts. And the general recognition that none of us can continue to do business as usual.
+The fifth edition of our annual State of AI in the Enterprise research explores just that: how businesses are forging a path to a new future, one filled with unrealized sources of value. In it, we explore how business leaders are harnessing AI’s potential and driving value at scale across their enterprises. In this supplement to our main report, we explore the perspective of Germany to see where German companies lead and what they lack in relation to four tailored actions. Whilst this report can be read alone, we highly recommend exploring Deloitte’s global State of AI in the Enterprise, 5th Edition, as the valua-ble insights therefrom are not repeated here.
+When it comes to managing these challenges, artificial intelligence can play a unique and pow-erful role. As we watch these rapid shifts occur, we see the opportunities in current challenges. We are also encouraged that we find ourselves living in a time when data infrastructure and pro-cessing power offer the necessary foundations to fuel truly transformational applications and rapid innovation of artificial intelligence (AI).
+We hope that this report supports your business in not only realizing the potential of AI, but also in imagining how much further it can take you.
+Today’s race is no longer about adopting AI or automating processes for efficiency. It is now about realizing value, driving outcomes, and
+Dr. Björn Bringmann
+Marc Beierschoder
+Peter Fach
+Please note: Unless otherwise specified, the statistics, insights and analysis within this report are
+attributed to Deloitte’s owned State of AI in the Enterprise research.
+[Page #4]
+Introduction
+[Page #5]
+Spotlight on Germany
+The elephant in the room is the question whether the high share of 42% Transformers in Germany vs. 27% globally, ranking Germany 3rd of 13, is also indicative of a high, sustainable AI maturity in German companies. Now you can take the blue pill and stop reading here and celebrate the 3rd place or you take the green pill and read the following pages going into a deeper analysis.
+Number of AI application types fully deployed
+3–4
+5–6
+>6
+0–2
+Our analysis model The same model as in Deloitte's global State of AI in the Enterprise, 5th edition, was used. Slight adjust-ments in comparison to the 4th edition from 2021 were made in order to reflect increasing AI activity in the market.
+PathseekersLow deployed/High achieving
+TransformersHigh deployed/High achieving
+6>
+”eergedhgh“aotdevehcasemoctuoforebmuN
+16%
+42%
+Transformers (High deployed/High achieving): Transforming but not fully transformed, this group has identified and largely adopted leading practices associated with the strongest AI outcomes.
+-8%
++15%
+i
+6–5
+Pathseekers (Low deployed/High achieving): This group has adopted capabilities and behaviors that are leading to success but in fewer initiatives. In other words, they are making the right moves but have not scaled multiple forms of AI to the same degree as Transformers
+i
+Global: 24%
+Global: 27%
+Global: 28%
+Global: 22%
+4–3
+Underachievers (High deployed/Low achieving): A significant amount of development and deployment activity char-acterizes this group; however, they haven’t adopted enough leading practices to help them effectively achieve more meaningful outcomes.
+19%
+23%
+-9%
++1%
+2–0
+Starters (Low deployed/Low achieving): Getting a late start in building AI capabilities seems to characterize this group; they are least likely to demonstrate leading practices behaviors.
+StartersLow deployed/Low achieving
+UnderachieversHigh deployed/Low achieving
+Germany N=150 Global N=2,620
+* Percentages do not add to 100%, owing to rounding.
+[Page #6]
+87%
+Very important/important
+6% Somewhat important
+7% Not at all/not very important
+Quo vadis, Germany?
+The first direct insight is that most German Transformers are posi-tioned just on the classification border. While it is enough to reach the finish line in a fixed race, this is not the case when everyone else is continuously making progress and thus continuously push-ing the finish line forward. Therefore, resting is not an option.
+Importance of AI solutions for organizations’ overall success
+87% Very important/important
+94% Very important/important
+5% Somewhat important
+6% Somewhat important
+The AI market continues to advance rapidly, and 94% of leaders across industries consistently reported how important this tech-nology is to their future. However, German companies are at the bottom with only 87% considering AI solutions as important in the next 5 years.
+7% Not at all/not very important
+1% Not at all/not very important
+The same reluctancy can be seen when comparing AI investments. On average, 76% of the respondents globally reported an increase in AI investments, compared with 70% of the German respond-ents. On the other hand, with 6%, twice as many respondents in Germany reported a planned decrease in AI investments com-pared with only 3% globally.
+ Germany N=150
+ Global N=2,620
+94% Very important/important
+Considering this apparent reluctance to invest and see the relevance, there are risks lurking that German organizations will fail to harness more potential of AI, compared with international competitors who see AI technology as a key to success over the next years and do invest accordingly.
+5% Somewhat important
+1% Not at all/not very important
+70% in Germany report that their AI investment will increase in the next fiscal year, compared with 76% globally.
+[Page #7]
+Introduction
+Importance of AI solutions – (Respondents selecting “Important” / “Very important”)
+South Africa
+99%
+98%
+India
+Brazil
+97%
+96%
+China
+96%
+Japan
+96%
+France
+US
+95%
+Australia
+94%
+Global
+94%
+Israel
+93%
+UK
+89%
+Singapore
+89%
+Canada
+89%
+Germany
+87%
+ Germany N=150  Global N=2,620
+[Page #8]
+Introduction
+Findings show that challenges weigh harder in Germany
+Survey respondents reported varying challenges depending on the stage of AI implementation. When starting new AI projects, the most reported challenge is proving AI’s business value both globally (37%) and in Germany (48%). As organizations attempt to scale up their AI projects, German respondents reported challenges as more complex than their global counterparts. Most notably, 68% see managing AI-related risks as a challenge compared with 50% globally. The only challenge that German respondents consider less complex compared with their global counterparts is “proving the business value” with 33% and 40% of the respondents, respectively. This hints towards an interesting process in German organizations. When an organization is starting out with implementing AI applications, the biggest challenge is proving the business value and choosing the right AI technologies. Once an organization has passed the initial stage, proving the business value is no longer a huge challenge. The huge challenges then become an ongoing executive commitment, the identification of most beneficial use cases, and the maintenance of AI applications.
+Top 3 challenges in starting projects in Germany
+Top 3 challenges in starting and scaling projects in Germany
+48% Challenges proving business value
+31% Lack of alignment between developers & business
+39% Choosing the right AI technologies
+29% Insufficient funding for AI technologies
+33% Insufficient funding for AI technologies
+28% Lack of maintenance after initial launch
+This emphasizes the outstanding importance of clear leadership and focused investment that a successful AI transformation requires. A major part of building an AI-fueled organization requires discipline and focus to maintain systems and algorithms so that they can continue to generate ongoing value instead of noise. Such disci-pline and focus lead to a vigilant discovery and understanding of all associated challenges that may not be obvious in the early stages of an AI initiative.
+[Page #9]
+Challenges in scaling AI initiatives
+Insuﬃciencies
+Diﬃculties
+Barriers
+50%
+50%
+42%
+68%
+55%
+63%
+ManagingAI-related risks
+Executive commitment
+Identifying the use cases with the greatest business value
+42%
+44%
+46%
+51%
+53%
+53%
+ImplementingAI technologies
+Training to support adoption
+Integrating AI into the organization's daily operations and workﬂows
+44%
+41%
+44%
+53%
+49%
+52%
+Obtain needed data or input to train model
+Technicalskills
+AI solutions were too complex or diﬃcult for end users to adopt
+44%
+50%
+44%
+53%
+33%
+45%
+Provingbusiness value
+Maintenance or ongoing support after initial launch
+Integrating with other organizational/business systems
+42%
+38%
+45%
+39%
+Alignment between AI developers and the business problem/need/mission
+Choosing the right AI technologies
+38%
+38%
+Funding for AI technologies and solutions
+ Germany N=150  Global N=2,620
+[Page #10]
+Seeing results
+Interestingly, 87% of the global respondents and 81% of the German respondents reported that they calculate the length of the payback period to fall within the expected timeline or even more quickly than expected. While on the one hand this indicates an increased under-standing of implementation requirements, it could also suggest that the vision for AI may be too focused on cost savings, and that the transformational opportunities that AI can offer, which often have less predictable timelines, are being overlooked or ignored.
+Revenue-generating outcomes – High- vs. Low-outcome organizations (Selecting “Achieved to a high degree”)
+Lower costs – “Achieved to a high degree”
+46% 50%
+25%
+Germany
+25%
+41%
+15%
+Enter new markets/expand services to new constituents
+This is further underscored when looking at the importance of reduced costs as an outcome. German respondents reported reduced costs now to be the best achieved outcome, rising from 25% in 2021 to 41% this year, increasing significantly more than on the global scale. In contrast, German respondents were less likely to report outcomes more focused on transformational opportunities, such as enabling new business/service models, as achieved to a high extent, decreasing from 29% in 2021 to 25% in 2022. When organiza-tions prioritize efficiency, more transformational outcomes, such as revenue generation or business innovation, can fall by the wayside.
+Low-outcome
+High-outcome
+28%
+37%
+Global
+48%
+40%
+16% 15%
+Create new products/programs and services
+High-outcome
+Low-outcome
+ Germany N=150  Global N=2,620
+That said, some organizations have begun to find a path. Respond-ents from this year’s global and German high-outcome organizations (Transformers and Pathseekers) were significantly more likely to report revenue-generating results – such as entering new markets/expanding services to new constituents.
+48%
+31%
+19% 16%
+Enable new business/service models
+High-outcome
+Low-outcome
+ Germany N=150  Global N=2,620
+[Page #11]
+Introduction
+Outcomes – “Achieved to a high degree”
+32%
+Predict demand
+41%
+37%
+Lower costs
+41%
+34%
+Improve collaboration across business functions/organization
+39%
+31%
+Increase revenue
+38%
+33%
+Enter new markets/Expand services to new constituents
+37%
+30%
+Improve constituent engagement
+36%
+28%
+Anticipate constituent needs
+35%
+33%
+Make organizational processes more eﬃcient
+35%
+34%
+Discover valuable insights
+34%
+33%
+Customize or improve existing programs, products, services, or oﬀers
+33%
+30%
+Activate the potential of existing headcount and/or improve talent management
+31%
+32%
+Create new products, programs and services
+29%
+32%
+Improve decision-making
+27%
+32%
+ Germany N=150  Global N=2,620
+Enable new business/service models
+25%
+[Page #12]
+Introduction
+Rewards can be lucrative for organizations that overcome current challenges.
+AI has entered the era of value creation. Based on our analysis of the behaviors and responses of respondents from surveyed high- outcome and low-outcome (Starters and Underachievers) organiza-tions, the remaining report contains detailed recommendations or the actions leaders should consider to improve outcomes of their AI efforts.
+1.
+2.
+3.
+4.
+Action 1 Invest in culture and leadershipIn Germany in particular, many risks arise from the failure to address cultural challenges, and leaders should do more to drive the cultural change, establish new ways of working, ensure the ethical use of AI, and to drive greater business results with AI.
+Action 2 Transform operationsAn organization’s ability to build and im-plement AI ethically and at scale depends largely on how well the organization has tailored operations to accommodate the unique demands of new technologies. German companies have more room for improvement when it comes to implement-ing best practices.
+Action 3 Orchestrate tech and talentTechnology and talent acquisition should no longer be considered separately. Organi-zations should align their approaches to AI based on the skill sets they have available, where Germany’s position is unique in obtaining AI skills by hiring new university graduates.
+Action 4Select use cases that can help accelerate valueSelecting the right use cases to fuel your organization’s AI journey depends largely on the value drivers for your business influ-enced by your sector and industry context. Learn how the importance of different AI ap-plications will change over the next decade.
+[Page #13]
+Action 1 Invest in culture and leadership
+[Page #14]
+Culture is a key to success, but German organizations deem it less important
+When it comes to a successful AI deployment and adoption, leadership and culture matter greatly. Globally, 77% of the respondents classify incentives to develop an AI-ready culture as important. In contrast, it is only 61% of the respondents in Germany. In fact, our findings show German organizations to be last in 6 out of the 11 questions. Most notably, only about half of the respondents in Germany (55%) see executive leadership around a vision of how AI will be used in the organization as important, compared with 80% globally. It is therefore hardly a surprise that German respondents identified the lack of executive commitment as the number two challenge when scaling AI projects, just after managing AI-related risks.
+Cultural initiatives – “Extremely important” / “Slightly important”
+79%
+Agility and willingness to change
+67%
+79%
+Conﬁdence/trust that adoptionof AI will not put jobs at risk
+65%
+73%
+Employee acceptance that AI is important to their day-to-day jobs
+64%
+80%
+Data ﬂuency
+63%
+76%
+Executive leadership around a vision for how AI will be used – “Extremely important” / “Slightly important”
+Talent practices and leadership that support human and AI collaboration
+63%
+75%
+Clear set of ethical guidelines around uses of AI
+63%
+76%
+Dedicated incentives and KPIs aligned to AI goals
+61%
+76%
+Communicating the value the human workforce brings when working with AI
+59%
+76%
+Transparency around the value created by/with AI
+58%
+80%
+Executive leadership around a vision for how AI will be used
+55%
+76%
+High penetration of AI skills across the workforce
+51%
+ Germany N=150  Global N=2,620
+ Germany N=150  Global N=2,620
+[Page #15]
+Action 1 | Invest in culture and leadership
+“ People always underestimate the change management aspect, what’s going to be required. They think it’s always going to be easier.”
+German companies have to work hard to close increasing deficits in workforce optimism
+Do respondents believe that working with AI technologies will enhance their performance and job satisfaction?
+The failure to realize the importance of investing into culture can have a major impact on how AI is seen by the workforce. Globally, 82% of the respondents believe that working with AI technologies will not only enhance their performance but also their job satisfaction, compared with only 73% in Germany. In addition, Germany ranks at the bottom, with 70% compared with 85% globally, when respond-ents were asked whether AI empowers people to make better decisions. Given the overall findings on cultural initiatives, this begs the question as to whether German organizations follow a culturally sustainable approach to AI.
+ Organizational design consultant
+2%
+5%
+Strongly disagree/Disagree
+16%
+Neither agree nor disagree
+22%
+Agree/Strongly agree
+82%
+73%
+ Germany N=150
+ Global N=2,620
+[Page #16]
+Actively addressing AI-related risks is essential
+The responses regarding risk management support this hypothesis. While lack of explainability and transparency in AI decisions, poor data privacy or consent management, and safety concerns about AI systems, among others, all loom large as ethical risks that affect all surveyed organizations, Germany is standing out. In fact, 68% of the German respondents consider managing AI-related risks as a major inhibitor in scaling projects, which is the highest percentage across all countries, with a global average of 50%. Thus, tackling AI-related risks can have a major impact on an organization’s AI efforts.
+The failure to address the changes in the company culture impedes progress, and this year’s survey shows the first indications that investments in an AI-ready culture are neglected. The ultimate goal should be to use AI for human benefit, and not to create discomfort or even worse.
+52% in Germany are concerned about the manipulative power of AI, compared with 41% globally.
+However, despite the higher agreement across German respondents on the importance of managing AI-related risks, the survey shows that German organizations are not taking the necessary steps to manage those risks. When asked if AI risk management is aligned with the organization’s broader risk management efforts, only 24% of the German respondents agreed, compared with 33% globally.
+50% in Germany fear AI eliminating jobs compared with 38% globally.
+Furthermore, German organizations seem not to consider ethical risks when it comes to AI. A closer look at the concerns of the workforce, in particular, reveals a lot of room for improvement in Germany. Half of all German organizations are concerned about the elimination of jobs due to AI, compared with 38% globally. Addi-tionally, the global findings show that 41% are concerned about the manipulative power of AI, compared with 52% across the German respondents. Trustworthy AI™1 ultimately hinges on ensuring that rigorous processes as well as checks and balances are in place. To that end, organizations can often achieve better outcomes when they adopt an ethical AI framework that aligns with Trustworthy AI principles.
+[Page #17]
+Action 1 | Invest in culture and leadership
+What is your organization currently doing to actively manage the risks around your AI implementations?
+31%
+Using outside vendors to conduct indepen-dent audit and testing for AI systems
+37%
+35%
+Training practitioners who build AI systems how to recognize and resolve ethical issues around AI
+36%
+33%
+Conducting internal audit and testing for AI systems
+34%
+32%
+Establishing policies or a group/board to guide AI ethics for our organization
+34%
+32%
+Monitoring evolving regulations to ensure compliance
+30%
+34%
+Collaborating with external parties on leading practices around AI ethics
+27%
+34%
+Providing training/support to help employees foster a positive relationship to AI
+27%
+33%
+Aligning AI risk management with organization's broader risk management eﬀorts
+24%
+30%
+Keeping a formal inventory of all AI implementations
+24%
+30%
+Completing a due diligence process to evaluate that our AI vendors provide unbiased systems
+24%
+23%
+Having a single executive in charge of AI-related risks
+23%
+ Germany N=150  Global N=2,620
+[Page #18]
+Action 2 Transform operations
+[Page #19]
+If you’re not changing how you work, you’re leaving value on the table
+As AI has become fundamental to success, a large number of organiza- tions are redesigning their business operations around AI—a key step to ensure adoption as well as quality and ethical use. Despite this, most organizations still have far to go to achieve maturity in this area, and there has not been a lot of significant improvement reported since the last edition of the survey.
+Operational leading practices German vs. global High-outcome organizations (Respondents selecting “Usually” or “Always”)
+86%
+Tracking the ROI of deployed AI models and applications
+86%
+84%
+Following a documented AI model lifecycle publication strategy
+83%
+Despite evidence that establishing clear processes and redefining roles to deliver quality AI will result in improved outcomes, there has been little growth in the market in terms of adopting such practices according to survey respondents in either of the last two State of AI surveys. While the value of MLOps is evident, the percentage of respondents, both globally and in Germany, reporting to ‘always’ or ‘usually’ follow a documented MLOps procedure is still shy of 70%. This would seem to be especially concerning, considering this number drops to only around 1/3 in both cases considering only respondents reporting to ‘always’ using MLOps.
+81%
+Leveraging a common and consistent platform for AI model and application development
+79%
+82%
+Using human-centered design
+77%
+78%
+Addressing the cybersecurity risks of AI throughout a project's lifecycle
+72%
+Unsurprisingly, the survey shows that high-outcome organizations (Transformers and Pathseekers), both globally and in Germany, were significantly more likely to adopt operational leading practices than low-outcome organizations. Interestingly, however, high-outcome organizations in Germany are lagging behind their global counter-parts. Most notably, only 66% of the high-outcome organizations follow MLOps procedures in Germany, compared with 76% globally. This discrepancy continues with organizations following processes for cataloging and governing the data used by AI models, with 68% and 77%, respectively.
+78%
+Using an AI quality and risk management process and framework to assess AI model bias and other risks before models go into production.
+72%
+77%
+Documenting processes for cataloging and governing the data used by AI models and ensuring its quality
+68%
+76%
+Following documented MLOps procedures, including for testing and continuous improvement planning, when developing an AI solution
+This indicates that even high-outcome organizations in Germany are falling behind their global counterparts. They are at risk to accumulate technical debt which is known to seriously inhibit progress after a brief initial advantage perceived.
+66%
+ German high-outcome organizations N=87 Global high-outcome organizations N=1,323
+[Page #20]
+Action 3 Orchestrate tech and talent
+[Page #21]
+Action 3 | Orchestrate tech and talent
+Technology and talent acquisition come together in the era of AI
+Ways to acquire AI talent
+One of the major changes that AI presents to any organization is the need to plan technology and talent investments in tandem, looking at each as a source of critical skill sets – a human with machine collaboration.
+53%
+Hiring experienced professionals with AI skills
+51%
+28%
+Existing internal resources who are already trained in AI
+When looking at different ways how AI solutions are obtained by organizations, our survey shows an interesting but not surprising trend. High-outcome organizations that employ more types of AI applications tend to have a higher percentage of AI applications built in-house, compared with organizations with fewer AI applications. This suggests that organizations that strive to be AI-fueled are growing an in-house talent pool, allowing them to build tailored AI solutions in order to further extend their competitive advantage with AI.
+21%
+33%
+Hiring new graduates with AI skills from universities
+35%
+ Germany N=150  Global N=2,620
+Ways to acquire AI solutions: Transformers vs. Pathseekers (Respondents selecting “Build in-house”)
+However, the ability of an organization to achieve differentiated tools and applications with AI still hinges in large part on the new talent it is able to bring in-house. Respondents globally and in Germany agree that hiring experienced professionals is the primary way to obtain AI skills for an organization. This however is a chal-lenge due to the shortage of skilled AI talent, which has been well documented in particular2.
+Pathseekers
+Transformers
+Germany
+33%
+40%
+Digging further into alternatives of where AI skills come from, our survey shows German and global responses to be aligned, except in the following two areas. With only 21% of respondents, Germany can rely much less on existing internal employees trained in AI than the global average of 28%. On the other hand, Germany ranks high-est regarding hiring new university graduates with 35%, compared with 25% globally. This further underscores Germany’s ability to pro-duce highly sought-after talent – the next generation of professional workers.
+ Germany Transformers, N=63 Pathseekers, N=24 Global Transformers, N=707 Pathseekers, N=616
+36%
+34%
+Global
+[Page #22]
+Action 4 Select use cases that can help accelerate value
+[Page #23]
+The value contribution from AI applications differs globally and is expected to change everywhere
+this goes to show an area where additional awareness is required. Without addressing cybersecurity risks and acknowledging the importance of this topic, the acceptance and future development of AI solutions might be at risk.
+Across organizations, AI is implemented in a wide range of domains and industry processes. The specific context of an industry influ-ences the way AI investments are pursued. Industry-specific insights and detailed case studies can be found in Deloitte’s global State of AI in the Enterprise, 5th Edition, (pages 28 et seq.).
+When respondents were asked to rank the AI applications that will drive the most value over the next 3-5 years and 5-10 years, an inter-esting trend has become visible. Most AI applications that are consid-ered important in the coming 3-5 years are also considered as value drivers in the next 5-10 years. German respondents see chatbots as the main value driver in the next years, without a close runner- up. The value drivers reported globally, on the other hand, are more evenly spread across multiple applications, such as intelligent robotics, intelligent automation, and natural language processing. However, for some AI applications, the findings show that this is likely to change over the next years. The contribution of intelligent auto-mation is estimated to decrease both in Germany and globally. This indicates a saturated market, with a rise in newer technologies such as voice agents or computer vision. German respondents in particu-lar expect a large increase in value creation through computer vision in the coming years.
+A rather unsettling trend is that cybersecurity both globally and in Germany is seen as a smaller value driver in the future. Combining this with the finding that only 36% of organizations globally always address cybersecurity risks of AI throughout a project lifecycle,
+[Page #24]
+Action 4 | Select use cases that can help accelerate value
+AI applications that will drive the most value over the next 3–5/5–10 years
+German development from 3–5 to 5–10 years
+46%
+47%
+Text Chatbots
++1%
+38%
+35%
+40%
+41%40%
+Intelligent Robotics
++1%
+39%
+32%
+41%
+Computer vision
++9%
+36%
+35%34%
+39%
+Voice Agents
++3%
+35%
+Natural Language Processing/ Generation – Entity Extraction
+29%
+33%
++4%
+41%
+38%
+Natural Language Processing/Generation – Sentiment Detection
+32%
+29%
+-3%
+36%
+37%
+32%
+27%
+Intelligent Automation
+-5%
+44%
+39%
+25%
+24%
+-1%
+Pattern/Anomaly Detection
+34%
+26%
+22%
+Cybersecurity
+-4%
+31%
+28%
+20%
+19%
+Biometrics
+-1%
+22%
+Recommendations/Collaborative Filtering
+22%
+17%
+-5%
+27%
+30%
+13%
+17%29%
+Prediction/Optimization
++3%
+5–10 years
+30%
+ Germany N=150  Global N=2,620
+6%
+15%
+Simulation – Digital Twin
++9%
+13%
+17%
+3–5 years
+5%
+11%
++7%
+Simulation – Virtual Worlds
+9%
+14%
+ Germany  Global
+Increasing value
+[Page #25]
+Summary
+[Page #26]
+German organizations should take AI-ready culture & leadership along with operational leading practices to heart
+This year, Germany contributes a disproportionally high number of organizations associated with the strongest AI outcomes (Transform-ers), ranking 3rd out of the 13 countries surveyed. Despite this large contribution, this report has shown many remaining gaps that even Germany’s high-outcome organizations should address. Surprisingly, aspects that receive international recognition as key incentives designed to achieve sustainable success in the field of AI tend to be neglected by German organizations. This report unravels two major shortcomings that German organizations should take to heart.
+essential to build and deploy AI ethically and at scale, addressing these shortcomings should help establish a solid foundation allowing for a competitive edge fueled by AI.
+If the actions outlined in this report are performed, Germany will be ready to continue to benefit from the advancement of AI. With continued persistence and by harnessing the increasing potential of AI, real value can be brought to organizations, customers, and employees.
+Firstly, the survey shows that German organizations are lagging far behind their global counterparts in culture and leadership around AI. However, according to our survey, actively driving culture and leadership around AI is key to the sustained success of AI-fueled organizations. Moreover, respondents reported significantly less usage of operational leading practices, especially MLOps, in German organizations. Since these practices are widely considered to be
+“ If you believe this is fundamental to the success of what your business is going to be, you don’t layer [its leadership] deep into the organization.”
+ AI/ML head of strategy and operations
+Global Technology company
+[Page #27]
+Acknowledgements
+[Page #28]
+Authorship
+Dr. Björn BringmannManaging Director Lead Deloitte AI Institute Germany Tel: +49 89 29036 6131 bbringmann@deloitte.de
+Ralf EsserSenior Manager Senior Research Manager TMT Tel: +49 211 8772 4132resser@deloitte.de
+Marc BeierschoderPartner Offering Lead AI&D Germany Tel: +49 30 25468 5794mbeierschoder@deloitte.de
+Peter FachPartner Lead Software Products & Assets Tel: +49 211 8772 3311pfach@deloitte.de
+Philipp WendlandConsultant Deloitte AI Institute Germany Tel: +49 89 29036 5708 pwendland@deloitte.de
+Stella GöckelmannAnalytics Professional Deloitte AI Institute Germany Tel: +49 69 75695 7377sgoeckelmann@deloitte.de
+Marc is a Partner within the German Deloitte organization focusing on Analytics and Big Data. Since 2001, Marc has been delivering AI and Data engagements across Europe.
+Björn is a Managing Director at Deloitte Consulting with over two decades' experience in artificial intelligence and digital transformation globally.
+Peter leads our teams that develop software products and platforms. He acts as the business sponsor for Deloitte CAMPfire, a marketplace for digital assets which we deploy for clients to scale and monetize their AI & software develop-ments.
+Philipp is a Consultant at the Deloitte AI Institute in Germany with a strong technical background. His focus is on the intersection of management and technology.
+Ralf leads the German Sec-tor-Research Team and is responsible for the Industry Insights in the area of Technol-ogy, Media and Telecommuni-cations.
+Stella is a professional at the Deloitte AI Institute. She is focusing on topics around AI and has interdisciplinary knowl-edge on data and analytics.
+[Page #29]
+Acknowledgements
+About the Deloitte AI Institute The Deloitte AI Institute helps organizations connect all the different dimensions of the robust, highly dynamic and rapidly evolving AI ecosystem. The AI Institute leads conversations on applied AI innovation across industries, using cutting-edge insights to promote human-machine collaboration in the Age of With™.
+Firstly, we would like to thank the authors of the global version of Deloitte’s State of AI in the Enterprise, 5th Edition (in alphabetical order): Beena Ammanath, Nitin Mittal and Irfan Saif.
+A research effort of this size requires the collaboration of many dedicated professionals. The authors are grateful for their varied and many contributions.
+The Deloitte AI Institute aims to promote dialogue about and development of artificial intelligence, stimulate innovation, and examine challenges to AI implementation and ways to address them. The AI Institute collaborates with an ecosystem composed of academic research groups, startups, entrepre-neurs, innovators, mature AI product leaders and AI visionaries to explore key areas of artificial intelli-gence including risks, policies, ethics, future of work and talent, and applied AI use cases. Combined with Deloitte’s deep knowledge and experience in artificial intelligence applications, the institute helps make sense of this complex ecosystem and, as a result, delivers impactful perspectives to help organizations succeed by making informed AI decisions.
+We would like to thank Deloitte leadership and subject matter experts (in alphabetical order): Tasha Austin, Jeff Brashear, Sue Cantrell, Kumar Chebrolu, Pil Chung, John Conrad, Bill Fera, Steve Hatfield, John Houston, Adam Israel, Oz Karan, Dave Kuder, Aditya Kudumala, Kari Lininger Downs, Ben Mannino, Monica O’Reilly, Rick Perez, Stephanie Perrone Goldstein, Aaron Reabow, Jim Rowan, Mohamad Said, Charlie Sanchez, Baris Sarer, Melissa Smith, Howie Stein, Leigh Ann Stump, Adrienne Szabo, Rohit Tandon, Juan Tello, Ed Van Buren and Tom Zipprich.
+We would also like to thank the following Deloitte professionals for the time they spent in reviewing the survey instrument (in alphabetical order): Ed Bowen, Jas Jaaj, David Levin, Kellie Nuttal, Costi Perricos and David Schatsky.
+Learn more
+In addition, we would like to thank the core research team, without whom this project would simply not be possible: Siri Anderson, Jonathan Holdowsky, Abha Kulkarni, Kate Schmidt, Brenna Sniderman, Christina Scoby, Kelcey Strong, Jose Porras, Melissa Neumann and Jamie Palmeroni-Lavis.
+About the Deloitte Center for Integrated Research No matter what stage of the AI journey you’re in—whether you’re a board member or C-suite leader driving strategy for your organization, or a hands-on data scientist bringing an AI strategy to life—the Deloitte AI institute can help you learn more about how enterprises across the world are leveraging AI for a competitive advantage. Visit us at the Deloitte AI Institute for the full body of our work, subscribe to our podcasts and newsletter, and join us at our meetups and live events. Let’s explore the future of AI together.
+Finally, we would like to thank our German colleagues (in alphabetical order) for the discussions on our findings: Ali Aras Gündüz, Hamdy Khalifa, Nikoleta Kovachka, Jakob Moecke, Sebastian Olbrich, Nadja Stark and David Thogmartin.
+Learn more
+[Page #30]
+Methodology
+[Page #31]
+Methodology
+To obtain a global view of how AI is transforming organizations, Deloitte surveyed 2,620 global business leaders between April and May 2022. Thirteen countries were represented: Australia (100 respondents), Brazil (115 respondents), Canada (175 respondents), China (200 respondents), France (130 respondents), Germany (150 respondents), India (200 respondents), Israel (75 respondents), Japan (100 respondents), Singapore (100 respondents), South Africa (75 respondents), the United Kingdom (200 respondents), and the United States (1,000 respondents). All participating companies have adopted AI technologies and are AI users. Respondents were required to meet one of the following criteria: being responsible for AI technology spending or approval of AI investments, developing AI technology strategies, managing or overseeing AI technology implementation, serving as an AI technology subject matter spe-cialist, or making or influencing decisions around AI technology. To complement the blind survey, Deloitte conducted qualitative tele-phone interviews with 15 AI specialists from various industries.
+Analysis model In line with last year’s report, we developed an analysis model defining four profiles of organizations based on the frequency of full-scale AI deployments and the outcomes achieved through AI ini-tiatives. For full-scale AI deployments, we calculated the cumulative frequency of respondents who selected “deployed” (achieved at least one full-scale deployment) among the 0–14 types of AI applications. Similarly, we calculated cumulative frequency by counting the number of outcomes achieved to a “high degree” among the 0–19 potential outcomes achieved by respondents. This established the following profile groups of respondents:
+ •
+Transformers (Global: 27%, N=707; Germany: 42%, N=63) have achieved five or more high full-scale AI deployments and at least five outcomes to a high degree in their AI initiatives. They are considered the leader group, the most “AI-fueled,” within our survey respondents.
+ •
+Pathseekers (Global: 24%, N=616; Germany: 16%, N=24) have achieved fewer than five high full-scale AI deployments but still achieved at least five outcomes to a high degree through their AI initiatives.
+ •
+Underachievers (Global: 22%, N=570; Germany: 23%, N=35) have achieved five or more high full-scale AI deployments but still achieved fewer than four outcomes to a high degree through their AI initiatives.
+ •
+Starters (Global: 28%, N=727; Germany: 19%, N=28) are still developing or exploring AI deployments and have achieved fewer than five full-scale AI deployments. They have achieved fewer than five outcomes to a high degree through their AI initiatives.
+* Percentages do not add to 100, owing to rounding.
+[Page #32]
+Endnotes1 Deloitte, “Trustworthy AI, Bridging the ethics gap surrounding AI,” accessed September 27, 2022.2 Kyle Wiggers, “Survey finds talent gap is slowing enterprise AI adoption,” VentureBeat, April 19, 2021.
+Deloitte refers to one or more of Deloitte Touche Tohmatsu Limited (“DTTL”), its global network of member firms, and their related entities (collectively, the “Deloitte organization”). DTTL (also referred to as “Deloitte Global”) and each of its member firms and related entities are legally separate and independent entities, which cannot obligate or bind each other in respect of third parties. DTTL and each DTTL member firm and related entity is liable only for its own acts and omissions, and not those of each other. DTTL does not provide services to clients. Please see www.deloitte.com/de/UeberUns to learn more.
+Deloitte provides industry-leading audit and assurance, tax and legal, consulting, financial advisory, and risk advisory services to nearly 90% of the Fortune Global 500® and thousands of private companies. Legal advisory services in Germany are provided by Deloitte Legal. Our professionals deliver measurable and lasting results that help reinforce public trust in capital markets, enable clients to transform and thrive, and lead the way toward a stronger economy, a more equitable society and a sustainable world. Building on its 175-plus year history, Deloitte spans more than 150 countries and territories. Learn how Deloitte’s approximately 415,000 people worldwide make an impact that matters at www.deloitte.com/de .
+This communication contains general information only, and none of Deloitte GmbH Wirtschaftsprüfungsgesellschaft or Deloitte Touche Tohmatsu Limited (“DTTL”), its global network of member firms or their related entities (collectively, the “Deloitte organization”) is, by means of this communication, rendering professional advice or services. Before making any decision or taking any action that may affect your finances or your business, you should consult a qualified professional adviser.
+No representations, warranties or undertakings (express or implied) are given as to the accuracy or completeness of the information in this communication, and none of DTTL, its member firms, related entities, employees or agents shall be liable or responsible for any loss or damage whatsoever arising directly or indirectly in connection with any person relying on this communication. DTTL and each of its member firms, and their related entities, are legally separate and independent entities.
+Issue 12/2022

@@ -1,0 +1,339 @@
+[Page #0]
+Institute of Physics / Royal Academy of Engineering Roundtable Report:
+UK Semiconductor Challenges and Solutions:
+Access to Design Tools and Licensing
+Access to Skills
+iop.org
+[Page #1]
+UK Semiconductor Challenges and Solutions:
+Contents
+Access to Design Tools and Licensing
+Context
+Access to Skills
+Summary of Key Points
+This paper summarises the discussions and findings from a roundtable discussion held on 6 September 2022 at the Institute of Physics (IOP).
+Delegates considered the three biggest obstacles they faced in these two areas, provided examples of solutions that were tackling the issues and proposed other ways to address these problems.
+Discussion on Access to Design Tools and Licensing
+The roundtable brought together leaders from across the semiconductor community, including businesses of various sizes, academia, industry representative organisations and accelerator programmes.
+i) Design toolsii) Licensing
+The discussions were held under the Chatham House rule. All comments reported here are unattributed.
+Discussion on skills
+This report is not a verbatim record, but a summary of the discussions that took place and the key points raised. Comments and recommendations reflect the views and opinions of participants and not necessarily those of the Institute of Physics or Royal Academy of Engineering.
+The event was hosted by the IOP and Royal Academy of Engineering (RAEng) to support the Department for Digital, Culture, Media & Sport (DCMS) and UK Government’s engagement for a semiconductor strategy.
+Two discussions were held: one on design tools and intellectual property (IP) and another on skills.
+Organisations in attendance
+Association for Black and Minority Ethnic Engineers
+Queen’s University Belfast
+Royal Academy of Engineering
+BDJ Group
+Sensing Innovation Leadership Council
+Compound Semiconductor Applications Catapult (one line or format like Association for Black and Minority Ethnic Engineers)
+Silicon Catalyst
+Tetrivis
+CSconnected
+UK Electronic Skills Foundation
+Department for Business, Energy & Industrial Strategy
+UK Photonics Leadership Group
+University of Cambridge / Porotech
+Department for Digital, Culture, Media & Sport
+University of Glasgow
+Filtronic
+University of Leeds
+Institute of Physics
+Vector Photonics
+Kubos Semiconductors
+Machine Discovery / Quantum Dice
+North East Advanced Material Electronics
+Oxford Instruments
+PragmatIC Semiconductor
+[Page #2]
+Context
+This report details discussions hosted in September 2022 by the IOP and RAEng on behalf of DCMS. Participants included academics pursuing innovations in the lab, start-ups engaged in developing products, companies involved in the commercialisation and manufacture of chips and end-use devices, and other parties such as industry partnerships. They represent a broad cross-section of the UK semiconductor industry – key stakeholders whose voices are crucial to the success of any strategy.
+The semiconductor sector is a case in point.
+Throughout history, physics and engineering have reshaped our world – and we are on the cusp of a new physics-powered industrial revolution.
+Semiconductor technologies, and the increasingly sophisticated microchips that use it, are at the heart of this new industrial revolution. They are a crucial building block for the development of devices all around us – from household appliances and cars to telecoms networks and defence systems.
+Discoveries in areas such as quantum physics and materials science are creating new opportunities to transform societies and economies. Innovative companies developing cutting edge technologies are delivering this transformation.
+The UK is home to clusters of semiconductor innovation, from south Wales to the northeast of England. It has globally competitive strengths in areas ranging from chip design to ‘compound’ semiconductor approaches and integration of innovative materials – which have the potential to become successors to silicon.
+Countries that can create the conditions for these innovation-led companies to thrive stand to benefit from enhanced international competitiveness, more plentiful and stable employment and more rapid economic growth.
+Discussions focused on two issues: the high costs of access to innovation-critical design tools and IP; and the people and skills needed to sustain and grow the UK sector. This report highlights the key points raised and solutions proposed by attendees.
+The UK Government has set its sights on developing the UK into a ‘science superpower’ and ‘innovation nation’, with ambitions to drive up R&D investment across the public and private sectors.
+Access to cutting-edge semiconductors is an advantage across a range of industries and security of supply is increasingly a national priority; the UK Government is considering how to secure greater strategic advantage from the UK’s semiconductor industry.3 4
+Semiconductors are embedded in our society – from the critical national infrastructure we all rely on, to our homes and workplaces. The industry is a hotbed of innovation-led high-growth companies offering highly skilled and well-rewarded jobs – and the strategic advantage that security of supply and access to the most advanced chips offers is clear. But creating the conditions for the sector’s continued growth and future resilience requires targeted and strategic support.
+With world-class universities, a strong innovation and finance base and globally competitive companies, the UK’s fundamentals are good. As the IOP’s physics blueprint shows, physics-based innovation is already making a substantial contribution to the UK economy.1 In 2019, physics-based businesses generated £230bn in gross value added – 11% of UK GDP – and accounted for 2.7m jobs.2
+The multibillion-dollar sector is a prime target for inward investment and the capital-intensive nature of chip design and manufacture requires private finance. But the strategic importance of microchips means that Government strategy must find a balance: protecting the UK’s semiconductor sector without dissuading the investment needed to help it flourish. RAEng have noted that with momentum and investment building in other countries, policy intervention in the UK now is viewed as essential to remain competitive and support growth opportunities.5
+But there is more that government can do to help home-grown physics-powered technology sectors become engines for economic growth – in terms of discovery, people, business innovation and infrastructure.
+1 IOP. 2022. Physics: Investing in our future. London: IOP.2 Cebr. 2021. Physics and the Economy: Measuring the value of physics-based industries in the UK. London: Cebr.3 House of Commons Business, Energy and Industrial Strategy Committee. 2022. The semiconductor industry in the UK: Fifth report of session  2022–23. London: UK Parliament.4 UK Government. 2022. Government explores national initiatives to boost the British semiconductor industry. London: UK Government.5 RAEng. 2022. Strategic advantage through science and technology: exploring the UK semiconductor innovation system. London: RAEng.
+[Page #3]
+Summary of Key Points
+A new ‘semiconductor institute’ could provide a range of essential functions to support the sector, such as:
+This report is not a verbatim record, but a summary of the discussions that took place and the key points raised. Comments and recommendations reflect the views and opinions of participants and not necessarily those of the Institute of Physics or Royal Academy of Engineering.
+It is also fueled by a general lack of awareness of semiconductors: what they are, what they can do and the opportunities they represent.
+• A coordinated voice for the sector and centre
+The skills gap is not currently being filled by overseas recruitment, owing to challenges with the visa and immigration system, which are particularly impacting academia, start-ups and SMEs.
+for further evidence development.
+• Support for smaller businesses to negotiate
+For design tools, the primary barrier to innovation in the sector is cost. The market is failing, particularly for small start-ups and SMEs, preventing some companies from getting off the ground and stifling innovation.
+access to electronic design automation (EDA) tools with an improved negotiating position.
+Solutions to these problems lie in a range of short- and longer-term policy initiatives:
+• A legal advice centre to support
+IP negotiations.
+IP and software licensing is essential to many businesses’ processes but is also costly to negotiate. Companies need specialist advice and support.
+• Addressing visa issues would relieve short-
+• System-level education facilities with
+term recruitment challenges.
+appropriate staff leading the training (e.g., a training cleanroom to complement any wider initiatives on prototyping fab facilities, potentially within the same institute).
+• Funding for equitable internship schemes would help disadvantaged groups join the workforce and support graduates to move into the sector.
+Generally, smaller businesses are impacted more due to being less likely to have specialist in-house expertise; costs of design and licensing forming higher percentage of turnover; and lower leverage in negotiations. But companies of all sizes experience challenges in these areas.
+• Support for development and company
+collaboration around internship programmes, and a means to pool mentors for support.
+• Funding for an information campaign to raise awareness of the semiconductor industry could help to attract people to the industry or appropriate educational or training routes.
+• A centre for coordinating re-training those with transferrable skills (conversion or masters courses).
+The sector, both in industry and academia, is experiencing problems accessing the skills it needs in a range of areas.
+• A coordinated approach to skills
+challenges across the technology areas with common needs.
+• Leadership of a communications and
+marketing strategy to promote the sector and technical careers, including work on outreach with young people.
+This is fueled by pipeline issues, with key shortages seen in pre-degree physics skills through into electrical engineering. The shortage of specialist teachers along with substantial and long-standing barriers to access for underrepresented and underserved groups are a driver of this problem, and increasing the diversity of the skills base is critical to tackling the challenge. Removing these barriers and breaking down the stereotypes that put many young people off science from an early age is a vital part of this – something the IOP is doing through its Limit Less campaign.
+• Taking decisive government action to break
+down stereotypes about physics, science and apprenticeships, with the IOP calling for whole school equity plans to be made mandatory in all schools and nurseries.
+• Convening subject-specific working groups
+to address outstanding policy questions and propose solutions.
+• Knowledge-sharing within the sector,
+supporting various parts of the sector to understand one another’s challenges and aiding companies to reach maturity through lessons others have learned.
+[Page #4]
+Discussion on Access to Design Tools and Licensing Chaired by Dr John Bagshaw, IOP Vice-President for Business
+This discussion was in two parts, which addressed design tools and IP licensing in turn. Solutions discussed for the first overlapped with a solution identified for the second.
+i) Design tools
+A further issue identified during the discussion was that with many tools, technical support is needed. This adds cost and complexity and has a disproportionate impact on smaller firms who lack experience of using the tools and the resources to furnish their own in-house support team. Supplier support is an additional cost and priority is given to larger value contracts.
+High costs for access to design tools
+High upfront cost was identified by participants before the meeting as a key barrier for chip designers. This is driven by a series of market failures, with the monopolisation of design tools by main market players cited as a key factor.
+This problem has emerged in the last 20 years. Before then, vertically integrated companies in the UK would host their own large R&D labs, where this development could take place, with the end-users of the chips supporting the process.
+Impact of high EDA costs on businesses
+Participants shared examples of the impact of this from their own and others’ experience.While it was acknowledged that cost is a bigger barrier for start-ups and SMEs, people from larger and more established companies also identified cost as a challenge.
+Twenty to thirty years ago, there were companies who developed their own tools. At that time, EDA licenses were even more expensive — maybe $1m, compared with hundreds of thousands today.
+One EDA-user explained how his team were forced to use an analogue process when a digital process would have been more efficient.
+This set-up is now less common as companies are less vertically integrated, with in-house functions having been spun-out as separate companies.
+“Because affordable access was only for analogue-centric tools, it meant we had to cut corners. What we would have loved to do with a digital flow, we had to do with an analogue flow, because the cost of the digital tools was prohibitive. That means the kind of coverage that we would have liked to take out, we couldn’t achieve it. Our probability of success was not where we would have wanted it to be.”
+Access is also a big factor. Licenses grant access for a period of time, so the design process is shaped around what there is access to and when. This results in a sub-optimal design process that is slower than it could be.
+The way licenses are granted is also an issue. Providers of the EDA tools are incentivised to seek longer term contracts e.g., licenses of up to a year when a few weeks might be sufficient. They are interested in volume sales.
+The high cost of EDA tools results in a catch-22 for early-stage start-ups: a design is needed to attract venture capital (VC) funding, but design is difficult without significant investment.
+[Page #5]
+Scale of the issue
+Opportunity to shape the market for newer technologies where tools are less established.
+An open-source community is developing. The key issue is that for developers the risk of failure is huge — so they often will not take the risk of using a less tried and tested approach to design and verification.
+Cooperation with US partners may also be impacted by national security issues. However, it was pointed out that Siemens is legally a German company, which may offer a different option.
+Some discussion explored the scale of this issue. A participant pointed to there being 1,200 chip designers in the UK. The cost of tooling for each, above their salary costs, was estimated to be £60-£80k per year — putting a cost of approximately £100m for design tools for the sector.
+When considering tooling costs, it is important to differentiate between different parts of the sector. While for the established tools the market behaves in one way, no players yet have a stranglehold in markets where design tools are not established – for example photonics. Where the design tools do not exist, public money could be used to ensure that process design kits and design tools are more available from the outset.
+A participant argued that it was important to recognise the breadth of the semiconductor industry, with many different devices and applications. There are many parts of the semiconductor supply chain with geopolitical dynamics. However, the UK has some leverage via unique capabilities on which US companies might rely.
+One participant commented:
+One speaker argued that this is not much to pay to enable development of strategic capability. Others pointed out that not all designers would need this support. Some people working with larger firms would not struggle to find the resource to design chips, so the totality of the problem is probably significantly less than £100m. It was stated that the semiconductor industry had the highest cashflow margins of any tech sector over last three years. The problem of upfront cost is particularly acute for people working in start-ups (particularly at pre-seed stage) and SMEs.
+“I can’t imagine the defence and security people accepting anything designed with open-source tooling.”
+Proposed solutions
+What solutions/mitigations exist?
+Targeted support: “The solution should focus on where the most pain is”
+• Some discounting, particularly for start-ups.
+EDA companies have start-up programmes, but it was felt by one participant that this support was likely to be accessible only to “savvy companies” who can ‘play the game’ and draw on contacts. Most do not have such a route to discounted access and cost remains a significant barrier.
+It was later asked whether there could be space for a UK-wide or government-supported initiative to improve the trustworthiness of open-source solutions, particularly in photonics where tools are less established.
+Funding is the main barrier to taking UK innovations into pre-seed start-up and scale-up phases. Many innovations are not getting beyond the pre-seed stage. Some accelerators deal only with companies that have seed funding. If the UK strategy addresses the early-stage innovations that are ready to be commercialised, the sector could grow very well.
+There are some other variables to consider. Costs go up significantly when complexity increases — not just for design tools but for verification and fabrication. Additionally, what customers pay for access to tools is dependent on the volume - so larger deals offer better value.
+Two UK-based companies are working in this space. ChipFlow are innovating in open-source access to design for larger nodes. They have partners in foundries and the approach is to use a software-driven flow using Python to create design implementation. For many start-ups, their consideration of open-source vs purchasing tools is proof that it will work for them. The other aspect is having skills to drive them: using Python releases the computer science community to contribute to this.
+• Some partnering with academic institutions for
+postgraduate projects.
+Pre-seed companies are emerging from university research or within companies. These companies could develop into a cluster and receive more support.
+• When the question was asked about whether there are examples of government-backed corporate negotiation with EDAs, it was pointed out that this does happen sometimes, for example in some EU countries. The nature of the EDA market is that providers are looking for volume sales so there would be a deal to be done in those circumstances. However, work supported through this type of support would usually not be commercialised.
+Cooperation between business and academia
+Participants were asked to consider the potential for corporates and academics to work together to argue a case for strategic capability.
+The crux of the problem is therefore not the 1,200 chip makers. If the focus is upstream with the pre-seed companies, they could be supported for less than £10m. One speaker estimated that there are tens of such companies emerging in a year.
+It was pointed out that EUROPRACTICE provides a separate means for academics to get access to EDAs at low cost.
+On the photonics side is Wave, a company spun-out from the University of Bristol and now based in Cambridge. It was reported as having an interesting approach to photonics-based integrated circuits implementation.
+There are links between business and academia, but for businesses the focus is on product, which means they would be reluctant to share their work with a public body.
+A participant noted that another way of looking at this is to consider how many companies could be enabled by such early support:
+• An accelerator, Silicon Catalyst, seeks to remove the risk of investment for young companies. It negotiates with EDA players to give in-kind support to start-ups for two-to-three years, granting licenses to their technology. It has supported 80 companies; 24 are active now, of which four are in the UK.
+One contributor stated their belief that significant disruption to the EDA market will come the next 10 to 20 years from cloud-based tools, probably developed in East Asia.
+A participant representing a device manufacturer thought that university IP is a barrier to closer cooperation between industry and academia. Universities want to keep IP which makes it very difficult to partner with them on anything anywhere near product. It is only possible to work on low TRLs.
+“It is hard to put a figure on, but we should consider how many companies aren’t getting off the ground because they don’t have access to this support.”
+Geopolitical considerations
+Alternative models: open-source solutions
+Some participants commented that EDA tooling is subject to geopolitics. The US dominates in this field and efforts to push forward with open-source tooling could run into opposition from the US.
+The availability of open-source options as an alternative to the costly EDA tools on the market came up several times during the discussion.
+For end-users, devices coming out of universities are not seen as adequately verified.
+[Page #6]
+ii) Licensing Software licensing vs IP licensing
+design tools; they don’t work ‘out of the box’ and field application teams from the suppliers are needed to bring their experience of how to get them to work. Bigger players with more costly licenses will be a higher priority. Start-ups need to be very resilient to get someone to come and help.
+“We probably don’t hear from those companies at all; they are in their university tech transfer office without their demonstrator, not being able to get their patents funded.”
+The discussion so far was about the cost of software licenses to use EDA tools. These operate as a license to use particular software packages. There are several issues specific to the way software licenses work.
+Intervention targeting earlier stage development could also support companies that want to become more innovative and cost-effective by designing chips.
+IP licensing works differently. A new chip design may contain parts that use IP belonging to another company. The IP owner is entitled to claim part of the revenues of the chip. This makes the initial negotiation over IP licensing very important for chip design. As one participant described it, if an IP design block is not negotiated properly, the company is saddled with cost and “dead in the water”.
+A company’s support needs will depend on how experienced the company’s team is at working with the tools. More experienced people will be able to troubleshoot issues. Larger organisations have in-house specialists to help with this - for example ARM has an EDA support team.
+“We need a semiconductor institute”
+An idea strongly promoted by several participants throughout the meeting was a central body to negotiate with EDA players and secure value for the sector. The existence of an institute was highlighted in other parts of the discussion as offering other significant capacities for the semiconductor sector.
+Design service companies also offer an outsourced support capability.
+Software licensing issues
+An immediate suggestion was that it would help to disconnect the license from the type of tool that was in demand (digital vs analogue) so that developers can use what is most suitable for their purpose.
+IP licensing issues
+It was felt the industry itself should take the lead in developing this collaborative enterprise.
+It is vitally important for chip manufacturers to be confident that if they are to use another’s IP then they are allowed to do so.
+Direct government support
+One participant, a user of EDA tools, said: “We needed a digital flow but couldn’t because of the high cost. It would be desirable for licenses not to be tied to a particular type of tool. That would give designers access to whatever they want from a pool of resources.”
+Export controls are an issue. For example, US companies are not allowed to sell data comparators beyond a certain resolution to any company in China. Similarly, millimetre-wave integrated circuits beyond a certain frequency cannot be sold.
+If government subsidised access to design tools, it was argued that it would make most sense for it to prioritise those parts of the sector that are strategic for the UK’s economic interest and supply chain resilience.
+Additionally, there are some ‘niche’ semiconductors not being manufactured in the UK. Government could be incentivised to grow some of these niche industries at home, further creating home-grown supply chains.
+Another stated:
+Companies need a great deal of knowledge about these regulations to be able to avoid being caught out by national rules.
+“One of the barriers for a start-up is if you have to be selective about the suite of tools you are using, it immediately compromises your ability to innovate.”
+The knowledge needed to understand all of these issues about the different levels of licensing is not present across the UK sector, particularly for start-ups. All this knowledge could, however, be held within an institute.
+Vertical integration
+One speaker referred to how the defence industry used to work in a vertically integrated way, with the end-user identifying the problem that needed to be resolved, and the solution being developed through collaboration across the supply chain.
+A lot of IP negotiation is about “who you are and what IP you own”. Semiconductor companies regularly infringe each other’s IP — having one’s own often means a company can use this as leverage to get a better deal in a negotiation.
+Making a range of licenses available in a cost-effective way for a period of time would enable companies to get through that early stage of innovation.
+Semiconductor companies will often not file patents, particularly for advanced power devices. Instead, they keep them as trade secrets. The technology cannot be reverse engineered, so a patent is not deemed necessary.
+Support needs
+Technical support is a big part of the picture for
+[Page #7]
+Legal support
+agreements with EDA players and provide technical and legal support for negotiation of IP. This would help reduce costs for individual organisations, particularly smaller ones without in-house capacity.
+Negotiation on licensing for software and IP is difficult. The person signing up from the supplier does not necessarily know the details. There needs to be some mechanism of support so people can understand the negotiations to make this process easier.
+“The step for getting to lithographic production is massive - even changing a substrate can change things dramatically and you need to do a lot of work with the fab to resolve that.”
+Each company’s needs are different, so it is not possible to avoid negotiation, but support is needed to do this well.
+Companies outside of an accelerator programme need to negotiate license terms, which is time consuming and costly. Larger companies have in-house legal expertise; smaller firms must hire legal support. The cost is thus borne by the whole industry.
+Participants were asked whether an academic facility could be scaled to enable this early-stage fabrication facility. Two UK examples were cited:
+A semiconductor institute could provide advice and legal support which would reduce costs across the industry.
+• Cornerstone at the University of Southampton specialises in silicon integrated photonics and taking product from E-beam fab to ‘stepper’-based (photolithographic) fab, with donation of machinery from Intel. This is available to academics and industrialists on a project basis.
+Access to fabrication facilities
+Even after buying the license and IP, it does not mean the semiconductor will work. Creating a functioning chip requires close cooperation with a fabricator to test it. The UK has many smaller fabs which support the development process in this way.
+•
+In south Wales, the Centre for Integrative Semiconductor Materials at Swansea University and the Translational Research Hub at Cardiff University are developing industrial-scale opportunities for scaling up for compound semiconductors.
+While it is possible to use a generic electron beam lithography tool at an earlier stage, for instance to establish proof of concept, this would not demonstrate that a design can be produced at scale, which is what is needed to secure investment and cross the ‘valley of death’. Chip designers need to show an investor they can produce through a photolithographic process.
+One participant commented that there is also some movement towards a quantum foundry, but this is in its very early days.
+During the discussion, other fabrication facilities were mentioned, including two in northeast England:
+Facilities to enable this must be more than an academic foundry because the tooling in the fab should resemble what would be needed for mass production. It does not need to be a large scale fab itself, but investors need to be confident that a chip can be produced at scale.
+•
+II-VI, a US company, has a large fab in Newton Aycliffe and is interested in looking at how to innovate in the UK.
+•
+Inex Microtechnology in Newcastle is a microfabrication facility with sovereign capability.
+However, fabs are not interchangeable. Even a facility with the same equipment and machinery as another would need to be fine-tuned to deliver the same results.
+Proposed solutions to licensing issues:
+Again, the idea of a sector body was raised as a means to deliver support to the sector in a cost-effective way. Such a body could play a role in negotiating collective software licensing
+The complexity of the manufacturing process was highlighted as a reason it is important for the chip designer to work closely with the fab:
+[Page #8]
+Discussion on skills Chaired by Professor Rachel Oliver FREng, Director of the Cambridge Centre for Gallium Nitride
+representative organisations who are working together to seek to speed action to address the issue.7
+The situation with recruitment from the EU is now very serious. EU candidates are not being attracted to the UK. Several participants shared experiences of recent recruitment campaigns at their companies receiving few applications from EU nations compared to the pre-Brexit period.
+The second session was a wide-ranging conversation about skills and how to ensure a resilient pipeline to secure the UK semiconductor sector. A range of solutions were proposed, with several deliverable through the establishment of the semiconductor institute proposed during the earlier discussion.
+There is also a challenge finding people that can do product marketing - people who are commercially minded but have worked in engineering, who can bridge the gap between the technical and business sides of an organisation. In the UK this is a particular pinchpoint because we have lots of start-ups, but they tend to get bought up by US companies, so product management moves to Silicon Valley.
+Recruitment challenges
+Another key problem is that it is hard to recruit to fill the skills gaps. Much discussion centred on the skills pipeline, but as one participant said:
+It was reported that the complexity and cost of the visa sponsorship process leads to difficulties for early-stage companies.
+Skills gaps
+There is a new ‘scale up’ visa pathway, which is useful for larger companies. However, the business visa is for scale-up purposes only — which does not apply to all companies and fails to help smaller start-ups. A participant representing an SME said they found overseas recruitment difficult because of mounting visa and healthcare access costs — often for a family, not just an individual.
+In advance of the discussion, and during the roundtable, several key skills shortages were identified within participants’ business or academic environments.
+“The problem is now - we need skills today, not in five years’ time.”
+An IOP survey found 66% of physics innovators across all sectors reported suspending or delaying innovation activities in the past fice years because of skills shortages. Only 11% of physics innovators faced no difficulties recruiting.6
+In universities, there is a shortage of research/technical officers and technicians to maintain and run equipment. Pay for these workers can be low and there is no recognised career structure, so they are likely to leave for roles in industry. This is a problem for semiconductors and physics generally.
+Research from 2019 showed that around 80% of the 2030 workforce was already in work at that time.8
+In fact, some early-stage companies report that they are more likely to move overseas to find skills when they need to grow. Similarly, a lack of commercial knowledge within the UK VC funding world was reported as a reason why companies may be more likely to seek funding from US VCs for scale up.
+Start-ups report that it can be hard to reach suitable candidates. Some people highlighted the role of university careers departments but felt these departments were not as proactive in outreach work around semiconductors as they are for other sectors such as finance. Start-ups said they would benefit from access to university careers services, perhaps on a regional basis, to widen their searches.
+Colleges are having trouble recruiting lecturers who are in demand from the private sector. One possible way to address this is persuading people from industry to lecture alongside their private sector role.
+Companies also report difficulties in developing cleanroom skills - there are no providers for this.
+Education quality
+While participants from some businesses reported that they are finding the visa system easier to manage now, academics said for them it was still very complex. Waiting times for visas are extending to six to nine months, and good people with PhD job offers elsewhere are taking up roles in other countries as a result.
+Participants from industry recognised challenges of recruitment, particularly for technical roles, which they felt were compounded by a relative lack of awareness about the semiconductor industry. Semiconductor companies face big challenges finding the technical skills to run and maintain equipment and use design tools.
+There was a shared feeling, expressed by several participants, that the quality of physics education was contributing to the shortfall in skills.
+It is also difficult finding people outside of universities. A channel for advertising to SMEs across the UK would be useful.
+There has been a regression in entry standards for university electronics and engineering degrees. Today, physics is often not essential for these courses. University departments are responding to challenges at school level, with departments doing foundation physics for students joining their courses.
+Diversity was noted by all as a challenge, with women highlighted as a particularly underrepresented group. It was acknowledged that companies need to think about their recruitment practices to improve this situation.
+The discussion also looked at how to encourage international talent in UK universities to remain in the UK to work. There is a problem with foreign students being trained in the UK and then moving back to their home country, taking skills away from the UK sector.
+A participant working for a company that manufactures equipment reported that recruiting at the technician level is very difficult. The semiconductor sector faces competition for electronic engineers and design engineers from other sectors such as aerospace. Low awareness of semiconductors was again identified as part of the problem – representing an example of a wider issue around careers information and coordinated promotion of technical routes.
+Overseas recruitment
+Several participants argued that this problem stems back to the provision of basic science at school – with a lack of access to quality teaching in science subjects. Ultimately this places the burden on many SMEs and start-ups to do additional training, which is a costly exercise. Universal access to high quality teaching in science subjects is addressed by the IOP’s influential Subjects Matter report – and is still actively endorsed by the full range of subject
+Specific challenges relating to overseas recruitment were identified following Brexit and problems with the visa and immigration system.
+A counterpoint offered was that it is also difficult to get a US visa, so there is an opportunity for the UK to gain an advantage in the recruitment market by addressing this issue promptly. It was felt that these visa challenges for academia and start-ups could be addressed in the short term.
+It was pointed out that this problem is occurring in other countries as well. Generally, many software engineers prefer to work in applications rather than writing control software, and they can be paid more elsewhere.
+6 CBI Economics. 2021. Paradigm shift: Unlocking the power of  physics for the new industrial era. London: CBI Economics.7 IOP. 2020. Subjects Matter. London: IOP.8 Industrial Strategy Council. 2019. UK Skills Mismatch in 2030.  London: Industrial Strategy Council.
+[Page #9]
+Improving the UK skills pipeline
+you are less likely to stay in the industry. This highlights the importance of employability and the relative difficulty of accessing roles within companies/academia for many people from underrepresented groups. They tend to prepare themselves for the semiconductor engineering workplace, with fewer role models and less access to mentors. Transition programmes need to be designed to improve employability for people from underrepresented groups.
+IOP research has also shown that stereotypes about science and physics begin early in life and put off many underrepresented groups, including girls, young people from lower socioeconomic backgrounds, disabled young people, LGBTQ+ young people and young people of Black Caribbean heritage, from study and careers in physics. 10
+It was suggested that nationally sponsored labs might replace these – building on the success of initiatives like the National Physical Laboratory. A system like this works in Ireland with the Tyndall Institute. There also used to be a system-level design institute in Scotland.
+There was broad agreement that better coordination is needed between universities, further education colleges, schools and the needs of the industry.
+It was pointed out that T-Levels are a specific qualification designed to align with industry needs, so there is an opportunity for doing this with electronics skills for the semiconductors industry.
+Promotion of semiconductors as a sector
+Upskilling and reskilling
+Participants generally agreed on the need for work to promote the semiconductor industry to attract people into the sector. Many argued that this needs to begin at school. Making semiconductors tangible is very important. It was felt that if people understood more about the impact of semiconductors on people’s lives, the sector would be more attractive. It would tie in with agendas that young people are concerned about and motivated by, such as net zero and sustainability.
+Several avenues for filling the skills gap through training were considered during the discussion. Such initiatives could present an opportunity for the semiconductors industry to attract much needed skills from other disciplines, such as the computer science community:
+However, it was also widely acknowledged there is a lack of awareness among students about semiconductors. Improving this is necessary for improving the skills pipeline for the sector.
+The internship process is key.
+Access for people from underrepresented backgrounds is hard. Poorly paid or unpaid internships are not accessible for many people who do not have financial support.
+The uptake of electrical engineering degrees has flatlined, whereas other engineering courses such as mechanical and civil engineering have increased in popularity.
+• Conversion courses are needed to enable people from other disciplines to transfer existing relevant skills and apply them within the semiconductor industry.
+At university level, it would be useful to give students more awareness of summer internships with semiconductor companies to gain experience. This could provide an alternative to relying on university careers services, which it was felt often lack awareness of the sector or were not proactive enough in reaching out to students.
+What is already happening in this space?
+• A particular skills shortage is cleanroom skills. Future technicians need to develop cleanroom skills but there are no dedicated facilities available for training. PhD funding is quickly exhausted by expensive cleanroom access and often does not allow sufficient time for mastering the skills needed. It was suggested that a government-backed facility focused on training (as opposed to facilities focused on early-stage manufacture) would enable much of the hands-on training needed for technical roles in the semiconductor industry.
+Additionally, access to skills is iniquitous. In recent years in England, 70% of progression to AS physics came from 30% of schools.9
+As organisers of the roundtable, the IOP and RAEng took the opportunity to highlight some of the key activities their organisations run to increase participation in physics and engineering.
+IOP
+There are already efforts by the UK Electronics Skills Foundation to encourage school children into engineering with a physics A-Level. The same charity also has a programme for helping university students get internships and finding jobs after university, but this scheme is currently only able to help a limited number of students and institutions.
+• The Limit Less campaign focuses on
+increasing the number of young people from underrepresented and underserved groups who do physics post-16. This is done by ‘influencing the influencers’ of young people (family members, teachers and others in schools, community workers, and people in the media and social media) to provide good information about physics careers and counter stereotypes and misconceptions that limit young people’s ambition.
+Internships need to be funded if they are to be available to all. A small firm cannot afford to fund work such as placement projects that may not be productive.
+• Master’s level courses were mooted but felt by many not to be a solution, since they are not funded for UK students. These can generate revenue for universities via significant uptake from overseas students, but ultimately this would not help with skills in the UK unless students could be encouraged to remain.
+Equity
+A participant noted that successful PhD applications tended to come from students with most experience, and these people have usually been supported financially by their parents. This means that social mobility is compromised by the system.
+Several points were made about the importance of making physics, engineering and the semiconductor sector more diverse and inclusive.
+• Working to improve the equity of access to an excellent physics education for all, including through tackling the shortage of specialist physics teachers; and growing the demand for and awareness of high-quality physics-related technical skills pathways.
+One significant issue is that large numbers of people move away from the industry — in part because they are less prepared for it through the lack of access to internships and mentoring.
+• Online courses could be an option for training in design skills. Some major players in EDA also produce training materials and offer courses with wider applicability. As with access to tools, prices would need to be negotiated.
+A good example of a funded internship programme is the University of Warwick computer science course, which gives students real project experience working with companies, with funding coming from the university.
+It was stated that if you do not secure a role in the first 18 months after graduating from university,
+• The UK no longer has a big base of R&D
+labs within corporates, in which a lot of interdisciplinary training used to happen.
+9 IOP analysis of National Pupil Database.10 Limit Less: Support young people to change the world, IOP, October 2020 https://www.iop.org/sites/default/files/2020-11/IOP-Limit-Less-re-port-2020-Nov.pdf
+[Page #10]
+Solutions for Skills
+Better understanding of this might make semiconductors more ‘real’. One participant pointed out that young people tend to like their smartphones but do not understand that semiconductors drive these technologies.
+Case studies. Many people said they thought individual career stories could help young people to understand what their career journey could look like.
+• Careers guidance materials, with the IOP
+Participants made some specific suggestions for ways in which government strategy could help tackle the skills shortage faced by the semiconductor industry.
+investing £2m from the Challenge Fund into innovative careers material. This will launch later in the year and the IOP is interested in working with partners for promotion.11
+Addressing the issue of visas for early-stage start-ups and academics would have an immediate impact on overseas recruitment and skills acquisition for the sector. This would build on the success of the scale-up visa, which has already helped unblock recruitment for larger organisations.
+• Extending the inclusion mark of academic
+Impact. Chips can touch the lives of everyone in the world, meaning someone in the semiconductor industry could have a huge impact. This is not well understood.
+Personal stories are also important for inspiring people, and role models, especially for women, could help to attract a more diverse workforce.
+departments beyond gender to create a more welcoming and equitable environment for those coming into physics departments to work and study.12
+Alignment with global issues. Young people are deeply concerned with net zero, air quality, electric vehicles and next generation healthcare - all of which are supported with semiconductors. Early career developers have said that these issues resonate strongly with them. However, to be able to use net zero as a narrative, it needs to be clearly linked to semiconductors. At the moment, most people do not understand how they are connected.
+RAEng
+Funding for internships was also identified as support that would help to open opportunities for young people to gain experience in the semiconductor industry, and would help to make access more equitable.
+•
+‘This is Engineering’ is a multi-year campaign led by the RAEng in collaboration with EngineeringUK and major engineering organisations to encourage more young people, from all backgrounds, to consider engineering careers. The campaign challenges outdated views of what engineering is, and what engineers do, by presenting a positive image of modern engineering.
+Several interesting personal stories were shared at the meeting.
+Strategies
+The discussion also pointed to potential practice improvements for existing careers services, such as increased outreach at university level for roles in technology, and improved awareness of semiconductors for school careers advisors.
+There was some discussion about the most impactful strategies for appealing to people to aspire to careers in semiconductors.
+Transferable skills. One participant pointed out that not all people coming into the sector will remain in the sector - their skills could equally be deployed in photonics or quantum. Someone working in chip design could go on to work in applications, such as in aerospace, defence or medical devices. The industry is more flexible than people realise.
+• The Graduate Engineering Engagement Programme, run in partnership with engineering employers, aims to increase the transition of engineering graduates from diverse backgrounds into engineering employment.
+Several participants commented that it is important to appeal both to individuals and their influencers, such as parents, communities and churches.
+In considering how improvements could be made to the UK skills picture, the roundtable discussion repeatedly returned to the idea of a semiconductors institute, which could support system-level training in several ways:
+One participant suggested that some focus group activity could help to develop a more detailed understanding of what resonates with young people.
+•
+reskilling/upskilling courses (potentially including Master’s courses)
+Narratives
+Creativity. Chip design involves creativity, yet there is no appeal to creative people to join the sector.
+The discussion touched on several important narratives around semiconductors, which could be employed in a future communications campaign:
+• a shared cleanroom training facility
+Experience from an outreach programme was that time with staff, as well as students, is very valuable. Careers advisors are an important resource for students making decisions about their future, so increasing their understanding of the industry makes a big difference.
+Vision. The photonics sector has published a vision for how photonics will develop over the next 20 years. Something similar for semiconductors could convince people that they have a future in the industry - it is not just about jobs now but impact into the future.
+• a pool of mentors
+Tangibility.
+• organising communications campaigning
+activity to promote the sector
+• convening body
+The discussion also touched on whether there could be scope for a wider campaign on skills that considered the needs of sectors with common requirements together. Quantum technologies, semiconductors and photonics in particular share a lot in terms of skills requirements, and joint approaches could be fruitful. This was seen as having potential at the level of policy design. For communications it was also seen as vital not to lose sight of the tangible USPs – in a way that allows young people to see an exciting future there.
+People do not understand that semiconductors are hugely prevalent and shape the modern world.
+Some participants pointed to the example of the Royce Institute, which performs a similar range of roles for advanced materials.
+Success stories. The industry might appear more attractive if people were more aware of some of its biggest successes e.g., ARM, IQE.
+11 Planet Possibility. 2022. Explore the world of physics. Planet Possibility. 12 Institute of Physics. 2022. A new inclusion model for the physics community. IOP. IOP analysis of National Pupil Database.
+[Page #11]
+The Institute of Physics is a charity registered in England and Wales (no. 293851) and Scotland (no. SC040092).
+The IOP is the professional body and learned society for physics in the UK and Ireland, with an active role in promoting cooperation in physics around the world. We strive to make physics accessible to people from all backgrounds. Our 22,000 members demonstrate their professional expertise in physics in settings ranging from schools, universities and national research facilities, to businesses of all sizes, and in roles as varied as teacher, researcher, apprentice, technician, engineer and product developer.
+The Royal Academy of Engineering is harnessing the power of engineering to build a sustainable society and an inclusive economy that works for everyone. In collaboration with our Fellows and partners, the Academy is growing talent and developing skills for the future, driving innovation and building global partnerships, and influencing policy and engaging the public.
+0402 - Date Produced: March 1st 2023

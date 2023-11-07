@@ -1,0 +1,620 @@
+[Page #0]
+KI-Startups in Deutschland
+Eine Untersuchung zu Unternehmensgründungen im Bereich Künstliche Intelligenz
+bmwk.debmwi.de
+[Page #1]
+Impressum
+HerausgeberBundesministerium für Wirtschaft und Klimaschutz (BMWK)Öffentlichkeitsarbeit11019 Berlinwww.bmwk.de
+AnalysenDr. Christian Rammer, Marius Berger, Patrick Breithaupt, Dr. Sandra Gottschalk, Dr. Jan Kinne (alle ZEW – Leibniz-Zentrum für Europäische Wirtschaftsforschung)
+Text und RedaktionDr. Christian Rammer
+StandFebruar 2022
+Diese Publikation wird ausschließlich als Download angeboten.
+GestaltungZEW Mannheim
+Bildnachweismajcot / Shutterstock / Titel
+Diese und weitere Broschüren erhalten Sie bei:Bundesministerium für Wirtschaft und KlimaschutzReferat ÖffentlichkeitsarbeitE-Mail: publikationen@bundesregierung.dewww.bmwk.de
+Zentraler Bestellservice:Telefon: 030 182722721Bestellfax: 030 18102722721
+Diese Publikation wird vom Bundesministerium für Wirtschaft und Klima-schutz im Rahmen der Öffentlichkeitsarbeit herausgegeben. Die Publikation wird kostenlos abgegeben und ist nicht zum Verkauf bestimmt. Sie darf nicht zur Wahlwerbung politischer Parteien oder Gruppen eingesetzt werden.
+[Page #2]
+3
+Inhaltsverzeichnis
+Executive Summary6 1. Einleitung7 2. Entwicklung von KI-Startups in Deutschland9
+2.1 Anzahl KI-Startups9
+2.2 Branchenverteilung und FuE-Tätigkeit11
+2.3 Wagniskapital, Rechtsform, Frauenbeteiligung13
+2.4 Regionalverteilung15
+2.5 Unternehmenserfolg20
+2.6 Entwicklung von Unternehmensbestand und Beschäftigung24
+3. Schlussfolgerungen28 4. Literatur30 5. Anhang32
+5.1 Datenbasis32
+5.2 Hochrechnung der Gründungszahlen ab 201934
+[Page #3]
+4
+Abbildungsverzeichnis
+Abbildung 1: Anzahl KI-Startups in Deutschland 1995-2021 nach KI-Geschäftsmodellen10
+Abbildung 2: Verteilung von KI-Startups in Deutschland 1995-2021 nach KI-
+Geschäftsmodellen11
+Abbildung 3: Verteilung KI-Startups in Deutschland 1995-2021 nach Branchen12
+Abbildung 4: Verteilung KI-Startups in Deutschland 1995-2021 nach FuE-Tätigkeit und
+Softwareprogrammierung13
+Abbildung 5: Anteil der KI-Startups in Deutschland 1995-2017 mit internationalen
+Patentanmeldungen (bis 2017)13
+Abbildung 6: Anteil der KI-Startups in Deutschland 1995-2021 mit VC-Finanzierung und BA-
+Beteiligung14
+Abbildung 7: Rechtsform von KI-Startups in Deutschland 1995-202114
+Abbildung 8: Beteiligung von Frauen an KI-Startups in Deutschland 1995-202115
+Abbildung 9: Anzahl KI-Startups in Deutschland 1995-2021 nach Bundesländern16
+Abbildung 10: KI-Startup-Intensität in Deutschland nach Bundesländern17
+Abbildung 11: KI-Startup-Intensität in Deutschland nach Kreisen18
+Abbildung 12: Verteilung von KI-Startups in Deutschland nach Siedlungstypen19
+Abbildung 13: Status der wirtschaftlichen Aktivität im Jahr 2021 von KI-Startups in Deutschland21
+Abbildung 14: Anzahl Schließungen von KI-Startups in Deutschland 1997-202122
+Abbildung 15: Schließungsrate von KI-Startups und von allen Gründungen in Deutschland 1996-
+202022
+Abbildung 16: KI-Startups in Deutschland 1995-2021 nach dem Höchststand der Beschäftigung23
+Abbildung 17: Bonitätseinstufung von wirtschaftsaktiven KI-Startups in Deutschland 2000-2021
+im Vergleich zu allen Gründungen24
+Abbildung 18: Anzahl wirtschaftsaktive KI-Startups in Deutschland 1995-202125
+Abbildung 19: Anzahl tätige Personen in wirtschaftsaktiven KI-Startups in Deutschland 202125
+Abbildung 20: Verteilung der in wirtschaftsaktiven KI-Startups in Deutschland tätige Personen
+2021 nach Unternehmensgrößenklassen26
+Abbildung 21: Anzahl der Beschäftigten in wirtschaftsaktiven KI-Startups in Deutschland 2000-
+202127
+[Page #4]
+5
+Tabellenverzeichnis
+Tabelle 1:
+Anzahl identifizierte KI-Startups 1995-2021 in Deutschland nach Datenquellen33
+[Page #5]
+6
+E X E C U T I V E S U M M A R Y
+Executive Summary
+Die Studie untersucht Gründungen im Bereich Künstliche Intelligenz (KI) in Deutschland:
+1. Mehr als 6.600 KI-Startups in den vergangenen 25 Jahren. Seit 1995 wurden in Deutschland mehr als 6.600 Unternehmen gegründet, deren Geschäftsmodelle eng mit dem Thema KI verbunden sind. Der Schwerpunkt der Studie liegt auf Startups, die sich der Entwicklung von KI-Technologien und -An-wendungen widmen. Darüber hinaus wurden Startups mit Beratungsangeboten zu KI sowie Startups, die KI in bestimmten Anwendungsfeldern einsetzen, berücksichtigt.
+2. Starker Anstieg seit 2014. Die Anzahl der KI-Startups in Deutschland stieg ab 2014 stark an und
+erreichte in den Jahren 2017 und 2018 mit jeweils mehr als 450 neu gegründeten Unternehmen einen Höchststand. 2019 und noch stärker im Pandemiejahr 2020 ging die Anzahl der neu gegründeten KI-Startups zurück. Für 2021 zeichnet sich kein weiterer Rückgang ab.
+3. Sehr hohe Überlebensrate. Im Jahr 2021 waren von allen seit 1995 gegründeten KI-Startups nur 6 % wieder geschlossen worden, 92 % waren wirtschaftsaktiv und 2 % waren vermutlich stillgelegt. Die Überlebensrate liegt damit erheblich höher als im Durchschnitt aller Gründungen in Deutschland. 2019 und 2020 kam es allerdings zu einem merklichen Anstieg der Unternehmensschließungen von KI-Startups.
+4. Günstige Bonitätseinstufung. Die positiven wirtschaftlichen Aussichten der KI-Startups spiegeln sich in einer günstigen Bonitätseinstufung, die um 13 % über dem Durchschnitt aller Gründungen in Deutschland liegt. Ab 2015 zeigt sich jedoch ein Rückgang, der einen verstärkten Wettbewerb auf-grund der hohen Zahl von Markteintritten widerspiegeln könnte.
+5. 149.000 Beschäftigte in KI-Startups. Die Anzahl der in wirtschaftsaktiven KI-Startups tätigen Perso-
+nen nimmt kontinuierlich zu und erreichte im Jahr 2021 den Wert von 149.000 Personen. 68 % der Be-schäftigten entfallen auf in Startups im Bereich KI-Entwicklung, 9 % auf KI-Beratung und 23 % auf KI-Anwender. Fast 7 % der KI-Startups hatten die Schwelle von 100 Beschäftigten überschritten. Mehr als 90 KI-Startups zählten bereits zu Großunternehmen (250 oder mehr Beschäftigte).
+6. Schwerpunkt im Bereich IT-Dienstleistungen. Der überwiegende Teil der KI-Startups ist in der Bran-che der IT-Dienstleistungen tätig (mehr als 57 %, insbesondere Softwareprogrammierung, Datenbank- und Datenanalysedienste), weitere gut 7 % sind Ingenieurbüros oder FuE-Dienstleister. Knapp 19 % zählen zur Branchengruppe der Unternehmens-, Wirtschafts-, Steuer-, Finanzberatung und Werbung. In KI-Anwenderbranchen - von der Industrie über Handel und Transport bis zu sonstigen Dienstleis-tungen - sind zusammen 17 % aller KI-Startups angesiedelt.
+7. Konzentration auf Ballungsräume. 93 % aller KI-Startups sind in den zentral gelegenen Regionen Deutschlands angesiedelt. Im Bereich der KI-Entwickler liegt dieser Anteil sogar bei 95 %. Hotspots von KI-Startups sind die Großstädte Berlin, München, Hamburg, Köln und Frankfurt. Eine besonders hohe KI-Startup-Intensität (Anzahl Startups in Relation zu den Erwerbstätigen in der gewerblichen Wirtschaft) weisen die Städte Potsdam, München, Berlin, Heidelberg, Karlsruhe, Darmstadt, Kaisers-lautern und Würzburg sowie die Landkreise Starnberg und München auf.
+[Page #6]
+7
+E I N L E I T U N G
+1. Einleitung
+Für die Entwicklung neuer Methoden der Künstlichen Intelligenz (KI) und die Erschließung neuer Anwendungsgebiete von KI spielen neu gegründete Unternehmen eine herausragende Bedeutung. Wie in anderen neu entstehenden, wissensbasierten Wirtschaftszweigen kommt Startups beim Thema KI eine mehrfache Rolle zu:
+• Erstens transferieren KI-Startups neue Ideen und Ergebnisse der wissenschaftlichen Forschung in Produktangebote für den Markt und tragen zur Erschließung gänzlich neuer Geschäftsfelder und Märkte bei. Durch ihre Agilität und Flexibilität können sie rasch neue Wachstumsmöglichkeiten identifizieren, verschiedene Ansätze erproben und Innovationsideen testen. Damit können sie neuen Technologien zum Durchbruch verhelfen und neue Anwendungsgebiete für KI eröffnen. Dies gilt insbesondere für Anwendungen, die am Beginn erst kleine Marktvolumina bei gleichzei-tig hohen Entwicklungskosten aufweisen und daher für große Unternehmen unattraktiv sind. • Zweitens sind KI-Startups wichtige Partner für Unternehmen, die in die umfassende Nutzung von KI einsteigen möchten. KI-Startups bieten von Entwicklungsleistungen, der Implementation und Testung von KI-Technologien bis zur Beratung über die Integration von KI-Technologien in beste-hende Systeme eine breite Palette an kundenspezifischen Angeboten. Gerade die Projektorientie-rung der Startups und damit die starke Ausrichtung auf die Anforderungen der Kunden ist in frü-hen Phasen der Diffusion einer neuen Technologie wichtig, da noch keine Standardangebote ver-fügbar sind oder diese nicht den Bedürfnissen der Anwender entsprechen.
+• Drittens geht von KI-Startups ein stetiger Wettbewerbs- und Anpassungsdruck auf etablierte Un-ternehmen im Bereich der Entwicklung und Anwendung von KI-Technologien aus, indem die KI-Startups die Geschäftsansätze der etablierten Unternehmen mit eigenen Lösungen herausfordern. Dies wirkt einer möglichen Marktkonzentration entgegen und erhöht die Vielfalt des Angebots an KI-Lösungen im Markt.
+• Viertens können Startups in Branchen außerhalb der KI-Entwicklung und -Beratung wichtige Pio-niere beim Einsatz von KI-Technologien in unterschiedlichen Anwendungsfeldern sein. Da das technische Risiko beim erstmaligen Einsatz neuer Technologien i.d.R. sehr hoch ist, schrecken etablierte Unternehmen häufig davor zurück, frühzeitig solche Technologien einzusetzen und warten auf die Erfahrungen anderer Unternehmen. Startups können durch die Erfahrungen, die sie mit einem Ersteinsatz von KI in bestimmten Anwendungsgebieten machen, wichtige Türöffner für eine rasche Diffusion von KI auch bei etablierten, größeren Unternehmen sein.
+• Schließlich tragen KI-Startups auch dazu bei, Technologiesouveränität beim Thema KI aufzubauen und zu stärken sowie die Innovationspotenziale von KI umfassender zu nutzen. Ein diversifizier-tes, nutzergerechtes Angebot an KI-Lösungen durch KI-Startups ermöglicht es den Unternehmen, KI für innovative Produkte, Dienste und Prozesse einzusetzen und fördert so auch die Innovati-onsaktivität etablierter Unternehmen.
+[Page #7]
+8
+E I N L E I T U N G
+Ziel dieser Studie ist es, die Startup-Dynamik im Bereich der Entwicklung und Anwendung von KI in Deutschland zu untersuchen. Im Zentrum steht eine Bestandsaufnahme zur Anzahl der KI-Startups, ihrer Verteilung nach Art der KI-bezogenen Tätigkeit, Branchen und Standorten sowie der Entwick-lung von KI-Startups in den vergangenen 25 Jahren.
+Empirische Grundlage der Studie ist ein umfassendes Screening unterschiedlicher Datenquellen, die Informationen zu Unternehmensgründungen im Bereich KI enthalten. Insgesamt wurden 6.250 Un-ternehmen identifiziert, die ab 1995 in Deutschland gegründet wurden und sich mit dem Thema KI befassen. Diese im Folgenden "KI-Startups" genannten Gründungen müssen sich allerdings nicht hauptsächlich mit der Entwicklung oder Nutzung von KI-Technologien befassen, sondern können auch Gründungen einschließen, die sich nur in zeitweise oder für bestimmte Projekte dem Thema KI widmen. Die identifizierten KI-Startups wurden mit den Daten des Mannheimer Unternehmenspa-nels (MUP) verknüpft, um Basisdaten zu den Unternehmen zu gewinnen. Die Datenbasis ist in Ab-schnitt 5.1 im Anhang beschrieben. Da es am aktuellen Rand zu einer Untererfassung von KI-Startups kommt, wurde die Gesamtzahl der KI-Startups hochgerechnet (vgl. Abschnitt 5.2 im Anhang).
+Die vorliegende Studie stellt die erste umfassende Bestandsaufnahme zur Gründungstätigkeit im Be-reich KI in Deutschland dar, die auf einer breiten und repräsentativen Datenbasis beruht, welche die gesamte Vielfalt der Gründungsaktivitäten zum Thema KI abbildet. Die bisher vorliegenden Untersu-chungen haben nur einen Ausschnitt der Gründungstätigkeit abgebildet, meist mit einem starken Fo-kus auf Gründungen in den jüngsten Jahren (vgl. Kind et al. 2017, Goecke und Thiele 2018) oder in Be-zug auf die generelle Bedeutung von KI-Technologien für Gründungen (vgl. Kollmann et al. 2020). Auch die internationale Gründungsforschung hat sich dem Thema KI-Startups nur in sehr spezifi-scher Weise gewidmet, sei es durch regionale Fallstudien (vgl. Doloreux und Turkina 2021, Turkina 2018), in Bezug auf die Veränderung von Gründungsprozessen durch KI (vgl. Chalmers et al. 2021) o-der durch die Möglichkeiten von KI, Gründungsprozesse und -strukturen zu analysieren (vgl. Obschonka und Audretsch 2020).
+[Page #8]
+9
+E N T W I C K L U N G V O N K I - S T A R T U P S I N D E U T S C H L A N D
+2. Entwicklung von KI-Startups in
+Deutschland
+2.1 Anzahl KI-Startups
+Die Recherchen des ZEW zu KI-Startups in unterschiedlichen, komplementären Datenquellen (Crunchbase, KI-Plattformen, Förderdaten, Webseiten, Creditreform-Daten, Daten der Innovations-erhebung; siehe Abschnitt 5.1 im Anhang für eine ausführliche Darstellung) haben ergeben, dass seit 1995 in Deutschland deutlich mehr als 6.000 Unternehmen gegründet wurden, die einem der folgen-den KI-bezogenen Geschäftsmodelle zugeordnet werden können:
+• Gründungen, die KI-Technologien und KI-Anwendungen entwickeln, d.h. KI ist ein Kernprodukt des Unternehmens, das entweder in anderen Unternehmen eingesetzt wird oder zentraler Be-standteil des Leistungsangebots des Startups bildet (z.B. Analysen und Modellierung auf Basis von KI) (KI-Entwickler)
+• Gründungen, die Beratungsdienstleistungen zum Thema KI anbieten, ohne selbst KI-Technolo-gien oder KI-Anwendungen zu entwickeln, wie z.B. die Konzeption des KI-Einsatzes in anderen Unternehmen (KI-Berater)
+• Gründungen, die KI-Methoden für die eigene Geschäftstätigkeit nutzen, wobei die Produkte selbst anderen Märkten zuzurechnen sind und von industriellen Anwendungen bis zu verschiedenen Dienstleistungen wie Handel, Transport, Werbung oder Unterricht reichen können, KI ist für diese Gründungen somit eine Prozesstechnik (KI-Anwender)
+Die Zuordnung der Unternehmen kann dabei nur grob erfolgen und bedeutet nicht, dass das betref-fende Startup zu jedem Zeitpunkt seiner bisherigen Tätigkeit dieses Geschäftsmodell verfolgt hat. Es ist davon auszugehen, dass die Mehrzahl der erfassten Startups aktuell KI-bezogene Geschäftsmodelle verfolgen, jedoch nicht notwendigerweise seit der Aufnahme der Geschäftstätigkeit. Dies gilt insbe-sondere für die Gruppen der KI-Berater und KI-Anwender. Hier können Unternehmen erst einige Jahre nach Gründung sich dem Thema KI zugewendet haben. Im Bereich der KI-Anwender ist außer-dem davon auszugehen, dass nur ein Teil dieser Gruppe identifiziert werden konnte. Um die Auswer-tungen zu vereinfachen, erfolgt eine "hierarchische" Zuordnung, d.h. ein Unternehmen, das KI-Ent-wicklung und KI-Beratung anbietet, wird als KI-Entwickler gezählt, und ein Unternehmen mit KI-Beratung und KI-Anwendung als KI-Berater.
+Die Anzahl der so definierten KI-Startups ist in den vergangenen 25 Jahren deutlich angestiegen (Ab-bildung 1). Mitte der 1990er Jahre lagen die jährlichen Gründungszahlen von KI-Startups bei weniger als 150. Einem ersten Anstieg bis zum Jahr 2000 von mehr als 250 folgte eine Phase geringerer Grün-dungstätigkeit mit zwischen 150 und 200 Gründungen pro Jahr. Von 2007 bis 2010 kam es zu einer merklichen Zunahme der jährlichen Gründungszahlen auf rund 250. Mit dem Jahr 2014 begann ein
+[Page #9]
+E N T W I C K L U N G V O N K I - S T A R T U P S I N D E U T S C H L A N D 10
+Gründungsboom, der in den Jahren 2017 und 2018 mit jeweils mehr als 450 Gründungen seinen Hö-hepunkt erreichte. 2019 und noch stärker im Pandemiejahr 2020 ging die Zahl der neu in den Markt eintretenden KI-Startups deutlich auf weniger als 350 zurück. Schätzungen für 2021 legen nahe, dass es zu keinem weiteren Rückgang gekommen ist. Die Angaben zu den jüngsten Jahren sind allerdings mit Vorsicht zu interpretieren, da sie auf Hochrechnungen und Schätzungen beruhen, um Lücken in den zugrundeliegenden Daten zu schließen.
+Abbildung 1: Anzahl KI-Startups in Deutschland 1995-2021 nach KI-Geschäftsmodellen
+KI-Entwickler
+KI-Berater
+KI-Anwender
+KI-Startups insgesamt
+sputratSl
+haznA
+*9102
+*0202
+**1202
+* hochgerechnete Werte ** hochgerechnete Werte mit hoher Unsicherheit Quelle: Crunchbase, Plattform Lernende Systeme, Applied AI, Aiso Lab, KI Bundesverband, Profi, MWP/istari.ai, MUP, MIP. Berechnungen des ZEW.
+Die Gesamtzahl der KI-Startups beläuft sich für die Summe der Gründungsjahrgänge 1995-2021 und bei Hochrechnung der Werte für die jüngsten Jahre 2019-2021 auf knapp 6.700. Diese Zahl dürfte eher eine Untergrenze darstellen, da nicht notwendigerweise jedes den o.a. Kriterien genügende KI-Startup in den herangezogenen Datenquellen aufscheint oder als KI-Startup zu identifizieren ist. Die in Abbildung 1 dargestellte Entwicklung der Gründungszahlen sollte die Realität in jedem Fall sehr gut abbilden.
+Bestimmt wird die Dynamik der Anzahl KI-Startups von der Gruppe der KI-Entwickler. Sie macht mit einem Anteil von 68,2 % an allen hier untersuchten KI-Startups die mit Abstand größte Gruppe aus. Im Bereich der anderen beiden Gruppen sind die jährlichen Gründungszahlen wenig dynamisch und liegen bei ca. 40 bis 80 für KI-Anwender und 10 bis 40 für KI-Berater. Auf KI-Berater entfallen 9,8 % aller KI-Startups, auf KI-Anwender 22,0 % (Abbildung 2).
+[Page #10]
+11
+E N T W I C K L U N G V O N K I - S T A R T U P S I N D E U T S C H L A N D
+Zu beachten ist, dass die Gruppe der KI-Anwender innerhalb der KI-Startups nur einen sehr kleinen Ausschnitt aller KI anwendenden Unternehmen in Deutschland darstellt, und dass vermutlich auch nicht alle Startups, die KI in ihrem jeweiligen Anwendungsfeld einsetzen, erfasst wurden. Im Jahr 2019 haben alleine im Berichtskreis der Innovationserhebung rund 17.000 Unternehmen aktiv KI ein-gesetzt (vgl. Rammer et al. 2020). Die Gruppe der KI-Startups macht somit nur einen Bruchteil aller KI anwendenden Unternehmen in Deutschland aus.
+Abbildung 2: Verteilung von KI-Startups in Deutschland 1995-2021 nach KI-Geschäftsmodellen
+KI-Anwender; 22,0
+KI-Berater; 9,8
+KI-Entwickler; 68,2
+Angaben in %. Quelle: Crunchbase, Plattform Lernende Systeme, Applied AI, Aiso Lab, KI Bundesverband, Profi, MWP/istari.ai, MUP, MIP. Berechnungen des ZEW.
+2.2 Branchenverteilung und FuE-Tätigkeit
+Die Branchenverteilung der KI-Startups spiegelt zu einem guten Teil die Ausrichtung auf die drei un-terschiedenen Geschäftsmodelle wider. KI-Entwickler sind Unternehmen, die ganz überwiegend im Bereich der Softwareprogrammierung und anderer IT-Dienstleistungen (wie Datenbank- und Daten-analysedienste, Hosting, Cloud Computing Dienste, Installation und Pflege von IT-Infrastruktur, Konzeption von Hard- und Softwarearchitekturen) tätig sind. 57,2 % aller KI-Startups können dieser Branchengruppe zugeordnet werden (Abbildung 3). 7,2 % sind im Bereich Ingenieurbüros und FuE-Dienstleistungen tätig. Auch hier handelt es sich ganz überwiegend um KI-Entwicklung.
+In der Branchengruppe der Beratungsdienstleistungen (Wirtschafts-, Steuer-, Rechts-, Finanzbera-tung, Werbung) sind 18,6 % der KI-Startups angesiedelt. Dabei handelt es sich zum Teil um KI-Berater und zum Teil um KI-Anwender, etwa in Form des Einsatzes von KI-Methoden in der Finanzberatung, der Steuer- und Rechtsberatung oder im Marketing. 17,1 % der KI-Startups sind in verschiedenen weiteren Anwenderbranchen tätig, darunter 5,3 % in der Industrie, Energieversorgung, Entsorgung
+[Page #11]
+E N T W I C K L U N G V O N K I - S T A R T U P S I N D E U T S C H L A N D 12
+und Baugewerbe, 3,7 % im Handel und Transportgewerbe und 8,1 % in allen anderen Dienstleistun-gen (von Gastgewerbe über sonstige Unternehmensdienste bis zu Unterricht, Gesundheit sowie künstlerische und persönliche Dienstleistungen).
+Abbildung 3: Verteilung KI-Startups in Deutschland 1995-2021 nach Branchen
+sonstige Dienstleistungen; 8,1
+Handel, Transport; 3,7
+Industrie, Energieversorgung, Entsorgung, Baugewerbe; 5,3
+Ingenieurbüros, FuE-Dienstleister; 7,2
+Software, IT-Dienstleistungen; 57,2
+Beratung, Werbung, Finanzdienstleistungen; 18,6
+Angaben in %. Quelle: Crunchbase, Plattform Lernende Systeme, Applied AI, Aiso Lab, KI Bundesverband, Profi, MWP/istari.ai, MUP, MIP. Berechnungen des ZEW.
+Ein weiterer Aspekt der wirtschaftlichen Tätigkeit von KI-Startups betrifft die Durchführung von Forschungs- und Entwicklungsaktivitäten (FuE) sowie die Erstellung von Softwareprogrammen. Das Vorliegen solcher Aktivitäten wurde über eine Textfeldanalyse der im Mannheimer Unternehmen-spanel vorliegenden Geschäftstätigkeitsbeschreibungen festgestellt und kann somit nur als ein grober Indikator dienen. Er weist primär darauf hin, dass die KI-Startups zumindest in einer bestimmten Phase der Unternehmensentwicklung FuE oder Softwareprogrammierung betrieben haben. Gleich-zeitig ist davon auszugehen, dass nicht alle KI-Startups mit solchen Aktivitäten diese auch in der Ge-schäftstätigkeitsbeschreibung angeben, weshalb die dargestellten Werte nur eine Untergrenze ange-ben.
+Mehr als drei von vier KI-Startups im Bereich der Entwicklung von KI-Technologien und -Anwen-dungen betreiben eigene FuE oder Softwareprogrammierung (Abbildung 4). Der Anteil der Unterneh-men mit Softwareprogrammierungsaktivitäten beträgt fast 70 % und der Anteil der forschenden KI-Entwickler liegt bei rund 51 %. Unter den KI-Beratern ist der Anteil der FuE betreibenden KI-Startups (ca. 22 %) und der Softwareprogrammierer (ca. 28 %) deutlich niedriger. Unter den KI-Anwendern be-treiben knapp 26 % der Startups FuE und knapp 22 % sind in der Softwareprogrammierung aktiv. Für die Gesamtheit der KI-Startups liegt der Anteil mit FuE-Aktivitäten bei über 42 %. Dies ist eine über-durchschnittlich hohe Quote. Im gewichteten Durchschnitt der Branchen, in denen KI-Startups tätig sind, liegt der Anteil der FuE betreibenden Unternehmen bei ca. 38 %.
+[Page #12]
+13
+E N T W I C K L U N G V O N K I - S T A R T U P S I N D E U T S C H L A N D
+Abbildung 4: Verteilung KI-Startups in Deutschland 1995-2021 nach FuE-Tätigkeit und Softwarepro-
+grammierung
+nur FuE-Tätigkeit
+FuE-Tätigkeit + Softwareprogrammierung
+nur Softwareprogrammierung
+weder noch*
+KI-Entwickler
+14,2
+37,0
+32,4
+16,5
+KI-Berater
+14,7
+7,3
+20,7
+57,2
+KI-Anwender
+18,3
+7,3
+14,5
+59,9
+KI-Startups insgesamt
+15,2
+27,4
+27,2
+30,2
+Angaben in %. * einschließlich Unternehmen mit FuE und Softwareprogrammierung, die diese Aktivitäten nicht in der aktuellen Geschäftstätigkeitsbeschreibung ange-geben haben. Quelle: Crunchbase, Plattform Lernende Systeme, Applied AI, Aiso Lab, KI Bundesverband, Profi, MWP/istari.ai, MUP, MIP. Berechnungen des ZEW.
+In einem kleinen Teil der KI-Startups münden die FuE-Aktivitäten in die Anmeldung von Patenten. Von allen in den Jahren 1995 bis 2017 in Deutschland gegründeten KI-Startups hatten 5,2 % bis zum Jahr 2017 zumindest eine Erfindung beim Europäischen Patentamt (EPO) oder über das PCT-Verfah-ren an der World Intellectual Property Organization (WIPO) zum Patent angemeldet (Abbildung 5). Dieser Anteilswert ist unter den KI-Entwicklern mit 6,4 % am höchsten und unter den KI-Beratern mit 0,9 % am niedrigsten.
+Abbildung 5: Anteil der KI-Startups in Deutschland 1995-2017 mit internationalen Patentanmeldungen
+(bis 2017)
+KI-Entwickler
+6,4
+KI-Berater
+0,9
+KI-Anwender
+3,7
+KI-Startupsinsgesamt
+5,2
+Anteil an allen KI-Startups der jeweiligen Gruppe in %
+Internationale Patentanmeldung: Anmeldung am EPO oder über die WIPO, nur Anmeldungen bis inkl. Prioritätsjahr 2017. Quelle: Crunchbase, Plattform Lernende Systeme, Applied AI, Aiso Lab, KI Bundesverband, Profi, MWP/istari.ai, MUP, MIP, Patstat-Datenbank. Berech-nungen des ZEW.
+2.3 Wagniskapital, Rechtsform, Frauenbeteiligung
+Von allen KI-Startups im Zeitraum von 1995 bis 2021 haben bis Mitte 2021 6,8 % eine Wagniskapital-finanzierung in Form einer offenen Finanzierung durch eine Venture-Capital-Gesellschaft oder
+[Page #13]
+E N T W I C K L U N G V O N K I - S T A R T U P S I N D E U T S C H L A N D 14
+durch eine offene Beteiligung durch einen Privatinvestor ("Business Angel" – BA) erhalten. VC-Finan-zierungen, die ausschließlich über stille Beteiligungen erfolgt sind, sowie Beteiligungen durch nicht in öffentlich zugänglichen Verzeichnissen enthaltenen Business Angels sind in dieser Zahl nicht ent-halten. 3,0 % der KI-Startups erhielten sowohl von VC-Gesellschaften als auch von BA eine Finanzie-rung, 2,9 % nur von VC-Gesellschaften und 0,9 % nur von BA. Der Anteil der VC-finanzierten KI-Star-tups ist unter den KI-Entwicklern mit 9,2 % überdurchschnittlich hoch (Abbildung 6). In den anderen beiden Gruppen sind VC-Finanzierungen mit einem Anteil von 2,2 % (KI-Anwender) und 1,5 % (KI-Berater) sehr selten.
+Abbildung 6: Anteil der KI-Startups in Deutschland 1995-2021 mit VC-Finanzierung und BA-Beteiligung
+nur VC-Finanzierung
+nur BA-Beteiligung
+VC-Finanzierung und BA-Beteiligung
+KI-Entwickler
+3,9
+4,1
+1,2
+KI-Berater
+0,2
+0,8
+0,5
+KI-Anwender
+0,9
+0,3
+1,0
+KI-Startups insgesamt
+2,9
+0,9
+3,0
+VC-Finanzierung: finanzielle Beteiligung durch einen VC-Investor (ohne ausschließlich stille Beteiligungen) BA-Beteiligung: offene Beteiligung durch einen Privatinvestor, der in Verzeichnissen von Business Angels enthalten ist. Quelle: Crunchbase, Plattform Lernende Systeme, Applied AI, Aiso Lab, KI Bundesverband, Profi, MWP/istari.ai, MUP, MIP, Majunke-Transaktionsda-tenbank. Berechnungen des ZEW.
+Der größte Teil der KI-Startups in Deutschland weist im Jahr 2021 als Rechtsform eine Kapitalgesell-schaft auf (93 %). Die meisten Gründungen haben die Rechtsform der GmbH gewählt (78 %), rund 5 % sind eine Aktiengesellschaft und ebenfalls 5 % eine Unternehmergesellschaft (Abbildung 7). Nur 7 % sind als Personengesellschaft tätig, wobei die häufigsten solchen Rechtsformen der Gewerbebetrieb, eine BGB-Gesellschaft oder ein freier Beruf sind. Personengesellschaften sind unter den KI-Anwen-dern erheblich häufiger anzutreffen als unter den KI-Entwicklern.
+Abbildung 7: Rechtsform von KI-Startups in Deutschland 1995-2021
+GmbH
+AG, eG
+UG, Ltd.
+GmbH & Co. KG, KG
+Personengesellschaft
+KI-Entwickler
+KI-Berater
+KI-Anwender
+KI-Startups insgesamt
+Quelle: Crunchbase, Plattform Lernende Systeme, Applied AI, Aiso Lab, KI Bundesverband, Profi, MWP/istari.ai, MUP, MIP. Berechnungen des ZEW.
+[Page #14]
+15
+E N T W I C K L U N G V O N K I - S T A R T U P S I N D E U T S C H L A N D
+In den Gründungsteams der KI-Startups ist im Durchschnitt jede vierte Person eine Frau. Der Frauen-anteil im Gründungsteam unterscheidet sich nur wenig zwischen den drei Gruppen von KI-Startups (Abbildung 8). Deutlicher sind die Unterschiede, wenn "Frauengründungen" betrachtet werden, also neu gegründete Unternehmen, die sich im Mehrheitsbesitz von Frauen befinden und bei denen Frauen in der Geschäftsführung tätig sind. Insgesamt stellen 12,1 % der KI-Startups solche Frauen-gründungen dar. Unter den KI-Entwicklern ist der Anteil mit 9,5 % niedriger, während der bei den KI-Anwendern 18,5 % erreicht.
+Abbildung 8: Beteiligung von Frauen an KI-Startups in Deutschland 1995-2021
+Anteil Frauen im Gründungsteam
+Anteil Gründungen durch Frauen*
+25,2
+KI-Entwickler
+9,5
+24,5
+KI-Berater
+16,0
+27,0
+KI-Anwender
+18,5
+KI-Startupsinsgesamt
+25,5
+12,1
+Anteil an allen KI-Startups bzw. allen Gründerpersonen von KI-Startups in %
+* Mehrheitsbesitz und Geschäftsführung durch Frauen Quelle: Crunchbase, Plattform Lernende Systeme, Applied AI, Aiso Lab, KI Bundesverband, Profi, MWP/istari.ai, MUP, MIP. Berechnungen des ZEW.
+2.4 Regionalverteilung
+Die Regionalverteilung der KI-Startups weist einige Besonderheiten auf. Auf Ebene der Bundesländer fällt auf, dass die absolut höchste Anzahl von KI-Startups in Bayern angesiedelt ist (Abbildung 9). Erst an zweiter Stelle folgt das von der Wirtschaftskraft her größte Bundesland Nordrhein-Westfalen. Hinter Baden-Württemberg an vierter Stelle liegt Berlin. Es weist annähernd gleich viele KI-Startups wie Baden-Württemberg mit dreimal so großer Bevölkerungszahl auf. Im Vergleich zur Bevölke-rungszahl weiter vorne liegen außerdem die Stadtstaaten Hamburg und Bremen sowie das Saarland.
+Diese Unterschiede in der Verbreitung von KI-Startups nach Bundesländern werden bei Betrachtung verschiedener KI-Startup-Intensitäten deutlich. Gemessen am Anteil der KI-Startups an allen Grün-dungen liegen Berlin und Hamburg mit Anteilswerten von 2,6 bzw. 2,1 ‰ deutlich vor Bayern, Bre-men, dem Saarland und Baden-Württemberg (Abbildung 10). Überdurchschnittlich hoch ist in diesen Ländern auch der Anteil der KI-Startups an allen Gründungen im IKT-Bereich. Hohe Werte bei die-sem Anteilswert zeigen außerdem Sachsen und Brandenburg. Die KI-Startup-Intensität gemessen an der Anzahl der Erwerbspersonen ist ebenfalls in Berlin und Hamburg am höchsten, wobei der Ab-stand zu anderen Bundesländern hier nochmals höher ist.
+[Page #15]
+E N T W I C K L U N G V O N K I - S T A R T U P S I N D E U T S C H L A N D 16
+Abbildung 9: Anzahl KI-Startups in Deutschland 1995-2021 nach Bundesländern
+Bayern
+Nordrhein-Westfalen
+Baden-Württemberg
+Berlin
+Hessen
+Hamburg
+Niedersachsen
+Sachsen
+Rheinland-Pfalz
+Brandenburg
+Schleswig-Holstein
+Saarland
+Thüringen
+Bremen
+KI-Entwickler
+KI-Berater
+KI-Anwender
+Sachsen-Anhalt
+Mecklenburg-Vorpommern
+Anzahl KI-Startups
+Quelle: Crunchbase, Plattform Lernende Systeme, Applied AI, Aiso Lab, KI Bundesverband, Profi, MWP/istari.ai, MUP, MIP. Berechnungen des ZEW.
+Die regionalen Schwerpunkte der Gründungstätigkeit im Bereich KI-Startups werden bei einer Be-trachtung auf Kreisebene besonders deutlich (Abbildung 11). Überdurchschnittlich hohe Intensitäten (Anzahl KI-Startups 1995-2021 je 100.000 Erwerbstätige im Bereich der gewerblichen Wirtschaft, d.h. Wirtschaftszweige B bis N) weisen die meisten größeren kreisfreien Städte auf, während die meisten Landkreise außerhalb der großen Agglomerationen sehr niedrige KI-Startup-Intensitäten zeigen.
+Die Kreise mit KI-Startup-Intensitäten von über 50 sind: • Potsdam (97) • München, Stadt (77) • Starnberg (74) • Berlin (68) • Heidelberg (67) • Karlsruhe (67) • München, Land (62) • Darmstadt (59) • Kaiserslautern (56) • Würzburg (53)
+[Page #16]
+17
+E N T W I C K L U N G V O N K I - S T A R T U P S I N D E U T S C H L A N D
+Abbildung 10: KI-Startup-Intensität in Deutschland nach Bundesländern
+Berlin
+Hamburg
+Bayern
+Bremen
+Saarland
+Baden-Württemberg
+Sachsen
+Hessen
+Brandenburg
+Nordrhein-Westfalen
+Thüringen
+Niedersachsen
+KI-Startups pro Jahr je 1.000Gründungen
+Schleswig-Holstein
+Rheinland-Pfalz
+KI-Startups pro Jahr je 100 IKT-Gründungen
+Sachsen-Anhalt
+KI-Startups pro Jahr je 100.000Erwerbspersonen
+Mecklenburg-Vorpommern
+Deutschland
+0,0
+0,5
+1,0
+1,5
+2,0
+2,5
+3,0
+3,5
+4,0
+4,5
+5,0
+Quelle: Crunchbase, Plattform Lernende Systeme, Applied AI, Aiso Lab, KI Bundesverband, Profi, MWP/istari.ai, MUP, MIP. Berechnungen des ZEW.
+Die Städte und Regionen, in denen im Zeitraum 1995-2021 mehr als 100 KI-Startups gegründet wur-den, sind (Größenordnung der Anzahl KI-Startups in Klammern): • Berlin (>850) • München, Stadt (>600) • Hamburg (>325) • Köln (>200) • Frankfurt (>175) • München, Land (>125) • Düsseldorf (>125) • Stuttgart (>125) • Karlsruhe (>100) • Hannover (>100)
+Die Schwerpunkte der KI-Gründungstätigkeit entsprechen dabei den Hotspots, die sich generell für innovative Gründungen in Deutschland zeigen (vgl. Kollmann et al. 2020).
+[Page #17]
+E N T W I C K L U N G V O N K I - S T A R T U P S I N D E U T S C H L A N D 18
+Abbildung 11: KI-Startup-Intensität in Deutschland nach Kreisen
+KI-Startup-Intensität: Anzahl KI-Startups 1995-2021 je 100.000 Erwerbstätige im Bereich der gewerblichen Wirtschaft. Quelle: Crunchbase, Plattform Lernende Systeme, Applied AI, Aiso Lab, KI Bundesverband, Profi, MWP/istari.ai, MUP, MIP. Berechnungen des ZEW.
+[Page #18]
+19
+E N T W I C K L U N G V O N K I - S T A R T U P S I N D E U T S C H L A N D
+Der Fokus von KI-Startups auf Zentralräume wird auch bei einer Zuordnung der Standorte zu den vier Lagetypen des BBSR1 "sehr zentrale Region", "zentrale Region", "periphere Region" und "sehr pe-riphere Region" deutlich (Abbildung 12). Von KI-Startups im Bereich der Entwicklung von KI-Tech-nologien und KI-Anwendungen sind 79 % in sehr zentralen Regionen und 15 % in zentralen Regio-nen angesiedelt, während es nahezu keine Gründungen in sehr peripheren Regionen gibt. Für KI-Be-rater ist dieses Standortmuster sogar noch etwas stärker ausgeprägt, während Startups im Bereich der KI-Anwender höhere Anteile in peripheren Regionen aufweisen. Im Vergleich zu allen Gründungen in Deutschland im Zeitraum 1995-2021 wird vor allem der Schwerpunkt auf die sehr zentralen Regio-nen, d.h. die großen Agglomerationen deutlich.
+Abbildung 12: Verteilung von KI-Startups in Deutschland nach Siedlungstypen
+sehr zentral
+zentral
+peripher
+sehr peripher
+KI-Entwickler
+KI-Berater
+KI-Anwender
+KI-Startups insgesamt
+alle Gründungen
+Quelle: Crunchbase, Plattform Lernende Systeme, Applied AI, Aiso Lab, KI Bundesverband, Profi, MWP/istari.ai, MUP, MIP. Berechnungen des ZEW.
+Diese spezifische Standortwahl von KI-Startups dürfte mehrere Gründe haben: • Erstens suchen KI-Startups vermutlich häufig die Nähe zu Wissenschaftseinrichtungen oder stel-
+len Ausgründungen aus solchen Einrichtungen. Dabei geht es neben FuE-Kooperationen auch um den Zugang zu gut ausgebildeten Fachkräften wie z.B. Werkstudent:innen. Nur wenn KI-Startups frühzeitig auf Talente zugreifen und diese auch langfristig ans Unternehmen binden können (z.B. über Mitarbeiterbeteiligungsprogramme, vgl. Hammermann et al. 2021), kann es ihnen gelingen, im Wettbewerb um die besten Köpfe mit den finanzkräftigen großen Unternehmen zu bestehen. Wissenschaftseinrichtungen mit bedeutender Forschungstätigkeit im Bereich KI sowie Hoch-schulen mit Ausbildungsschwerpunkten zu KI-relevanten Themen sind besonders häufig in den großen Agglomerationen zu finden.
+• Zweitens sind KI-Startups auf eine hervorragende IT-Infrastruktur angewiesen, d.h. Internetver-bindungen mit sehr hohen Übertragungsraten und Bandbreiten. In vielen peripheren Regionen Deutschlands ist die technische Ausstattung dahingehend weiterhin unzureichend, wodurch KI-Startups diese Regionen meiden.
+• Drittens beruht die Geschäftstätigkeit von vielen KI-Startups auf Kooperationen und Netzwerken mit anderen KI-Startups. Deshalb suchen häufig auch Gründerpersonen von KI-Startups, die
+1 Bundesinstitut für Bau-, Stadt- und Raumforschung (BBSR): Raumtypen 2010 nach Lage, Laufende Raumbeobachtung des BBSR.
+[Page #19]
+E N T W I C K L U N G V O N K I - S T A R T U P S I N D E U T S C H L A N D 20
+selbst nicht aus den großen Zentralräumen kommen, einen Standort in diesen, um von der Nähe zu anderen Startups zu profitieren. KI-Startups können wiederum selbst eine Quelle für weitere Neugründungen sein, wenn z.B. Beschäftigte von Startups selbst zu Gründer:innen werden ("ent-repreneurial spawning"). Somit kann ein einmal geschaffener regionaler Schwerpunkt zu einer sich selbst verstärkenden Gründungsdynamik führen.
+• Viertens benötigen viele KI-Startups Wagniskapital, um die Entwicklung ihrer Produkte voranzu-treiben. Standorte in den Zentralregionen sind hierbei von Vorteil, weil dort viele potenzielle Wagniskapitalgeber anzutreffen sind.
+• Fünftens erfordern viele der Produkte und Dienstleistungen von KI-Startups eine enge Zusam-menarbeit mit den Nutzern, insbesondere wenn Startups kundenspezifische KI-Anwendungen entwickeln und implementieren. Wenngleich digitale Formen der Kommunikation weit verbrei-tet und effizient sind, gibt es gleichwohl häufig den Bedarf für einen direkten Austausch vor Ort, was einen Standort in Zentralräumen begünstigt.
+2.5 Unternehmenserfolg
+Der wirtschaftliche Erfolg von KI-Startups kann auf Basis der vorliegenden Daten anhand von drei Indikatoren ermittelt werden:
+• Überlebens- und Schließungsrate, d.h. Anteil der KI-Startups, die im Jahr 2021 noch wirtschafts-
+aktiv waren bzw. die zwischenzeitlich ihre Geschäftstätigkeit eingestellt haben,
+• Beschäftigungsentwicklung, d.h. wie viele Personen in den KI-Startups im Jahr mit der höchsten Beschäftigung tätig waren, als ein Indikator für wirtschaftliches Wachstum - für junge und stark auf die Entwicklung neuer Produkte ausgerichtete Unternehmen eignet sich die Beschäftigung besser als Wachstumsindikator als der Umsatz, da der Umsatz sehr volatil sein kann bzw. in der Phase der Produktentwicklung noch gar kein Umsatz anfällt.
+• Bonität, d.h. die Einstufung der Kreditwürdigkeit des Unternehmens durch externe Marktbe-
+obachter (Kreditauskunftei), die insbesondere die wirtschaftlichen Entwicklungsaussichten des Unternehmens bewerten.
+Die Überlebensrate von KI-Startups der Gründungsjahrgänge ist außerordentlich hoch. Im Jahr 2021 waren 92 % der seit 1995 gegründeten KI-Startups noch im Markt aktiv (Abbildung 13). Dies ist erheb-lich mehr als im Durchschnitt aller in Deutschland seit 1995 gegründeten Unternehmen (45 %). Die Überlebensrate ist unter den KI-Entwicklern und KI-Beratern mit 93 % höher als unter den KI-An-wendern (88 %).
+[Page #20]
+21
+E N T W I C K L U N G V O N K I - S T A R T U P S I N D E U T S C H L A N D
+Abbildung 13: Status der wirtschaftlichen Aktivität im Jahr 2021 von KI-Startups in Deutschland
+aktiv
+vermutlich stillgelegt
+geschlossen
+KI-Entwickler
+KI-Berater
+KI-Anwender
+KI-Startups insgesamt
+alle Gründungen
+KI-Startups und Gründungen der Gründungsjahre 1995-2021. Angaben in %. Quelle: Crunchbase, Plattform Lernende Systeme, Applied AI, Aiso Lab, KI Bundesverband, Profi, MWP/istari.ai, MUP, MIP. Berechnungen des ZEW.
+Die Schließung von KI-Startups war bis 2017 ein ausgesprochen seltenes Ereignis. Pro Jahr wurden selten mehr als 10 Unternehmen definitiv geschlossen (aufgrund von Konkurs, Abschluss eines Insol-venzverfahrens oder Löschung im amtlichen Register, in sehr seltenen Fällen auch aufgrund von Übernahmen durch andere Unternehmen), weitere ca. 5-10 Unternehmen pro Jahr wurden vermut-lich freiwillig stillgelegt bzw. haben ihre wirtschaftlichen Aktivitäten auf ein sehr niedriges Niveau zurückgefahren (Abbildung 14). Ab 2018 stiegen die Schließungszahlen jedoch merklich an und über-schritten im Pandemiejahr 2020 den Wert von 100. Der in Abbildung 14 ausgewiesene Rückgang im Jahr 2021 fällt aufgrund einer Untererfassung von Schließungen zu hoch aus, tatsächlich ist von einer höheren Anzahl von Schließungen in 2021 auszugehen.
+Die Schließungsrate von KI-Startups ist jedoch selbst nach dem Anstieg ab 2018 außerordentlich niedrig. Sie betrug selbst im Jahr mit den höchsten Schließungszahlen (2020) mit knapp 2,0 % nur ei-nen Bruchteil des Referenzwerts für alle Gründungen in Deutschland der Gründungsjahrgänge ab 1995, der bei 7,2 % lag (Abbildung 15).
+[Page #21]
+E N T W I C K L U N G V O N K I - S T A R T U P S I N D E U T S C H L A N D 22
+Abbildung 14: Anzahl Schließungen von KI-Startups in Deutschland 1997-2021
+sputratS
+geschlossen
+-I
+vermutlich stillgelegt***
+K
+l
+haznA
+**1202
+*0202
+KI-Startups, die in den Jahren 1995-2021 gegründet wurden. * Anzahl der vermutlich stillgelegten KI-Startups unterschätzt. ** Anzahl der geschlossenen und der vermutlich stillgelegten KI-Startups unterschätzt. *** Unternehmen, für die seit mindestens zwei Jahren keine wirtschaftliche Aktivität feststellbar war, sowie Unternehmen mit unklarem Status laut Creditreform-Daten. Quelle: Crunchbase, Plattform Lernende Systeme, Applied AI, Aiso Lab, KI Bundesverband, Profi, MWP/istari.ai, MUP, MIP. Berechnungen des ZEW.
+Abbildung 15: Schließungsrate von KI-Startups und von allen Gründungen in Deutschland 1996-2020
+m
+i
+sdnatsebsnemhenretnUsed%n
+rhajroV
+KI-Startups
+alle Gründungen
+i
+negnußeil
+hcS
+*9102
+*0202
+KI-Startups und alle Gründungen, die in den Jahren 1995-2020 gegründet wurden. * Auf Basis hochgerechneter Gründungszahlen, Schließungsrate wegen Untererfassung unterschätzt. Quelle: Crunchbase, Plattform Lernende Systeme, Applied AI, Aiso Lab, KI Bundesverband, Profi, MWP/istari.ai, MUP, MIP. Berechnungen des ZEW.
+Als Indikator für das Wachstum der KI-Startups wird der im Laufe der bisherigen Unternehmensent-wicklung erreichte Höchststand der Beschäftigung herangezogen. Fast ein Drittel der KI-Startups
+[Page #22]
+23
+E N T W I C K L U N G V O N K I - S T A R T U P S I N D E U T S C H L A N D
+überschritt den Wert von 50 tätigen Personen (inkl. im Unternehmen tätige Eigentümer:innen und Gründer:innen). In absoluten Zahlen sind dies mehr als 900 KI-Startups. Rund 430 KI-Startups er-reichten sogar einen Beschäftigungsstand von 100 oder mehr Personen, und mehr als 90 der seit 1995 gegründeten KI-Startups stiegen in die Gruppe der Großunternehmen (250 oder mehr Beschäftigte) auf. Knapp ein Fünftel der KI-Startups blieb ein Ein-Personen-Unternehmen, und etwas mehr als die Hälfte der KI-Startups blieb bei weniger als 10 tätigen Personen (Abbildung 16). Zwischen den drei Gruppen von KI-Startups zeigen sich nur sehr geringe Unterschiede. Dies deutet darauf hin, dass ein starkes Wachstum der Unternehmen weniger systematischen Faktoren folgt, sondern oft von Zufäl-len oder Sonderbedingungen in den Unternehmen bestimmt ist.
+Abbildung 16: KI-Startups in Deutschland 1995-2021 nach dem Höchststand der Beschäftigung
+1 Person
+2-4 Personen
+5-9 Personen
+10-19 Personen
+20-49 Personen
+50-99 Personen
+100-249 Personen
+250+ Personen
+KI-Entwickler
+KI-Berater
+KI-Anwender
+KI-Startups insgesamt
+Angaben in %. Quelle: Crunchbase, Plattform Lernende Systeme, Applied AI, Aiso Lab, KI Bundesverband, Profi, MWP/istari.ai, MUP, MIP. Berechnungen des ZEW.
+Als dritter Indikator für den Unternehmenserfolg dient die Bonitätseinstufung der KI-Startups durch die Kreditauskunftei Creditreform. Hier zeigt sich im Vergleich zu allen Gründungen in Deutschland der Jahre 1995 bis 2015 eine erheblich günstigere Bonitätseinstufung. Auf einer sechsstufigen Skala von 5 (am besten) bis 0 (am schlechtesten) weisen KI-Startups im Mittel eine um ca. 0,4 Punkte bes-sere Einstufung auf. Gemessen an der durchschnittliche Bonitätseinstufung von Gründungen in Deutschland der Jahre 1995-2021 ist die Bonität der KI-Startups im Schnitt um 13 % höher. Ab dem Jahr 2015 geht die durchschnittliche Bonitätseinstufung der KI-Startups allerdings zurück. Maßgeb-lich dafür ist die Gruppe der KI-Entwickler, deren Bonitätseinstufung stärker abnahm als in den Gruppen der KI-Berater und KI-Anwender (Abbildung 17). Diese Entwicklung könnte mit dem star-ken Anstieg an Markteintritten durch KI-Entwickler und dem damit intensiveren Wettbewerb zwi-schen den KI-Startups zusammenhängen. Gleichwohl ist aber auch im Jahr 2021 die Bonitätseinstu-fung für alle drei Gruppen von KI-Startups im Durchschnitt um 9-10 % günstiger als für alle Grün-dungen.
+[Page #23]
+E N T W I C K L U N G V O N K I - S T A R T U P S I N D E U T S C H L A N D 24
+Abbildung 17: Bonitätseinstufung von wirtschaftsaktiven KI-Startups in Deutschland 2000-2021 im Ver-
+gleich zu allen Gründungen
+3,6
+3,5
+)netsebma=5,netsethcehcsma=0(
+3,4
+3,3
+gnufutsnestätinoB
+KI-Entwickler
+KI-Berater
+3,2
+i
+KI-Anwender
+KI-Startups insgesamt
+3,1
+l
+alle Gründungen
+3,0
+2,9
+2,8
+KI-Startups und alle Gründungen der Jahre 1995-2021. Ohne Unternehmen, die im betrachteten Jahr geschlossen wurden. Der Jahreswert gibt die durchschnittliche Bonität aller in diesem Jahr wirtschaftsaktiven Gründungen an. Quelle: Crunchbase, Plattform Lernende Systeme, Applied AI, Aiso Lab, KI Bundesverband, Profi, MWP/istari.ai, MUP, MIP. Berechnungen des ZEW.
+2.6 Entwicklung von Unternehmensbestand und Beschäftigung
+Der Bestand an wirtschaftsaktiven und ab dem Jahr 1995 gegründeten KI-Startups in Deutschland stieg stetig an und überschritt im Jahr 2021 den Wert von 6.000 (Abbildung 18). Eine exakte Anzahl lässt sich wegen der Untererfassung von Unternehmensschließungen in den Jahren 2019-2021 jedoch nicht zuverlässig angeben. Von diesen gut 6.000 im Jahr 2021 noch wirtschaftsaktiven Unternehmen zählen mehr als 4.000 zur Gruppe der KI-Entwickler, rund 600 zu den KI-Beratern und rund 1.300 zu den KI-Anwendern. Die nachlassende Gründungstätigkeit ab 2019 bei gleichzeitig gestiegenen Schlie-ßungszahlen ab 2018 führten am aktuellen Rand zu einer Abflachung des Anstiegs, wenngleich der Unternehmensbestand weiter wächst.
+[Page #24]
+25
+E N T W I C K L U N G V O N K I - S T A R T U P S I N D E U T S C H L A N D
+Abbildung 18: Anzahl wirtschaftsaktive KI-Startups in Deutschland 1995-2021
+KI-Entwickler
+**sputratSevitkastfahcstri
+KI-Berater
+KI-Anwender
+KI-Startups insgesamt
+w
+l
+haznA
+*9102
+*0202
+*1202
+* Auf Basis hochgerechneter Gründungszahlen, Anzahl der wirtschaftsaktiven KI-Startups wegen Untererfassung von Schließungen überschätzt. ** KI-Startups, die in den Jahren 1995-2021 gegründet wurden. Quelle: Crunchbase, Plattform Lernende Systeme, Applied AI, Aiso Lab, KI Bundesverband, Profi, MWP/istari.ai, MUP, MIP. Berechnungen des ZEW.
+Von den KI-Startups geht ein merklicher Beschäftigungsbeitrag aus. In den gut 6.000 wirtschaftsakti-ven KI-Startups im Jahr 2021 waren in diesem Jahr im Durchschnitt rund 24 Personen tätig. Die Ver-teilung nach Beschäftigtengrößenklassen ist allerdings sehr ungleich. 71,3 % der KI-Startups beschäf-tigten weniger als 20 Personen, während in 6,0 % der KI-Startups 100 oder mehr Personen tätig waren (Abbildung 19). Dass nur wenige der neu gegründeten Unternehmen ein sehr starkes Wachstum auf-weisen, ist allerdings kein Spezifikum von KI-Startups, sondern ist ein generelles Merkmal des Grün-dungsgeschehens (vgl. Almus 2002).
+Abbildung 19: Anzahl tätige Personen in wirtschaftsaktiven KI-Startups in Deutschland 2021
+1 Person
+2-4 Personen
+5-9 Personen
+10-19 Personen
+20-49 Personen
+50-99 Personen
+100+ Personen
+KI-Entwickler
+22,4
+21,2
+11,8
+15,5
+15,9
+7,2
+6,0
+KI-Berater
+24,6
+18,5
+14,9
+15,6
+13,5
+7,3
+5,7
+KI-Anwender
+18,3
+17,9
+17,4
+17,7
+15,4
+7,1
+6,2
+KI-Startups insgesamt
+21,7
+20,2
+13,3
+16,0
+15,5
+7,2
+6,0
+KI-Startups, die in den Jahren 1995-2021 gegründet wurden und 2021 wirtschaftsaktiv waren. Angaben in %. Quelle: Crunchbase, Plattform Lernende Systeme, Applied AI, Aiso Lab, KI Bundesverband, Profi, MWP/istari.ai, MUP, MIP. Berechnungen des ZEW.
+[Page #25]
+E N T W I C K L U N G V O N K I - S T A R T U P S I N D E U T S C H L A N D 26
+Von allen ca. 149.000 Personen, die im Jahr 2021 in KI-Startups in Deutschland gearbeitet haben, wa-ren 44 % in Unternehmen mit 100 oder mehr Beschäftigten tätig, jeweils 20 % in Unternehmen mit 50-99 bzw. mit 20-49 Personen und 9 % in Unternehmen mit 10-19 Personen. Die gut 55 % der KI-Startups mit weniger als 10 Beschäftigten stellen lediglich 7 % der Gesamtbeschäftigung in 2021 wirt-schaftsaktiven KI-Startups. Diese Zahlen unterstreichen, dass für die Beschäftigungswirkung von Gründungen nicht die absolute Anzahl von Gründungen entscheidend ist, sondern eine kleine An-zahl von wachsenden und rasch Beschäftigung aufbauenden Gründungen.
+Abbildung 20: Verteilung der in wirtschaftsaktiven KI-Startups in Deutschland tätige Personen 2021 nach
+Unternehmensgrößenklassen
+Beschäftigte in Unternehmen mit:
+1 Person
+2-4 Personen
+5-9 Personen
+10-19 Personen
+20-49 Personen
+50-99 Personen
+100+ Personen
+KI-Entwickler
+KI-Berater
+KI-Anwender
+KI-Startups insgesamt
+KI-Startups, die in den Jahren 1995-2021 gegründet wurden und 2021 wirtschaftsaktiv waren. Angaben in %. Quelle: Crunchbase, Plattform Lernende Systeme, Applied AI, Aiso Lab, KI Bundesverband, Profi, MWP/istari.ai, MUP, MIP. Berechnungen des ZEW.
+Die (hochgerechnete) Gesamtzahl der Beschäftigung in KI-Startups in Deutschland nahm kontinuier-lich zu und erreichte im Jahr 2021 voraussichtlich den Wert von 149.000. 68 % der Beschäftigung ent-fiel auf KI-Entwickler, 9 % auf KI-Berater und 23 % auf KI-Anwender (Abbildung 21). Während die Beschäftigung in wirtschaftsaktiven KI-Startups bis 2018 mit Jahresraten von 10 % und mehr zu-nahm, schwächte sich die Entwicklung ab 2019 (+9 %) und in den Jahren 2020 (+5 %) und 2021 (+1 %) deutlich ab.
+[Page #26]
+27
+E N T W I C K L U N G V O N K I - S T A R T U P S I N D E U T S C H L A N D
+Abbildung 21: Anzahl der Beschäftigten in wirtschaftsaktiven KI-Startups in Deutschland 2000-2021
+KI-Anwender
+KI-Berater
+sputratS-IKn
+KI-Entwickler
+i
+etgitfähcseB
+l
+haznA
+*9102
+*0202
+*1202
+* Auf Basis hochgerechneter Gründungszahlen. Angaben wegen Untererfassung von Schließungen vermutlich überschätzt. Quelle: Crunchbase, Plattform Lernende Systeme, Applied AI, Aiso Lab, KI Bundesverband, Profi, MWP/istari.ai, MUP, MIP. Berechnungen des ZEW.
+[Page #27]
+S C H L U S S F O L G E R U N G E N 28
+3. Schlussfolgerungen
+Die vorliegende Untersuchung hat gezeigt, dass es in Deutschland umfangreiche Gründungsaktivitä-ten im Bereich der Entwicklung und Anwendung von Künstlicher Intelligenz (KI) gibt. Im Zeitraum 1995 bis 2021 wurden annähernd 6.700 Unternehmen neu gegründet, für die das Thema KI - zumin-dest in einem bestimmten Abschnitt der Unternehmensentwicklung - eine wesentliche Rolle für ihr Geschäftsmodell gespielt hat. Der größte Teil dieser als "KI-Startups" bezeichneten Gründungen - gut zwei Drittel - befasst sich mit der Entwicklung von KI-Technologien oder KI-Anwendungen, die ent-weder als Produkte oder Dienstleistungen für andere Unternehmen eingesetzt werden oder zentralen Bestandteil des Leistungsangebots des Startups sind (z.B. Analysen und Modellierung auf Basis von KI). Rund 10 % können als KI-Berater bezeichnet werden, die Beratung zum Thema KI für andere Un-ternehmen oder Einrichtungen anbieten. Ein gutes Fünftel der erfassten KI-Startups setzt KI als Pro-zesstechnik für die Herstellung eigener Produkte oder die Erbringung von Dienstleistungen ein. Diese Gruppe dürfte nur unvollständig erfasst sein, da nicht alle Gründungen, die KI in ihrem jeweiligen Anwendungsgebiet einsetzen, dies auch in öffentlich zugänglichen Quellen anführen.
+Die Anzahl von KI-Startups in Deutschland hat sich außerordentlich dynamisch entwickelt. Vor al-lem in den Jahren 2014 bis 2018 gab es einen regelrechten Gründungsboom in diesem neu entstehen-den Wirtschaftssegment. Die jährlichen Gründungszahlen überschritten 2017 und 2018 die Marke von 450 Gründungen. Der Unternehmensbestand (Anzahl wirtschaftsaktive KI-Startups) wuchs bis inkl. 2021 stetig, ebenso nahm die Anzahl der in KI-Startups tätigen Personen kontinuierlich zu und überschritt 2021 voraussichtlich den Wert von 150.000. Maßgeblich für diese positive Entwicklung ist die extrem hohe Überlebenswahrscheinlichkeit von KI-Startups. Im Jahr 2021 waren 92 % der seit 1995 gegründeten KI-Startups, d.h. insgesamt gut 6.000 Unternehmen, noch wirtschaftsaktiv. Dieser Wert ist doppelt so hoch wie im Durchschnitt aller Gründungen in Deutschland. Auch die Bonitäts-einstufung der Unternehmen - als ein zentraler Indikator für wirtschaftlichen Erfolg - ist deutlich günstiger als für andere Gründungen. Die hohe Dynamik und gute Performanz der KI-Startups zeigt, dass KI ein ausgesprochenes Wachstumsfeld ist, in dem viel Raum für neu gegründete Unternehmen ist, um mit innovativen Angeboten und neuen Geschäftsideen erfolgreich zu sein. Dabei sind KI-Star-tups nicht nur "Nehmer" einer hohen Nachfragedynamik, sondern schaffen mit ihren neuen Produk-ten und Dienstleistungen selbst zusätzliche Nachfrage und tragen wesentlich zur Nutzung der Poten-ziale von KI in der Wirtschaft bei.
+Für die Wirtschaftspolitik stellt die starke KI-Startup-Szene eine hervorragende Ausgangsbasis dar, um die Verbreitung von KI-Anwendungen in der deutschen Wirtschaft zu forcieren und damit die hohen Innovationspotenziale (vgl. Rammer et al. 2021) und die positiven Auswirkungen auf Produk-tivität und wirtschaftliches Wachstum (vgl. Czarnitzki et al. 2022) umfassend zu nutzen. Ein Ansatz hierfür ist, KI-Startups und potenzielle Anwender von KI stärker zusammenzubringen, z.B. im Rah-men von gemeinsamen Forschungsprojekten oder durch Maßnahmen einer diffusionsorientierten
+[Page #28]
+29
+S C H L U S S F O L G E R U N G E N
+Technologieförderung (wie sie z.B. in Form der Mittelstand 4.0 Kompetenzzentren besteht). Insbeson-dere eine Zusammenarbeit zwischen Mittelstand und Startups verspricht wichtige Beiträge zu einer rascheren Diffusion von KI-Technologien (vgl. Engels und Röhl 2019). Eine Herausforderung wird da-bei sein, die KI-Startup-Szene, die stark auf die großen Agglomerationsräume in Deutschland kon-zentriert ist, mit der Breite der Anwenderunternehmen, die oft auch außerhalb dieser Zentralräume angesiedelt sind, zusammenzubringen. Hier könnte spezialisierten intermediären Organisationen, die die Vernetzung der KI-Startups mit anderen Akteursgruppen voranbringen, eine wichtige Rolle zu-kommen (vgl. Prodi et al. 2021).
+[Page #29]
+L I T E R A T U R 30
+4. Literatur
+Almus, M. (2002): What characterizes a fast growing firm? Applied Economics 34, 1497-1508.
+Bersch, J., S. Gottschalk, B. Müller, M. Niefert (2014): The Mannheim Enterprise Panel (MUP) and Firm Statistics for Germany. ZEW Discussion Paper No. 14-104. Mannheim: ZEW − Leibniz-Zentrum für Europäische Wirtschaftsforschung.
+Chalmers, D., N.G. MacKenzie, S. Carter (2021): Artificial intelligence and entrepreneurship: implica-tions for venture creation in the fourth industrial revolution. Entrepreneurship Theory and Practice 45(5), 1028-1053.
+Czarnitzki, D., G.P. Fernández, C. Rammer (2022): Artificial Intelligence and Firm-level Productivity. ZEW Discussion Paper No. 22-005. Mannheim: ZEW − Leibniz-Zentrum für Europäische Wirtschafts-forschung.
+Doloreux, D., E. Turkina (2021): New path creation in the artificial intelligence industry: regional pre-conditions, new actors and their collective actions, and policies. Regional Studies 55, 1751-1763.
+Goecke, H., C. Thiele (2018): KI-Forschung und Start-ups in Deutschland: Zahlreiche Zentren. IW-Kurz-bericht 75/2018. Köln: Institut der deutschen Wirtschaft.
+Hammermann, A., K.-H. Röhl, C. Rusche (2021): Start-ups: Zusammen erreicht man mehr. IW-Kurzbe-richt 43/2021. Köln: Institut der deutschen Wirtschaft.
+Kind, S., L. Wangler, C. Kerlen, J. Wessels (2017): Gründungs-Update. Aktuelle Daten und Fakten zum Gründungsgeschehen. Ausgabe 1/2017 zur CeBIT. Berlin: Institut für Innovation und Technik in der VDI/VDE Innovation + Technik GmbH.
+Kinne, J., J. Axenbeck (2020): Web mining for innovation ecosystem mapping: a framework and a large-scale pilot study. Scientometrics 125, 2011-2041.
+Kollmann, T., P.B. Jung, L. Kleine-Stegemann, J. Ataee, K. de Cruppe (2020): Deutscher Startup Monitor 2020. Innovation statt Krise. Berlin: Bundesverband Deutsche Startups.
+Krieger, B., C. Rammer, P. Breithaupt (2020): Identifizierung von Querschnittsthemen in Projekten der Direkten Projektförderung des BMBF. Mannheim: ZEW − Leibniz-Zentrum für Europäische Wirt-schaftsforschung.
+Obschonka, M., D.B. Audretsch (2020): Artificial intelligence and big data in entrepreneurship: a new era has begun. Small Business Economics 55, 529-539.
+[Page #30]
+31
+L I T E R A T U R
+Prodi, E., M. Tassinari, A. Ferrannini, L. Rubini (2021): Industry 4.0 policy from a sociotechnical per-spective: the case of German competence centres. Technological Forecasting & Social Change, im Druck (doi.org/10.1016/j.techfore.2021.121341).
+Rammer, C. (2021): Auf Künstliche Intelligenz kommt es an. Beitrag von KI zur Innovationsleistung und Performance der deutschen Wirtschaft. Berlin: Bundesministerium für Wirtschaft und Energie.
+Rammer, C., T. Schubert (2021): Dokumentation zur Innovationserhebung 2020. Geschäftsmodellinno-vationen, Internationalisierung von Innovationsaktivitäten. ZEW-Dokumentation Nr. 21-01. Mann-heim: ZEW − Leibniz-Zentrum für Europäische Wirtschaftsforschung.
+Rammer, C., I. Bertschek, B. Schuck, V. Demary, H. Goecke (2020): Einsatz von Künstlicher Intelligenz in der Deutschen Wirtschaft. Stand der KI-Nutzung im Jahr 2019. Berlin: Bundesministerium für Wirt-schaft und Energie.
+Rammer, C., G.P. Fernández, D. Czarnitzki (2021): Artificial Intelligence and Industrial Innovation: Evi-dence from Firm-Level Data. ZEW Discussion Paper No. 21-036. Mannheim: ZEW − Leibniz-Zentrum für Europäische Wirtschaftsforschung.
+Engels, B., K.-H. Röhl (2019): Start-ups und Mittelstand: Potenziale und Herausforderungen von Ko-operationen. IW-Analyse Nr. 134. Köln: Institut der deutschen Wirtschaft.
+Turkina, E. (2018): The importance of networking to entrepreneurship: Montreal’s artificial intelli-gence cluster and its born-global firm Element AI. Journal of Small Business & Entrepreneurship 30(1), 1–8.
+[Page #31]
+A N H A N G 32
+5. Anhang
+5.1 Datenbasis
+Die Identifikation von KI-Startups in Deutschland erfolgte in einem dreistufigen Verfahren.
+1. Zunächst wurden aus verschiedenen Datenquellen Unternehmensgründungen extrahiert, die Ak-
+tivitäten im Bereich Künstliche Intelligenz aufweisen.
+2. Danach wurden diese Unternehmen mit der Datenbank "Mannheimer Unternehmenspanel"
+(MUP) des ZEW verknüpft, einer Paneldatenbank zu allen Unternehmen in Deutschland, die auf Angaben von Creditreform beruht (vgl. Bersch et al. 2014). Unternehmen, die nicht mit dem MUP verknüpft werden konnten, wurden nicht weiter berücksichtigt.
+3. Schließlich wurde die so erstellte Liste auf wirtschaftsaktive, originäre Startups der Jahre 1995 bis 2021 eingeschränkt. Dabei wurden Aus- und Umgründungen aus bestehenden Unternehmen, Gründungen durch ausländische Unternehmen sowie Gründungen, die keine Marktangebote stellen (z.B. Holdings, Besitzgesellschaften, gemeinnützige und öffentliche Einrichtungen) ausge-schlossen.
+Folgende Datenquellen wurden genutzt, um Unternehmensgründungen mit KI-Aktivitäten zu erfas-sen:
+• Crunchbase: In der Datenbank wurden alle Organisationen mit einem Gründungsjahr ab 1990,
+Sitzland Deutschland und einer Branchenklassifikation "Artificial Intelligence" oder mit dem Vor-kommen des Begriffs "artificial intelligence" in der Unternehmensbeschreibung ("full descrip-tion") identifiziert. Dies waren insgesamt 801 Einträge. Von diesen konnten 650 mit dem MUP verknüpft werden. Nach der Einschränkung auf Gründungen seit 1995 und weiteren Bereini-gungsschritten verblieben 619 KI-Startups im Datensatz.
+• KI-Plattformen: Es wurden alle Organisationen erfasst, die auf den Plattformen Applied AI
+(www.appliedai.de) und Lernende Systeme (www.plattform-lernende-systeme.de) sowie auf den Webseiten von Aiso Lab (aiso-lab.com/de/poster-de) und dem KI Bundesverband (ki-ver-band.de/mitglieder) verzeichnet sind. Insgesamt wurden 1.234 Einträge identifiziert. Von diesen konnten 892 mit dem MUP verknüpft werden. Nach der Einschränkung auf Gründungen seit 1995 und weiteren Bereinigungsschritten verblieben 607 KI-Startups im Datensatz.
+• Profi-Datenbank (Informationssystem Projektförderung des Bundes): Es wurden alle dem Sektor "Unternehmen" und mit dem MUP bereits verknüpften Zuwendungsempfänger erfasst, die im Zeitraum 2005 bis 2018 im Rahmen der Direkten Projektförderung des Bundesministeriums für Bildung und Forschung eine Förderung für ein Vorhaben erhalten haben, das sich mit dem Thema Künstliche Intelligenz befasst hat. Die Vorhaben wurden über eine semantische Textfelda-
+[Page #32]
+33
+A N H A N G
+nalyse der Vorhabenabstracts identifiziert (vgl. Krieger et al. 2020). Insgesamt wurden 659 Unter-nehmen identifiziert. Von diesen blieben nach Einschränkung auf Gründungen seit 1995 und wei-teren Bereinigungsschritten 295 im Datensatz.
+• Mannheimer Web Panel (MWP) und istari.ai: Es wurden alle Unternehmen des MUP erfasst, auf deren Webseiten der Begriff Künstliche Intelligenz (in unterschiedlichen Schreibweisen) zumin-dest dreimal aufscheint und in einem Kontext steht, der auf Tätigkeiten zur Entwicklung von KI-Methoden oder der Implementierung von KI in Produkten oder Dienstleistungen hinweist. Hier-für wurde ein vom ZEW entwickelter Webcrawler eingesetzt (vgl. Kinne und Axenbeck 2020). Die Bewertung der im MWP gefundenen KI-Schlagworte basiert auf einer vom Startup ISTARI.AI ent-wickelten Textanalyse mit transferlernen-basierten Transformermodellen. Insgesamt wurden 5.258 Unternehmen identifiziert. Von diesen blieben nach Einschränkung auf Gründungen seit 1995 und weiteren Bereinigungsschritten 4.403 im Datensatz.
+• Mannheimer Unternehmenspanel (MUP): Es wurden alle Unternehmen erfasst, deren Geschäfts-tätigkeitsbeschreibung den Begriff "künstliche Intelligenz" (in unterschiedlichen Schreibweisen) enthält. Dies waren insgesamt 568 Unternehmen. Von diesen blieben nach Einschränkung auf Gründungen seit 1995 und weiteren Bereinigungsschritten 416 im Datensatz.
+• Mannheimer Innovationspanel (MIP): Es wurden alle Unternehmen erfasst, die in den Erhebun-gen 2018, 2019 oder 2020 zumindest einmal angegeben hatten, Künstliche Intelligenz im Unter-nehmen einzusetzen. Insgesamt waren dies 1.585 Unternehmen. Von diesen blieben nach Ein-schränkung auf Gründungen seit 1995 und weiteren Bereinigungsschritten 695 im Datensatz.
+Die Vereinigungsmenge der identifizierten KI-Startups beläuft sich auf 6.250 Beobachtungen. Tabelle 1 zeigt die Verteilung dieser Beobachtungen nach den herangezogenen Datenquellen. Die überwie-gende Anzahl der erfassten KI-Startups stammt nur aus einer einzigen Quelle (90 %), d.h. nur 10 % der identifizierten Startups sind in zwei oder mehr Quellen enthalten. Dies weist auf die Wichtigkeit hin, unterschiedliche Datenquellen zu nutzen, um ein möglichst vollständiges Bild der Startup-Tätigkeit in einem neu entstehenden Technologiefeld und Anwendungsgebiet zu erhalten, welches nicht über gängige wirtschaftsstatistische Ansätze (wie z.B. die amtliche Wirtschaftszweiggliederung) erschlossen werden kann.
+Tabelle 1:
+Anzahl identifizierte KI-Startups 1995-2021 in Deutschland nach Datenquellen - - x 2 0 0 0 0 3 9 613
+MWP MUP MIP
+x - - 101 98 5 2 5 128 40 3.911
+- x - 9 5 0 0 0 11 0 346
+x x - 3 5 0 0 0 5 0 32
+x - x 2 2 0 0 0 2 6 56
+x x x 0 0 0 0 0 0 0 0
+- x x 0 0 0 0 0 0 0 0
+- - - 298 83 2 2 16 240 208 -
+Crunch-base x x x x - - - -
+Plattfor-men - x - x x x - -
+Profi - - x x x - x -
+Anzahl der Beobachtungen, die nur aus einer Quelle stammen, sind fett gedruckt. Quelle: Crunchbase, Plattform Lernende Systeme, Applied AI, Aiso Lab, KI Bundesverband, Profi, MWP/istari.ai, MUP, MIP. Berechnungen des ZEW.
+[Page #33]
+A N H A N G 34
+5.2 Hochrechnung der Gründungszahlen ab 2019
+Einige der genutzten Datenquellen weisen eine unvollständige Abdeckung von Unternehmensgrün-dungen ab dem Jahr 2019 auf:
+•
+In der Datenquelle Profi sind aufgrund des Zeitpunkts des Datenabzugs (Anfang 2019) keine An-gaben zu 2019 oder später gegründeten Unternehmen enthalten. In der Datenquelle MIP sind Unternehmensgründungen ab 2019 unterrepräsentiert und ab 2020 nicht enthalten, da die Stichprobe zu dieser Befragung zuletzt Ende 2020 aufgefrischt wurde und dabei nur Unternehmen bis inklusive des Gründungsjahrgangs 2019 berücksichtigt werden konn-ten. Das Gründungsjahr 2019 ist aufgrund des Umstands, dass nur Unternehmen mit 5 oder mehr Beschäftigten in die Stichprobe aufgenommen werden, im Vergleich zu älteren Gründungsjahr-gängen schwächer vertreten, da erst wenige der in 2019 gegründeten Unternehmen diesen Schwellenwert bis Ende 2020 überschritten hatten. In der Datenquellen Crunchbase und Plattformen ist aufgrund eines Zeitverzugs in der Erfassung und Dokumentation von neu gegründeten Unternehmen der Gründungsjahrgang 2021 unvoll-ständig abgebildet. In der Datenquelle MWP sind Unternehmensgründungen des Jahres 2021 aufgrund des Zeit-punkts des Webcrawlings (Anfang 2021) nicht enthalten und Unternehmensgründungen der Jahre 2019 und 2020 untererfasst, da die Webseiten von neu gegründeten Unternehmen mitunter erst mit einem gewissen Zeitverzug so mit Informationen gefüllt werden, dass eine Analyse zum Vor-liegen von KI-Aktivitäten zuverlässig durchgeführt werden kann.
+•
+•
+•
+Um für die Analyse der Entwicklung der Gründungszahlen von KI-Startups und der in KI-Startups tätigen Personen für die Untererfassung am aktuellen Rand zu kompensieren, wurde die Anzahl der Gründungen je Datenquelle mit fehlenden oder untererfassten Werten hochgerechnet. Für die Jahre 2019 und 2020 wurde hierfür die (vollständig erfasste) Entwicklung der Gründungszahlen in den Da-tenquellen Mannheimer Unternehmenspanel, Crunchbase und Plattformen zugrunde gelegt. Für das Jahr 2021 diente die Entwicklung der im Mannheimer Unternehmenspanel erfassten Gründungen als Referenzgröße. Da diese empirisch relativ schwach abgesichert ist und eventuelle durch Spezifika der Datenerfassung (Recherchen der Kreditauskunftei Creditreform sowie Handelsregistereinträge) ver-zerrt ist, sind die Angaben zum Gründungsjahrgang mit Vorsicht zu interpretieren.
+Durch die Hochrechnung erhöht sich die Anzahl der KI-Startups in Deutschland im Zeitraum 1995 bis 2021 von den 6.250 tatsächlich erfassten auf geschätzte 6.684, d.h. um 7 %.
+Für alle in diesem Bericht vorgelegten Auswertungen, die nicht die Entwicklung der Gründungszah-len von KI-Startups und der in KI-Startups tätigen Personen betrifft, wurden keine Hochrechnungen vorgenommen, sondern die 6.250 tatsächlich erfassten KI-Startups als Datenbasis herangezogen.
+[Page #34]
+bmwk.de

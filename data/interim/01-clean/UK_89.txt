@@ -1,0 +1,763 @@
+[Page #0]
+Manufacturingthe Future Workforce
+In partnership with
+[Page #1]
+This report
+This report has been published to present the findings and recommendations of an international study into workforce development and its link to innovation, led by the High Value Manufacturing (HVM) Catapult with funding and support from the Gatsby Foundation. The study included partners from Institute for Manufacturing (IfM), TWI, National Physical Laboratory (NPL) and participation from the Department for Education (DfE) and the Institute for Apprenticeships and Technical Education (IFATE).
+This document is complete in its own right and has a considerable amount of associated further information provided in visit reports and their references with most made available for download. Observations of good practice captured during 39 study visits are summarised, contextualised and then developed into recommendations for action to be taken forward by Centres of Innovation (such as HVM Catapult) and their partners.
+HVM Catapult were assisted by IfM to develop a study approach that would relate to their prior work on innovation systems and increasing research interests in workforce development. Visit organisation was supported in the USA, Singapore, Germany and Switzerland by the UK Foreign Office Science and Innovation Network, whose personnel provided effective support in a field beyond their typical scope of activities.
+The report has been prepared by Ian Collier and Paul Shakspeare for HVM Catapult, with valuable guidance and input from Daniel Sandford Smith of the Gatsby Foundation and significant assistance from Dr Chris Beck of TWI.
+Publication date: January 2020
+Manufacturing the future workforce
+[Page #2]
+FOREWORD
+EXECUTIVE SUMMARY
+An opportunity for regrowth Securing success with common purpose Overview of recommendations for action and leadership
+INNOVATION IN WORKFORCE DEVELOPMENT Innovation in manufacturing
+1 1.1 1.2 Current and future manufacturing workforce challenges 1.3 Opportunity to study good practice
+OBSERVATIONS OF GOOD PRACTICE
+2 2.1 Country comments and background 2.2 Good practice focus points and selected case studies
+3
+ APPLYING GOOD PRACTICE TO THE UK INNOVATION AND SKILLS SYSTEMS  Securing economic impact
+3.1 3.2 Continuing change and systems failure 3.3 Conclusions and criteria for action
+RECOMMENDATIONS AND ACTION
+4 4.1 Develop a skills value chain 4.2 Recommendations for action by centres of innovation 4.3
+Securing impact with leadership and common purpose
+APPENDICES AND REFERENCES
+5 5.1 Good practice examples 5.2 5.3
+Study partners Study visits
+High Value Manufacturing Catapult | Gatsby 3
+[Page #3]
+We will…
+establish a technical education system rivalling the best in the world…
+…ensure that we have theskills to take advantageof new technologies
+ UK Industrial Strategy
+4 Manufacturing the future workforce
+[Page #4]
+Foreword
+The UK has recognised for decades that it has a real and pressing engineering and manufacturing skills challenge. Despite many well-meaning reviews and a plethora of initiatives which have continued to highlight the need to inspire people to join the sector, to equip them with skills fit for the future and provide ready access to upskilling during their working lives – progress has been slow and disappointing. In the last seven years the High Value Manufacturing Catapult, as a centre of innovation, has made great strides in working with companies large and small to develop new and disruptive technologies. Our world-class facilities around the UK, along with many other centres of innovation with whom we work, such as TWI and the National Physical Laboratory, have demonstrated the potential of these technologies to change the face of UK manufacturing. But, to anchor the benefit of this innovation in the UK, we need to make much faster progress on developing and aligning the skills of our workforce.
+Allan Cook CBEChair, High Value Manufacturing Catapult
+In a highly competitive international marketplace, early adoption and exploitation of innovation will be critical to achieving the objectives of the UK’s industrial strategy. Failure to address the workforce development challenge will mean missing out on opportunities to build the UK’s manufacturing base and to take market leading positions.
+Industry, academia and government have a shared responsibility to build a workforce fit for the future. Learning from the past and seeking examples of good practice highlight opportunities to shape the future. Many of us have key roles to play. Leaders in industry and innovation need to work together to provide a long-term vision of our skills needs and communicate this effectively to our partners in education, training and government. We need a clear mechanism to bring us together to develop a coherent delivery plan.
+Dame Judith HackittChair, Make UK; Chair, SEMTA;Senior Independent Director, High Value Manufacturing Catapult
+This report suggests a way forward. Built from examples of international good practice, coupled with early stage discussion with other forward thinkers here in the UK, it captures valuable lessons and proposes changes which will enhance, extend and connect existing initiatives. Success will require co-operation throughout the ‘Skills Value Chain’, with all partners understanding their contribution, impact and importance to the whole project.
+Working in isolation from each other will simply not be effective. While full collaboration and co-operation have proved difficult in the past, it must become our way of working in the future as it will bring enormous benefit to the UK. All partners sharing a common vision and purpose will maximise the potential development of the sector and in doing so improve opportunities for individuals, industry and society as a whole.
+We look forward to leading discussions which will be stimulated by this report and to developing a cross-sectoral plan of action. Working together we can prepare a manufacturing workforce fit for the future.
+High Value Manufacturing Catapult | Gatsby 5
+[Page #5]
+Executive summary
+An opportunity for regrowth
+Manufacturing delivers 10% of UK GVA, 45% of UK exports and 1/5th of inward investment to the UK. It accounts for 69% of all investment in research and development and employs some 2.7 million people. At first sight these are healthy numbers, but the overall contribution manufacturing makes to our economy, the scale of its employment and the proportion of manufactured goods in our export statistics are in decline both in absolute terms and in comparison with competitor nations1. That decline need not be terminal. If the UK could combine its world-leading research base with a manufacturing workforce equipped with the knowledge and skills needed to deploy and exploit new technologies, it would secure its position as a world leader in the effective commercialisation of the very best ideas. The contribution our manufacturers make to our economic and social well-being would blossom.
+But where are the workers?
+The reality, however, is that while the UK has real strength in both its research base and capacity for technology innovation, repeated business surveys2 attest to the difficulty its manufacturers face in accessing the skilled workforce they need to turn such innovation into profit and maintain their competitiveness taking advantage of the latest technologies. Manufacturers need a workforce with the ability to adapt rapidly and take on new tasks and responsibilities that require different and often higher skillsets. Instead their current workforce is ageing, new recruits with the right skills are in short supply and many are fearful that sources of overseas workers may soon dry up. In these circumstances most good employers should look to retrain existing employees and encourage growth in the pipeline of potential recruits. However, this would reverse a recent decline in demand3 and feedback from all parts of the sector shows that current education and training provision may now be unequal to the task.
+No surprise, then, that manufacturers are therefore increasingly concerned that they will be unable to secure a higher-skilled workforce fit for the future and are calling for action. Many are turning to the potential of new industrial digital technologies, such as artificial intelligence and automation. For some these will offer a short-term remedy but, despite the determined media association between new technologies and job losses, the likelihood is that these technologies will increase pressure on the skills base by boosting demand for the skills manufacturers are already struggling to find as well as those that will be needed to complement the new technologies being developed by Centres of Innovation (CoIs) like the High Value Manufacturing (HVM) Catapult, National Physical Laboratory (NPL) and TWI.
+1 Make UK (in partnership with BDO LLP). May 2019. Manufacturing Outlook 2019 Q2.2 For example, Royal Academy of Engineering: National Engineering Policy Centre. August 2019.
+Engineering priorities for our future economy and society.
+3 Social Mobility Commission. January 2019. Adult Skills Gap Report 2019.
+6 Manufacturing the future workforce
+[Page #6]
+Learning from the best
+HVM Catapult, with TWI and NPL and supported by the Gatsby Foundation, decided to study how CoIs might play a greater role in developing the future workforce that UK manufacturing needs, by seeking examples of international good practice. Over the course of eight months a study team visited 39 organisations in Ireland, Germany, Switzerland, Singapore and the USA. Although each country had taken a different approach, appropriate to their culture, geography, manufacturing base and national imperatives, all were exploring how to update the skills of their current and future manufacturing workforce in the light of industrial digitalisation and emerging technologies. Our study found many examples of good practice which offer a source of evidence and ideas for policy makers, education providers and other CoIs to consider.
+Benefits beyond the shop floor
+It was clear that where there was a strong link between innovation and skills development, the benefits extended beyond the shop floor. In Ireland, for example, we were reminded that having the skills required for innovation did not just raise the productivity of existing firms, it also helped to attract high value inward investment. Access to a high skills base was seen as a key enabler in the €10 billion flowing into the Irish economy from biopharma businesses over the past decade.
+In the US, targeted workforce development was also playing a part in supporting smaller businesses. Agencies engaging with SMEs see workforce development and knowledge transfer as a key success factor, responding to the needs of smaller businesses to access facilities and funding that enable them to introduce new technologies at the same time as acquiring related training. Lorain County Community College in Ohio, for example, receives discretionary local taxes that directly support the College to provide joined-up approaches to education programmes, technology innovation (working with CoIs), and also access to finance for start-up businesses to implement new technologies and provide training in how to make use of them.
+Centres of Innovation have an important part to play
+The headline message of the study, in all locations, was that successful innovation is dependent on the availability of a workforce with the right skills needed for its full exploitation and that CoIs have a role to play in their development. That role was seen to be fulfilled in several different ways:
+• A number of CoIs deliver training directly to learners at all levels (from apprentice to doctorate) building a supply of candidates ready to move into industrial or academic roles.
+High Value Manufacturing Catapult | Gatsby 7
+[Page #7]
+• Some CoIs draw on their deep sectoral insights to inform the
+development of education provision. For example, in Germany, government and unions work jointly to assist the redrafting of occupational standards to reflect changes brought about by technology, digitalisation and de-carbonisation. In the USA, Manpower Recruitment has worked with DMDII4, a Manufacturing USA Institute, to develop a complete taxonomy of digital skills for future roles in the manufacturing workforce and LIFT convenes panels of ‘Expert Educators’ to consider future competence needs and to generate sample syllabuses for new technologies.In Singapore, innovation organisation SimTech convenes transformational roadmapping processes in close conjunction with businesses, which lead to shared ownership of delivery plans aimed at benefiting as many supply chain organisations as possible and that encompass workforce development actions.
+•
+New approaches to provision
+A second strong message from the study was that the rapid pace of technological change demands more modular and flexible training courses that can be used to upskill and reskill the existing workforce, sometimes alongside full-time learners. Curriculum development undertaken in partnership between education providers and CoIs to produce highly modularised courses, together with a responsive teacher training system, ensures that content and pedagogy can promptly accommodate changes in skills needs. An example of this in practice is SimTech’s work with SkillsFuture Singapore to develop manufacturing content for the ‘Future Series’ of modular courses, which are approved as electives within existing qualifications and as standalone awards.
+‘Learning Factories’ are evident as an important tool in the diffusion of the industrial digitalisation technology being driven by CoIs. A Learning Factory is not a simple duplicate of an industrial factory but is designed as a simulation to enable experiential learning based on common scenarios. In the German state of Baden-Württemberg, some 40 ‘Smart Factories’ are now in place across the network of Technical Schools. The Institute for Technical Education in Singapore is developing a manufacturing curriculum around a Learning Factory with a strong focus on supporting culture change in small businesses. DMDII in the USA houses a number of Learning Factory examples used to promote culture, skills and behaviour change around data management, analysis and use, and cyber security.
+4 Since relaunched as MxD in 2019
+8 Manufacturing the future workforce
+[Page #8]
+Securing success with common purpose
+Our study visits illustrated that the growing complexity of engineering and manufacturing developments associated with emerging, data-rich technologies will require a systematic response to workforce development if the UK is to leverage its public investment in innovation. This will, in part, address the current stark productivity gap and help to forge a globally competitive, advanced manufacturing nation.
+It would be easy to conclude that the UK’s competitors are already well ahead in the race to equip their manufacturing workforce with the skills necessary to benefit from the opportunities that industrial digitalisation will provide. None of the countries the study visited were confident that their solutions were a panacea for global manufacturing problems; however, the stability of their skills systems and the degree of collaboration between the different stakeholders clearly enabled workforce development related to innovation to take place.
+The UK should learn from the successes and failures of other countries – there is still time to catch up with, and even overtake, competitors but only if all the different stakeholders in government, industry and academia work together with a lasting common purpose to ensure that the UK manufacturing workforce is equipped with the skills of tomorrow. A ‘Skills Value Chain’ approach (Figure 1) is proposed to capture this common purpose and to promote connectivity between the UK’s innovation and skills systems at the same time as enabling better co-operation within the education and training systems. Though shown as linear, the model will contain feedback loops and is unlikely to operate strictly sequentially in practice.
+Figure 1.Skills value chain
+Convene (to establish needs)
+Curate (and create resources)
+Deliver (and diffuse)
+Deliverearly stage training(inc. teachers)
+Foresight future workforce capability
+Develop modular curriculum and content
+Set-up assurance, validation and recognition
+Define roles, occupations and standards
+Scale-up with cooperating providers
+Ultimately, this skills value chain has the potential to result in competitive advantage for the UK manufacturing industry because workforce talents and skills will become more aligned with technology and productivity opportunities. Higher value employment will result with lead times of technology adoption reduced by developing workforce skills in parallel with technologies.
+High Value Manufacturing Catapult | Gatsby 9
+[Page #9]
+Each activity in the value chain provides value to others and depends on them in turn to fully succeed. CoIs should take a number of roles to deliver and support these activities:
+1. Convene technologists, industry, education and training partners, and government as a focal point for their technology to foresight and articulate future skills needs, standards and qualifications associated with emerging technologies.
+2. Work with others to curate knowledge that has been created in a form suitable for a range of learner groups, co-develop additional material as required and support assurance and accreditation organisations.
+3. Deliver early-stage training, acting as a primary point of
+transmission of this knowledge to early industry adopters as well as to teachers who will educate others, then on an on-going basis support diffusion through wider teaching and training networks of specialist emerging technologies.
+Overview of Recommendations for Action and Leadership
+This study provided much evidence that CoIs elsewhere are recognised as being able to make a unique and essential contribution to workforce development. Our detailed recommendations below are drawn from observed good practice considered in the context of the current UK skills landscape and our proposals to further engage CoIs in workforce development set out in the value chain.
+Develop and pilot the application of skills foresighting
+Foresighting processes will need to be developed that convene groups of education and technology specialists to analyse and articulate any required changes to current standards and provision necessary to respond to future employer skills needs related to emerging technologies. CoIs are well positioned to promote collaboration and to convene participants including industry, sector specialists working with further education (FE) and higher education (HE) representatives and Semta to develop the pilot programme.
+These groups should closely engage with stakeholders from the Institute for Apprenticeships and Technical Education (IFATE), the Department of Education (DfE), Innovate UK (IUK) and the Department for Business, Energy and Industrial Strategy (BEIS) to assist policy review and to ensure outputs contribute to the current UK system.
+10 Manufacturing the future workforce
+[Page #10]
+Support the development of Higher Technical Qualifications and National Standards
+The skills needs of industrial digitalisation at a higher technical level should be met by cross-sector standards because of high levels of commonality. Since much of the future skills demand will be for the incumbent workforce, apprenticeship standards at this level should also guide the creation of higher technical qualifications comprised of discrete, credit-bearing modules reflecting workplace credentials that are suitable for upskilling needs.
+CoIs should continue to work with IFATE, employers and a wide group of stakeholders drawn from the Made Smarter Commission, sector groups (e.g. Aero, Auto and Defence, Nuclear, Food and Drink), IFATE, DfE, BEIS, FE and HE.
+Develop modular training and resources to support future workforce skills development
+Modular content related to emerging technologies should be developed to support the achievement of amended and new skills requirements. Content will be used and refined during early-stage adoption by geographically distributed and relatively low volumes of learners at specialist locations, including CoIs, and then as ‘blueprints’ for wider diffusion and scale-up responding to local industry demand.
+Training and resources must be suitable both for new workforce entrants and to upskill and reskill those already in work and previously qualified. This will require flexible and modular modes of learning that fit around the working and personal lives of adult learners and which also provide a recognition of achievement.
+Promote Learning Factories as an education model to enable industrial digitalisation
+Looking at the scope and options for further development of Learning Factories in the UK, there would appear to be significant need, and certainly opportunities, since the UK already has strong expertise in digital learning technologies.
+The suggested approach is to build systematically on existing assets, strengths and initiatives with CoIs working with the Made Smarter Commission, Institutes of Technology supported by their FE and HE partners and DfE.
+High Value Manufacturing Catapult | Gatsby 11
+[Page #11]
+Seek improved recognition and funding of modular and lifelong learning
+Increased take-up of modular courses with formal recognition of continued achievement has been shown by the study to be an important factor in making reskilling and upskilling programmes effective for individuals and industry alike by providing incentives for learners. Action will be required by Professional Engineering Institutions, academia, government and industry bodies to increase access to courses with related national and local funding, and to motivate adults to undertake upskilling that reacts to future industry needs.
+Leadership – embedding common purpose
+Our proposed Skills Value Chain approach offers an efficient and deliverable response to help address the economically damaging shortages of current and future workforce skills. Study visits have illustrated how the recommendations will contribute to growing competitiveness of UK manufacturing supply chains and critically, will help to anchor the benefits of on-going public and private investment in innovation in the UK.
+Acknowledging, funding and promoting a greater workforce development role for UK CoIs will ensure their contribution to the skills value chain and create a means of securing competitive advantage from emerging technologies. At the same time, education and training providers should be encouraged to engage with CoIs in the development and delivery of training programmes to improve responses to future local needs.
+Achieving these changes will require collective endeavour across government, industry and education, with collaborative leadership and with wide stakeholder commitment to the shared benefits of co-operation supported by public and private investment. Drawn from both industry and government, a Senior Leadership Group should be put in place to deliver on the findings of this report. Using the Skills Value Chain as a guide, their remit should be to oversee the creation and connecting together of the Value Chain, encouraging and sponsoring future activities and related investments that align with the longer term, forward looking view of industries’ skills needs. In doing this we will take a major step towards achieving a sustainable transformation of UK workforce development.
+12 Manufacturing the future workforce
+[Page #12]
+workforce development 1
+Innovation in
+High Value Manufacturing Catapult | Gatsby 13
+[Page #13]
+1.1 Innovation in Manufacturing
+The global manufacturing market is worth £6.7 trillion, and the UK currently performs as the ninth largest manufacturing nation worldwide. Although there has been a decline since the 1970s, recent figures show that manufacturing makes up 11% of the UK GVA and 45% of UK exports, directly employing 2.7 million people and accounting for 69% of investment in R&D.5
+Centres of Innovation (CoI), such as Catapults, TWI, NPL, etc. make a significant contribution to manufacturing in the UK by working with academia and industry to turn innovative ideas into successful products, processes or services and to help reverse the UK’s poor track record for the commercialisation of research. They cover well-established advanced manufacturing technologies, including machining, metrology, mechatronics, joining and inspection with relatively recent additions of composites and additive manufacturing. Further subjects such as energy storage, power electronics, digitalisation and autonomy are emerging rapidly.
+A major output of the CoIs is the creation and dissemination of knowledge arising from the development of new technology and its deployment in industry. The success of the innovation mission of the centres and their future impact on the UK’s competitive position depends on a workforce able to apply this knowledge using advanced manufacturing skills associated with the emerging technologies.6
+5 Make UK 20196 For the purpose of this study, Centres of Innovation are defined as organisations that undertake technology translation, provide related services and transfer knowledge to support industrial success. They may receive public funding at some level to do so and should promote collaboration between industry and academia, as well as between enterprises, to increase the impact of innovation from physical centres and virtual networks. They may be ‘fixed term’, relating to a specific technology challenge, and often occur within an academic context, such as a university research centre, or they may be owned by an academic institution but operate independently of direct academic control. They usually work under some form of ‘open access’ arrangement or alternatively are subject to commercial and intellectual property controls
+14 Manufacturing the future workforce
+[Page #14]
+1.2 Current and Future Manufacturing Workforce Challenges
+Today’s manufacturing skills shortages in UK industry are well documented. Forecasts of future skills challenges are similarly regularly reported by industry as an anticipated barrier to success. In the short term, this arises from a combination of relatively full UK employment, of adverse demographic change and of a shortfall of apprentices and work-ready graduates. In the longer term, industrial digitalisation (Industry 4.0), is expected to change industry’s requirements of a future skills base and to shift the nature of manufacturing work and job roles, further exacerbating the situation.
+An accelerating pace of change drives the need to act proactively to ensure that the UK’s manufacturing industry has a workforce with the right skills, when and where they are required. Ewart Keep writes in a recent FETL paper that, from an education and training provider viewpoint, ‘impending technological and occupational change, increasing self-employment and new skill demands (mostly unknown until they arrive) are disrupting and undermining existing skills markets and qualifications – for example, the impact of digitalisation, artificial intelligence (AI) and industry 4.0 on jobs and skill requirements’.7
+A number of relatively well-known economic mega-trends have been identified with workforce impacts that have already become apparent.8 These include globalisation, customisation, connectivity, complexity and an ageing workforce. More recently, digitalisation has appeared to accelerate the pace of change while providing tools and processes that are necessary to remain competitive. These trends combine with specific skills issues that reflect the long history of UK manufacturing and its evolving role in the economy and are perhaps also unintended consequences of previous policy interventions.
+UK Manufacturing Skills Challenges
+Among the many views about the nature of the skills issues that face UK manufacturing, the following are suggested as the major challenges to be addressed if manufacturing productivity and the value and contribution of the sector is to be maintained or grown.
+• Acknowledged current and future skills shortfalls• Ageing workforce demographics and reduced migration• Fragmented education and training systems• Rapid digitalisation of manufacturing and supply chains• Comparatively small higher-technical skills base• Poor demand alignment across sectors and across technologies
+7 FETL (Further Education Trust for Leadership). 2018. Scripting the future – exploring potential strategic leadership responses to the marketization of English FE and vocational provision. fetl.org.uk/publications/scripting-the-future-exploring-potential-strategic-leadership-responses-to-the-marketization-of-english-fe-and-vocational-provision/
+8 SFIVET 2019
+High Value Manufacturing Catapult | Gatsby 15
+[Page #15]
+Many of the future skills necessary to succeed in manufacturing will not be simply technological and will require higher levels of analytical and organisational capabilities to react to continuing change. It is clear from the study that the future advanced manufacturing workforce will have to master a more complex and changing mix of technological knowledge, an increasing range of higher skills and some new behaviours to successfully deploy emerging technologies.
+What is Industrial Digitalisation?
+The Made Smarter Review in 2017 defined this as:
+‘At its simplest, industrial digitalisation is the application of digital tools and technologies to the value chains of businesses who make things (e.g. in the automotive and construction industries) or are otherwise operationally asset intensive (e.g. power grids and wind farms). These technologies enable the physical and digital worlds to be merged, and can bring significant enhancements to performance and productivity.
+… industrial digitalisation technologies (IDTs) … come in various forms and various levels of maturity, ranging across artificial intelligence, the Internet of Things, robotics, and analytics. Together, they are driving what is being called the Fourth Industrial Revolution.’9
+The work undertaken for the review found that the positive impact of faster innovation and adoption of IDTs could be as much as £455 billion for UK manufacturing over the next decade: increasing manufacturing sector growth between 1.5% and 3% per annum; creating a conservative estimated net gain of 175,000 jobs throughout the economy; and reducing CO2 emissions by 4.5%. Overall, from the data and evidence collated, the review was confident that industrial productivity could be improved by more than 25% by 2025.
+In terms of the effect on the workforce, the commission reported ‘That IDTs could lead to improved productivity, a safer work environment and improved job satisfaction through the replacement of repetitive tasks is in little doubt. But, while human judgment and decision making will always have a role to play, it is equally likely that IDTs will change, disrupt, and displace some manufacturing jobs. … Increasingly, manufacturers will compete on their ability to create value through the smart use of IDTs. Employees will be hired for knowledge-based production roles, rather than manual work. These changes will come within an already challenging recruitment environment for engineers and software and data scientists.’
+9 Made Smarter Review (2017)
+16 Manufacturing the future workforce
+[Page #16]
+1.3 Opportunity to Study Good Practice
+HVM Catapult centres continue to develop high quality technical training capabilities to service the needs of their localities and their distributed technology communities. NPL has been providing measurement training for over 13 years to support skills development to a range of workforces and at a wide range of levels (from L2 to postgraduate). This training helps learners to adopt an innovative mindset, develop more efficient processes and implement good practice. TWI has developed a renowned skills and training offering in a regulated global market and have integrated this into European and international standards. They have also established a certification arm which works with providers across industry and the FE sector.
+However successful, these activities have made a relatively limited contribution to the overall scale of UK manufacturing workforce challenges. Further, they have not always been seen as part of the CoIs’ core businesses or been able to be pursued with a clear mandate and, in the case of Catapults, with sponsoring department investment. However, if the businesses the CoIs work with do not have access to the skills required to adopt new technologies and processes then UK manufacturing industry may not see the benefits of public (or private) investment in innovation anchored in the UK.
+This situation led to discussions with stakeholders in government and industry about how CoIs should make a more systematic contribution to the knowledge and skills needs of the future manufacturing workforce, aligning its capability to future manufacturing technologies at all levels and ages.
+The Gatsby Foundation suggested that HVM Catapult undertake an international study of advanced manufacturing innovation organisations to examine how they connect to and support education and training systems in their countries. This would be likely to generate evidence of good practice in the field with the potential for it to be disseminated to relevant UK organisations. The Foundation funded the study and provided expertise and resources to assist the development of study concepts and connections.
+The study focused on emerging technology knowledge development, diffusion and application and sought to characterise the functions necessary for this to occur through well-connected education and training organisations and activities. At the outset the study focus was on how new knowledge generated in CoIs moves into the skills base of the workforce, so that individuals and businesses are equipped to exploit the economic potential of new and emerging technologies. This could take place during early-stage industrial activity, when niche and potentially high value applications require specialist knowledge transfer and training interactions of a ‘one-to-few’ nature. Then, as the scale of related industrial activity and a relative stability of technological performance and practice develops, education and training programmes for relatively large numbers (‘few-to-many’) are required close to the point of need.
+High Value Manufacturing Catapult | Gatsby 17
+[Page #17]
+As the study progressed, it became clear that the skills necessary to implement industrial digitalisation in particular are an evolution of those necessary to fully exploit today’s ‘state of the art’ technologies and practices. This means that some manufacturing organisations may need to implement these before being in position to take advantage of future, more advanced technologies.
+The study expected to generate insights into the benefit of CoIs increasing their contribution and support for workforce development both within their organisations and working with wider delivery networks. The visit programme was developed with a view to producing a series of case studies that would capture examples of good practice that could then be developed into pilot projects to further develop, demonstrate and disseminate such good practice.
+Visits used the practitioner expertise of the participants to gather and process information from host organisations; this is summarised in Section 3 with further detail as Appendix 1 to this report. Visit reports with references to wider information are also available.
+Study participants were invited to create a balanced group representing innovation in workforce development practitioners, policy makers and government representatives. A core group attended all visits to ensure continuity, others contributed to specific sessions of interest. Overall, the programme of visits included representatives from HVM Catapult, TWI, MTC, NPL, Gatsby, DfE, IFATE and IfM. TWI and NPL as long-established and independent CoIs were able to bring their experience to the study and to help ensure that an ‘open architecture’ would be developed and lead to recommendations suitable for wide take-up.
+In total, 39 visits were organised in Ireland, USA, Singapore, Germany and Switzerland, taking place from June 2018 to January 2019 (visit details are provided as Appendix 3).
+Table 1. Sites of study visits
+Government (Policy/Strategy)
+Centre of Innovation
+Education and Training
+Other, including industry
+Total
+Ireland
+Singapore
+USA
+Germany
+Switzerland
+TOTAL
+18 Manufacturing the future workforce
+[Page #18]
+of Good Practice 2
+Observations
+High Value Manufacturing Catapult | Gatsby 19
+[Page #19]
+2.1 Country Comments and Background
+ Singapore
+The study was able to investigate approaches to collaborative innovation sponsored by A*STAR, the Agency for Science, Technology and Research and their work with the Ministries of Trade, Manpower and Education. A visit to Rolls-Royce placed much of the overall system in context and increased the value of other visits.
+Annual population cohort percentages in Singapore are typically 22% entering the Institute of Technical Education (ITE), 46% to polytechnics and 28% to higher education. Progression from institutes and polytechnics to universities is common and well recognised. There is a strong cultural respect for ambition and personal progress, which encourages engagement with continued learning. National success is seen to be based on people’s talents and efforts, leading to a strong sense of ‘renewable human capital’.
+There is increasing pressure to achieve socially advantageous university degrees in place of vocational college and polytechnic qualifications. Government policy favours technical workforce development in polytechnics and seeks to make vocational and technological routes attractive. This includes de-risking upfront investment, with up to 90% of cost of learning paid for SMEs, and significant personal support for individuals to upskill and reskill, especially where they are likely to be displaced by industrial change.
+Strategically, high value manufacturing is maintained at 20% of the national economy. There appears to be a clarity and shared purpose of the industrial mission across political, economic and commercial interests. This takes place within a continually evolving innovation and skills system that reacts rapidly to opportunity (or threat) on behalf of manufacturing and other sectors. This alignment enables leadership to understand and address industrial capability gaps with their related skills needs, which in turn increases overall supply chain potential. The closely connected roles and responsibilities of Economy, Trade, Education and Manpower Departments within government illustrate that workforce development is seen as fundamental to economic success.
+ USA
+The 14 visits during this trip provided exposure to a fraction of the entire and complex US system of innovation and workforce development, the latter frequently driven at a state level. The study met with three of the 14 Manufacturing USA institutes (all three funded by the Department of Defense) and their programme managers, and three of some 1,250 community colleges. As a result, observations should be viewed in relation to these organisations and not taken as a reliable view of the USA or of Manufacturing USA as a whole.
+20 Manufacturing the future workforce
+[Page #20]
+The US education systems runs from kindergarten to Year 12 at age 18 (‘K to 12’). About half of the annual cohort go on to tertiary education, where typically one-third enrol for a two-year associate degree and two-thirds for a four-year honours degree. A significant number of students complete their full honours qualification after achieving their associate award. Poor levels of completion and employability are being addressed in part by greater use of ‘work and learn’ and problem-based learning programmes. Regulated apprenticeships have declined in many sectors, reflecting overall sector economic changes, but remain strong in traditional unionised areas, such as construction. Modern, ‘unregulated’ apprenticeship schemes are now politically encouraged and are being developed to meet local education and industry needs using a variety of models.
+The current US Workforce Innovation and Opportunities Act (WIOA) follows previous legislation with a similar purpose, bringing workforce development activities together across a number of contributing government departments. There have been historically high levels of bipartisan support for this strategic approach, which falls under the overall direction of the Department of Labor. The continued provision of federal grants for a range of national initiatives to be delivered locally is intended to enable the public workforce system to ‘operate as an integrated, streamlined system and continuously improve the quality and performance of its services’.10
+The Revitalising American Manufacturing Industry (RAMI) legislation was instrumental in setting up the government-funded Manufacturing USA institutes, providing them with a dual technology and workforce mandate from the outset. In practice, the extent of the workforce development focus is closely related to the industrial maturity of each institute’s technology base, hence there are varied and evolving levels of contribution. The institutes carry part of the Innovate UK role to run competitive funding programmes through their membership, which leads to an ‘extended enterprise’ of members, including local community colleges and, in some cases, secondary education representatives.
+The institutes are collaborating to identify federal and state funding sources to expand locally funded offers for delivery to a common, national blueprint and are moving beyond initial public core-funding commitments. Departmental oversight bodies are introducing tighter evaluation models with suitable performance indicators for workforce development activities as well as technology outputs from the institutes.
+10 USA Department of Labor 2018
+High Value Manufacturing Catapult | Gatsby 21
+[Page #21]
+ Germany
+During the first trip to Germany, meetings with BIBB (Federal Institute for Vocational Education and Training) and IG Metall (Manufacturing Union) provided introductions to Industry 4.0 workforce issues and developments of the dual system to take account of industry changes and needs. A later trip included CoIs, colleges and state bodies, which expanded the detail of how policy was being implemented locally.
+Around 50% of the annual German cohort undertake a vocational programme in the dual system. This provides direct entry to a profession with a level of general education that can lead to further study although similarly to other countries increasing numbers of young people are taking the academic track to university. Apprentices in the dual system spend 3–4 days per week training in-company, monitored and examined by the German Chambers of Commerce and Industry to meet federal requirements, and 1–2 days per week in vocational and technical schools under state authority. The number of professions regulated in 1950 was 900, this is now reduced to 327 and is unlikely to increase.
+Transparency, permeability and confidence in the outcomes of training in the dual system are all essential for the delivery of promised learning outcomes for young people, hence robust quality assurance of all aspects of the system is a major concern for the social partners – government, employers and unions. This is overseen at a national level by BiBB for the federally controlled academic elements and locally by the Chambers for work-based studies. BiBB also has a mandate to export the dual system as an important aspect of international trade connections. This includes support for ITE in Singapore.
+Fraunhofer-Gesellschaft is the biggest worldwide group of CoIs with 72 centres (including one at Strathclyde University), 26,000 staff and €2.6 billion revenue.11 Its growth has been organic and aligned with expanding industrial absorption capacity for innovation.
+ Switzerland
+The Swiss State Secretariat for Education, Research and Innovation (SERI) is a federal organisation overlooking the national innovation system, working with the 26 cantons. The Swiss national innovation model is self-regulating, balancing competitiveness and subsidiarity at the cantonal level, whilst building on a bottom-up approach with autonomous local institutions.
+The Swiss dual system is under the direction of SERI and their delivery agency, the Swiss Federal Institute for Vocational Education and Training (SFIVET). The transparent, permeable and stable national approach to
+11 www.fraunhofer.de/en.html
+22 Manufacturing the future workforce
+[Page #22]
+education and training provides the solid foundation necessary to deliver the promises of slick marketing campaigns that encourage vocational learning pathways (‘Train as a hairdresser, become a biologist’). The high level of general education content within vocational routes enables future progression to higher education, hence it is not unusual to progress from a vocational studies entry point to further academic studies. Swiss dual system standards and recruitment closely aligns apprentice intake with job opportunities, helping to maintain stability. SFIVET provides considerable levels of technical training for new teachers and for continuing professional development and updating.
+Switzerland has experienced recent low productivity growth, similar to the UK’s, with relatively low job mobility. Commentators report that this may require more proactive anticipation of future skills needs, however not all businesses are at the leading edge of technology or have the immediate absorption capacity for new skills, so a balance of a sound fundamental skills base with the ability to develop future learning will be an important factor in continued success.
+Swiss in-work upskilling is the acknowledged responsibility of employing companies and hence reacts directly to their needs and not to wider local or national strategic imperatives. However, a major concern among members of the national trade association, Swissmem, was access to sufficient staff, given that twice as many are retiring as are entering the workforce.
+ Ireland
+The single visit in Ireland was to the National Institute for Bioprocessing Research and Training (NIBRT) whose origins lie in the economic need to generate a skilled workforce to attract and maintain inward investment in this high value sector.
+Education is free to students in Ireland, with tertiary learning delivered either through higher education institutions or institutes of technology. It is worth noting that the apprenticeship system in Ireland has started to change and is moving towards the German model. The Education Department ‘Springboard’ programme now supports upskilling of the current, employed workforce and covers a range of job roles up to master’s level to enable transitioning between industries.
+High Value Manufacturing Catapult | Gatsby 23
+[Page #23]
+2.2 Good Practice Focus Points and Selected Case Studies
+The objective of the study was to investigate good practice in the activities of Centres of Innovation and their networks. A wide range of examples and related commentary was captured during study visits and review sessions, they have been collated using common themes to bring similar findings from different visits together in this section with focus on key issues and themes.
+Detailed examples are contained within each visit report and are summarised and referenced in Appendix 1 of this report.
+Aligning Future Skills with Manufacturing Technologies (Ref 01 to 04)Early involvement in analysis and communication of future needs was seen in all of the countries visited, although it was carried out using different methods and with a different purpose in each. It was evident in the role of CoIs in the USA, Singapore and Ireland, which led to their proactive preparation of skills forecasts and future standards.
+Germany and Switzerland respect the need to meet current and future requirements simultaneously under their respective dual systems. The nature and pace of change brought about by digitalisation now requires education to lead skills changes for employers to make them available at the time when industry realises the demand exists.
+Programmes and Funding for Technical Training Facilities (Ref 05 to 07)Irish state investment (by the Department of Trade) in a specialist workforce skills pipeline continues to attract significant inward industry investment, with consequent economic benefits. Considerable investment was seen in Germany and Singapore as a means to gain economic advantages from the adoption of industrial digitalisation. Importantly, investment in physical assets is matched from the outset with the continuing development of teaching staff and curriculums using collective programmes.
+Creating a High-Value Workforce Pipeline(National Institute for Bioprocessing Research and Training – NIBRT)
+NIBRT encourages and supports inward investment by high technology and high value industries, with a pipeline of skills generated in the new centre. It focuses on the needs of biopharmaceutical industries, where new drug products are based on molecular biology (‘big molecules’). Original investment was a response to demand in 2003 for training a workforce of some 2,000 to justify a significant inward investment. Since then €10 billion in ten years has now been invested in Irish biopharma businesses, with recognition that NIBRT has been a key enabler.
+24 Manufacturing the future workforce
+[Page #24]
+Industrial training and education courses are provided alongside academic modules which are now a requirement of the higher education curriculum, typically taking a few days in each semester per student, with learning outcomes certified by their institution. The courses breakdown into:
+10% to 15% – open prospectus (existing offers, upskilling) 30% – custom industrial courses 30% – academic modules as part of HE qualifications 25% – CPD; master’s
+25% of industrial clients are from overseas, but they rarely include direct competitors for inward investment. A lot of biopharma innovation is driven by vendor equipment developments, consequently there are high levels of equipment donation to NIBRT (€6 million recently) to support new courses.
+Standards Aligned with Current and Future Manufacturing (Ref 08 to 12)A research-led and detailed analysis of workforce skills needs (increase and decline) is necessary to understand and plan future changes to training standards and the provider base. Top-up Industry 4.0 qualifications have been developed by the German Chambers to be used in parallel with existing standards to avoid delay and may become incorporated in standards at a later review. There is acknowledgement of the need for a modular, interoperable, ‘building brick’ approach for these programmes to increase education and training provider responsiveness.
+In all countries, it was seen as vital to make evolutionary changes built on the foundation of today’s practice and not simply implement a wholesale replacement of current standards and provision. German Chambers and Swiss Trade Associations play a central role in both promoting and moderating changes, which highlights a potentially missing UK function equivalent to these bodies.
+Interdisciplinary Apprenticeship for Industry 4.0German Chambers of Commerce and Industry
+This optional programme has been developed by the Chambers and is aimed at second- and third-year apprentices as additional learning in industrial and technical areas. It is intended to create acceptance for digital technologies at an early stage, as well as providing young people with specialist skills to meet the needs of Industry 4.0, they learn to
+High Value Manufacturing Catapult | Gatsby 25
+[Page #25]
+recognise the potential of networked systems in their own company and to participate in the conception, implementation and selection of suitable methods and technologies.
+Scheduled to be offered from September 2019, there are seven modules of at least 40, up to a maximum of 64, training hours:
+Modules 1 to 4: Internet of Things; technology; business/benefits; processes. Trainees will use information technologies to discover how smart objects capture, process, store and interact with their environment.
+Module 5: Application fields (production, installing, service) using practice-related field studies.
+Modules 6 and 7: Intelligent tools for Industry 4.0; changing role of work; learn how intelligent tools influence the way of working in the future and what key competences are required.
+Upskilling Needs of the Incumbent Workforce (Ref 13 to 18)Germany acknowledges the need to encourage upskilling effort by individuals as well as by employers and is developing a system of credits leading to the award of ‘certificates’ at different levels whilst extending funding opportunities with recent legislation aiming to re-direct skills. Swiss industry relies on the quality of publicly funded initial education and training to enable the continued lifelong learning of their workforce to meet future skills demands.
+Singapore is promoting a shared delivery model suitable for both new entrants and incumbent workers and is supporting it with part-funding offers for accredited modular learning. The Swiss model for higher technical qualifications enables alternative pathways to achieve the same end points, which provides a flexible means to use the dual system for upskilling by adult learners.
+Modular Courses for Adult Learners(SkillsFuture Series – Singapore)12
+SkillsFuture Singapore (SSG) is actively and rapidly driving future technology content into approved and funded short courses as the ‘SkillsFuture Series’. Approved modules are shared for both pre- and post-employment learners, based on standards set at modular and programme levels. Industrial digitalisation learning is not separated
+12 www.skillsfuture.sg/series
+26 Manufacturing the future workforce
+[Page #26]
+from existing programmes but added as electives to qualifications and courses, or as shorter, modular upskilling offers. This results in evolution at a pace that leads industry take-up and stimulates innovation in education and training delivery.
+The series is a curated set of short, industry-relevant training programmes focusing on prioritised emerging skills needs. They are designed to provide readily accessible learning for those in work to remain relevant and prepared for changing opportunities. This series complements a comprehensive portfolio of established modular courses that are intended to respond to current sector and technology needs.
+Basic, intermediate and advanced courses are offered in: data analytics, finance, tech-enabled services, digital media, cybersecurity, entrepreneurship, urban solutions and advanced manufacturing.
+Provision is through universities, polytechnics, technical colleges and independent providers. Courses are typically part-time and can take place in the same programme as full-time students. Fees vary according to content and personal learning credits are available to all Singaporeans to subsidise costs.
+Changing Skills Delivery Methods, Including Learning Factories (Ref 19 to 27)USA universities and colleges use problem-based learning built on industrial needs and in some cases, channel this through a final-year consulting business. Swiss blended learning with low-cost augmented reality (AR) and virtual reality (VR) tools using online modules, increases overall teaching quality as a result of shared investment. Up-to-the minute case study material encourages Swiss trainers to adopt the latest technologies.
+Learning Factories emerged in a variety of forms as a key finding of the study and represent a potentially strong link between CoIs and their broader education networks. Growing investment in Industry 4.0 cyber/real educational systems using simulation and learning scenarios were seen in the USA, Singapore and Germany – some of the installations were linked globally to extend learning opportunities. The development of teaching methods, teacher competence and continued support is a critical success factor.
+Fraunhofer IPA’s Future Work Lab includes competence and pedagogy specialisms relating to the use of Learning Factories and supports unions and Chambers to develop their understanding of potential Industry 4.0 applications.
+High Value Manufacturing Catapult | Gatsby 27
+[Page #27]
+Smart Factories – Implementing Industry 4.0 in Vocational SchoolsBaden-Württemberg Ministry for Culture, Youth and Sport
+By 2019 there will be 20 ‘Smart Factories’ in state vocational schools and this number will grow to 41 installations (from a total number of 72 vocational schools) by 2020. This will bring total state spend to €20 million, which will have been matched by local funds. Although each Smart Factory is tailored to meet local needs with input from local companies, it must comply with a number of standardised common learning scenario requirements if it is to receive funding: flexible production systems; lot size of one (product customisation); ERP and MES systems; use of cyber/physical modules and factory; intelligent sensors; and Big Data.
+Each Smart Factory is in effect an Industry 4.0 simulator with education delivered using shared teaching scenarios that reflect local industry while remaining common across similar colleges. This new approach is very demanding of teachers, who need relevant professional expertise and continued in-service training and development. High levels of co-operation with teaching and industry peers is also essential.
+Students are from both apprenticeship and diploma cohorts, where the systems are used as part of their education process. There are plans to add adult learners as demand for upskilling develops.
+The Networked Learning FactoryFesto Didactic
+Investment in Vocational Teachers and Facilities (Ref 28 to 30)Both dual system countries (Germany and Switzerland) provide ongoing development programmes for technical teachers working in colleges and industry. In Germany, common training scenarios enable teachers to share learning approaches and to continue with peer-group support beyond formal training. Industry 4.0 education places significant demands on teaching staff, who need to receive additional training and support from both the state and from industry to develop new skills and knowledge.
+28 Manufacturing the future workforce
+[Page #28]
+German investment in local ‘inter-company vocational training centres’ focuses on both advanced manufacturing and digitalisation and includes funds to develop training collateral and facilities.
+Vocational Teacher TrainingSwiss Federal Institute for Vocational Education and Training – SFIVET
+There are some 80,000 new Swiss apprentices per year, in 230 professions, studying at 310 vocational schools. This figure includes some 8,500 adult learners (24+) on standard (45%) or shortened (24%) VET programmes, direct examination (25%) or validation of prior learning (6%).
+Annually, 1,600 vocational teachers are in initial training, 5,800 complete CPD courses and 7,900 train as examiners with programmes directly delivered by SFIVET departments.
+Teachers being trained for the dual system require industry experience prior to their two-year, part-time courses carried out with a sponsoring vocational school to provide practice. Training costs are met by the canton. Some teachers continue to work in industry as well as education.
+As new standards are approved and implemented, teachers are trained and supported in the new subjects and content by SFIVET.
+Creating and Combining Resources to Meet Local NeedsLorain County Community College (LCCC)
+LCCC demonstrates integration of education and training with innovation and knowledge transfer activities aligned to local industries. In addition to skills, investment from multiple sources (including philanthropy), is channelled through the College into the local economy for a wide range of business support needs, including access to venture capital. County residents continue to approve a discretionary tax specifically to support college activities, so that it contributes directly to their local economy through its local activities.
+This combination of services and support for individuals and local enterprises suggests an opportunity for the UK’s Institutes of Technology.
+High Value Manufacturing Catapult | Gatsby 29
+[Page #29]
+Accelerated Access to Emerging Technologies (Ref 31 to 38)Singapore and the USA demonstrated an important convening role for CoIs to apply their insight and technical authority to the understanding of future workforce development needs related to emerging technologies. The results of this took different forms: in the USA it has led to defining curriculum in a collaboration between academic educators and industrial technologists; in Singapore it is central to industrial transformation planning and securing appropriate supply chain capability.
+SimTech in Singapore also demonstrated seamless technology through to knowledge transfer and training by using researchers as trainers. There was a positive acceptance of high levels of staff leakage to industry, which was seen as beneficial to the CoI and their client as well as the individual researcher. German Fraunhofers routinely lose 10% of their core staff to both industry and academia.
+An interesting model may develop from ETH Zurich’s plans to bring industry individuals from small businesses back into an academic environment for a short, intensive education and project period, currently at an early stage.
+Defining New Technology Education and Training with Expert EducatorsManufacturing USA – LIFT
+Lightweight Innovations for Tomorrow (LIFT) have pioneered work with the national Association of Public and Land Grant Universities and Colleges (APLU) and the National Center for Manufacturing Sciences (NCMS) to deploy academics as ‘expert educators’.
+The Expert Educator Team is selected from community college and state university staff, based on reputation and anticipated local needs for education in the emerging technologies. Their role is to interpret future technology needs into a curriculum that can be incorporated into existing academic offers. ‘Thinking and Doing Competency Maps’ provide guidance regarding the depth of knowledge, skills and behaviours required to prepare students to work with emerging technologies.13
+The outcomes are contained in a report that included guidance for curriculum modifications to better prepare students with the competencies needed for 11 emerging lightweighting technologies at both associate and honours degree levels.
+13 lift.technology/eet
+30 Manufacturing the future workforce
+[Page #30]
+Competences are described in ‘Thinking and Doing Maps’. The following is extracted from a map for thin wall castings:
+DOING
+Basic Operation
+CompetantOperation
+Expert Operation
+Recognition
+Handling
+Planning
+Evaluation
+Create
+Evaluate
+GNKNHT
+Analyse
+I
+I
+Apply
+Understand
+Remember
+1. Understand challenges associated with thin-wall castings; know what parameters need special attention and what makes this approach practically different from traditional casting.
+2. Demonstrate working knowledge of design of experiments (DOE).
+3. Display working knowledge of (commercially available or in-house)
+casting design tools, including ICME, for flow & solidification modeling.
+4. Apply finite element analysis (FEA) to manufacturing of parts.
+High Value Manufacturing Catapult | Gatsby 31
+[Page #31]
+Workforce and Skills Forecasting (Ref 39 to 40)There were examples of the important role that the Manufacturing USA and A*STAR institutes fulfill in workforce development analysis and planning in the USA and Singapore. In both cases this was clearly part of the national industrial strategy to secure the future impact of manufacturing investment in their economies.
+Digital Manufacturing & Design Jobs TaxonomyManufacturing USA – DMDII and Manpower Group
+DMDII’s work with the Manpower Group on digital taxonomy and implications for future jobs and skills, foresights constant change and a demand for flexible thinking about future workforce development where talent is a renewable resource but subject to hindrance from rigid HR systems. Ill defined, long-held jobs which are now becoming vacant highlight the change necessary in both recruitment and development processes to satisfy future skills requirements.
+This project was driven by the needs of Manpower Group as a recruitment business to grow their understanding of the future skills landscape and to take into account the changes likely to result from industrial digitalisation. Full and comprehensive details are available to download and should be explored by those looking at the future skills needs of manufacturing in the UK14.
+Reports identify 165 potential roles, such as lifecycle digital twin architect and data management analyst, that are critical to the success of digital manufacturing. Twenty specific roles were prioritised and are developed to detailed definitions of competence. The nature and forecast proportion of manufacturing sector jobs is described in the following DMDII / Manpower graphic:
+Digital Enterprise
+Digital Skill SetJob Roles
+Digital Manufacturing & Processing
+16%
+Supply Network11%
+28%
+Digital Design10%
+Digital Thread
+Digital Product
+Omni6%
+21%
+8%
+14 DMDII, now MxD. https://www.uilabs.org/innovation-platforms/manufacturing/taxonomy/
+32 Manufacturing the future workforce
+[Page #32]
+Co-operation with Education and Training Providers (Ref 41 to 44)Several Manufacturing USA institutes have collaborated to develop a manufacturing curriculum for high schools. These programmes raise student involvement and achievement and, by providing a shared curriculum for a network of schools and colleges, enable the students to progress successfully into the advanced manufacturing workforce.
+SIMTech’s remit is to deliver end to end projects with knowledge transfer and training as an explicit outcome. Courses are built on the technologies developed and where necessary, are de-sensitised to comply with IP requirements.
+‘Ignite’ – Shared Curriculum to Update Manufacturing Education in SchoolsManufacturing USA Institutes – LIFT, DMDII and America Makes
+Manufacturing USA institutes have collaborated to develop ‘Ignite’, a high school offer to support the existing manufacturing curriculum, involving America Makes, DMDII and LIFT. Its engaging and forward-looking content can be supplemented by time spent in dedicated laboratories in the institutes. The curriculum extends beyond core institute technologies and provides underpinning learning for future advanced manufacturing.
+The programme runs over three years, to completion of high school. Year 1 provides 65 hours of materials science and 65 hours introduction to advanced manufacturing; years 2 and 3 each offer 130 hours of advanced manufacturing systems. Ignite is designed to introduce students to advanced manufacturing design and production and to provide a grounding in tools and techniques that will be necessary as manufacturing moves to individualisation and customisation of products.
+LIFT has set up a dedicated learning hub to provide a nationally relevant, open source and scalable online library of lightweighting- and composites-related educational materials for use by educators and students at all levels. A LIFT Learning Lab has also been established within the Detroit facilities to provide an immersive learning environment for use by city-based learners to deliver elements of the Ignite programme with the use of virtual reality, robotics and advanced manufacturing tools at an appropriate scale.
+High Value Manufacturing Catapult | Gatsby 33
+[Page #33]
+Existing UK Good PracticeIt is clear that a similar study exercise carried out in the UK would also identify many examples of significant good practice (during the duration of the study, we spoke with a number of incoming delegations intent on doing so). It was not the purpose of this study to compare or benchmark the performance of individual UK organisations, however observations are pursued about the systems within which they operate as a whole in Section 4.
+34 Manufacturing the future workforce
+[Page #34]
+and Skills Systems 3
+Applying Good Practice to the UK Innovation
+High Value Manufacturing Catapult | Gatsby 35
+[Page #35]
+This section highlights the essential role of manufacturing skills to anchor the benefits of investment in innovation, to increase productivity and to deliver economic value nationally and locally. It discusses the fragmented and disconnected nature of UK systems, which contrasts with a significant study observation about high levels of collective working across education and training organisations, together with their beneficial connections with Centres of Innovation. This observed closer working was made more straightforward by relatively stable skills systems which can then be aligned to innovation strategies.
+These factors are brought together to suggest criteria for action that are used to guide later recommendations for action.
+3.1 Securing Economic Impact
+Visits to the USA, Singapore and Ireland showed that CoIs are well placed to articulate likely changes to the manufacturing skills base associated with emerging technologies. They provide early advice for employers and government that enables timely action on future skills needs, standards and delivery. Centres can leverage the substantial public and private investment within their organisations to convene and support workforce development, especially during the innovation process and at early stages of industrial and education adoption.
+The greater complexity of engineering and manufacturing developments associated with data-rich technologies requires an integrated strategic response to workforce development. While the UK has adopted a national industrial strategy,15 with an emphasis on the need for improved technical skills, this intent is not matched by a nationally connected and effective workforce strategy that responds to local employer needs. Ongoing, separate skills reforms are in place or planned to resolve individual challenges, however their interdependence is neither well understood nor articulated, and this lack of connectivity adversely influences their individual success and the effectiveness of workforce development activities as a whole.
+From the outset of evaluating how CoIs might increase their contribution to the skills base of manufacturing, it has been clear that manufacturing industry continues to have a large and growing appetite for highly capable and work-ready new entrants as apprentices and graduates, preferably with relevant workplace experience. Even though this is critical, visits to Singapore and Germany show that this need may now be equalled if not surpassed by the drive for shorter-term measures that maintain
+15 https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/
+file/664563/industrial-strategy-white-paper-web-ready-version.pdf
+36 Manufacturing the future workforce
+[Page #36]
+and develop the skills base of the ongoing manufacturing workforce, by upskilling and reskilling at all levels over a longer, and often more rapidly changing, working life.
+This increased demand for access to learning by those already in work (and in many cases previously qualified) will also need greater flexibility of provision and recognition. Accredited elements of learning that can be followed at a time and place convenient for the learner, and with mechanisms that allow them to accumulate recognition for their study while meeting their employers’ needs for changing skills, will need to be put in place.
+3.2 Continuing Change and Systems Failure
+Many reports comment on the history of change across education and training policy and provision in the UK. Multiple reviews, reports and policy reforms in the last 20+ years have sought to address and resolve the UK’s acknowledged skills challenges.16 This is in stark contrast to the evolutionary stability inherent in the German and Swiss dual systems and the control of quality that they provide to ensure the required outcomes for individuals and for the workforce as a whole. Singapore successfully navigates through rapidly changing skills landscapes with an incremental approach to change.
+In the foreword to the 2016 Report of the Independent Panel on Technical Education, David Sainsbury opened with the direct and challenging statement:
+‘It is over a hundred years since the first report was produced which highlighted the failures of technical education in the UK, and since the Second World War there have been very many attempts to reform the system. These have all been unsuccessful because they tinkered with technical education and failed to learn from the successful systems in other countries.’ 17
+These concerns were echoed recently in the follow-up to the Perkins review of 2013, Perkins Revisited (2019).
+‘There have been too many policy changes, and still too much fragmentation and complexity embedded into our education system. Let’s do more to join this up, working in partnership with government.’ Professor Juergen Maier CBE FREng18
+16 Building our industrial strategy. Green Paper (January 2017) p.6
+https://www.gov.uk/government/consultations/building-our-industrial-strategy
+17 Report of the Independent Panel on Technical Education – https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/536046/Report_of_the_Independent_Panel_on_Technical_Education.pdf
+18 ‘Foreword’, Engineering skills for the future: The 2013 Perkins Review revisited. RAE (January
+2019) www.raeng.org.uk/publications/reports/engineering-skills-for-the-future
+High Value Manufacturing Catapult | Gatsby 37
+[Page #37]
+The Augar Review of Post-18 Education and Funding includes comment about the need for flexible, lifetime learning opportunities and reflects themes emerging from the good practice observed during this study.19 This increases the pressure for a stable system, where early education and training provides a dependable platform for lifelong development of an individual’s knowledge and skills necessary for them to continue to contribute to and benefit from innovation in their working environment.
+Professor Paul Lewis raises the importance of technicians to successful innovation systems which comprise many diverse elements from businesses to banks, individuals and academia, where each is creating, exchanging and using new knowledge and the skills necessary to apply it productively in industrial contexts.20 A firm’s absorptive capacity for innovation, and therefore continuing competitive success, will be greater if its technicians have the appropriate skills aligned with a company’s opportunities and its innovation needs. This point is reinforced by study observations in Switzerland and Germany.
+Research has highlighted the challenges for businesses to acquire forward-looking skills related to new technologies. Early-stage access to relevant knowledge and training is unlikely to be widely available from local education and training providers, who themselves are not able to establish viable levels of demand at the outset or perhaps subsequently (the so-called ‘tyranny of small numbers’). This can be shown to have hindered the take-up of innovation in a number of UK sectors and leads to recommendations for greater involvement of CoIs, as observed during meetings in Singapore.
+This study examined how CoIs might support wider ‘skills systems’, but it seems that any such system in the UK (particularly English) education and training landscape is poorly developed and recognised. Professor Ewart Keep, in a 2018 FETL paper, highlights that
+‘many English policymakers and practitioners still refer to a further education (FE) “system” …. Marketisation and increased levels of competition and contestability have transformed the environment in which colleges operate …. policy instability and the attendant risk of disruption to established markets and streams of activity … is compounded by the fact that many of the consequences that develop as a result of policy are unintended.’21
+The continuing shortfall in engineering and manufacturing skills, for current and anticipated future needs at technician and other levels, is often described as a ‘market failure’. However, taking these factors into account,
+19 Review of Post-18 Education and Funding, Dept for Education (May 2019)20 Technicians and Innovation: A Literature Review. Paul Andrew Lewis (17 June 2019)
+https://ssrn.com/abstract=3405406 or http://dx.doi.org/10.2139/ssrn.3405406
+21 Scripting the future. FETL
+38 Manufacturing the future workforce
+[Page #38]
+it may be argued the underlying causes are better defined as a ‘systems failure’22. Typically, this hinders solutions that use market or regulatory mechanisms to fix fragmented problems and prevents them from delivering planned benefits because the behaviour of the system is unpredictable. These wider ‘system’ challenges, such as achieving greater levels of reliable forecasting and more effective collaboration, need to be addressed so that CoIs can make effective and sustainable contributions to workforce development.
+3.3 Conclusions and Criteria for Action
+This study arose from the acknowledged and urgent need to address the UK’s manufacturing skills challenges and sought examples of international good practice by advanced manufacturing innovation organisations and from their connections with education and training systems. As expected, visits did not reveal a complete national solution, suitable for wholesale adoption in the UK. But they did provide examples of a range of activities that could support a number of responses to many of the UK’s manufacturing skills challenges. The visits also provided clear illustrations of the interconnects that exist between many functions of the innovation, education and training systems in those countries. Some are formal, many result from a strong common purpose working across organisational boundaries.
+Over the duration of the study, the growing prominence of industrial digitalisation was significant but it was also clear that progress for most businesses should be evolutionary and must build on today’s capabilities. This does not preclude the impact of disruptive technologies, although these present significant difficulties to systematic preparation of the future manufacturing workforce and may depend more on improvements to an individual’s early stage education. Digitalisation not only offers new and smart technology driven opportunities but also demands greater levels of organisational and other ‘non-technical’ skills of the future workforce.
+In many ways the countries visited could be argued to have already made progress on workforce development in the field of industrial digitalisation. This could leave the UK at a disadvantage, with limited potential to be first to market, as the race is already underway and many competitors are already in their stride. However, this situation also presents the opportunity to develop a more integrated and connected approach to address future workforce challenges, which should help restore the UK’s competitive advantage. This will be founded in part on an effective and timely provision of knowledge and skills associated with emerging technologies by CoIs working collaboratively with education and training providers.
+22 Pp 23-26 Technicians and Innovation: A Literature Review. Paul Andrew Lewis (17 June 2019)
+https://ssrn.com/abstract=3405406 or http://dx.doi.org/10.2139/ssrn.3405406
+High Value Manufacturing Catapult | Gatsby 39
+[Page #39]
+While observing from the study that some roles and functions elsewhere fall under different responsibilities than would be the case in the UK, study conclusions must be made in the light of the current UK manufacturing workforce skills landscape, challenges and opportunities. These conclusions identify a number of criteria to shape detailed recommendations which will be appropriate and valuable, and which will support and build on ongoing reviews and reforms.
+Suggested criteria for action include:
+Improve foresighting and understanding of future workforce capabilityTo assist the alignment of future talent and technology by developing and articulating an understanding of demand for changes to the manufacturing skills base well in advance of need.
+Define forward-looking roles and occupations, forecast skills demandTo generate outputs in greater detail as market and employer demand becomes clear and leads to a definition of future need to secure timely public, employer and commercial investment in skills standards and workforce development programmes.
+Develop flexible and modular education and training ‘lifelong’ solutionsModular learning products should be developed and made available through a number of learning channels (including online resources) and be delivered as part of apprenticeships and qualifications and used for individual upskilling short courses.
+Establish assurance and validation to enable modular learning and recognitionStudy observations indicate that recognition of an individual’s successful completion of varied programmes of lifelong learning is an important factor in their motivation to invest their time and, in some cases, money. Processes for the accumulation of modular credits leading to awards will need to be developed.
+Deliver early-stage training, including teaching of teachersThe ‘one-to-few’ stage is a necessary precursor for a viable and effective scale-up of provision to meet employer demand when and where necessary. It might be seen as similar to the function of CoIs in bridging the innovation ‘valley of death’, where solutions are characterised by multi-partner collaboration and co-funding.
+40 Manufacturing the future workforce
+[Page #40]
+Scale-up across co-operating providers to meet demandThis would be mostly as takes place today, with the major difference that the ‘blueprints’ previously developed (at the ‘one-to-few’ stage) would already exist and can be made available to increase local responsiveness and to reduce the delivery risk of any one provider. A further significant advantage should be consistency of provision across a growing provider base.
+Some recommendations should be taken forward with the direct involvement of CoIs working with partners and these are developed further in Section 5. Others require broader stakeholder commitment and leadership to address more complex issues – and CoIs, working with partners, should support such actions as they are identified in the future.
+There are a further two observations that, although they do not lead to recommendations, are likely to be of continued importance and will influence the progress of the UK’s innovation and skills systems:
+Strategic ownership of workforce issuesVisits highlighted the role and effect of government departments of Labor (USA) and Manpower (Singapore). These organisations consider the national and local workforce as a renewable asset in relation to economic and industrial policy and work with related government and state organisations to develop and maintain the value of the asset by promoting strategic alignment and funding programmes.
+Related to this observation of government structures, the local and national impact of the German Chambers in a social partnership carries similar weight and is not easily replicated in the UK.
+Work-based training approachObserved practice highlights the quality of the German and Swiss Dual System approach, with employers responsible for structured training in the workplace in compliance with examined standards.
+In Singapore, unstructured work placements on completion of college-based learning are a requirement of some college awards and, in the USA, the need to better structure and integrate work-based learning with education elements has been recognised for the new and unregulated apprenticeships. This contrasts with the more regulated German dual system with technical teachers and Meisters employed by industry to deliver work-based training. Where companies are not able to provide a working environment to fulfil standards, inter-company vocational training centres have been established locally to provide this on a collaborative basis.
+High Value Manufacturing Catapult | Gatsby 41
+[Page #41]
+42 Manufacturing the future workforce
+[Page #42]
+and Actions 4
+Recommendations
+High Value Manufacturing Catapult | Gatsby 43
+[Page #43]
+This study’s examination of international good practice has generated valuable examples and case studies that highlight connections and contributions by CoIs to education and training systems. Study partners will disseminate study findings to stakeholders, industry, education and training providers to grow engagement and embed good practice.
+This section uses the criteria for action from Section 3 to develop recommendations for action by Centres of Innovation, their education and training partners and a wider group of stakeholders. The overarching recommendation is to make improved connections between innovation, education and training initiatives, using the concept of a ‘Skills Value Chain’ for manufacturing workforce development. The roles of CoIs in its delivery are proposed and used to shape detailed recommendations, which themselves contribute to the creation of the value chain. The emerging requirements of stakeholders to enable and support these recommendations are also identified.
+4.1 Develop a Skills Value Chain
+One of the major learning points from the study visits and discussions was the sense of a strong common purpose among those involved in the success of workforce development programmes. This was observed in the context of continuing change to meet short-term skills needs and arose from a mix of legislation and political structure, regional and local interest and from the collective pursuit of economic opportunity. In all cases the benefit of the common purpose was to increase awareness of how apparently separate workforce development activities should be connected to better achieve results for the wider system and for individual initiatives.
+Using terminology familiar to companies in manufacturing and many other industries, the connection and interdependence of a number of related activities that contribute to an overall result can be thought of as comprising a value chain. As originally defined by Porter, a value chain is a set of activities that an organisation undertakes to create value for its customers.23 A skills value chain, as proposed, recognises the necessity to link current and future initiatives and activities that individually address a specific need but that collectively generate a strategic and system-level response and outputs.
+For ease of presentation, the skills value chain is presented sequentially in Figure 2, however it is an ongoing process to be revisited at intervals or as and when a need is identified to maintain the knowledge base and capability of the workforce. Overlaps and out-of-sequence links are anticipated as the model is developed, as are feedback loops within the skills value chain and
+23 Competitive Advantage. Michael Porter (1985)
+44 Manufacturing the future workforce
+[Page #44]
+with the wider innovation system24. Each proposed activity should provide effective outcomes and create direct value in its own right, while providing inputs to and connecting with other manufacturing workforce development activities. A sense of common purpose will be generated that focuses on the effectiveness of the system and not simply on the absolute success of individual activities. It also drives the ‘owners’ of each activity to understand their contribution to the system and to optimise their input to the next step.
+CoIs have a contribution to make to each step in the value chain, with their role changing as emerging technologies move through their development cycles and as they are scaled up for wider adoption by industry. Essentially, this can be split into three broad roles:
+1. CoIs should act to convene technologists, industry, government,
+education and training partners as a focal point for their technology to help establish future skills needs, standards and qualifications associated with emerging technologies;
+2. They should work with others to curate knowledge that has been created in a form that can be used with appropriate assurance; co-developing additional material as required and supporting awarding bodies and accreditation organisations;
+3. They can deliver early-stage training by acting as a primary point of transmission of this knowledge to teachers who will educate others and to early industry adopters, then on an on-going basis continue to support wider teaching and training networks for specialist emerging technologies during scale-up of delivery.
+Figure 2. Proposed value chain to develop the future manufacturing workforce
+StrategicObjectives
+Talent alignedwith future technology
+Employer-led standardsare future focused
+Access to emerging technology skills
+Value for individuals and industry
+SecureUK benefit– anchor innovation
+Deliverright skills, right time, right place
+CoI Roles
+Convene (to establish needs)
+Curate (and create resources)
+Deliver (and diffuse)
+Value Chain Activities
+Defineroles, occupations and standards
+Deliverearly stage training(inc.teachers)
+Foresight future workforce capability
+Develop modular curriculum and content
+Set-up assurance, validation and recognition
+Scale-up with cooperating providers
+Future workforce skillsdemand signal
+Demand forecast, gap analysis and action plan
+Training resourcesto meet individualand industry needs
+Recognition and accumulation of creditand awards
+Educationof educators and early adopters
+Local offers for industry where and when required
+Outputs
+24 www.uk-irc.org/wp-content/uploads/2014/04/foresight_industrial_policy_medium_to_long_term.pdf
+High Value Manufacturing Catapult | Gatsby 45
+[Page #45]
+The skills value chain, with its proposed roles, provides a framework for contribution by CoIs taking direct action and by working with wider education and training networks. This important recommendation also addresses innovation and skills ‘systems failures’ by closely linking technology innovation with workforce development and by enabling and supporting co-operative responses to future skills needs by education and training systems25. The recommendations for action that follow, together with associated proposed pilot projects, begin to provide a connected environment that can be used to develop further processes and should establish their collective value.
+Establishing an Effective Skills Value Chain for Manufacturing
+Ultimately, taking a skills value chain approach has the potential to provide a competitive advantage for the UK manufacturing industry because workforce talent and skills will become more aligned with technology and productivity opportunities.
+However, execution will require collaborative leadership and wide stakeholder commitment to shared purpose and co-operation.
+4.2 Recommendations for Action by Centres of Innovation
+These detailed recommendations set out opportunities for CoIs to work both individually and collectively within a wider partnership. Each of the recommendations falls within the proposed roles for CoIs and relates to value chain activities. In some cases actions may be led by CoIs, in others their role is to support partners. Further actions will be necessary to fully develop the value chain concept and these will continue to be identified by partners and stakeholders.
+The study had a clear aim to propose pilot activities designed to trial, test and disseminate best practice findings in the context of the current technical skills system. Prior to publication of this report, the Gatsby Foundation have agreed proposals for a first pilot to address foresighting processes and early outputs. Subject to outcomes, follow-on work will address identified gaps in standards and the associated modular delivery of higher technical skills and qualifications.
+Recommendation 1. Foresight Future Manufacturing Skills NeedsForesighting of future workforce capability needs should be established as a prerequisite of all work done in CoIs and by major technology programmes (such as ISCF) to provide early notice of changes to the
+25 pp 26-30 Technicians and Innovation: A Literature Review. Paul Andrew Lewis (17 June 2019)
+https://ssrn.com/abstract=3405406 or http://dx.doi.org/10.2139/ssrn.3405406
+46 Manufacturing the future workforce
+[Page #46]
+future skills base and to maintain a strong link between technology and workforce strategies. Timely skills demand information is necessary to inform workforce development strategies closely aligned to technology strategies. This will assist the generation of new and revised standards that reflect emerging technologies and will identify new and amended courses and programmes to meet future industry skills needs.
+Employers must continue to play a central role and their leadership will be better informed by foresighting outputs which should be considered on a cross-sector basis, promoting areas of common technology needs, which will in turn increase the future viability and effectiveness of education and training provision.
+For this to be achieved, processes will need to be developed that convene groups of education and technology specialists to analyse and articulate any required changes to current standards and provision necessary to respond to future employer skills needs related to emerging technologies.
+CoIs are well positioned to promote collaboration and to convene participants including industry and sector specialists working with FE and HE representatives and Semta to develop the pilot programme. These groups will need to closely engage with stakeholders from IFATE, DfE, IUK and BEIS as members of an advisory group to assist policy review and to ensure outputs contribute in the context of the current UK system.
+Suggested Approach• Extend technology roadmapping activities to include workforce
+processes and carry out pilot workshops leading to analysis able to support standards and qualifications review,Include US Expert Educator methods, adapted for UK use,
+• • Prioritise higher technical skills related to industrial digitalisation,• Complete a pilot by early 2020 to allow a review ahead of wider
+implementation in 2020.
+Intended OutputsAnalysis should include existing standards and labour market information to understand whether the skills requirements of the new technologies should be met by new standards or by modifications to existing ones. Employers will be able to use this information to inform their internal workforce development plans and to assist their work with Standards groups. Foresighting will be a periodic process and should also make early forecasts of what capability the education and training provider network requires to react to anticipated future needs.
+High Value Manufacturing Catapult | Gatsby 47
+[Page #47]
+When linked with other recommendations for a modular approach, a further major outcome should be increased opportunities for upskilling the incumbent workforce. However, for this work to continue beyond a small number of initial pilots supported by the Gatsby Foundation, further commitment of funding and resources will be required.
+Recommendation 2. Develop Higher Technical Qualifications and StandardsIn comparison with international competitors, the UK has limited capability and capacity to deliver higher technical skills. Around 7% of all UK students aged 18–65 undertake training at Level 4–5,26 compared with the USA at 27% and Singapore at c. 45%. Industry 4.0 and changes brought about by digitalisation demand higher levels of technical ability to meet opportunities arising from new job roles and changed occupations.
+As has been observed during the study, these countries share many of the multinational businesses that operate in the UK. They and their local supply chains are engaged with workforce development programmes that are now actively addressing skills needs arising from industrial digitalisation and the higher skills needs of future manufacturing that are necessary to secure national economic impact (e.g. USA Manufacturing Strategy 201827).
+Whilst there has been a recent upturn in the registration of Level 4 and 5 apprenticeship standards for manufacturing, the study evidenced that there is urgent need to ensure that there are appropriate cross-sector, ‘fundamental’ standards and qualifications to meet industrial digitalisation demands at a higher technical level.
+Because much of the future demand will be for the incumbent workforce, apprenticeship standards at this level should also guide the creation of higher technical qualifications comprised of discrete, credit-bearing modules reflecting workplace credentials that are suitable for upskilling needs.
+CoIs and Semta should work with a wide group of stakeholders drawn from the Made Smarter Commission, sector groups (e.g. Aero, Auto and Defence, Nuclear, Food and Drink), IFATE, DfE, BEIS, FE and HE representatives will be invited to participate.
+26 https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/
+file/733696/Review_of_Level_4_and_5_Education-Interim_Evidence_Overview.pdf
+27 https://www.whitehouse.gov/wp-content/uploads/2018/10/Advanced-Manufacturing-Strategic-
+Plan-2018.pdf
+48 Manufacturing the future workforce
+[Page #48]
+Suggested Approach• CoIs, Semta and others to actively contribute to the review of
+higher technical qualifications,
+• CoIs to work with partners and employers to assist the IFATE to evaluate and update the current suite of engineering and manufacturing standards,
+• CoIs and Semta to convene industry and academic groups to recommend and lead the development of specialist standards related to future manufacturing and digitalisation where these are required,
+• Continue to engage with the interests of Government Stakeholders,• Ongoing standard development during 2020 building on
+Foresighting pilot outcomes.
+Intended OutputsForesighting will provide input to sector and industry groups (including the Made Smarter Commission) to identify common areas of needs that can be prioritised for delivery by working with standards groups, FE and HE representatives, professional and awarding bodies. Responses should be built on a modular learning approach that will support individuals seeking specific accredited up-skilling courses to meet employer demands, be combined to provide a full ‘Industrial Digitalisation’ qualification or supply input to wider apprentice standards revision.
+Recommendation 3. Emerging Technology Modules and Early Stage DeliveryGap analyses from Recommendations 1 and 2 will identify shortfalls in education and training provider capacity to meet future standards and employer demand. Where new modular training resources are necessary for the timely implementation of training solutions related to emerging technologies, CoIs should work collaboratively with partners from technology and education organisations so that subject matter knowledge captured during innovation processes contributes to development.
+As new technologies and practices are identified by foresighting processes, CoIs are well placed to meet demand from early industrial adopters and to teach and support the teachers who will go on to deliver programmes in academia and industry. This will involve a wide group of education and training participants from FE, HE and the recently announced Institutes of Technology working to co-develop modular content with CoIs that will form ‘blue-prints’ underpinning future scale-up.
+High Value Manufacturing Catapult | Gatsby 49
+[Page #49]
+Modular content related to emerging technologies should be developed to support the achievement of amended and new skills requirements. Content will be used and refined during early-stage adoption by geographically distributed and relatively low volumes of learners at specialist locations including CoIs, and then as wider diffusion and scale-up responds to industry demand.
+Training and resources must be suitable both for new workforce entrants and to upskill and reskill those already in work and previously qualified. This will require flexible and modular modes of learning that fit around the working and personal lives of adult learners and which also provide a recognition of achievement.
+Suggested Approach• CoIs to convene specialist groups associated with emerging
+technology areas to generate definitions of roles and competence required for the future workforce,
+• Establish business cases for collaborative creation of content and continuing shared delivery models to seek investment in new modules,
+• Develop and pilot new modules and delivery partnerships,• Programme developed to commence new module delivery
+before end of 2020.
+Intended OutputsSufficient numbers of teachers should be trained at this early stage and will then train others in colleges and industry. Teaching materials should be developed and tested before being made available for national uptake to arrive at ‘blue-printed’ solutions that avoid duplication of investment.
+Recommendation 4. Promote Learning FactoriesArising from observations during the international visits of a growing trend in facilities described as Learning Factories, HVM Catapult commissioned a short review to establish a taxonomy and scope of application (report available to download). At its simplest, the concept refers to a facility with aspects of an authentic production environment to be used primarily for the purpose of learning. It is not a simple duplicate of an industrial factory but is designed to serve an experiential learning process. The facility may be physical, virtual or a blended combination and generally involves more than one machine or operation and can extend to include supply chains and customer services.
+50 Manufacturing the future workforce
+[Page #50]
+Looking at the scope and options for further development of Learning Factories in the UK, there would appear to be significant need, and certainly opportunities, since the UK already has strong expertise in digital learning technologies.
+The suggested approach is to examine the opportunities closely and to build systematically on existing assets, strengths and initiatives by CoIs working with the Made Smarter Commission, Institutes of Technology supported by their FE and HE partners and DfE.
+Suggested Approach• Work with Made Smarter Commission to align needs and
+opportunities,Institutes of Technology should work with CoIs to take on the features of Learning Factories and to act as hubs to support other institutions,
+•
+• Establish Master Trainer and shared learning scenario concepts,• Discuss opportunities for funding with BEIS, IUK, DfE and local
+authorities,
+• Continue discussions to target new installations from late 2020.
+Intended OutputsCatapults and CoIs should make more of the workforce development potential of Learning Factories working with FE and HE, aligning developments with Made Smarter technology investments so that they become part of the network supporting a more systematic and strategic approach to industrial digitalisation skills, including Master Trainer and shared learning scenario concepts.
+Recommendation 5. Improved Recognition and Funding of Modular LearningMechanisms are required to provide for the accumulation of elements of recognition gained during incremental modular learning. These should accept varying forms of credentials, including qualifications and certificates of achievement, professional licences and proof of work-based competence.
+This could lead to a kitemarking approach for assurance purposes and requires the involvement of professional institutions, awarding and licensing bodies. Digital badging may also play a role. Accreditation of industrial competence is often time-limited, with expiry dates driving the need for reassessment to maintain compliance. There are potentially important roles for both academic and professional bodies to play, providing the means to accumulate and integrate the recognition of modular academic credits and professional credentials.
+High Value Manufacturing Catapult | Gatsby 51
+[Page #51]
+Implementation will need to be supported by continued, incremental updating of standards aimed at incumbent workers and at new starters. Training provider capability development and modular funding options for quality assured short courses will also be required.
+Increased take-up of modular courses with formal recognition of continued achievement has been shown by the study to be an important factor in making reskilling and upskilling programmes effective for individuals and industry alike by providing incentives for learners.
+Action is required by Professional Engineering Institutions, academia, government and industry bodies to increase access to courses and motivate adults to undertake upskilling that reacts to future industry needs.
+Suggested Actions• Use pilot outcomes to demonstrate accumulation methods,• Work with others to propose credentialing models,• Seek observation and comment by DfE, BEIS and IFATE on
+developing more flexible use of Levy and other public funds for kitemarked modular learning referenced to future standards,
+• Continue discussions to target outcomes in 2020.
+4.3 Securing Impact with Leadership and Common Purpose
+Recommendations for action are founded on examples of good practice that can also be used as case studies to shape application in the UK context. In some cases, work has started on pilot projects, in others the need to do so has been identified. Taking recommendations beyond this pilot phase and into the coherent approach described by the Skills Value Chain will require time, effort and resources from industry, the academic community and government.
+This report evidences the opportunity to work with shared vision, clear and consistent messaging, and a determination to align the effort and resources necessary to develop a workforce with skills fit for future manufacturing needs. Achieving this with drive and co-ordination requires visible leadership, mutual commitment to the common purpose and collaborative endeavour. A Senior Leadership Group drawn from Industry and Government should be put in place with the remit to identify, encourage and sponsor activities and investments that align with longer term, forward looking view of the skills needs of the UK manufacturing workforce as set out in the Skills Value Chain.
+52 Manufacturing the future workforce
+[Page #52]
+At a technical and practical level, leadership with the authority to convene shared manufacturing interests must be acknowledged and encouraged. Identifying the changing requirements in future workforce capability should be an intrinsic and on-going requirement of CoIs’ activities. This will generate the lead-time needed to build a workforce capable of exploiting the economic potential of the innovation as it moves into industry. This report recommends that CoIs work in their specialist technology areas with industry and academic partners to meet local demands by diffusing knowledge of emerging technologies to the point of application. This will increase local education and training provider responsiveness to industry needs, connecting businesses with national authorities and increase overall system effectiveness resulting from collaborative development and sharing of ‘blueprinted’ solutions.
+In conclusion, the proposal of a Skills Value Chain implicitly offers an efficient and deliverable response to the challenge of acknowledged and potentially economically damaging shortages of current and future workforce skills. Study visits have also illustrated how the proposed approach will contribute to growing competitiveness of UK manufacturing supply chains and will anchor the benefits of investment in innovation in the UK economy. These opportunities require the leadership described and the commitment of stakeholders from government, industry, and education and professional organisations.
+High Value Manufacturing Catapult | Gatsby 53
+[Page #53]
+Appendices and References
+54 Manufacturing the future workforce
+[Page #54]
+Appendix 6.1 Detail of Good Practice Examples
+Appendix 6.2 Study Partner Information – HVM Catapult, TWI, NPL, Gatsby
+Appendix 6.3 Schedule of organisations visited during the study
+The following documents are available to download from hvm.catapult.org.uk/mtfw
+• Detailed visit reports
+• Learning Factory paper
+High Value Manufacturing Catapult | Gatsby 55
+[Page #55]
+I. Good practice examples
+Areas of good practice and related comments were captured during study visits and review sessions. They are highlighted within each visit report (available to download) and summarised in this Appendix. These highlights have been collected using common themes to bring similar findings together from different visits.
+Aligning Future Skills with Manufacturing TechnologiesThe majority of German manufacturing companies are actively preparing for, or pursuing, the opportunities presented by industrial digitalisation (Industry 4.0). The nature of change brought about by industrial digitalisation is reported to be accelerating but is inconsistent and unpredictable. BiBB labour market research provides detailed understanding of changing skills supply and demand. A ‘Transformational Atlas’ is being developed to assist planning of changes to standards to reflect change and churn in jobs, roles and skills brought about by technology, digitalisation and de-carbonisation.
+Current German training regulations are deliberately broadly worded to provide scope for customisation in their application at a local level. While this provides the flexibility necessary to make short-term changes to delivery, a closer definition of digitalisation-driven changes is required to anticipate the pace of change of new skills for the workforce rather than to react after the event. Previously, college teaching followed companies’ needs in Germany, however implementation of industrial digitalisation may reverse this, requiring technical education to work ahead of industry for the subject matter of Industry 4.0 in reaction to this accelerating change.
+Adoption of industrial digitalisation will drive inter-disciplinary changes in Switzerland and will require continuous adaptation within roles, causing shorter training lifecycles and needing ‘plug and play’ modular solutions to meet ‘T-shaped’ skills profiles, combining well-founded, fundamental skills with deep specialisms that change over time.
+SkillsFuture Singapore has a role in the delivery of industrial strategy through planning and delivering skills programmes to meet future needs, many of these have a shared digital theme (this includes the ‘Future Series’ of modular courses described later). They work closely with innovation organisations such as SimTech to develop new content related to emerging technology.
+Programmes and Funding for Technical Training FacilitiesSince 2005, ITE has consolidated all public technical education provision on three sites, educating 22% of the national population cohort for pre-employment learning and a similar number for post-employment. Very significant investment is evident in ITE facilities, equipment and surroundings, which appear ‘university’ standard. Measures of ITE brand
+56 Manufacturing the future workforce
+[Page #56]
+equity have risen to 72% in 2016 from base levels in 1992 of 35%. This investment is now continuing in pedagogical approaches and new courses to introduce digitalisation to smaller companies through learner activities.
+The Irish National Institute for Bioprocessing Research and Training (NIBRT) encourages and supports inward investment by high technology and high value industries, with a pipeline of skills generated in the new centre.
+NIBRT focuses on the needs of biopharmaceutical industries, where new drug products are based on molecular biology (‘big molecules’). Original investment was a response to demand in 2003 for training a workforce of some 2,000 to justify a significant inward investment. Since when €10 billion in ten years has now been invested in Irish biopharma businesses, with recognition that NIBRT has been a key enabler.
+Significant federal, state and local investment in inter company vocational training centres supports the development of both conventional advanced skills and, in a separate programme, industrial digitalisation. These centres often provide a workplace context to meet the requirements of the regulated training standards in smaller specialist companies where they would not otherwise be available. The centres are seen as beacons that increase quality and meet socio-economic requirements to help the workforce adjust to advanced technologies with up-to-date and customer-oriented education service contracts.
+Standards Aligned with Current and Future ManufacturingIn periodic reviews of regulated standards BiBB reflect technological innovation, digitalisation and globalisation of supply chains and life cycle services. Although changes to skills are inevitable, future skills needs are built on today’s practices, so changes are evolutionary and not simply a wholesale replacement of current standards and provision. Revisions to standards include changes to pedagogical requirements for teachers in companies and colleges and instigating processes to support the introduction of new curriculums in practice.
+Short-term changes to regulated standards using modular ‘top-up’ qualifications are preferred. These rapidly route new digital subjects to learners, prior to longer-term, formal standards reviews, reflecting the perceived urgency of changing skills needs. There is acknowledgement of the need for a modular, interoperable, building block approach for these programmes to increase education and training provider responsiveness. The Chambers, as employer representatives, are also interested in more modular learning and recognition to cope with the pace of change. However, varying timescales within the review and update processes of standards complicate this operationally.
+High Value Manufacturing Catapult | Gatsby 57
+[Page #57]
+An optional Interdisciplinary Apprenticeship for Industry 4.0 programme has been developed by the German Chambers of Commerce and Industry and is aimed at second and third year apprentices as additional learning in industrial and technical areas. It is intended to create acceptance for digital technologies at an early stage, as well as providing young people with specialist skills to meet the needs of Industry 4.0, they learn to recognise the potential of networked systems in their own company and to participate in the conception, implementation and selection of suitable methods and technologies.
+The twin workforce development needs of skills for today and an ability to continue learning in the future, reinforces the need to consider a modular training approach that can provide flexibility to meet changing demands as they occur. This reflects the increasing pace of change and seeks to avoid the creation of numerous new professions in response to changing job roles. As a trade association, Swissmem advocates more problem-solving training related to current technologies rather than creating future technology programmes that may not be related to industry’s short- to mid-term needs.
+In the USA it is recognised that businesses will continue to need ‘manufacturing fundamentals’ as the basics of Industry 2.0 and 3.0 – machining, maintenance, welding, emerging need for metrology, automation – before progressing to Industry 4.0 skills with greater levels of connectivity, intelligence and integration.
+Upskilling Needs of the Incumbent WorkforceUS machine tool and manufacturing systems suppliers play an important role in the development of new skills to secure their future sales opportunities, which was illustrated by America Makes’ high proportion of workforce development projects.
+Recent legislation and funding changes provide upskilling opportunities for those in work at all levels to pre-empt future job losses resulting from digitalisation and to re-direct skills across the workforce. Further changes to lifelong learning and education policy and funding are now in process to address longer-term needs and the future role of training providers.
+The unions think it is necessary to have transferable recognition of employer-based learning and a modular accumulation of ‘credits’ to encourage individuals to invest in personal study time. This is reflected in current proposals for vocational awards to operate in parallel with academic and Meister recognition.
+58 Manufacturing the future workforce
+[Page #58]
+SkillsFuture Singapore (SSG)28 is actively and rapidly driving future technology content into approved and funded short courses as the ‘SkillsFuture Series’. Approved modules are shared for both pre- and post-employment learners, based on standards set at modular and programme levels. Industrial digitalisation learning is not separated from existing programmes but added as electives to qualifications and courses, or as shorter, modular upskilling offers. This results in evolution at a pace that leads industry take-up and stimulates innovation in education and training delivery.
+Polytechnics in Singapore have a dual role: they enable 45% of the population to pursue qualifications at diploma level that lead to associate professional and professional employment; and they provide a bridge for students wishing to continue to higher awards. Government is reacting to a reducing birth rate by pre-empting a skills shortfall and pressurising polytechnics (and universities) to provide more modular upskilling offers and to move delivery to online learning platforms.
+Swiss industry relies on the quality of publicly funded underpinning initial education and training to enable the continued lifelong learning of their workforce to meet future skills demands. It is worth noting that 10% of Swiss apprentices are adult learners taking advantage of alternative pathways to achieve the same qualification as young people.
+Changing Skills Delivery Methods, Including ‘Learning Factories’Several versions of Learning Factories were seen at DMDII in Chicago, including cybersecurity applications in manufacturing and manual assembly processes equipped with many sensors to gather performance data. All are used for awareness raising, communicating industrial digitalisation issues and developing appropriate knowledge, skills and behaviours.
+The German Federal Mittlestand Digital initiative provides fully equipped mobile facilities (trucks) for Industry 4.0 awareness raising and initial training with smaller companies. This is fully booked on a national basis.
+By 2019 there will be 20 ‘Smart Factories’ implementing Industry 4.0 in Vocational Schools in Baden-Württemberg and this number will grow to 41 installations (from a total number of 72 vocational schools) by 2020. This will bring total state spend to €20 million, which will have been matched by local funds. Although each Smart Factory is tailored to meet local needs with input from local companies, it must comply with a number of standardised common learning scenario requirements if it is to receive funding: flexible production systems; lot size of one (product customisation); ERP and MES systems; use of cyber/physical modules and factory; intelligent sensors; and Big Data.
+28 www.skillsfuture.sg/series
+High Value Manufacturing Catapult | Gatsby 59
+[Page #59]
+Fraunhofer IPA’s Future Work Lab includes competence and pedagogy specialisms relating to the use of Learning Factories and supports unions and Chambers to develop their understanding of potential Industry 4.0 applications.
+Learning Factory installations at ARTC and SimTech provide varying degrees of facsimile and scale for a range of educational and industrial use, including supply chain and manufacturing simulations. The SimTech system is available to schools on designated days and is used as an awareness raising platform for smaller companies.
+ITE, the technical training college, was commissioning an Industry 4.0 manufacturing learning installation for use with technician learners who would return to smaller companies with an understanding of industrial digitalisation fundamentals appropriate to their business. Singapore Polytechnic had also developed process industry Learning Factories employing simulation and related digital tools.
+A view from Switzerland was that blended learning offers with suitable low-cost augmented reality (AR) and virtual reality (VR) tools should be better used, partly as a response to geographical challenges. Online modules are seen to increase overall teaching quality as a result of shared investment at the outset in the original content and then its subsequent upkeep and updating. A further feature was the use of digital educational technologies to support ‘meta-learning’ (learning to learn), remote delivery and the use of social platforms. Availability of up-to-the minute case-study material from industry encourages Swiss trainers to adopt latest technology subjects into their delivery programmes and is popular with teachers.
+Vocational learning programmes in Singapore often include ‘internships’ of a similar duration to the formal training period. There are some challenges around process and control of in-company work that is not formalised as ‘work-based learning’ but is included in awards. Assignments for SMEs are based on business challenges used as problem-based learning, which provide value beyond any financial training subsidy to an SME and at the same time create educational value for the learner and a route to employment in most cases.
+Several US universities discussed the extension of ‘co-op’ course structures (similar to ‘sandwich’ courses) to raise the value of ‘work and learn’ elements during the programme. This included significant elements of problem-based learning built on the industrial needs of the local economy and in some cases was channelled through a final-year consulting business that was able to align business needs with maturing student talent.
+60 Manufacturing the future workforce
+[Page #60]
+Investment in Vocational Teachers and FacilitiesIndustry 4.0 education places significant demands on teaching staff, who need to receive additional training and support from the state education system and from industry to develop new skills and knowledge. A Master Trainer approach has been important in supporting the roll-out of digital subjects. The established use of common training scenarios across disciplines and colleges helps to standardise teacher training and to assist collaboration in the development of a new syllabus.
+There are some 80,000 new Swiss apprentices per year. Annually, 1,600 vocational teachers are in initial training, 5,800 complete CPD courses and 7,900 train as examiners with programmes directly delivered by SFIVET departments. Teachers being trained for the dual system require industry experience prior to their two-year, part-time courses carried out with a sponsoring vocational school to provide practice. As new standards are approved and implemented, teachers are trained and supported in the new subjects and content by SFIVET.
+Lorain County Community College (LCCC) demonstrates integration of education and training with innovation and knowledge transfer activities aligned to local industries. In addition to skills, investment from multiple sources (including philanthropy), is channelled through the College into the local economy for a wide range of business support needs, including access to venture capital. County residents continue to approve a discretionary tax specifically to support college activities, so that it contributes directly to the local economy through its local activities.
+Accelerated Access to Emerging TechnologiesThe three Manufacturing USA institutes that were visited have a high ratio of workforce to technology activities. Technology projects increasingly include workforce thinking to deliver a ‘one-stop-shop’ for members as they take up new technologies. The institutes are recognised as having the authority to exercise leadership and to convene their members’ strategic workforce interests to influence activities ranging from school programmes to research-related learning.
+A significant number of not-for-profit and ancillary business members widen the impact of Manufacturing USA networks beyond technology outputs into workforce development activities. A consequence of technology projects being undertaken by members is that new skills related to the technologies may initially be developed directly in industry.
+High Value Manufacturing Catapult | Gatsby 61
+[Page #61]
+While it does not have direct authority over industrial strategy, NIBRT convenes an Irish biopharma academic network that is seen by the government as a mechanism to increase collaboration and reduce the risk of duplication. There is a low level of ongoing crossover of resources between research and training activities in the centre, however co-location is said to be important. A considerable period of funding support for training operations has been necessary to support the centre’s viability and to deliver wider economic benefits.
+SimTech researchers are directly responsible for the impact of their projects in SMEs, building case studies and training industry staff to ensure rapid and effective knowledge transfer and access to training funding where possible. In addition, T-Up (the temporary transfer of researchers, not the same as a UK KTP model which has academic outcomes) provides short-term skills to smaller businesses and continued access to expert support. High levels of outgoing recruitment are also promoted and welcomed.
+The S-CAT Foundation in Stuttgart is a single point of engagement for various integrated local innovation and education services able to meet needs through suitable combinations of organisations and engagement channels. The Produktionsakademie is a knowledge transfer organisation that offers seminars, short courses and qualifications based on research outcomes. There are also significant practical doctoral education programmes in S-CAT (WMG at Warwick University is similar).
+Fraunhofers in general experience at least 10% annual churn of staff, which constitutes a major knowledge and skills transfer mechanism to industry and academia. The Fraunhofer Academy was the first commercial business unit run from Fraunhofer Headquarters and provides a different approach to knowledge transfer from conventional university channels. It is anticipated to continue organic growth and to provide leadership for emerging technology training from the smaller Fraunhofer Institutes.
+ETH Zurich are developing short programmes (2–6 months), using ‘sabbaticals’ for industry personnel, that combine taught and problem-solving elements (i.e. mini-EngD at master’s level). This has proved challenging for academically focused departments and hence has had a slow ramp-up.
+Lightweight Innovations for Tomorrow (LIFT) have pioneered work with the national Association of Public and Land Grant Universities and Colleges (APLU) and the National Center for Manufacturing Sciences (NCMS) to deploy academics as ‘Expert Educators’. The Expert Educator Team is selected from community college and state university staff, based on reputation and anticipated local needs for education in the emerging technologies. Their role is to interpret future technology needs into a curriculum that can be incorporated into existing academic offers.
+62 Manufacturing the future workforce
+[Page #62]
+‘Thinking and Doing Competency Maps’ provide guidance regarding the depth of knowledge, skills and behaviours required to prepare students to work with emerging technologies.
+Workforce and Skills ForecastingLed and convened by SimTech, roadmapping processes (originating from IfM) are used to develop a high level of planning detail. The shared ownership of delivery plans responds to the need for technology, supply chain and workforce actions to achieve economic objectives. Working at all readiness levels, there is a focus on pre-competitive ‘white space’ for shared overall supply chain benefit. Engaging directly with companies generally identifies needs for improved manufacturing and business skills as a precursor to any new technology take-up. Workforce planning takes a demand-side approach founded on clarity of future strategies – industrial, social and economic.
+DMDII’s work with the Manpower Group on digital taxonomy and implications for future jobs and skills, foresights constant change and a demand for flexible thinking for future workforce development where talent is a renewable resource, subject to hindrance from rigid HR systems. Ill defined, long-held jobs which are now becoming vacant highlight the change necessary in both recruitment and development processes to satisfy future skills requirements.
+This project was driven by the needs of Manpower Group as a recruitment business to grow their understanding of the future skills landscape and to take into account the changes likely to result from industrial digitalisation. Full and comprehensive details are available to download and should be explored by those looking at the future skills needs of manufacturing in the UK29.
+Co-operation with Education and Training ProvidersManufacturing USA institutes have collaborated to develop ‘Ignite’, a high school offer to support the existing manufacturing curriculum that involves America Makes, DMDII and LIFT. Its engaging and forward-looking content can be supplemented by time spent in dedicated learning laboratories in the institutes. The curriculum extends beyond core institute technologies and provides underpinning learning for future advanced manufacturing.
+SIMTech’s remit is to deliver end to end projects with knowledge transfer and training as an explicit outcome. Courses are built on the technologies developed and, where necessary, are de-sensitised to comply with IP requirements. SIMTech courses are industrially focused and delivered, leading to a diploma accredited by SkillsFuture or Workforce Singapore. These are not directly associated with academic awards but do attract funding at varied levels, with a strong SME bias.
+29 DMDII, now MxD. https://www.uilabs.org/innovation-platforms/manufacturing/taxonomy/
+High Value Manufacturing Catapult | Gatsby 63
+[Page #63]
+America Makes has a convening role for the new technology to develop strategies and to carry out roadmapping processes but has relatively small-scale resources, hence much activity, including workforce development, is carried out by members. Of its overall budget, 40% is directed at workforce activities within technology-focused projects to ensure skills are considered early on in developments or are undertaken as separate workforce projects.
+America Makes (Additive Manufacturing) uses a ‘Swimlanes’ model to sequence and deliver knowledge and awareness, competency and skills, industry experience, individual advancement, scaling and diffusion.
+DMDII’s online ‘DMD 101’ has had 50,000 MOOC students over 18 months, with each paying a small fee to access the online content. LIFT work in partnership with Amatrol for online learning content and use Granta (UK) resources for materials training. America Makes has created ‘AMBOK’ (Additive Manufacture Body of Knowledge) and ‘ACADEMI’, a suite of additive manufacture training courses available to members only.
+64 Manufacturing the future workforce
+[Page #64]
+II. Study Partners
+The High Value Manufacturing (HVM) CatapultThe HVM Catapult brings together seven centres of industrial innovation to connect the UK’s world-leading research community with businesses of all sizes seeking the benefits of manufacturing innovation to deliver results. The HVM Catapult provides access to the specialist equipment and expertise that firms need to help investigate new manufacturing technologies and processes and to test their application as they introduce new products and processes and sharpen their productivity. This helps them to reduce the risks of innovation and to increase opportunities to go on to deliver successfully on a commercial scale.
+As with other UK Catapults, the HVM Catapult is funded on the ‘thirds model’, where income is generated equally from industry, government and collaborative projects. Work is undertaken on a wide range of leading edge and emerging technologies to meet the needs of all the UK’s advanced manufacturing sectors.
+AFRC
+CPI
+AMRC
+Nuclear AMRC
+MTC
+WMG
+NCC
+High Value Manufacturing Catapult | Gatsby 65
+[Page #65]
+NPLNPL is the UK’s National Measurement Institute (NMI), developing and maintaining the national primary measurement standards. NPL is part of the National Measurement System (NMS) which provides the UK with a national measurement infrastructure and delivers the UK Measurement Strategy on behalf of the Department of Business, Energy and Industrial Strategy (BEIS). NPL undertakes science and engineering to deliver impact for the UK and provide the measurement capability that underpins the UK’s prosperity and quality of life.
+NPL sets the standard for measurement training in the UK, offering a range of class-based and e-Learning courses designed to help learners gain maximum value from their measurement systems. NPL has developed 37 measurement courses covering a wide range of topics, from dimensional metrology to time dissemination and synchronisation for systems engineers in digital manufacturing. Over 14,000 learners have registered onto NPL courses since the courses were first developed 13 years ago. Three years ago, NPL launched a curriculum to support the Trailblazer Level 3 and 5 Metrology Technician Apprenticeship Standard.
+TWITWI is a world-leading, independent, not for profit research and technology organisation focusing on materials, joining and structural integrity. Established in 1946, it is headquartered in Cambridge, with offices globally. It supports over 800 member companies, operating in over 4,500 international locations. TWI provides R&D for industry and carries out underpinning research for the wider sector. It also houses the National Structural Integrity Research Centre, a doctoral training centre in collaboration with over 20 universities and nine university innovation centres.
+TWI is one of the largest providers of welding technology and inspection-related training, with a global training network. It also has representatives on more than 60 international, American and European committees and over 50 British Standard drafting groups.
+66 Manufacturing the future workforce
+[Page #66]
+III. Study VISITs
+Country
+Organisation
+Category
+NIBRT, Dublin
+CofI
+Ireland
+Rolls-Royce Aerospace Crescent
+Industry
+Singapore
+A*STAR Connexis, I Fusionopolis
+CofI
+ARTC Cleantech Two
+CofI
+High Commission, 100 Tanglin Road
+Other
+SIMTech Kinesis, 4 Fusionopolis
+CofI
+PECOI Innovis, 2 Fusionopolis
+CofI
+Institute of Technical Education, 2 Ang Mo Kio Drive
+Education
+Singapore Polytechnic, 500 Dover Road
+Education
+APLU – Lift Conference
+Education
+USA
+Manufacturing USA
+Gov't
+DMDII Manufacturing USA Institute (DOD), Chicago IL
+CofI
+Harper Community College, Palatine IL
+Education
+LIFT Manufacturing USA Institute (DOD), Detroit MI
+CofI
+SME Prof. Society for Manufacturing Engineers, Southfield MI
+Other
+Lorain County Community College, Elyria OH
+Education
+America Makes Manufacturing USA Institute, Youngstown, OH
+CofI
+Manufacturing USA Workforce Leads Meeting, Youngstown
+Gov't
+Community College of Allegheny County, Oakdale PA
+Education
+Office of Workforce Investment, Department of Labor, Washington
+Gov't
+Jobs for the Future, Washington DC
+Other
+Manufacturing USA Programme Leads Pentagon, Washington DC
+Gov't
+Office of Management and Budget Executive Office, White House
+Gov't
+IG Metall Manufacturing Union, Berlin
+Other
+Germany
+BIBB Federal Government Vocational Training Department, Bonn
+Gov't
+DigitalHub Local Co-operative to promote Start-ups, Bonn
+Other
+Bavarian Ministry of Economy, Reg. Development & Energy, Munich
+Gov't
+Fraunhofer Academy, Munich
+CofI
+MittelstandsCampus, Bayern
+Industry
+JOSEPHS Living Laboratory, Fraunhofer SCS and FAU Nuremberg
+CofI
+Fraunhofer IPA/Produktionsakademie, Stuttgart
+CofI
+Gewerbliche Schule, Göppingen
+Education
+Festo Didactic, Stuttgart
+Education
+Switzerland Swiss Smart Factory, Local innovation centre for I4.0, Bielle
+CofI
+SFIVET, Swiss Federal Institute for Voc Ed and Training, Zollikofen
+Gov't
+SERI, State Secretariat for Education, Research and Innovation, Bern
+Gov't
+ETH, Competence Center for Materials and Processes (MaP), Zurich
+Education
+Inspire AG, Joint innovation centre, ETHZ and Swissmem, Zurich
+CofI
+High Value Manufacturing Catapult | Gatsby 67
+[Page #67]
+Government (Policy/Strategy)
+Centre of Innovation
+Education and Training
+Other, including industry
+Total
+Ireland
+Singapore
+USA
+Germany
+Switzerland
+TOTAL
+68 Manufacturing the future workforce
+[Page #68]
+High Value Manufacturing Catapult | Gatsby 69
+[Page #69]
+About the High value manufacturing Catapult
+About the Gatsby foundation
+The High Value Manufacturing Catapult creates the conditions for economic growth by enabling UK manufacturers to achieve significant improvements in their performance and productivity. We do this by providing open access to world-class innovation capability and technical expertise, enabling companies to embrace different ways of working, adopt new technologies and achieve step-change in their performance.
+Gatsby is a foundation set up by David Sainsbury to realise his charitable objectives. We focus our support on a limited number of areas: plant science research; neuroscience research; science and engineering education; economic development in Africa; public policy research and advice; the Arts.
+To read more about its work in Education, please visit: www.gatsby.org.uk/education
+To find out more about the High Value Manufacturing Catapult, please visit: hvm.catapult.org.uk
+The Gatsby Charitable Foundation The Peak 5 Wilton Road London SW1V 1AP
+High Value Manufacturing Catapult Regus Building Blythe Valley Business Park Solihull B90 8AG
+Registered Charity No. 251988
+If you have any questions about this report, please contact the authors via email: info@hvm.catapult.org.uk
+In partnership with

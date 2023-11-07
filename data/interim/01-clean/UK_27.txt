@@ -1,0 +1,872 @@
+[Page #0]
+Industrial BiotechnologyLeadership Forum
+Enabling Technologies for a Sustainable Circular Bioeconomy: A National Industrial Biotechnology Strategy to 2030
+[Page #1]
+Contents
+4Acronyms
+5Foreward
+6Executive Summary
+81. Significance of Industiral Biotechnology to the UK
+142. Industrial Biotechnology and the UK Industrial Strategy
+193. Scope of a National Industrial Biotechnology Strategy
+294. The Need for a National Industrial Biotechnology Strategy
+415. A National Industrial Biotechnology Strategy to 2030
+54References
+55About the Authors
+[Page #2]
+Foreward
+Acronyms
+“”
+Industrial Biotechnology (IB) offers huge potential for the UK, providing jobs and economic growth across a wide range of market and industry sectors. IB can mitigate climate change through the development of greener, cleaner manufacturing processes, as well as offering opportunities for waste utilisation and new products that benefit society which cannot be made any other way.
+KTP Knowledge Transfer Partnership
+BBIA Bio-based and Biodegradable Industry Association
+CRISPR Clustered Regularly Interspaced Short Palindromic Repeats
+NIBB Networks in Industrial Biotechnology and Bioenergy
+BBSRC Biotechnology and Biological Sciences Research Council
+DIT Department for International Trade
+RRI Responsible Research and Innovation
+BDC Biorenewables Development Centre
+EPSRC The Engineering and Physical Sciences Research Council
+RTO Non-profit Research and Technology Organisations
+BEACON BEACON Biorefining Centre of Excellence
+ERGF Exceptional Regional Growth Fund
+SDG Sustainable Development Goals
+BEIS Department for Business, Energy and Industrial Strategy
+GMDI Genetically Modified Derived Ingredient
+Steve Bagshaw
+SMEs Small to medium size enterprises
+BIA BioIndustry Association
+GVA Gross Value Added
+Chair, Industrial Biotechnology Leadership Forum
+BIOCATNET Network in biocatalyst discovery, development and scale up
+SynbiCITE UK Synthetic Biology Industry and Engineering Biology Industrial Accelerator
+IB Industrial Biotechnology
+IB Catalyst Industrial Biotechnology Catalyst
+BioPilots The Alliance of Open Access Biorefining Centres
+Our exploitation of the planet’s resources has and continues to fuel economic growth and, overall, a general improvement in the human condition. However, these activities bring responsibilities, which perhaps have been neglected, or ignored, until relatively recently. The Earth’s resources are finite; its ability to buffer rapid perturbations in the cycling of elements, such as carbon, is being tested to the limit; and so to continue to improve the quality of life for all, a more sustainable economy that is less reliant on petrochemicals is essential.
+not happen spontaneously. We need supportive long-term government policies, investments to nurture academic-industrial partnerships and rapid commercialisation, enhanced access to pilot facilities for SMEs, and simplified but rigorous regulatory frameworks, to make the UK a world leader. We cannot afford to be left behind.
+TRL Technology Readiness Level
+IBioIC Industrial Biotechnology Innovation Centre
+UKRI UK Research and Innovation
+BioProNET Network in Bioprocessing
+USDA The U.S. Department of Agriculture
+CAGR Compound Annual Growth Rate
+IBLF Industrial Biotechnology Leadership Forum
+This document describes the vision of the UK IB community, driven by the IBLF, in harnessing the world-class science we have in the UK in order to enable IB to become a mainstream part of UK industry. By leveraging the assets and capability already in place, this will ensure that the UK maintains and extends its position to become a world leader in IB and its effective adoption by wealth creating industries. The IBLF has set out what we think is necessary to achieve this vision in the coming years and we see this as a vital first step in realising the contribution of IB to the fulfilment of the Bioeconomy Strategy.
+CBMNet The Crossing Biological Membranes Network
+IKC Innovation and Knowledge Centre
+The great promise of IB is that it offers a realistic opportunity to make a major contribution to creating a sustainable circular economy, where waste is closer to zero. It is imperative that the UK leads in leveraging the breadth of possibilities IB offers, not just for the future well-being of the UK population, but for the future of the planet and all its inhabitants. IB can be the highway to a sustainable chemicals industry based on world-class scientific discoveries, but this will
+CIA Chemical Industry Association
+IUK Innovate UK
+CPI Centre for Process Innovation
+KTN Knowledge Transfer Network
+[Page #3]
+Executive Summary
+The directors and network managers of two NIBB (BIOCATNET and CBMNet) have worked with the Industrial Biotechnology Leadership Forum (IBLF) to set out a vision for the future of IB in the UK. This document, Growing the UK Industrial Technology Base: A National Industrial Biotechnology Strategy to 2030, takes the evidence-based recommendations of the Developing a Strategy for Industrial Biotechnology and Bioenergy in the UK report and sets out a vision of the UK IB community that harnesses world-class UK science and engineering to enable IB to become a mainstream part of UK industry. The goal is to maximise the value of existing assets and capabilities to ensure that the UK becomes a world leader in IB and that IB approaches are widely adopted by wealth creating industries.
+Background
+The need for a National Industrial Biotechnology Strategy
+Key elements of National Industrial Biotechnology Strategy to 2030
+In October 2017, four Networks in Industrial Biotechnology and Bioenergy (NIBB) published Developing a Strategy for Industrial Biotechnology and Bioenergy in the UK. Industrial biotechnology is the use of biological resources for producing and processing materials, chemicals and energy. It is an enabling technology that will underpin the new manufacturing processes that are essential for delivering the Clean Growth element of the Industrial Strategy. The report considered: (i) recent government, academic and industry analyses of the state of UK industrial biotechnology; (ii) the current UK IB landscape; (iii) IB investment and commercialisation; (iv) how UK IB activity compares with competitor countries; and (v) short- and long-term recommendations to support IB and help UK global competitiveness. In order to keep pace with international competition, UK policymakers need to demonstrate foresight to develop a long-term strategic plan that places trust in UK industrial and academic expertise to grow the IB sector.
+A National Industrial Biotechnology Strategy is required to ensure that the UK harnesses the potential of its excellent IB research base and maintains its competitive edge when other countries are realising and exploiting the disruptive potential of IB. The recent Developing a Strategy for Industrial Biotechnology and Bioenergy in the UK report concluded that the UK IB sector has some strong assets, but is in danger of falling behind the best in the world. The National Industrial Biotechnology Strategy will ensure continuity of research priorities, funding and investment, informed by the needs of industry and playing to the natural strengths of the UK to realise increased productivity. Uptake of industrial biotechnology technologies and processes will have far-reaching positive impact on the UK economy and society, realised through the creation of jobs in high technology industries delivering better, safer and cleaner products across a range of sectors.
+The key elements of the proposed strategy and the long-term goals are:
+– External environment (led by the KTN):
+Consensus on a long-term policy landscape to support UK IB
+– Access to funding and finance (led by
+BBSRC): Supportive financial environment that recognises the potential of IB for driving growth and innovation
+– Infrastructure and regional footprint (led by BioPilots UK): IB is a major contributor to clean economic growth across all of the UK
+– Trade, inward investment and
+commercialisation (led by DIT): The UK is an international IB innovation and commercialisation hub
+Industrial Biotechnology and the UK Industrial Strategy
+Industrial biotechnology in the UK demonstrates strength in four of the five foundations of the government’s Industrial Strategy: Ideas, the UK is a world leader in bioscience research; People, employment growth in IB has outpaced national averages by increasing by more than 10% per year (2014-2016) and annual median earnings are ~£20,000 above the national average; Infrastructure, centres such as CPI, BDC, BEACON, and IBioIC, consolidated through the BioPilots UK alliance, provide a solid IB infrastructure base; Places, there are notable IB regional clusters, but business activity is dispersed across the UK, highlighting the need for coordinated regional and national strategies. The fifth foundation, Business Environment, presents a challenge. Often IB commercialisation is regarded as ‘high-risk, low probability’ and there are other sector specific challenges to translate world-class research into new business opportunities.
+– Regulation and standards (led by IBLF): UK frameworks are recognised as robust and support risk aware innovation
+The scope of a National Industrial Biotechnology Strategy
+– Skills (led by IBLF): IB sector is recognised
+as an attractive career option
+To realise the potential benefits of IB in providing new methods for manufacturing chemicals, consumer products, and liquid and gaseous fuels, whilst reducing greenhouse gas emissions and making effective use of household and agricultural waste, a clear and coherent National Industrial Biotechnology Strategy is needed. A coordinated approach involving government, industry, academia, investors and civil society is essential to enable the benefits of IB in the context of the Industrial Strategy and Clean Growth Strategy to be delivered.
+The UK has strengths in high growth and emerging industrial biotechnology markets, exploiting the academic expertise in genomic, systems and synthetic biology in partnership with SMEs and multi-national companies. UK IB has a presence in all of the elements required to formulate a coherent national strategy for the IB sector: (i) creating high-skill, high-reward jobs; (ii) reducing greenhouse gases; (iii) utilising waste and reducing reliance on fossil fuels; (iv) growing the agri-food sector; (v) improving medicine manufacturing; (vi) future proofing the UK chemicals industry; (vii) creating new materials and fuels. Supporting and expanding these areas will be crucial to deliver the UK government’s Bioeconomy and Clean Growth Strategies.
+– Communications (led by IBLF): One IB
+community voice, with consistent clear messages, where wider society is well-informed and supportive of responsible research and innovation in IB
+This vision for UK IB is one that transcends politics, where finance is available for business growth and innovation, driven by regional infrastructure. The goal is for the UK to be internationally recognised as a major player in the IB value chain, with a robust, easily navigated regulatory framework.
+[Page #4]
+“”A strong industrial biotechnology sector is essential to
+build a sustainable and inclusive economy that serves the whole population of the UK.
+Significance of Industrial Biotechnology for the UK
+The global economy faces many societal challenges, including dealing with climate change, a burgeoning population to feed and keep healthy and an unsustainable dependence on non-renewable resources. Manufacturing of most chemicals, energy, materials and consumer products today demands ever-increasing supplies of oil and natural gas, coal and rare metals and other elements. These are extracted from the ground through intensive efforts, damaging the environment not only at the point of recovery, but also throughout their often-hazardous transport to large chemical production hubs. The environmental impact of traditional manufacturing processes extends beyond the use of these non-renewable feedstocks, through high energy demanding processes, greenhouse gas emissions and production of potentially hazardous and polluting side streams and waste. At the end of their useful life, many of the products of such processes present additional challenges of poor recyclability, damaging persistence in nature and high toxicity and although they have undoubted specific highly desirable functionality, many products have a poor reputation with end consumers. These are challenges, which must be addressed immediately and the transition to using low carbon, sustainable technologies that support future economic growth, but with greatly reduced environmental impact, is one way of mitigating these challenges.
+scarcity and environmental damage, resulting from unsustainable exploitation of ever more scarce natural resources. IB can deliver clean processes, which operate at lower pressures and temperatures, with less need for energy intensive and expensive heating, cooling and pressure, using relatively benign reaction conditions that reduce the use of expensive rare metals and other environmentally damaging reagents. A strong IB sector is essential to build a sustainable and inclusive economy that serves the whole population of the UK.
+Industrial biotechnology is a critical enabling technology to address major societal challenges through novel methods of manufacturing consumer products, whilst simultaneously reducing greenhouse gas emissions and making effective use of agricultural, food and municipal wastes. IB will underpin future manufacturing of existing products using cleaner processes, but also makes possible new materials, such as bio-derived industrial composites and biodegradable plastics, and sustainable energy in the form of liquid and gaseous biofuels (Table 1, Figure 1), as well as products not yet imagined.
+The McKinsey report1 indicated a four-fold increase in white biotechnology global sales between 2008 and 2020, an increase from approximately €110 billion to €450 billion. The proportion of chemicals produced by biotechnology is expected to increase significantly within a generation, with biotechnology products expected to dominate the speciality chemicals sector by 2030. IB success is to date dominated globally by countries and regions with established bioeconomy and IB strategies, which are already reaping the benefits of bio-based products and processes.
+Industrial biotechnology is underpinned by innovative technologies in biology, chemistry, and engineering to harness biological resources for producing and processing materials, chemicals and energy. IB delivers new production and processing technologies, utilising renewable bio-based sources, which will contribute to overcoming global challenges, such as food security, resource
+[Page #5]
+“”
+1 Significance of Industrial Biotechnology for the UK
+The UK is at the forefront of this growing sectorand it is well-placed to do so, but an integratedstrategy for the sector is essential.
+Examples of products industrial biotechnology can produce:
+Industrial biotechnology is central to the bioeconomy, which is defined as any economic value derived from bio-based products and processes; contributing to sustainable and resource efficient solutions to the challenges we face today. IB can be deployed wherever bioeconomy activities are evident throughout the UK, including rural and coastal areas. IB has the potential to disrupt UK markets worth more than $34 billion (Figure 1). Growth in these established markets is either low, or negative and the maturity of these markets indicates that future growth is likely to remain low, with an average CAGR of just 0.2% to 2022.
+A government-industry-academic-financial-civil society alliance is required to realise the potential of UK IB (Table 2). This alliance will deliver a National Industrial Biotechnology Strategy to provide policy certainty, support for innovation and process scale-up, de-risking of early-stage investment in disruptive technologies and longer-term incentives to finance what is regarded as a high-risk sector and thereby contribute to delivering the Clean Growth Strategy.
+The biopharmaceuticals (biologics) sector is a prime example of established good practice in UK IB, with a record of academic-industrial collaboration supported by strong networking (e.g. BioProNET, a BBSRC NIBB), with national funding and infrastructure to support innovation (e.g. the High Value Manufacturing Catapult). These are examples of timely and powerful interventions that place the UK at the forefront of disruptive technology in a major global market. In 2016, seven of the top ten drugs by sales, and 11 of the top 20, were biopharmaceuticals5, unable to be manufactured via other routes, and the market for biopharmaceuticals and biosimilar is expected to grow at 8.5% CAGR from 2016-20246. The lessons of this sector can be applied more broadly to leapfrog into other emerging sectors where IB has the potential to revolutionise the way in which consumer products are developed and manufactured.
+Personal care products
+Transport fuels
+IB can transform these prospects; the UK has core strengths in potential high growth areas such as manufacturing high value chemicals and recombinant biologics. Public and private sector support have combined to allow businesses to build emerging markets and there are major opportunities to exploit UK expertise in synthetic biology to create new medicines, green chemicals and fuels. Global markets addressed by IB, including drop-ins and replacements, often promise higher CAGR: bio-surfactants 5.1% CAGR, 2017-20222; bio-plastics 28%, 2017-20233. There is significant evidence4 to show that investment in IB will grow the UK economy, driving the creation of jobs commanding significant wage premiums, whilst providing high technology solutions to the challenges of implementing the UK government’s Clean Growth Strategy. The soaring estimated value of the global IB market by the middle of the next decade makes it imperative that the UK is at the forefront of this growing sector and it is well-placed to do so, but an integrated strategy for the sector is essential.
+Biodegradable plastics
+Detergent enzymes
+In September 2015, the United Nations adopted a set of 17 Sustainable Development Goals7 (SDGs) to end poverty, protect the planet, and ensure prosperity for all. IB directly addresses at least six of these SDGs (Figure 2). At a national level there is significant evidence5 to show that investment in IB will help the UK economy and society, where growth of the sector will drive creation of jobs commanding significant wage premiums, whilst providing high technology solutions to the challenges of reducing waste and carbon emissions.
+New therapeutics
+Flavours and fragrances
+[Page #6]
+1 Significance of Industrial Biotechnology for the UK
+Table 1. Examples of the Industrial Biotechnology at work
+– Clean energy and transport fuels from waste and industrial by-products– Bio-based plastics and chemicals manufacturing that preserves the environment– Using microbes instead of chemical processes to create medicines and personal care products – Strong, lightweight materials for the automotive and aerospace industries– Using plants to manufacture vaccines to quickly tackle disease epidemics
+Figure 1. Markets that Industrial Biotechnology can disrupt
+M00221£
+M0064£
+M0041£
+M0051£
+M00,18£
+M0071£
+Case StudiesSolving Global ChallengesLucite International
+Case StudiesSolving Global Challenges Colorifix
+,
+,
+,
+,
+,
+Lucite International is the global leader in the design, development and manufacture of acrylic-based products. Its ultimate goal is to convert renewable feedstocks directly into its main products using completely new white biotechnology processes. To achieve this, it is addressing the many technological challenges in designing complex new biochemical routes using completely novel biochemistry. Most importantly for large-scale manufacture, the fermentation process must be able to deliver high concentrations of the product at acceptable output rates, which plays a major role in defining both the physical size of the plant (and hence resources) and the energy required to achieve a pure chemical product. Lucite International is particularly interested in the sustainable production of Methacrylate esters (MAEs). MAEs are at the heart of a multi-billion dollar industry, supplying a global demand of polymethyl methacrylate primarily using petrochemical sources. Green production of MAEs by fermentation of sugars and using engineered bacterial strains is influenced by the tolerance of the selected organisms to the build-up of the product to commercially viable concentrations. A key factor in the survival of industrial bacterial strains is membrane structure and stability in the presence of MAEs. Lucite has benefited from BBSRC NIBB funding and Innovate UK funding in its quest to improve the lifetime of cell factories and in engineering efficient transport of reactants and products.
+Textile dyeing consumes over 6 trillion litres of water per year. All dyes used in the industry, even natural dyes, require the use of harmful chemicals. These include organic solvents, acids and heavy metals used in their production and application. In many instances, wastewater from the dye industry is released directly into surface waters without treatment. Colorifix has developed a revolutionary dyeing process to help the textile industry dramatically reduce its environmental impact in a cost-effective manner using a synthetic biology based approach. Microorganisms are engineered to produce, deposit and fix the desired pigment colour. In this way, agricultural by-products are converted into pigments and dyed fabrics. As a result, Colorifix use ten times less water than traditional dyeing processes and does not use heavy metals, organic solvents or acids. Instead of using ubiquitous petrochemicals that are non-renewable and toxic, it uses microbiology, biofabrication, and the DNA from nature responsible for pigment production. Colorifix was the winner of the Rainbow Seed Fund “Breaking New Ground” Award in the Bio-start 2017 pitching competition, receiving funding which it planned to use to enable certification of its products.
+Market
+Industrial gas manufacturing
+Soap & detergent manfacturing
+Fertiliser & nitrogen compound
+Perfume & cosmetics manufacturing
+Primary form plastics / plastic parking goods manfacturing
+Organic basic chemical manufacturing
+Table 2. Industrial Biotechnology strategy consortium
+– Crossing Biological Membranes Network, a BBSCR NIBB (CBMNet)– Network in biocatalyst discovery, development and scale up (BIOCATNET)– Industrial Biotechnology Leadership Forum (IBLF)– Biotechnology and Biological Sciences Research Council (BBSRC)– Department for Business, Energy and Industrial Strategy (BEIS)– Department for International Trade (DIT)– Innovate UK (IUK)– Knowledge Transfer Network (KTN)– BioPilots UK
+Figure 2. The 6 sustainable development goals IB helps achieve
+Info: colorifix.com
+Info: luciteinternational.com
+[Page #7]
+“”
+Minimising waste; clean air; using resources from nature more sustainably and efficiently; mitigating and adapting to climate change; and managing exposure to chemicals.
+Industrial Biotechnology and the UK Industrial Strategy
+In 2017, the UK government launched the Industrial Strategy, setting out five foundations of productivity through which to address grand industrial challenges that will ensure the future prosperity of the country (Figure 3)8. Industrial biotechnology in the UK demonstrates strength in four of the five foundations: Ideas through an excellent research base, and People and Place through highly skilled and networked research organisations and companies distributed throughout the UK. Infrastructure is well developed, with significant capabilities in centres such as CPI, BDC, BEACON, and IBioIC consolidated through the BioPilots UK alliance. UK infrastructure is good therefore, but there is scope for further improvement by targeted expansion of capacity and capabilities to bridge recognised gaps, which also requires improved funding for access
+to demonstration and scale-up facilities. The fifth foundation, Business Environment, presents a challenge to development of the IB sector, but we now have an opportunity to change and shape that environment to ensure that world beating research translates into the benefits of new products and processes. This national strategy will play a large role in creating and connecting the UK IB community, and ultimately in driving IB uptake and acceptance.
+Alongside the Industrial Strategy, IB will also be essential to meet the targets of the 25-year environmental plan9 and Clean Growth Strategy4; in particular hitting targets of: minimising waste; clean air; using resources from nature more sustainably and efficiently; mitigating and adapting to climate change; and managing exposure to chemicals. Finally, IB is at the heart of the UK Bioeconomy Strategy, in terms of transforming the UK economy through the power of bioscience and biotechnology.
+Industrial Strategy White Paper
+Industrial Strategy White PaperOverview: We will create an economy that boosts productivity and earning power throughout the UK
+Our approach
+Key policies include:
+Ideas`` Raise total research and development (R&D) investment to 2.4 per cent of GDP by 2027
+Business Environment
+`` Launch and roll-out Sector Deals –
+Our consultation reinforced the importance of five foundations of productivity – the essential attributes of every successful economy.These are Ideas, People, Infrastructure, Business Environment and Places. Our focus on them responds to the detailed feedback to the Green Paper.
+We will:
+partnerships between government
+Our five foundations align to our vision for a transformed economy
+and industry aiming to increase sector
+`` support electric vehicles through £400m charging infrastructure investment and an extra £100m to `` Invest £725m in new Industrial Strategy extend the plug-in car grant;Challenge Fund programmes to capture the value of innovation
+Ideas
+productivity. The fi rst Sector Deals are
+`` Increase the rate of R&D tax credit to 12
+in life sciences, construction, artifi cial
+Ideas the world’s most innovative economy
+`` raise total research and development (R&D) investment to 2.4 per cent of GDP by 2027;
+per cent
+Through this process we have also identified Grand Challenges which we will set for the UK government and wider economy. These are in response to global forces that will shape our rapidly changing future, and which the UK must embrace to ensure we harness all the opportunities they present. The Grand Challenges commit to:
+intelligence and the automotive sector
+`` Drive over £20bn of investment
+in innovative and high potential
+`` boost our digital infrastructure with
+businesses, including through
+`` increase the rate of R&D tax credit to
+over £1bn of public investment, including £176m for 5G and £200m that rivals the best in the world to for local areas to encourage roll out of stand alongside our world-class higher full-fi bre networks;education system
+People`` Establish a technical education system
+People 12 per cent;good jobs and greater earning power for all
+establishing a new £2.5bn Investment
+Fund, incubated in the British Business
+Figure 3. The Industrial Strategy five foundations and four grand challenges
+Bank
+`` invest £725m in new Industrial
+Our five foundations align to our vision for a transformed economy – a transformation that is already taking place and will accelerate over the course of the coming decades:
+`` Launch a review of the actions that
+Strategy Challenge Fund programmes to capture the value of innovation;
+could be most effective in improving the
+Business Environment`` Invest an additional £406m in maths, digital and technical education, helping to address the shortage of science, technology, engineering and maths (STEM) skills
+productivity and growth of small and
+Infrastructure a major upgrade to the UK’s infrastructure
+medium-sized businesses, including how
+People
+foundations of `` put the UK at the forefront of the productivityartificial intelligence and data revolution;
+`` launch and roll-out Sector Deals – partnerships between government and industry aiming to increase sector productivity. The fi rst Sector Deals Scheme that supports people to re-skill, are in life sciences, construction, beginning with a £64m investment for artifi cial intelligence and the digital and construction trainingautomotive sector;
+to address what has been called the
+`` establish a technical education system
+‘long tail’ of lower productivity fi rms
+.
+that rivals the best in the world to stand alongside our world-class higher education system;
+Places
+`` Create a new National Retraining
+Our five foundations
+`` Agree Local Industrial Strategies that
+Business environment the best place to start and grow a business
+`` maximise the advantages
+build on local strengths and deliver on
+for UK industry of the global shift to clean growth;
+economic opportunities
+`` invest an additional £406m in maths,
+Ideasthe world’s most innovative economy
+`` Create a new Transforming Cities
+digital and technical education, helping to address the shortage of science, technology, engineering and maths (STEM) skills;
+Infrastructure`` Increase the National Productivity
+fund that will provide £1.7bn for intra-
+`` become a world leader in shaping
+`` drive over £20bn of investment in innovative and high potential businesses, including through establishing a new £2.5bn Investment Fund, incubated in the British Business Bank;
+Places prosperous communities across the UK
+city transport. This will fund projects
+the future of mobility; and
+Investment Fund to £31bn, supporting investments in transport, housing and digital infrastructure
+that drive productivity by improving
+Peoplegood jobs and greater earning power for all
+connections within city regions
+`` harness the power of innovation to help meet the needs of an ageing society.
+`` Provide £42m to pilot a Teacher
+`` create a new National Retraining Scheme that supports people to re-skill, beginning with a £64m investment for digital and construction training;
+`` Support electric vehicles through £400m charging infrastructure investment and an extra £100m to extend the plug-in car grant`` Boost our digital infrastructure
+Development Premium. This will test
+the impact of a £1000 budget for high-
+Infrastructurea major upgrade to the UK’s infrastructure
+quality professional development for
+We will set Grand Challenges to put the United Kingdom at the forefront of the industries of the future:
+Our foundations and Grand Challenges are set out in the sections that follow. This strategy also refers to a number of policies that will be added to over time to support the foundations and drive the UK’s transformation.
+teachers working in areas that have
+`` launch a review of the actions that
+fallen behind
+could be most effective in improving the productivity and growth of small and medium-sized businesses, including how to address what has been called the ‘long tail’ of lower productivity fi rms;
+with over £1bn of public investment, including £176m for 5G and £200m for local areas to encourage roll out of full-fi bre networks
+AI & Data EconomyWe will put the UK at the forefront of the artificial intelligence and data revolution
+Clean GrowthWe will maximise the advantages Infrastructurefor UK industry from the global shift to clean growth
+Business Environmentthe best place to start and grow a business
+`` increase the National Productivity
+Investment Fund to £31bn, supporting investments in transport, housing and digital infrastructure;
+We will ensure our Industrial Strategy will endure by creating an independent Industrial Strategy Council that will assess our progress and make recommendations to the government.
+Future of MobilityWe will become a world leader in the way people, goods and services move
+Ageing SocietyWe will harness the power of innovation to help meet the needs of an ageing society
+Placesprosperous communities across the UK
+ 11
+ 15
+[Page #8]
+Industrial Biotechnology and the UK Industrial Strategy
+“”Unlike in the past, industrial strategy must
+Industrial biotechnology and the bioeconomy
+Industrial biotechology is central to the bioeconomy, which is defined as any economic value derived from bio-based products and processes; contributing to sustainable and resource efficient solutions to the challenges we face today. IB can be deployed wherever bioeconomy activities are evident throughout the UK, including rural and coastal areas.
+be about creating the right conditions for new and growing enterprise to thrive, not protecting the position of incumbents. A modern British industrial strategy must make this country a fertile ground for new businesses and new industries which will challenge and in some cases, displace the companies and industries of today.
+Although there are great opportunities for IB in the UK, a coordinated approach is essential to provide the policy certainty, access to finance and knowledge exchange in a National Industrial Biotechnology Strategy. Business, academia, civil society and the government must work together to deliver on the Grand Challenges by integrating expertise, entrepreneurial spirit, and the policy landscape to maximise the chances of success. The National Industrial Biotechnology Strategy to 2030 will ensure that the correct framework is in place to facilitate such a collaborative response.
+Rt Hon Greg Clark MP, Secretary of State for Business, Energy and Industrial Strategy
+[Page #9]
+“”
+Significant ‘downstream’ effects from the use of IB in a host of sectors which use it, estimated to be £4.5 billion GVA and 63,000 jobs.
+Scope of a National Industrial Biotechnology Strategy
+Increased uptake of IB technologies and processes will have far-reaching positive impact on the UK economy and society, realised through the creation of jobs in high technology industries delivering better, safer and cleaner products across a range of sectors.
+Case Study Skills development through tailored Degree Apprenticeships
+Apprenticeships offer an alternative study option and career pathway to other more traditional routes of academic study, especially now with the introduction of the degree apprenticeship and the ongoing development of level 7 and 8 apprenticeships. The importance of apprenticeships in creating a highly skilled workforce is invaluable. In 2016, CPI embarked on a new apprenticeship initiative, launching its first roles on a degree apprenticeship. Together with Teesside University, Cogent Skills and Fujifilm Diosynth Biotechnologies, CPI enroled a cohort on the new degree level Laboratory Scientist Standard. The degree apprenticeships offer the potential to break down financial barriers to accessing higher education, whilst employing workers to immediately address the skills gaps of industry. CPI is based across four sites in the North East of England and, as part of the High Value Manufacturing Catapult, has a social responsibility to support the local and UK economy and help to grow the next generation of highly skilled scientists and engineers.
+1. Creating high wage jobs & a skilled national work-force
+Economic analysis indicates that there are over 14,000 full-time jobs in the sector, and location quotient analysis, which assesses the relative concentration of employment regionally, suggests potential for significant employment growth. IB promotes regional growth beyond London and the South East, with the earnings premium in the North of England outpacing the regional median by over 60%. In addition, employment growth in IB is outstripping that of the national economy, and as a high skill, high value sector attracts significant wage premiums. IB skilled and networked personnel will support growth of high-tech, low carbon industries that sustain the environment and the UK economy.
+Info: uk-cpi.com
+[Page #10]
+Scope of a National Industrial Biotechnology Strategy
+“”
+2.5 billion tonnes of CO2 could be saved per year by development of products with IB - this is equivalent to taking 490 million cars off the roads or to 68% of the EU’s total emissions in 2013.
+2. Meeting Paris Agreement Targets By Reducing CO2
+3. Exploiting waste & reducing reliance on fossil fuels
+employed at CPI, to operate the world’s only commercially validated gas fermentation process. Teesside emerged ahead of a number of other potential locations for the facility, and since the investment decision was made, Calysta has developed a full technical team and laboratories on Teesside, working hand-in-glove with the CPI team. FeedKind® protein is a natural, traceable and safe non-animal source of protein. FeedKind® protein is approved for sale and use in many animal feeds in the EU and other locations, and has been tested on multiple fish species including salmon. By 2050, the global population is expected to rise from 7.4 billion today to 9.6 billion and require 70% more protein than is currently available. Calysta can help meet this need by supplying the feed industry with a naturally produced, sustainable and traceable feed alternative. Calysta’s proprietary technology enables retailers and consumers to have increased confidence in the integrity of their food. The plant was financially supported by a conditional Exceptional Regional Growth Fund (ERGF) award and represents a total potential investment of £30 million.
+Case StudySolving global challengesCeltic Renewables
+The UK is a world leader in action to reduce carbon emissions. From the Climate Change Act10passed by Parliament in 2008, to the Paris Agreement11 and the recent publication of the Clean Growth Strategy4, we have been one of the first countries to recognise the challenge posed by climate change. However, the UK currently produces the second highest volume of CO2 of any European country12. IB has to be an inherent part of the UK’s strategy to meet its targets, since IB processes produce significantly less CO2 than fossil fuel processes and can also utilise ambient CO2.
+With limited sovereign supplies of petrochemical feedstocks and dwindling global reserves, the UK must look to alternatives. In addition to CO2, the UK also produces one of the highest densities of household and restaurant waste in Europe, at just under 150 kilograms per head per annum13. IB is able to take advantage of the inherent selectivity of biological systems to exploit such complex feedstocks, which are unsuitable as inputs to traditional chemical processes, to make (often chemically identical) products with equivalent or better performance than their fossil-derived counterparts. IB can reduce energy imports through the generation of energy from bio-derived products, such as ethanol, methane and propane. Anaerobic digestion and gas fermentations can prevent the release of greenhouse gases into the environment, whilst generating fuel products, and microbial fuel cells based on electrogenic microorganisms have the potential to replace batteries in low power applications. Photo-bioreactors can harvest sunlight, or light generated from renewable energy sources, to generate algal biomass, which can fuel larger power plants.
+Celtic Renewables Ltd, is an innovative Scottish start-up providing next generation biofuel, performance chemicals and animal feed. The company has recently secured planning permission from Falkirk Council to build a commercial demonstrator plant, which will produce over half a million litres of biofuel each year. The pioneering young company has recently closed a funding campaign, which raised over £5.25 million through an ISA eligible investment with leading investment platform, Abundance Investment. Based in Grangemouth, the funds will allow the demonstrator to be built, which will produce Biobutanol, a sustainable biofuel made using whisky residue that is a direct replacement for petrol and diesel.
+Case StudiesReducing CO2 and Securing Inward InvestmentCalysta
+Info: celtic-renewables.com
+Calysta, Inc. Menlo Park, CA, is a company working towards sustainable products, and its innovative process can capture carbon from waste, reducing greenhouse gas emissions. Calysta has developed and commercialised fish and livestock nutritional products, improving food security worldwide. The company chose to invest in Teesside, alongside the National Industrial Biotechnology Facilities, operated and managed by the Centre for Process Innovation (CPI), as the base for its state-of-the-art facility to manufacture sample quantities of FeedKind® protein, a proprietary competitively priced new fish and animal feed ingredient. By investing on Teesside, Calysta was able to maximise the beneficial impact on its business of the UK government’s investment in IB demonstration facilities, and the skilled scientists and technicians
+Info: calysta.com
+“”
+In 2013 an estimated 36 billion laundry loads were done every year in Europe. IB reduces consumer energy bills by the inclusion of enzymes in laundry detergents that enable low temperature wash cycles to be used.
+[Page #11]
+Scope of a National Industrial Biotechnology Strategy
+“”
+Industrial biotechnology is the only way of producing modern biologic drugs that treat some of the most serious and debilitating diseases. IB is the principal source of current antibiotics and is helping to produce novel compounds to combat antimicrobial resistance.
+ 4. Growing The UK Agri-Food Sector
+5. Improving Our Medicines Manufacturing Capability
+disorders, such as dengue fever and Zika microcephaly (part of the Zika congenital syndrome). Global travel, urbanisation, and expanding mosquito habitats have conspired to make flavivirus infections an even greater threat to humanity than was previously recognised, with over a billion people at risk worldwide. Latterly it has become apparent that development of novel flavivirus vaccines may be complicated by a risk of inadvertent disease enhancement. Conserved structural elements among different flaviviruses and flavivirus vaccines are responsible for serial boosting of antibodies that may paradoxically enhance dengue infection. The recently licensed vaccine product against dengue (Dengvaxia™), the only dengue vaccine so far, was recently withdrawn for the immunisation of persons naïve to dengue (principally children), over concerns that it was setting them up for enhanced disease, causing its manufacturer to write-off €100 million of annual revenue. These events were anticipated in the design and development of the novel vaccine prototypes used in this project. Excivion received funding from CBMNet to implement a molecular ‘cloaking’ strategy whereby the offending structure of the vaccine protein is effectively obscured - preventing it from being recognised or ‘remembered’ by the immune system. The data from the project provided the collaborating company with sufficient confidence to successfully apply for a new round of Innovate UK funding (valued at £2 million) to develop a novel vaccine for the prevention of the spread of Zika virus and the developmental disorders it is known to cause.
+Case StudyHigh value products Oxford Biotrans
+IB is already embedded in food manufacturing through the use of enzymes and fermentation for production. Selective breeding and enhancement of plants is currently increasing disease and drought resistance, and improving yields of high value chemicals in diverse, multi-billion dollar markets, such as nutrition, pharmaceutical ingredients, personal care, and manufacturing. Furthermore, the UK is a leader in the use of IB for production of flavours and fragrances (addressing a potential global market worth $27.5 billion14); non-caloric sweeteners ($3 billion15); and functional food ingredients, such as prebiotics and soluble fibre ($20 billion16).
+The global pharmaceuticals market is increasingly dominated by biopharmaceuticals; drug molecules manufactured in or extracted from biological sources, so-called biologics. The increasing use of biologics, heralds a new era of personalised medicines, where the specificity of biomolecules can be rapidly tailored to both the disease and the individual biology of patients. Currently valued at more than $200 billion, the global biologics market will reach more than $450 billion by the middle of the next decade6. IB-enabled diagnostics based on expanded ranges of biomarkers promise to reduce the time taken to diagnose diseases, and to aid effective prescription of new treatments.
+Oxford Biotrans is a University of Oxford spin-out company which has developed and commercialised enzymatic process technologies that yield high value chemical compounds. Oxford Biotrans is now producing natural grade nootkatone, the flavour and scent of grapefruit, in commercial quantities. Grapefruit flavouring is in high demand but short supply. It can be produced synthetically from more plentiful orange oil, but this process requires a high energy input and generates toxic by-products. The new process is more environmentally sustainable and produces flavouring that can be labelled ‘natural’ under EU regulations, making it preferable to consumers. Oxford Biotrans has received £5.3 million in private investment and employs 13 people. The company is now working on producing other useful products using its enzyme technology. Oxford Biotrans has also benefited from IB Catalyst funding, which built upon results from a study funded by BBSRC NIBB Proof-of-Concept awards.
+Biocatalytic manufacturing and IB-enabled bioprocesses will also help create the next generations of small molecule drugs, where computational design, based on the structures of biological targets, along with powerful new chemistries to enable synthesis of novel drug molecules, will lead to more effective, safer treatments for disease.
+“”
+New technologies such as CRISPR will transform crop production.
+Info: oxfordbiotrans.com
+Case Study Solving Global Challenges Excivion Limited
+Excivion was formed in response to the need to develop affordable solutions to the present and looming health crises of a changing world. It produces novel vaccines that can be used to prevent emerging pandemic infectious diseases. Flaviviruses are a family of viruses spread by mosquitoes, and which cause a range of
+Info: excivion.com
+[Page #12]
+“”No microbiome based drugs are currently on the
+Scope of a National Industrial Biotechnology Strategy
+market, but there are a significant number in the clinic. Research forecasts a market size of nearly $9.9 billion for microbiome therapeutics by 2024 with CAGR of 70%19. IB is closely aligned to development and commercialisation activity.
+6. Understanding And Controlling Microbiomes
+7. Future-Proofing The UK Chemicals Industry
+Case StudyNovel discoveriesCHAIN Biotechnology Limited
+Case StudyBio-based chemicals and inward investmentBASF
+The microbes in our gut play an important role in human health and disease and over the last five years, the number of scientific papers linking the gut microbiome to a broad range of diseases has grown exponentially17. The UK has considerable academic expertise in gut and rumen microbiology and growing commercial activity, primarily driven by SME’s. Gaining a better understanding of how gut microbes function and uncovering the mechanisms involved in microbiota-host interactions offers tremendous potential for developing new treatments for diseases ranging from colorectal cancer, Inflammatory Bowel Disease, type 2 diabetes and even depression. Consequently, there has been significant interest by large pharmaceutical companies, and since 2010, microbiome specialists have raised over $1.8 billion of investment18. However, more than 95% of the microbial biome remains undiscovered and is still poorly explorable, particularly beyond the genomic level due to lack of developed tools and methodologies. IB is required to accelerate microbial strain identification and characterisation as well as to elucidate function at the gene and protein level. The microbiome also contains a deep reservoir of genetic information and microbial strains that could be exploited for IB products and applications.
+IB offers powerful new tools for the sustainable production of chemicals, with the potential to replace multistep processes using traditional chemistry with synthetic biology pathways and biocatalytic cascades, where biological agents perform sequential modifications of starting materials to deliver complex synthetic products. By reducing the need for reagents based on rare and toxic metals, the requirement for laborious purification of intermediates and through use of water as a universal solvent in place of hazardous organic solvents, IB is able to promise better environmental performance. In addition, many bioprocesses can operate at or below physiological temperatures, alleviating the need for the energy intensive and expensive heating and cooling associated with traditional chemical manufacturing.
+Founded in 2014, CHAIN has developed a novel microbial platform for targeted drug delivery to the gut. Delivery to the gut using murine models has been exemplified with two proprietary targets. The company, led by Dr Edward Green (ex-Green Biologics) with an experienced board, has 10 employees, headquarters in Marlow and a technical team based at the University of Nottingham. The company has unrivalled expertise in microbiology, synthetic biology and fermentation with anaerobic bacteria that are prevalent in the gut. More specifically, CHAIN uses genetically engineered Clostridium to produce and deliver therapeutics to the gut. To date, CHAIN’s proprietary platform has delivered two products for pre-clinical testing, an anti-inflammatory metabolite targeting ulcerative colitis and an anti-microbial peptide targeting C. difficile infection. CHAIN is building a product pipeline focused on therapeutic peptides and exploring vaccine delivery to the colon for specific pathogens. The company has raised £1.8 million primarily from seed investment and grant funding.
+In 2016 the German chemical giant BASF opened a world scale production facility at its site in Bradford to produce bio acrylamide. Its process uses less energy and produces less waste than conventional methods, with a better end product. This major investment will help to ensure the long-term future of one of the UK’s largest chemical manufacturing facilities, which employs around 600 people.
+ Info: basf.com
+“”
+ Info: chainbiotech.com
+Industrial biotechnology is already reducing energy costs in manufcturing through the use of low temperature and pressure processes with reduced carbon footprint and cleaner manufacturing with less waste.
+[Page #13]
+Scope of a National Industrial Biotechnology Strategy
+“”
+Industrial biotechnology can convert waste to high value products, such as clothes, flavours and fragrances and composites for automobile and paint manufacture.
+8. Developing New Materials And Fuels
+Case StudySolving global challenges: Biome Bioplastics
+including EU FP7 (KYROBIO, BIOOX) and H2020 (CARBAZYMES, METAFLUIDICS) collaborative grants, BBSRC, EPSRC, Innovate UK / IB Catalyst, ERA-NET and from the Newton Fund. Prozomix is a strong supporter of IB skills development, hosting a number of industrial PhD students (10), sandwich students and visitors from schools, and partnering on the IBioIC Collaborative Training Partnership.
+Case Study High value products: Prozomix Ltd
+The use of biological systems can also allow us to access new processes to make products which are impossible using traditional methods, leading to bio-based materials and fuels that offer new properties and superior performance. Bioplastics and biodegradable packaging promise superior recyclability and compostability, meaning that sustainable production can be linked to better end of life performance, a key objective of the circular economy. Production of fuels through IB processes utilising low value non-crop biomass and waste products will lead to lower carbon transport solutions and reduced wastage.
+Biome Bioplastics is one of the UK’s leading developers of intelligent bioplastics. A bioplastic is a plastic that is made partly or wholly from materials derived from biological sources, such as sugarcane, potato starch or the cellulose from trees and straw. Biome’s products are 100% biodegradable and compostable, and suitable for the wide array of plastic processing applications including food, drink and agriculture. Revenues grew 44% to £2.3 million in 2017, as the business benefitted from an increase in the use of its material for the coffee market following the commercialisation of the innovative BiomeMesh filter material. The shifting perception of plastic waste, both in public opinion and amongst policy-makers, particularly in the UK, provides encouragement for future growth in the use of bioplastic products.
+Incorporated in 2008, Prozomix Ltd. is a privately owned SME focussed on novel enzyme discovery for biocatalysis. Prozomix uses proprietary GRASP™ genome- and metagenome-mining technologies to discover novel enzymes, developing large panels of sequence-diverse enzymes. In 2011, Prozomix launched the Biocatalysis Enzyme Toolkit, comprising large panels of biocatalysts aimed towards synthetic organic chemists, particularly within the pharmaceuticals sector. Customers access the Biocatalysis Enzyme Toolkit of novel / maximum diversity biocatalyst panels free of charge, including user-friendly colorimetric screening kits, such as IREDy-to-go™ for ketoreductases, and IREDy-to-go™ for imine reductases. When a Toolkit enzyme is identified by the customer against an application, Prozomix offers larger amounts of the enzyme at known list prices. Prozomix is a supplier to a number of multinational companies, offering multi-kilogram scale production of enzymes. Prozomix is a highly research active company, supporting non-grant-funded fundamental and applied collaboration with academic and industrial partners around the world. Prozomix has collaborated on 25 grant-funded projects since it was founded,
+Info: prozomix.com
+Info: biomebioplastics.com
+[Page #14]
+“”
+Innovation driven by the agility of small firms and the UK is rich in these, with 99% of businesses in the IB sector classified as SMEs.
+The Need for a National Industrial Biotechnology Strategy
+A recent analysis5 of UK IB provides the evidence base to assess the current national landscape, and the sector’s strengths and weaknesses, along with foreseeable opportunities and risks (Table 4).
+Table 4. UK IB SWOT analysis
+Strengths
+Weaknesses
+– UK research base– Well dispersed, regional, IB community– Highly networked– Innovation driven by the agility of
+– Access to scale-up facilities– Low levels of commercial success– Lack of commercialisation skills– No dedicated IB funding stream– Finance fragmented– Lack of a UK IB policy framework
+small firms
+– High quality research infrastructure
+Opportunities
+Threats
+– High potential GVA– Industrial Strategy Challenge Fund– BBSRC NIBB Phase II– Bioeconomy Strategy– Response to waste reduction legislation– Emerging sector investment
+– Lack of understanding of IB by policy and
+decision makers
+– Access to private finance limited by
+perceived risk of IB innovation
+– Changes in government– Brexit
+The SWOT analysis shows that the UK has core strengths in IB. The strength of the UK research base is a great asset for innovative high technology industries. The UK has 1% of the global population and 3% of global research funding, but produces 8% of peer reviewed scientific papers, leading to 16% of global citations. The UK IB community is highly networked and connected at both local and national levels through organisations such as KTN, BBSRC NIBB, BioVale, BioPilots UK and the IBLF, meaning
+that strong interdisciplinary links exist within and across sub-sectors. Alongside leading academic institutions and industry, a healthy high technology economy relies on the innovation driven by the agility of small firms and the UK is rich in these, with 99% of businesses in the IB sector classified as SMEs. The UK also boasts high quality research infrastructure within higher education institutions and purpose-built open access facilities, such as BioPilots UK.
+[Page #15]
+The Need for a National Industrial Biotechnology Strategy
+“”
+Spin-out, start-up, and investment in synthetic biology companies is booming, with an average of seven start-ups per annum between 2000-2016, and more than £620 million raised to 2016, including £564 million of private investment.
+underpinning genetic and computational technologies and services have become cheaper and faster, has been key to this. Industrial biotechnology shares considerable synergies with synthetic biology, and the latter is also well-placed to enable IB. The lessons of that sector also help to illustrate the opportunity available to IB and the value of implementing a coordinated strategy to realise that potential.
+research centres and coordinating entities that have transformed the prospects of synthetic biology in the UK. The stewardship of the Synthetic Biology Leadership Council has been key to this continued success, set up following the publication of A Synthetic Biology Roadmap for the UK in 2012. This was a pivotal document, setting out a persuasive vision created through an industry-led stakeholder group, and leading subsequently to the creation of the UK Synthetic Biology Strategic Plan in 2016, focusing on translation and commercialisation of synthetic biology technologies. The sector was also able to leverage investment and expertise through SynbiCITE, the Innovation and Knowledge Centre (IKC) in SynBio, established in 2013 at Imperial College London. The IKC was co-funded through a £28 million commitment from EPSRC, BBSRC, and Innovate UK, with a diverse range of stakeholders, including industry, business and academia, as well as regional and local government.
+Uncertainty about the investment and regulatory environment is exacerbated by the lack of an overarching UK policy framework for IB, which leads to coordination failures and unnecessary duplication of efforts. Moreover, by implementing a coordinated strategy, the UK will demonstrate commitment to a unified long-term vision for the sector underpinned by realistic actions to support growth and innovation, providing a stable environment to attract inward investment to IB. Thus, the UK IB sector has some strong assets, but is in danger of falling behind the best in the world. A National Strategy for IB will ensure continuity of research priorities, funding and investment, informed by the needs of industry and playing to the natural strengths of the UK to realise increased productivity.
+The Scottish National Plan for Industrial Biotechnology was launched in 2013 with the aim of growing IB-related turnover in Scotland to £900 million and increasing the number of companies using IB to 200 by 2025. One of the key actions was to establish the Industrial Biotechnology Innovation Centre (IBioIC), as a centre for open innovation and skills. By 2015, IB turnover in Scotland had increased from £189 million to £230 million, and the number of companies from 43 to 5020. The UK National Strategy for IB will be aligned with regional plans, where those already exist, and provide vital coordination to grow the sector across the UK.
+Case Study Supporting innovation BioPilotsUK
+BioPilotsUK is a collaboration of open access biorefining centres across England, Scotland and Wales that recognises the importance of partnerships to develop UK bio-based value chains. The founding organisations are BEACON, BDC, CPI, IBioIC, and The Biorefinery Centre. Together, they de-risk the commercialisation of bio-based products and processes by trialling new technologies to ensure partners are investing in the right technologies for their business.
+The potential for coordination to elevate the status of enabling technology sectors and thereby increase funding and investment is also well-illustrated by the example of synthetic biology in the UK. Implementation of a coordinated strategy for technology development and supporting R&D infrastructure has seen research spending on synthetic biology in the UK grow, including more than £300 million of public sector investment over the last decade. Spin-out, start-up, and investment in synthetic biology companies is booming, with an average of seven start-ups per annum between 2000-2016, and more than £620 million raised to 2016, including £564 million of private investment21. The first UK centre for synthetic biology research in the UK, the Centre for SynBio Research and Innovation (CSynBi), was established in 2009 at Imperial College London. This has been followed by the strategic development of a series of
+The magnitude of the opportunity available to the IB-enabled end-users is clear, with more than $34 billion of addressable established product markets in the UK, and estimates of the global IB revenues reaching $450 billion by the middle of the next decade. The UK National Strategy for IB aims to increase public and private investment in industrial biotechnology. Key to this goal will be the establishment of a dedicated funding stream for translational IB research. Industrial biotechnology is also ideally positioned to respond to the UK Industrial Strategy Clean Growth Grand Challenge through the Industrial Strategy Challenge Fund, the additional £4.7 billion fund provided by the UK government from 2017-2021 to support R&D.
+Through these various coordinated initiatives, the UK has created a thriving synthetic biology innovation ecosystem, addressing sector challenges holistically across skills and training, research and innovation, commercialisation, ethics and societal awareness. Through these efforts, synthetic biology is beginning to realise the commercial success of those tools and products. The UK Synthetic Biology Strategic Plan aims to deliver a £10 billion synthetic biology based sector in the UK by 2030. Timely intervention by the public and private sector during a period in which the
+Info: BioPilotsUK.com
+[Page #16]
+4 The Need for a National Industrial
+“”
+Biotechnology Strategy
+Industrial biotechnology cannot be ignored if the UK wishes to develop a thriving bioeconomy supporting clean growth.
+UK bioscience academic research is world leading and should be encouraged to continue to deliver the new knowledge and technological innovation that the commercial IB sector needs to thrive. However, the perception is that the UK’s commercialisation report card still reads ‘could do better’ and improved conversion of fundamental research knowledge into IB know-how and profitable processes still needs to be supported. Funding to access demonstration and scale-up facilities is one aspect that could help bridge the gap between operational delivery and research knowledge, where micro- and small enterprises in particular often find these costs prohibitively expensive in the absence of either suitable public funding schemes or private investment.
+research organisations are involved, since a meaningful contribution to the project by those organisations will swell the total eligible project costs. Beyond fundamental research, feasibility studies and industrial research are funded at less than 100% for businesses, 70% in the case of micro and small enterprises, and this represents a significant burden. Where more than one research organisation is involved in a proposal, their combined costs are capped at 30%, and therefore total project costs can quickly become prohibitive due to affordability and call restrictions on project size. The BBSRC NIBB have successfully broadened, deepened and financially supported R&D partnerships; the renewal of these networks is a welcome boost to the sector, but without a dedicated IB funding stream, any gains made are in jeopardy.
+Case Study Inward investment LabGenius
+Case Study Knowledge transfer BBSRC Networks in Industrial Biotechnology and Bioenergy
+LabGenius is a London based start-up working at the interface of synthetic biology and artificial intelligence. The company was founded in 2012 and has been backed by the BBSRC and IUK. LabGenius has developed EVA, an autonomous AI-driven evolution engine for discovery of functional protein products. Using a combination of machine learning, gene synthesis technologies, and robotic automation, LabGenius creates biotherapeutics, protein-based materials and personal care products. As an example of their success, the company has secured a number of projects funded by the UK Defence Science and Technology Laboratory (Dstl) to develop novel protein-based materials. In 2017, founder Dr James Field was awarded BBSRC Early Career Innovator of the Year, and identified by Forbes as one of the 600 most influential people in the world aged under 30. In 2017, LabGenius secured $3.66 million in seed funding jointly led by Kindred Capital and Acequia Capital, with participation from Backed VC, Beast Ventures, Berggruen Holdings Ltd, and System.One.
+The Networks in Industrial Biotechnology and Bioenergy (NIBB) launched in 2013 have resulted in a robust community of academic and business members with a pipeline of projects at various stages of translation that will deliver key benefits across the bioeconomy. BBSRC has recently announced funding for a second phase of networks.
+Info: bbsrc.ukri.org
+Case Study Supporting translational IB research The Industrial Biotechnology Catalyst
+There are particular challenges in the UK funding and investment landscape, for example, although Innovate UK funding is one route to support the translation of IB research, the withdrawal of the dedicated IB Catalyst scheme leaves a significant gap. In the absence of funding that offers natural pathways to higher technology readiness levels, Innovate UK funding does not necessarily dovetail with earlier stage research funded within the academic sector by the research councils. Innovate UK provides funding to businesses to support and stimulate innovation in the UK, encouraging collaboration with other companies and research organisations. However access to this funding remains a particular challenge to SMEs, since 30% of total eligible project costs are available to research organisations such as universities and RTOs. This necessarily restricts the minimum realistic cost of a project if
+Attracting the awareness of decision makers can be difficult for platform technology areas such as IB, particularly when in competition with easily communicated, product-oriented sectors, such as the aerospace and automotive industries. However, the case for IB cannot be ignored if the UK wishes to develop a thriving bioeconomy supporting clean growth. Dedicated public investment is vital because IB is seen as high-risk, underpinned by highly specialised intellectual property and, at least initially, characterised by little or no cash flow by private investors. It is imperative to address and mitigate these perceptions; a comprehensive set of investment and commercialisation initiatives as part of the National Industrial Biotechnology Strategy will educate and encourage private investors to invest based on sound commercial judgements.
+The Industrial Biotechnology Catalyst helped accelerate the commercialisation of IB-derived products and processes.
+Key features:
+– Dedicated translational funding aiming to accelerate technology development through subsequent rounds
+– £76m awarded between 2014 and 2016
+Info: labgeni.us
+– Support for businesses and researchers
+– Over 300 applications received
+– Nearly 60% of partners were SMEs
+Feedback from industry suggests it was highly effective in the translation of research to move towards the commercialisation of new products.
+Info: bbsrc.ukri.org
+[Page #17]
+4 The Need for a National Industrial
+“”
+Biotechnology Strategy
+The UK IB sector cannot ‘do everything’; we must be strategic.
+The recent successes of both Celtic Renewables and LabGenius in securing private inward investment demonstrate that there is the appetite for investment when companies can articulate their proposal to specific sectors (i.e. fuel and pharmaceuticals respectively). Ongoing specialist support for companies seeking investment will strengthen the IB SME sector. Start-ups and spin-outs in particular can benefit from dedicated investment pitch training to ensure that they are able to effectively communicate strong value propositions. This should be complemented by introducing investment-ready companies to potential investors.
+feedstocks which cannot be practically or economically transported and therefore where co-localisation of manufacturing is the only viable possibility, for example alongside low density feedstock production, such as agricultural wastes.
+applications and advanced fermentation technologies, is now on developing new products utilising the company’s clostridia platform. As well as generating further business growth for Green Biologics and with benefits accruing to the UK economy, it is anticipated that some of these may be high value products suited to production in the UK, where the relatively lower volumes and higher feedstock costs mean it is not a competitive location for higher volume, intermediate price renewable chemicals. The UK has significant strength in training scientists and supporting innovation and therefore remains the optimal location of the headquarters and intellectual hub.
+Case Study UK innovation, manufacturing overseas Green Biologics Limited
+Green Biologics is a renewable chemicals company focused on developing and delivering new green alternatives for everyday products. It aims to provide sustainable and high value alternatives to petroleum-based products for the global chemicals market. The company has expertise in advanced Clostridium microbial fermentation, using a technology platform that converts a wide range of sustainable feedstocks into high value green chemicals including n-butanol, acetone and, through chemical synthesis, derivatives for downstream formulations. Over the last 14 years, the company has grown significantly. In 2014, Green Biologics acquired a 20 million gallon corn ethanol plant in Little Falls, Minnesota, USA, which has now been repurposed by Green Biologics to produce bio-based n-butanol and acetone, with the company supplying customers in North America, Europe and Asia. The UK remains the global headquarters of the company, with a strong R&D, commercial and corporate presence. The focus of the R&D team in the UK, which has patented technology across synthetic biology tools,
+Case StudyInward InvestmentBiocatalysts Ltd
+Biocatalysts Ltd., and its American subsidiary, Biocatalysts Inc., offers a customised enzyme discovery, development and manufacturing service. Founded in 1983, the company was initially located in West London as part of Grand Metropolitan, before moving to South Wales a few years later, and to a purpose-built factory in Cardiff in 2004. Biocatalysts were pioneers of speciality enzyme in production in the 1980s, providing custom enzymes to the food and fine chemicals industries. Biocatalysts offer a “Design for Manufacture” service allowing development of enzymes from concept to routing manufacturing in 12 months or less, through a process which considers potential regulatory, technical and commercial limitations at the beginning of the project. Biocatalysts generated £9.5 million revenue in financial year 2016/17, with CAGR of 12% on turnover between 2014/15 and 2016/17. In early 2018, a share purchase agreement to acquire a majority stake in Biocatalysts Ltd. was signed by BRAIN AG, a developer of enzymes, biocatalysts, and bioactive natural substances for manufacturers in the chemical and consumer goods markets in Germany, France and the US. Biocatalysts Ltd. is currently expanding production facilities and will continue to operate under its current name after the acquisition.
+Industrial biotechnology operates in a complex and extensive regulatory landscape. Regulatory instruments that could impact on this area span everything from health and safety to product design and specification, from environmental protection to renewable energy and fuels, and from intellectual property to finance and trade. There are therefore a variety of policy instruments, guidelines and incentives already in place that impact upon the IB community. Further policy recommendations that can be put in place to incentivise the movement towards a more sustainable society should therefore be considered.
+Info: greenbiologics.com
+The UK IB sector cannot ‘do everything’; we must be strategic. For example, the UK does not have the feedstock capacity to be a major player in global supply of bulk, low value bio-based chemicals, but it does have the innovation expertise to develop processes and technologies that can then be implemented to manufacture overseas. In many cases, the UK does not have internal markets to support large-scale manufacturing, but manufacturing localised within regions of demand can still be supported by the UK R&D expertise. It is also often the case that IB processes utilise
+Info: biocatalysts.com
+[Page #18]
+4 The Need for a National Industrial
+“”
+Biotechnology Strategy
+Industrial biotechnology is a minor but increasingly recognised academic discipline in the UK, and is more generally supported by strength across STEM teaching at degree and postgraduate level. However, there remains a shortage of graduates with the required IB skills.
+Skills lacking in UK workforce:
+in scientific disciplines must be matched by talented individuals with skills in commercialisation, including those budding entrepreneurs who will grow the thriving SME base needed to support innovation in the sector.
+In addition to UK IB innovation for manufacturing abroad, as exemplified by Green Biologics, we must direct efforts to exploit the feedstocks that are indigenously available, particularly where industry is able to upgrade by-products, which must otherwise be processed as waste. Diverse raw materials are available in the UK, but these are strongly regionalised and available on relatively small scales sufficient to supply either high value, low volume manufacturing, or to satisfy immediate local demand for lower value products, for example, energy. Coordinated strategy is required to maximise use of limited resources by understanding feedstocks and capabilities mapped at both national and regional levels, with evidence-based UK investment in flexible regional infrastructure capable of modular manufacturing to support local needs. A deeper understanding of these assets will enable effective decision making during research and commercialisation. The UK must however take a pragmatic approach, maintaining secure international supply chains as necessary for feedstocks where local value can be added through IB processes. Such an approach must be informed and rooted in comprehensive understanding of global supply and value chains, coupled with robust life cycle assessment, to enable economic and environmental evaluation when deciding where and how to deploy IB technologies.
+IB specific skills gap in the UK workforce
+– Commercialisation skills - graduates & post graduates who combine business, commercial, entreprenuerial and leadershop skills with sector knowledge
+General STEM skills gap in UK workforce
+– Lack of STEM-qualified non-graduates
+“Biotechnology requires multidisciplinary skills, with teams of chemists, biologists and engineers needing a common understanding and ‘language’.” Science Industry Partnership.
+– Broader competency gaps, e.g. written and mathematical capability amongst science graduates25
+– Bioinformatics
+– Production and Process Engineers
+with bioscience knowledge
+– Graduates with more practical skills and
+experience
+– Translational skill
+– Lower training amongst STEM
+– Microbiology
+professionals than international competitors
+Several recent studies have identified skills required for scientific roles in the UK and more specifically for IB roles, and it has been calculated that as bio-based IB processes develop and become more established, an increase in technician level roles will be required, but with an understanding of bioprocesses. It was estimated that an extra 1,500 trained employees will be required every year by 202522.
+– Fermentation skills
+– Maths and Statistics/Computational
+– Bio-manufacturing conversion courses
+science capability
+for technicians and graduates (inlcuding aseptic techniques.)
+– Digital Skills, including data science, informatics, AI, robotics/automated systems, virtual/augmented reality, IoT
+levels and responsibilities, ensuring adequate domestic training provision leading to recognised career paths in IB.
+– Process analytical technology
+– Continuous manufacturing and additive
+manufacturing (3D printing)
+At present, tailored IB training for both the early and established career workforce is patchy and inconsistent, hampered by the infancy of IB as a recognised career path in the UK. The risk faced by potential training providers can be mitigated by working with the Catapult centres, such as CPI, to develop training programmes. Relevant training courses should also be developed so that content serves a dual purpose, forming CPD modules for more established workers and thereby increasing demand and contributing to consistency of knowledge and skills across levels23. Knowledge Transfer Partnerships (KTP) should be promoted as a mechanism to transfer IB knowledge from academia into industry, whilst also training early career scientists in the vital skills of translation and commercial awareness. In addition, the IBLF should develop and maintain a directory of relevant short course training provision24.
+Industrial biotechnology is a minor but increasingly recognised academic discipline in the UK, and is more generally supported by strength across STEM teaching at degree and postgraduate level. However, there remains a shortage of graduates with the required IB skills. The increasing gap in supply of skilled technical and professional workers in STEM fields as demand grows was the driving force for apprenticeship programmes in the UK that prioritise those sectors26 27. Industrial biotechnology is not currently specifically recognised within those frameworks, although it is capable of delivering many of the roles required by the IB sector. Industry must evaluate whether the current provision of training in the UK, including full time education programmes and science apprenticeships, fulfil the requirements of the IB sector, and if not, take coordinated action to close any gaps.
+– Control & Instrumentation Engineers
+It is important that the future IB workforce is fostered by design and not left to chance, since the skills required are diverse and highly interdisciplinary, and the UK must ensure that skills gaps do not stifle growth when its international competitors are also growing the sector. This is particularly pertinent if UK technologies are being implemented abroad, creating potential demand for UK-trained scientists in lucrative overseas jobs markets. UK exit from the EU also presents a potential threat if there is no longer ready access to skilled IB workers from the rest of Europe. UK industry must partner with education and skills providers to anticipate skills requirements across
+Driving demand for IB technologies will only result in uptake if a skilled workforce is available to implement them. Indeed, that demand will in part be driven by entry into the workplace of early career science graduates knowledgeable on the state of the art in IB. This also needs to be a balanced workforce, including skilled technologists and designers, senior scientists, and business managers who understand the scope and benefits of IB. The sector will need to draw talent from the full range of disciplines required, including across the life sciences, chemistry, chemical and process engineering, intellectual property law and regulation, and ethics. Excellence
+[Page #19]
+4 The Need for a National Industrial
+“”
+Biotechnology Strategy
+To effectively and efficiently deliver a mixed UK IB sector that delivers for the economy, is sustainable, and satisfies UK commitments to international environmental agreements, coordinated action is needed. The risk of doing nothing is huge.
+Many of these skills are already present, not only within the growing IB sector, but also within those established sectors which IB might disrupt, such as traditional chemicals manufacturing. Reskilling and cross-skilling will harness that talent pool and increase uptake of IB. Indeed, this is already evident from the co-location of IB clusters with former sites of large chemicals companies in the UK, where the decline of commodity chemical manufacturing throughout recent decades also unleashed a skilled workforce that refocused on industrial biotechnology processes. Upskilling within industries already engaged in IB is also essential to ensure that the UK maintains a leading position in cutting edge industries. Curation of training resources will increase uptake by those already employed in industry, and also enable the IB sector to evaluate and identify gaps in provision.
+the Optipure technology to the world’s leading PLA producer, NatureWorks LLC, and completed a sale of the technology to them in December 2017. Having successfully achieved its objective of developing and commercialising its technologies with the strategic customers who are best placed to implement the technologies, Plaxica ceased trading in December 2017.
+Case Study Policy landscapeBioPreferred® Program
+Case StudyLicensing industrial biotechnologyPlaxica
+The U.S. Department of Agriculture (USDA) BioPreferred® Program illustrates how a federal procurement programme can stimulate the market place. The most recent report, in 2016, shows that the growing bio-based products industry contributes almost $400 billion and more than 4 million jobs to the American economy.
+Plaxica was a technology licensing company founded in 2008 as a spin-out from Imperial College, London to commercialise the research in PLA and lactic acid technology from the laboratory of Dr Ed Marshall and Professor Vernon Gibson. Between 2008 and 2017, Plaxica developed and commercialised three patented technologies in the renewable chemicals field: Xylex technology takes waste streams from the forest products industry and converts them into valuable hydrolysed sugar-rich streams rich in C5 sugars, whilst removing and isolating lignin. Versalac technology is a novel approach to racemic lactic acid production using a chemical process. The feedstock includes, but is not limited to, the Xylex products. In August 2017, Plaxica sold the Xylex and Versalac technology to Sappi Limited – and the majority of the company’s employees located at the Wilton Technical Centre transferred to Sappi’s employment. Sappi is the leading global producer of speciality cellulose. Optipure technology produces optically pure L- and D-lactic acid from racemic lactic acid and lactides using an enzymatic resolution process. In addition, Optipure can convert L-lactic acid into D-. In May 2017, Plaxica licensed
+Info: plaxica.com
+ Info:biopreferred.gov
+To effectively and efficiently deliver a mixed UK IB sector that delivers for the economy, is sustainable, and satisfies UK commitments to international environmental agreements, coordinated action is needed. The risk of doing nothing is huge. The UK risks lagging behind global competitors in realising the transformative impact of IB and action must now be taken to prevent this. Failure will mean the UK cannot meet its sustainability targets. Therefore, a coordinated long-term National Industrial Biotechnology Strategy, supported by the UK government through specific policies and investment, is essential to fulfil the potential of a sector which can draw upon world leading research expertise at the academic-industrial interface.
+[Page #20]
+The IB strategy consortium (Table 2) has developed an action plan to implement the recommendations of the report ‘Developing a Strategy for Industrial Biotechnology in the UK’5. The vision for UK IB is a long-term plan based on clear policy direction and investment (Figure 4).
+The National Industrial Biotechnology Strategy to 2030 has seven components: External Environment; Funding and Access to Finance; Infrastructure and Regional Footprint; Trade, Inward Investment & Commercialisation; Regulation and Standards; Skills; and Communication. Each area is championed by a specific organisation (Table 5), but with overall ownership belonging to the IBLF. The three-phase implementation plan sets out actions for the short-term to the end of 2019, building upon the launch of the wider Bioeconomy Strategy, for which IB and synthetic biology underpin, and the renewed NIBB to develop awareness of IB amongst a broad stakeholder group.
+The vision for UK IB is one that transcends politics, where finance is available for business growth and innovation across Technology Readiness Levels (TRL). This should be driven by regional infrastructure. We want the UK to be internationally recognised as a part of the IB value chain, with a robust, easily navigated regulatory framework. Finally, IB will be recognised as an attractive career option, with multiple entry points, in a society where everyone understands its importance.
+A National Industrial Biotechnology Strategy to 2030
+Table 5. National IB strategy areas and champions
+Strategy Area
+Champion
+External Environment
+KTN
+Funding and Access to Finance
+UKRI (BBSRC & IUK)
+Infrastructure and Regional Footprint
+BioPilots UK
+Trade, Inward Investment & Commercialisation
+DIT
+Regulation and Standards
+IBLF
+Skills
+IBLF
+Communication
+IBLF
+In Phase 1, the consortium has identified initial actions to provide first steps towards long-term strategic goals, beginning with alignment of the National Industrial Biotechnology Strategy with the Bioeconomy Strategy, maintaining cognisant with the Chemical Growth Partnership Strategy and UK Synthetic Biology Strategy. These actions call for the launch of a dedicated IB funding stream, improved access to infrastructure, identification of key export markets, simplified robust regulatory frameworks, recognition of new routes to careers in the sector, and the identification of high-profile advocates for IB. The actions for implementation Phase 1 are indicated below.
+[Page #21]
+A National Industrial Biotechnology Strategy to 2030
+PHASE 1: 2018 SHORT-TERM
+PHASE 2: MEDIUM-TERM
+PHASE 3: LONG-TERM VISION
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Industrial Strategy
+Alignment with Clean Growth Strategy
+IB embedded in Clean Growth Strategy implementation plans
+Coordination with relevant delivery partners to ensure that UK IB delivers against other national/regional strategies
+Alignment after General Election
+Bioeconomy Sector
+Alignment with Bioeconomy Strategy
+IB embedded in Bioeconomy Strategy implementation plans
+External Environments
+Consensus on a consistent long-term policy landscape that supports IBBE
+Wider Policy Landscape
+Identification of key UK IB stakeholder contacts (across the political landscape)
+Coherent vision for UK IB communicated and understood, particularly across EU
+Monitor and report potential implications/identify opportunities arising from wider government policy actions, e.g. Bioeconomy Sector Deal, Brexit
+Continue to monitor and report potential implications/identify opportunities arising from wider government policy actions
+Monitoring
+Revise generic research call regulations to include the strategic
+Funding
+Dedicated IB funding to support translation
+Development of UK Plc ‘Equity’ loans
+Support for a small number of academic-industry strategic demonstration projects (£10-£50m) a specific ISCF call
+Database of investors in IB arena. Build relationship with global VCs
+Demonstration and commercialisation of technologies arising from dedicated IB translation funding
+Finance
+Supportive financial environment that recognises the potential of IBBE for driving growth & innovation
+Funding & Access to Finance
+Coordination with policymakers and funders to ensure continuity of research priorities and support through finance is maintained through implementation phase of UK exit from EU and beyond
+IBLF & NIBB respondto the current BEIS Patient Capital Review
+Work with IB policy makers to promote IB
+Learn lessons from international Bioeconomy/IB strategies
+Policy
+Overcoming Barriers
+Foster innovation by expanding long term capital
+Continuity of provision for BDC, BioPilots, NIBB
+Identify long term UK-wide infrastructure IB strategy
+Collate and promote UK facilities
+BEIS and UKRI modular manufacturing feastibility study
+Strategy
+Infrastructure and Regional Footprint
+IBBE is a major contributor to clean economic growth across
+Community Expansion
+Expand IBLF to include infrastructuresub group
+IBLF establishes a panel of experts in IB advanced manufacturing available to support SME use of infrastructure
+all regions of the UK
+Dedicated pump priming/ confidence building funding
+UKRI & IUK improve financial support to SMEs for accessing existing infrastructure
+Establish & evalute modular manufacturing pilot in at least 2 UK regions
+Accessibility
+Promote success stories in IB sector through curated case studies to demonstrate ROI
+IB SectorPartnerships
+Establish IBLF panel of IB commercialistion industry experts to advise SMEs
+Trade, Inward Investment & Commercialisation
+UKRI scopes feasibility & benefit to UK Plc of exporting UK scientific expertise - borderless value chain
+UKRI, IBLF, NIBB & DIT scope international export markets, followed by trade delegations
+Global Opportunity
+Promote UK as a cost-effective Innovation hub
+UK is an international IBBE innovation hub
+Large Companies
+Large companies help SME to leverage international funding
+Identify & incentivise future indigenous anchor businesses to engage in government policy development
+Encourage FDI and indigenous investment in innovative science and technology
+[Page #22]
+A National Industrial Biotechnology Strategy to 2030
+PHASE 1: 2018 SHORT-TERM
+PHASE 2: MEDIUM-TERM
+PHASE 3: LONG-TERM VISION
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Review existing regulatory frameworks. Assess post-Brexit implications & adjust UK regulatory landscape accordingly
+Simplification
+Simplify GMDI labelling
+Establish ‘Regulation for Innovation’ working group so that regulations match advances in capability
+Alignment with Innovation
+Utilising regulation to IB advantage e.g. bio-prefered programme
+UK regulatoryframeworks are recognized as robust and support risk aware innovation
+Regulations & Standards
+BEIS & DIT promote the UK’s support for innovation
+Risk Management
+Examine where informed rish management techniques can be implemented with respect to emerging technologies
+Develop strategy for legislation of new materials and safety of IB ingredients
+SME Support
+Support businesses to navigate regulatory requirements, especially SME’s
+Develop proposal for IB degree apprencticeships, via Catapults
+Document and evaluate current training provision and best practice
+In HEIs
+UKRI & NIBB establish a programme for seconding early career academics into industry
+IBBE sectory is recognized as an attractive career option for highly skilled bioscientists and engineers
+Develop comprehensive road map of routes to IB careers with case studies
+Industry up-skilling and cross-skilling strategy
+In Industry
+Skills
+Develop industry-recognised validation scheme for IB training
+Career guidance resources
+Cross-sector
+Government/ Policy Makers
+High profile endorsement by industry Champion/Influencer
+Work with e.g. BIA, BBIA
+Delegation to IB World Congress
+IB Pitch event II
+IB Pitch event
+Investors
+Develop brand and communication channels, e.g Great British Biotech Youtube channel, videos of pitches for investors, case studies
+IBLF fund permanent co-ordinator for IBBE
+One IBLF member to be sponsor for each NIBB Phase II
+Wider society is well informed and supportive of RRI in IBBE
+Communication
+IB Community
+Awareness of funding available
+Develop a strategy for targeting masses
+Society
+Celebrity IB Champion
+Public Advertisements
+New IBLF website including public outreach and media resources
+Develop simple unifed materials to promote benefits of IB
+Resources
+[Page #23]
+A National Industrial Biotechnology Strategy to 2030
+External EnvironmentAction Holder: KTN
+Access to Funding and FinanceAction Holder: UKRI
+Long-term vision: Supportive financial environment that recognises the potential of IB for driving growth and innovation
+Long-term vision: Consensus on a consistent long-term policy landscape that supports IB
+Phase 1 deliverables
+Phase 1 deliverables
+– Distribution list identifying key
+– Two rounds of funding for IB translation
+It is imperative that the UK leads in the IB sector, not just for the future well-being of the UK population, but for the future of the planet and all its inhabitants. That leadership requires commitment and investment from policymakers that extend beyond typical political cycles. We need agreements that have cross -party support to provide an environment in which UK IB has time and certainty to develop and thrive.
+The IB Catalyst was a valuable and effective source of funding and provided for the sharing of risk in commercialising technology, supporting the development and the demonstration of technology, products and processes. Its cessation has exacerbated what is already a highly challenging funding landscape, given lead times to commercialisation, and is disadvantaging the IB sector against international competition and other innovative UK sectors. In addition, private investment is hampered by a lack of understanding of IB as an underpinning, cross-cutting technology, spanning several market sectors.
+stakeholders
+competition
+– IB is specifically referenced in other
+– First and second annual pitching events
+relevant strategy implementation plans
+– Panel of IBLF mentors established with procedures for introduction documented
+– Register of key stakeholders who
+understand and are advocates for IB
+– Database of investors in IB available to
+– Report on impact of Brexit negotiations
+key stakeholders
+outcome on IB community
+– Report on best practice and enabling policies of international competitors
+– Briefing paper on wider opportunities
+for IB in government
+Phase 1 key actions
+End of Phase 1 key milestones
+– Alignment with Clean Growth Strategy
+End of Phase 1 milestones
+and IB embedded in resulting implementation plans
+Two rounds of dedicated funding competitions completed and projects initiated. Availability of appropriate new finance for SMEs to access demonstration facilities. International best practice in supporting innovation case studies available to the IB community.
+Increased awareness of principles of IB and strategy through engagement across UK and regional government departments and political parties. IB strategy is aligned with key overarching strategy documents, communicating well-defined unified goals to all stakeholders, embedded in relevant action plans. UK vision for IB sector is communicated to international partners, in particular developing awareness throughout Europe.
+Phase 1 key actions
+– Alignment with Bioeconomy Strategy
+– Dedicated funding to be reinstated with structure to support translation of IB
+and IB embedded in resulting implementation plans
+– Support for SMEs to access finance
+enabling demonstration of technologies
+– Identify key stakeholders across parties
+and government departments
+– IBLF establishes a panel of experienced
+mentors in IB to support SMEs
+– Work with national, regional, and local policy makers to develop an understanding of IB and the benefits to UK Plc
+– Development and maintenance of a
+database of investors in IB arena and annual investor pitching events with the aim to build relationships with global investors and attract new investment
+– Monitor potential implications of Brexit
+impact for IB strategy
+– Joint government/industry initiatives to
+– Identify opportunities for IB in wider
+fund demonstration and pilot projects with input from IBLF to ensure strategic value
+government policy actions, e.g. Bioeconomy Sector Deal
+– IBLF and NIBB to work together in
+responding to the current BEIS Patient Capital Review
+– Document best practice in IB innovation and enabling policies from international competitors
+[Page #24]
+A National Industrial Biotechnology Strategy to 2030
+Infrastructure & Regional FootprintAction Holder: BioPilots UK
+Trade, Inward Investment & CommercialisationAction Holder: DIT
+Long-term vision: IB is a major contributor to clean economic growth across all of the UK
+Long-term vision: UK is an international IB innovation and commercialisation hub
+Phase 1 deliverables
+Phase 1 deliverables
+– Long-term UK-wide strategy for IB
+– Evidence available for impact of
+IB is recognised as an area with considerable revenue growth potential for the UK in exports and GVA. With a maturing R&D landscape, it is imperative that private investment is supported, sustained and grown in future years; and that the UK is viewed as ‘a key destination’ for investment in IB.
+infrastructure
+IBLF panel: access by SMEs; stage of commercialisation
+UK IB infrastructure is already relatively strong, but there is a need for greater support to allow access to existing infrastructure by SMEs, and less capital intensive, relatively lower cost ‘scale-out’ infrastructure. The development of regional clusters will foster this ease of access and supports specifically the place and people/ideas foundations of the industrial strategy to develop regional centres of excellence broader than individual universities.
+– Open database of UK IB infrastructure
+– Case studies (written and video) available and in use by a variety of stakeholders to promote UK IB
+– Academic representatives invited to IBLF
+meetings
+– Clusters of expertise and infrastructure are developed and widely publicised
+– At least one trade delegation completed to each of the high impact international markets identified
+Phase 1 key actions
+– Report evaluating benefits to UK of exporting UK scientific expertise
+End of Phase 1 key milestones
+– Establish panel of IB commercialisation
+industry experts to advise SMEs on inward investment
+IB infrastructure strategy in place for long-term view to 2030 and 2050, with IB champions identified and briefed at the highest levels of policymaking to ensure IB and its capabilities for growing the UK remains visible to ministers, so they can understand and respond to future needs. IB Infrastructure sub-group to have completed at least two meetings. Asset database available and promoted nationally and globally by NIBB, IBLF, BioPilots UK, and KTN, with support identified to enable UK SME access. New support promoted for long-term sustainability and growth of SMEs. Development of and evidence for regional support for modular manufacturing principles.
+– Report on large companies actively
+Phase 1 key actions
+engaging with the SME sector
+– Promote success stories in IB sector to
+– Map UK IB infrastructure, including open access facilities, made available in open database
+– Register of large anchor companies with
+government to demonstrate ROI
+active policy engagement
+– Scope high impact international export
+– Delivery of BioPilots business case
+markets
+including work packages for: i) business support; ii) infrastructure and capabilities investment; iii) business tools; iv) policy support; v) communications
+– Scope feasibility and benefit to UK Plc of exporting UK scientific expertise as part of borderless value chain
+End of Phase 1 key milestones
+Potential markets identified, with key international markets scoped and trade delegations completed. UK recognised as leading source of appropriately protected but exploitable intellectual property.
+– Consolidation of UK IB coordination activities and formation of IBLF IB sub-group that acts as governance for BioPilots
+– Large companies identified to help SMEs
+to leverage (international) funding
+– Identify and incentivise future indigenous
+anchor businesses to engage in government policy
+– Dedicated financial support to SMEs for
+accessing existing infrastructure
+– IBLF establishes a panel of experts in IB to support and mentor SMEs in scale-up and process development
+– Consolidation and coordination of regional infrastructure plans and databases
+– Identification, development and promotion of clusters to include academic excellence in specific themes
+[Page #25]
+A National Industrial Biotechnology Strategy to 2030
+Regulation and StandardsAction Holder: IBLF
+SkillsAction Holder: IBLF
+Long-term vision: UK frameworks are recognised as robust and support risk aware innovation
+Long-term vision: IB sector is recognised as an attractive career option
+Phase 1 deliverables
+Phase 1 deliverables:
+The UK is globally renowned for its excellence in life sciences, chemistry and engineering technical capabilities, and both industry and academia benefit from the capability of graduates from UK universities. However, there is a shortage of graduates with the relevant IB skills. In addition, the upskilling of the UK IB workforce is essential, especially due to the threat of a nationwide talent drain, due to Brexit.
+– ‘Regulation for Innovation’ working group
+– Report on IB training provision in the
+EU and international regulation and standards are likely to still apply to UK IB post-Brexit, nevertheless, the UK could enhance its competitive advantages by putting in place UK support structures that speed up responsiveness to the needs of IB businesses, and offer ongoing financial and advisory support to SMEs. It is essential that a ‘level playing field’ is created such that bio-based products are treated equally to biofuels.
+constitution and remit documented
+UK, including potential for IB validated academic and vocational qualifications fit for industry need
+– Two meetings of working group
+completed with published assessment of existing regulatory frameworks and implications of UK exit from EU
+– Existing up- and cross-skilling
+opportunities catalogued and promoted
+– Call for green paper on regulation of new
+– Strategy for industry up- and cross-
+materials
+skilling published
+– Report on principles and proposals for simplified labelling scheme, including recommendations for next phase
+– Recognised programme for seconding early career academics to industry established
+Phase 1 key actions:
+– Infographic conveying key information on regulatory bodies and processes for IB technologies and products
+– Annual two-day careers in IB event in
+Phase 1 key actions
+conjunction with cogent skills
+– Evaluate current IB training provision in
+– Establish ‘Regulation for Innovation’
+the UK to identify gaps
+working group
+– Evaluate potential for IB apprenticeships
+– Review existing regulatory frameworks and assess implications of UK exit from EU
+via Catapults which meets industry requirements
+End of Phase 1 key milestones:
+End of Phase 1 key milestones
+Review of current and potential future IB training in UK completed. IB apprenticeships scoped with significant progress towards implementation; programme structure proposed with validation methodology; industry and funders engaged. Implementation plan for IB upskilling. Resourced secondment programme in place.
+– Develop industry-recognised validation
+‘Regulation for Innovation’ working group set up and two meetings completed. Green paper announced for regulation of new materials. Principles agreed and proposals for simplified labelling system. Resources available and promoted to provide SMEs with regulatory guidance, including signposting of existing resources. Risk register review complete, with recommendations for next phase.
+– Begin to develop a strategy for legislation
+scheme for IB training
+of new materials and safety of IB ingredients
+– Develop industry upskilling and cross-
+skilling strategy
+– Utilise regulation to IB advantage e.g.
+– Establish a recognised programme for seconding early career academics into industry
+bio-preferred programme
+– Work towards simplification of GMDI
+labelling
+– Develop IB career guidance resources,
+– Support businesses to navigate
+including annual two-day careers event to promote
+regulatory requirements, especially SMEs
+[Page #26]
+A National Industrial Biotechnology Strategy to 2030
+Communications Action Holder: IBLF
+Long-term vision: One IB community voice, with consistent clear messages, where wider society is well informed and supportive of Responsible Research and Innovation (RRI) in IB
+– Develop public awareness campaign, including high profile IB champion
+required in the sector, along with increased and long-term investment and patient capital provision will generate a productive sector able to respond to macro trends and global needs. This joined up approach will support innovation which is responsive to the needs of industry, with an informed consumer base driving market demand for IB products and processes.
+The National Strategy for Industrial Biotechnology 2030 presents a unified vision for development of the sector that places IB at the heart of the future UK economy. Implementation of the strategy through three phases is designed to ensure that the delivery plan is responsive to the changing industrial landscape throughout the lifetime of the strategy, so that the UK can respond effectively to challenges such as the emerging trade and regulatory environments following the exit of the UK from the EU. Actions and deliverables in Phase I have therefore been defined in detail above, establishing strength in each of the five foundations identified in the UK Industrial Strategy, which will form the basis for subsequent phases.
+– Work with trade bodies and societies to
+promote IB
+Public commitment by academia and industry to the principles of RRI in conjunction with development of public awareness of IB will help to foster positive social attitudes to new technologies and drive the market pull for responsibly developed IB products. It is important to develop clear messages for different audiences, including industries that may benefit from but have yet to engage with IB. Resources such as simple glossaries of terminologies can help to demystify IB to enable effective communication with key decision makers within established industries where IB is not yet a technology of choice.
+Phase 1 deliverables
+– Public outreach and media resources to promote awareness of IB, including technology/industry case studies, made available through new IBLF website
+Phase 3 will cement the position of the UK as a first-choice destination for development and deployment of IB processes, with seamless provision to a global market of end-users. Ongoing evaluation of this strategy will ensure that it is refreshed so that it is fit for purpose in an evolving and highly competitive international market. Ongoing coordination and a united national vision for IB will ensure that the sector can respond to emerging technologies and global events, which might otherwise adversely affect UK society and the economy.
+– Glossary of IB terminology supported by narrative case studies to promote industrial awareness of IB technologies and benefits
+– IB infographic outlining the benefits and
+impact of IB in the UK
+– First and second annual IB pitch events
+Phase 2, to 2023, will consolidate these efforts, building upon a broad evidence base gathered in Phase 1 to ensure a fully coordinated and long-term strategic approach to ensure a more self-sufficient community, supportive policy environment through an informed and engaged government and future-proofed UK industry. Establishment of recognised career paths to create the skilled academic researchers, industrialists, and particularly entrepreneurs
+– Coordinated UK delegation to BIO-World
+Congress on IB
+Phase 1 key actions
+– IBLF UK Industrial Biotechnology Strategy Coordinator appointed
+– Series of fit for purpose messages using common language to support IB community needs, including public outreach materials, made available through new outward facing IBLF website
+End of Phase 1 key milestones
+– Create IB infographic on strategy
+BIA, CIA and BBIA advocates identified with action plans to influence policy. Strong industry champion and/or ‘celebrity’ advocates for IB engaged in active promotion to government and society. (Inward) investment discussions initiated as a result of pitch event and World Congress. IBLF IB coordinator role funded and appointment made. IBLF NIBB sponsors appointed and mechanisms in place for streamlined NIBB/IBLF interaction. Public awareness campaigns to raise the profile of IB, including coordinated activities, such as advertising campaign, on line material and newly launched IBLF website.
+that clearly outlines the benefits and impact of IB in the UK with a supporting commentary document
+– Benchmark communications used in
+other countries
+– Annual IB pitch event to communicate
+opportunities and encourage investment
+– Coordinated delegation to BIO-World
+Congress on IB
+– Awareness of funding available
+– One IBLF member to be sponsor for each NIBB Phase II and IBLF fund permanent coordinator
+[Page #27]
+References
+About the Authors
+1. Biotechnology: Chemistry Goes Green, The
+Applications - Baby Food, Sports/Nutrition Bars, Dairy Alternatives, Meat Alternatives, and Convenience Beverage) - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2016 - 2024, https://www.transparencymarketresearch.com/multifunctional-food-ingredients-market.html
+Economist, The Economist Newspaper Ltd, July 2010
+2. Natural Surfactants Market: Global Forecast until 2022, https://www.reportlinker.com/p05292517/Natural-Surfactants-Market-by-Product-Type-Application-And-Region-Global-Forecast-to.html
+17 Dimensions free text search in full data, keywords: gut AND microbiome AND disease, https://app.dimensions.ai/18 Investing In The Microbiome – A Look Back Into The Future, http://www.global-engage.com/life-science/investing-microbiome-future/
+3 Bio-Plastics Market: Global Industry Analysis,
+Trends, Market Size & Forecasts to 2023, https://www.reportlinker.com/p04947542/Bio-Plastics-Market-Global-Industry-Analysis-Trends-Market-Size-Forecasts-to.html
+19 Human Microbiome-based Drugs and Diagnostics: Global Markets, https://www.reportbuyer.com/product/4923591/human-microbiome-based-drugs-and-diagnostics-global-markets.html
+4 Clean Growth Strategy, https://www.gov.uk/
+government/publications/clean-growth-strategy
+5 Top 20 Drugs in the World 2017, https://igeahub.
+com/2017/08/08/top-20-drugs-in-the-world-2017/
+20 Building on success: Scotland’s Industrial
+Biotechnology Plan 2015-2025, https://www.scottish-enterprise.com/knowledge-hub/articles/publication/scotlands-industrial-biotechnology-progress-report-2015-2025
+6 Global Biologics Market: High Profitability and
+Increased Profit Margins through Premium Prices Encourage Growth, finds TMR, https://www.transparencymarketresearch.com/pressrelease/global-biologics-market.htm
+Dr. Jen VanderhovenFUJIFILM Diosynth Biotechnologies
+Dr. Mark CorbettThe University of Manchester
+21 UK Synthetic Biology Start-up Survey 2017, http://www.synbicite.com/news-events/materials/uk-Synthetic-biology-start-up-survey-2017/
+7 UN Sustainable Development Goals, http://www.un.org/sustainabledevelopment/sustainable-development-goals/
+22 Science Industry Partnership Skills Strategy 2025
+8 UK Industrial Strategy: Building a Britain Fit for The Future, https://www.gov.uk/government/publications/industrial-strategy-building-a-britain-fit-for-the-future
+23 Technician Roles, Skills, and Training in Industrial
+Biotechnology: An Analysis. Paul Lewis, Department Of Political Economy, King’s College London
+Jen is a Senior Project Manager for FUJIFILM Diosynth Biotechnologies, working on global business transformation projects. Before this, she was the Network Manager for CBMNet, a BBSRC Network in Industrial Biotechnology and Bioenergy, where her primary goal was the acceleration and development of innovative products, processes and services that drive the translation and adoption of new technologies, for the benefit of the UK industrial biotechnology economy. Educated at the University of Sheffield to PhD level in the field of biochemistry, she has worked for more than a decade in a career spanning both the higher education and commercial sectors. This includes two partnership development and knowledge transfer roles, as well as experience within the pharmaceutical sector in sales and marketing, and laboratory management positions, developing renewable energies.
+Mark is Scientific Project Manager for the Centre of Excellence in Biocatalysis, Biotransformations, and Biocatalytic Manufacture, based in the Manchester Institute of Biotechnology, and Network Manager for BIOCATNET, a BBSRC Network in Industrial Biotechnology and Bioenergy. Mark has worked in the academic sector for nearly 20 years, with a PhD in molecular cell biology from the University of Sheffield. For the past ten years, he has worked for the University of Manchester, managing UK and European collaborative research and innovation projects at the academic-industrial interface. In his current role, he is tasked with supporting the accelerated translation of biocatalytic manufacturing research into industrial biotechnology processes and products.
+24 Demand Assessment and Feasibility Study into the
+9 A Green Future: Our 25 Year Plan to Improve the Environment, https://www.gov.uk/government/publications/25-year-environment-plan
+Establishment of Advanced Training Partnerships in Industrial Biotechnology, Science Industry Partnership
+10 Climate Change Act 2008, https://www.legislation.
+25 High level STEM skills requirements in the UK
+gov.uk/ukpga/2008/27/contents
+labour market, https://www.gov.uk/government/publications/high-level-stem-skills-requirements-in-the-uk-labour-market
+11 The Paris Agreement, http://unfccc.int/paris_
+agreement/items/9485.php
+26 English apprenticeships: our 2020 vision,
+12 Developing a Strategy for Industrial Biotechnology
+https://www.gov.uk/government/publications/apprenticeships-in-england-vision-for-2020
+and Bioenergy in the UK
+13 Preparatory Study on Food Waste Across EU 27, http://ec.europa.eu/environment/eussd/pdf/bio_foodwaste_report.pdf
+27 Modern Apprenticeships Frameworks, https://www.skillsdevelopmentscotland.co.uk/what-we-do/our-products/modern-apprenticeships/modern-apprenticeship-frameworks/
+14 2013 - 2017 Flavor & Fragrance Industry Leaders,
+http://www.leffingwell.com/top_10.htm
+15 Global Zero-Calorie Sweetener Market 2017 - 2021, https://www.technavio.com/report/global-food-global-zero-calorie-sweetener-market-2017-2021
+16 Functional Food Ingredients Market (Ingredients
+- Vitamins, Proteins and Amino Acids, Minerals, Probiotics, Prebiotics and Dietary Fiber, Carotenoids, Omega 3 and 6 Fatty Acids, Essential Oils, Soy Protein, and Hydrocolloids; Health Benefits - Nutrition, Bone Health, Heart Health, Weight Management, Gut Health, and Immunity;
+[Page #28]
+Industrial BiotechnologyLeadership Forum
+A National Industrial Biotechnology Strategy to 2030

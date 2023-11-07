@@ -1,0 +1,759 @@
+[Page #0]
+National Quantum Strategy
+March 2023
+[Page #1]
+© Crown copyright 2023
+This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3 or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: psi@nationalarchives.gsi.gov.uk.
+Where we have identified any third-party copyright information you will need to obtain permission from the copyright holders concerned.
+Any enquiries regarding this publication should be sent to us at: OfQenquiries@beis.gov.uk
+[Page #2]
+Contents
+Ministerial Foreword _________________________________________________________ 5
+Executive Summary _________________________________________________________ 7
+Building on strong foundations _______________________________________________ 8
+A new ten-year vision, plan and commitment ___________________________________ 10
+Objectives ______________________________________________________________ 11
+Priority Actions __________________________________________________________ 12
+Introduction: Quantum Technologies in the UK ___________________________________ 15
+What are quantum technologies? ____________________________________________ 15
+The National Quantum Technologies Programme _______________________________ 16
+UK Strengths ___________________________________________________________ 18
+Challenges _____________________________________________________________ 19
+Our Approach ___________________________________________________________ 21
+Ten-year vision and goals __________________________________________________ 22
+Goal 1: World-leading research and skills _______________________________________ 24
+Research and Development ________________________________________________ 24
+Skills __________________________________________________________________ 26
+Building a quantum-literate workforce _______________________________________ 28
+International Partnerships __________________________________________________ 30
+Goal 2: Supporting Business _________________________________________________ 32
+The UK quantum sector ___________________________________________________ 32
+Working hand in hand with the quantum sector _________________________________ 33
+Commercialisation and Accelerators _________________________________________ 33
+Infrastructure ___________________________________________________________ 33
+The UK’s business support offer _____________________________________________ 37
+Investment to unleash innovation ____________________________________________ 38
+Growing global supply chains _______________________________________________ 39
+Attracting quantum businesses to the UK ______________________________________ 40
+Goal 3: Driving the adoption of Quantum Technologies in the UK _____________________ 41
+Quantum Technologies for Societal Good _____________________________________ 42
+NQCC test bed for quantum computing applications ___________________________ 44
+3
+[Page #3]
+Leading by example through government signalling and procurement ________________ 45
+Goal 4: Leading quantum regulation and protecting the sector _______________________ 47
+Protecting the UK sector to support growth ____________________________________ 48
+Mitigating the risks associated with quantum ___________________________________ 50
+Technical Standards ______________________________________________________ 51
+Assurance of quantum technologies __________________________________________ 52
+Conclusion _______________________________________________________________ 54
+Implementation __________________________________________________________ 54
+Summary of Actions ______________________________________________________ 56
+4
+[Page #4]
+National Quantum Strategy
+Ministerial Foreword
+The first generation of quantum technologies created many innovations that we now take for granted in modern society, from the MRI machine to mobile devices. Yet there are lesser known but equally powerful inventions emerging from UK labs that could change our world beyond recognition.
+These inventions will improve the lives of everyone in the UK, from improving healthcare and speeding up drug discovery, to boosting economic growth and security and providing jobs. They will also help us tackle climate change, build a sustainable future for our children, and help the UK to respond to growing global volatility, as set out in the government’s Integrated Review Refresh.
+Quantum rewrites the rules of classical physics, and in doing so allows us to do things previously thought impossible. Take, for example, exquisitely sensitive brain scanners that will reveal new insights into epilepsy or dementia, or sensors that let us see what lies beneath the ground from the surface. These are already being used in real-world settings today.
+In 2023, the government created the Department for Science, Innovation and Technology (DSIT) to deliver our mission to be the most innovative economy in the world and a science and technology superpower. Quantum technologies are at the core of this mission, not only as one of our five priority technologies of tomorrow – quantum, AI, engineering biology, semiconductors, future telecoms – but also as a technology that could release the full potential of every other on that list.
+The UK is already a global leader in quantum technologies. In 2014 we set up the National Quantum Technologies Programme, the first of its kind in the world, to support excellent research and begin to take technologies out of the research environment. The UK’s highly collaborative quantum community reflects that foresight from nearly ten years ago. The UK has world-leading strengths in quantum, including our deep research talent, the knowledge built up across the different quantum technologies, our rapidly growing quantum sector, and our strengths throughout quantum and related supply chains.
+We are determined to build on these strengths with vision and long-term funding certainty. This national strategy sets out our new ten-year ambitious commitment to quantum technologies in the UK. We firmly believe that Britain should lead the world in this physical science and deliver opportunities and jobs in hardware, engineering and advanced manufacturing as well as in software and applications across the economy. As part of our new department’s ethos of taking immediate action backed up by strong long-term planning we are more than doubling our investment into quantum by investing £2.5 billion in quantum over the next ten years, with the aim of attracting significant additional private investment on top of that.
+5
+[Page #5]
+National Quantum Strategy
+This ten-year plan will fund new frontiers of quantum research, support and develop our growing quantum sector, prepare our wider economy for the quantum revolution and ensure that the UK leads internationally in the regulation and ethical use of quantum technologies. We will make the UK the home for cutting-edge scientific breakthroughs, the best place in the world to start and grow a quantum business, a leading voice in the international quantum and tech community, and a magnet for international quantum talent.
+We have worked hand in hand with the UK quantum community to bring this national strategy to fruition; I would like to thank everyone who has contributed to this process. The hard work starts now to deliver on its goals together.
+The Rt Hon Michelle Donelan MP
+Secretary of State for Science, Innovation and Technology
+6
+[Page #6]
+Executive Summary
+Over the next ten years, quantum technologies will revolutionise many aspects of life in the UK and bring enormous benefits to the UK economy, society and the way we can protect our planet. The UK has a world-leading position and quantum is one of the top priorities for the government, as set out in the Integrated Review Refresh. This strategy sets out our plan for the next ten years, building on the successes to date, to realise the incredible potential of these technologies for the UK.
+Quantum technologies take advantage of phenomena at the atomic scale to find new ways to manipulate information. These technologies will one day make it possible to solve complex problems that are currently impossible to solve with even the most powerful high-performance classical computer and will allow us to reach entirely new frontiers in sensing, timing, imaging and communications.
+Quantum technologies already offer possible solutions to some of our greatest societal challenges and, perhaps most excitingly, offer future capabilities that are yet to be explored. They will improve lives, drive economic growth and create jobs, and make us more secure.
+• The exponential increase in computing power from quantum computers could
+revolutionise our healthcare system - from dramatically improved drug discovery techniques to providing personalised treatment to an individual based on genetic and environmental factors -, help to manage and make best use of our national energy infrastructure, and even accelerate the path to autonomy and entirely new AI applications. It could deliver on our sustainability goals by improving solar panels and batteries as well as cutting the energy demands of data centres. Over the next three to five years, quantum computing could deliver $5-10 billion of benefits across the world; and this rises to $450-$850 billion in the next fifteen to thirty years.1
+• Quantum sensing and imaging can provide unprecedented insight about what lies beneath the ground - saving billions in environmental monitoring and on large-scale construction projects -, open new ways to diagnose and treat disease and monitor and reduce greenhouse gas emissions that are invisible to the human eye. Quantum sensing could generate at least $5 billion in revenue by 2030.2
+• Quantum clocks and communication could help us develop new navigation and timing capabilities without the need for a satellite link, providing even
+1 Boston Consulting Group July 2021 “What Happens When ‘If’ Turns to ‘When’ in Quantum Computing? 2 McKinsey & Company, December 2021
+7
+[Page #7]
+greater resilience for railways, telecommunications and emergency services - as well as helping to secure the global communications network against cybercrime. Quantum communications could account for an estimated $8 billion in revenue by 2030.3
+Those countries that are amongst the first to develop quantum technologies, and use them widely across the economy, will have vast advantages in terms of productivity, economic growth, health, sustainability, and national security and resilience, not least because of the anticipated ability of quantum computers to undermine cryptography used to secure the internet. This means that quantum is a priority technology for the government, and one that will remain critically important for our economic growth, economic security, national security and defence. We are in a global race to develop and commercialise these capabilities. The UK was an early mover, but other countries are accelerating their own efforts. Investing in quantum now, building on the strengths that we have already established, will ensure that we deliver on quantum technologies for the UK.
+Building on strong foundations
+We have already made great progress in the UK, with a £1 billion investment in research and development from 2014.4 Over its ten-year lifetime, this programme has built leading capabilities in quantum computing, sensors and timing, imaging and communications, and helped to build their path to market. As a result, the UK has considerable strengths and opportunities in quantum:
+• We have invested in quantum skills, funding postgraduate research and
+fellowships, and have some of the world’s leading quantum experts. Our talent is a key draw to locate a quantum business in the UK.
+• We have a rapidly growing quantum sector - we rank second in the world to
+the US for the number of quantum companies and second in attracting private investment, leading the competition in Europe.5
+• The UK’s developing quantum sector has a broad range of capabilities, with
+companies across the range of quantum technologies – computing, communications, sensing, imaging, and timing. We are also acknowledged as world-leading in developing quantum computing software for error correction and applications.
+• We have industrial strengths in the supply chain, in areas such as photonics, electronics and cryogenics, which are essential to quantum technologies. We
+3 McKinsey & Company, December 2021 4 UK National Quantum Technologies Programme (NQTP) 5 DSIT internal analysis using Quantum Insider data, Feb 2023. See technical annex for more details.
+8
+[Page #8]
+have world leading clusters, such as the compound semiconductor cluster in South Wales, and a long-established photonics cluster in Scotland.
+• The extent of collaboration within the quantum community in the UK is a particular and rare strength. The government has funded 139 projects involving 141 quantum organisations through the Innovate UK Commercialising Quantum Challenge alone.6 The interplay between the different elements of the community in the UK – from hardware, to software, to components and enablers – is particularly strong.
+• Our testing and assurance capabilities, through the National Physical
+Laboratory, are amongst the best in the world and a key enabler for the sector.
+• We also have key user sector strengths, for example, in space, finance,
+aerospace, defence and life sciences, which provide a strong domestic market for quantum technologies.
+• We are also strong in other technologies, such as artificial intelligence, high performance computing, space, telecoms, and engineering biology, which when integrated with quantum technologies could boost capabilities and impact.
+Government investments to date through the National Quantum Technologies Programme have created a unique and diverse pool of talent, capabilities and know-how within our quantum sector. However, given the pace of change globally and the challenge of bringing quantum into widespread use, it is the right time to set out a clear ambition and funding certainty for the next ten years to capitalise on this leading position and to accelerate the path to commercialisation.
+This strategy sets out a bold and ambitious approach to supporting quantum technologies in the UK across the broad spectrum of quantum computing, sensing, timing, imaging and communications. We will develop UK strengths across different hardware platforms, software and components, and reinforce our capabilities throughout the supply chains. Although international collaboration is an essential part of our approach, it is not in the UK’s interests to rely purely on others for access to these critical technologies. We will also invest in and strengthen the key ecosystem enablers, such as skills, infrastructure, regulation and standards. We will monitor the development of these technologies, both in the UK and in other countries, and the development of the market, to ensure we can flex our approach to deliver the best possible outcome for the UK.
+6 UK Quantum Technologies Challenge, The Directory, UKRI
+9
+[Page #9]
+A new ten-year vision, plan and commitment
+Our vision is for the UK to be a leading quantum-enabled economy by 2033, with a world leading sector, and where quantum technologies are an integral part of the UK’s future digital infrastructure and advanced manufacturing base, driving growth and helping to build a thriving and resilient economy and society.
+To achieve this, we will commit £2.5 billion to developing quantum technologies in the UK over the ten years from 2024 – more than doubling current public investment - which will aim to generate an additional £1 billion of private investment into the programme. This programme will:
+• Ensure the UK is home to world-leading quantum science and engineering,
+growing UK knowledge and skills
+• Support business, making the UK the go-to place for quantum businesses and an integral part of the global supply chain, as well as a preferred location for investors and global talent
+• Drive the adoption and use of quantum technologies in the UK to deliver benefits for the economy and society, as well as our national security
+• Create a national and international regulatory framework that supports
+innovation and the ethical use of quantum technologies, and protects UK capabilities and national security
+This strategy sets out a ten-year vision, plan and priority actions. As quantum technologies develop, the UK will need to make some key strategic decisions about where to focus efforts to realise the benefits from these technologies. At this early stage it is important to continue to build the science, grow the vibrant ecosystem, explore a range of technology platforms and parts of the supply chain where the UK has world leading strengths, in addition to focussing on software and use case exploration. But it’s also important to be more targeted where and when we can, working with industry to accelerate development within high value applications as they emerge to grow a world class quantum sector and deliver benefits for the economy and society.
+We will therefore develop our priority actions over time within the wider programme based on progress and wider trends, in full consultation with the UK quantum community. We will report regularly to the National Science and Technology Council, chaired by the Prime Minister, and publish an annual report on progress.
+10
+[Page #10]
+Objectives
+The UK position today
+2033 target
+• Ensure the UK is home to world-leading quantum science and engineering,
+growing UK knowledge and skills
+Among the top 10 nations producing quantum scholarly outputs, the UK ranks 3rd for the quality and impact of its quantum science. (Based on field-weighted citation impact 2017-21).
+By 2033 we will maintain our top 3 position in the quality of our quantum science publications, whilst increasing the volume of our research publications.
+Since 2014 the UK has funded over 470 postgraduate research students working on quantum technologies or a related discipline.
+By 2033, we will have funded an additional 1000 postgraduate research students in quantum relevant disciplines.
+Bilateral arrangements with the US on quantum collaboration.
+By 2033 we will have bilateral arrangements with 5 further leading quantum nations, based on substantive collaborative work programmes
+• Support business, making the UK the go-to place for quantum businesses and an integral part of the global supply chain, as well as a preferred location for investors and global talent
+The UK has attracted ~12% of global private equity investment into quantum technology companies (2012-22).
+By 2033, the UK will have a 15% share of global private equity investment into quantum technology companies.
+The UK currently has an estimated ~9% global market share in quantum technologies (2021/22).
+By 2033, the UK will have a 15% share of the global quantum technologies market.
+• Drive the use of quantum technologies in the UK to deliver benefits for the
+economy, society and our national security
+25%-33% of businesses have taken concrete steps to prepare for the arrival of quantum computing.
+By 2033, all businesses within key relevant sectors of the UK will be aware of the potential of quantum technologies and 75% of relevant businesses will have taken steps to
+11
+[Page #11]
+prepare for the arrival of quantum computing.
+• Create a national and international regulatory framework that supports
+innovation and the ethical use of quantum technologies, and protects UK capabilities and national security
+Quantum regulation and standards framework yet to be defined.
+The UK will be a global leader in establishing global standards for quantum.
+For details on the data-sources that underpin this table and for the methodology, please refer to the Technical Annex to be published alongside this strategy. We will be publishing a further evidence paper within a few weeks of this strategy.
+Priority Actions
+This strategy sets out the main activities we will undertake to deliver these objectives. We will:
+1
+Invest £2.5 billion of government funding in quantum R&D over the ten years from 2024. This will include funding for:
+o A future network of research hubs in areas of quantum technologies
+and science that will ensure the UK is a global centre of excellence for the long term
+o Accelerator programmes that will increase the pace of progress towards the development and commercialisation of quantum technologies
+o Challenge-led innovation funding, driving collaboration between
+industry, academia and government and strengthening the growing UK quantum sector
+o Training and talent programmes for the postgraduate skills, technical
+professionals and apprenticeships to deliver the quantum researchers, innovators and practitioners the UK needs
+o Collaborative R&D programmes with our international partners o
+Investment in infrastructure to support quantum researchers and companies
+o o
+Investment in fundamental research
+Increased investment in the National Quantum Computing Centre, including in its equipment and procurement of quantum computing capabilities for use by businesses, researchers and the government.
+12
+[Page #12]
+2
+Increase our investment in quantum technologies from this year, with the following new funding available for:
+o Launching a £70 million programme of missions in quantum computing
+and PNT
+o £100 million investment to continue to develop research hubs in
+quantum computing, communications, sensing, imaging and timing
+o £25 million for increased investment in quantum fellowships and
+doctoral training
+o £15 million to boost government procurement of quantum technologies
+for public use
+o £20 million for acceleration activities working with the sector on
+collaborative R&D in quantum networking
+o £20 million additional funding for increased activities through the
+National Quantum Computing Centre
+o
+Increased international collaborations via the new International Science Partnerships Fund
+Recognising the importance of skilled people, launch new doctoral training centres and fellowships in quantum, a Quantum Skills Taskforce, and develop an industry placement scheme and a quantum apprenticeship programme. This would start with an initial additional investment of £25 million over the next two years, with funding continuing to increase over the next phase of the programme.
+3
+Proactively seek to attract, retain and invest in skilled quantum individuals who want to come to the UK, including delivering a quantum stream of the Global Talent Network.
+4
+Commission an independent review of the quantum sector’s infrastructure requirements.
+5
+Showcase UK quantum companies at home and overseas, launching targeted campaigns to generate business in global supply chains, unlock capital and help our companies to scale.
+6
+Attract and support quantum companies who want to move to the UK from overseas, providing programmes and investment opportunities.
+7
+Establish stronger mechanisms and catalyst funding through a quantum catalyst fund to accelerate government procurement and enable government to act as an intelligent, early customer of quantum technologies, starting with
+8
+13
+[Page #13]
+a catalyst pilot of £15 million over the next two years, including for national security purposes.
+9
+Accelerate the work of the National Quantum Computing Centre to support adoption of quantum computing in key sectors of the UK economy, including government, and provide a front door to businesses, researchers and other users to negotiate access to quantum computing resources and explore how they can be used.
+10
+Significantly expand our partnerships with global allies, bilaterally, multilaterally and in wider multilateral fora, including on regulation and standards.
+11
+Undertake a Regulatory Horizons Council Review of the future needs for quantum technologies regulation to enable the sector to innovate and grow.
+12
+Protect key areas of quantum capabilities, including through the use of the National Security Investment Act and export controls, as well as offering guidance and support to the quantum community.
+13
+Establish the Office for Quantum in the Department for Science, Innovation and Technology (DSIT) to ensure focus and drive to implement this strategy, and report regularly to the National Science and Technology Council, chaired by the Prime Minister.
+We have consulted widely during the work on this strategy and would like to thank all those who contributed to our call for evidence and participated in workshops and discussions. We are particularly grateful for the advice from the partners on the National Quantum Technologies Programme, and the independent Strategic Advisory Board chaired by Sir Peter Knight, and to the Institute of Physics, the Institution of Engineering and Technology, techUK, the Royal Academy of Engineering and UKQuantum for their support.
+14
+[Page #14]
+Introduction: Quantum Technologies in the UK
+What are quantum technologies?
+Many technologies that are part of our everyday life are based on our knowledge of quantum mechanics, from the lasers that are used in smartphones or for modern telecommunications, to superconducting devices which have revolutionised medical imaging.
+Today, second-generation quantum technologies make the realisation of entirely new advances possible, based on the ability to generate, detect and control quantum states. We are on the cusp of a new wave of innovation that will offer a step change in performance from an unprecedented increase in compute power, to exquisitely precise sensors, and enhanced communications.
+The advantages that these enabling quantum technologies will offer, alongside AI, high performance computing (HPC), and a broader suite of technologies, will transform how we interact with the world. Such technologies hold the potential to increase resilience, national security, productivity and competitiveness across many critical sectors including health, cyber security and defence and help tackle some of the biggest challenges that we face. Quantum technologies also pose potential national security challenges, not least the expectation that quantum computers will be capable of undermining the cryptography used to secure internet data.
+The physical properties of nature at the atomic or subatomic level, and quantum systems, are both incredibly susceptible to outside interference (which creates exquisitely sensitive sensors or precise clocks) and exhibit novel properties (like the ability to link particles (entanglement), or for them to exist in multiple states (superposition)) which means they offer novel ways of storing, processing and sending information. Quantum technologies use these quantum effects to, for example, perform computation, create images of objects, sense the size, shape or movement of an object, or provide a timing signal.
+The UK has an exceptional history in modern quantum physics, from the seminal theoretical work of Artur Ekert in the early 1990s that showed that encrypted keys can be secured by quantum systems, to the cutting-edge technologies now being developed in our research organisations and businesses.
+15
+[Page #15]
+The National Quantum Technologies Programme
+The UK’s visionary National Quantum Technologies Programme (NQTP), first formed in 2014, has brought together government, academia and industry to bring the promising science of quantum into wider society. It has invested:
+• £214 million in research through the Quantum Research Hubs, a national network of four university-led Quantum Technology Hubs, funded by the Engineering and Physical Sciences Research Council (EPSRC), to accelerate progress towards the development and commercialisation of quantum technologies across communications, sensors and timing, enhanced imaging and computing.7 These Hubs involve over 30 research organisations spread across the UK,8 bringing critical mass in an engaged ecosystem.
+• £184 million (including an additional £10 million granted in 2023) to support
+universities and companies to work together to research and develop quantum technologies through the Commercialising Quantum Technologies Challenge, delivered by Innovate UK, that is funding industry-led projects to develop new products and technologies based on advances in quantum science;9
+• £93 million in the National Quantum Computing Centre (NQCC), a new
+research institution funded through UKRI, that is driving activities to build a scalable quantum computer in the UK;10
+• The Quantum Metrology Institute at the National Physical Laboratory (NPL) that provides a national capability in testing, evaluating and accelerating the commercialisation of quantum technologies, as well as leading for the NQTP in the development of international standards;
+• A Quantum Technologies for Fundamental Physics programme that aims to apply quantum technologies to investigate fundamental questions about the universe;
+•
+Investments in graduate training to produce regular cohorts of highly qualified quantum researchers, through dedicated Centres for Doctoral Training (CDTs);
+• Alongside, MoD has funded a number of Defence Science and Technology Laboratory (Dstl) programmes associated with the NQTP for research into defence applications of quantum.
+7 National Quantum Technologies Programme 8 UK National Quantum Technologies Programme (NQTP), Strategic Intent 9 UK Quantum Technologies Challenge, The Directory, UKRI and an extra £10m announced by Innovate UK 10 National Quantum Technologies Programme
+16
+[Page #16]
+The National Quantum Computing Centre (NQCC)
+The National Quantum Computing Centre (NQCC) is a new research institution funded through UKRI, which is dedicated to accelerating the development of quantum computing by addressing the challenges of scalability and readiness. Working with partners across industry, government and the research community, the NQCC will create the necessary R&D capabilities through coordination and delivery of a technical programme, alongside the commissioning and operation of new facilities.
+The programme will deliver assured quantum computing capability, enabling the UK to remain internationally competitive. The centre will be headquartered in a purpose-built facility at the STFC’s Rutherford Appleton Laboratory campus in Oxfordshire, which is due for completion in 2023.
+17
+[Page #17]
+UK Strengths
+Today, the UK has a thriving academic and industrial quantum community.
+Regional centres of excellence exist up and down the country, from the National Quantum Computing Centre (NQCC) in Harwell, to the National Physical Laboratory (NPL) in Teddington, the Fraunhofer Centre for Applied Photonics in Glasgow, to our four research hubs led by the Universities of York, Birmingham, Glasgow, and Oxford. These centres and their communities have built wide-ranging networks, bringing together experts from universities, national laboratories, and industry partners to collaborate on quantum science and technologies. This ecosystem is widely admired and emulated by other countries as it has built a vibrant collaborative enterprise, connecting great research to translation and commercialisation.
+The National Hubs in quantum science and technologies have claimed many world firsts since the programme began, such as the first industrial demonstrations of a quantum gravimeter (capable of sensing underground objects), the first chip-to-chip Quantum Key Distribution (QKD) encrypted transmission, and achieving world record performance in ion trap quantum computing. The UK is in the top five in a range of metrics for global academic excellence.11
+Quantum Sensors and Timing
+Despite our increasing ability to detect and monitor things that exist on land, sea or in space, we still often resort to digging or drilling holes to find objects such as forgotten pipes and cabling or to locate and measure sinkholes and mine workings. Researchers from the EPSRC-supported UK National Quantum Hub in Sensors and Timing and Defence Science and Technology Laboratory (Dstl) have teamed up with specialist environmental engineering company, RSK and Teledyne e2V to develop a new ground mapping technology, a ‘quantum gravity gradiometer’. The device works by detecting variations in microgravity using the principles of quantum physics. This was tested outside the lab for the first time in 2022, successfully detecting a hidden underground object. The technology offers potentially faster, cheaper, and more reliable capabilities than current systems, with the opportunity to reduce the time needed for surveys, for example, from a month to a few days.
+The programme has led to the successful transfer of knowledge and technology into many UK companies; generating and supporting around 50 quantum technology start-ups; nurturing a highly skilled quantum workforce, including over 470 PhD candidates and many fellowships; attracting more venture capital investment per capita into quantum technology than any other country.12
+11 DSIT internal analysis using Elsevier BV Subscription Agreement BEIS 2022. See technical annex for more details. 12 National Quantum Technologies Programme
+18
+[Page #18]
+New quantum devices that have been developed in the UK across computing, communications, sensing and timing are now being trialled globally, from wearable brain scanners that will improve our understanding of neurological disorders, to miniaturised atomic clocks that will end dependence on satellites for timing which is critical for everything from healthcare to navigation and financial services.
+Recent developments in the sector show that the UK is an innovative centre for the commercialisation and deployment of quantum technologies. These include the launch of the first commercial trial of a quantum secured communication service in London, the integration of quantum gas cameras into monitoring systems in the oil and gas industry, and the release of a platform agnostic quantum computing operating system.
+The UK is now home to the largest number of quantum start-ups in Europe.13 It attracts more capital investment than any other country in Europe.14 Businesses supported by the UK Commercialising Quantum Challenge have raised over £425m in private sector financing since the programme began.15
+Over 120 UK businesses partner with the UK national research hubs in quantum technologies16 and, in recognition of this connected community, a number of international quantum companies have chosen to locate operations in the UK. We also have leading businesses across the supply chain (including lasers, cryogenic systems, high vacuum equipment, electronic control systems and photon detectors) who are winning contracts in the UK and exporting to the quantum community in global markets.
+More broadly, the UK is a major pull for global talent, investment and collaboration due to our global reputation for R&D excellence, an innovative and transparent regulatory environment, world-class intellectual property and competitive tax regimes, as well as dedicated visa schemes for innovative companies. The UK is also home to high R&D investment sectors that are essential in the development of emerging technologies, such as advanced manufacturing, automotive, aerospace and finance.
+Challenges
+As demonstrated above, the potential applications of quantum technologies are vast. This is both an opportunity and a challenge, with the sheer range of possible uses meaning it often takes time and considerable expertise for prospective users to understand the potential of the technology and focus on the most impactful application.
+Other challenges specific to quantum technologies include:
+• The technology is still emerging. For quantum computing, which is further from the
+market than other applications, there is still uncertainty around which technical approach
+13 McKinsey & Company (September 2021), The Quantum Technology Monitor 14 DSIT internal analysis using Quantum Insider data, February 2023. See technical annex for more details. 15 UK National Quantum Technologies Programme (NQTP) 16 UK National Quantum Technologies Programme (NQTP) 19
+[Page #19]
+will prove to be the most effective to solving the scientific and engineering challenge. It is also important to understand the interplay between quantum hardware and software, as well as supply chains specific to each technical approach, in order to build a strong UK capability. In other areas, such as sensing and timing, although a step change in performance can be demonstrated in a lab, it is not always clear when quantum will be the preferred solution in real-world settings.
+• We are still in the early days of commercialising quantum, with most quantum
+technologies in the research, development or early demonstration phase. Developing quantum products and services can be a long and challenging process, with the need for sustained investment and support before profits can be made.
+• The quantum sector must compete with more established sectors to access packaging and fabrication capabilities, challenging when companies are having to undertake exploratory design cycles in small batches. As with other deep tech sectors, the capital requirement for research, development and deployment of products is considerable. This challenge is likely to increase in the coming years as products get closer to market and companies require more access to expensive infrastructure and commercial scale packaging and fabrication facilities.
+• Demand for quantum skills outstrips supply, despite sustained investment in the UK.
+Competition for skills is increasing, with recent analysis showing that globally quantum job adverts outstrip qualified talent by as much as three to one17, and salaries for top quantum professionals are more than double the UK average in the US.18
+• Global investment and competition are increasing at a rapid pace and scale. The UK is working within a changing geopolitical context with other governments ramping up investment into their national research programmes - with funding of at least $15 billion in China, and $7.2 billion in the European Union19, with the US now spending around $820 million a year,20 and Japan recently doubling its annual expenditure to around $590 million in 2022.21
+• Large corporations headquartered overseas have also established significant quantum
+programmes. This increase in activity means that UK companies face tougher competition for talent and have to be aware of the potential risks associated with technology transfer and trade restrictions.
+17 McKinsey & Company (June 2022), The Quantum Technology Monitor 18 techUK report: Quantum commercialisation: Positioning the UK for success 19 McKinsey & Company (September 2021), The Quantum Technology Monitor 20 US National Science and Technology Council, National Quantum Initiative Supplement to the President's FY 2023 Budget 21 https://techwireasia.com/2022/04/japans-first-domestic-quantum-computer-targets-10m-users-by-2030/
+20
+[Page #20]
+Our Approach
+The UK is in a strong position to play a world-leading role in quantum technologies, if we can overcome the challenges outlined above (many of which are shared by other nations). We have strategic choices about the approach we take across the different quantum technologies:
+For quantum computing, our ambition is for the UK to support the development of and access to state-of-the-art and eventually fully scalable machines in order to explore beneficial applications for the economy and society and undertake research. At the same time this will give the UK quantum sector the best opportunity to capture a significant share of the global market creating jobs and delivering value to the UK economy. This means we must continue to develop UK strengths in quantum computing hardware, software and throughout the supply chain, which involves meeting significant engineering challenges.
+Given the early stage of the technological development, and the fact that there are numerous platforms that could provide the path to developing a fully scalable machine, we will take a broad and ambitious approach to supporting quantum computing in the UK across the development of different hardware platforms, software, components, and all relevant supply chains. Although international collaboration will be an important part of our approach, it is not in the UK’s interests to sit back and rely purely on others for access to quantum computing hardware, so we will continue to develop UK strengths across the development of different hardware platforms, as well as software. We will monitor the development of these technologies, both in the UK and in other countries, and the development of the market to ensure that we can flex our approach to deliver the best possible outcome for the UK.
+For quantum sensing, timing and imaging, our ambition is to develop the technology so that the UK is in a strong position to play an important role globally in the next generation of sensors and position, navigation and timing (PNT) capabilities, working with international partners.
+For quantum communications, our ambition is to realise both the potential of these technologies for secure communications where clear benefits can be demonstrated, as well as the opportunities they present for networking to help scale quantum computers, sharing information and addressing data storage challenges. Collaborating with international partners is a key element of this approach.
+As quantum technologies develop and use cases are fully demonstrated, the UK will need to make key strategic decisions about where to focus efforts to realise the benefits from these technologies. At this early stage it is important to continue to build the science, grow the vibrant ecosystem, explore a range of technology platforms and parts of the supply chain where the UK has world leading strengths, in addition to focussing on software and use case exploration. But it is also important to be more targeted where and when we can, working with industry to accelerate development within high value applications as they emerge to grow a world-class quantum sector and deliver benefits for the economy and society.
+We will therefore develop government actions over time within the wider programme based on progress and wider trends, in full consultation with the UK quantum community. We will report
+21
+[Page #21]
+regularly to the National Science and Technology Council, chaired by the Prime Minister, and publish an annual report on progress.
+This strategy sets out how we will put this approach into practice through domestic and international policy to achieve our vision and objectives for quantum technologies in the UK.
+Ten-year vision and goals
+Over the next ten years, we will build on our success to date by taking advantage of our world leading science and capabilities and supporting the continued growth of the UK’s quantum sector to realise the significant potential of quantum technologies for the economy.
+Our ten-year vision is for the UK to be a world leading quantum-enabled economy, building on scientific excellence and creating a thriving quantum sector to ensure that quantum technologies are an integral part of the UK’s digital infrastructure and advanced manufacturing base, driving growth and helping to build a strong and resilient economy and society.
+To realise this vision we will set four goals:
+• Ensure the UK is home to world-leading quantum science and engineering, growing UK
+knowledge and skills
+• Support business, making the UK the go-to place for quantum businesses and an
+integral part of the global supply chain, as well as a preferred location for investors and global talent
+• Drive the use of quantum technologies in the UK to deliver benefits for the economy, for
+society and for our national security
+• Create a national and international regulatory framework that supports innovation and the ethical use of quantum technologies, and protects UK capabilities and national security
+The government has published a Science and Technology Framework to build the UK into a Science and Technology Superpower, to help deliver stronger growth, better jobs, and bold discoveries to tackle the challenges of today and tomorrow. The Science and Technology Framework has been designed in consultation with experts and practitioners across industry, academia and government to address the key challenges in delivering the UK’s Science and Technology Superpower ambitions. It represents commitment to a whole-of-government plan – introducing a truly systems approach to ensure policy, delivery, funding and messaging levers across traditional siloes are aligned and channelled to secure strategic advantage in S&T as a top UK priority. It includes boosting investment in research and development, building on the UK’s already enviable talent and skills base, investing in research and innovation infrastructure, ensuring we regulate in a way that supports innovation and growing technology sectors.
+22
+[Page #22]
+The Framework also sets out a more systematic way of identifying UK priority technologies, with the first five including quantum technologies (as well as AI, engineering biology, semiconductors, and future telecoms). As such, quantum technologies will benefit from the wider use of government levers set out in the Framework. This National Quantum Strategy therefore focuses on the quantum specific activities that the government or others need to undertake, in addition to wider government initiatives, to support the growth of the sector.
+The following chapters set out how we will achieve each of our four goals.
+23
+[Page #23]
+Goal 1: World-leading research and skills
+We will ensure the UK is home to world-leading quantum science and engineering, growing UK knowledge and skills
+Research and Development
+The UK is the home to excellent science and innovation, and nowhere is this more true than in quantum technologies, where we already have an established programme of public and private R&D with over £1 billion of investment over the period 2014-2024.
+The next phase of quantum R&D in the UK will be even greater in terms of ambition, scale and impact. It will focus on securing and building on our existing strengths, as well as exploring new areas of scientific endeavour. It will provide greater support to the work of our researchers and businesses to translate, demonstrate and commercialise quantum research, driving development in key areas with commercial, societal or security value. This will ensure that the UK is a global centre of excellence for the long term.
+We will therefore establish a new and ambitious ten-year £2.5 billion quantum research and innovation programme from 2024-2034.
+The future programme will be delivered in two 5-year phases, to be developed in full consultation with our partners across Government, most notably UKRI, independent expert advice and with industry. The core elements of the first 5-year phase will include:
+• A new portfolio of applications-focussed Quantum Technology Research Hubs and
+Centres. These will build on the success that the existing hubs have had in building a vibrant quantum research and innovation ecosystem. The future hubs will draw together activities around a specific application area or theme, delivering strength and depth in quantum technologies and catalysing future growth and national capability. They will ensure the UK is a global centre of excellence in cutting edge quantum science and technologies for the long term. These new Research Hubs or Centres will be formed from consortia of academic experts in quantum technologies and relevant disciplines, with additional collaborating partners from industry, government, or the third sector. The hubs will also build the mechanisms needed to support the integration of these emerging technologies into wider systems, led by end users.
+• Mission-focussed programmes: specific outcome-focussed innovation programmes to
+drive development towards a set societal and economic benefit.
+•
+Industry-led innovation programmes: project-based programmes encouraging greater R&D activity and further investment by industry in areas that address existing
+24
+[Page #24]
+challenges to commercialisation. The programme might include feasibility projects to explore new opportunities for the commercialisation of quantum technologies; or collaborative innovation projects to tackle the challenges to translating and commercialising quantum.
+• Accelerator programmes: that will grow specific technology sectors and companies and accelerate the path to commercial and technological maturity, building on key strengths in the current programme and UK landscape and promoting sovereign capability and market leadership in areas with significant market opportunity. These programmes will focus on bridging the gap between early growth and market readiness by enabling demonstration in real-world settings with users and integrators.
+• Training and talent programmes: to invest in postgraduate skills, technical and
+engineering professionals, and apprenticeships to deliver the quantum researchers, innovators, and practitioners the UK needs.
+•
+International collaboration programmes: building on the strengths of the existing programme and broadening international R&D collaborations with our close partners for mutual benefit.
+•
+Infrastructure investments: to meet the needs of the evolving field and sector, including continued funding for core operational activities of national facilities such as the National Quantum Computing Centre and National Physical Laboratory.
+• Underpinning fundamental research: continuing to enable response-mode research
+through existing EPSRC and STFC programmes to advance the science, and enable the utilisation of quantum as a tool for wider research.
+We recognise the need to make a smooth transition from the current R&D programme to the new ten-year programme. The current phase of the programme will continue to deliver world leading research through all existing core elements until 2024. Over the next year we will consult widely on the specifics of the future programme and will also make additional investments within the existing programme to support the transition. These additional investments include:
+• £100 million to continue to develop the existing application areas of computing,
+communications, sensing, imaging and timing through new quantum hub activities
+• £70 million in the development of two short-term quantum missions focussed on
+achieving key technological milestones around quantum computing and PNT. This approach over the next three years will act as a pilot for longer-term missions that will be delivered over the next decade to galvanise technology development and help address some of society’s most pressing challenges.
+• £25 million for increased investment in quantum fellowships and doctoral training, over
+and above the existing Centres for Doctoral Training and Fellowships schemes.
+• £15 million to boost government procurement of quantum technologies for public use.
+• £20 million for acceleration activities, working with the sector on collaborative R&D in
+quantum networking.
+25
+[Page #25]
+• £20 million additional funding for increased activities through the National Quantum
+Computing Centre.
+The £70m quantum missions announced as part of the government’s £250m investment in technology missions aim to:
+1. Accelerate quantum technologies for resilient capabilities in Position Navigation &
+Timing (PNT), leading to the demonstration of mature proof-of-principle prototypes by 2025 in environments where traditional satellites cannot reach, creating resilience in military and civil contexts.
+2. Developing quantum computing test-beds – demonstrating the advantage of a
+quantum computer over a classical one through applications to underpin the growth of a UK quantum computing sector capable of delivering quantum advantage in 2025.
+For this investment of £2.5 billion we are expecting the private sector to commit to invest £1 billion into the programme over its lifetime. Up to now, we have achieved evenly matched industry funding from our innovation programmes. This takes account of direct contributions to programme activities only; the overall benefits and investment into the sector resulting from the programme will be much greater.
+Skills
+Access to the right skills and talent is essential for excellence in research, technology development and commercialisation. Building a diverse and thriving workforce that can drive the growing quantum industry will be vital to unlocking economic and societal benefits in the future. This requires highly skilled people – ensuring the UK has the researchers, engineers, innovators, and practitioners it needs to have a quantum-ready workforce. It means postgraduate training, the development of technical professionals and apprenticeships, and attraction and retention of world leading experts in the field.
+The quantum sector is small but rapidly evolving, with an expectation that skills needs will change over time. The call for evidence responses told us we are facing challenges associated with the small global talent pool for quantum-specific talent. A recent survey found that the top challenge for businesses in preparing for quantum computing was being able to access the right skills and talent.22 Talent shortages also exist within the domestic sector itself according to UK-based companies.
+The picture is similar internationally, with the US National Science and Technology Council finding that there is a skills shortage at all levels already, alongside a projected increase in demand in the future.23 Further to this, the wider STEM workforce that acts as a pipeline for future talent has been found to suffer from some persistent skill shortages and be less diverse
+22 Ernst & Young, Quantum Readiness Survey 2022 23 US National Science and Technology Council, QIST Workforce Development National Strategic Plan, February 2022
+26
+[Page #26]
+than the wider workforce. Women make up just over a quarter of the STEM workforce,24 making it challenging to achieve a diverse future workforce that is representative of society.
+People and know-how are driving the early development of the emerging sector. We have provided strong support for growing the highly-specialised skills needed in the quantum sector since 2014. We have trained more than 470 doctoral students,25 including through the EPSRC’s Centres for Doctoral Training (CDTs), the Defence Science and Technology Laboratory (Dstl) and the National Physical Laboratory. We have also funded over 30 fellowships to support the brightest and the best to undertake their research in the UK, recognising the importance of academic freedom to do great things.26
+Fellowships
+Quantum fellowships have been instrumental in nurturing early talent, providing access to specialist support and equipment, and allowing individuals to grow their international networks. The success of these awards can be seen through the world class research and spinouts that have resulted from current and former fellows.
+These include:
+Joint EPSRC and NQCC scheme to support fellows to build their careers and deliver cutting-edge research in the UK
+The EPSRC Open Fellowship supporting talented researchers across EPSRC’s portfolio
+The UKRI Future Leaders Fellowship designed to develop the next generation of world-class researchers across universities, businesses and other R&D environments
+STFC Ernest Rutherford Fellowships enabling early career researchers to establish a research programme
+The UK has benefitted from attracting quantum talent from around the world. The UK’s points-based immigration system provides attractive routes for highly skilled people to move to the UK, including the high potential individual visa, scale-up visa, innovator visa, and the global talent visa. However, the visa system can sometimes act as a barrier to attracting highly talented individuals. We will work with partners across government to ensure that the immigration system allows companies and universities to attract the very top talent, who are in high demand in multiple countries.
+24 Analysis by WISE Campaign, December 2021 25 UK National Quantum Technologies Programme (NQTP). See technical annex for more details. 26 Analysis done by Engineering and Physical Sciences Research Council (EPSRC). See technical annex for more details.
+27
+[Page #27]
+Visa routes
+The government is updating the routes that talented individuals in the field of quantum can use to come to the UK and continue their careers. We will ensure that the quantum sector is able to make full use of this opportunity. Announced in the UK Innovation Strategy, these include:
+The High Potential Individual Route make it as simple as possible for internationally mobile researchers who demonstrate high potential to come to the UK, based on graduation from an eligible top global university
+A scale-up route, which allows talented individuals with an offer from a qualifying scale-up to come to the UK
+And a revitalised Innovator route, which allows talented innovators and entrepreneurs to start and run a business in the UK that is either venture backed or innovative. This route is being refreshed to simplify and streamline its business eligibility criteria and build flexibility
+The Global Talent visa route is open to those who are leaders or potential leaders in science and technology. Applicants must be endorsed by one of six endorsing bodies for the route, which include the Royal Society and UKRI, or have been awarded a prestigious prize. Applicants may qualify for endorsement if they have an eligible job offer, an individual fellowship or a research grant approved by UKRI.
+Building a quantum-literate workforce
+As the sector scales, there will be a need for more emphasis on routes into the sector beyond doctoral training, as well as to build the pipeline from schools upwards. Professionalisation of quantum engineering skills will help talent to transition from adjacent sectors. To this end we will engage with UK professional bodies including the Institution of Engineering & Technology (IET) and the Institute of Physics (IoP) to develop awareness, skills and recognition of continuing professional development and careers in support of the quantum sector. Increasing quantum literacy and cross-fertilisation with domain expertise in the economy overall, particularly in key end-user sectors, is essential to growing the sector in the UK.
+We recognise the need for more skilled technicians in the UK, a problem that is not unique to the quantum sector. These are the people who undertake skilled practical work with scientific or other equipment to enable the integration of quantum technologies into wider systems, often undertaking vocational or on the job training. The IoP found that over 50% of physics-related jobs do not require a degree27, indicating the potential scale of the role of vocational training. There are already successful initiatives to meet the technician need, such as the NPL
+27 IoP, Unlocking the potential of physics skills in the UK and Ireland
+28
+[Page #28]
+Apprenticeship scheme which has hosted over 100 apprentices since 2013, including rotations in the quantum technology department. We will broaden activities to meet this growing need nationwide, aligning with wider government objectives to strengthen technical training in the UK.
+The UK Science and Technology Framework will be seeking to address the broader STEM skills gap through a dedicated Talent and Skills strand. This will focus on creating an agile and responsive skills system; recruiting and retaining STEM teachers; expanding opportunities for participation in STEM and ensuring that a more diverse range of people participate in STEM opportunities; giving people the opportunity to train, retrain and upskill throughout their lives; and establishing competitive advantage in attracting international talent to the UK. The Department for Education is developing a Skills Dashboard in 2023 to better understand the supply and demand of science and technology skills for priority technologies, including quantum technologies.
+To boost quantum skills in the UK we will:
+• More than double the number of Centres for Doctoral Training focused on Quantum
+Technologies. This will contribute to training over 1,000 PhD students in quantum or a directly supporting field over the next ten years.
+• Ensure the UK can continue to attract, develop and retain world leading experts by investing in tailored packages, such as fellowships for the brightest researchers.
+• We will start with an investment of £25 million over the next two years to increase
+quantum-related fellowships and doctoral training. We will continue to increase this over the new ten-year programme.
+• Establish the Quantum Skills Taskforce, bringing together industry, academia, and professional societies with the relevant government agencies to ensure that the quantum skills system is guided by the needs of our most promising companies. We will work further with these groups to develop and publish a skills action plan within the next 12 months.
+• Develop a range of measures to inspire the next generation of quantum scientists,
+engineers, and technicians. We will fund an expansion of STEM Learning’s Quantum Ambassador schools outreach programme, launch a further series of domestic and international summer schools and research exchanges, and develop both a quantum industry placement scheme and a quantum apprenticeships programme.
+• Support global quantum talent moving to the UK through the enhanced visa routes for
+highly-skilled individuals.
+• Deliver a quantum priority stream in the UK Global Talent Network. The network,
+operating in the United States and India, will proactively attract and support the best internationally mobile science and technology talent to come to the UK. It will work hand in hand with the National Quantum Technologies Programme, which will continue to provide access to funding, equipment, infrastructure, and networks to encourage world leading quantum talent to base research and commercial activities in the UK.
+29
+[Page #29]
+International Partnerships
+Quantum science and technologies are a global effort. We want to work with allies and partners to achieve mutually beneficial outcomes, whilst ensuring that the UK plays a leading role. We already take an open and collaborative approach to our quantum research, with recent international network calls run by EPSRC alone resulting in UK universities partnering with organisations in 28 countries.28 The Quantum Technologies for Fundamental Physics (QTFP) programme, which started in 2020, has generated twenty-six unique international links from its seven large consortia across 9 countries.29
+Our aims for international engagement are to:
+• Collaborate and share expertise with international partners on the opportunities,
+challenges and key uses of quantum, especially where technologies could help to achieve major societal goals (as set out in the Quantum Tech for Societal Good section).
+• Drive progress in quantum R&D by deepening collaboration with international partners, including those in Europe, and continuing to participate in leading multilateral research partnerships globally.
+• Lead the global definition of the risks and opportunities of quantum, and work with international partners to develop shared principles for the responsible and secure development and deployment of quantum.
+We are building collaborative relationships with a number of countries, such as under the Joint Statement of Intent with the US, which support mutually beneficial growth in our sectors. These will boost both research collaboration and connections between our industries. These relationships will also grow links between centres of excellence; running exchanges, workshops, and summer schools to support knowledge exchange; supporting intellectual property (IP) literacy; exploring missions or ‘grand challenges’ with leading countries around specific scientific breakthroughs or societal outcomes; and sharing access to key UK and international facilities.
+We continue to engage informally with other leading nations on quantum, to support open collaboration and a pro-innovation regulatory approach, which will help to grow quantum sectors and supply chains. This allows us to exchange information on our national quantum programmes, opportunities and challenges and identify areas for future collaboration. We also work with a broad range of countries through multilateral fora, such as the OECD and the Global Technology Forum, the World Economic Forum, the G7, and NATO, and take advantage of broader collaborative R&D opportunities born out of defence pacts such as AUKUS.
+International conversations on technical standards are at an early stage within standards development organisations such as the Institute of Electrical and Electronics Engineers
+28 Analysis by Engineering and Physical Sciences Research Council (EPSRC) 29 Analysis by Science and Technology Facilities Council (STFC), see technical annex for more details
+30
+[Page #30]
+Standards Association, International Organization for Standardization and International Electrotechnical Commission. We will work closely with industry, academia, civil society and with international partners to ensure UK interests are represented at key standards and wider international bodies.
+To step up our international work on quantum we will:
+• Expand our partnerships through a comprehensive programme of bilateral
+arrangements with leading quantum nations, working with the UK’s global Science and Innovation Network, and considering the priorities and outcomes set in the forthcoming UK International Tech Strategy.
+• Engage with other leading quantum nations to exchange knowledge on quantum
+programmes, developments, regulation and security.
+•
+Increase our global networks through open calls on collaborative research.
+• Provide additional funding for international collaboration through the new International
+Science Partnerships Fund.
+• Take a leading role in multilateral fora to support UK quantum growth, for example
+through the OECD and the recently announced Global Technology Forum, the World Economic Forum, the G7, and NATO and look for broader collaborative R&D opportunities born out of defence pacts such as AUKUS.
+• Demonstrate UK leadership in international standards fora, optimising the conditions for UK companies and creating standards that are compatible with our norms and values.
+In November 2021 we signed a Joint Statement of Intent with the US to deepen collaboration on basic research, standards development and industry cooperation.
+NPL and NIST have agreed a formal collaborate on both R&D and standards development around quantum technologies. This collaboration act as a nucleus, growing to include other US laboratories and international partners.
+Joint research exchanges between UK and US partners will also be supported by NPL and EPSRC, beginning with summer schools in 2023 that also involve Canadian participants.
+31
+[Page #31]
+Goal 2: Supporting Business
+Support business, making the UK the go-to place for quantum businesses and an integral part of the global supply chain, as well as a preferred location for investors and global talent
+The UK quantum sector
+The UK has a thriving quantum ecosystem which provides huge opportunities to translate ideas into economic value and societal impact. There are already at least 160 companies active in the UK’s quantum sector,30 and our quantum companies have attracted more disclosed private equity investment than any other European country, second only to the US globally.31 The UK quantum ecosystem is comprised primarily of SMEs which operate in specific areas of expertise. This means collaboration is an essential part of the UK ecosystem - within the sector as well as with academia, allied sectors and user communities - and needs to be a fundamental part of our strategy going forwards.
+UK start-up Quantum Motion raises £42m to scale activities
+In February 2023, London based start-up Quantum Motion raised over £42m in equity funding from some of the world’s leading quantum investors (Quantum Insider). Quantum Motion are developing scalable quantum computers using existing silicon manufacturing processes. The funding round was led by Robert Bosch Venture Capital and supported by British Patient Capital, among other investors. The increasing frequency of larger UK investment rounds reflects progress technology development and an increasing awareness and confidence in the potential of quantum technologies.
+We will ensure that the UK’s start-ups and SMEs can thrive in the UK. The growth of the sector is reliant on a steady flow of newcomers into the ecosystem and the ability of SMEs to grow their quantum business quickly and accelerate the development of their technology. The UK’s start-ups also require continued support to manage the challenging “valley of death” stage of commercialisation, where products are still in the development cycle and the company is not yet making revenue. Success is dependent on a critical mass of companies as well as the ability of people, knowledge, and ideas to flow in and out of this ecosystem from surrounding industries, users, and academia. Enabling all of this to happen will be critical to securing the UK’s position as a global quantum innovation hub.
+30 DSIT analysis combining Quantum Insider and ISCF data sets. See technical annex for more details. 31 DSIT internal analysis using Quantum Insider data, February 2023. See technical annex for more details.
+32
+[Page #32]
+Working hand in hand with the quantum sector
+Growing the quantum sector in the UK will be a truly collaborative endeavour over the next ten years and beyond as the sector takes shape, with sufficient time, resource and effort dedicated to the task. We will work closely with quantum companies as well as key industry and professional bodies such as UKQuantum, the Institute of Physics, the Royal Academy of Engineering, the Institute of Engineering and Technology and techUK to make sure that industry views are understood and that government actions support growth. This engagement will cover areas such as the detailed design of the future R&D programme, skills, quantum readiness across the wider economy, international engagement, and the co-design of future regulation and standards.
+Commercialisation and Accelerators
+As outlined in the previous section, missions for quantum computing and PNT will include enabling activities to support commercialisation and user adoption in these technology areas. In addition, we will develop new acceleration programmes for quantum technologies that will support the sector to capitalise on market opportunities and build strategic advantage for the UK.
+Acceleration programmes will help to speed commercialisation, industrialisation, and linking the sector to end-users by focussing on systems integration, applications, and real-world demonstrations. They will build on, and expand, existing activities being delivered by the NQTP partners and enable greater participation from the growing UK sector. The specific investments and activities of an accelerator programme will be tailored to the technology areas and will include efforts to roadmap the route to market for key applications. We will continue to engage the community to help shape these programmes.
+We will also continue industry-led innovation funding opportunities, such as that provided via the ISCF quantum challenge. This will help de-risk investments over the medium to long-term and encourage new entrants to join the sector. The ISCF has an impressive track record of helping companies to secure investment alongside grant agreements, as well as helping to grow the pipeline of new start-ups through feasibility studies.
+Infrastructure
+The UK’s quantum facilities and centres of excellence are spread across all regions of the country. We have made significant investments in government-owned infrastructure to support industry and the development of new products based on quantum technologies. This includes expanding the facilities and capabilities at the National Physical Laboratory in Teddington and establishing the National Quantum Computing Centre at the Harwell Campus in Oxfordshire. This is in addition to the network of research and innovation infrastructure built up in the existing Quantum Technology Research Hubs, and investment in wider capabilities such as
+33
+[Page #33]
+the National Dark Fibre Facility and computing capabilities in Edinburgh, the Catapults network, and the Hartree Centre in the North West – home to the National Centre for Digital Innovation in collaboration with IBM.
+Scotland photonics cluster
+Scotland has a vibrant and long established sector in the field of photonic technologies, with an annual industrial turn-over of over £1.2 billion (Technology Scotland), which in turn has led it to be an important region for quantum technology development in the UK. The Quantum Technology cluster in Scotland promotes itself as Glentanglement®.
+The region is marked by the emergence and growth of innovative start-ups, leading manufacturers (such as Coherent Scotland and M Squared), and large defence systems integrators with strong laser and radar divisions. This is combined with a world-class research base, with several universities having extensive legacies in lasers and photonics as well as in quantum optics and cold atom work.
+The cluster is also supported by other leading research & development and innovation centres such as the James Watt Nanofabrication Centre based at the University of Glasgow, and the Li-Fi Centre at the University of Strathclyde.
+Helping to tie the ecosystem together is the Fraunhofer Centre for Applied Photonics UK, a world-leading centre in applied laser research and development, based at the University of Strathclyde.
+The network of institutions in the Central Belt is closely tied to the NQTP, notably through the Quantum Imaging Hub (QuantIC) led by the University of Glasgow (partnered in Scotland with the Universities of Edinburgh, Heriot-Watt and Strathclyde), but with the other three of the UK’s quantum technology hubs also having a strong presence in university physics departments in Scotland. Almost half of all Government-supported Commercialising Quantum Technologies Programme projects involve a Scottish organisation participant (UK Quantum Technologies Challenge, The Directory, UKRI).
+Wales semiconductor cluster
+Since 2015, the world’s first and only dedicated cluster in compound semiconductor (CS) materials and manufacturing has emerged in South Wales, support roughly 2500 high value jobs and a £1 billion expansion commitment (CSconnected, 2022 Year in review).
+Leading-edge university researchers have been brought together with high-tech companies focused on delivering market-ready products with critical application in quantum technologies.
+34
+[Page #34]
+This activity has been underpinned by the UKRI Strength in Places Fund through the establishment of centres of excellence, such as the Institute for Compound Semiconductors and a Future CS Manufacturing Hub, both located at Cardiff University, and the Centre for Integrated Semiconductor Materials at Swansea University. Exploitation across the supply chain is facilitated by research translation entities such as The CS Centre and The CS Applications Catapult.
+The industrial activity is driven by the presence of expanding global leaders: IQE, the market leader in supply of advanced compound semiconductor materials; KLA, a leader in semiconductor manufacturing, inspection and metrology tools, and Microchip Technology, a leading provider of mixed-signal and analogue semiconductor products.
+The NQTP seeks to build on this regional excellence. To date the cluster has been a UK manufacturing source for novel quantum components, and is the coordinator of the UK National Quantum Foundry.
+The next ten years of innovation will require access to the right research and innovation infrastructure to test, pilot and demonstrate the value of these technologies in the laboratory and real-world settings so that we can accelerate their path to market.
+The government has a role to play in providing critical infrastructure where access to equipment or facilities provides shared benefits. This includes, for example, facilities for testing and evaluation of technologies, which in turn builds confidence in system integrators, end-users, investors, and the manufacturers themselves. It also includes large national scale infrastructure for demonstrating the value of technologies in real world settings. This might include the development of future quantum networks with the ability to distribute quantum information and quantum-based references such as timing signals around the country between key locations. The commercialisation of quantum technologies, as well as other inter-related technologies such as semiconductors, is also likely to require fabrication facilities, and we will look at the different options for providing additional support in this area.
+To support the UK quantum sector, we will:
+• Launch missions for Quantum Computing and PNT that will include enabling activities to support commercialisation and user adoption in these technology areas (as outlined in the previous section).
+• Develop new acceleration programmes for quantum technologies that will support the sector in capitalising on market opportunities. Acceleration programmes will help to speed commercialisation, industrialisation, and linking the sector to end-users by focussing on systems integration, roadmapping, applications, and real-world demonstrations. We will start with an additional £20 million over the next two years to fund an accelerator for quantum networking, a collaborative programme with industry.
+• Launch a new round of industry-led innovation funding opportunities under the new ten-
+year programme.
+35
+[Page #35]
+• Work with industry to undertake feasibility studies on key infrastructure and programme requirements to enable the future benefits associated with quantum technologies to be better understood and realised, starting with quantum communications.
+• Commission the Royal Academy of Engineering to undertake an independent
+infrastructure review by the end of 2023 to map the UK’s quantum infrastructure and the sector’s infrastructure requirements for the next decade against those of other key UK sectors (such as semiconductors, photonics or space), including for fabrication facilities. This will help to identify where there is a rationale for Government to invest for the future, or where the UK should seek to partner with other nations to enable access to critical infrastructure.
+• Open-up access to the facilities of participating partners across industry, research
+organisations, universities, and government-owned facilities for testing, problem-solving, and performance demonstration.
+• Produce a directory of existing infrastructure accessible to industry across the UK and explore the quantum industry’s requirements for additional infrastructure over the next decade.
+• Work through the NQCC to negotiate access to quantum computing resources across a range of platforms for wider research and the quantum industry, providing a front door for those businesses looking to engage with the quantum community and explore use cases. We will provide an additional £20 million over the next two years to boost the work of the NQCC.
+Fraunhofer Centre for Applied Photonics (CAP), Glasgow
+The Fraunhofer CAP UK is a world-leading centre in applied laser research and development. with important applications in quantum technologies. It is located at the Technology & Innovation Centre, University of Strathclyde.
+Fraunhofer CAP plays an important role in tying together the photonics and quantum cluster in Scotland by conducting industry-driven research to support the development of new products and their adoption. Fraunhofer CAP is responsible for enabling commercialisation of quantum technologies in many Government-supported projects under the National Quantum Technologies Programme. These have included the development of miniature devices such as lasers and photon sources, cold-atom sensors, and Optical Ground Receivers for satellite QKD.
+Fraunhofer also have a prominent position across other UK technology sectors such as space, defence, net-zero and health.
+36
+[Page #36]
+The UK’s business support offer
+The UK is well known for being a great place to start and grow a business, with considerable support available to companies. This includes:
+• The development of a central Government Innovation Hub to help to make sure all
+business support is available in one convenient place. There are a range of existing support mechanisms available to UK businesses to help them overcome the challenges of starting and scaling their business such as the Innovate UK: EDGE programmes, ICURe, and QUEST.
+• Digital guidance and tools from the Intellectual Property Office (IPO) to help businesses
+understand the IP system and take informed decisions on how to protect and commercialise their IP. The IPO also works in partnership to provide grant funding for innovative, high-growth potential businesses towards costs of professional advice and support for UK businesses to protect and manage their IP overseas through the International IP Service.
+• Testing and evaluation services through the National Physical Laboratory (NPL) through
+a measurement scheme which provides up to 20 days of specialist quantum measurement expertise to solve business’s measurement challenges at no charge. NPL are helping companies to bridge the gap from a technology prototype in a research environment to industry-ready, innovative new products.
+• Advice and support to companies from the National Protective Security Agency (NPSA) (CPNI) and the National Cyber Security Centre (NCSC) to help them to put in place protective digital and physical security measures to ensure the protection of assets which are necessary to support growth.
+• Support to businesses to help them export and grow into global markets from the
+Department for Business and Trade (DBT). This includes the provision of local market help to sell overseas, as well as connecting overseas buyers with UK business. DBT also help overseas business locate in the UK. They are also responsible for attracting inward investment, and have a support offer to help companies invest and expand in the UK.
+To continue to grow this offer and ensure quantum businesses can access the support they need we will:
+• Create a quantum business growth directory outlining the support offer for quantum companies to help them to flourish by taking advantage of the existing schemes available for innovative businesses, including helping to protect their intellectual property.
+37
+[Page #37]
+Investment to unleash innovation
+To develop a globally competitive quantum technologies sector we must ensure UK companies can access finance at all stages of growth. Quantum technologies can require large amounts of investment before they produce a return and have lengthy research and development cycles to reach the market, requiring more patient capital than some other technology sectors. Later funding rounds will be key to enable companies to scale-up and expand their manufacturing capabilities as technologies reach the market. This challenge is particularly important for quantum computing companies due to the large capital requirements for developing and scaling hardware.
+The UK is a great place for businesses to access the funding they need for innovation. During 2022, fast-growing UK tech companies continued to raise at near-record levels (£24 billion), more than France (£11.8 billion) and Germany (£9.1 billion) combined. This takes the total raised over the past five years to nearly £100 billion (£97 billion).32
+The government remains committed to its long-term objective to mobilising more institutional investment into productive areas of the economy, ensuring that savers stand to benefit from the growth of the UK’s most innovative companies. We are taking action to deliver this objective and meet the 2019 manifesto commitment to ‘unlock long-term capital in pension funds to invest in and commercialise our scientific discoveries, creating a vibrant science-based economy post-Brexit’. The government is legislating to implement important regulatory changes such as reform of the pensions regulatory charge cap, which will provide clarity for industry and ensure pension savers stand to benefit from higher potential investment returns. We continue to engage closely with industry stakeholders to develop the most effective policies to support this objective.
+Government finance mechanisms
+The British Business Bank is an important delivery partner in our efforts to make finance markets for smaller businesses work more effectively, allowing those businesses to prosper, grow and build UK economic activity. Up to the end of 2020, the Bank had supported the provision of £42 billion worth of finance to 170,000 small and medium-sized businesses across the UK, not including its COVID-19 debt and equity finance schemes (UK Innovation Strategy).
+The Bank provides access to scaling capital at larger, later-stage funding rounds, through British Patient Capital (BPC) which, since its launch in 2018, has become the largest domestic investor in UK venture and venture growth funds (BPC). Its long-term investment approach helps UK companies access the right type of funding at the right time in their life cycle and is intended to demonstrate that a patient investment approach – which can support deeptech companies – can produce commercially attractive returns.
+32 DCMS, Press Release, December 2022
+38
+[Page #38]
+The British Business Bank has also launched Future Fund: Breakthrough, a £375 million UK-wide programme that will co-invest alongside private investors directly in later funding rounds at high-growth, innovative firms. The programme will focus on R&D intensive companies and will aim to accelerate the deployment of breakthrough technologies which can transform major industries, develop new medicines, and support the UK transition to a net zero economy.
+Technology is a focus area for the Future Fund: Breakthrough programme, with BPC seeing quantum computing as a future technology which has the potential to revolutionise a multitude of sectors, cementing the UK’s position at the forefront of global innovation. BPC have invested in Oxford Quantum Circuits’ £38m Series A funding round through its Future Fund: Breakthrough programme (BPC).
+The National Security Strategic Investment Fund (NSSIF) is the Government’s corporate venture capital arm for dual-use advanced technologies. NSSIF invests commercially in advanced technology firms, alongside other investors, to support long-term equity investment. Because they co-invest, every pound they invest is leveraged by private investment. NSSIF’s quantum strategy aims to support a thriving UK ecosystem and deliver early quantum advantage for national security and defence. Through British Technology Investments Limited, which acts as NSSIF's direct investment arm, NSSIF has made direct investments in quantum technology companies. In addition, it has broad exposure to a range of other quantum firms via its indirect ‘fund-of-funds’ investments.
+Growing global supply chains
+The supply chain that underpins the quantum sector – whilst still nascent – is already truly global. Based on a survey of 54 relevant UK companies, 85% are importing elements of their supply chain to develop quantum technologies.33 UK companies are a key part of this global supply chain.
+We have industrial strengths and leading companies across the supply chain, in areas such as photonics, electronics and cryogenics, which are essential to quantum technologies. We have world leading clusters, such as the compound semiconductor cluster in South Wales, and a long-established photonics cluster in Scotland.
+To promote our companies in domestic and global supply chains and to boost investment, we will:
+• Work with key organisations such as UKQuantum and techUK and the Department for Business and Trade to develop promotional material targeted at critical user sectors for dissemination nationally and internationally, as well as to deliver a targeted global
+33 Analysis by Innovate UK, see technical annex for more details
+39
+[Page #39]
+opportunities campaign, working with global partners to promote the UK sector overseas, build trade opportunities and open-up investment and collaboration opportunities for UK companies.
+• Work with international partners to consider future security of supply and facilitate the
+growth of a trusted supply chain for the sector, benefiting the growth of the UK ecosystem as well as those of our partner nations.
+Attracting quantum businesses to the UK
+Much of the UK quantum business sector is formed from homegrown talent, nurtured through our universities and quantum hubs or established in larger UK companies. There is also an important place for quantum companies from overseas in the UK ecosystem. The UK is already an attractive location due to our strengths in quantum science, our supply chain, our wider business-friendly environment, our support for innovation and our talented quantum skills base. For example, the recent return of quantum computing firm PsiQuantum to the UK, with the establishment of a quantum computing research centre in Daresbury in the North-West of England, demonstrated confidence in the competitiveness of the UK’s quantum sector. In 2021, IBM worked with the government to establish the Hartree National Centre for Digital Innovation, which brings together world-leading expertise in AI and quantum computing to support their application in industry and the public sector.
+We will:
+• Build programmes and investment opportunities that attract quantum companies from
+overseas. We will proactively support quantum businesses that want to come to the UK, working with the Department for Business and Trade.
+40
+[Page #40]
+Goal 3: Driving the adoption of Quantum Technologies in the UK
+Drive the adoption of quantum technologies in the UK to deliver benefits for the economy, society and for national security
+If the UK is to reap their full benefits, all sectors of the economy must understand the opportunities from quantum technologies. Industry, researchers, and the public sector will need to understand and explore how they can utilise quantum technologies to do things differently, or even doing things that currently aren't possible. This is challenging in an emerging sector where it is not always clear exactly how or when quantum technologies will offer a competitive advantage.
+A recent EY report found that only 25-33% of businesses had taken concrete steps to prepare for the arrival of quantum computing, despite 48% believing quantum computing will play an important role in their industries by 2025.34
+We will raise awareness of the opportunities and foster the right connections to build an understanding of user needs. We will set direction and providing a signal of intent by focussing efforts on where quantum will deliver the most value for the UK. Below we have set out some of these areas of opportunity that relate to net zero, national security, health, digital innovation and critical growth sectors – particularly those relating to the other four technologies of tomorrow (AI, future telecoms, semiconductors and engineering biology).
+In previous chapters we have set out our missions-based approach which will galvanise research and innovation activities towards a defined societal benefit. The two tech missions in PNT and computing will be important testing ground for more ambitious future missions, which will include a focus on those applications that will have the greatest impact to drive early adoption in key sectors, such as financial services and life sciences. Developing testbeds for different hardware platforms is a focus of the current computing mission and we will look to expand these efforts as the technology develops.
+Bridging the gap between nascent technology development and end user applications will be an important role for the NQCC, with the potential for ambitious missions to drive largescale testing across selected sectors. This work will be supported by expanded government procurement activities, such as the Catalyst Fund set out later in this chapter, which will concentrate on pairing the capabilities of quantum with the government’s biggest challenges.
+34 Ernst & Young, Quantum Readiness Survey 2022
+41
+[Page #41]
+Quantum Technologies for Societal Good
+Quantum technologies will offer a step-change in performance across a wide range of applications and are enablers to wider innovation across the economy, with £100 billions of expected benefits estimated globally in the coming decades.35 Future applications of quantum technologies include:
+An environmentally sustainable and resilient UK: By mimicking nature a quantum computer could simulate new materials, accelerate improvements in solar panels and batteries, and help improve the efficiency of renewable energy sources. By modelling and optimizing logistics and traffic network flows, quantum computing could reduce carbon emissions as well as bring about significant efficiency savings. Meanwhile, by monitoring the emission of greenhouse gases, quantum sensors could help the UK to meet emissions targets and monitor compliance.
+Strengthened security, defence and resilience at home and overseas: By solving complex optimisation problems, and sending information in a quantum state we could improve sensor networks for defence purposes and enable autonomy through enhanced sensors. We could use quantum-enhanced machine learning for pattern matching, image and voice recognition and classification, and data fusion. The use of quantum computing and sensing on the battlefield could enable us to find targets of interest and enhance situational awareness. Quantum computers could solve complex calculations for modelling and improving performance on the battlefield. Short and long-range quantum communication systems may provide high bandwidth, secure point-to-point communications which cannot be intercepted and can be covert on deployable platforms. Quantum sensing, timing and imaging capabilities could provide the next generation of PNT capabilities to support troops on deployment, including in built-up urban environments where access to current systems is challenging.
+The UK as a world leader in health and life sciences: By solving complex logistical problems, quantum computing could help make hospital systems more efficient, improving delivery and reducing costs. Quantum computing could also analyse vast and unstructured data sets to speed up new drug development timelines and reduce costs. Better, cheaper or easier imaging will enable improved diagnostics and outcomes for patients, for example, for use during cancer surgery to remove damaged tissue, or to monitor epilepsy in children, or brain damage and concussion.
+The UK as a meaningful digital actor and unlocking the power of data for the UK: By accelerating optimization routines, quantum computing could enhance scenario planning, logistics and risk management within financial systems. Quantum computers may accelerate machine learning and provide reinforcement learning using unbiased data sets. Quantum
+35 Boston Consulting Group July 2021 “What Happens When ‘If’ Turns to ‘When’ in Quantum Computing?
+42
+[Page #42]
+technologies could act as an enabler for the further development of smart cities through sensing, networking and compute capabilities.
+Supporting other UK priority technologies and sectors: As enabling technologies, quantum products and services will often unlock innovation through integration of a wider suite of technological solutions. Given the breadth of anticipated capabilities and advances in performance, they will also have applications across many sectors. This represents both a great opportunity and a challenge for commercialisation. Considerable work is required to understand the drivers and technological challenges within critical sectors of the economy. This includes future telecoms networks, the space, defence, health, AI, high performance computing, photonics and semiconductor industries. We must ensure that efforts to roadmap and support technological advances within other sectors are mindful of what quantum could offer and develop an integrated whole system approach, enabling suitable environments within which to test and demonstrate applications. Substantial work will also be required to integrate new quantum technologies into existing systems of classical technologies and to assure their capabilities.
+Quantum computing, high performance computing, AI and cloud computing: the case for convergence
+As quantum computing develops, we will need to take every advantage of synergies between capabilities and opportunities in other technologies. As set out in the independent review of the Future of Compute, high performance computing is required in the UK to accelerate and steer the development of frontier AI in a manner aligned with the UK’s values and objectives. Over the next ten years, quantum computing will be an important addition to the UK’s high performance computing ecosystem, where integrated hybrid solutions are likely to be critical to achieving the best results. Meanwhile, cloud access and orchestration of resources has the potential to make compute, including quantum computing, more accessible to a broad range of users.
+The NQCC is already supporting convergence through exploring quantum machine learning applications and identifying mechanisms for cloud access to quantum computing for UK industry and researchers. Work will also be undertaken to further understanding of the quantum sector’s needs for advanced computing capabilities and how we can meet the integration challenges.
+Given the early stage of technology development for quantum computing, awareness raising and upskilling users to explore potential use cases is challenging. But the requirement to engage early is critical. The NQCC will play a crucial role in raising awareness and improving readiness, as well as providing test beds and access to compute to enable use case exploration.
+43
+[Page #43]
+NQCC test bed for quantum computing applications
+The NQCC has developed an extensive programme of support for users under the SparQ Applications Discovery Programme, to help them understand the opportunities associated with quantum computing, including training programmes and hackathons. The programme is ensuring resources are in place to provide access to state-of-the-art quantum compute resources delivered via the cloud, applications expertise, sharing of best practise and technical support to help shape and drive industry adoption.
+Furthermore, the NQCC will ensure test beds are developed and supported to enable the UK quantum computing developer community. These will be a mix of hosted hardware for end user access, state-of-the-art cloud services and well characterised stable platforms with full stack access to support developers in understanding error causality, mitigation and correction on the road towards large-scale fault tolerant machines of the future. The NQCC along with the Quantum Software Laboratory at the University of Edinburgh will investigate emerging use cases with societal impact. The NQCC will also examine key challenges around scaling quantum computing machines; verification, benchmarking, and error correction.
+SparQ Applications Discovery Programme
+The SparQ programme, developed by the National Quantum Computing Centre (NQCC), will help UK-based companies and researchers in the early exploration of applications for quantum computing. The NQCC is teaming up with Oxford Quantum Circuits (OQC) amongst others, to provide businesses and researchers with access to quantum compute resources including emulators, simulators, annealers and gate-based quantum computing platforms.
+While many government and research institutions around the world have developed programs aimed at raising awareness about quantum, SparQ goes further to take industry and government users through a journey from awareness, to engagement, evaluation, action and advocacy supported through four key elements: access to quantum computers, technical support and applications expertise, workshops and networking opportunities and learning resources. These elements are all aimed at allowing potential users to gain early hands-on experience in working with quantum hardware and algorithms to address challenges that are relevant to industry. Critically, the program is not just for quantum computer scientists and researchers, but also industry end users – people who are most likely to take quantum know-how and turn it into real world applications.
+44
+[Page #44]
+Leading by example through government signalling and procurement
+There are many areas where quantum technologies could improve public service delivery and enhance government’s capabilities – from improving the way we monitor climate change from space, to providing the ability to sense underground objects to speed up major infrastructure projects.
+Government can act as an early adopter of emerging technologies to support technology development and demonstrate the value of technologies to other sectors of the economy. There are numerous examples where procurement has been used to drive innovation such as through the Small Business Research Initiative (SBRI) and the National Security Strategic Investment Fund (NSSIF), providing public service improvements for the government whilst supporting small businesses and stimulating markets. As part of NSSIF’s strategy, and to deliver insight and access to quantum computing for government, NSSIF has deployed £2.6m in R&D contracts with quantum companies, helping to stimulate growth in the UK quantum ecosystem.
+Defence is a key area where the government acts as an early adopter of emerging technologies. The MOD was a key partner in setting up the NQTP in 2014. MOD has identified key quantum technology applications for defence, including sensing, imaging, and timing, as well as subsequent near-term opportunities in communications and computing. MOD has shared its own novel S&T with the NQTP, while in turn drawing on the expertise within the programme. This has allowed the department to assess future challenges, understand applications and routes to exploitation, and ensure Defence is ‘quantum ready’.
+The MOD Science & Technology Strategy also outlines the government’s intention to be an understanding first customer, an early adopter of innovation and a customer that’s prepared to take some risk – taking relatively immature technologies and experimenting with them within Defence systems. MOD will send clear messages to quantum innovators and potential collaborators on the military challenges identified which may be addressed by quantum technologies, while also welcoming and encouraging novel ideas and opportunities that Defence may not have yet identified. Government will work across departments to explore other key public sector applications and consider how other departments can learn from this example.
+To drive the adoption of quantum technologies, we will:
+• Raise awareness of the opportunities associated with their use through sector specific engagement and showcasing, as well as demonstration activities through the R&D programme.
+• Accelerate the recently launched NQCC SparQ Applications Discovery programme, with specific workstreams dedicated to use case exploration, testing, and upskilling within the public, defence, aerospace, and healthcare sectors. This builds on existing work with the finance sector to understand key drivers and opportunities, with further work
+45
+[Page #45]
+planned to ensure the sector is resilient to the threats to encryption from future scalable machines.
+• Expand the NQCC’s ability to act as a first customer on Government’s behalf by
+procuring prototype platforms and access to compute to accelerate the growth of the sector and enable sectors and government users to explore use cases.
+• Dedicate at least a quarter of the NQCC’s access to computing platforms and
+associated research programmes towards exploring critical applications of societal benefit, such as realising the advantages from personalised medicine, understanding the causes of dementia or improving battery efficiency. This will be delivered by working with leading UK centres such as the Crick Institute or Faraday Institution.
+• Deliver missions focussed on achieving societal benefits and commercial value, starting
+with two missions (accelerating quantum technologies for resilient capabilities in Position Navigation & Timing (PNT), and demonstrating the advantage of quantum computing). We will consult with the community and key industries both domestically and internationally to continue this work by developing a set of longer-term missions over the coming year.
+• Work with relevant leads across government to agree sector or tech specific action plans to better articulate the value proposition and resulting actions for enabling technological convergence. Early priorities will be telecoms, defence, space, AI, high performance computing and the semiconductor industries.
+• Expand the use of government procurement, including funding feasibility studies for
+companies to explore useful applications for public sector challenges. We will provide catalyst funding to enable this, under the next phase of the national programme, and will kick-start this with an additional £15 million over the next two years.
+• Set up a Government User Group to identify where quantum technologies are likely to
+offer an advantage to the delivery of public services and other public good applications, ways to help enable technology development for public service delivery, and ways to upskill government to enable the successful exploration of potential use cases.
+46
+[Page #46]
+Goal 4: Leading quantum regulation and protecting the sector
+Create a national and international regulatory framework that supports innovation and the ethical use of quantum technologies, and protects UK capabilities and national security
+New technologies present many unknowns in terms of regulatory challenges that may emerge as our understanding of how they will be used starts to grow. To prepare for future challenges, it is important to engage early in the debates that will shape future regulation through national and international fora where early work is underway to identify potential risks associated with the use of new technologies, and to develop shared taxonomies, languages, and principles to guide their future development. Eventually new standards, benchmarking and assurance frameworks will increase in importance to facilitate technological development as use cases become more evident, helping to set requirements for interoperability and to measure performance within key sectors.
+As the quantum sector evolves both nationally and internationally, we must anticipate and prepare for future regulatory challenges. We will ensure that regulatory frameworks drive responsible innovation and the delivery of benefits for the UK, as well as protecting and growing the economy and the UK’s quantum capabilities.
+Quantum regulation will need to be:
+• Stable, coherent and predictable
+• Agile enough to move quickly with technological development
+• Simple to understand and inexpensive to implement
+• Where possible, co-designed with industry
+• Focussed on innovation and industry-needs
+• Champion the transparent and ethical use of quantum technologies.
+There is an important opportunity for the UK to be at the forefront of quantum regulation and lead the way in trialling quantum technologies. We also have a key role to play in leading the international ethical and regulatory debate to ensure that regulation supports growth, the ethical use of quantum technologies and the UK’s wider interests.
+47
+[Page #47]
+World Economic Forum Global Future Council
+The WEF Global Future Councils network brings together global experts to discuss critical issues, generate insights and analysis, and collaborate in shaping agendas. In 2022, it published Quantum Computing Governance Principles for the responsible design and adoption of quantum computing for the benefit of society. These principles provide a taxonomy to help inform stakeholders and the broader public about the areas that quantum computing will have an impact and the opportunities and challenges that arise therewith.
+We will:
+• Ensure that future UK regulation of quantum technologies supports innovation, business
+growth and the ethical use of quantum technologies across the UK economy.
+• Lead the way in trialling quantum technologies in the UK, through establishing
+regulatory testbeds and sandboxes.
+• Play a leading role, with like-minded partners around the world, to shape international norms and standards relating to quantum technologies including those developed by multilateral bodies.
+• Play an active role in the World Trade Organisation, the World Economic Forum, the G7, the G20, OECD, NATO, the Council of Europe, the Commonwealth and the UN, including utilising the UK seat on the International Telecommunications Union (ITU) to ensure that quantum regulation supports UK business and innovation, that the UK’s wider prosperity, security and defence interests are represented and that we continue to uphold the UK’s values including those on human rights.
+• Commission the Regulatory Horizons Council to undertake a regulatory review of Quantum Technology applications. This will lead to the development of a work programme to guide the evolution of proportionate and pro-innovation regulation for the sector.
+Protecting the UK sector to support growth
+Whilst the government has an objective to support the growth of the quantum sector which is anticipated to lead to many benefits for society, the economy and national security, it also has a responsibility to ensure that the use of these technologies does not lead to harm or present a threat to the UK. The strength of the UK quantum sector attracts interest from hostile states who seek to develop their own capabilities or undermine ours. We continue to welcome trade and investment while ensuring that we protect the UK effectively from malicious practices which could have a damaging impact on our security and prosperity.
+48
+[Page #48]
+We have put in place measures such as the National Security Investment Act 2021, export controls, responsible research programmes, grant agreements and advice on IP protection to help companies and academic institutions to protect themselves from hostile actors who may seek to exploit their technology or knowledge. These measures are designed to support UK companies and research institutions to engage safely with investors, businesses and academics around the world, supporting future scientific advancements in quantum and enabling the continued growth of the sector.
+We will:
+• Work with our trusted allies to continue to monitor and review the impacts of current controls on the sector and any future changes to regulation, including the NSI Act, export control regimes, working multilaterally to anticipate future impacts and ensure that regulation aligns with prosperity and security goals.
+• Provide guidance to quantum businesses and researchers on how to work safely with others and how protect their work and intellectual property, including against cyber threats.
+Key regulatory frameworks
+Government guidance for academia (“Trusted Research”) and industry ( “Secure Innovation”), as well as wider advice1 is available through NPSA and NCSC. They seek to support the sector in navigating nuanced risks around state threats and the risks to collaboration, through a better understanding of due diligence on partners, identification of high-risk research or organisational key assets alongside appropriate security governance and risk management, which allows those organisations to make risk-based decisions about how to balance security with opportunity. This includes advice on undertaking security audits and mitigations with accredited risk consultants.
+The Academic Technology Approval Scheme (ATAS)
+ATAS applies to all international students and researchers (apart from exempt nationalities) who are subject to UK immigration control and are intending to study or research at postgraduate level in certain sensitive subjects.
+The subjects and research areas are those where knowledge could be used in programmes to develop Advanced Conventional Military Technology (ACMT), weapons of mass destruction (WMDs) or their means of delivery. Researchers and students in these sensitive subjects must apply for an Academic Technology Approval Scheme (ATAS) certificate before they can study or start research in the UK.
+The National Security and Investment Act (NSIA) (2021)
+The NSIA came into force on 4 January 2022, and gives the government powers to scrutinise and intervene in business acquisitions, such as takeovers, that may pose
+49
+[Page #49]
+national security risks. It gives businesses and investors a clear and predictable screening process, so that they can continue to invest and do business in the UK with confidence. The Act requires particularly sensitive acquisitions to be approved by the government before they are completed, and this includes acquisitions in Quantum Technologies. Extensive guidance on the Act and how quantum technologies come into scope is available at gov.uk.
+Export Controls
+The UK’s export control regime, delivered by the ECJU, provides a consolidated framework to ensure that UK exports allow UK business to prosper without posing a threat to national security or violating our international commitments to non-proliferation, as agreed through treaty or multilateral export control groups such as the Wassenaar Arrangement. As is often the case for less mature developing technologies, there are few specific controls targeting quantum technologies themselves or the goods designed for research and development of such technologies. It is possible new controls may be introduced in the future as the technologies mature and their impacts are understood.
+Mitigating the risks associated with quantum
+As with any new technology, risks associated with the use of quantum technologies will continue to emerge. One of the most well documented is the risk quantum computing will pose to national cyber security in the future by threatening the security of much of the existing public-key cryptography, upon which the information sharing and trust mechanisms of most modern systems depend.
+The National Cyber Security Centre (NCSC) is the UK’s authority for cyber security and cryptography and has published guidance on the transition to quantum-safe cryptography, which is the recommended mitigation against this threat once products become available. In terms of Government’s own preparedness, mitigations have already been put in place for critical information and services.
+NCSC will continue to give bespoke advice to each sector through its resilience teams, and general advice on quantum-safe cryptography via its website. More detailed guidance for quantum-safe cryptography algorithms will follow the outcome of the NIST process, recommending specific algorithms for representative use cases.
+NCSC’s guidance for mitigating the risks from quantum computing is set out within the White Paper “Preparing for Quantum Safe Cryptography”.
+NCSC’s position is that robust and secure transition will take time to plan and deliver, and there is risk in beginning transition to quantum-safe cryptography before standards-compliant products are available. NCSC works with international partners to ensure our plans and guidance for transition to quantum-safe cryptography are aligned.
+50
+[Page #50]
+There are actions organisations can and should take now to manage that risk. Any organisation that manages their own cryptographic infrastructure should factor quantum-safe transition into their long-term plans and conduct investigatory work to identify which of their systems will be high priority for transition once standards-compliant implementations exist. Priority systems could be those that process sensitive personal data, or the parts of the public-key infrastructure that have certificate expiry dates far into the future and would be hardest to replace.
+Technical Standards
+The importance of standards is growing with the increasing globalisation of commerce, the emergence of new technologies and the need for interoperability. As technology progresses from initial research to prototype and product development technical standards become increasingly important, for example by supporting the consistent measurement of technology performance.
+Different types of standards activity will be relevant at different levels of maturity: from identifying critical measurements and taxonomies as part of basic research, to the metrics and benchmarking of prototypes, and the interoperability and certification of commercial quantum products. Different quantum technologies are likely to mature at different rates.
+While supporting the development of standards will be important to advancing open technological development, interoperability and trade, these activities need to take place at the right time to avoid stifling innovation by setting boundaries and requirements too early in the process. There is also a need to mitigate the risks of standards being developed by those who do not share our values and in a way that does not support the UK economy. Engagement with key stakeholders and experts in specific areas of quantum technology research and innovation will be critical to Government developing an understanding of this balance.
+There are a number of early quantum standardisation activities taking place globally with significant focus on quantum safe cryptography and QKD, with UK leadership in these areas. Standards development organisations with activity on quantum technology include: International Organization for Standardization (ISO); International Electrotechnical Commission (IEC); International Telecommunication Union (ITU); Internet Engineering Task Force (IETF); the European Telecommunications Standards Institute (ETSI); and the Institute of Electrical and Electronics Engineers (IEEE).
+We will:
+• Work through relevant global bodies to ensure that global quantum technical standards promote our prosperity and security interests, including accelerating commercialisation of quantum technologies and supporting the sector here in the UK
+• Work with key partners (e.g. the British Standards Institute, the National Physical
+Laboratory and MOD) to scope and identify the best approach to coordinating national
+51
+[Page #51]
+engagement in priority areas of quantum technical standards development. Relevant industry, and academia will be engaged in these efforts to track priority standards activity, raise stakeholder awareness and develop roadmaps to support UK engagement with quantum standards development.
+Existing UK governance of quantum technical standards
+Quantum computing, quantum communications, quantum imaging and quantum sensors and timing are at different stages of standardisation activity and spread across several different International Standards Development Organisations (SDOs). The National Physical Laboratory (NPL) has raised awareness of relevant standards activity amongst the Research Hubs, and has initiated engagement with the National Institute of Standards and Technology (NIST) in the US.
+The British Standards Institute (BSI) coordinates UK engagement in quantum standards activity at ISO/IEC and at the European level in CEN/CENELEC. A BSI committee for quantum standards was established with NPL support in March 2021. So far its main activity has been to mirror and contribute to ISO/IEC/JTC 1/WG 14, Quantum Computing, and to the CEN/CENELEC Focus Group on Quantum Technologies (FGQT).
+Within government DSIT is responsible for quantum technology policy and for policy on digital technical standards, which includes standards for quantum and related technologies such as AI and telecommunications. Standards oversight and leadership will be provided by DSIT through partnership with NPL and BSI, bringing in other key organisations such as NCSC and NQCC in their particular fields.
+Assurance of quantum technologies
+Users of quantum technologies and other emerging technologies require some confirmation of the reliability, cost effectiveness, safety and security of the products or services that they want to acquire. Testing and evaluation as well as wider assurance plays a critical role in demonstrating that the technologies do what they say they will.
+It is too early in the development pathway of many quantum technologies to establish full assurance frameworks for their use, however extensive work has been undertaken at NPL and elsewhere to develop effective testing and evaluation techniques, working with industry through ISCF Quantum Challenge projects and their Quantum Testing and Evaluation (QTE) Programme. This will stand them in good stead for the development of future frameworks.
+The NQCC and the National Physical Laboratory (NPL) are also working to develop open standards that build on benchmarking tools commissioned by the NQCC to enable comparisons to be drawn between competing quantum platforms. NPL and NQCC will develop an assurance and benchmarking programme of work to sit alongside the standards roadmap.
+52
+[Page #52]
+Security assurance is as important as performance assurance to provide users with the confidence to invest in or adopt these technologies. As such, good security principles established by NCSC and set out in the Cyber Security Strategy 2022 should be adhered to and security must be seen as an enabler rather than an inhibitor or commercial success. By reducing cyber risks in their interactions with other businesses or users via the cloud, as well as ensuring quantum technologies are secure by design, quantum companies can maximise the economic benefits associated with quantum technologies. As set out in the Cyber Security Strategy, NCSC will work with the National Quantum Technologies Programme to develop a security model for quantum computers, which will help companies to design secure architectures, building on the Digital Security by Design programme and will continue to offer guidance to quantum companies to help them to operate safely on the cloud.
+The Quantum Metrology Institute at the National Physical Laboratory
+The Quantum Metrology Institute (QMI) at NPL was established in 2015 as part of the first phase of the National Quantum Technologies Programme. The QMI brings together all NPL’s capabilities in science, metrology and major facilities relevant to the understanding, development and test of quantum technologies. The QMI is a national capability for test and evaluation, accelerating the commercialisation of quantum technologies.
+NPL teams work in collaboration with industry and academic partners across the country focused on multiple scientific areas including quantum clocks, quantum communications, quantum computing, quantum sensors and quantum materials. Facilities are available to test and characterise materials, components and systems from the full range of technology areas.
+NPL offers schemes for industry to access these facilities and opportunities to collaborate with NPL scientists and engineers to address barriers to innovation, reliability and scaling of quantum systems.
+To expand these national capabilities in support of the quantum economy, a new facility – the Advanced Quantum Metrology Laboratory (AQML) – has been constructed on the NPL Teddington site. The AQML will give NPL even greater capacity to support the UK in the successful commercialisation and adoption of quantum technologies
+53
+[Page #53]
+Conclusion
+The potential benefits and opportunities of quantum technologies are vast and will offer advantages to the UK in meeting our economic, security, climate, health and societal aims. We are in a strong position to be a world-leading quantum nation, but we must continue to be bold and ambitious in our approach if we are to capitalise on our strengths and bolster our position in the global race.
+This strategy set out our deep long-term commitment to quantum technologies in the UK and the actions we will take to build on our advantages across a broad range of quantum technologies.
+To conclude, we will ensure that the UK is a leading quantum nation, building on the years of investment and progress already made in the vibrant UK quantum ecosystem. We will invest – at scale and over the long-term – in the cutting-edge science and the people who will deliver our success. We will support our quantum businesses who are driving the commercialisation of the technology and ensuring that the ideas and knowledge are translated into products and services that can be used across the economy to deliver benefits to all our citizens. We will work internationally to share and increase knowledge, build secure supply chains and collaborate on the most pro-innovation and ethical global governance and regulation of quantum technologies.
+In the words of the Secretary of State for Science, Innovation and Technology, ‘We will make the UK the home for cutting-edge scientific breakthroughs, the best place in the world to start and grow a quantum business, a leading voice in the international quantum and tech community, and a magnet for international quantum talent.’
+At this relatively early stage in the development of quantum technologies, our approach is to strengthen the entire quantum ecosystem, by applying all the levers that the government has available. As the technology matures, and the successful technical solutions in particular areas become clearer, our programme might need to change and become more tailored. Engaging with the UK quantum community to understand what is working, and how the support needs to adapt, will be an essential part of our approach. We will consult widely on the design of the future programme.
+Implementation
+To achieve this ambitious programme of work we will bring a rigorous approach to implementation and delivery. This will be a collaborative effort across Government, academia and industry, and with our international partners. A new Office for Quantum will be the engine of our ambition, based in DSIT but integrating knowledge and expertise from across the community and will:
+54
+[Page #54]
+• Report progress on delivery to the National Science and Technology Council, chaired by the Prime Minister, given quantum’s strategic importance. This continued engagement at the most senior levels of government is required to maintain long-term momentum, respond to new developments, and ensure join-up with other priority technologies.
+• Establish a new strategy programme board, composed of the lead delivery departments
+to govern the implementation of this strategy, and ensure that the full range of government levers, across public investment in R&D, trade, diplomacy, working with private companies and investors, public procurement, programmes and grants, and defence and security expertise, are brought to bear.
+• Publish an annual report on progress made on the implementation of the strategy,
+priority actions, and a long-term vision for the sector that will need to be revisited as it rapidly takes shape. This will incorporate external input and challenge will ensure the implementation of this strategy is informed by industrial, academic and technical expertise.
+• Broaden and deepen the current independent advisory structures to enable them to
+advise the government on strategy implementation. The remit and membership of the Quantum Strategic Advisory Board will be expanded to cover quantum strategy implementation across all of the goals, not just the R&D programme.
+• Work closely with UKQuantum, as representatives of the UK quantum industries sector, and other key industry and professional bodies such as the Institute of Physics, the Royal Academy of Engineering, the Institute of Engineering and Technology and TechUK to make sure that industry views are understood and taken into account.
+55
+[Page #55]
+Summary of Actions
+Vision: For the UK to be a world leading quantum-enabled economy by 2033, building on scientific excellence and a thriving quantum sector to ensure that quantum technologies are an integral part of the UK’s digital infrastructure and advanced manufacturing base, driving growth and helping to build a strong and resilient economy and society.
+Goal 1: Ensure the UK is home to world-leading quantum science and engineering, growing UK knowledge and skills
+Research & Development
+We will establish a new and ambitious ten-year £2.5 billion quantum research and innovation programme from 2024-2034, to be developed in full consultation with our partners across Government, most notably UK Research and Innovation, independent expert advisors and with industry.
+In the next year make new investments in new National Quantum Research Hubs, two short-term quantum missions focussed on achieving key technological milestones around quantum computing and PNT, quantum fellowships and doctoral training, government procurement of quantum technologies for public use, acceleration activities, working with the sector on collaborative R&D in quantum networking and increased activities through the National Quantum Computing Centre.
+Skills
+More than double the number of Centres for Doctoral Training focused on Quantum Technologies. This will contribute to training over 1,000 PhD students in quantum or a directly supporting field over the next ten years. Ensure the UK can continue to attract, develop and retain world leading experts by investing in tailored packages, such as fellowships for the brightest researchers. We will start with an investment of £25m over the next two years to increase quantum-related fellowships and doctoral training. We will continue to increase this over the new ten-year programme.
+Ensure the UK can continue to attract, develop and retain world leading experts by investing in tailored packages, such as fellowships for the brightest researchers. We will start with an investment of £15m over the next two years to increase the number of quantum-related fellowships
+Establish the Quantum Skills Taskforce, bringing together industry, academia, and professional societies with the relevant government agencies to ensure that the quantum skills system is guided by the needs of our most promising companies. We will work further with these groups to develop and publish a skills action plan within the next 12 months.
+56
+[Page #56]
+Develop a range of measures to inspire the next generation of quantum scientists, engineers, and technicians. We will fund an expansion of STEM Learning’s Quantum Ambassador schools outreach programme, launch a further series of domestic and international summer schools and research exchanges, and develop both a quantum industry placement scheme and a quantum apprenticeships programme.
+Support global quantum talent moving to the UK through the enhanced visa routes for highly-skilled individuals.
+Deliver a quantum priority stream in the UK Global Talent Network.
+Engage with UK professional bodies including the Institution of Engineering & Technology (IET) and the Institute of Physics (IoP) to develop awareness, skills and recognition of continuing professional development and careers in support of the quantum sector
+Broaden activities such as the NPL Apprenticeship scheme in order to train more skilled technicians in the UK for the UK quantum sector, aligning with wider government objectives to strengthen technical training in the UK
+International
+Expand our partnerships through a comprehensive programme of bilateral arrangements with leading quantum nations, working with the UK’s global Science and Innovation Network, and considering the priorities and outcomes set in the UK International Tech Strategy.
+Engage with other leading quantum nations to exchange knowledge on quantum programmes, developments, regulation and security.
+Increase our global networks through open calls on collaborative research.
+Provide additional funding for international collaboration through the new International Science Partnerships Fund
+Demonstrate UK leadership in international standards fora, optimising the conditions for UK companies and creating standards that are compatible with our norms and values.
+Goal 2: Support business, making the UK the go-to place for quantum businesses and an integral part of the global supply chain, as well as a preferred location for investors and global talent
+Launch missions for Quantum Computing and PNT that will include enabling activities to support commercialisation and user adoption in these technology areas
+Develop new acceleration programmes for quantum technologies that will support the sector in capitalising on market opportunities. We will start with an additional £20M over the next two years to fund an accelerator for quantum networking, a collaborative programme with industry.
+57
+[Page #57]
+Launch a new round of industry-led innovation funding opportunities under the new ten-year programme
+Work with industry to undertake feasibility studies on key infrastructure and programme requirements to enable the future benefits associated with quantum technologies to be better understood and realised, starting with quantum communications.
+Commission the Royal Academy of Engineering to undertake an independent infrastructure review by the end of 2023 to map the UK’s quantum infrastructure and the sector’s infrastructure requirements for the next decade against those of other key UK sectors (such as semiconductors, photonics or space), including for fabrication facilities.
+Open-up access to the facilities of participating partners across industry, RTOs, universities, and government-owned facilities for test, problem-solving, and performance demonstration.
+Produce a directory of existing infrastructure accessible to industry across the UK and explore the quantum industry’s requirements for additional infrastructure over the next decade.
+Work through the National Quantum Computing Centre to negotiate access to quantum computing resources across a range of platforms for wider research and the quantum industry, providing a front door for those businesses looking to engage with the quantum community and explore use cases. We will provide an additional £20M over the next two years to boost the work of the NQCC.
+Create a quantum business growth directory outlining the support offer for quantum companies to help them to flourish by taking advantage of the existing schemes available for innovative businesses, including helping to protect their intellectual property.
+Work with key organisations such as UKQuantum and techUK and parts of government to develop promotional material targeted at critical user sectors for dissemination nationally and internationally, as well as to deliver a targeted global opportunities campaign, working with global partners to promote the UK sector overseas, build trade opportunities and open-up investment and collaboration opportunities for UK companies.
+Work with international partners to consider future security of supply and facilitate the growth of a trusted global supply chain for the sector, benefiting the growth of the UK ecosystem as well as those of our partner nations.
+Build programmes and investment opportunities that attract quantum companies from overseas. We will proactively support quantum businesses that want to come to the UK, working with the Department for Business and Trade.
+Goal 3: Drive the use of quantum technologies in the UK to deliver benefits for the economy, society and for national security
+58
+[Page #58]
+Raise awareness of the opportunities associated with their use through sector specific engagement and showcasing, as well as demonstration activities through the R&D programme.
+Accelerate the recently launched NQCC SparQ Applications Discovery programme, with specific workstreams dedicated to use case exploration, testing, and upskilling within the public, defence, aerospace, and healthcare sectors.
+Expand the NQCC’s ability to act as a first customer on Government’s behalf by procuring prototype platforms and access to compute to accelerate the growth of the sector and enable sectors and government users to explore use cases.
+Dedicate at least a quarter of the NQCC’s access to computing platforms and associated research programmes towards exploring critical applications of societal benefit, such as realising the advantages from personalised medicine, understanding the causes of dementia or improving battery efficiency. This will be delivered by working with leading UK centres such as the Crick Institute or Faraday Institution.
+Deliver tech missions focussed on achieving societal benefits and commercial value, starting with two missions (accelerating quantum technologies for resilient capabilities in Position Navigation & Timing (PNT), and demonstrating the advantage of quantum computing). We will consult with the community and key industries both domestically and internationally to continue this work by developing a set of longer-term missions over the coming year.
+Work with relevant leads across government to agree sector or tech specific action plans to better articulate the value proposition and resulting actions for enabling technological convergence. Early priorities will be telecoms, defence, space, AI, high performance computing and the semiconductor industries.
+Expand the use of government procurement, including funding feasibility studies for companies to explore useful applications for public sector challenges. We will provide catalyst funding to enable this, under the next phase of the programme, and will kick-start this with an additional £15 million over the next two years.
+Set up a Government User Group to identify where quantum technologies are likely to offer an advantage to the delivery of public services and other public good applications, ways to help enable technology development for public service delivery, and ways to upskill government to enable the successful exploration of potential use cases.
+Goal 4: Create a national and international regulatory framework that supports innovation and the ethical use of quantum technologies, and protects UK capabilities and national security
+Ensure that future UK regulation of quantum technologies supports innovation, business growth and the ethical use of quantum technologies across the UK economy.
+59
+[Page #59]
+Lead the way in trialling quantum technologies in the UK, establishing regulatory testbeds and sandboxes.
+Lead the global definition of the risks and opportunities of quantum, and work with international partners to develop shared principles for the responsible and secure development and deployment of quantum.
+Play a leading role, with like-minded partners, around the world, to shape international norms and standards relating to quantum including those developed by multilateral bodies.
+Play an active role in the World Trade Organisation, the World Economic Forum, the G7, the G20, OECD, NATO, Council of Europe, Commonwealth and the UN, including utilising the UK seat on the International Telecommunications Union (ITU) to ensure that quantum regulation supports UK business and innovation, that the UK’s wider prosperity, security and defence interests are represented and that we continue to uphold the UK’s values including those on human rights.
+Commission the Regulatory Horizons Council to undertake a regulatory review of Quantum Technology applications. This will lead to the development of a work programme to guide the evolution of proportionate and pro-innovation regulation for the sector.
+Work with our trusted allies to continue to monitor and review the impacts of current controls on the sector and any future changes to regulation, including the NSI Act, export control regimes, working multilaterally to anticipate future impacts and ensure that regulation aligns with prosperity and security goals.
+Provide guidance to quantum businesses and researchers on how to work safely with other and how protect their work and intellectual property, including against cyber threats.
+Work through relevant global bodies to ensure that global quantum technical standards promote our prosperity and security interests, including accelerating commercialisation of quantum technologies and the supporting the sector here in the UK
+Work with key partners (e.g. the British Standards Institute, the National Physical Laboratory and MOD) to scope and identify the best approach to coordinating national engagement in priority areas of quantum technical standards development.
+60
+[Page #60]
+This publication is available from: www.gov.uk/dsit
+If you need a version of this document in a more accessible format, please email alt.formats@beis.gov.uk. Please tell us what format you need. It will help us if you say what assistive technology you use.

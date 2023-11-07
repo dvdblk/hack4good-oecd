@@ -1,0 +1,1535 @@
+[Page #0]
+UKRI diversity data for funding applicants and awardees
+2020-21 update
+[Page #1]
+Contents
+1.0 Foreword
+1.1 Key Findings
+2.0 Introduction
+2.1 What is included? 2.2 The impact of council-level differences on UKRI-level data
+3.0 Results
+3.1 Overall distribution in 2020-21 3.2 Principal Investigator and Co-Investigator 3.3 Intersectionality with gender 3.4 Fellows 3.5 Studentship starts
+Annex A: Methodology
+1. Presentation of the data 2. Guidance on interpreting data 3. Diversity characteristics 4. Data sources
+References
+[Page #2]
+1.0 Foreword
+3. After the white ethnic group at 81%, the highest percentage of PI awardees was from the Asian ethnic group, at 8%. The percentage of PI grant holders from the black, mixed, and other ethnic groups was lower, at 1%, 2% and less than 0.5% respectively.
+UKRI publishes annual diversity data on the funding profile of applicants and awardees to aid transparency in our funding and enable high-level monitoring of trends. This report provides data for the 2020-21 financial year, and adds to our previous publications describing diversity data1 and detailed ethnicity analysis2 for the 2019-20 financial year.
+4. The award rate for PIs was lowest for the
+black and other ethnic groups at 13% and 12% respectively. This compares with award rates of 29% for the white ethnic group, 23% for the mixed ethnic group and 21% for the Asian ethnic group.
+The report primarily presents a high-level annual overview of our diversity data at UKRI level. Interpreting our diversity data is complex, however, as it is based upon thousands of applications to hundreds of funding opportunities administered by 7 different research councils. Annual changes in the types of opportunity launched, or external factors such as the COVID-19 pandemic, impact upon our data and the interpretation of trends over time.
+5. The percentage of PI and CI grant holders
+reporting a known disability remains low at 2%. This is below benchmarks for wider academic staff at 4%, and the wider labour market (employed) population at 13%.5
+Where possible, data for individual research councils is provided in accompanying data tables. Figures from analysis at council level, funding stream level or funding opportunity level are also discussed where they can inform our understanding of UKRI-level trends. Building this more detailed understanding is vital to support priority 6.2 of our 5-year Strategy, published in March 2022,3 focused on strengthening our insights and analyses, to inform how we act.
+6. Disability status was not disclosed for 6% of PI
+grant holders and 6% of CI grant holders. Ethnicity was not disclosed for 8% of PI awardees and 9% of CI grant holders. Further investigation is needed to understand why there are higher levels of non-disclosure for disability and ethnicity than for the other legally protected characteristics, and the impact this has on our data.
+7. Among UKRI’s funded postgraduate research students, representation of female students and students reporting a disability is below benchmarks for the wider postgraduate research student population.6 45% of UKRI studentship starts were female compared with a benchmark of 50%, and 8% reported a disability, compared with a benchmark of 12%. A high-level of 'non-disclosure' or 'unknown' for ethnicity remains for UKRI-funded studentship starts, at 32%.
+1.1 Key Findings
+1. For the first time, data on the intersection of age, ethnicity and disability with gender is included. Breakdowns by gender and ethnicity show that white males received the largest percentage of awards as both principal investigators (PIs) and co-investigators (CIs), receiving 57% of PI awards and 49% of CI awards.
+2. Representation of female grant holders overall was 28% for PIs and 33% for CIs. For both role types, this is below a benchmark for the wider academic population, at 42%4. Representation of female grant holders was above this benchmark for fellows, at 49%.
+[Page #3]
+2.0 Introduction
+We are committed to publishing diversity data on applications and awards against 4 diversity characteristics7 (age, disability, ethnicity and gender8) annually, as part of our business-as-usual activities. The data is broken down by role type (principal investigators (PIs), co-investigators (CIs), fellows, and studentship starts), and the data included covers seven financial years (2014-15 to 2020-21). Discussion within this report is primarily focused on data for the latest financial year. Developing the capability to explore trends over time is an important next step in improving our analysis.
+of the pandemic. However, further work including the monitoring of trends in future years, will enable us to understand the impact of the COVID-19 pandemic on funding applicants and awardees more fully.
+An impact evaluation for our COVID-19 response is ongoing, and will explore to what extent (and how) projects have fostered equal, diverse, and inclusive research and innovation environments.
+2.1 What is included?
+This report is based upon competitive UKRI funding to named individuals from across the 7 research councils and pan-UKRI funds which are centrally run schemes. This does not reflect all of UKRI's budget: for example, it does not include strategic funding (such as block grants to institutes), funding from Research England and Innovate UK. The majority of Innovate UK and Research England funding goes to organisations and therefore all Innovate UK and Research England funding is excluded from this report.
+We publish this data to aid transparency in our funding and enable high-level monitoring of trends. For 2020-21, the data continues to reveal under-representation of females, ethnic minority groups and individuals with a declared disability when compared to the benchmark for the UK academic community and the UK workforce. We are using this data, together with other evidence, and engagement with the research and innovation community, to support priority 6.2 of our 5-year strategy published in March 2022.3 This aims to strengthen our insights and analyses to inform how we act, drawing on the breadth and depth of our expertise to respond to the rapidly changing research and innovation landscape.
+Innovate UK will be publishing a report on the diversity of Innovate UK competition applicants and recipients early in 2023. In addition, a new EDI survey was introduced for applicants in May 2022 and EDI data from this survey will be published annually.
+The 2020-21 financial year was unprecedented, with the impact of the COVID-19 pandemic, and so in many ways was an atypical year for funding applications. Our independent process review9 of UKRI’s response to COVID-19 revealed that we received a substantially larger volume of applications at a much faster pace than normal, with COVID-19 response applications adding around 30% to our typical annual application volume. Success rates were also impacted, with a success rate of just over 10% for the main COVID-19 response calls, compared with an overall award rate for UKRI of 21% (although this varies substantially by competition and award type).
+Results are included against 4 characteristics (age, disability, ethnicity, and gender) for each of the seven research councils (AHRC, BBSRC, EPSRC, ESRC, MRC, NERC, and STFC,12 plus Pan-UKRI funds13) and for UKRI as a whole. Data is available for the 7-year period from 2014-15 to 2020-21. Results for UKRI’s research grants and fellowships are broken down by role type (principal investigators (PIs), co-investigators (CIs) and fellows) and data is included separately for council funded studentship starts.
+For more detail on the methodology – see the methodology annex. This year, we have made a few changes to improve the content within the report. We have disaggregated ethnicity and included intersectionality for the first time. In the next report we will develop estimates of expected variation over time and develop methods to assess statistical significance.
+Emergency calls, set up as part of our response to COVID-19 are not included within the data in this report.10 Separate analysis of the diversity profile for these calls is included within Annex D of the independent process review.11 Early analysis of data for UKRI does not indicate substantial changes in the diversity profile of applicants and awardees because
+[Page #4]
+as these are already reported on and discussed separately on a round by round basis.16
+External benchmark data is used to provide context and comparison to our diversity data. We use it to understand how the diversity of our applicants and awardees compares to the make-up of those eligible to apply for our funding, and the wider population. We have used the latest data available from the Higher Education Statistics Agency (HESA) for the diversity population of the UK Higher Education Institutes (HEIs) and the ONS Labour Force Survey, which provides the percentage of people from each ethnic group who are employed in the UK (see Annex A). It should be noted that neither benchmark is a perfect comparator. Some UKRI funding opportunities allow for international applicants or researchers outside of UK HEIs, while student benchmarks for the HESA data are for UK-domiciled students only.
+Intersectionality analysis is also limited to applications, awards, and award rates at this stage. We recognise that further work is needed to understand the intersection between protected characteristics more fully and will continue to develop and improve this analysis in future release.
+2.2 The impact of council-level differences
+on UKRI-level data
+Where possible, data for individual research councils is provided in accompanying data tables. Insights from analysis at council level, funding stream level or funding opportunity level are also discussed where they can inform our understanding of UKRI-level trends.
+Discussion within this report is primarily focused upon data for the latest financial year of data. Changes over time are only discussed where we can provide additional evidence to support the conclusions. Developing the capability to explore trends over time is an important next step into improving our analysis.
+There is large variation in application numbers, award rates and award amounts across UKRI’s funding portfolio, including between research councils. These reflect differences in process and reporting methods. The variation in award value can be due to the higher consumable and equipment costs that are necessary for some areas of research. Councils are looking into their data individually, and this substantial evidence base is directly influencing EDI workplans.
+The following results are included:
+ ■ The proportion of applicants and awardees for
+research grants and fellowships
+ ■ Award rates (number of awardees as a percentage of the number of applicants) for research grants and fellowships14
+The distribution of applicants by number across councils for 2020-21 is: AHRC, 3,850; BBSRC, 3,585; EPSRC, 7,150; ESRC, 4,625; MRC, 7,845; NERC, 4,410; STFC, 1,170; Pan-UKRI, 3,305. MRC has the highest number of applicants compared to the other councils with STFC the fewest.
+ ■ Mean and median application and award values
+for successful applicants for research grants and fellowships
+ ■ Award rate by value (the value of the total amount awarded as a percentage of the total amount applied for) for research grants and fellowships
+Within this distribution of applicants there are differences in diversity characteristics and application patterns across the 7 research councils. Figure 1 shows the distribution of UKRI’s applicants across age, disability, ethnicity, and gender by the 7 research councils and Pan-UKRI.
+ ■ The proportion of doctoral studentship starts
+ ■ Estimates of UK academic staff and postgraduate research student populations for each council, based on HESA data, to understand whether the applicants and awardees reflect underlying populations of staff and students in higher education15
+Data for the cross-UKRI Future Leaders Fellowships (FLF) is included within the totals for fellows under ‘Pan-UKRI funds’ in council-level breakdowns but is not separately identified. Separate data for the FLF programme is also provided alongside this report for individual financial years. Results for the FLF programme are not discussed within this narrative,
+[Page #5]
+Figure 1: The number of total applicants to UKRI by diversity characteristic for the research councils (2020-21)
+Age
+20 30
+30 5
+40 20
+29 or less
+30-39
+40-49
+50-59
+60+
+Unknown
+Disability
+3425 3330
+285 205
+75 200
+120 45 110
+110 80 15 65
+25 <5 15 25 50 15
+Disabled
+Not disabled
+Not disclosed
+Unknown
+AHRC
+BBSRC
+EPSRC
+ESRC
+MRC
+NERC
+STFC
+Pan-UKRI
+Source: UKRI’s competitive funding decision data (2020-21)Notes: The category ‘Pan-UKRI’ includes applications to funding opportunities which are hosted centrally by UKRI, including, Future Leadership Fellowships, Global Challenge Research Funding (GCRF), Innovation Scholars and the Newton Fund Impact Scheme.
+[Page #6]
+Ethnic group
+10 10
+30 5 50
+30 10
+10 10
+<5
+Asian
+Black
+Mixed
+Non disclosed
+Other
+Unknown
+White
+Gender
+80 35
+95 60 60 20 45
+15 15 15 15 45 15
+Female
+Male
+Not disclosed
+Unknown
+AHRC
+BBSRC
+EPSRC
+ESRC
+MRC
+NERC
+STFC
+Pan-UKRI
+Source: UKRI’s competitive funding decision data (2020-21)Notes: The category ‘Pan-UKRI’ includes applications to funding opportunities which are hosted centrally by UKRI, including, Future Leadership Fellowships, Global Challenge Research Funding (GCRF), Innovation Scholars and the Newton Fund Impact Scheme.
+[Page #7]
+At UKRI-level, award rates were also higher for PI males in 2020-21 (at 29%), compared with 25% for PI females. At council level, however, the picture is mixed. PI award rates by gender were very similar (within 2 percentage points (pp) of each other) at all councils except STFC, where PI females had an award rate 9pp higher than males. The higher award rate for males at UKRI level is a consequence of a higher percentage of male applicants and awardees at EPSRC and STFC, which are also the two councils with the highest award rates.
+This highlights the fact, for example, that at UKRI level the 40-49 age group has the highest proportion of applicants. MRC and EPSRC have a higher number of applicants aged 40-49 than the other councils. EPSRC has the highest number of applicants across all age groups, with STFC and Pan-UKRI funds having the lowest.
+The white ethnic group has the highest number of applicants. STFC and Pan-UKRI have the lowest number of applicants in this group, and Asian applicants to EPSRC are higher than both. In terms of gender, AHRC and ESRC have similar numbers of male and female applicants.
+It is therefore important to consider council-level data, alongside UKRI-level data, when comparing amounts and award rates between demographic groups. We advise against using these findings alone to draw causal inferences regarding the relationship between the diversity characteristic and application and award rates. Further analysis is needed to control for the effects of other background factors.
+In 2020-21, overall award rates for research and innovation grants ranged from 17% at MRC to 72% at STFC.17 Similarly, median award amounts for principal investigators ranged from approximately £135,250 at AHRC to approximately £593,536 at MRC.
+At UKRI level in 2020-21, the median award amount for male PIs was approximately £400,000, compared with approximately £300,000 for female PIs. However, the council level data shows that this difference is not consistent across all the councils. At AHRC, BBSRC, EPSRC and NERC, differences in median award amount by gender for PIs were smaller than at UKRI level (all the differences were less than £40,000). Differences were larger at ESRC, MRC and STFC, where the median award amount was higher for male PIs than for female PIs.
+[Page #8]
+3.0 Results
+This section discusses key findings for the 7-year period (2014-15 to 2020-21). The data can be explored further using the accompanying Excel downloads and interactive dashboard.
+3.1 Overall distribution in 2020-21
+Figure 2 shows the overall composition of UKRI applicants by age, gender, ethnicity, and disability for the three role types – principal investigators (PIs), co-investigators (CIs) and fellows – in 2020-21. Key findings for each characteristic are discussed in more detail below for PIs, CIs and fellows, and for studentships starts.
+Figure 2: The proportion of applicants by role and characteristic, UKRI, 2020-21
+Age
+30-39
+40-49
+50-59
+60+
+Co-investigator
+40-49
+50-59
+29 or less
+Fellow
+30-39
+Principal investigator
+30-39
+40-49
+50-59
+60+
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Disability
+Disclosed disability
+Co-investigator
+No known disability
+Fellow
+No known disability
+Principal investigator
+No known disability
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Ethnic group
+Black Mixed
+Other
+Co-investigator
+White
+Asian
+Fellow
+Asian
+White
+Principal investigator
+Asian
+White
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Gender
+Co-investigator
+Male
+Female
+Fellow
+Female
+Male
+Principal investigator
+Female
+Male
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Not disclosed
+Unknown
+Source: UKRI’s competitive funding decision data (2020-21)
+[Page #9]
+3.2 Principal investigator and co-investigator
+3.2.1 Age
+The age distribution of PIs and CIs has remained relatively stable over the seven-year period. For PIs and CIs in 2020-21, the 40-49 age group continued to account for the largest share of awardees at 38% for PIs and 37% for CIs.
+Differences in award rates by age group also remained stable in 2020-21 if we exclude 'unknown'. For CIs there was little variance in award rate by age, ranging between 28% and 29% for all age groups. For PIs award rates ranged from 20% for those aged 29 or less to 32% for those aged 50 to 59 (Figure 3).
+Figure 3: Award rate for principal investigators (PIs) and co-investigators (CIs) by age group (UKRI, 2020-21)
+29 or less
+30-39
+40-49
+50-59
+60+
+Unknown
+Award rate
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+Principal investigator
+Co-investigator
+Role
+Source: UKRI’s competitive funding decision data (2020-21) Notes: Numbers above the bars refer to the number of awardees in that group.
+Consistent with previous years, the median award amount for PIs in 2020-21 increased with age, with the highest median award amount being for the 60 plus age group (£505,000), and lowest for the 29-or-less age group (£214,000), excluding the 'unknown' group. Award rate by value was also highest for the 60 plus age group (at 39%) and lowest for the 29-or-less age group (at 22%).
+Figure 4: Median award amount by value for principal investigators (PIs) by age group (UKRI, 2020-21)
+Median award amount
+£600,000
+£500,000
+£400,000
+£300,000
+£200,000
+£100,000
+£-
+29 or less
+30-39
+40-49
+50-59
+60+
+Unknown
+Age group
+Source: UKRI’s competitive funding decision data (2020-21) Notes: Numbers above the bars refer to the number of awardees in that group.
+[Page #10]
+Disaggregating award rates by age across councils is challenging due to small and suppressed values: after rounding we have used the 5-year cumulative data set. There is a similar range across councils and age groups. STFC have a higher award rate across all age groups for PIs with the highest being at 73% for the 50-59 age group.
+Figure 5: Award rate by value for age by councils (UKRI, 5 year cumulative)
+30-39
+40-49
+50-59
+60+
+Award rate
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+UKRI
+AHRC
+BBSRC
+EPSRC
+ESRC
+MRC
+NERC
+STFC
+Principal investigator
+Award rate
+29 or less
+30-39
+40-49
+50-59
+60+
+Unknown
+100%
+90%
+80%
+70%
+60%
+50%
+575430 470
+40%
+30%
+20%
+10%
+<5 <5
+<5
+0%
+UKRI
+AHRC
+BBSRC
+EPSRC
+ESRC
+MRC
+NERC
+STFC
+Co-investigator
+Source: UKRI’s competitive funding decision data (5-year cumulative)Notes:1. Award rate by value looks at the total value that is awarded to a group relative to the total value of application amounts for that group.2. Numbers above the bars refer to the number of awardees in that group.
+[Page #11]
+3.2.2 Disability
+Award ratesDifferences in award rate by disability status remain consistent with previous years with a higher award rate for PIs and CIs reporting no known disability than individuals reporting a disability. In 2020-21 this difference was 2pp for PIs and 3pp for CIs.
+Applications and awardsIn 2020-21, the percentage of PI and CI applicants and awardees reporting a disability was 2%: this is consistent with previous years, in which the percentage has fluctuated between 1% and 2%. It is lower than benchmarks both for HESA academic staff (at 5%) and the labour market (employed) population (at 13%).19 The percentage reporting a disability is also lower for all research councils than their corresponding benchmark for wider academic staff.
+To compare award rates by disability status at research council level we use aggregated data over a five-year period due to the small number of awardees. For PIs and CIs there is a mixed picture across the research councils. For PIs, award rates were higher for applicants reporting a disability at AHRC, BBSRC and NERC. For CIs, award rates were higher for applicants reporting a disability at AHRC, ESRC and NERC, whilst they were on a par at MRC.
+The percentage of applicants and awardees where disability status was not disclosed or 'unknown' continues to be high in 2020-21 (between 6% and 8%). This is similar to that reported in relation to ethnicity (between 7% and 8%). It is higher than the level of non-disclosure for age and gender (ranging from 0% to 2%) and for disability in the benchmark HESA data at 3%. Similar levels of non-disclosure or 'unknown' data occur at the council level for CIs ranging from 6% at BBSRC, EPSRC and STFC to 9% at AHRC.
+Further work is needed to understand both the reasons why applicants may choose not to disclose their disability status, and the nature of the barriers faced by disabled individuals.
+[Page #12]
+Figure 6: Award rates for principal investigators (PIs) and co-investigators (CIs) by disability for councils (UKRI, 5 year cumulative)
+Award rate
+Known disability
+No known disability
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+12640 45
+30%
+20%
+10%
+0%
+UKRI
+AHRC
+BBSRC
+EPSRC
+ESRC
+MRC
+NERC
+STFC
+Principal investigator
+Award rate
+Known disability
+No known disability
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+60 2295
+30%
+20%
+10%
+0%
+UKRI
+AHRC
+BBSRC
+EPSRC
+ESRC
+MRC
+NERC
+STFC
+Co-investigator
+Source: UKRI’s competitive funding decision data (5 year cumulative)Notes:1. Award rate by value looks at the total value that is awarded to a group relative to the total value of application amounts for that group.2. Numbers above the bars refer to the number of awardees in that group
+Award amountsFigure 7 shows that in 2020-21, the median award amount for PIs continued to be higher for applicants reporting no known disability than for applicants reporting a disability. This difference is consistent
+with previous years, and is also reflected in the median application amounts for the 2 groups. Award rate by value for PIs was also higher for applicants reporting no known disability at 30% compared with 25% for applicants reporting a disability.
+[Page #13]
+Figure 7: Median award amount and award rate by value for those reporting a disability by council (UKRI, 2020-21)
+Median award amount
+Known disability
+No known disability
+£700,000
+£600,000
+£500,000
+£400,000
+£300,000
+£200,000
+£100,000
+<5
+<5
+£-
+UKRI
+AHRC
+BBSRC
+EPSRC
+ESRC
+MRC
+NERC
+STFC
+Award rate by value
+Known disability
+No known disability
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+<5
+<5
+0%
+UKRI
+AHRC
+BBSRC
+EPSRC
+ESRC
+MRC
+NERC
+STFC
+Source: UKRI’s competitive funding decision data 2020-21Notes:1. Award rate by value looks at the total value that is awarded to a group, relative to the total value of application amounts for that group.2. Numbers above the bars refer to the number of awardees in that group.3. Disability status was not disclosed or 'unknown' for 6% of PI awardees and 7% of fellow awardees in 2020-21.
+[Page #14]
+3.2.3 Ethnicity
+In this report, we have moved away from using binary ethnicity categories (ethnic minorities and white) and have disaggregated the data by ethnicity as much as possible. Due to the small number of awards at the level of individual ethnicities, data is primarily presented and discussed for the broad ethnic groups (Asian, black, mixed, other, and white).
+This low representation is also reflected in benchmark figures for the wider academic population, at 2% for each of these 3 ethnic groups.
+In 2020-21, ethnicity was either not disclosed or unknown for between 7% and 9% of applicants and awardees across the role types. This is higher than for the age and gender characteristics, and is consistent with previous years. The HESA benchmark is 3% for not disclosed and 2% for unknown.
+In all years since 2014-15, the highest percentage of PI and CI applicants and awardees were from the white ethnic group (81% of PIs and 75% of CIs in 2020-21). After the white ethnic group, the highest percentage of awardees was from the Asian ethnic group for both PIs and CIs. In 2020-21, 8% of PI awardees and 9% of CI awardees were from the Asian ethnic group.
+Figure 8 shows that the white ethnic group is the most prevalent for PIs (81%) and CIs (75%), though this is below the benchmark for the wider labour market (87%) and equivalent to the wider academic population (80%). The representation of both PIs and CIs at 3% for the mixed ethnic group is higher than the wider labour market (1%) and the wider academic population (2%). The black ethnic group is the lowest for PIs (1%) and CIs (3%) below the 3% benchmark for the wider labour market and the wider academic population (2%). Asian CIs (10%) are above the benchmark for the wider academic population, and higher than the 6% of the wider labour market.
+Representation of the black, mixed, and other ethnic groups remains low in 2020-21 among both PIs and CIs. Representation was particularly low for PIs, where the percentage of awardees from the black ethnic group was 1%, the mixed ethnic group 2% and the other ethnic group below 0.5% (rounded down to 0%).
+Figure 8: Percentage of awardees for the Asian, black, mixed, and other ethnic groups compared with the HESA and labour market benchmarks
+Principal investigator
+Co-investigator
+HESA benchmark
+Labour market benchmark
+Asian
+Black
+Mixed
+Other
+White
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Source: UKRI’s competitive funding decision data (2020-21), HESA 220-21 staff return and ONS labour force survey by ethnic group (2020-21)19
+>2?@?2/.?=
+[Page #15]
+There have been some changes in the ethnic composition of applicants and awardees over time. However, we do not currently have estimates of expected annual fluctuation and as such, it is hard to interpret whether changes are an expected annual variation or represent true change. Developing measures of expected variation over time, and methods to assess the statistical significance of differences between groups are an important next step for this analysis.
+Within the ethnic minority groups, trends are consistent with previous years. For PIs, Chinese and Indian ethnicities formed the largest share within the Asian ethnic group, whilst ‘black-African’ and ‘mixed-other’ formed the largest shares of the black and mixed ethnic groups respectively. For PIs in 2020-21, the percentage of Bangladeshi, Black and Pakistani awardees is below benchmark figures for the academic staff and labour market (employed) populations. For CIs the same is true for the Bangladeshi ethnicity. For both PIs and CIs, the percentage of awardees reporting an ‘other’ ethnicity also falls below both benchmarks.20
+Some of the changes in the representation of ethnic groups over time can be explored further by looking at changes in the programmes that are funded by UKRI each year. For example, Figure 9 shows how the percentage of Asian awardees has changed since 2014-15 for PIs and CIs, alongside a benchmark for the wider academic population.
+At research council level, only 5-year cumulative figures are presented, due to the small number of awardees. Over the 5-year period 2016-17 to 2020-21 for PIs, the percentage of awardees from the black ethnic group ranged between <0.5% (EPSRC) and 2% (MRC) in every council. There was greater variation in the percentage of awardees from the Asian ethnic group, ranging from 3% at NERC to 12% at EPSRC. For CIs, the highest percentage of black awardees were at MRC (6%). As with PIs, there was greater variation in the percentage of awardees from the Asian ethnic group: at AHRC 5% of awardees were from the Asian ethnic group compared with 15% at MRC.
+[Page #16]
+Figure 9: The percentage of awardees by ethnic group, by role type and year, for co-investigators (CIs) and principal investigators (PIs) alongside a benchmark of the wider academic staff population (2014-15 to 2020-21)
+Asian ethnic group
+Black ethnic group
+12%
+12%
+10%
+10%
+CIs, 9%
+HESA, 9%
+8%
+8%
+PIs, 8%
+6%
+6%
+4%
+4%
+CIs, 3%
+HESA, 2%
+2%
+2%
+PIs, 1%
+0%
+0%
+9 - 2 0
+4 - 1
+9 - 2 0
+2 0 2 0 - 2
+5 - 1
+6 - 1
+7 - 1
+8 - 1
+4 - 1
+2 0 2 0 - 2
+5 - 1
+6 - 1
+7 - 1
+8 - 1
+2 0 1
+2 0 1
+2 0 1
+2 0 1
+2 0 1
+2 0 1
+2 0 1
+2 0 1
+2 0 1
+2 0 1
+2 0 1
+2 0 1
+Mixed ethnic group
+Other ethnic group
+12%
+3%
+10%
+2%
+HESA, 2%
+8%
+2%
+6%
+CIs, 1%
+1%
+4%
+CIs, 3%
+HESA, 2%
+1%
+2%
+PIs, 2%
+PIs, 0%
+0%
+9 - 2 0
+0%
+4 - 1
+2 0 2 0 - 2
+5 - 1
+6 - 1
+7 - 1
+8 - 1
+9 - 2 0
+4 - 1
+2 0 2 0 - 2
+5 - 1
+6 - 1
+7 - 1
+8 - 1
+2 0 1
+2 0 1
+2 0 1
+2 0 1
+2 0 1
+2 0 1
+2 0 1
+2 0 1
+2 0 1
+2 0 1
+2 0 1
+2 0 1
+White ethnic group
+85%
+PIs, 81%
+80%
+HESA, 79%
+CIs, 75%
+75%
+70%
+65%
+60%
+9 - 2 0
+4 - 1
+2 0 2 0 - 2
+5 - 1
+6 - 1
+7 - 1
+8 - 1
+2 0 1
+2 0 1
+2 0 1
+2 0 1
+2 0 1
+2 0 1
+Source: UKRI’s competitive funding decision data and Higher Education Statistics Agency (HESA) staff data (2017/18 to 2020/21)4
+[Page #17]
+Representation of the Asian, black and mixed ethnic groups is higher amongst grants classified as Official Development Assistance (ODA)21 for both PIs and CIs, compared with the rest of UKRI’s funding. For example, in 2018-19, the percentage of ODA CI awardees from the Asian ethnic group was 19%, compared with 8% for the rest of UKRI’s funding. For the black and mixed ethnic groups, representation was also higher for ODA awardees, at 7% and 8% respectively, compared with 1% and 2% for other CI awards. Some of the changes in the representation of ethnic groups over time (such as those shown in Figure 9) are due to changes in the programmes funded by UKRI. For example, the number of ODA funding opportunities fell from 62 in 2018-19 to 58 in 2019-20, then fell again to 29 in 2020-21. This has led to a decline in the percentage of PIs and CIs awarded grants that classify as ODA funding. In 2018-19 28% of CI awardees were for ODA grants: this fell to 16% in 2020-21. For PIs, the decline was from 13% of awardees to 7% in 2020-21.
+The reduction in the number of ODA funding opportunities has not affected the ethnic diversity of applicants and awardees for all councils equally, as some councils have a higher percentage of grants classified as ODA. AHRC has seen the largest change in the percentage of PIs associated with ODA funding, with a peak of 12% in 2019-20, declining to 2% in 2020-21.
+In 2020-21 the distribution by ethnic group for ODA-awarded grants varies by research councils. The percentage of PI awardees for the Asian ethnic group was between 3% (at AHRC) and 18% (at MRC). The mixed ethnic group ranges from 2% at Pan-UKRI to 17% at NERC.
+Award ratesWhen looking at award rates by ethnic group for PIs, the white ethnic group had the highest award rate in 2020-21 (at 29%) followed by the mixed ethnic group at 23% and the Asian ethnic group at 21%. Award rates were lowest for the black and other ethnic groups at 13% and 12% respectively. Differences in award rate by ethnic group were smaller for CIs, where the award rate was highest for the white and black ethnic groups (at 29% and 28% respectively) and lowest for the other ethnic group at 21%.
+If CIs associated with ODA funding are removed from UKRI’s data, the percentage of CI awardees from the Asian ethnic group has been stable at 8% in each of the last three years. If PIs associated with ODA funding are removed from UKRI’s data, the percentage of PI awardees from the Asian ethnic group was 6% in 2018-19, 8% in 2019-20 and 7% in 2020-21.
+Figure 10: Award rates for principal investigators (PIs) and co-investigators (CIs) by ethnic group (UKRI, 2020-21)
+Award rate
+Asian
+Black
+Mixed
+Other
+White
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+Principal investigator
+Co-investigator
+Role
+Source: UKRI’s competitive funding decision data (2020-21)
+[Page #18]
+To explore award rates by ethnic group at the council level, we use aggregated figures over a 5-year period (2016-17 to 2020-21). This is due to the small number of awardees for some ethnic groups at this level
+of disaggregation. Council-level data reveals large variation in trends: for example at MRC award rates ranged from 24% for the white ethnic group to 21% for the Asian ethnic group.
+Figure 11: Award rates for principal investigators (PIs) and co-investigators (CIs) by ethnic group for councils (UKRI, 5-year cumulative)
+Award rate
+Asian
+Black
+Mixed
+Other
+White
+100%
+80%
+20 975
+60%
+40%
+5515 15
+20%
+<5
+<5
+<5
+<5
+<5
+<5 <5
+0%
+UKRI
+AHRC
+BBSRC
+EPSRC
+ESRC
+MRC
+NERC
+STFC
+Principal investigator
+Black
+Mixed
+Other
+White
+Asian
+Award rate
+100%
+80%
+60%
+433590370960 255
+40%
+20%
+0%
+UKRI
+AHRC
+BBSRC
+EPSRC
+ESRC
+MRC
+NERC
+STFC
+Co-investigator
+Source: UKRI’s competitive funding decision data (5-year cumulative)Notes: Numbers above the bars refer to the number of awardees in that group
+[Page #19]
+For PIs there are suppressed values after rounding for black and other ethnic groups in AHRC, BBSRC, ESRC, NERC and STFC. Award rates were highest for white ethnic group. For CIs, award rates were higher for white ethnic group, with award rates ranging from 16% black ethnic group at BBSRC to 61% mixed ethnic group at STFC.
+trends occur in award amount and award rate by value at research council level for PIs. At BBSRC, ESRC and STFC in 2020-21, median award amounts were higher for awardees from Asian ethnic groups than for the white ethnic group. The number of awardees that this represents ranges from 10 to 100, compared to 190 to 650 for white ethnic group across all councils.
+Award amountsDue to the small number of awardees, award amounts are compared between the white ethnic group and ethnic minorities (excluding white minorities). Consistent with previous years, PIs from white ethnicities continued to apply for and receive higher award values relative to ethnic minority (excluding white minority) applicants and awardees (Figure 12). Different
+Disaggregating award amounts at the council level by PI is challenging for black, mixed, and other ethnic groups as the values are small with suppressed values after rounding. The award amounts vary across the councils and by ethnic groups. The median value of awards for PIs ranges from £120,000 for the mixed ethnic group at AHRC to £1,735,000 at MRC.
+Figure 12: Median award amount and award rate by value for principal investigator (PI) ethnicity (UKRI, 2020-21)
+Black
+Mixed
+Other
+White
+Asian
+Award rate by value
+Median awardamount
+100%
+£500,000£450,000£400,000£350,000£300,000
+90%
+80%70%
+60%50%
+£250,000
+£200,000
+40%30%
+£150,000
+£100,000
+20%
+£50,000
+10%0%
+£-
+Principal investigator
+Principal investigator
+Role
+Role
+Source: UKRI’s competitive funding decision dataNotes:1. Award rate by value looks at the total value that is awarded to a group relative to the total value of application amounts for that group.2. Numbers above the bars refer to the number of awardees in that group
+[Page #20]
+3.2.4 Gender
+The percentage of both applicants and awardees reporting their gender as female has steadily increased for the CI role type by 8 pp since 2014-15. For PIs, the trend is less clear, and whilst the percentage of female PI applications has increased steadily (+5pp overall), the percentage of female awards has fluctuated. Despite some improvements in female
+representation for each role type, Figure 13 shows that representation was below a benchmark for the wider academic population in all of the last 4 years. In 2020-21, the benchmark for female representation was 42% compared with 33% for CI awards and 28% for PI awards.
+Figure 13: The percentage of female applicants and awardees by role type and year for principal investigators (PIs) and co-investigators (CIs) alongside a benchmark for the wider academic population (2014-15 to 2020-21)
+100%
+90%
+80%
+70%
+60%
+HESA, 42%
+50%
+CI applications, 35%
+40%
+CI awards, 33%
+30%
+PI applications, 31%
+20%
+PI awards, 28%
+10%
+0%
+9 - 2 0
+4 - 1
+2 0 2 0 - 2
+5 - 1
+7 - 1
+6 - 1
+8 - 1
+2 0 1
+2 0 1
+2 0 1
+2 0 1
+2 0 1
+2 0 1
+Source: UKRI’s competitive funding decision data (2014-15 to 2020-21) and Higher Education Statistics Agency (HESA) staff data (2017/18 to 2020/21)4
+Trends in applications and awards by gender continue to vary considerably at research council level. For PIs, AHRC and ESRC had the highest percentage of female applicants (48% and 49%) and awardees (49% and 51%) in 2020-21, their respective HESA benchmark being 48% for AHRC and 51% for ESRC. For all other councils the percentage of PI female applicants was below their HESA benchmark, ranging from BBSRC (with 26% of female awardees and applicants, compared to the benchmark of 40%) to MRC (with 36% and 41%).
+[Page #21]
+Figure 14: The percentage of female applicants and awardees for principal investigators (PIs) by research council, alongside a benchmark for the wider academic population (2020-21)
+Female applicants
+Female awardees
+HESA council benchmark
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+AHRC
+BBSRC
+EPSRC
+ESRC
+MRC
+NERC
+STFC
+Principal investigator
+Source: UKRI’s competitive funding decision data 2020-21 and Higher Education Statistics Agency (HESA) staff data (2020/21)22
+Award ratesFor UKRI overall, the proportion of grants awarded to PIs and CIs was higher for males in 2020-21 with 70% for PI and 64% for CI, while the proportion of grants awarded to females overall was 28% for PIs and 33% for CIs.
+ ■ Looking at award rates of CIs by gender, we find that the award rates are similar for all councils. The difference in favour of male CIs is in the range of 0.5pp to 1pp when disaggregated by council.
+ ■ These trends vary at research council level where for PIs, higher award rates occurred for females at AHRC, ESRC and STFC and for female CIs at AHRC, EPSRC and STFC.
+However, disaggregating data for PIs reveals that for most councils, award rates for female PIs are greater than or equal to those of male PIs. The only exceptions are MRC (-1pp) and NERC (-2pp) which account for about 33% of all awardees.
+[Page #22]
+Figure 15: Award rate by gender for each council (UKRI, 2020-21)
+Females
+Males
+Award rate
+100%
+90%
+80%
+70%
+60%
+50%
+130 680
+40%
+100 290
+150 145
+30%
+110 100
+20%
+10%
+0%
+UKRI
+AHRC
+BBSRC
+EPSRC
+ESRC
+MRC
+NERC
+STFC
+Source: UKRI’s competitive funding decision data (2020-21)Notes: Numbers above the bars refer to the number of awardees in that group.
+Award amountsIn 2020-21 for PIs, median application and award amounts for females continued to be lower than for males. The median application amount for male PIs in 2020-21 was 20% higher than for females and the median award amount was 28% higher. This difference partly reflects differences in the average award amounts of councils and the percentage of male and female PIs who are funded within each council. For example, there is a higher percentage of female PIs funded by ESRC and AHRC, where average award
+amounts are lower than in some other councils. Award rate by value for male PIs was also higher (at 30% compared with 25% for females Figure 16). These trends vary at research council level, with higher median application and award amounts for female PIs funded by BBSRC, EPSRC and NERC. The difference in the median application and award amounts is small: £1,000 for BBSRC and £3,000 for EPSRC. AHRC was the only research council in 2020-21 with a higher award rate by value for female PIs, whilst STFC had gender parity for PIs in award rates by value.
+[Page #23]
+Figure 16: Median award amount and award rate by value for gender, by councils (UKRI, 2020-21)
+Award rateby value
+Females
+Males
+100%
+90%
+80%
+70%
+60%
+50 230
+50%
+40%
+30%
+20%
+10%
+0%
+UKRI
+AHRC
+BBSRC
+EPSRC
+ESRC
+MRC
+NERC
+STFC
+Median award amount
+Females
+Males
+£700,000
+£600,000
+£500,000
+100 290
+£400,000
+£300,000
+£200,000
+£100,000
+£-
+UKRI
+AHRC
+BBSRC
+EPSRC
+ESRC
+MRC
+NERC
+STFC
+Source: UKRI’s competitive funding decision dataNotes:1. Award rate by value looks at the total value that is awarded to a group relative to the total value of application amounts for that group2. Numbers above the bars refer to the number of awardees in that group.
+[Page #24]
+3.3 Intersectionality with gender
+For the first time, this report includes data on the intersection of age, disability, and ethnic group with gender. Data is currently limited to one financial year (2020-21), however, and so developing our intersectional analysis to include trends over time is an important next step. We have initially focused on the intersection of the characteristics with gender, due to the small number of applicants and awardees in some of these other groups.
+largest group was Asian males with 6% of awards. The remaining groups each received between less than 0.5% (rounded down to 0%) and 1% of awards. Gender or ethnic group was either unknown or not disclosed for the remaining 7% of awardees.
+The composition of CI awardees was similar, with the highest percentage of awards received by white males (49%), white females (25%) and Asian males (6%). Representation of Asian females amongst CI awards was higher (at 3%) than for PI awards. Similarly, although still low overall, representation of black males (2%), black females (1%) and males reporting a mixed ethnicity (2%) were higher for the CI than for the PI role.
+Figure 17 shows the composition of awardees for PIs and CIs in 2020-21. For PIs, the largest group were white males, receiving 57% of awards, followed by white females, receiving 24% of awards. The next
+Figure 17: The composition of principal investigator (PIs) and co-investigator (CIs) awardees by ethnic group and gender (2020-21)
+Principal investigators
+24% female white
+5% male ethnic group (not disclosed)
+57% male white
+1% female ethnic group (not disclosed)
+1% female mixed
+6% male Asian
+1% female Asian
+1% male mixed
+Co-investigators
+25% female white
+5% male ethnic group (not disclosed)
+49% male white
+2% female ethnic group (not disclosed)
+6% male Asian
+2% male mixed
+2% male black
+3% female Asian
+1% female mixed
+1% sex (not disclosed) white
+1% female black
+Source: UKRI’s competitive funding decision data (2020-21)
+[Page #25]
+3.3.1 Intersection of age and gender
+Applications and awardsIn 2020-21, the highest proportion of PI and CI applications and awards was from males aged 40-49. For PIs this was 24% of all awardees and for CIs 23% of all awardees. For all age groups between age 30 and 60 the percentage of PI and CI awardees was higher for males. For both males and females there was little difference in the small percentage of awardees aged 29 or less.
+Award ratesFor PIs and CIs, the award rate for males is higher than for females for all age groups except CIs aged 60+ where award rate for females was 29% compared to 28% for male. The largest difference in award rate by gender and age was for the CI age group 29 or less, where the award rate for males was 5pp higher than for females (at 30% and 25% respectively; the overall number of applicants in this group is low).
+Figure 18: Award rate by age group and gender for principal investigators (PIs) and co-investigators (CIs) (UKRI, 2020-21)
+Award rate
+Females
+Males
+100%
+80%
+60%
+40%
+650 235
+200 580
+20%
+<5
+0%
++
++
+s
+s
+s
+s
+0 t o 5
+0 t o 4
+0 t o 3
+0 t o 5
+0 t o 4
+0 t o 3
+9 o r l e
+9 o r l e
+Age group
+Principal investigators
+Co-investigators
+Source: UKRI’s competitive funding decision data (2020-21)Notes: Numbers above the bars refer to the number of awardees in that group.
+[Page #26]
+3.3.2 Intersection of gender and disability
+Applications and awardsFor PIs and CIs, 1% of awardees in 2020-21 were females reporting a disability and 1% were males reporting a disability. As males receive a higher proportion of PI and CI awards overall, this means that a higher proportion of female awardees reported a disability than male awardees. Only 26% of PI awardees were females reporting no known disability compared with 65% of males.
+Award ratesFor PIs in 2020-21, male applicants reporting no known disability had the same award rates as males reporting a disability: 30%. Female applicants reporting no known disability had a higher award rate than female applicants reporting a disability. Males also had a higher award rate than females regardless of disability status. For CIs the award rate for females with no known disability was 27% compared with 23% for females reporting a disability.
+Figure 19: Award rate by gender and disability status for principal investigators (PIs) and co-investigators (CIs) (UKRI, 2020-21)
+Males
+Females
+Award rate
+100%
+80%
+60%
+40%
+20%
+0%
+Known disability
+No known disability
+Known disability
+No known disability
+Disability
+Principal investigators
+Co-investigators
+Source: UKRI’s competitive funding decision data (2020-21)Notes: Numbers above the bars refer to the number of awardees in that group.
+[Page #27]
+3.3.3 Intersection of ethnicity and gender
+Applications and awardsFor application and award proportions, differences by gender and ethnicity were largest for the PI role. In 2020-21, white males received 57% of PI awards, compared with 24% that were awarded to white females. The next largest difference by gender was for the Asian ethnic group with Asian males receiving 6% of PI awards, whilst only 1% were awarded to Asian females. Proportions from the black, mixed and other ethnic groups were similar in terms of the gender of PIs.
+Award ratesAs mentioned in the main ethnicity section 3.2.3, it is preferable to use 5-year cumulative figures when comparing award rates between ethnic groups due to the small number of awardees within some groups. However, 5-year figures are not yet available for the intersection of ethnicity and gender so annual results for 2020-21 are presented. These results should therefore be interpreted with caution and additional data will be needed in future years to assess the robustness of these findings.
+For CIs, the highest proportion of awardees in 2020-21 was also among white males, at 49% compared with 25% that were awarded to white females. The next largest proportion of awards went to Asian males at 6%. Females from the black and mixed ethnic groups received 1% of CI awards each.
+In 2020-21, female CIs from the black ethnic group had the highest award rate of all ethnic groups and genders, at 33%. This trend was not observed for PIs though where black females had one of the lowest award rates (at 16%); this was, only higher than those for black males and Asian females (at 12% each). For PIs, white males and white females had the highest award rates at 30% and 28% respectively. The Asian ethnic group had the largest difference in award rate by gender for PIs, at 12% for Asian females and 25% for Asian males.
+Figure 20: Award rate by ethnic group and gender for principal investigators (PIs) and co-investigators (CIs) (UKRI, 2020-21)
+Award rate
+Females
+Males
+100%
+80%
+60%
+40%
+20%
+10 10
+<5
+0%
+Asian
+Black
+Mixed
+Other
+White
+Asian
+Black
+Mixed
+Other White
+Ethnic group
+Principal investigators
+Co-investigators
+Source: UKRI’s competitive funding decision data (2020-21)Notes:1. Numbers above the bars refer to the number of awardees in that group.2. In 2020-21 ethnic group and/or gender were not disclosed or were unknown for approximately 7% of PI awardees and 9% of CI awardees.
+[Page #28]
+3.4 Fellows
+The composition of UKRI’s fellows differs from the composition of other role types, with greater representation of females and individuals reporting a disability. For example, in 2020-21, 4% of fellow awardees reported a disability, compared with 2% of PI and CI awardees. Additionally, 39% of fellow awardees were female, compared with 31% of PIs and 35% of CIs.
+approximately £100k. We also do not hold data for unsuccessful applicants for these fellowships, and as such, the award rate artificially appears as 100% in our data. The characteristics of this call can, therefore, affect UKRI-level data in 3 ways: lowering average award amounts, increasing award rates, and increasing award rates by value.
+The age distribution of fellow awardees also differs substantially from PIs and CIs with a much higher percentage of awardees being aged below 40. In 2020-21, 73% of fellow awardees were aged below 40 compared with 24% of PIs and 23% of CIs. Fellowships are typically targeted at researchers earlier in their careers, as they seek to transition to an academic role, and this is a factor in the age demographic that we observed.
+Data for the cross-UKRI Future Leaders Fellowships (FLF) is included within the totals for fellows under ‘Pan-UKRI funds’ in council level breakdowns, but is not separately identified. Separate data for the UKRI FLF is also provided alongside this report for individual financial years. Results for the Future Leaders Fellowships are not discussed within this narrative as these are already reported on and discussed separately on a round-by-round basis.24
+For fellows in 2020-21, there were some large differences in award rates and award amounts for different groups. However, the number of UKRI fellows is much lower than with other role types (approximately 525 fellowships were awarded in 2020-21 compared with thousands of PI and CI awards). Therefore, award amounts and award rates for fellows are more susceptible to year-on-year changes in individual funding calls.
+3.4.1 Age
+In 2020-21, variation in award rates by age for fellows ranged from 22% for 30-to-39 year-olds to 29% for fellows aged 60 plus.
+Median award amounts for fellows were highest for the 40-to-49 and 30-to-39 age groups and lowest for the 29-or-less age group. The median award amount for 40-to-49 year-olds was £942,000 compared with £102,000 for the 29-or-less age group. This difference is affected by the types of fellowship that different age groups were awarded: for example, 64% of fellows aged 29-or-less were ESRC postdoctoral fellows, for which award amount was capped compared with only 14% of awardees aged 40-49.
+One funding opportunity which has a large impact on UKRI’s fellowship data is ESRC’s postdoctoral fellowship call, which accounted for 24% of all UKRI fellowships awarded in 2020-21.23 ESRC’s postdoctoral fellowships differ from other fellowship opportunities provided by UKRI. The fellowships run for only one year, and they have a capped award amount of
+[Page #29]
+Figure 21: Award rate and median award amount for fellows, by age group (UKRI, 2020-21)
+29 or less
+30-39
+40-49
+50-59
+60+
+Unknown
+Award rate
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+Fellow
+Role
+Source: UKRI’s competitive funding decision data (2020-21)Notes::Numbers above the bars refer to the number of awardees in that group.
+3.4.2 Disability
+Award amounts by disability status for fellows are also affected by the ESRC postdoctoral fellowship call. Overall, median award amounts were over 5 times higher for applicants reporting no disability (£645,000) than for applicants reporting a disability (£123,000). However, 47% of fellows reporting a disability were ESRC postdoctoral fellows (whose award amounts were capped), compared with 23% of fellows reporting no disability. If this call is removed from the data, the difference between the two groups is smaller, with a median award amount of £926,000 for fellows reporting no disability and £877,000 for those reporting a disability.
+For UKRI fellows, the percentage of applicants and awardees reporting a disability increased in 2020-21, to 4% for applications and 6% for awardees. This is the highest level since the start of the time series, and compares to the HESA benchmark of 5%. The percentage of fellows with disability status that was not disclosed or unknown in 2020-21 was stable, at 7% for both applications and awards.
+In contrast to PIs and CIs, the award rate was higher in 2020-21 for fellows reporting a disability (34%) than fellows reporting no known disability (22%). However, these award rates are affected by ESRC’s postdoctoral fellowship which have a higher percentage of fellows reporting a disability (11%) and an artificial success rate of 100%23. If these are removed from the data, the difference between the two award rates is smaller, but it is still higher for applicants reporting a disability. After removing this call, the award rate for fellows reporting a disability was 22% compared with 18% for fellows reporting no disability.
+[Page #30]
+Figure 22: Award rate and median award amount for fellows, by disability (UKRI, 2020-21)
+Known disability
+No known disability
+Award rate
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+<5
+<5
+<5
+<5
+0%
+UKRI
+AHRC
+BBSRC
+EPSRC
+ESRC
+MRC
+NERC
+STFC
+Median award amount
+Known disability
+No known disability
+£1,400,000
+£1,200,000
+£1,000,000
+£800,000
+£600,000
+£400,000
+£200,000
+15 105
+<5
+<5
+<5
+<5
+£-
+UKRI
+AHRC
+BBSRC
+EPSRC
+ESRC
+MRC
+NERC
+STFC
+Source: UKRI’s competitive funding decision data (2020-21)Notes: Numbers above the bars refer to the number of awardees in that group.
+[Page #31]
+3.4.3 Ethnicity
+In all the years since 2014-15, the highest percentage of awardees was from the white ethnic group, ranging from 77% to 85%. The Asian ethnic group has the next highest percentage of awardees at 8% in 2020-21, while black and mixed represent 2% and 5% respectively. Not disclosed for ethnicity is at 6%, twice the level in the HESA data.
+There is variation across councils: over the 5-year period 2016-17 to 2020-21 for fellows the percentage of awardees ranges between no available values for BBSRC and MRC, <1% for STFC and NERC, to over 9% for ESRC. The award rate for black ethnic group also varies with ESRC reporting 100% award rate over the 5 years, with a UKRI value of 19%.
+Figure 23: Award rate and median award amount for fellows, by ethnic group (UKRI, 2020-21)
+Asian
+Black
+Mixed
+Other
+White
+Median award amount
+Award rate
+£800,000
+100%
+90%
+£700,000
+80%
+£600,000
+70%
+£500,000
+60%
+50%
+£400,000
+40%
+£300,000
+30%
+£200,000
+20%
+£100,000
+10%
+<5
+£-
+0%
+Fellow
+Fellow
+Role
+Source: UKRI’s competitive funding decision data (2020-21)Notes: Numbers above the bars refer to the number of awardees in that group.
+3.4.4 Gender
+As with PIs, male fellows applied for larger amounts on average and were awarded larger amounts, than females in 2020-21. This trend is consistent with previous years, though in 2020-21 the difference in median application and award amount between males and females increased, with the median application amount for males being £682,000 compared to £553,000 for females and the median award amount for males being more than three times greater than for females. This large difference for fellows in 2020-21 is largely driven by the composition of fellowship types by gender. In particular:
+of approximately £96,000 for females and approximately £98,000 for males in 2020-21. Over 70% of ESRC postdoctoral fellowships in 2020-21 were awarded to females and this accounts for 35% of UKRI fellowships to females overall.
+ ■ A higher percentage of male fellows were awarded by EPSRC and NERC, where award amounts are higher than they are at some other councils (at over £1million for EPSRC and over £500,000 for NERC).
+ ■ In 2020-21, the difference in median award amount by gender was larger at MRC than in previous years with a median award amount of £952,000 for males and £300,000 for females.
+ ■ In 2020-21, 24% of UKRI fellowships were ESRC postdoctoral fellowships. The award amount is capped, and there was a median award amount
+[Page #32]
+Figure 24: Award rate and median award amount for fellows, by gender (UKRI, 2020-21)
+Award rate
+Females
+Males
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+30 30
+20%
+10%
+<5 <5
+<5
+0%
+UKRI
+AHRC
+BBSRC
+EPSRC
+ESRC
+MRC
+NERC
+STFC
+Median award amount
+Females
+Males
+£1,400,000
+£1,200,000
+£1,000,000
+£800,000
+5 10
+£600,000
+£400,000
+£200,000
+<5 <5
+<5
+£-
+UKRI
+AHRC
+BBSRC
+EPSRC
+ESRC
+MRC
+NERC
+STFC
+Source: UKRI’s competitive funding decision data (2020-21)Notes: Numbers above the bars refer to the number of awardees in that group.
+The award rate by value in 2020-21 was higher for female fellows than male fellows at 23% and 19% respectively). This trend is consistent with previous years and shows that female fellows on average were awarded a higher proportion of what they applied for than males.
+The impact of ESRC’s postdoctoral fellowship call on average award amounts can be seen this year in breakdowns by gender. At UKRI-level in 2020-21 the median award amount for male fellows was approximately £840,000, compared with approximately £223,000 for female fellows. If ESRC’s postdoctoral fellowship call is removed from the data, differences in award amounts between the two groups are much smaller, with a median award amount of approximately £961,000 for male fellows and £921,000 for female fellows.
+The percentage of female fellow awardees at ESRC was particularly high in 2020-21 at 71% (compared with a HESA benchmark of 51%). This was due to the high proportion of females who received awards through ESRC’s postdoctoral fellowship call.23
+[Page #33]
+Award rates When looking at intersectional data for fellows there are a small number of awardees in some groups, meaning that award rates should be compared with caution. For fellows in 2020-21, the award rate for females was higher than that of males, for all age groups. The largest difference was for the age group 29-or-less where the award rate for females was 43% compared with 17% for males (Figure 25). This large difference is due to the high proportion of female ESRC postdoctoral fellowships in this age group, in which award rates were 100%23. For female fellows aged 29-or-less, 75% were ESRC postdoctoral fellows compared with 47% of male fellows in this age group.
+3.4.5 Intersectionality with gender
+Intersection of age and genderApplications and awardsFor fellow awardees the age distribution of males ranged from 1% to 32% across all age groups. For females the highest proportion was 29% in the 30 - 39 age group, with the other age groups ranging between 1% and 10%.
+Figure 25: Award rate by gender and age group for fellows (UKRI, 2020-21)
+Award rate
+Females
+Males
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+<5
+<5
+0%
+29 or less
+30 to 39
+40 to 49
+50 to 59
+60+
+Fellows
+Age group
+Source: UKRI’s competitive funding decision data (2020-21)Notes: Numbers above the bars refer to the number of awardees in that group.
+[Page #34]
+Intersection of gender and disability Applications and awardsFor fellows, a higher proportion of females also reported a disability in 2020-21. Female fellows reporting a disability received 4% of awards, compared with 2% for males. There was little difference between groups reporting no disability, at 41% for females and 45% for males.
+rate than applicants reporting no known disability. The highest award rate was for females reporting a known disability, at 46% compared with 18% for males reporting no known disability who had the lowest award rate in 2020-21 (Figure 26). It is important to note that at this level of granularity award numbers are small and individual calls can have a large impact on findings. For example, of the approximately 20 female fellow awardees reporting a known disability in 2020-21, approximately 57% are ESRC postdoctoral fellowships which have an award rate of 100% due to the exclusion of application data from the dataset.
+Award ratesFor fellows, differences in award rate were larger and trends were reversed. For both males and females, applicants reporting a disability had a higher award
+Figure 26: Award rate by gender and disability status for fellows (UKRI, 2020-21)
+Award rate
+Females
+Males
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+Known disability
+No known disability
+Disability
+Source: UKRI’s competitive funding decision data (2020-21)Notes: Numbers above the bars refer to the number of awardees in that group.
+[Page #35]
+Intersection of gender and ethnicity Applications and awards For fellows in 2020-21 there was very little difference between the gender and ethnic groups. The two largest groups were white males and females, each receiving 39% of awards. Following this, Asian males received 4% and Asian females 3% of awards. All other groups received between 1% and 3% of awards.
+The highest award rate was for females reporting mixed ethnicity with an award rate of 41% compared to 19% for males of mixed ethnicity. This can be compared to females of white ethnicity (at 29%) and those of Asian ethnicity (at 16%).
+Figure 27: Award rate by gender and ethnicity for fellows (UKRI, 2020-21)
+Award rate
+Females
+Males
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+Asian
+Black
+Mixed
+Other
+White
+Fellows
+Ethnic group
+Source: UKRI’s competitive funding decision data (2020-21)Notes: Numbers above the bars refer to the number of awardees in that group.
+[Page #36]
+3.5 Studentship starts
+Results for studentship starts are discussed separately from the other role types, as the source data differs from the data that is used for UKRI’s research grants and fellowships (see table 2 for more details). As a result, application data and award rates are not included for studentship starts and instead the findings below focus on the distribution of awards. Next time we will expand this to include intersectionality.
+Age, gender, and disability statusFigure 28 shows change over the 7-year period in the proportion of studentship starts aged 29 or less, of females and those students with a known disability. For most of the characteristics, change during the seven-year period has been small. The percentage of studentship starts aged 29-or-less was the same in 2020-21 as in 2014-15 at 82%. The percentage of studentship starts reporting their gender as female has increased from 40% in 2014-15 to 45% in 2020-21 but remains below the HESA benchmark for the wider postgraduate research (PGR) population (at 50%). Studentship starts reporting a known disability has increased from 5% in 2014-15 to 8% in 2020-21, but also remains below the HESA benchmark for the wider PGR population (12%).
+In 2020-21 UKRI had 5,370 new studentship starts. There is a large variation in the distribution of the studentship starts across the research councils. EPSRC has 47% of all new studentships starts, while the share ranges from 6% to 13% for all other councils.
+Figure 28: The percentage of female students and students reporting a known disability by year, compared with a benchmark for the wider postgraduate research population (2014-15 to 2020-21)
+Percentage of studentship starts
+100%
+90%
+80%
+70%
+60%
+Female benchmark, 50%
+50%
+Female, 45%
+40%
+30%
+Disability benchmark, 12%
+20%
+10%
+Known disability, 8%
+0%
+9 - 2 0
+4 - 1
+2 0 2 0 - 2
+7 - 1
+6 - 1
+5 - 1
+8 - 1
+2 0 1
+2 0 1
+2 0 1
+2 0 1
+2 0 1
+2 0 1
+Source: UKRI’s competitive funding decision data and Higher Educations Statistics Agency (HESA) student data (2017-18 to 2020-21)7
+[Page #37]
+At research council level, all councils had an increase in studentship starts reporting their gender as female during the seven-year period. The largest increases during this time were at MRC and NERC each with a 10 pp increase in female representation since 2014-15. At MRC 65% of studentship starts reported their gender as female in 2020-21 and 57% at NERC.
+studentship starts reported a disability compared with 10% in 2020-21. The percentage of studentships starts reporting a disability falls below, the benchmark for the wider PGR population for all research councils.
+While the average disability benchmark is 12% there is variation at the research council level, with the benchmark ranging from 18% for AHRC to 9% for EPSRC. For all research councils those reporting a known disability remain below the benchmark for the wider PGR population.
+Similarly, all research councils have had an increase in the percentage of studentship starts reporting a disability since 2014-15. The largest increase during this time was at MRC where in 2014-15 4% of
+Figure 29: The percentage of studentship starts, by research council, reporting a known disability compared with a benchmark for the wider postgraduate research population (2020-21)
+Proportion
+Known disability awardees
+HESA council benchmark
+20%
+18%
+16%
+14%
+12%
+10%
+8%
+6%
+4%
+2%
+0%
+AHRC
+BBSRC
+EPSRC
+ESRC
+MRC
+NERC
+STFC
+Source: UKRI’s competitive funding decision data and Higher Educations Statistics Agency (HESA) student data (2020-21)4
+[Page #38]
+EthnicityThe percentage of studentship starts whose ethnicity was not disclosed or unknown has been consistently high since the start of the time series. In 2020-21 ethnicity was not disclosed or unknown for 32% of studentship starts, meaning that our understanding of ethnicity for studentships is partial. This level of non-disclosure is much higher than in HESA data for
+the wider PGR population, with ethnicity not disclosed or unknown for 4% of PGR students (Figure 30). This makes it difficult to draw meaningful comparisons with HESA data across the ethnic groups. Figure 30 shows that in 2020-21 the percentage of studentship starts for all ethnic groups was below the PGR population.
+Figure 30: UKRI studentship starts by ethnic minority group compared with the wider postgraduate research population (UKRI, 2020-21)
+Percentage of studentship starts
+UKRI studentships
+PGR share
+90%
+77%
+80%
+70%
+59%
+60%
+50%
+40%
+32%
+30%
+20%
+8%
+4%
+5%
+10%
+5%
+3%
+4%
+2%
+1%
+0%
+0%
+Asian
+Black
+Mixed
+Other
+White
+Not disclosed or unknown
+Ethnic group
+Source: UKRI’s competitive funding decision data, 2020/21 HESA student dataNotes:1. We do not have ethnicity data for approximately 32% of studentship starts in 2020-21, meaning that our understanding of the ethnicity of studentships is partial.2. It is important to note that there are differences between the HESA PGR population and those who are eligible for UKRI-funded doctoral studentships. For example, the HESA PGR population only includes UK-domiciled students. The figures for HESA PGR population also reflect the 2020/21 academic year whereas UKRI studentship start data reflects the 2020-21 financial year. Caution must therefore be used when making comparisons.
+3. Mixed refers to the mixed ethnic group. 4. A figure of 0% does not always indicate that there were 0 studentship starts for that ethnic group due to rounding. There were approximately 10 studentship
+starts for the other ethnic group in 2020-21.
+ ■ For the black ethnic group, African ethnicities
+After the white ethnic group, the highest proportion of studentship starts in 2020-21 were from the Asian ethnic group (5% of studentship starts), followed by the mixed (3%), black (1%) and other (0%) ethnic groups. Within the ethnic minority groups trends are consistent with previous years:
+continued to make up the largest share in 2020-21 at 72% of studentship starts.
+ ■ For the mixed ethnic group, students reporting a
+‘mixed-other’ ethnicity make up the largest share at 51% of mixed ethnic group studentship starts in 2020-21.
+ ■ For the Asian ethnic group, students from Indian and Chinese ethnicities continued to have the largest share in 2020-21 at 32% and 25% of Asian studentship starts respectively.
+[Page #39]
+Annex A: Methodology
+Rounding and suppression
+1. Presentation of the data
+ ■ Results for groups with between 1 and 4 members are suppressed. Counts of 5 or more are rounded to the nearest multiple of 5. Counts of 0 are shown.
+Data is presented in the following ways:
+ ■ Through descriptive narrative in this document
+ ■ In MS Excel files available for download
+ ■ Proportions are calculated based on unrounded
+numbers.
+ ■ Via an interactive dashboard to enable visualisation
+of the data
+ ■ Award values are rounded to the nearest £1,000.
+The narrative primarily presents findings for UKRI; however, council-level results are also discussed where they deviate substantially from the UKRI average or change over time. Detailed results for individual councils are provided in the Excel downloads and interactive dashboard. Council-level data for intersectionality is not provided within this report due to the small number of awardees at this level of disaggregation.
+ ■ For Higher Education Statistics Agency (HESA) data, we follow HESA’s rules of rounding and suppression.25
+2. Guidance on interpreting data
+Throughout this narrative, data is primarily presented and discussed at UKRI level. However, this aggregation of data can mask significant variation at research council or individual call level. To understand the reasons for differences between groups, or changes over time, it is therefore important to interrogate the data at the most granular level possible. For example, the composition of one call in a particular year can impact heavily upon figures for UKRI as a whole. Therefore, where necessary further context is provided to explain changes in UKRI level findings over time.
+In summary, the data tables that are available for download alongside this narrative are:
+ ■ UKRI applications, awards and award rates for principal investigators, co-investigators and fellows, including full time-series data (2014-15 to 2020-21) for individual financial years and a 5-year cumulative total (2016-17 to 2020-21). Intersectionality data is also included in these tables for the financial year 2020-21.
+Where data is presented at a granular level, the number of applications and awards for certain groups can become very small, challenging the robustness of conclusions. For example, decisions on individual awards can have a large impact upon award rates for a particular group where the overall number of awards is small. This can be a particular challenge for the fellow role type where the overall number of awardees is smaller than for PIs and CIs. Where possible, groups with a small number of applications or awards have therefore been flagged and we urge caution when exploring the data for these groups.
+ ■ Average award amounts and award rate by value
+for principal investigators and fellows for individual years in the full time-series (2014-15 to 2020-21).
+ ■ Studentship starts for individual years in the
+full-time series (2014-15 to 2020-21) and a 5-year cumulative total (2016-17 to 2020-21).
+ ■ Applications, awards, and award rates for UKRI’s Future Leaders Fellowships (FLF) scheme for individual financial years (2018-19 to 2020-21) and a 3-year cumulative total.
+ ■ Average award amounts for UKRI’s FLF scheme for individual financial years (2018-19 to 2020-21).
+[Page #40]
+In addition to the above, we would like to offer the following further notes of guidance when interpreting the data:
+of research populations. We have provided HESA staff and student estimates for each council, that can be used to understand the diversity profile of underlying subjects. Please note that the diversity profiles based on cost codes and Higher Education Classification of Subjects (HECoS) codes, respectively for research and student populations, are indicative only, due to limitations described in table 2.
+ ■ Our analysis is based on applications, not unique applicants. An applicant can put in multiple applications in the same year and be counted more than once.
+ ■ Applications are grouped into financial years based on when the decision was made and not when the application was made.
+ ■ For studentship funding, ethnicity data are not
+disclosed for approximately 30% of awardees in all years. This extent of unknown data limits the strength of the conclusions that can be drawn about the ethnicity profile of studentship starts.
+ ■ Fellowships with multiple fellows and research grants with multiple PIs are excluded from the data as identifying the original investigator is not possible in our funding system.
+3. Diversity characteristics
+ ■ Changes in award rates over time should not
+Our funding service currently gathers data on four protected characteristics: age, disability, ethnicity and gender. Table 1 describes how the data is collected and presented.
+be used as evidence to understand progress or problems. Award rates fluctuate annually, and are a function of other factors such as budgetary availability and demand for funding.
+We are reviewing our data collection processes through development of the new funding service. Within this, we will review how data is collected against the characteristics below, and will also widen our data collection to other protected characteristics. We will engage with the community to understand areas of interest, and will continue engaging with UK data specialists and regulators about ways to collect and present our information.
+ ■ We cannot use this data to draw conclusions on
+the relationship between personal characteristics and application and award rates, without controlling for the effects of other factors both on an individual and an organisational level. These include career stage, discipline, geographic location, and type of organisation of the applicant.
+ ■ Monitoring of award rates for a group should be done in the context of other measures such as overall award rate as well as the award rate of the counterpart. For example, award rate of female applicants should be understood in the context of changes in award rates of male applicants.
+When discussing ethnicity in this report, Cabinet Office guidance26 has been considered and followed where possible. Recommendations include disaggregating ethnicity as much as possible and moving away from use of the term “BAME”. Therefore, within this report, data is presented and discussed at as granular level as possible. Where the numbers within ethnicity categories are small, we aggregate ethnicities into Asian, black, mixed, other and white ethnic groups following the Government Statistical Service harmonised ethnicity standard.27 We recognise that aggregation of data in this way can mask the experiences of individual groups, but this is as granular as we are able to present the data, without risking disclosure of information or the robustness of conclusions. We also recognise that our current ethnicity categories are not appropriate for our international applicants.
+ ■ Differences in demand and the nature of funding mean that award rates should not be compared across councils. For example, STFC has a higher award rate than other councils as STFC uses a method of demand management for some grants which requires a group/ department to submit all their projects as one overall grant. The individual projects are peer reviewed and ranked discreetly which also ensures that STFC aim to fund the “best” research within a large, consolidated grant.
+ ■ Cross council comparisons of the proportion of applicants and awardees should only be made after accounting for baseline population estimates
+[Page #41]
+Table 1: Description of variables and modification
+Characteristic
+How it is measured
+Presentation of results
+Age
+Based on applicant’s date of birth and date of decision.
+– 29 or less– 30-39– 40-49– 50-59– 60 plus– Unknown
+Disability
+The following options are presented to applicants:– An unseen disability– Autistic spectrum disorder– Blind/Partially sighted– Deaf/Hearing impairment– Dyslexia– Mental health difficulties– Wheelchair user/Mobility difficulties– Multiple disabilities– A disability not listed above– No known disability– Not disclosed– Unknown
+By disability status:– Known disability– No known disability– Not disclosed– Unknown
+Ethnicity
+Ethnicity options in system:
+Ethnic groups presented:
+– Bangladeshi– Chinese– Indian– Pakistani– Any other Asian background
+Asian
+Ethnic minorities (excluding white minorities)
+– African– Caribbean– Any other Black/African/Caribbean background
+Black
+– White and Asian– White and Black African– White and Black Caribbean– Any other Mixed/Multiple ethnic background
+Mixed
+– Other
+Other
+– White British– White Irish– Any other White background
+White
+White
+– Unknown– Not disclosed
+– Male – Female– Not disclosed
+The current funding services asks applicants to provide information on gender with male, female or not disclosed as response options. For this reason, we use the terminology male and female to describe gender categories throughout this document.
+Gender
+We appreciate that gender and sex terminology is more nuanced and highly personal and plan to reflect this through data collection in the new funding system.
+[Page #42]
+‘Not disclosed’ refers to when respondents have consciously chosen to not disclose their personal information and selected the ‘not disclosed’ option.
+For this reason, we use the terminology male and female to describe gender categories throughout this document. We appreciate that gender and sex terminology is more nuanced and highly personal and plan to reflect this through data collection in the new funding system. In 2020-21 gender was either not disclosed or unknown for 1% to 2% of applicants across the role types. This is consistent with previous years.
+‘Unknown’ is where individuals have not provided their details and therefore we have no usable information.
+The application system (Je-S) used to collect the data asks applicants to provide information on gender with male, female and not disclosed as response options.
+4. Data sources
+Table 2 describes the data sources used in this data release and associated limitations.
+Data
+Time period
+Data source
+Limitations
+Research grants and fellowships (principal investigators, co-investigators, fellows)
+2014-15 to 2020-21Awardees are grouped into financial year based on the date on which UKRI decided on the application, not the date the application was submitted.
+Non-disclosure of data1. Approximately, 5% -9% of
+Source data used is the same as the Competitive Funding Decision data used in UKRI’s annual reports, but with Innovate UK and Research England applications and awards removed.28
+respondents did not share their ethnicity in 2020-21 across the three roles.
+2. In 2019-20, non-disclosure of disability status was approximately 6% to 8% across the three roles.
+Sources included are:- The Joint electronic Submission system (Je-S) for the Research Councils.
+3. For a small percentage of calls data is not included for applications. These calls artificially appear to have a 100% success rate. Due to the small percentage of these calls this should not affect comparisons between groups.
+- Additional funding decisions
+captured outside of Je-S such as rapid response funding (including ‘UKRI response to COVID’), opportunities administered by funders outside of UKRI and grants awarded to MRC Institutes, Units and Centres.
+Note that grants where we cannot link to person level data are removed from the dataset (<1% of grants).
+Studentship starts
+2014-15 to 2020-21 Student starts are based on the first financial year that the studentship award was active – a time stamp that typically represents a student’s intake year
+Individual studentship information submitted by research organisations (ROs) to research councils via the cross-council Je-S Studentship Detail Functionality.
+UKRI does not collect EDI data for studentships through the application process. Instead, EDI data is provided by the RO through the Je-S studentship detail functionality.
+(Funding for studentships is mainly provided to ROs as a block grant. ROs then select candidates for specific studentship projects or fund an independent project proposal.)
+Data provided in this way only covers studentship starts and does not include application data.29 Therefore, award rates are not included for studentship starts.
+Ethnicity data is not disclosed or unknown for approximately 30% of awardees in all years.
+[Page #43]
+Data
+Time period
+Data source
+Limitations
+Diversity profile of wider academic community for UKRI and each council
+2020/21 academic year – this is the most recent year available to create council level benchmarks.
+HESA data based on cost codes for academic populations. Using the HESA 2020/21 staff return, staff full-person equivalent, academic staff (excluding atypical), academic employment function, both teaching & research contracts.
+HESA data reflects the diversity population of the UK Higher Education Institutes (HEIs), whereas some UKRI calls do allow for international applicants or researchers outside of UK HEIs.
+For ethnicity, data is for UK domiciled students only.
+2. HECoS codes for postgraduate (Masters and doctoral research) students and full person equivalent. Common Aggregation Hierarchy level 3 is used.
+HESA data is based on academic years rather than financial years. The 2020/21 academic year used here only overlaps with the first four months of the 2020-21 financial year.
+Staff were included within council level HESA benchmarks, based upon the cost centre their contract(s) were allocated to.30 Cost centres that were allocated proportionately to councils based upon the funding distribution of cost centres by councils during the 2020/21 financial year reported in HESA finance data.31
+Students were included within council level HESA benchmarks based upon the subject or subjects appropriate to their course. Subjects were allocated proportionately to councils based upon the council funded student headcount in 2020/21 HESA student data.
+Diversity profile of labour market (employed) population
+Apr-Jun 2020 – Jan-Mar 2021 disability and ethnicity
+ONS Labour Force Survey – disability and ethnicity
+Data from the ONS Labour Force Survey on disability and ethnicity is available on a quarterly basis rather than a financial year basis. Data for the four quarters of the 2020/21 financial year has been used to calculate a weighted average.
+[Page #44]
+References
+1. https://www.ukri.org/publications/diversity-
+(https://www.ukri.org/apply-for-funding/how-were-improving-your-funding-experience/improving-how-you-apply-for-funding/).Within this, we will review how data is collected on these four characteristics and will also widen data collection to include other protected characteristics.
+results-analysis-for-ukri-funding-data-financial-years-2014-15-to-2019-20/
+2. https://www.ukri.org/wp-content/uploads/2021/10/UKRI-061021-EthnicityAnalysisReportFinal.pdf
+3. https://www.ukri.org/wp-content/
+8. The current funding services asks applicants to provide information on gender with male, female or not disclosed as response options. For this reason, we use the terminology male and female to describe gender categories throughout this document. We appreciate that gender and sex terminology is more nuanced and highly personal and will reflect this through data collection in the new funding system.
+uploads/2022/03/UKRI-210422-Strategy2022To2027TransformingTomorrowTogether.pdf
+4. Benchmarks for the wider academic population
+are constructed from Higher Education Statistics Agency (HESA) data and include academic staff on a contract that includes ‘both teaching and research’. Both fixed-term and permanent contracts are included, as are full-time and part-time work patterns. Contracts which are ‘research only’, ‘atypical’ or ‘dormant’ are excluded. Differences in time periods, geographic coverage and inclusion criteria mean that the HESA population is not directly comparable with the people funded by UKRI. Figures are provided as an approximate benchmark to help with interpreting the data. Difference from the benchmark can be attributed to differing funding levels across the councils; the fact that not all those funded are UK based, (making the HESA benchmark less relevant) and the fact that there may be success rate differences associated with gender.
+9. https://www.ukri.org/news/independent-
+process-review-of-ukris-response-to-covid-19/
+10. Covid rapid response funding are not included.
+There are 3 covid funding opportunities included in the data: MS Covid SPF 2020; SPF Covid 19 Rapid Knowledge; UKRI GCRF urgency Covid funding.
+11. https://www.ukri.org/news/independent-
+process-review-of-ukris-response-to-covid-19/ Appendix D EDI analysis
+12. Arts and Humanities Research Council;
+Biotechnology and Biological Sciences Research Council; Engineering and Physical Sciences Research Council; Economic and Social Research Council; Medical Research Council; Natural Environment Research Council; Science and Technology Facilities Council.
+5. https://www.ons.gov.uk/
+employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/labourmarketstatusofdisabledpeoplea08
+6. Benchmarks for wider postgraduate research
+13. The category ‘Pan-UKRI’ includes applications to funding opportunities which are hosted centrally by UKRI, including the Global Challenge Research Fund (GCRF) , Innovation Scholars and the Newton Fund Impact Scheme
+students are constructed from Higher Education Statistics Agency (HESA) data and include doctoral students and research-based masters students. Differences in time periods, geographic coverage and inclusion criteria mean that the HESA population is not directly comparable with who UKRI funds. Figures are provided as an approximate benchmark to help with interpreting the data.
+14. Mean and median award amounts are without
+indexation to enable comparison with application amounts. Results for median award amounts are discussed in this report rather than mean award amounts. This is due to the skewed nature of
+7. We are reviewing our data collection processes
+through development of the new funding service
+[Page #45]
+grant funding with some very large award amounts being awarded. These large awards can affect comparisons between groups when using the mean.
+application process for these fellowships is also run by the Doctoral Training Partnership. As such, application data for these fellowships is not held by UKRI and the award rate for this call artificially appears as 100% in UKRI’s data.
+15. Caution must be used when comparing to HESA staff and student population. Different time periods, geographic coverage and inclusion criteria mean that the populations are not directly comparable with the people funded by UKRI. Figures are provided as an approximate benchmark to help with interpretation of the data.
+24. A discussion of results for FLF rounds 1-5 can be found here (https://www.ukri.org/our-work/developing-people-and-skills/future-leaders-fellowships/what-are-future-leaders-fellowships/)
+25. http://www.hesa.ac.uk/about/regulation/
+16. A discussion of results for UKRI Future Leadership Fellows rounds 1-5 can be found here https://www.ukri.org/our-work/developing-people-and-skills/future-leaders-fellowships/what-are-future-leaders-fellowships/
+data-protection/rounding-and-suppression-anonymise-statistics
+26. https://www.ethnicity-facts-figures.service.gov.
+uk/style-guide/writing-about-ethnicity
+27. https://gss.civilservice.gov.uk/policy-store/
+17. https://www.ukri.org/what-we-offer/what-we-have-funded/competitive-funding-decisions/
+ethnicity-harmonised-standard/#presentation-england-and-wales
+18. https://www.ons.gov.uk/
+28. For more information on UKRI’s Competitive
+employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/labourmarketstatusofdisabledpeoplea08
+Funding Decision data see here: https://www.ukri.org/our-work/what-we-have-funded/competitive-funding-decisions/
+19. Note: benchmarks for the labour market are constructed from ONS Labour Market data and includes people in England, Scotland and Wales who are employed. Benchmark data is currently only available up to and including 2019.Differences in time periods, geographic coverage and inclusion criteria mean the HESA population is not directly comparable with the people funded by UKRI. Figures are provided as an approximate benchmark to help with interpreting the data.
+29. Aggregate application data for studentships is provided to UKRI annually through a summary annual report completed by each research organisation. However, inconsistencies between organisations in the way that this data is collected and provided to UKRI mean that it cannot currently be collated and analysed at UKRI level. Data is therefore only included on awards for studentships starts and award rates cannot be calculated. UKRI is reviewing its data collection process for studentships and endeavours to improve the quality of application data collected through this annual report.
+20. https://www.ons.gov.uk/
+employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/labourmarketstatusbyethnicgroupa09
+30. https://www.hesa.ac.uk/collection/c19025/a/
+21. Official Development Assistance (ODA) funding
+ccentre
+promotes the economic development and welfare of developing countries. As part of this, UKRI is a delivery partner to the Newton Fund and Global Challenges Research Fund.
+31. https://www.hesa.ac.uk/data-and-analysis/
+finances/table-5
+22. The HESA benchmark for UKRI is not weighted. It is weighted for the council-level benchmarks.
+23. ESRC’s postdoctoral fellowships are awarded to students for one year of postdoctoral study and the award amount is capped at £100,000. The
+[Page #46]
+None
+[Page #47]
+Accessibility
+To request copies of this report in large print or in a different format, please contact the Equality, Diversity and Inclusion team at UKRI:
+01793 444000equality@ukri.org
+UK Research and InnovationPolaris HouseSwindonSN2 1FL

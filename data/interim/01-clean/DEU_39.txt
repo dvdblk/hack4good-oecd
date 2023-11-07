@@ -1,0 +1,2016 @@
+[Page #0]
+Herausforderungen beim Einsatz von Künstlicher Intelligenz
+Ergebnisse einer Befragung von jungen und mittelständischen Unternehmen in Deutschland
+bmwi.debmwi.de
+[Page #1]
+Impressum
+HerausgeberBundesministerium für Wirtschaft und Energie (BMWi) Öffentlichkeitsarbeit11019 Berlinwww.bmwi.de
+Text und RedaktionAutor: Dr. Christian Rammer (ZEW - Leibniz-Zentrum für Europäische Wirtschaftsforschung)
+Redaktion: Janna Axenbeck, Patrick Breithaupt, Jan Büchel, Theresa Geyer, Manuel Lauer, Thomas Niebel, Mareike Seifried
+StandApril 2021
+GestaltungZEW Mannheim
+Bildnachweismajcot / Shutterstock / Titel
+Diese und weitere Broschüren erhalten Sie bei:Bundesministerium für Wirtschaft und EnergieReferat ÖffentlichkeitsarbeitE-Mail: publikationen@bundesregierung.dewww.bmwi.de
+Zentraler Bestellservice:Telefon: 030 182722721Bestellfax: 030 18102722721
+Diese Publikation wird vom Bundesministerium für Wirtschaft und Energie im Rahmen der Öffentlichkeitsarbeit herausgegeben. Die Publi-kation wird kostenlos abgegeben und ist nicht zum Verkauf bestimmt. Sie darf weder von Parteien noch von Wahlwerbern oder Wahlhelfern während eines Wahlkampfes zum Zwecke der Wahlwerbung verwendet werden. Dies gilt für Bundestags-, Landtags- und Kommunalwahlen sowie für Wahlen zum Europäischen Parlament.
+[Page #2]
+3
+Inhaltsverzeichnis
+Executive Summary6
+1.
+Einleitung8
+2.
+Herausforderungen in KI aktiv nutzenden Unternehmen9
+2.1 Herausforderungen im Bereich der internen Organisation9
+2.2 Herausforderungen im Bereich der Daten13
+2.3 Herausforderungen im Bereich der Zusammenarbeit mit Dritten15
+2.4 Externe Rahmenbedingungen für den KI-Einsatz17
+2.5 Position von Deutschland als KI-Standort20
+2.6 Länder mit Vorbildcharakter bei KI-Themen23
+2.7 Maßnahmen zur Stärkung des KI-Standorts Deutschland24
+3.
+Potenziale für die aktive Nutzung von KI27
+3.1 Systematische Nutzung von Daten in Unternehmen ohne aktive KI-Nutzung28
+3.2 Verzichtsgründe von Unternehmen mit Digitalkompetenzen30
+3.3 Voraussetzungen für den Einstieg in die aktive KI-Nutzung33
+3.4 Ansatzpunkte, um Potenziale für eine aktive Nutzung von KI zu erschließen36
+Literatur39
+4.
+Anhang42
+5.
+5.1 Stichprobe und Rücklauf der Befragung42
+5.2 Strukturmerkmale und Formen der KI-Nutzung43
+5.3 Fragebogen48
+[Page #3]
+4
+Abbildungsverzeichnis
+Abbildung 1:
+Herausforderungen der KI-Nutzung im Bereich der internen Organisation von Unternehmen10
+Abbildung 2:
+Herausforderungen von Unternehmen bei der KI-Nutzung im Bereich Daten13
+Abbildung 3: mit Dritten
+Herausforderungen von Unternehmen bei der KI-Nutzung im Bereich der Zusammenarbeit16
+Abbildung 4:
+Bedeutung externer Rahmenbedingungen zur stärkeren und effektiveren Nutzung von KI18
+Abbildung 5:
+Bewertung des Standorts Deutschland bei KI-relevanten Standortfaktoren21
+Abbildung 6:
+Standortfaktoren, zu denen KI-aktive Unternehmen ein Land als Vorbild genannt haben23
+Abbildung 7: in Deutschland weiter voranzubringen25
+Prioritäre Maßnahmenbereiche für die Bundesregierung, um die Entwicklung und Nutzung von KI
+Abbildung 8: derzeit KI nicht aktiv nutzen28
+Formen der systematischen Nutzung von Daten in Unternehmen mit Digitalkompetenzen, die
+Abbildung 9:
+Zutreffen von Gründen, warum Unternehmen mit Digitalkompetenzen KI nicht aktiv nutzen30
+Abbildung 10: Faktoren, die die Wahrscheinlichkeit in Unternehmen mit Digitalkompetenzen beeinflussen, KI aktiv zu nutzen
+34
+Abbildung 11: Verteilung der befragten Unternehmen nach Gründungsjahr, Beschäftigtenanzahl und Branchengruppe44
+Abbildung 12: Verteilung der befragten KI-aktiven Unternehmen nach Reifegrad des KI-Einsatzes und Art der für KI eingesetzten Software45
+Abbildung 13: Verteilung der befragten nicht KI-aktiven Unternehmen nach passiver Nutzung von KI und Intensität der Datennutzung46
+[Page #4]
+5
+Tabellenverzeichnis
+Tabelle 1: Herausforderungen der KI-Nutzung im Bereich der internen Organisation von Unternehmen: Unterschiede nach Alter, Größe, Branche, KI-Reifegrad und KI-Software12
+Tabelle 2: Herausforderungen von Unternehmen bei der KI-Nutzung im Bereich Daten: Unterschiede nach Alter, Größe, Branche, KI-Reifegrad und KI-Software14
+Tabelle 3: Dritten: Unterschiede nach Alter, Größe, Branche, KI-Reifegrad und KI-Software17
+Herausforderungen von Unternehmen bei der KI-Nutzung im Bereich der Zusammenarbeit mit
+Tabelle 4: Unterschiede nach Alter, Größe, Branche, KI-Reifegrad und KI-Software19
+Bedeutung externer Rahmenbedingungen zur stärkeren und effektiveren Nutzung von KI:
+Tabelle 5: Größe, Branche, KI-Reifegrad und KI-Software22
+Bewertung des Standorts Deutschland bei KI-relevanten Standortfaktoren: Unterschiede nach Alter,
+Tabelle 6:
+Länder, die bei unterschiedlichen Standortfaktoren für KI als Vorbild gelten können24
+Tabelle 7: Deutschland weiter voranzubringen: Unterschiede nach Alter, Größe, Branche, KI-Reifegrad und KI-Software26
+Prioritäre Maßnahmenbereiche für die Bundesregierung, um die Entwicklung und Nutzung von KI in
+Tabelle 8: Formen der systematischen Nutzung von Daten in Unternehmen mit Digitalkompetenzen, die derzeit KI nicht aktiv nutzen: Unterschiede nach Alter, Größe, Branche und passiver KI-Nutzung29
+Tabelle 9: Unterschiede nach Alter, Größe, Branche, passiver KI-Nutzung und Datennutzungsintensität32
+Zutreffen von Gründen, warum Unternehmen mit Digitalkompetenzen KI nicht aktiv nutzen:
+Tabelle 10: zu nutzen: Unterschiede nach Alter, Größe, Branche, passiver KI-Nutzung und Datennutzungsintensität35
+Faktoren, die die Wahrscheinlichkeit in Unternehmen mit Digitalkompetenzen beeinflussen, KI aktiv
+Tabelle 11: beeinflussen, KI aktiv zu nutzen37
+Zusammenhang zwischen systematischer Datennutzung und Faktoren, die die Wahrscheinlichkeit
+Tabelle 12: Zusammenhang zwischen Verzichtsgründen, KI aktiv zu nutzen, und Faktoren, die die Wahrscheinlichkeit beeinflussen, KI aktiv zu nutzen38
+Tabelle 13: Stichprobenumfang, Ausfälle, Verweigerungen und Anzahl realisierter Interviews in der KI-Befragung 2020 nach Teilstichproben43
+Tabelle 14: Größe und Branche der Unternehmen47
+KI-Reifegrad, Art der KI-Software, passive KI-Nutzung und Datennutzung differenziert nach Alter,
+[Page #5]
+6
+E X E C U T I V E S U M M A R Y
+Executive Summary
+Die Studie untersucht Herausforderungen, denen sich Unternehmen in Deutschland bei der Nutzung von Künstlicher Intelligenz (KI) gegenüber sehen. Die Ergebnisse einer repräsentativen Befragung von fast 1.000 jungen und mittelständischen KI-nutzenden oder KI-affinen Unternehmen zeigen fünf große Themenfelder, die aus Sicht der Unternehmen für die weitere Verbreitung von KI in Geschäftsmodellen und Geschäftsprozessen entscheidend sind:
+1. Hohe Kosten und fehlende Finanzierungsmittel: Größte Herausforderung für Unternehmen, die KI be-reits aktiv einsetzen, sind die hohen Kosten der Entwicklung und Implementierung von KI-Anwendungen. Dies gilt vor allem für jüngere und kleine Unternehmen sowie Unternehmen mit einem noch geringen Rei-fegrad der KI-Anwendungen. Gleichzeitig fehlt es oft an ausreichenden Investitionsbudgets bei den Ge-schäftspartnern, um KI-Lösungen gemeinsam umzusetzen. Folgerichtig ist die Verbesserung der Finanzie-rungsbedingungen der wichtigste Maßnahmenbereich aus Sicht der KI-aktiven Unternehmen. Hier sehen sie auch sehr große Defizite des KI-Standorts Deutschlands im internationalen Vergleich. Für Unterneh-men ohne aktiven KI-Einsatz sind hohe Kosten der KI-Einführung dagegen kein dominanter Grund, auf KI-Anwendungen zu verzichten. Gleichwohl ist auch für diese Unternehmen ein Förderangebot für die Ent-wicklung von KI-Lösungen wichtig, um Risiken und Unsicherheiten des Einstiegs in KI abzufedern.
+2. IT-Infrastruktur: Für Unternehmen, die KI noch nicht aktiv nutzen, ist eine leistungsfähigere IT-Infra-
+struktur die wichtigste Voraussetzung, um in entsprechende Anwendungen einzusteigen. Aber auch für KI-aktive Unternehmen ist die Qualität der Infrastruktur die zweitwichtigste Maßnahme, um den KI-Standort Deutschland voranzubringen.
+3. Fachkräfte und Weiterbildung: Ein umfangreiches Angebot an KI-Fachkräften ist für bereits KI-aktive Unternehmen die entscheidende Rahmenbedingung, um KI intensiv und effektiv zu nutzen. Wenngleich die Situation in Deutschland im Vergleich zu anderen Ländern als sehr ungünstig eingeschätzt wird, sind Maßnahmen zur Verbesserung der Fachkräftesituation nur auf Rang 3 der Prioritätenliste gereiht. Unter den Unternehmen, die KI noch nicht aktiv nutzen, sind es nur die größeren Unternehmen, für die das Thema Fachkräfte sowie Weiterbildungsangebote wichtige Einstiegsvoraussetzungen sind.
+4. Offenheit von Nutzern/Gesellschaft gegenüber KI: Mehr Vertrauen von Anwendern in KI-Lösungen so-wie eine höhere Awareness der Öffentlichkeit gegenüber dem Nutzen von KI-Anwendungen sehen sowohl die KI bereits aktiv nutzenden Unternehmen als auch die KI-affinen Nicht-Nutzer als ein wichtiges Aktions-feld. Dies ist auch der Standortfaktor, bei dem Deutschland international am schlechtesten bewertet wird.
+5. Datenzugang und Cloud-Angebote: Die eingeschränkte Datenverfügbarkeit (insbesondere von externen Daten) wird als ein großer Standortnachteil von Deutschland gesehen und ist - gemeinsam mit dem Daten-schutz - das größte Problemfeld im Bereich Daten für KI aktiv nutzende Unternehmen. Fragen der Datensi-cherheit folgen gleich dahinter. Datenschutzkonforme Cloud-Angebote mit höchsten Sicherheitsstandards werden als ein wichtiger Beitrag für bessere Datensicherheit gesehen und stellen eine wesentliche Voraus-setzung für den Einstieg in KI-Anwendungen dar.
+[Page #6]
+7
+E X E C U T I V E S U M M A R Y
+Die Befragungsergebnisse zeigen auch Ansatzpunkte in den Unternehmen selbst auf, um die Möglichkeiten von KI breiter und effektiver zu nutzen:
+• Unternehmen mit Digitalkompetenzen, die KI noch nicht aktiv nutzen, sollten die internen Fähigkeiten der Datennutzung weiter entwickeln. Dazu zählen die Identifizierung relevanter Datenquellen in den Ge-schäftsprozessen sowie der Aufbau methodischer Kompetenzen zu Datenerfassung, Datenmanagement und Datenanalyse. Ein wichtiger Zwischenschritt ist außerdem die passive Nutzung von KI-Anwendungen, z.B. über Plattformen und Service-Provider.
+• Im Bereich der bereits KI-aktiven Unternehmen ist der Aufbau eigener KI-Entwicklungskompetenz ein Weg, um eine effektivere Nutzung von KI zu erreichen. Denn Unternehmen, deren KI-Anwendungen auf In-dividuallösungen durch Dritte oder auf Open-Source-Software beruhen, ohne selbst Softwarelösungen für KI-Anwendungen zu entwickeln, stehen deutlich häufiger vor Herausforderungen und weisen größere Defi-zite in der erfolgreichen Anwendung von KI auf.
+Das Thema Datenschutz wird zwar als eine große Herausforderung gesehen, die meisten Unternehmen schei-nen sich mit diesen Rahmenbedingungen aber arrangiert zu haben. Die KI-aktiven Unternehmen sehen Deutschland hier international gut positioniert, Anpassungen werden nur von relativ wenigen eingefordert. Etwas stärker hemmend wirken Datenschutzregulierungen beim Einstieg in aktive KI-Nutzung.
+[Page #7]
+8
+E I N L E I T U N G
+1. Einleitung
+Methoden der Künstlichen Intelligenz (KI) werden sehr große Potenziale für die Verbesserung von Geschäfts-prozessen, für die Erhöhung der Leistungsfähigkeit und des Kundennutzens von Produkten sowie für die Ent-wicklung neuer Geschäftsfelder und Geschäftsmodelle zugesprochen. Gleichzeitig nutzt aktuell nur ein kleiner Teil der Unternehmen in Deutschland KI-Verfahren. Eine repräsentative Erhebung im Rahmen der Deutschen Innovationserhebung hat gezeigt, dass im Jahr 2019 lediglich 5,8 % der Unternehmen KI aktiv in Produkten oder Prozessen eingesetzt haben (vgl. Rammer et al. 2020). Anfang 2021 lag die Quote nach einer Studie von Bitkom (2021) bei rund 8 %. Die Verbreitung von KI nimmt stetig, aber nur langsam zu (vgl. Zimmermann 2021). Für einen Teil der Unternehmen, die keine KI nutzen, ist dies sicherlich durch die Art und Weise ihrer Geschäftstätigkeit begründet. Gleichwohl gibt es viele Unternehmen, deren Geschäftsprozesse und Geschäfts-modelle mit Hilfe von KI-Verfahren verbessert oder neu aufgestellt werden könnten, die diese Möglichkeiten bislang aber nicht nutzen. Auch unter den Unternehmen, die KI bereits aktiv einsetzen, ist die Nutzungsintensi-tät oft gering (vgl. Rammer et al. 2020).
+Ziel dieser Studie ist es, die Herausforderungen zu untersuchen, denen sich Unternehmen in Deutschland bei der Nutzung von KI gegenübersehen. Dadurch sollen jene Faktoren identifiziert werden, durch die es zu einer verstärkten Nutzung von KI in den Unternehmen kommen kann. Dies gilt insbesondere für Maßnahmen der Politik. Im Fokus der Untersuchung stehen dabei zum einen junge und mittelständische Unternehmen, da in dieser Gruppe das Potenzial für einen verstärkten KI-Einsatz besonders groß ist. Gleichzeitig ist bei ihnen auch der Unterstützungsbedarf durch die öffentliche Hand dringender als bei großen, etablierten Unternehmen. Zum anderen richtet sich die Untersuchung an Unternehmen, die entweder bereits zu den aktiven KI-Nutzern zählen oder die über Voraussetzungen im Unternehmen verfügen, die eine KI-Nutzung erleichtern, d.h. die be-reits einen hohen Stand der Digitalisierung im Unternehmen erreicht haben.1
+Die Studie beruht auf den Ergebnissen einer Befragung von 951 Unternehmen, die im Herbst 2020 stattfand (siehe Anhang). Für KI-aktive Unternehmen wurden drei Aspekte betrachtet:
+• Herausforderungen für Unternehmen beim Einsatz von KI im Bereich der internen Organisation, des Daten-
+zugangs und der Datennutzung sowie in der Zusammenarbeit mit Dritten,
+• externe Rahmenbedingungen, die wichtig sind, um KI stärker und effektiver zu nutzen, • Position des Standorts Deutschlands beim Thema KI im internationalen Vergleich.
+Für aktuell nicht KI-aktive Unternehmen mit hohem Digitalisierungsstand wurde erhoben,
+• inwieweit Daten schon jetzt systematisch für Geschäftsaktivitäten genutzt werden, • aus welchen Gründen sie KI nicht aktiv nutzen, • unter welchen Voraussetzungen KI aktiv genutzt werden würde.
+1 Konkret wurde dies über die Nutzung von digitalen Elementen im Geschäftsmodell der Unternehmen erfasst, vgl. Abschnitt 3.
+[Page #8]
+9
+H E R A U S F O R D E R U N G E N I N K I A K T I V N U T Z E N D E N U N T E R N E H M E N
+2. Herausforderungen in KI aktiv
+nutzenden Unternehmen
+2.1 Herausforderungen im Bereich der internen Organisation
+Die größte Herausforderung, der sich KI aktiv nutzende Unternehmen beim Einsatz von KI gegenüber sehen, sind die hohen Kosten der Entwicklung und Implementation von KI. Für 46 % der Unternehmen ist dies eine große Herausforderung, während nur 17 % angaben, dass dies kein Problem bei der Nutzung von KI im Unter-nehmen sei (Abbildung 1). Die hohe Bedeutung dieser Herausforderung ist auf den ersten Blick erstaunlich, da die Ausgaben der KI-aktiven Unternehmen für die Entwicklung und Implementation von KI relativ niedrig sind. Eine Erhebung zum KI-Einsatz in der deutschen Wirtschaft im Jahr 2019 hat gezeigt, dass die durch-schnittlichen jährlichen KI-Ausgaben je KI nutzendem Unternehmen rund 270 Tsd. Euro betragen und im Mit-tel nur 0,09 % des Jahresumsatzes der Unternehmen ausmachen (vgl. Rammer et al. 2020). Die Höhe der Kos-ten für die Entwicklung und Einführung neuer Anwendungen ist aber immer vor dem Hintergrund der zu er-wartenden Erträge zu sehen. Sind diese nur schwer vorhersehbar oder gänzlich ungewiss, so können auch ver-gleichsweise niedrige Kosten für die Entwicklung von KI eine Herausforderung darstellen. Im Bereich KI dürfte das Problem häufig darin liegen, die später eintretenden Erträge vorab zu quantifizieren, um im unterneh-mensinternen Ressourcenzuteilungsprozess erfolgreich zu sein. Denn tatsächlich zeigen sich für den Einsatz von KI hohe wirtschaftliche Erträge (vgl. Rammer 2021, Rammer et al. 2021). Hinzu kommt, dass die Entwick-lung von KI-Anwendungen mit bestimmten Fixkosten verbunden ist und einen bestimmten Mindestaufwand erfordert, der gerade für kleine Unternehmen schwer zu stemmen ist.
+Fehlende Kompetenzen der Beschäftigten im Bereich KI-Methoden sind von ähnlich großer Bedeutung wie das Risikomanagement. 35 % der KI nutzenden Unternehmen geben an, dass dies eine eher große Herausforde-rung ist, für weitere 36 % stellt dies eine eher geringe Herausforderung dar. Hierbei ist zu beachten, dass Kom-petenzen im Bereich von KI-Methoden nur zum Teil kurzfristig durch interne Weiterbildung vermittelt werden können. Denn oft ist methodisches Wissen im Bereich Datenmanagement und Datenanalyse sowie Software-programmierung erforderlich, das nur über längere Ausbildungsprogramme erworben werden kann. Gleich-zeitig veraltet dieses Wissen aufgrund der schnellen technologischen Entwicklung rasch, was die Nachfrage nach Kompetenzen, die dem aktuellen Stand der Technik genügen, erhöht (vgl. Deming und Noray 2020).
+Dementsprechend hoch ist die Nachfrage nach KI-Experten (vgl. Büchel und Mertens 2021). Die Einstellung von Beschäftigten mit entsprechenden methodischen Kompetenzen stößt aber auf ein relativ geringes Angebot im Markt, was sich an einer hohen Anzahl von nicht besetzten Stellen im Bereich KI widerspiegelt. Im Jahr 2019 konnten 43 % der offenen KI-Stellen in Unternehmen nicht besetzt werden, dies waren in Summe rund 9.500 Stellen (vgl. Rammer et al. 2020: 28f).
+[Page #9]
+H E R A U S F O R D E R U N G E N I N K I A K T I V
+N U T Z E N D E N U N T E R N E H M E N 10
+Die am dritthäufigsten genannte interne Herausforderung ist das Management von rechtlichen und techni-schen Risiken im Zusammenhang mit KI. Dies spielt bei einem Drittel der KI nutzenden Unternehmen eine e-her große und bei gut zwei Fünftel eine eher geringe Rolle. Dabei geht es u.a. um Haftungsfragen, wenn Ent-scheidungen von KI-Systemen zu Fehlfunktionen führen, sowie um interne Verantwortlichkeiten beim Um-gang mit Risiken.
+An vierter Stelle der abgefragten Herausforderungen folgt die Integration von KI in bestehende IT-Systeme oder Produktionsanlagen. 27 % der Unternehmen nannten dies als ein eher großes Problem bei der KI-Nut-zung, 39 % als ein eher geringeres. Das liegt oft daran, dass KI-Lösungen auf anderen Softwarearchitekturen und Datenformaten aufbauen als die im Unternehmen bereits implementierten IT-Lösungen und die in Anla-gen eingebettete Software.
+Abbildung 1:
+Herausforderungen der KI-Nutzung im Bereich der internen Organisation von Unternehmen
+eher groß
+eher gering
+keine
+Hohe Kosten der Entwicklung und Implementation von KI
+Fehlende Kompetenzen der Mitarbeiter zu KI-Methoden
+Management von rechtlichen und technischen Risiken imZusammenhang mit KI
+Integration von KI in bestehende Systeme wie z.B. IT-Systemeoder Maschinen
+Nachweis des Mehrwerts von KI gegenüber alternativen Methoden
+Fragen der ethischen Verantwortung, wenn Entscheidungen vonKI-basierten Systemen getroffen werden
+Schwierigkeiten, geeignete Anwendungsfälle für KI zu finden
+Fehlende Bereitschaft der Mitarbeiter, KI-Anwendungen zuakzeptieren
+Anteil an allen KI aktiv nutzenden Unternehmen in %
+Quelle: KI-Befragung 2020 (n=516)
+In der öffentlichen und Fachdiskussion häufiger genannte Herausforderungen spielen im Vergleich zu den bereits genannten Hürden nach der Umfrage eine untergeordnete Rolle: Nur 14 % der KI nutzenden Unterneh-men sehen im Nachweis des Mehrwerts von KI gegenüber alternativen Methoden eine große Herausforderung, 38 % eine geringe. Fragen der ethischen Verantwortung, wenn Entscheidungen von KI-basierten Systemen getroffen werden, sehen 16 % als eine große und 32 % als eine geringe Herausforderung. Von untergeordneter Bedeutung ist die Schwierigkeit, Anwendungsfälle für KI zu finden (nur in 9 % der KI aktiv nutzenden Unter-nehmen eine große Herausforderung). Der fehlenden Bereitschaft von Beschäftigten, KI-Anwendungen zu ak-zeptieren, schreiben die Unternehmen mit 8% die geringste Bedeutung unter den Herausforderungen zu.
+[Page #10]
+11
+H E R A U S F O R D E R U N G E N I N K I A K T I V N U T Z E N D E N U N T E R N E H M E N
+Die Bedeutung der einzelnen Herausforderungen unterscheidet sich zum Teil deutlich nach Unternehmens-merkmalen und dem Stand der KI-Nutzung in den Unternehmen (vgl. Tabelle 1):2
+• Hohe Kosten spielen in älteren und größeren Unternehmen eine geringere Rolle als in jungen und kleinen, wenngleich die Unterschiede - im Vergleich zu anderen Herausforderungen - nicht sehr groß sind. Unter-nehmen, die KI bereits produktiv nutzen, sehen in den hohen Kosten seltener eine Herausforderung. Dies stützt die These, dass in Unternehmen, die noch im Experimentierstadium oder bei Erstanwendungen sind, die Abschätzung der zu erwartenden wirtschaftlichen Erträge schwierig ist, sodass die Entwicklungskosten als relativ hoch erscheinen. Interessanterweise sehen Unternehmen, deren KI-Anwendungen auf Open-Source-Software beruhen, deutlich stärker eine Herausforderung bei hohen Kosten. Das kann zum einen daran liegen, dass die Nutzung solcher Softwarelösungen mit zusätzlichen eigenen Implementations- und Anpassungsarbeiten einhergeht, die besonders kostenintensiv sind. Zum anderen kann das verfügbare KI-Budget bei diesen Unternehmen so klein sein, dass sie aus Kostengründen auf Open-Source-Software zu-rückgreifen müssen und keine Mittel für Eigenentwicklungen haben.
+• Die Herausforderung des Risikomanagements ist eher in älteren und größeren Unternehmen sowie bei Un-ternehmen mit geringem KI-Reifegrad anzutreffen. Die Nutzer von kommerziellen Softwarepaketen neh-men diese Herausforderung deutlich stärker wahr, was möglicherweise an einer weniger tiefgehenden Be-fassung mit dem Thema KI liegt.
+• Sehr starke Unterschiede zeigen sich bei der Rolle von Mitarbeiterkompetenzen als Herausforderung für die KI-Nutzung. Hier sind es die mittleren und großen Unternehmen, Unternehmen in den sonstigen Bran-chen sowie die Unternehmen mit geringerem KI-Reifegrad, die diese Herausforderung besonders stark se-hen. Unternehmen, die bereits in die produktive Nutzung eingetreten sind, haben es offenbar geschafft, die notwendigen methodischen Kompetenzen aufzubauen, da sie diese Herausforderung kaum wahrnehmen. Besonders groß ist diese Herausforderung unter den Unternehmen, die auf Individuallösungen durch Dritte bei KI-Software setzen. Offenbar wären für die Nutzung dieser Lösungen oft auch eigene KI-Kompetenzen vonnöten, die aber nicht im notwendigen Umfang vorliegen.
+• Probleme der Integration von KI in bestehende Systeme sind häufiger bei älteren und größeren Unterneh-men, im verarbeitenden Gewerbe und in den sonstigen Branchen, bei Unternehmen mit geringerem KI-Rei-fegrad sowie bei Nutzern von Individual-Softwarelösungen und Open-Source-Software anzutreffen.
+• Bezüglich des Nachweises des KI-Mehrwerts gegenüber alternativen Methoden zeigen sich relativ geringe Unterschiede. Größere Unternehmen und Unternehmen in den sonstigen Branchen berichten vergleichs-weise häufig von dieser Herausforderung. Außerdem sehen sich Unternehmen, die erst am Beginn der akti-ven KI-Nutzung sind, stärker mit dem Nachweisproblem konfrontiert.
+• Fragen der ethischen Verantwortung werden besonders häufig von Unternehmen, die Open-Source-Soft-ware nutzen, als eine Herausforderung gesehen, während produktive Nutzer hier am seltensten ein Prob-lem wahrnehmen. Dies könnte daran liegen, dass es sich bei den Nutzern von Open-Source-Software um Unternehmen handelt, die über geringere Erfahrungen im Umgang mit KI verfügen und daher mögliche Problemfelder wie z.B. ethische Fragen stärker gewichten.
+2 Die hier unterschiedenen Strukturmerkmale und KI-Nutzungsformen sind in Abschnitt 5.2 im Anhang erläutert.
+[Page #11]
+H E R A U S F O R D E R U N G E N I N K I A K T I V
+N U T Z E N D E N U N T E R N E H M E N 12
+Tabelle 1:
+Herausforderungen der KI-Nutzung im Bereich der internen Organisation von Unternehmen: Unter-schiede nach Alter, Größe, Branche, KI-Reifegrad und KI-Software
+Abweichung vom Durchschnittswert* in %-Punkten Gründungsjahr 2010 oder später 2000 bis 2009 1990 bis 1999 vor 1990
+Kosten
+Risikoma-nagement
+Mitarbei-terkompe-tenz
+IT-Integra-tion
+Mehrwert von KI
+Ethische Fragen
+Anwen-dungsfälle
+Mitarbei-terakzep-tanz
+6 4 -6 -10
+-3 -7 1 14
+-19 5 12 10
+-6 -4 5 10
+-9 7 1 5
+-1 4 0 -4
+-12 10 0 7
+-13 2 10 6
+Beschäftigtenzahl weniger als 10 Beschäftigte 10 bis 49 Beschäftigte 50 bis 249 Beschäftigte 250 oder mehr Beschäftigte
+2 1 0 -16
+1 0 -7 11
+-18 2 26 30
+-6 -6 19 25
+-3 -2 4 17
+2 2 -12 -4
+-5 1 10 1
+-10 -5 22 33
+Branchengruppe verarbeitendes Gewerbe IT-Dienstleistungen Beratungsdienstleistungen sonstige Branchen
+-9 3 2 -1
+6 -3 0 -3
+7 -11 -1 23
+12 -11 0 13
+-1 -2 -1 11
+-4 4 -3 4
+18 -6 -6 4
+9 -16 5 14
+KI-Reifegrad produktive Nutzung Erstanwendungsfälle
+-15 8
+3 -9
+-33 17
+-25 11
+-15 3
+-12 6
+-26 12
+-10 7
+Experimentierstadium
+6
+12
+18
+17
+15
+7
+16
+2
+Art der KI-Software selbst entwickelte Software Individuallösung durch Dritte Open-Source-Software
+5 -11 19
+-5 1 -2
+-12 28 14
+-7 15 16
+-3 6 9
+-4 11 24
+-6 10 5
+-7 14 2
+kommerzielles Softwarepaket
+-18
+17
+6
+-1
+1
+-11
+8
+11
+Zum Wortlaut der abgefragten Herausforderungen siehe Abbildung 1. * Der Durchschnittswert wurde berechnet, indem der Anteil der Antworten "eher groß" mit dem Faktor 2, der Anteil der Antworten "eher gering" mit dem Faktor 1 und der Anteil der Antworten "keine" mit dem Faktor 0 gewichtet wurde und die drei gewichteten Anteilswerte aufsummiert wurden. Der angezeigte Wert gibt die Differenz zwischen dem Wert der betrachteten Teilgruppe und dem Wert für alle befragten Unternehmen an. Quelle: KI-Befragung 2020 (n=516)
+• Die Bedeutung der Herausforderung, geeignete KI-Anwendungsfälle zu identifizieren, unterscheidet sich in erster Linie nach dem KI-Reifegrad. Außerdem berichten Unternehmen aus dem verarbeitenden Gewerbe deutlich häufiger von dieser Schwierigkeit. Hier dürfte es vielen Unternehmen an Informationen zu konkre-ten Praxisbeispielen fehlen, wie sie KI produktiv in ihrem konkreten Markt- und Produktionskontext nutzen können.
+• Die Herausforderung einer fehlenden Akzeptanz von KI-Anwendungen unter den Beschäftigten scheint in
+erster Linie eine Frage der Unternehmensgröße zu sein, da vor allem mittlere und große Unternehmen von diesem Problem berichten. Startups, kleine Unternehmen und IT-Dienstleister sehen diese Herausforde-rung dagegen faktisch gar nicht.
+[Page #12]
+13
+H E R A U S F O R D E R U N G E N I N K I A K T I V N U T Z E N D E N U N T E R N E H M E N
+2.2 Herausforderungen im Bereich der Daten
+Das Thema Daten ist für die Nutzung von KI aus mehreren Gründen entscheidend (vgl. PwC 2019b, Deloitte 2020). Erstens beruhen fast alle KI-Anwendungen auf der Verfügbarkeit großer Datenmengen, in denen Mus-ter und Regelmäßigkeiten erkannt und aus denen für künftige Problemstellungen gelernt werden kann. Zwei-tens besteht ein großer Vorteil von KI-Verfahren gegenüber alternativen Methoden in der Fähigkeit, große un-strukturierte Datenmengen effizient verarbeiten zu können. Drittens stellen Daten einen sehr heterogenen Ge-genstand dar, da sie in sehr unterschiedlichen Kontexten anfallen, in unterschiedlichen Formaten und Qualitä-ten vorliegen und unterschiedliche Techniken für ihre Bearbeitung erfordern. Die zentrale Rolle von Daten be-deutet viertens, dass ihnen ein hoher wirtschaftlicher Wert zukommt. Dadurch erlangt die Frage des sicheren Zugriffs auf diese Daten und die Verhinderung der nicht intendierten Nutzung der Daten durch Dritte einen hohen Stellenwert. Gleichzeitig ist fünftens eine effiziente Nutzung eines Datensatzes oft erst möglich, wenn er mit anderen - auch externen - Daten verknüpft werden kann, sodass dem Zugang zu externen Daten eine große Bedeutung zukommt. Sechstens sind schließlich Daten Gegenstand staatlicher Regulierung, insbesondere was den Schutz von personenbezogenen Daten betrifft.
+Die größte Herausforderung im Bereich Daten für KI aktiv nutzende Unternehmen sind Fragen des Daten-schutzes im Zusammenhang mit KI-Anwendungen. Für 37 % der Unternehmen ist diese Herausforderung sehr groß, für weitere 39 % eher groß (Abbildung 2). An zweiter Stelle folgt der fehlende Zugang zu externen Daten (34 bzw. 38 %). Mit etwas Abstand sind Fragen der Datensicherheit bei KI-Anwendungen und eine unzu-reichende Qualität der vorhandenen internen Daten die beiden am nächsthäufigsten genannten Herausforde-rungen. Fehlende methodische Kenntnisse im Umgang mit Daten und eine mangelnde Verfügbarkeit von inter-nen Daten spielen dagegen für die Unternehmen, die bereits KI aktiv nutzen, eine untergeordnete Herausfor-derung.
+Abbildung 2: Herausforderungen von Unternehmen bei der KI-Nutzung im Bereich Daten
+eher groß
+eher gering
+keine
+Fragen des Datenschutzes im Zusammenhang mit KI-Anwendungen
+Fehlender Zugang zu externen Daten
+Fragen der Datensicherheit bei KI-Anwendungen, z.B.Verhinderung des unberechtigten Zugriffs Dritter auf Daten
+Unzureichende Qualität der vorhandenen internen Daten, z.B.fehlende Dokumentation oder mangelnde Systematik
+Mangelnde Verfügbarkeit von internen Daten, d.h. Daten, die inIhrem Unternehmen generiert werden
+Fehlende methodische Kenntnisse im Umgang mit Daten
+Anteil an allen KI aktiv nutzenden Unternehmen in %
+Quelle: KI-Befragung 2020 (n=516)
+[Page #13]
+H E R A U S F O R D E R U N G E N I N K I A K T I V
+N U T Z E N D E N U N T E R N E H M E N 14
+Herausforderungen im Bereich Datenschutz werden am stärksten von Unternehmen gesehen, die Open-Source-Software für ihre KI-Anwendungen nutzen, sowie von Unternehmen, die sich noch im Experimentier-stadium befinden (Tabelle 2). Letztere sehen generell beim Thema Daten größere Schwierigkeiten, was darauf hindeutet, dass der Aufbau von Datenkompetenz ein entscheidender Faktor in Richtung produktive Nutzung von KI ist. Überproportional stark wird die Herausforderung des Datenschutzes in den Beratungsdienstleis-tungen und den sonstigen Branchen gesehen, während große Unternehmen und Industrieunternehmen in die-sem Bereich deutlich seltener Probleme ausmachen.
+Tabelle 2:
+Herausforderungen von Unternehmen bei der KI-Nutzung im Bereich Daten: Unterschiede nach Alter, Größe, Branche, KI-Reifegrad und KI-Software
+Abweichung vom Durchschnittswert* in %-Punkten Gründungsjahr 2010 oder später 2000 bis 2009 1990 bis 1999 vor 1990
+Datenschutz
+Zugang zu ex-ternen Daten
+Datensicher-heit
+Datenqualität Methodische Kenntnisse
+Verfügbarkeit interner Da-ten
+3 3 -12 5
+3 7 -6 -7
+-16 8 -2 19
+-11 8 3 4
+-8 0 8 5
+-1 12 -10 -3
+Beschäftigtenzahl weniger als 10 Beschäftigte 10 bis 49 Beschäftigte 50 bis 249 Beschäftigte 250 oder mehr Beschäftigte
+0 0 7 -14
+1 5 -6 -17
+-9 0 25 -1
+-6 -2 20 4
+-7 2 5 20
+-3 3 7 -13
+Branchengruppe verarbeitendes Gewerbe IT-Dienstleistungen Beratungsdienstleistungen sonstige Branchen
+-15 -5 10 9
+-5 2 6 -17
+14 -13 4 3
+10 1 -4 -7
+9 -8 2 2
+3 10 -8 -10
+KI-Reifegrad produktive Nutzung Erstanwendungsfälle
+-5 -3
+-8 -1
+-11 2
+-16 5
+-21 10
+-15 3
+Experimentierstadium
+12
+13
+11
+14
+13
+15
+Art der KI-Software selbst entwickelte Software Individuallösung durch Dritte Open-Source-Software
+1 -6 23
+9 -7 -9
+-5 15 12
+1 -2 24
+-13 20 36
+5 6 -5
+kommerzielles Softwarepaket
+-11
+-17
+-3
+-15
+3
+-19
+Zum Wortlaut der abgefragten Herausforderungen siehe Abbildung 2. * Der Durchschnittswert wurde berechnet, indem der Anteil der Antworten "eher groß" mit dem Faktor 2, der Anteil der Antworten "eher gering" mit dem Faktor 1 und der Anteil der Antworten "keine" mit dem Faktor 0 gewichtet wurde und die drei gewichteten Anteilswerte aufsummiert wurden. Der angezeigte Wert gibt die Differenz zwischen dem Wert der betrachteten Teilgruppe und dem Wert für alle befragten Unternehmen an. Quelle: KI-Befragung 2020 (n=516)
+Der Zugang zu externen Daten scheint tendenziell eine größere Herausforderung für junge und kleine Unter-nehmen in den IT- und Beratungsdienstleistungen zu sein, ebenso wie für Unternehmen, die auf selbst entwi-ckelte KI-Software setzen. Datensicherheit ist dagegen vor allem für ältere und mittelgroße Unternehmen eine große Herausforderung. Zudem sehen die Unternehmen, die auf Individual-Softwarelösungen oder auf Open-Source-Software setzen, hier vermehrt Probleme. Eine unzureichende Qualität der internen Daten spielt eben-falls für mittelgroße Unternehmen und für Nutzer von Open-Source-KI-Software eine besonders große Rolle.
+[Page #14]
+15
+H E R A U S F O R D E R U N G E N I N K I A K T I V N U T Z E N D E N U N T E R N E H M E N
+Letztere sind es auch, die besonders häufig fehlende methodische Kenntnisse im Umgang mit Daten berichten. Interessanterweise nennen auch Großunternehmen überdurchschnittlich häufig, dass dies eine große Heraus-forderung sei, obwohl gerade in größeren Unternehmen große Datenmengen häufiger anfallen als in kleinen Unternehmen. Dies zeigt sich auch daran, dass die Verfügbarkeit interner Daten für große Unternehmen am seltensten eine Herausforderung darstellt.
+2.3 Herausforderungen im Bereich der Zusammenarbeit mit Dritten
+Der Einsatz von KI erfolgt häufig in Geschäftsprozessen und Produkten, in deren Nutzung auch Dritte invol-viert sind. Im Fall von Prozessen kann dies von KI-Anwendungen in der Kommunikation mit Geschäftspart-nern und Kunden bis zu Logistik-Anwendungen, die Lieferanten oder Transporteure einbeziehen, reichen. Im Bereich von Produkten sind Dritte entweder direkt als Nutzer der KI-Anwendung oder indirekt über Pro-dukteigenschaften und Leistungen, die durch KI-Anwendungen wesentlich bestimmt werden, einbezogen. Für die Entwicklung und Einführung von KI-Anwendungen wird außerdem häufig auf Leistungen Dritter zurück-gegriffen. Dies betrifft beispielsweise die Konzeption und Programmierung von KI oder die Nutzung von exter-nem Knowhow zu KI-Methoden.
+Insgesamt sehen die KI aktiv nutzenden Unternehmen im Bereich der Zusammenarbeit mit Dritten eher ge-ringe Herausforderungen. Die große Ausnahme stellt die unzureichende Investitionstätigkeit von Geschäfts-partnern zur Umsetzung von KI-Lösungen dar (Abbildung 3). Hierin spiegelt sich die Herausforderung der ho-hen Kosten von KI, die als größte unternehmensinterne Schwierigkeit identifiziert wurde. Diese führt auch bei den Geschäftspartnern von Unternehmen zu niedrigen KI-Investitionsbudgets, die die Umsetzung neuer An-wendungen erschweren oder verhindern. Ein fehlendes Vertrauen der Kunden in KI-Lösungen wurde am zweithäufigsten genannt, wobei weniger als ein Viertel der Unternehmen hierin eine große Herausforderung sieht, aber fast jedes zweite eine geringe. Dies deutet darauf hin, dass Kunden zunächst mit einer gewissen Zu-rückhaltung auf neue KI-Anwendungen reagieren, dass sie sich aber häufig auch vom Nutzen dieser Anwen-dungen überzeugen lassen.
+Eine weitere häufiger auftretende Herausforderung im Bereich der Zusammenarbeit mit Dritten ist ein fehlen-des Angebot von individuellen KI-Lösungen, die spezifisch auf das Unternehmen zugeschnitten sind. Rund ein Viertel der Unternehmen sieht hier eine große Herausforderung. Dies weist darauf hin, dass KI-Anwendungs-fälle in Unternehmen oft nicht über standardisierte KI-Angebote realisiert werden können, sondern Einzelfall-lösungen erfordern. Hier scheint der Markt für solche individuellen KI-Lösungen entweder nicht entsprechend entwickelt oder zu wenig transparent zu sein. Von geringer Bedeutung sind die beiden Herausforderungen einer fehlenden externen Unterstützung zu KI-Fragen (wie z.B. ein schlechter Kundenservice bei Problemen mit KI-Anwendungen) sowie einer fehlenden Kooperationsbereitschaft von Hochschulen und Forschungsein-richtungen zu KI-Fragen.
+[Page #15]
+H E R A U S F O R D E R U N G E N I N K I A K T I V
+N U T Z E N D E N U N T E R N E H M E N 16
+Abbildung 3: Herausforderungen von Unternehmen bei der KI-Nutzung im Bereich der Zusammenarbeit mit
+Dritten
+eher groß
+eher gering
+keine
+Unzureichendes Investitionsbudget der Geschäftspartner zurUmsetzung von KI-Lösungen
+Fehlendes Angebot von individuellen KI-Lösungen, d.h. KI-Anwendungen, die spezifisch auf Ihr Unternehmen zugeschnittensind
+Fehlendes Vertrauen der Kunden in KI-Lösungen
+Fehlende externe Unterstützung zu KI-Fragen, z.B. schlechterKundenservice bei Problemen mit KI-Anwendungen
+Fehlende Kooperationsbereitschaft von Hochschulen oderForschungseinrichtungen zu KI-Fragen
+Anteil an allen KI aktiv nutzenden Unternehmen in %
+Quelle: KI-Befragung 2020 (n=515)
+Die größten Unterschiede nach Strukturmerkmalen und Stand der KI-Nutzung zeigen sich in Bezug auf das An-gebot von individuellen KI-Lösungen (Tabelle 3). Junge und kleine Unternehmen, IT-Dienstleister, Unterneh-men, die KI bereits produktiv nutzen, und Unternehmen, die selbst entwickelte KI-Software einsetzen, sehen beim Angebot von individuellen KI-Lösungen keine wesentliche Herausforderung. Ganz anders ist dies für äl-tere und große Unternehmen, für Unternehmen des verarbeitenden Gewerbes und der sonstigen Branchen, für Unternehmen mit geringem KI-Reifegrad sowie für Unternehmen, die auf kommerzielle KI-Softwarepakete zugreifen oder die Individuallösungen durch Dritte nutzen. Interessant ist, dass Unternehmen, die bereits KI-Individuallösungen einsetzen, das Angebot von individuellen KI-Lösungen häufig als eine große Herausforde-rung sehen. Dies deutet darauf hin, dass die Individuallösungen oft nicht den Erwartungen der Unternehmen entsprechen, die sie in die Lösungen gesetzt haben.
+Größere Unterschiede in der Bewertung von Herausforderungen zeigen sich außerdem für unzureichende KI-Investitionsbudgets der Geschäftspartner und für fehlende externe Unterstützung. Bezüglich KI-Investitions-budgets der Partner sind es vor allem die jüngeren und die kleinen Unternehmen sowie die IT-Dienstleister, die hier häufiger Probleme anführen. Auch berichten überproportional viele Unternehmen, die sich noch im KI-Experimentierstadium befinden, dass die geringe Investitionstätigkeit der Partner beim Thema KI ihre KI-Nutzungsmöglichkeiten einschränkt. Was den Mangel an externer Unterstützung betrifft, sind es insbesondere die mittelgroßen Unternehmen sowie die Unternehmen, die kommerzielle KI-Softwarepakete nutzen, die hier am häufigsten eine große Herausforderung sehen. Dies deutet daraufhin, dass das Angebot an externer Unter-stützung sich wohl eher an große als an mittlere Unternehmen richtet. Die Anbieter von KI-Programmpaketen bieten offenbar nicht im gewünschten Umfang Unterstützungsleistungen für ihre Kunden an, oder es fehlt an einem Beratermarkt, der diese Unterstützung leisten würde (wie dies bei anderen Softwareanwendungen wie z.B. ERP-Software schon lange der Fall ist). Gleichzeitig ist anzunehmen, dass Unternehmen, die kommerzielle Pakete nutzen, über das relativ geringste KI-spezifische Knowhow verfügen und daher stärker auf externe Un-terstützungsleistungen angewiesen sind.
+[Page #16]
+17
+H E R A U S F O R D E R U N G E N I N K I A K T I V N U T Z E N D E N U N T E R N E H M E N
+Für die anderen beiden Herausforderungen - fehlendes Vertrauen der Kunden in KI-Lösungen und fehlende Kooperationsbereitschaft der Wissenschaft - sind die Unterschiede nach Strukturmerkmalen und Art der KI-Nutzung geringer. Ein fehlendes Vertrauen der Kunden in KI-Lösungen sehen jüngere sowie Kleinst- und mit-telgroße Unternehmen stärker als eine Herausforderung, ebenso wie Unternehmen, die erste Anwendungsfälle für KI implementiert haben und die auf Open-Source-Software zurückgreifen. Was die Zusammenarbeit mit der Wissenschaft betrifft, so fällt der etwas höhere Anteil von Unternehmen in sonstigen Branchen auf, die hier eine Herausforderung berichten.
+Tabelle 3:
+Herausforderungen von Unternehmen bei der KI-Nutzung im Bereich der Zusammenarbeit mit Drit-ten: Unterschiede nach Alter, Größe, Branche, KI-Reifegrad und KI-Software
+Abweichung vom Durchschnittswert* in %-Punkten Gründungsjahr 2010 oder später 2000 bis 2009 1990 bis 1999 vor 1990 Beschäftigtenzahl weniger als 10 Beschäftigte 10 bis 49 Beschäftigte 50 bis 249 Beschäftigte 250 oder mehr Beschäftigte
+Angebot von in-dividuellen Lö-sungen
+Kooperations-bereitschaft Wissenschaft
+Budget der Partner
+Vertrauen der Kunden
+externe Unter-stützung
+10 7 -17 -7
+2 6 -7 -3
+-16 1 7 16
+-9 3 5 4
+0 5 -3 -3
+7 -4 1 -12
+10 -9 6 -11
+-9 0 10 26
+-2 -5 20 -1
+6 -4 -2 -4
+Branchengruppe verarbeitendes Gewerbe IT-Dienstleistungen Beratungsdienstleistungen sonstige Branchen
+-8 15 -5 -13
+-13 6 5 -12
+21 -18 0 19
+10 -12 2 9
+1 -1 -3 12
+KI-Reifegrad produktive Nutzung Erstanwendungsfälle
+-13 4
+-9 6
+-29 11
+-10 10
+-6 7
+Experimentierstadium
+12
+3
+23
+-2
+-2
+Art der KI-Software selbst entwickelte Software Individuallösung durch Dritte Open-Source-Software
+7 -5 1
+0 -8 11
+-14 22 3
+-9 7 3
+2 1 4
+kommerzielles Softwarepaket
+-20
+0
+23
+19
+-9
+Zum Wortlaut der abgefragten Herausforderungen siehe Abbildung 3. * Der Durchschnittswert wurde berechnet, indem der Anteil der Antworten "eher groß" mit dem Faktor 2, der Anteil der Antworten "eher gering" mit dem Faktor 1 und der Anteil der Antworten "keine" mit dem Faktor 0 gewichtet wurde und die drei gewichteten Anteilswerte aufsummiert wurden. Der angezeigte Wert gibt die Differenz zwischen dem Wert der betrachteten Teilgruppe und dem Wert für alle befragten Unternehmen an. Quelle: KI-Befragung 2020 (n=515)
+2.4 Externe Rahmenbedingungen für den KI-Einsatz
+Gefragt nach den externen Rahmenbedingungen, die aus Sicht der Unternehmen besonders wichtig sind, damit KI verstärkt und effektiver genutzt werden kann (vgl. hierzu Agrawal et al. 2019a), nannte die Mehrheit der
+[Page #17]
+H E R A U S F O R D E R U N G E N I N K I A K T I V
+N U T Z E N D E N U N T E R N E H M E N 18
+Unternehmen jede der sechs Rahmenbedingungen als wichtig und jeweils nur ein sehr kleiner Teil als unwich-tig (Abbildung 4). An erster Stelle steht dabei klar das Angebot an Fachkräften mit KI-Kompetenzen. Für 84 % der KI aktiv nutzenden Unternehmen ist diese eine wichtige Rahmenbedingungen für die intensivere und bes-sere Nutzung von KI. Dies belegt die große Bedeutung von KI als ein Trend, der neue Qualifikationsanforde-rungen stellt (vgl. Lane und Saint-Martin 2021, Bresnahan et al. 2002). Die Verbesserung der technischen Aus-stattung im Bereich IT (wie Netzabdeckung und Übertragungsgeschwindigkeiten) ist für 73 % der Unterneh-men wichtig.
+Abbildung 4:
+Bedeutung externer Rahmenbedingungen zur stärkeren und effektiveren Nutzung von KI
+wichtig
+weniger wichtig
+unwichtig
+Angebot an Fachkräften mit KI-Kompetenzen
+Verbesserung der technischen Ausstattung im Bereich IT(Netzabdeckung, Übertragungsgeschwindigkeit etc.)
+Cloud-Angebote, die datenschutzkonform sind und höchsteDatensicherheit gewährleisten (z.B. die Initiative GAIA-X)
+Mehr Vertrauen von Nutzern und Anwendern in KI
+Anpassung des Datenschutzes, um KI-basierte Datenanalysen zuerleichtern
+Umfassendere Information der Öffentlichkeit über KI und denNutzen von KI-Anwendungen
+Anteil an allen KI aktiv nutzenden Unternehmen in %
+Quelle: KI-Befragung 2020 (n=516)
+Dahinter folgen datenschutzkonforme Cloud-Angebote mit höchster Datensicherheit (70 %) und die Erhöhung des Vertrauens von Nutzern und Anwendern in KI (67 %). 61 % betrachten Anpassungen beim Datenschutz, um KI-basierte Datenanalysen zu erleichtern, als eine wichtige Rahmenbedingung. Die geringste Zustimmung - wenngleich noch deutlich über 50 % - erhielt die umfassendere Information der Öffentlichkeit über KI und den Nutzen von KI-Anwendungen. 58 % der KI aktiv nutzenden Unternehmen sehen dies als eine wichtige Rah-menbedingung an.
+Zwischen den unterschiedlichen Gruppen von Unternehmen und KI-Nutzern zeigen sich mit Blick auf die Be-deutung der einzelnen externen Rahmenbedingungen noch relativ wenige augenfällige Unterschiede (Tabelle 4). Auffällig ist, dass vor allem Großunternehmen und Unternehmen aus den sonstigen Branchen eine Verbes-serung der IT-Infrastruktur als besonders wichtig erachten. Umgekehrt sehen Unternehmen, die KI bereits produktiv nutzen, deutlich seltener die Wichtigkeit von datenschutzkonformen und besonders sicheren Cloud-Angeboten. Hier ist zu vermuten, dass diese Unternehmen bereits entsprechende Lösungen gefunden haben. Für die Unternehmen, die erst einen geringeren KI-Reifegrad aufweisen, sind entsprechende Cloud-Angebote umso wichtiger.
+Eine stärkere Information der Öffentlichkeit zum Thema KI stufen Industrieunternehmen deutlich seltener als wichtige Rahmenbedingung ein als Unternehmen anderer Branchen. Dies dürfte daran liegen, dass die meisten
+[Page #18]
+19
+H E R A U S F O R D E R U N G E N I N K I A K T I V N U T Z E N D E N U N T E R N E H M E N
+Industrieunternehmen im B2B-Bereich tätig sind und die allgemeine Öffentlichkeit selten mit den KI-Anwen-dungen der Unternehmen direkt zu tun hat.
+Die Relevanz des Fachkräfteangebots als Rahmenbedingung für eine stärkere und effektivere Nutzung von KI wird von allen Gruppen von Unternehmen und KI-Nutzern ähnlich eingestuft. Etwas weniger wichtig wird das KI-Fachkräfteangebot in den sonstigen Branchen sowie von Unternehmen gesehen, die auf Individuallösungen für KI-Software oder auf Open-Source-Software setzen. Dieses Ergebnis überrascht, da Unternehmen mit Indi-viduallösungen und Open-Source-Software die Herausforderung fehlender Mitarbeiterkompetenzen beson-ders häufig angeführt haben. Offenbar ist die Einstellung von Mitarbeitern mit solchen Kompetenzen für viele dieser Unternehmen keine Option.
+Tabelle 4:
+Bedeutung externer Rahmenbedingungen zur stärkeren und effektiveren Nutzung von KI: Unter-schiede nach Alter, Größe, Branche, KI-Reifegrad und KI-Software
+Abweichung vom Durchschnittswert* in %-Punkten Gründungsjahr 2010 oder später 2000 bis 2009 1990 bis 1999 vor 1990
+Fachkräfteange-bot
+IT-Infrastruktur
+Vertrauen der Nutzer
+Anpassung Da-tenschutz
+Cloud-Angebote
+Information der Öffentlichkeit
+5 -7 1 0
+-6 -1 4 8
+-5 5 3 -2
+5 1 -8 -1
+-4 6 -4 3
+6 -2 -2 -6
+Beschäftigtenzahl weniger als 10 Beschäftigte 10 bis 49 Beschäftigte 50 bis 249 Beschäftigte 250 oder mehr Beschäftigte
+-5 4 3 -4
+-2 -3 4 18
+-4 1 6 -1
+1 1 -4 -3
+-7 4 8 1
+5 0 -6 -11
+Branchengruppe verarbeitendes Gewerbe IT-Dienstleistungen Beratungsdienstleistungen sonstige Branchen
+5 -2 2 -10
+2 -4 -4 24
+0 -8 7 0
+-2 2 -1 2
+1 -1 1 -2
+-20 9 1 5
+KI-Reifegrad produktive Nutzung Erstanwendungsfälle
+-1 1
+3 1
+-4 5
+-5 -1
+-19 10
+0 1
+Experimentierstadium
+1
+-6
+-3
+7
+10
+-1
+Art der KI-Software selbst entwickelte Software Individuallösung durch Dritte Open-Source-Software
+4 -6 -9
+0 1 -11
+-3 12 5
+-1 -5 5
+-4 -2 7
+-3 10 13
+kommerzielles Softwarepaket
+-2
+6
+-4
+4
+9
+-7
+Zum Wortlaut der abgefragten externen Rahmenbedingungen siehe Abbildung 4. * Der Durchschnittswert wurde berechnet, indem der Anteil der Antworten "wichtig" mit dem Faktor 2, der Anteil der Antworten "weniger wichtig" mit dem Faktor 1 und der Anteil der Antworten "unwichtig" mit dem Faktor 0 gewichtet wurde und die drei gewichteten Anteilswerte aufsummiert wurden. Der angezeigte Wert gibt die Differenz zwischen dem Wert der betrachteten Teilgruppe und dem Wert für alle befragten Unternehmen an. Quelle: KI-Befragung 2020 (n=516)
+[Page #19]
+H E R A U S F O R D E R U N G E N I N K I A K T I V
+N U T Z E N D E N U N T E R N E H M E N 20
+Eine Stärkung des Vertrauens von Nutzern und Anwendern in KI wird ebenfalls von den einzelnen Gruppen recht ähnlich bewertet. Unternehmen, deren KI auf von Dritten bereitgestellten individuellen Softwarelösun-gen basiert, bewerten diese Rahmenbedingung als merklich wichtiger als der Durchschnitt der KI aktiv nut-zenden Unternehmen.
+In Bezug auf Anpassungen beim Datenschutz zur Erleichterung KI-basierter Datenanalysen sind die Unter-schiede zwischen den einzelnen Gruppen am geringsten. Einzig nach dem KI-Reifegrad zeigen sich etwas grö-ßere Unterschiede, insofern Unternehmen, die sich noch im Experimentierstadium befinden, diese Rahmenbe-dingung eher für wichtig halten. Unternehmen, die KI bereits produktiv nutzen, sehen tendenziell etwas weni-ger Anpassungsbedarf beim Datenschutz. Dies kann so interpretiert werden, dass von diesen Unternehmen schon ein etwas größerer Teil Wege gefunden hat, KI unter den geltenden Datenschutzbestimmungen effektiv zu nutzen.
+2.5 Position von Deutschland als KI-Standort
+Bei der Bewertung des Standorts Deutschland beim Thema KI im internationalen Vergleich sehen die KI aktiv nutzenden Unternehmen drei Faktoren, bei denen Deutschland besser oder zumindest vergleichbar mit ande-ren führenden Industrieländer aufgestellt ist (Abbildung 5):
+• Die beste Bewertung erhielt der Bereich Datensicherheit. Hier sehen 57 % der Unternehmen die in
+Deutschland ergriffenen Maßnahmen als besser im Vergleich zu anderen Industrieländern an. Weitere 30 % beurteilen die Situation in Deutschland als in etwa gleich mit der anderer Industrieländer.
+• Die Regulierung im Bereich Datenschutz wird von 45 % als besser und von 29 % als in etwa gleich gut wie
+in anderen führenden Industrieländern beurteilt. Dabei ist zu beachten, dass der Datenschutz innerhalb der EU wesentlich durch die europäische Datenschutzgrundverordnung geregelt und somit die Situation zu-mindest in allen EU-Mitgliedstaaten recht ähnlich ist.
+• Bei Cloud-Angeboten mit hohen Sicherheitsstandards sehen 26 % den Standort Deutschland besser als an-
+dere führende Industrieländer aufgestellt, 40 % bewerten die Situation als ähnlich gut.
+Bei vier Standortfaktoren fällt die Beurteilung der Unternehmen dagegen überwiegend negativ aus:
+• Nur 6 % der KI aktiv nutzenden Unternehmen bewerten das KI-Fachkräfteangebot als besser, während
+57 % es als schlechter im Vergleich zu anderen führenden Industrieländern sehen.
+• Ebenfalls 6 % sehen Deutschland bei der Finanzierung von KI-Investitionen vergleichsweise gut positio-
+niert, aber 73 % bewerten die Situation in anderen Ländern als besser.
+• Lediglich 3 % gaben an, dass die Datenverfügbarkeit und die Möglichkeiten zur Nutzung externer Daten in Deutschland besser als in anderen Industrieländern seien, während 62 % Deutschland hier schlechter posi-tioniert sehen.
+• Die Offenheit der Gesellschaft in Deutschland gegenüber dem Einsatz von KI wird nur von 2 % der Unter-
+nehmen als besser beurteilt, während für 58 % Deutschland bei diesem Faktor schlechter abschneidet. Da
+[Page #20]
+21
+H E R A U S F O R D E R U N G E N I N K I A K T I V N U T Z E N D E N U N T E R N E H M E N
+gleichzeitig die Akzeptanz der Mitarbeiter in Bezug auf KI-Lösungen als geringste Herausforderung einge-stuft wurde, werden die Mitarbeiter der KI-aktiven Unternehmen in Bezug auf die Offenheit gegenüber KI also deutlich besser beurteilt „als der Bürger an sich“.
+Abbildung 5:
+Bewertung des Standorts Deutschland bei KI-relevanten Standortfaktoren
+besser
+gleich gut
+schlechter
+Maßnahmen zur Datensicherheit
+Regulierung im Bereich Datenschutz
+Cloud-Angebote mit hohen Sicherheitsstandards
+Fachkräfteangebot im Bereich KI
+Finanzierung von Investitionen in KI
+Datenverfügbarkeit, Möglichkeiten zur Nutzung externerDaten
+Offenheit der Gesellschaft gegenüber dem Einsatz von KI
+Anteil an allen KI aktiv nutzenden Unternehmen in %
+Quelle: KI-Befragung 2020 (n=515)
+Die günstige Bewertung der Standortfaktoren Datensicherheit und Datenschutzregulierung lässt sich im We-sentlichen auf die größeren Unternehmen zurückführen (Tabelle 5). Unternehmen des verarbeitenden Gewer-bes sehen die Situation in Deutschland bei diesen beiden Themen deutlich kritischer als Dienstleistungsunter-nehmen. Beim Thema Datenschutzregulierung nehmen jüngere und die Kleinstunternehmen deutlich häufiger Defizite wahr. Bezüglich Cloud-Angeboten mit hohen Sicherheitsstandards unterscheidet sich die Bewertung des Standorts Deutschland zwischen den einzelnen Gruppen weniger stark. Die sonstigen Branchen sowie Un-ternehmen, die für ihre KI-Anwendungen Individuallösungen durch Dritte oder Open-Source-Software nutzen, sehen hier eine weniger gute Positionierung als der Durchschnitt der Unternehmen, während die Nutzer kom-merzieller KI-Softwarepakete die Cloud-Situation in Deutschland besser beurteilen.
+Große Unternehmen bewerten den Standort Deutschland dagegen schlechter in Bezug auf das KI-Fachkräfte-angebot. Dies kann daran liegen, dass die meisten kleinen und jungen Unternehmen mit aktivem KI-Einsatz von Personen mit KI-Kompetenzen gegründet wurden. Ältere und große Unternehmen müssen dagegen von Beginn an auf dem Arbeitsmarkt aktiv werden, um KI einsetzen zu können. Eine besonders ungünstige Fach-kräftesituation sehen außerdem Unternehmen, die KI auf Basis von Open-Source-Software oder kommerziel-len KI-Softwarepaketen einsetzen. Die Offenheit der Gesellschaft in Deutschland gegenüber dem Thema KI wird von den älteren und großen Unternehmen besser beurteilt. Demgegenüber sehen die Nutzer von Open-Source-KI-Software und kommerziellen KI-Softwarepaketen dies deutlich kritischer. Dasselbe Muster zeigt sich in Bezug auf die Finanzierung von KI-Investitionen. Die schlechteren Beurteilungen von Unternehmen, die KI auf Basis nicht selbst entwickelter oder nicht spezifisch an ihre Bedürfnisse angepasster Software nutzen, mag damit zusammenhängen, dass sich diese Unternehmen weniger intensiv mit dem Thema KI auseinander-setzen und über weniger interne KI-Kompetenzen verfügen. Das macht sie weniger attraktiv für KI-Fachkräfte und erschwert die Beschaffung interner oder externer Mittel für KI-Projekte. Auch dürften diese KI-Nutzer im
+[Page #21]
+H E R A U S F O R D E R U N G E N I N K I A K T I V
+N U T Z E N D E N U N T E R N E H M E N 22
+Durchschnitt mit ihren KI-Anwendungen weniger erfolgreich sein und häufiger auf Hemmnisse stoßen, was die ungünstigere Bewertung der Offenheit der Gesellschaft gegenüber KI zum Teil begründen mag. Eine an-dere Untersuchung (vgl. Rammer 2021, Rammer et al. 2021) hat gezeigt, dass der wirtschaftliche Erfolg von KI dann besonders groß ist, wenn Unternehmen eigene KI-Entwicklungsaktivitäten und externe KI-Lösungen kombinieren. Die Unternehmen, die ihre KI auf Open-Source-Software oder kommerziellen Softwarepaketen basieren, weisen jedoch keine interne Softwareentwicklung im KI-Bereich auf.
+Tabelle 5:
+Bewertung des Standorts Deutschland bei KI-relevanten Standortfaktoren: Unterschiede nach Al-ter, Größe, Branche, KI-Reifegrad und KI-Software
+Abweichung vom Durchschnittswert* in %-Punkten
+Datensicher-heit
+Datenschutz-regulierung
+Cloud-Ange-bote mit ho-her Sicherheit
+Fachkräftean-gebot
+Offenheit der Gesellschaft
+Datenverfüg-barkeit, Zu-gang zu exter-nen Daten
+Finanzierung von KI-Investi-tionen
+Gründungsjahr 2010 oder später 2000 bis 2009 1990 bis 1999 vor 1990
+-1 0 -6 8
+-4 -6 9 5
+-1 0 3 -3
+0 -6 10 -4
+0 -5 1 5
+-10 5 2 9
+-7 2 3 6
+Beschäftigtenzahl weniger als 10 Beschäftigte 10 bis 49 Beschäftigte 50 bis 249 Beschäftigte 250 oder mehr Beschäftigte
+-1 -6 10 20
+-11 1 19 17
+-4 1 3 8
+1 4 -7 -13
+-2 2 -7 12
+-6 4 6 -3
+-7 3 1 16
+Branchengruppe verarbeitendes Gewerbe IT-Dienstleistungen Beratungsdienstleistungen sonstige Branchen
+-16 1 9 -5
+-8 0 3 2
+0 -2 5 -11
+0 0 1 -5
+5 -6 2 2
+14 -5 0 -11
+10 -8 3 -2
+KI-Reifegrad produktive Nutzung Erstanwendungsfälle
+4 0
+-2 -2
+1 -2
+6 -5
+4 -1
+0 -1
+-4 1
+Experimentierstadium
+-6
+6
+3
+0
+-3
+1
+4
+Art der KI-Software selbst entwickelte Software Individuallösung durch Dritte Open-Source-Software
+0 -2 -5
+1 -2 5
+1 -9 -8
+6 -2 -12
+4 6 -14
+-4 14 -7
+3 10 -16
+kommerzielles Softwarepaket
+3
+-6
+8
+-9
+-9
+5
+-9
+Zum Wortlaut der abgefragten Standortfaktoren siehe Abbildung 5. * Der Durchschnittswert wurde berechnet, indem der Anteil der Antworten "besser" mit dem Faktor 2, der Anteil der Antworten "gleich gut" mit dem Faktor 1 und der Anteil der Antworten "schlechter" mit dem Faktor 0 gewichtet wurde und die drei gewichteten Anteilswerte aufsummiert wurden. Der angezeigte Wert gibt die Differenz zwischen dem Wert der betrachteten Teilgruppe und dem Wert für alle befragten Unternehmen an. Quelle: KI-Befragung 2020 (n=515)
+Beim Standortfaktor Datenverfügbarkeit und Zugang zu externen Daten zeigen sich zum einen deutliche Un-terschiede nach dem Unternehmensalter (jüngere Unternehmen bewerten die Standortsituation deutlich schlechter) und der Branche (eher positive Beurteilung durch die Industrie, eher negative durch die sonstigen Branchen). Unternehmen, deren KI-Anwendungen auf individualisierter, von Dritten entwickelter Software beruhen, beurteilen den Standortfaktor Datenverfügbarkeit deutlich besser als andere Gruppen von KI-Nut-zern.
+[Page #22]
+23
+H E R A U S F O R D E R U N G E N I N K I A K T I V N U T Z E N D E N U N T E R N E H M E N
+2.6 Länder mit Vorbildcharakter bei KI-Themen
+Die Unternehmen wurden in Bezug auf die o.a. Standortfaktoren gefragt, ob sie ein Land nennen können, das bei dem jeweiligen Standortfaktor als Vorbild dienen kann. Am häufigsten wurden Vorbildländer in Bezug auf die Finanzierung von KI-Investitionen und das KI-Fachkräfteangebot genannt, am seltensten in Bezug auf Da-tenschutzregulierungen, Datensicherheit und Cloud-Angeboten (Abbildung 6). Zu diesen drei Standortfaktoren ist zu beachten, dass viele Unternehmen die Situation in Deutschland besser als im internationalen Vergleich beurteilen. In diesen Fällen wurde vermutlich häufig eher kein Vorbildland genannt als Deutschland selbst als Vorbildland zu benennen.
+Abbildung 6:
+Standortfaktoren, zu denen KI-aktive Unternehmen ein Land als Vorbild genannt haben
+Finanzierung von Investitionen in KI
+Fachkräfteangebot im Bereich KI
+Offenheit der Gesellschaft gegenüber dem Einsatz von KI
+Datenverfügbarkeit, Möglichkeiten zur Nutzung externer Daten
+Cloud-Angebote mit hohen Sicherheitsstandards
+Maßnahmen zur Datensicherheit
+Regulierung im Bereich Datenschutz
+70Anteil an allen KI aktiv nutzenden Unternehmen in %
+Quelle: KI-Befragung 2020 (n=515)
+Das Land, das am häufigsten als Vorbildland angeführt wurde, ist die USA (vgl. Tabelle 6). Sie wurden mit Ab-stand am häufigsten in Bezug auf Cloud-Angebote, Datenverfügbarkeit, Finanzierung und Fachkräfteangebot genannt. In manchen Bereichen dürften auch Größeneffekte eine Rolle spielen, etwa was die Finanzierungssi-tuation betrifft, da z.B. der Wagniskapitalmarkt in den USA vom absoluten Volumen her sehr groß ist und sich damit für ein einzelnes Unternehmen grundsätzlich sehr umfangreiche Finanzierungsmöglichkeiten ergeben. Ähnliches gilt für das KI-Fachkräfteangebot, das in einem großen Land natürlich absolut höher ist, während in Europa die Arbeitsmärkte - auch aufgrund sprachlicher Barrieren - noch stark national abgegrenzt sind, was die Mobilität der KI-Fachkräfte behindert. Folgerichtig ist auch China bei Finanzierung und Fachkräften das am zweithäufigsten genannte Vorbildland. Die USA und China liegen auch in Bezug auf die Offenheit der Gesell-schaft gegenüber KI vorne. Breiter gestreut sind die Vorbildländer in Bezug auf Datensicherheit und Daten-schutzregulierung. Beim Thema Datensicherheit erhielt Deutschland den höchsten Anteil an Nennungen (19 %), beim Thema Datenschutz liegen die USA mit 23 % vor Deutschland.
+Weitere Länder, die häufig als Vorbildländer angegeben wurden, sind Schweden, die Schweiz, Estland und Finnland (jeweils zu Datensicherheit und Datenschutz, Schweden und Estland zusätzlich auch in Bezug auf die Offenheit der Gesellschaft gegenüber KI), Japan und Südkorea (Offenheit der Gesellschaft gegenüber KI, Japan auch in Bezug auf Finanzierung) sowie Indien (Fachkräfteangebot).
+[Page #23]
+H E R A U S F O R D E R U N G E N I N K I A K T I V
+N U T Z E N D E N U N T E R N E H M E N 24
+Tabelle 6:
+Länder, die bei unterschiedlichen Standortfaktoren für KI als Vorbild gelten können
+Anteil des Landes an allen Nennungen je Standortfaktor in % USA China Deutschland Schweden Schweiz Estland Japan Finnland Südkorea Niederlande Dänemark Frankreich Indien Großbritannien Israel
+Finanzierung von Investitio-nen in KI
+Fachkräfteange-bot im Bereich KI
+Offenheit der Gesellschaft ge-genüber KI
+Datenverfügbar-keit, externe Da-ten-nutzung
+Cloud-Angebote mit hohen Si-cherheitsstan-dards 67 1 9 3 4 1 1 2 1 2 1 1 0 3 0
+Maßnahmen zur Datensicherheit
+Regulierung im Bereich Daten-schutz
+52 23 1 1 1 1 4 1 2 0 1 3 0 2 2
+50 20 0 1 2 2 3 1 1 0 0 1 9 1 3
+39 20 1 4 1 4 8 1 7 3 1 2 0 1 2
+63 12 0 4 1 3 2 2 1 2 1 1 0 2 0
+15 6 19 15 10 7 3 5 3 2 3 3 0 1 1
+23 5 14 12 9 7 2 4 1 4 5 2 0 1 1
+Zum Wortlaut der abgefragten Standortfaktoren siehe Abbildung 6. Quelle: KI-Befragung 2020 (n=515)
+2.7 Maßnahmen zur Stärkung des KI-Standorts Deutschland
+Um die Prioritäten zur Stärkung des KI-Standorts Deutschland aus Sicht der KI aktiv nutzenden Unternehmen zu erfassen, wurden die Unternehmen gefragt, was aus Sicht der Unternehmen die Bundesregierung als Aller-erstes machen müsste, um die Entwicklung und Nutzung von KI in Deutschland weiter voranzubringen.3 Das am häufigsten genannte Aktionsfeld ist Finanzierung/Förderung (Abbildung 7). Für 35 % ist dies der priori-täre Maßnahmenbereich. Dahinter folgen die Verbesserung der IT-Infrastruktur (22 %), Fachkräfte/Qualifizie-rung (19 %) sowie Awareness der Öffentlichkeit gegenüber KI (19 %). Weitere Maßnahmenfelder wurden von einem deutlich geringeren Anteil der Unternehmen genannt. Dazu zählen der Datenschutz (9 %), die Rechtssi-cherheit bei der Nutzung von KI (8 %), die Datenverfügbarkeit (7 %) sowie der Wissenstransfer aus der Wis-senschaft (7 %), zu der auch Nennungen zur Stärkung der wissenschaftlichen Grundlagenforschung zu KI hin-zugezählt wurden. Nur ein sehr kleiner Teil der Unternehmen (3 %) gab an, dass die Bundesregierung nichts Spezielles zum Thema KI unternehmen müsse.
+3 Zu dieser Frage gab es keine vorgegebenen Antwortkategorien, sondern die Antwortpersonen in den Unternehmen konnten spontan den aus ihrer Sicht wichtigsten Bereich, zu dem die Bundesregierung aktiv werden sollte, nennen. Die meisten Unternehmen nannten einen prioritären Maßnahmenbereich, ein kleinerer Teil gab zwei und wenige drei aus Sicht der Unternehmen gleich wichtige Bereiche an. Die Angaben wurden nachträglich zu den in Abbildung 7 gezeigten Kategorien zusammengefasst.
+[Page #24]
+25
+H E R A U S F O R D E R U N G E N I N K I A K T I V N U T Z E N D E N U N T E R N E H M E N
+Abbildung 7:
+Prioritäre Maßnahmenbereiche für die Bundesregierung, um die Entwicklung und Nutzung von KI in Deutschland weiter voranzubringen
+Finanzierung/Förderung
+IT-Infrastruktur
+Fachkräfte/Qualifizierung
+Awareness der Öffentlichkeit
+Datenschutz
+Rechtssicherheit
+Datenverfügbarkeit
+Wissenstransfer aus Wissenschaft
+Cloudangebote
+Bürokratieabbau
+KI-Strategie
+Internationalisierung
+Datensicherheit
+Standardisierung
+KI in öffentlicher Verwaltung
+keine
+Anteil an allen KI aktiv nutzenden Unternehmen in %
+Quelle: KI-Befragung 2020 (n=492)
+Das wichtigste Aktionsfeld Finanzierung/Förderung wird insbesondere von jüngeren Unternehmen und Un-ternehmen aus den IT-Dienstleistungen genannt, während es etwas ältere und größere Unternehmen sowie Unternehmen aus dem verarbeitenden Gewerbe seltener als prioritäre Maßnahmen angeführt haben (Tabelle 7). Die Verbesserung der IT-Infrastruktur ist dagegen den älteren und den mittelgroßen Unternehmen ein grö-ßeres Anliegen. Auch sehen die Unternehmen, die KI bereits produktiv nutzen, hier etwas häufiger den wich-tigsten Handlungsbedarf auf Seiten der Bundesregierung. Das Thema Fachkräfte/Qualifizierung brennt vor allem den Großunternehmen unter den Nägeln. Maßnahmen im Bereich Awareness der Öffentlichkeit gegen-über KI-Anwendungen wird überdurchschnittlich häufig von Unternehmen aus den sonstigen Branchen ge-nannt.
+Von den weniger oft genannten Maßnahmenbereichen fällt auf, dass das Thema Datenschutz aus Sicht der gro-ßen Unternehmen seltener Priorität hat, während Maßnahmen zur Erhöhung der Rechtssicherheit für Unter-nehmen mit einem hohen KI-Reifegrad eine größere Rolle spielen.
+[Page #25]
+H E R A U S F O R D E R U N G E N I N K I A K T I V
+N U T Z E N D E N U N T E R N E H M E N 26
+Tabelle 7:
+Prioritäre Maßnahmenbereiche für die Bundesregierung, um die Entwicklung und Nutzung von KI in Deutschland weiter voranzubringen: Unterschiede nach Alter, Größe, Branche, KI-Reifegrad und KI-Software
+Abweichung vom Durchschnittswert* in %-Punkten
+Finanzie-rung/ Förder.
+IT-Infra-struktur
+Fach-kräfte/ Qualifiz.
+Aware-ness Öf-fentl.
+Daten-schutz
+Rechts-sicher-heit
+Daten-verfüg-barkeit
+Wiss.-transfer Wiss.
+Cloud-ange-bote
+Bürokra-tieabbau
+KI-Stra-tegie
+Datensi-cherheit
+Gründungsjahr 2010 oder später 2000 bis 2009 1990 bis 1999 vor 1990
+8 1 -12 -2
+-3 -1 3 4
+-2 5 -3 1
+-2 2 3 -2
+0 -3 2 2
+3 -3 1 -3
+1 0 -2 1
+0 -2 2 1
+1 -2 0 1
+2 -1 0 -3
+1 -1 -1 1
+-1 -1 2 -1
+Beschäftigtenzahl weniger als 10 Beschäftigte 10 bis 49 Beschäftigte 50 bis 249 Beschäftigte 250 oder mehr Beschäftigte
+1 1 -1 -11
+2 -4 8 -1
+-1 -3 5 16
+-1 1 -1 2
+-1 2 3 -6
+1 1 -4 -2
+-2 3 -6 5
+0 -1 2 -1
+1 1 -1 -4
+2 -2 -1 -1
+1 -1 -2 2
+0 1 -3 0
+Branchengruppe verarbeitendes Gewerbe IT-Dienstleistungen Beratungsdienstleistungen sonstige Branchen
+-9 7 -1 -3
+3 -3 1 -1
+3 -4 2 -2
+-2 1 -3 13
+-1 2 -1 -1
+-3 1 0 2
+0 1 -1 -1
+-1 2 -1 -3
+-1 1 1 -2
+-1 -1 2 -2
+-3 3 0 -4
+0 -3 2 3
+KI-Reifegrad produktive Nutzung Erstanwendungsfälle
+1 0
+3 0
+0 3
+-1 2
+0 2
+5 -4
+-2 1
+1 -1
+2 -2
+4 -3
+1 -1
+-1 1
+Experimentierstadium
+-1
+-3
+-5
+-1
+-3
+0
+2
+0
+0
+-1
+0
+-1
+Art der KI-Software selbst entwickelte Software Individuallösung durch Dritte Open-Source-Software
+2 4 -6
+-4 8 -1
+0 2 2
+-2 2 4
+1 -5 0
+1 -4 -1
+2 -6 4
+2 -4 -3
+0 1 -3
+0 -3 -2
+1 -2 -2
+-1 -2 3
+kommerzielles Softwarepaket
+-6
+6
+-1
+1
+1
+2
+-4
+-1
+0
+3
+-1
+3
+* Der angezeigte Wert gibt die Differenz zwischen dem Anteilswert der positiven Antworten in der betrachteten Teilgruppe und dem Anteilswert der positiven Antworten für alle befragten Unternehmen an. Quelle: KI-Befragung 2020 (n=492)
+[Page #26]
+27
+P O T E N Z I A L E F Ü R D I E A K T I V E N U T Z U N G V O N K I
+3. Potenziale für die aktive Nutzung
+von KI
+Neben der Stärkung der KI-Aktivitäten in den KI bereits aktiv nutzenden Unternehmen ist der Einstieg von Un-ternehmen in die aktive KI-Nutzung eine zweite wichtige Komponente, um die Verbreitung von KI-Technolo-gien in der Wirtschaft zu erhöhen. Um das Potenzial für die Ausweitung der aktiven Nutzung von KI zu unter-suchen sowie Ansatzpunkte zu identifizieren, die zu einer höheren Ausschöpfung dieses Potenzials beitragen können, wurden Unternehmen ohne aktive KI-Nutzung gefragt,
+• in welcher Form sie systematisch Daten für ihre Geschäftstätigkeit nutzen, • aus welchen Gründen sie derzeit KI nicht aktiv nutzen, • welche Voraussetzungen für sie notwendig wären, um in eine aktive KI-Nutzung einzusteigen.
+Da die aktive Nutzung von KI bestimmte Fähigkeiten und Ressourcen im Unternehmen voraussetzt, wurde die Untersuchung zum KI-Potenzial auf Unternehmen eingeschränkt, die eine gewisse Affinität zur Nutzung von KI aufweisen, d.h. über "Digitalkompetenzen" verfügen. Konkret wurde dies über den Einsatz von digitalen Ele-menten im Geschäftsmodell der Unternehmen gemessen. Hierzu wurden Informationen aus der Deutschen Innovationserhebung 2020 genutzt (vgl. Rammer und Schubert 2021). Unternehmen mit Digitalkompetenzen wurden definiert als solche, für die zumindest eines der folgenden digitalen Elemente eine hohe Bedeutung für ihr aktuelles Geschäftsmodell hat:
+• digitale Plattformen für Vertrieb der eigenen Produkte und Dienstleistungen (z.B. Internet-Handelsplattfor-
+men),
+• die Nutzung von sozialen Netzwerken, insbesondere für die Kundengewinnung und die Pflege der Kontakte
+zu Kunden,
+• die Individualisierung von Produkten über digitale Kanäle (wie z.B. personalisierte Angebote), • Methoden digitaler Preisdifferenzierung (z.B. Freemium-Angebote), • Nutzung digitaler Quellen zum Sammeln von Daten (z.B. zum Kundenverhalten), • digitale Integration von Lieferanten und anderen Geschäftspartnern, • Einsatz von digitalen Medien und Werkzeugen, um Innovationsideen zu sammeln ("Crowdsourcing").
+Des Weiteren wurden Unternehmen einbezogen, für die aufgrund von vorliegenden Informationen Hinweise auf die aktive Nutzung von KI vorlagen (auf Basis von Angaben auf der Unternehmens-Webseite, in KI-Ver-zeichnissen, in FuE-Förderdaten oder in Geschäftstätigkeitsbeschreibungen), die in der vorliegenden Befra-gung aber angaben, KI derzeit nicht aktiv zu nutzen.
+[Page #27]
+P O T E N Z I A L E F Ü R D I E A K T I V E N U T Z U N G V O N K I 28
+3.1 Systematische Nutzung von Daten in Unternehmen ohne aktive KI-
+Nutzung
+Eine wichtige Voraussetzung für die aktive Nutzung von KI ist eine gewisse Kompetenz im Umgang mit Daten. Dazu zählt zum einen, dass Daten, die in Geschäftsprozessen anfallen, gesammelt, aufbereitet und für Analysen zugänglich gemacht werden. Zum anderen sind spezifische Kenntnisse und Methoden notwendig, um solche Daten effektiv zu nutzen. Hierzu zählen Methoden des Datenmanagements und der Analyse von Daten. Um den Stand des Umgangs mit Daten in den Unternehmen, die aktuell KI nicht aktiv nutzen, zu erfassen, wurden sechs Formen der systematischen Datennutzung unterschieden. Sie reichen von Kenntnissen der Beschäftigten zu Datenmanagement und -analysen und die Beschäftigung von Personal, das hauptsächlich für die Erfassung und Analyse von Daten zuständig ist, über die Nutzung von Vertriebs- und Marketingdaten, Prozessdaten aus Maschinen und Anlagen sowie Daten aus Online-Quellen bis zur Erfassung und Auswertung von Echtzeitdaten. Abbildung 8 zeigt die Häufigkeit, mit der die Unternehmen ohne aktive KI-Nutzung diese einzelnen Formen nutzen. Während Kenntnisse zu Datenmanagement und -analysen relativ weit verbreitet sind (62 %), beschäf-tigen nur relativ wenige Unternehmen Personal, das sich schwerpunktmäßig mit der Datenerfassung und -ana-lyse befasst (24 %). Mehr als die Hälfte der Unternehmen mit Digitalkompetenzen (53 %) nutzt Daten aus On-line-Quellen, um Kundenbedürfnisse zu identifizieren und Marketingstrategien zu entwickeln.
+Abbildung 8:
+Formen der systematischen Nutzung von Daten in Unternehmen mit Digitalkompetenzen, die der-zeit KI nicht aktiv nutzen
+Unser Unternehmen verfügt über Mitarbeiter mit spezifischenKenntnissen im Bereich Datenmanagement und Datenanalyse
+Unser Unternehmen nutzt Daten aus Online-Quellen, umKundenbedürfnisse zu identifizieren und Marketingstrategien zuentwickeln.
+Unser Unternehmen nutzt systematisch Vertriebs- und Marketing-Daten, um Produkt- und Dienstleistungsangebote besser aufKundenbedürfnisse zuzuschneiden.
+In unserem Unternehmen werden Echtzeit-Daten erfasst undausgewertet, z.B. im Rahmen von Produktions-, Vertriebs- oderLogistikprozessen.
+Unser Unternehmen nutzt Prozessdaten von Maschinen undAnlagen, um die Effizienz von Verfahren und Geschäftsprozessenzu verbessern.
+Unser Unternehmen beschäftigt Mitarbeiter, die hauptsächlich fürdie Erfassung und Analyse von Daten tätig sind.
+Anteil an allen KI nicht aktiv nutzenden Unternehmen in %
+KI nicht aktiv nutzende Unternehmen: Unternehmen ohne aktive KI-Nutzung, die digitale Elemente in ihren Geschäftsmodellen einsetzen. Quelle: KI-Befragung 2020 (n=435)
+Die systematische Nutzung von Vertriebs- und Marketingdaten, um Produktangebote besser auf Kundenbe-dürfnisse zuzuschneiden, ist in 42 % der Unternehmen vorhanden. Ein relativ großer Anteil - 38 % - erfasst und analysiert Echtzeit-Daten, z.B. im Rahmen von Produktions-, Vertriebs- oder Logistikprozessen. Dieser
+[Page #28]
+29
+P O T E N Z I A L E F Ü R D I E A K T I V E N U T Z U N G V O N K I
+hohe Wert ist vor dem Hintergrund zu sehen, dass die Gruppe der betrachteten Unternehmen hohe Digital-kompetenzen aufweist, die sich häufig auf die Nutzung digitaler Werkzeuge im Bereich Vertrieb und Marketing sowie der digitalen Vernetzung mit Lieferanten und Kunden bezieht. Prozessdaten aus Maschinen und Anlagen werden von 29 % der Unternehmen genutzt, um damit die Effizienz von Verfahren und Geschäftsprozessen zu verbessern. Dieser Anteilswert ist ebenfalls als hoch einzustufen, da viele der befragten Unternehmen sehr klein und im Dienstleistungsbereich tätig sind, wo solche Prozessdaten aus Maschinen und Anlagen selten an-fallen.
+Betrachtet man die systematische Nutzung von Daten differenziert nach Unternehmensmerkmalen (Tabelle 8), zeigen sich besonders große Unterschiede in Bezug auf die Nutzung von Echtzeit-Daten und Prozessdaten aus Maschinen und Anlagen. Hier sind es vor allem die mittleren und großen sowie die alten Unternehmen, die sol-che Daten systematisch nutzen. Auch ist die Nutzung im verarbeitenden Gewerbe deutlich weiter verbreitet. Generell weisen Unternehmen, die KI passiv nutzen (d.h. KI-Anwendungen Dritter indirekt einsetzen, z.B. über die Nutzung von Vertriebsplattformen oder soziale Medien, auf denen KI-Anwendungen implementiert sind) häufiger eine systematische Datennutzung auf als Unternehmen, die KI gar nicht nutzen.
+Tabelle 8:
+Formen der systematischen Nutzung von Daten in Unternehmen mit Digitalkompetenzen, die der-zeit KI nicht aktiv nutzen: Unterschiede nach Alter, Größe, Branche und passiver KI-Nutzung
+Abweichung vom Durchschnittswert* in %-Punkten
+Datenmanage-ment/-analyse-Kompetenz
+Nutzung von On-line-Datenquel-len
+Nutzung von Marketing-/Ver-triebsdaten
+Nutzung von Echtzeit-Daten
+Nutzung von Pro-zessdaten von Maschinen/ An-lagen
+Eigene Mitarbei-ter für Datener-fassung und -analyse
+Gründungsjahr 2010 oder später 2000 bis 2009 1990 bis 1999 vor 1990
+8 -8 -4 9
+1 -3 -4 8
+-3 -4 -1 9
+-14 -1 0 10
+-12 -4 -1 13
+1 -3 0 3
+Mitarbeiterzahl weniger als 10 Mitarbeiter 10 bis 49 Mitarbeiter 50 bis 249 Mitarbeiter 250 oder mehr Mitarbeiter
+-7 -3 13 21
+-3 3 2 -8
+-6 -1 9 12
+-15 2 12 37
+-10 -1 14 25
+-9 -5 22 18
+Branchengruppe verarbeitendes Gewerbe IT-Dienstleistungen Beratungsdienstleistungen sonstige Branchen
+-3 -1 8 -2
+4 -7 3 -4
+4 -3 -8 2
+10 -5 -16 1
+17 -6 -9 -11
+-2 -3 2 2
+Passive KI-Nutzung keine passiv
+-3 0
+-8 11
+-7 12
+4 6
+-2 4
+-4 5
+nicht bekannt**
+5
+0
+-3
+-16
+-3
+1
+Zum Wortlaut der abgefragten Formen der systematischen Datennutzung siehe Abbildung 8. Unternehmen ohne aktive KI-Nutzung, die digitale Elemente in ihren Geschäftsmodellen einsetzen. * Der angezeigte Wert gibt die Differenz zwischen dem Anteilswert der positiven Antworten in der betrachteten Teilgruppe und dem Anteilswert der positiven Antworten für alle befragten Unternehmen an. ** Unternehmen mit Hinweisen zu aktiver KI-Nutzung, die in der Befragung angaben, dass sie aktuell KI nicht aktiv nutzen. Quelle: KI-Befragung 2020 (n=435)
+[Page #29]
+P O T E N Z I A L E F Ü R D I E A K T I V E N U T Z U N G V O N K I 30
+Des Weiteren zeigt sich, dass alte Unternehmen bei der systematischen Datennutzung weiter vorangeschritten sind als junge Unternehmen. Dies deutet darauf hin, dass der Aufbau der hierfür notwendigen internen Ab-läufe und Fähigkeiten viel Zeit in Anspruch nimmt. Große Unternehmen weisen mit einer Ausnahme ebenfalls häufiger eine systematische Datennutzung auf. Die Ausnahme betrifft die Nutzung von Online-Datenquellen, die bei kleinen und mittelgroßen Unternehmen häufiger anzutreffen ist. Personen, die vor allem mit dem Ma-nagement und der Analyse von Daten befasst sind, werden vor allem in mittleren und großen Unternehmen beschäftigt.
+3.2 Verzichtsgründe von Unternehmen mit Digitalkompetenzen
+Der am häufigsten zutreffende Grund, warum Unternehmen mit Digitalkompetenzen KI nicht aktiv nutzen, ist das Fehlen eines erkennbaren Bedarfs. Dieser Verzichtsgrund trifft auf 58 % der befragten Unternehmen voll und ganz und auf 30 % teilweise zu (Abbildung 9). Weitere wichtige Gründe, KI nicht aktiv zu nutzen, sind die fehlenden Kompetenzen der Mitarbeiter zu KI-Methoden, das fehlende Wissen über mögliche KI-Anwendun-gen, Schwierigkeiten der Integration von KI in bestehende Systeme, ein fehlender Nachweis des Mehrwerts von KI gegenüber anderen Methoden, die fehlende Zeit, sich mit dem Thema KI zu befassen sowie zu hohe Kos-ten der Einführung von KI.
+Abbildung 9:
+Zutreffen von Gründen, warum Unternehmen mit Digitalkompetenzen KI nicht aktiv nutzen
+voll und ganz
+teilweise
+nicht
+Kein erkennbarer Bedarf für KI
+Fehlende Kompetenzen der Mitarbeiter zu KI-Methoden
+Schwierigkeiten der Integration von KI in bestehende Systeme
+Fehlender Nachweis des Mehrwerts von KI ggü. and. Methoden
+Zu hohe Kosten der Einführung von KI
+Keine Zeit, um sich mit dem Thema KI zu befassen
+Fehlende externe Unterstützung zum Einsatz von KI
+Fehlendes Wissen über mögliche KI-Anwendungen
+Zu hohe Anforderungen an den Datenschutz
+Zu hohe Anforderungen an die Datensicherheit
+Fehlende Finanzierungsmittel für Investitionen in KI
+Fehlender Datenzugang bzw. mangelnde Datenverfügbarkeit
+Unzureichende Qualität der verfügbaren Daten
+Mangelnde Akzeptanz unter den Mitarbeitern
+Anteil an allen KI nicht aktiv nutzenden Unternehmen in %
+KI nicht aktiv nutzende Unternehmen: Unternehmen ohne aktive KI-Nutzung, die digitale Elemente in ihren Geschäftsmodellen einsetzen. Quelle: KI-Befragung 2020 (n=435)
+[Page #30]
+31
+P O T E N Z I A L E F Ü R D I E A K T I V E N U T Z U N G V O N K I
+Datenschutzfragen und Aspekte der Datensicherheit spielen demgegenüber eine weniger wichtige Rolle. Die geringste Bedeutung für den Verzicht auf die aktive KI-Nutzung haben eine fehlende Finanzierung für KI-In-vestitionen (trifft für 60 % nicht zu) und eine mangelnde Akzeptanz unter den Beschäftigten (trifft für 66 % nicht zu).
+Zusätzlich zu den in Abbildung 9 angeführten Verzichtsgründen wurden die Unternehmen nach weiteren Gründen gefragt, warum sie KI nicht aktiv nutzen. Hier wurden folgende Gründe häufiger genannt:
+• die Kleinheit des Unternehmens, • fehlendes Technologieangebot für KI-Anwendungen, • fehlendes Kundeninteresse, • fehlendes Personal (d.h. absolute Knappheit an Beschäftigten, das sich dem Thema KI widmen kann), • eine unzureichende technische Infrastruktur im Unternehmen, • die Abhängigkeit von externen Anbietern, • rechtliche Unsicherheiten, • ethische Fragen.
+Unter den Unternehmen mit Digitalkompetenzen, die KI nicht aktiv nutzen, spielt der fehlende Bedarf vor al-lem bei kleinen und jüngeren Unternehmen eine größere Rolle als Verzichtsgrund (Tabelle 9). Vor allem aber sehen Unternehmen, die KI bereits passiv nutzen, keinen erkennbaren Bedarf für eine aktive Nutzung. Hier scheinen die Angebote von Plattformbetreibern und anderen Anbietern von KI-Lösungen, die Unternehmen indirekt nutzen können, hinreichend für die Bedarfe der Unternehmen zu sein. Keinen erkennbaren Bedarf für KI sehen außerdem die Unternehmen mit geringer Intensität der Datennutzung. Fehlende KI-Kompetenzen im Unternehmen werden interessanterweise insbesondere von IT-Dienstleistern gesehen. Dies mag daran liegen, dass diese Unternehmen gut einschätzen können, welche methodischen Fertigkeiten benötigt werden, um KI effektiv anzuwenden. Da sie nicht über diese Fertigkeiten verfügen, nehmen sie von einer aktiven KI-Nutzung Abstand. Fehlendes Wissen über mögliche KI-Anwendungen spielt in dieser Gruppe dagegen kaum eine Rolle. Hier sind es mehr die sonstigen Branchen, denen Wissen über KI-Einsatzmöglichkeiten fehlt.
+IT-Integrationsprobleme halten vor allem ältere Unternehmen, Unternehmen in den sonstigen Branchen und Unternehmen, die KI gar nicht nutzen, davon ab, in die aktive KI-Nutzung einzusteigen. Startups sehen dage-gen hier keinen Verzichtsgrund. Dies gilt auch in Bezug auf einen fehlenden Nachweis des Mehrwerts von KI gegenüber anderen Methoden. Hier sind es neben den alten Unternehmen vor allem die sonstigen Branchen, die Unternehmen, die KI auch nicht passiv nutzen, sowie die Unternehmen mit einer mittleren Datennutzungs-intensität, die keinen Mehrwert von KI-Verfahren sehen und daher KI nicht aktiv nutzen.
+Zu hohe Kosten spielen zum einen für Startups und zum anderen für alte Unternehmen und mittelgroße Unter-nehmen eine wichtigere Rolle, um auf den aktiven KI-Einsatz zu verzichten. Beratungsdienstleister sehen da-gegen Kosten nicht als einen wichtigen Verzichtsgrund. Dies gilt ebenfalls für jene Unternehmen, für die Hin-weise zu einer KI-Aktivität aus externen Quellen vorlagen, die aber KI nicht aktiv nutzen. Bei ihnen dürfte es sich häufig um Unternehmen handeln, die KI-bezogene Dienstleistungen anbieten. Diese verzichten - im Ver-gleich zu anderen Unternehmen mit Digitalkompetenzen - deshalb häufiger auf KI, weil sie keinen Mehrwert
+[Page #31]
+P O T E N Z I A L E F Ü R D I E A K T I V E N U T Z U N G V O N K I 32
+des KI-Einsatzes gegenüber anderen Methoden ausmachen können. Hohe Kosten berichten außerdem Unter-nehmen mit einer mittleren Datennutzungsintensität als wichtigeren Verzichtsgrund, während Unternehmen mit geringer Datennutzungsintensität den Kostenfaktor geringer gewichten.
+Tabelle 9:
+Zutreffen von Gründen, warum Unternehmen mit Digitalkompetenzen KI nicht aktiv nutzen: Unter-schiede nach Alter, Größe, Branche, passiver KI-Nutzung und Datennutzungsintensität
+Abweichung vom Durchschnittswert* in %-Punkten
+kein Be-darf
+fehlende Kompe-tenzen
+fehlen-des Wis-sen
+IT-Integ-rations-prob-leme
+fehlen-der Mehr-wert-nach-weis
+keine Zeit
+zu hohe Kosten
+hohe Daten-schutz-anforde-rungen
+feh-lende Unter-stützung
+fehlen-der Da-tenzu-gang
+unzurei-chende Daten-qualität
+Daten-sicher-heits-anfor-derun-gen
+feh-lende Fi-nanzie-rung
+man-gelnde Akzep-tanz der Be-schäft.
+Gründungsjahr 2010 oder später 2000 bis 2009 1990 bis 1999 vor 1990
+0 6 -1 -7
+-10 0 12 -10
+0 6 -6 1
+-28 -4 13 6
+-23 4 0 11
+4 1 5 -11
+10 -19 4 9
+4 2 3 -9
+-16 3 7 -1
+-1 -2 3 -1
+-8 0 7 -5
+3 5 5 -15
+5 6 4 -15
+-17 3 7 -1
+Mitarbeiterzahl wen. als 10 Mitarb. 10 bis 49 Mitarb. 50 bis 249 Mitarb. 250 od.m. Mitarb.
+12 4 -21 -30
+-14 13 2 -10
+-4 5 -5 10
+-12 1 15 15
+-3 1 6 -6
+-10 4 10 2
+-8 7 4 -7
+-5 2 9 -15
+-1 2 1 -12
+-5 7 -5 -3
+-8 1 4 33
+1 -3 7 -13
+3 -3 0 6
+-9 4 4 16
+Branchengruppe verarb. Gewerbe IT-Dienstleist. Beratungsdienstl. sonstige Branchen
+1 -3 -1 0
+0 21 -18 6
+-1 -30 -10 16
+5 -10 -6 1
+5 -2 -22 10
+-2 7 -13 9
+8 -4 -20 5
+-3 -16 -6 11
+-10 -23 -14 26
+1 -7 0 1
+6 -1 2 -8
+-4 -10 -1 7
+-9 0 -1 11
+4 -22 -13 10
+KI-Nutzung keine passiv
+16 28
+10 1
+6 1
+6 11
+25 -4
+7 5
+4 -5
+5 9
+10 -13
+-13 0
+-5 0
+11 7
+-17 -5
+3 3
+nicht bekannt**
+-2
+-3
+8
+-4
+13
+-4
+-14
+-17
+-5
+-1
+-2
+-16
+-3
+-5
+Datennutzung sehr intensiv intensiv mittel
+-7 -10 1
+-5 -2 11
+-1 0 4
+1 4 4
+-10 6 13
+-2 -4 10
+1 -1 9
+3 -5 6
+-1 -4 13
+-1 -4 6
+1 -4 5
+4 -7 8
+-11 0 15
+-3 -6 6
+gering
+13
+-3
+-3
+-7
+-7
+-4
+-8
+-5
+-7
+-2
+-3
+-5
+-3
+2
+Zum Wortlaut der abgefragten Verzichtsgründe siehe Abbildung 9. Unternehmen ohne aktive KI-Nutzung, die digitale Elemente in ihren Geschäftsmodellen einsetzen. * Der Durchschnittswert wurde berechnet, indem der Anteil der Antworten "voll und ganz" mit dem Faktor 2, der Anteil der Antworten "teilweise" mit dem Faktor 1 und der Anteil der Antworten "nicht" mit dem Faktor 0 gewichtet wurde und die drei gewichteten Anteilswerte aufsummiert wurden. Der angezeigte Wert gibt die Differenz zwischen dem Wert der betrachteten Teilgruppe und dem Wert für alle befragten Unternehmen an. ** Unternehmen mit Hinweisen zu aktiver KI-Nutzung, die in der Befragung angaben, dass sie aktuell KI nicht aktiv nutzen. Quelle: KI-Befragung 2020 (n=435)
+Hohe Datenschutzanforderungen halten insbesondere jüngere, kleine bis mittelgroße Unternehmen und Un-ternehmen aus den sonstigen Branchen von einer aktiven KI-Nutzung ab. Auch sehen hier Unternehmen, die KI bereits passiv nutzen, häufiger einen Verzichtsgrund. In Bezug auf einen fehlenden Zugang zu externen (öf-fentlichen) Daten sind die Unterschiede dagegen deutlich geringer. Hier stechen einzig die Unternehmen mit Digitalkompetenzen und ohne passive KI-Nutzung hervor, insofern als für sie dieser Verzichtsgrund eine be-sonders niedrige Bedeutung hat.
+[Page #32]
+33
+P O T E N Z I A L E F Ü R D I E A K T I V E N U T Z U N G V O N K I
+Sehr hohe Unterschiede zeigen sich in Bezug auf die fehlende externe Unterstützung zu KI-Fragen. Dies ist für Unternehmen aus den sonstigen Branchen ein besonders wichtiger Grund, nicht in die aktive KI-Nutzung ein-zusteigen. Auch hier weisen die Unternehmen mit einer mittleren Datennutzungsintensität einen deutlich hö-heren Anteilswert auf – genauso wie diese Gruppe generell die verschiedenen Verzichtsgründe höher bewer-tet. Dies mag daran liegen, dass sie in eine systematische Datennutzung bereits eingestiegen sind und damit die verschiedenen Schwierigkeiten und Herausforderungen für eine produktive Nutzung von KI besser beur-teilen können als Unternehmen, die kaum oder gar nicht Daten systematisch für ihre Geschäftstätigkeit nutzen.
+Eine unzureichende Datenqualität spielt für die meisten Unternehmen eine untergeordnete Rolle für den Ver-zicht auf eine aktive KI-Nutzung. Eine wesentliche Ausnahme stellen die großen Unternehmen dar, für die die-ser Verzichtsgrund einer der wichtigsten überhaupt ist. Hohe Datensicherheitsanforderungen, die mit KI-An-wendungen einhergehen, sind für junge und kleine Unternehmen eher ein Grund, KI nicht aktiv zu nutzen. Für alte und große Unternehmen sowie IT-Dienstleister spielt dieser Verzichtsgrund dagegen kaum eine Rolle.
+In Bezug auf die beiden insgesamt am seltensten genannten Verzichtsgründe zeigen sich einige Auffälligkeiten: Eine fehlende Finanzierung spielt für alte Unternehmen und für Unternehmen, die KI gar nicht (d.h. auch nicht passiv) nutzen, kaum eine Rolle. Demgegenüber sehen Unternehmen in den sonstigen Branchen und mit einer mittleren Datennutzungsintensität hier deutlich häufiger einen Grund, auf eine aktive Nutzung von KI zu ver-zichten. Eine mangelnde Akzeptanz der Beschäftigten spielt bei Startups und Kleinstunternehmen sowie bei IT-Dienstleistern faktisch gar keine Rolle, während Großunternehmen hier häufiger einen Grund für den Ver-zicht auf die aktive KI-Nutzung sehen.
+3.3 Voraussetzungen für den Einstieg in die aktive KI-Nutzung
+Die Voraussetzungen, die aus Sicht der Unternehmen notwendig sind, damit sie in die aktive KI-Nutzung ein-steigen, spiegeln nur zum Teil die Verzichtsgründe wider. Der am häufigsten genannte Faktor, der die Wahr-scheinlichkeit erhöhen würde, KI aktiv zu nutzen, ist eine staatliche finanzielle Förderung. Für 44 % der Unter-nehmen mit Digitalkompetenzen, aber ohne aktive KI-Nutzung würde dieser Faktor die Wahrscheinlichkeit stark erhöhen, für weitere 27 % weniger stark und nur für 29 % gar nicht (Abbildung 10). Dieses Ergebnis überrascht, da nur wenige Unternehmen aufgrund fehlender Finanzierungsmöglichkeiten KI nicht aktiv nut-zen. Hier ist zu vermuten, dass staatliche Förderungen zur Kofinanzierung des technologischen Risikos, das mit der Entwicklung eigener KI-Anwendungen einhergeht, genutzt werden sollen.
+Am zweithäufigsten wird der Faktor, das Vertrauen der Nutzer und Anwender in KI zu erhöhen, genannt. Für 71 % spielt er eine Rolle bei der Entscheidung in die aktive KI-Nutzung einzusteigen. 70 % gaben eine Verbes-serung der IT-Infrastruktur als relevanten Faktor an, wobei bei 46 % dieser Faktor die Wahrscheinlichkeit des KI-Einstiegs sogar stark erhöhen würde. Datenschutzkonforme Cloud-Angebote mit höchster Datensicherheit sehen 43 % als einen Faktor, der die Einstiegswahrscheinlichkeit stark erhöhen würde.
+Die Verfügbarkeit von Daten aus öffentlichen Quellen, Awareness-Maßnahmen im Bereich der Öffentlichkeit, Weiterbildungsangebote für die Beschäftigten und Anpassungen bei Datenschutz spielen demgegenüber eine
+[Page #33]
+P O T E N Z I A L E F Ü R D I E A K T I V E N U T Z U N G V O N K I 34
+geringere Rolle. Der Faktor, dem am seltensten eine starke Wirkung auf die aktive KI-Nutzung zugesprochen wird, ist ein größeres Angebot an Fachkräften mit KI-Kompetenzen. Dies kontrastiert stark mit der hohen Be-deutung fehlender Kompetenzen der Beschäftigten im Bereich KI-Methoden. Offenbar stellt für viele Unterneh-men die Anstellung von Personal, das diese Kompetenzen mitbringt, keine prioritäre Strategie dar, um die in-ternen Voraussetzungen für die aktive Nutzung von KI zu verbessern.
+Abbildung 10: Faktoren, die die Wahrscheinlichkeit in Unternehmen mit Digitalkompetenzen beeinflussen, KI ak-
+tiv zu nutzen
+stark
+weniger stark
+gar nicht
+Verbesserung der technischen Ausstattung im Bereich IT
+Staatliche finanzielle Förderung des Einsatzes von KI
+Cloud-Angebote, die datenschutzkonform sind und höchsteDatensicherheit gewährleisten
+Mehr Vertrauen von Nutzern und Anwendern in KI
+Umfassendere Information der Öffentlichkeit über KI und denNutzen von KI-Anwendungen
+Verfügbarkeit großer Datenmengen aus öffentlichen Quellen
+Mehr Angebote zur Weiterbildung von Beschäftigten zum ThemaKIAnpassung des Datenschutzes, um KI-basierte Datenanalysen zuerleichtern
+Größeres Angebot an Fachkräften mit KI-Kompetenzen
+1050Anteil an allen KI nicht aktiv nutzenden Unternehmen in %
+KI nicht aktiv nutzende Unternehmen: Unternehmen ohne aktive KI-Nutzung, die digitale Elemente in ihren Geschäftsmodellen einsetzen. Quelle: KI-Befragung 2020 (n=435)
+Differenziert nach Unternehmensmerkmalen, der passiven KI-Nutzung und der Intensität der Datennutzung zeigen sich eine Reihe von Unterschieden in der Bewertung der einzelnen Voraussetzungen (Tabelle 10):
+• Eine staatliche Förderung des KI-Einsatzes wird von jüngeren und größeren Unternehmen, von IT-Dienst-leistern und von Unternehmen, die KI bereits passiv nutzen, als eine besonders wichtige Voraussetzung ge-sehen.
+• Der Aufbau von Vertrauen von Nutzern und Kunden in KI-Anwendungen ist für Unternehmen, die Daten für ihre Geschäftstätigkeit bereits sehr intensiv nutzen, von sehr hoher Priorität, um aktiv in KI einzusteigen. Dies gilt für kleine bis mittelgroße Unternehmen und passive KI-Nutzer.
+• Die Verbesserung der IT-Infrastruktur ist für Unternehmen, die zwischen 10 und 20 Jahre alt sind, sowie
+für Großunternehmen eine besonders wichtige Voraussetzung, während für IT-Dienstleister eine Verbesse-rung der IT-Infrastruktur die Wahrscheinlichkeit eines Einstiegs in die aktive KI-Nutzung kaum beeinflus-sen würde.
+[Page #34]
+35
+P O T E N Z I A L E F Ü R D I E A K T I V E N U T Z U N G V O N K I
+• Datenschutzkonforme Cloud-Angebote mit höchsten Sicherheitsstandards sind vor allem für Unternehmen mit einer mittleren bis höheren Datennutzungsintensität sowie für Unternehmen der Beratungsdienstleis-tungen und für jüngere Unternehmen wichtige Faktoren, die zu einem Einstieg in die aktive KI-Nutzung führen könnten.
+Tabelle 10:
+Faktoren, die die Wahrscheinlichkeit in Unternehmen mit Digitalkompetenzen beeinflussen, KI ak-tiv zu nutzen: Unterschiede nach Alter, Größe, Branche, passiver KI-Nutzung und Datennutzungsin-tensität
+Abweichung vom Durchschnittswert* in %-Punkten
+Verbesse-rung IT-Infrastruk-tur
+Aware-ness der Öffentlich-keit
+Weiterbil-dungsan-gebote
+Daten-schutzan-passung
+staatliche Förderung
+Vertrauen der Nutzer
+Cloud-An-gebote
+Datenver-fügbarkeit
+Fachkräf-teangebot
+Gründungsjahr 2010 oder später 2000 bis 2009 1990 bis 1999 vor 1990
+1 12 0 -13
+-11 1 1 5
+-10 15 -6 -2
+10 8 -7 -7
+6 4 -1 -8
+-8 0 -2 8
+-6 -1 1 4
+-10 10 1 -6
+-11 6 1 0
+Mitarbeiterzahl weniger als 10 Mitarbeiter 10 bis 49 Mitarbeiter 50 bis 249 Mitarbeiter 250 oder mehr Mitarbeiter
+-13 2 17 6
+-16 7 13 1
+-5 1 0 20
+-4 2 5 -11
+-5 3 4 -7
+-9 5 8 -10
+-19 2 25 19
+-8 0 15 -4
+-18 2 23 20
+Branchengruppe verarbeitendes Gewerbe IT-Dienstleistungen Beratungsdienstleistungen sonstige Branchen
+0 10 1 -3
+-2 -8 0 4
+3 -39 4 4
+-14 2 15 4
+-17 17 12 5
+-4 -10 -3 9
+-1 13 3 -5
+-5 8 3 1
+1 8 4 -6
+Passive KI-Nutzung keine passiv
+-3 15
+-9 16
+-3 16
+-15 20
+-6 6
+0 5
+-8 17
+-10 17
+-5 13
+nicht bekannt**
+-14
+-5
+-15
+3
+3
+-8
+-7
+-3
+-8
+Datenkompetenzniveau sehr hoch hoch mittel
+8 6 10
+21 3 6
+3 9 7
+-1 9 13
+1 0 17
+-2 13 17
+14 6 4
+14 -4 0
+6 7 4
+gering
+-21
+-27
+-16
+-18
+-16
+-22
+-21
+-10
+-14
+Zum Wortlaut der abgefragten Faktoren siehe Abbildung 10. Unternehmen ohne aktive KI-Nutzung, die digitale Elemente in ihren Geschäftsmodellen einsetzen. * Der Durchschnittswert wurde berechnet, indem der Anteil der Antworten "stark" mit dem Faktor 2, der Anteil der Antworten "weniger stark" mit dem Faktor 1 und der Anteil der Antworten "gar nicht" mit dem Faktor 0 gewichtet wurde und die drei gewichteten Anteilswerte aufsummiert wurden. Der angezeigte Wert gibt die Differenz zwischen dem Wert der betrachteten Teilgruppe und dem Wert für alle befragten Unternehmen an. ** Unternehmen mit Hinweisen zu aktiver KI-Nutzung, die in der Befragung angaben, dass sie aktuell KI nicht aktiv nutzen. Quelle: KI-Befragung 2020 (n=435)
+• Die Verfügbarkeit großer Datenmengen aus öffentlichen Quellen spielt vor allem für IT-Dienstleister und
+für Berater eine große Rolle.
+• Die umfassendere Information der Öffentlichkeit über KI und den Nutzen von KI-Anwendungen ist für Un-ternehmen mit einer mittleren bis höheren Datennutzungsintensität besonders wichtig für die Entschei-dung, KI aktiv zu nutzen.
+[Page #35]
+P O T E N Z I A L E F Ü R D I E A K T I V E N U T Z U N G V O N K I 36
+• Mehr Angebote zur Weiterbildung von Beschäftigten zum Thema KI sehen mittelgroße und große Unter-nehmen sowie Unternehmen mit einer sehr hohen Datennutzungsintensität als besonders wichtig an. • Anpassung des Datenschutzes, um KI-basierte Datenanalysen zu erleichtern, würde die Wahrscheinlichkeit des Einstiegs in eine aktive KI-Nutzung insbesondere bei mittelgroßen Unternehmen, bei Unternehmen mit einer sehr hohen Datennutzungsintensität und bei 10 bis 20 Jahre alten Unternehmen stark erhöhen. • Ein größeres Angebot an Fachkräften mit KI-Kompetenzen würde vor allem die Bereitschaft von mittleren
+und großen Unternehmen, eine aktive KI-Nutzung aufzunehmen, stark positiv beeinflussen.
+Unternehmen mit einer geringen Datennutzungsintensität bewerten sämtliche angeführten Faktoren als weni-ger wichtig im Vergleich zu Unternehmen mit mittlerer oder hoher Datennutzungsintensität. Dies bedeutet, dass ein Einstieg in die aktive KI-Nutzung für diese Unternehmen zunächst über den Aufbau einer internen Datenkompetenz gehen müsste. Erst wenn diese gegeben ist, dürften spezifische Maßnahmen zur Diffusion von KI-Anwendungen in dieser Gruppe greifen. Auf der anderen Seite bewerten Unternehmen, die KI bereits passiv nutzen, alle Faktoren stärker als Unternehmen mit gar keiner KI-Nutzung oder Unternehmen, die sich mit dem Thema KI befassen, KI aber nicht aktiv nutzen. Dies deutet darauf hin, dass die passive KI-Nutzung einen Zwischenschritt darstellen kann, der die Unternehmen auf die Entwicklung und Einführung eigener KI-Anwendungen vorbereitet. Insofern versprechen die Förderung einer passiven KI-Nutzung und der Fokus von Einstiegsmaßnahmen auf diese Gruppe besonders rasche Fortschritte bei der Verbreitung von KI in der Wirt-schaft.
+3.4 Ansatzpunkte, um Potenziale für eine aktive Nutzung von KI zu er-
+schließen
+Die Analysen in den vorangegangenen Abschnitten haben gezeigt, dass es unter den Unternehmen, die bisher KI nicht aktiv nutzen, sehr wohl Potenzial für den Einstieg in eigene KI-Anwendungen gibt. Dieses Potenzial zu heben, kann ein wichtiger Beitrag sein, um die Anzahl der Unternehmen in der deutschen Wirtschaft, die KI aktiv nutzen, deutlich zu steigern. Im Jahr 2019 setzten rund 17.500 Unternehmen (im Berichtskreis der Deut-schen Innovationserhebung4) KI aktiv ein (Rammer et al. 2020). Gleichzeitig gab es rund 93.000 Unternehmen, die über Digitalkompetenzen in der hier verwendeten Definition (d.h. digitale Elemente haben eine hohe Be-deutung für das Geschäftsmodell) verfügen (Rammer und Schubert 2021). In dieser Gruppe ist somit ein er-hebliches Potenzial vorhanden, sich intensiver und aktiv mit dem Thema KI auseinanderzusetzen.
+Um den Umfang dieses Potenzials einzuschätzen und Ansatzpunkte zu identifizieren, wie dieses Potenzial durch wirtschafts-, technologie- und innovationspolitische Maßnahmen erschlossen werden kann, wird der Zusammenhang zwischen den von den Unternehmen genannten Voraussetzungen, um in die aktive Nutzung von KI einzusteigen, einerseits und den Formen der systematischen Datennutzung sowie der Bedeutung ver-schiedener Gründe, auf den aktiven KI-Einsatz zu verzichten, andererseits, untersucht. In Bezug auf die in den Unternehmen bereits vorhandenen Datennutzungsformen zeigt sich das größte Potenzial für Unternehmen, die über Beschäftigte mit spezifischen Kenntnissen zu Datenmanagement und -analyse verfügen, wenn diesen
+4 Unternehmen mit 5 oder mehr Beschäftigten in der produzierenden Industrie (Wirtschaftszweige 5 bis 39) und den überwiegend un-ternehmensorientierten Dienstleistungen (Wirtschaftszweige 46, 49 bis 53, 58 bis 66, 69, 70.2, 71 bis 74, 78 bis 82).
+[Page #36]
+37
+P O T E N Z I A L E F Ü R D I E A K T I V E N U T Z U N G V O N K I
+eine verbesserte IT-Infrastruktur zur Verfügung stünde (Tabelle 11). Diese Gruppe repräsentiert 30 % aller Unternehmen mit Digitalkompetenzen und ohne aktive KI-Nutzung. Fast ähnlich hoch ist das Potenzial in Be-zug auf Unternehmen, die Online-Datenquellen nutzen, um Kundenbedürfnisse zu identifizieren und Marke-tingstrategien zu entwickeln. In dieser Gruppe - die sich mit der ersten stark überschneidet - würden 28 % der Unternehmen eine verbesserte IT-Infrastruktur als Voraussetzung für den Einstieg in die aktive KI-Nutzung sehen. Eine verbesserte IT-Infrastruktur ist außerdem für Unternehmen, die Marketing- und Vertriebsdaten sowie Echtzeit-Daten in ihrer Geschäftstätigkeit nutzen, wichtig für die mögliche Einführung von KI-Anwen-dungen im Unternehmen. Unternehmen, die eine dieser vier Formen von systematischer Datennutzung auf-weisen, würden auch am stärksten auf eine staatliche KI-Förderung ansprechen. Eine verbesserte Verfügbar-keit öffentlicher Daten ist ein vergleichsweise wichtiger Faktor für Unternehmen, die Kompetenzen in der Nut-zung von Online-Datenquellen aufweisen. Für Unternehmen, die Echtzeit-Daten nutzen, sind Verbesserungen bei Weiterbildung und Fachkräfteangebot überproportional wichtig.
+Tabelle 11:
+Zusammenhang zwischen systematischer Datennutzung und Faktoren, die die Wahrscheinlichkeit beeinflussen, KI aktiv zu nutzen
+Faktoren, die die Wahrscheinlichkeit stark beeinflussen, KI aktiv zu nutzen Awareness der Öffent-lichkeit
+Verbesserung IT-Infrastruk-tur
+staatliche Förderung
+Weiterbil-dungsange-bote
+Datenverfüg-barkeit
+Cloud-Ange-bote
+Vertrauen der Nutzer
+Datenschutz-anpassung
+Fachkräftean-gebot
+Potenzial in %* Datennutzung
+Datenmanagement
+30
+26
+22
+23
+19
+14
+18
+15
+14
+Online-Datenquellen
+28
+23
+20
+21
+18
+15
+14
+14
+11
+Marketingdaten
+22
+19
+15
+18
+13
+11
+11
+13
+9
+Prozessdaten
+16
+13
+11
+13
+9
+5
+10
+8
+7
+Echtzeit-Daten
+22
+19
+12
+16
+14
+8
+11
+11
+10
+Data Scientists
+12
+10
+9
+10
+7
+5
+9
+6
+6
+Zum Wortlaut der abgefragten Formen systematischer Datennutzung siehe Abbildung 8 und der abgefragten Faktoren Abbildung 9. Unternehmen ohne aktive KI-Nutzung, die digitale Elemente in ihren Geschäftsmodellen einsetzen. * Der angezeigte Wert gibt den Anteil an allen KI nicht aktiv nutzenden Unternehmen mit Digitalkompetenzen an, die die jeweilige Form der systemati-schen Datennutzung aufweisen und für die gleichzeitig der jeweilige Faktor die Wahrscheinlichkeit einer aktiven KI-Nutzung stark beeinflussen würde. Quelle: KI-Befragung 2020 (n=435)
+Unternehmen, die aufgrund eines fehlenden erkennbaren Bedarfs für KI-Anwendungen auf einen aktiven Ein-satz verzichten, würden durch eine Vielzahl von Faktoren einen Einstieg in die aktive KI-Nutzung für wahr-scheinlich halten (Tabelle 12). Dies gilt am stärksten für die Verbesserung der IT-Infrastruktur, aber auch für eine staatliche Förderung, für datenschutzkonforme Cloud-Angebote mit höchsten Sicherheitsstandards und für Maßnahmen, um das Vertrauen der Nutzer in KI-Anwendungen zu steigern. Eine staatliche KI-Förderung würde auch viele Unternehmen ansprechen, die wegen fehlender interner KI-Kompetenzen derzeit von einer aktiven Nutzung Abstand nehmen. Diese Gruppe sieht auch Weiterbildungsangebote sowie Anpassungen beim Datenschutz vergleichsweise häufig als notwendige Voraussetzungen an, um KI-Anwendungen im Unterneh-men einzuführen.
+[Page #37]
+P O T E N Z I A L E F Ü R D I E A K T I V E N U T Z U N G V O N K I 38
+Tabelle 12:
+Zusammenhang zwischen Verzichtsgründen, KI aktiv zu nutzen, und Faktoren, die die Wahrschein-lichkeit beeinflussen, KI aktiv zu nutzen
+Faktoren, die die Wahrscheinlichkeit stark beeinflussen, KI aktiv zu nutzen Awareness der Öffent-lichkeit
+Verbesse-rung IT-Inf-rastruktur
+staatliche Förderung
+Weiterbil-dungsange-bote
+Vertrauen der Nutzer
+Datenver-fügbarkeit
+Cloud-An-gebote
+Daten-schutzan-passung
+Fachkräfte-angebot
+Potenzial in %* Verzichtsgrund kein Bedarf fehlende Kompeten-zen IT-Integrationsprob-leme fehlender Mehr-wertnachweis zu hohe Kosten keine Zeit mangelnde Unterstützung fehlendes Wissen hohe Datenschutzan-forderungen Datensicherheitsan-forderungen fehlende Finanzierung fehlender Datenzugang unzureichende Datenqualität mangelnde Akzep-tanz der Beschäft.
+26
+19
+17
+18
+16
+13
+9
+10
+9
+19
+19
+13
+15
+15
+10
+13
+11
+10
+19
+16
+11
+14
+12
+9
+10
+9
+8
+15
+13
+10
+13
+11
+7
+9
+6
+7
+13
+14
+9
+10
+9
+6
+9
+8
+6
+13
+14
+10
+10
+11
+8
+9
+9
+9
+14
+13
+10
+10
+12
+7
+9
+6
+9
+13
+12
+11
+9
+11
+6
+9
+8
+6
+12
+12
+9
+10
+8
+6
+7
+11
+7
+10
+9
+7
+8
+6
+5
+6
+9
+6
+9
+11
+7
+6
+6
+5
+6
+5
+4
+9
+7
+7
+6
+7
+7
+5
+3
+4
+8
+6
+5
+5
+5
+5
+4
+4
+4
+5
+4
+1
+4
+3
+2
+3
+3
+3
+Zum Wortlaut der abgefragten Verzichtsgründe siehe Abbildung 9 und der abgefragten Faktoren Abbildung 10. Unternehmen ohne aktive KI-Nutzung, die digitale Elemente in ihren Geschäftsmodellen einsetzen. * Der angezeigte Wert gibt den Anteil an allen KI nicht aktiv nutzenden Unternehmen mit Digitalkompetenzen an, für die der jeweilige Verzichtsgrund voll und ganz zutrifft und für die gleichzeitig der jeweilige Faktor die Wahrscheinlichkeit einer aktiven KI-Nutzung stark beeinflussen würde. Quelle: KI-Befragung 2020 (n=435)
+Ein verbessertes Fachkräfteangebot würde diese Gruppe ebenfalls besonders stark motivieren. Datenschutz-anpassungen wären außerdem eine Maßnahme, die die Wahrscheinlichkeit der Aufnahme aktiver KI-Nutzung unter den Unternehmen, die wegen zu hoher Datenschutzanforderungen derzeit darauf verzichten, stark erhö-hen würde. Hiermit können rund 11 % der Unternehmen mit Digitalkompetenzen und ohne aktive KI ange-sprochen werden, was deutlich weniger ist als das Potenzial, das durch Maßnahmen in den Bereichen IT-Infra-struktur und Förderung erreicht werden kann.
+[Page #38]
+39
+L I T E R A T U R
+4. Literatur
+Agrawal, A., J. Gans, A. Goldfarb (2019a): Economic Policy for Artificial Intelligence. Innovation Policy and the Economy 19, 139-159.
+Agrawal, A., J. Gans, A. Goldfarb (Hrsg.) (2019b): The Economics of Artificial Intelligence: An Agenda. Chicago: University of Chicago Press.
+Berg, A. (2021): Künstliche Intelligenz. Wo steht die deutsche Wirtschaft? Berlin: Bitkom.
+Bersch, J., S. Gottschalk, B. Müller, M. Niefert (2014): The Mannheim Enterprise Panel (MUP) and Firm Statistics for Germany. ZEW Discussion Paper No. 14-104. Mannheim: ZEW - Leibniz-Zentrum für Europäische Wirt-schaftsforschung.
+Bresnahan, T.F., E. Brynjolfsson, L. M. Hitt (2002): Information technology, workplace organisation, and the demand for skilled labor: firm-level evidence. Quarterly Journal of Economics 117(1), 339–376.
+Brock, J.K.-U., F. von Wangenheim (2019): Demystifying AI: what digital transformation leaders can teach you about realistic Artificial Intelligence. California Management Review 61(4), 110-134.
+Büchel, J., A. Mertens (2021): KI-Bedarfe der Wirtschaft am Standort Deutschland Eine Analyse von Stellenanzei-gen für KI-Berufe. Köln: Institut der Deutschen Wirtschaft.
+Deloitte (2020): State of AI in the Enterprise –3rd Edition. Ergebnisse der Befragung von 200 AI-Experten zu Künstlicher Intelligenz in deutschen Unternehmen. Hamburg: Deloitte.
+Deloitte (2019): Künstliche Intelligenz in Unternehmen. Eine Befragung von 500 Entscheidern deutscher Unter-nehmen zum Status quo – mit Bewertungen und Handlungsoptionen von PwC. München: Deloitte.
+Demary, V., H. Goecke (2019): IW-Trends 4/2019. Künstliche Intelligenz. Vierteljahresschrift zur empirischen Wirtschaftsforschung 46(4). Köln: Institut der Deutschen Wirtschaft.
+Deming, D.J., K. Noray (2020): Earnings dynamics, changing job skills, and STEM careers. Quarterly Journal of Economics 135(4), 1965–2005.
+Fraunhofer-Gesellschaft (2017): Trends für die Künstliche Intelligenz. München: Fraunhofer-Gesellschaft.
+Haefner, N., J. Wincent, V. Parida, O. Gassmann (2020): Artificial intelligence and innovation management: a review, framework, and research agenda. Technological Forecast and Social Change 162, 120392.
+[Page #39]
+L I T E R A T U R 40
+IUBH (2020): Artificial Intelligence. Die Zukunft künstlicher Intelligenz in deutschen Unternehmen. Trendstudie 2021. Erfurt: IUBH Internationale Hochschule.
+Institut der Deutschen Wirtschaft (2021): KI-Monitor. Status quo der Künstlichen Intelligenz in Deutschland. Gutachten im Auftrag des Bundesverband Digitale Wirtschaft. Köln: Institut der Deutschen Wirtschaft.
+Kinne, J., J. Axenbeck (2020): Web mining for innovation ecosystem mapping: a framework and a large-scale pilot study. Scientometrics 125, 2011-2041.
+Krieger, B., C. Rammer, P. Breithaupt (2020): Identifizierung von Querschnittsthemen in Projekten der Direkten Projektförderung des BMBF. Mannheim: ZEW - Leibniz-Zentrum für Europäische Wirtschaftsforschung.
+Lane, M., A. Saint-Martin (2021): The Impact of Artificial Intelligence on the Labour Market: What Do We Know So Far? OECD Social, Employment and Migration Working Papers No. 256. Paris. OECD Publishing.
+Nolan, A. (2020): Artificial intelligence, digital technology and advanced production. In: OECD (Hrsg.): The Dig-italisation of Science, Technology and Innovation: Key Developments and Policies. Paris: OECD Publishing.
+OECD (2021): AI Measurement in ICT Usage Surveys. A Review. OECD Digital Economy Papers No. 308. Paris. OECD Publishing.
+PwC (2019a): Künstliche Intelligenz in Unternehmen. Eine Befragung von 500 Entscheidern deutscher Unterneh-men zum Status quo - mit Bewertung und Handlungsoptionen von PwC. München: PricewaterhouseCoopers.
+PwC (2019b): Putting a value on data. London: PricewaterhouseCoopers.
+Rammer, C. (2021): Auf Künstliche Intelligenz kommt es an. Beitrag von KI zur Innovationsleistung und Perfor-mance der deutschen Wirtschaft. Berlin: Bundesministerium für Wirtschaft und Energie.
+Rammer, C., T. Schubert (2021): Dokumentation zur Innovationserhebung 2020. Geschäftsmodellinnovationen, Internationalisierung von Innovationsaktivitäten. ZEW-Dokumentation Nr. 21-01. Mannheim: ZEW - Leibniz-Zentrum für Europäische Wirtschaftsforschung.
+Rammer, C., I. Bertschek, B. Schuck, V. Demary, H. Goecke (2020): Einsatz von Künstlicher Intelligenz in der Deutschen Wirtschaft. Stand der KI-Nutzung im Jahr 2019. Berlin: Bundesministerium für Wirtschaft und Ener-gie.
+Rammer, C., G.P. Fernández, D. Czarnitzki (2021): Artificial Intelligence and Industrial Innovation: Evidence from Firm-Level Data. ZEW Discussion Paper No. 21-036. Mannheim: ZEW - Leibniz-Zentrum für Europäische Wirtschaftsforschung.
+Reim, W., J. Aström, O. Eriksson (2020): Implementation of Artificial Intelligence (AI): a roadmap for business model innovation. AI 1(2), 180-191.
+[Page #40]
+41
+L I T E R A T U R
+WIK (2019): Künstliche Intelligenz im Mittelstand. Relevanz, Anwendungen, Transfer. Eine Erhebung der Mittel-stand-Digital Begleitforschung. Bad Honnef: WIK.
+Zimmermann, V. (2021): Künstliche Intelligenz: hohe Wachstumschancen, aber geringe Verbreitung im Mittel-stand. KfW Research Fokus Volkswirtschaft Nr. 318. Frankfurt: KfW
+[Page #41]
+A N H A N G 42
+5. Anhang
+5.1 Stichprobe und Rücklauf der Befragung
+Die befragten Unternehmen umfassten drei Gruppen:
+• KI-aktive Unternehmen, die an der Befragung zum Einsatz von Künstlicher Intelligenz in der Deutschen
+Wirtschaft Ende 2019/Anfang 2020 teilgenommen haben (vgl. Rammer et al. 2020). Diese Gruppe umfasste 365 Unternehmen.
+• Nicht KI-aktive Unternehmen, die in der Innovationserhebung 2020 angegeben haben, dass sie in ihren Ge-schäftsmodellen digitale Elemente nutzen, für die KI-Methoden gleichzeitig aber keine oder nur eine sehr geringe Bedeutung haben (vgl. Rammer und Schubert 2021). Diese Gruppe umfasste 937 Unternehmen. • Unternehmen, die auf Basis von Webseiten-Recherchen (vgl. Kinne und Axenbeck 2020), Startup-Verzeich-nissen, Angaben der Plattform Lernende Systeme, Daten zu FuE-Förderungen durch den Bund (Profi-Da-tenbank, vgl. Krieger et al. 2020) sowie Angaben in der Geschäftstätigkeitsbeschreibung im Mannheimer Unternehmenspanel (vgl. Bersch et al. 2014) als KI-aktive Unternehmen klassifiziert wurden. Diese Gruppe umfasste 2.701 Unternehmen.
+Von diesen insgesamt 4.007 Unternehmen konnten 1.736 während der Feldzeit (29. September bis 9. Novem-ber 2020) nicht erreicht werden und werden als neutrale Ausfälle gewertet. Dieser hohe Anteil ist wohl der schlechten telefonischen Erreichbarkeit von Kontaktpersonen aufgrund von Home-Office-Arbeit geschuldet. Von den 2.271 erfolgreich kontaktierten Unternehmen verweigerten 916 (40,3 %) eine Teilnahme an der Be-fragung. Der Anteil der Verweigerungen ist unter den Unternehmen der dritten Gruppe besonders hoch, wäh-rend die Unternehmen, die zuvor an der Deutschen Innovationserhebung teilgenommen haben, eine sehr hohe Teilnahmebereitschaft gezeigt haben. Mit 951 Unternehmen konnte ein Interview vollständig durchgeführt werden (41,9 % der erfolgreich kontaktierten Unternehmen). Für die restlichen 404 Unternehmen konnte während der Feldzeit kein Interviewtermin vereinbart werden (vgl. Tabelle 13)
+Jede der drei Gruppen wurde einleitend nach dem Vorliegen einer derzeitigen aktiven KI-Nutzung gefragt. Aus der Gruppe der KI-aktiven Unternehmen, die an der Befragung Ende 2019/Anfang 2020 teilgenommen haben, gaben 11,4 % der befragten Kontaktpersonen an, dass das Unternehmen aktuell keine KI-Verfahren aktiv nutzt. In der Gruppe der Unternehmen, die über Hinweise auf Webseiten und in Verzeichnissen, Förderdaten und Geschäftstätigkeitsbeschreibung als vermutlich KI-aktiv klassifiziert wurden, liegt dieser Anteil bei 19,0 %. Umgekehrt berichteten 13,0 % der Unternehmen, die in der Innovationserhebung 2020 angegeben hatten, dass KI keine oder nur eine geringe Bedeutung im aktuellen Geschäftsmodelldes Unternehmens spielt, dass sie derzeit KI aktiv nutzen.
+Entsprechend des Screening-Ergebnisses zum Vorliegen einer aktiven KI-Nutzung wurde den Unternehmen ein unterschiedliches Fragenprogramm präsentiert. 54,3 % der Unternehmen beantworteten die Fragen für Unternehmen mit aktiver KI-Nutzung, 45,7 % die Fragen für Unternehmen ohne aktive KI-Nutzung.
+[Page #42]
+43
+A N H A N G
+Tabelle 13:
+Stichprobenumfang, Ausfälle, Verweigerungen und Anzahl realisierter Interviews in der KI-Befra-gung 2020 nach Teilstichproben
+Anteil2) Inter-views nach KI-Nutzung
+Stichprobe
+nicht erreicht
+Verweigerung
+vollständige Interviews
+%1)
+%1)
+Anzahl
+%
+Anzahl
+%
+Anzahl
+Anzahl
+aktiv
+p./k.
+Teilstichprobe KI-aktive Unternehmen mit Teilnahme an KI-Befragung 2019/20
+365
+100,0
+127
+33,8
+55
+23,1
+49
+62,6
+88,6
+11,4
+Nicht-KI-aktive Unternehmen mit digitalen Geschäftsmodellelementen
+937
+100,0
+268
+28,6
+149
+22,3
+391
+58,4
+13,0
+87,0
+Unternehmen mit Hinweisen zu aktiver KI-Nutzung
+2.705
+100,0
+1.341
+49,6
+712
+52,2
+411
+30,1
+81,0
+19,0
+Gesamt
+4.007
+100,0
+1.736
+43,3
+916
+40,3
+951
+41,9
+54,3
+45,7
+p./k.: passiv oder keine. 1) Anteil an der Stichprobe abzüglich der nicht erreichten Unternehmen. 2) Anteil an vollständigen Interviews. Quelle: ZEW - KI-Befragung 2020
+5.2 Strukturmerkmale und Formen der KI-Nutzung
+Die befragten Unternehmen werden nach drei Strukturmerkmalen unterschieden: Alter, Größe und Branche. In Bezug auf das Gründungsjahr verteilen sich die Unternehmen sehr gleichmäßig auf die drei vergangenen Jahrzehnte (vgl. Abbildung 11): 25 % wurden 2010 bis 2019 gegründet, jeweils 27 % 2000 bis 2009 und 1990 bis 1999. 21 % sind Unternehmen, die vor 1990 gegründet wurden. Der größte Teil der Unternehmen (93 %) zählt zu den KMU, d.h. hat weniger als 250 Beschäftigte. 36 % sind Kleinstunternehmen mit weniger als 10 Be-schäftigten, 40 % sind kleine Unternehmen mit 10 bis 49 Beschäftigten und 17 % mittlere Unternehmen mit 50 bis 249 Beschäftigten. Die Branchenverteilung weist einen Schwerpunkt im Bereich der IT-Dienstleistun-gen (22 %) auf. Diese umfassen Softwareprogrammierung, IT-Beratung, Datenverarbeitung und Hosting-Dienste. 27 % der Unternehmen gehören dem verarbeitenden Gewerbe an, 30 % den Beratungsdienstleistun-gen außerhalb der IT-Beratung (u.a. Ingenieurbüros, Unternehmensberatung, Werbung/PR-Beratung, Steuer-/Rechtsberatung, sonstige wissenschaftlich, technische und kreative Dienstleistungen) und 21 % den sonsti-gen Branchen. Letztere reichen von Baugewerbe über Handel und Transport bis zu verschiedenen Unterneh-mens- und persönlichen Dienstleistungen, ohne dass eine einzelne Branchengruppe einen Anteilswert von mehr als 10 % aufweist.
+[Page #43]
+A N H A N G 44
+Abbildung 11: Verteilung der befragten Unternehmen nach Gründungsjahr, Beschäftigtenanzahl und Branchen-
+gruppe
+Gründungsjahr
+Beschäftigtenanzahl
+Branchengruppe
+vor 199021%
+250+ Mitarbeiter7%
+ab 201025%
+Verarb. Gewerbe27%
+Sonstige Branchen21%
+<10 Mitarbeiter36%
+50-249 Mitarbeiter17%
+Beratung30%
+1990-199927%
+2000-200927%
+10-49 Mitarbeiter40%
+IT-Dienstleistungen22%
+Quelle: ZEW - KI-Befragung 2020, Mannheimer Unternehmenspanel.
+Neben diesen drei Strukturmerkmalen wurde bei der Auswertung auch die Art der KI-Nutzung als Differenzie-rungsmerkmal herangezogen. Hierzu wurden für die KI-aktiven Unternehmen zwei Aspekte betrachtet, näm-lich der Reifegrad des KI-Einsatzes und die Art der Software, auf denen die KI-Anwendungen basieren. Zur Be-stimmung des Reifegrads des KI-Einsatzes im Unternehmen wurde gefragt, welche der drei Aussagen am bes-ten auf das Unternehmen zutrifft:
+• Die Anwendung von KI befindet sich noch im Experimentierstadium. • Es sind erste Anwendungsfälle auf Basis von KI im Einsatz. • KI wird produktiv im Unternehmen genutzt.
+34 % der befragten KI-aktiven Unternehmen nutzten KI produktiv im Unternehmen und 42 % wiesen erste Anwendungsfälle auf, während sich bei 24% der Unternehmen der KI-Einsatz noch im Experimentierstadium befand (vgl. Abbildung 12).
+Die Art der für KI eingesetzten Software wurde nach vier Kategorien unterschieden:
+• selbst entwickelte Software, • Individuallösungen durch externe Softwareanbieter, • Open-Source-Software, • Kommerzielle Softwarepakete zu KI.
+Da viele Unternehmen mehrere Arten des Softwareeinsatzes gemeldet hatten, wurde eine hierarchische Zu-ordnung vorgenommen. In 57 % der KI-aktiven Unternehmen basierten die KI-Anwendungen zumindest teil-weise auf selbst entwickelter Software. 15 % der Unternehmen nutzten Individuallösungen durch externe Softwareanbieter ohne selbst Software für KI zu entwickeln. 11 % der Unternehmen griffen weder auf eigene Softwareentwicklung noch auf Individuallösungen durch externe Anbieter zurück, sondern nutzen Open-
+[Page #44]
+45
+A N H A N G
+Source-Software für KI. 17 % der Unternehmen nutzten keine der drei Softwarearten, sondern griffen auf KI-Softwarepakete von kommerziellen Anbietern zurück.
+Abbildung 12: Verteilung der befragten KI-aktiven Unternehmen nach Reifegrad des KI-Einsatzes und Art der für
+KI eingesetzten Software
+Reifegrad des KI-Einsatzes
+Art der für KI eingesetzten Software
+weder selbst entwickelte KI-Software, Individuallösungen noch Open-Source, sondern kommerzielle Softwarepakete17%
+produktive Nutzung34%
+Experimentierstadium24%
+selbst entwickelte Software57%
+keine selbst entwickelte KI-Software und keine Individuallösungen, sondern Open-Source-Software11%
+keine selbst entwickelte KI-Software, aber Individuallösungen durch externe Softwareanbieter 15%
+erste Anwendungsfälle 42%
+Quelle: ZEW - KI-Befragung 2020.
+Für Unternehmen ohne aktive Nutzung von KI erfolgt eine Differenzierung nach dem Vorliegen einer passiven Nutzung von KI, wie z.B. über Vertriebsplattformen oder soziale Medien, sowie über die Art der systemati-schen Nutzung von Daten in der Geschäftstätigkeit. Von allen befragten Unternehmen ohne aktive KI-Nutzung haben 45 % angegeben, dass sie KI passiv nutzen und 32 %, dass sie KI gar nicht nutzen (vgl. Abbildung 13). Dies betrifft ausschließlich Unternehmen der Stichprobengruppe "Nicht-KI-aktive Unternehmen mit digitalen Geschäftsmodellelementen", da nur diesen die Frage nach passiver KI-Nutzung gestellt wurde. Für 23 % der Nicht-KI-Nutzer liegen keine Angaben zur passiven Nutzung vor, da es sich hier um Unternehmen handelt, zu denen Hinweise auf eine aktive KI-Nutzung aus Webseiten, Verzeichnissen, Förderdaten oder Geschäftstätig-keitsbeschreibungen vorlagen. Diesen Unternehmen wurde die Frage nach passiver Nutzung nicht gestellt.
+Ein weiteres Unterscheidungskriterium ist die Intensität der Datennutzung. Hierfür werden die Ergebnisse zur Frage nach den Formen der systematischen Nutzung von Daten für die Geschäftsaktivitäten des Unternehmens herangezogen (vgl. Abschnitt 3.1). Anhand der Anzahl der unterschiedlichen Formen der Datennutzung wer-den die Unternehmen in vier Gruppen eingeteilt (vgl. Abbildung 13). 26 % der Unternehmen weisen eine sehr hohe Kompetenz bei der Nutzung von Daten für die eigene Geschäftstätigkeit auf, da sie vier oder mehr der angeführten Formen nutzen. Sie werden als sehr intensive Datennutzer bezeichnet. Weitere 21 % weisen drei Arten von systematischer Datennutzung auf ("intensive Nutzer"). 25 % setzten zwei verschiedene Arten syste-matischer Datennutzung ein ("mittlere Intensität") und 28 % weisen eine oder keine Form der systematischen Datennutzung auf ("geringe Intensität").
+[Page #45]
+A N H A N G 46
+Abbildung 13: Verteilung der befragten nicht KI-aktiven Unternehmen nach passiver Nutzung von KI und Intensi-
+tät der Datennutzung
+Passive Nutzung von KI
+Datennutzungsintensität1)
+gar keine KI-Nutzung32%
+nicht bekannt*23%
+sehr intensiv26%
+gering28%
+intensiv21%
+mittel25%
+passive Nutzung45%
+1) sehr intensiv: vier oder mehr Arten der systematischen Datennutzung für Geschäftsaktivitäten, intensiv: drei Arten der systematischen Datennutzung für Geschäftsaktivitäten, mittel: zwei Arten der systematischen Datennutzung für Geschäftsaktivitäten, gering: eine Art der systematischen Datennut-zung für Geschäftsaktivitäten oder keine systematische Datennutzung für Geschäftsaktivitäten. * Unternehmen mit Hinweisen zu aktiver KI-Nutzung, die in der Befragung angaben, dass sie aktuell KI nicht aktiv nutzen. Quelle: ZEW - KI-Befragung 2020.
+Für die Interpretation der nach Strukturmerkmalen und Art der KI-Nutzung differenzierten Ergebnisse ist es nützlich, den Zusammenhang zwischen Strukturmerkmalen auf der einen Seite und Art der KI- bzw. Datennut-zung auf der anderen Seite zu beachten (vgl. Tabelle 14). In Bezug auf den Reifegrad der KI-Nutzung zeigt sich, dass junge und kleine Unternehmen sowie IT- und Beratungsdienstleister deutlich häufiger eine produktive Nutzung aufweisen, während umgekehrt ältere Unternehmen sich häufiger erst im Experimentierstadium be-finden. Mittlere und große Unternehmen sowie Unternehmen aus dem verarbeitenden Gewerbe und aus den sonstigen Branchen haben besonders häufig schon erste Anwendungsfälle implementiert, ohne bereits in die produktive Nutzung eingetreten zu sein.
+Bei der Art der für KI eingesetzten Software sind es die jüngeren Unternehmen, die deutlich häufiger auf ei-gene Softwareentwicklungen setzen. Nach der Größe sind es sowohl kleine wie große Unternehmen, die häufi-ger auf selbst entwickelter Software basierende KI-Anwendungen aufweisen. Nicht überraschend ist, dass un-ter IT-Dienstleistern der Anteil mit selbst entwickelter Software am höchsten ist. Auf individuelle Lösungen durch externe Softwareanbieter greifen besonders häufig die älteren und größeren Unternehmen zurück. O-pen Source Software wird wenn, dann vor allem von den kleinen Unternehmen und in den Beratungsdienst-leistungen eingesetzt. Kommerzielle KI-Programmpakete nutzen insbesondere Unternehmen in den sonstigen Branchen und ältere Unternehmen.
+Die passive Nutzung von KI ist unter älteren und größeren Unternehmen sowie im verarbeitenden Gewerbe und in den sonstigen Branchen häufiger anzutreffen. Der Anteil der Unternehmen, zu denen aus externen In-formationen Hinweise auf eine aktive KI-Nutzung vorlagen, die in der Befragung aber angaben, KI aktuell nicht aktiv zu nutzen, ist unter den jungen und kleinen Unternehmen sowie in den IT-Dienstleistungen und den Be-ratungsdienstleistungen erheblich höher. Bei zumindest einem Teil der Unternehmen könnte es sein, dass sie
+[Page #46]
+47
+A N H A N G
+noch im Entwicklungsstadium des KI-Einsatzes sind. Bei einem anderen Teil dürfte es sich um "KI-Dienstleis-ter" handeln, also Unternehmen, die KI-Lösungen für Dritte entwickeln oder dazu beraten, ohne selbst KI aktiv in ihren Geschäftsprozessen oder Produkten einzusetzen.
+Tabelle 14:
+KI-Reifegrad, Art der KI-Software, passive KI-Nutzung und Datennutzung differenziert nach Alter, Größe und Branche der Unternehmen
+Reifegrad
+Art der Software
+passive KI-Nutzung
+Datennutzung
+Exp.
+Anw.
+Prod.
+eig.
+ind.L.
+OS
+komP
+nein passiv
+n.b.
+s.int.
+int. mit.
+ger.
+Gründungsjahr
+2010-2019
+18
+36
+46
+70
+7
+12
+11
+21
+37
+41
+19
+27
+23
+31
+2000-2009
+21
+48
+31
+61
+13
+8
+18
+34
+43
+24
+18
+20
+30
+31
+1990-1999
+27
+43
+30
+43
+25
+13
+19
+33
+46
+21
+30
+13
+23
+34
+vor 1990
+35
+41
+24
+49
+19
+8
+23
+35
+52
+12
+33
+27
+25
+15
+Beschäftigtenzahl
+<10 Beschäftigte
+21
+36
+43
+63
+11
+11
+15
+26
+43
+31
+18
+16
+26
+41
+10-49 Beschäftigte
+31
+37
+32
+54
+13
+13
+20
+34
+44
+22
+22
+24
+27
+27
+50-249 Beschäftigte
+17
+59
+24
+49
+26
+7
+19
+38
+51
+11
+44
+16
+26
+14
+250 o.m. Beschäftigte
+18
+56
+26
+64
+26
+0
+10
+33
+50
+17
+42
+46
+4
+8
+Branchengruppe
+verarbeitend. Gewerbe
+28
+52
+19
+53
+26
+6
+15
+35
+53
+12
+33
+24
+21
+23
+IT-Dienstleistungen
+23
+36
+41
+72
+7
+10
+11
+23
+26
+51
+23
+10
+36
+31
+Beratungsdienstleist.
+25
+37
+38
+51
+13
+15
+21
+22
+30
+48
+20
+22
+24
+33
+Sonstige Branchen
+19
+52
+29
+39
+25
+6
+29
+37
+52
+11
+22
+19
+28
+31
+Gesamt
+24
+41
+34
+57
+15
+11
+17
+32
+45
+23
+26
+21
+25
+28
+Reifegrad: Exp.: Experimentierstadium, Anw.: erste Anwendungsfälle, Prod.: produktive Nutzung Art der Software: eig.: selbst entwickelte Software, ind.L. individuelle Lösungen durch externe Softwareanbieter (keine selbst entwickelte Software), OS: Open Source Software (keine selbst entwickelte Software, keine individuellen Lösungen durch Externe), komP: kommerzielle Softwarepakete (ohne Nutzung einer der drei anderen Arten) Passive KI-Nutzung: nein: keine KI-Nutzung, passiv: passive Nutzung, n.b.: nicht bekannt, ob passive Nutzung vorliegt (= Unternehmen mit Hinweisen zu aktiver KI-Nutzung, die in der Befragung angaben, dass sie aktuell KI nicht aktiv nutzen) Datennutzung: s.int.: sehr intensiv (= vier oder mehr Arten systematischer Datennutzung für Geschäftsaktivitäten), int.: intensiv (= drei Arten systemati-scher Datennutzung für Geschäftsaktivitäten), mit.: mittel (= zwei Arten systematischer Datennutzung für Geschäftsaktivitäten), ger.: gering (= eine Art von systematischer Datennutzung für Geschäftsaktivitäten oder keine systematische Datennutzung für Geschäftsaktivitäten) Quelle: ZEW - KI-Befragung 2020
+Nicht KI aktiv nutzende Unternehmen mit intensiver Nutzung von Daten in ihren Geschäftsaktivitäten finden sich häufiger unter älteren und größeren Unternehmen sowie im verarbeitenden Gewerbe. Umgekehrt sind es die sehr kleinen Unternehmen, die einen besonders hohen Anteil im Bereich der geringen Nutzung von Daten aufweisen. Dies dürfte daran liegen, dass in vielen dieser Unternehmen aufgrund der Art der Geschäftstätigkeit (z.B. kundenspezifische Beratung, Einzellösungen) keine großen Datenmengen anfallen, sodass sich der Auf-bau von Kompetenzen zur systematischen Datenanalyse nicht lohnt.
+[Page #47]
+A N H A N G 48
+5.3 Fragebogen
+Die Befragung fand in Form eines computer-assistierten Telefoninterviews (CATI) statt. Der hier abgedruckte Fragebogen zeigt die Fragenformulierungen und Antwortmöglichkeiten. Technische Details der CATI-Befra-gung wie Intervieweinleitung (Erstansprache, Identifikation einer geeigneten Kontaktperson im Unterneh-men), Interviewhinweise, ergänzende Definitionen und Erläuterungen sowie das Vorgehen bei Antwortver-weigerung oder fehlenden Informationen zur Beantwortung einer Frage durch die Kontaktperson sind nicht dargestellt.
+Der Fragebogen wurde vom Projektteam (ZEW, IW Köln, FIR/RWTH Aachen) auf Basis von Studien und Be-richten zu den fördernden und hemmenden Faktoren der KI-Nutzung (vgl. Agrawal et al. 2019b, Brock und von Wangenheim 2019, Fraunhofer-Gesellschaft 2017, Haefner et al. 2020, OECD 2021, Nolan 2020, Reim et al. 2020) und den aktuellen Trends bei KI in Deutschland entwickelt (vgl. Deloitte 2019, 2020, PwC 2019a, IUBH 2020, Institut der Deutschen Wirtschaft 2021, Demary und Goecke 2019, WIK 2019, Zimmermann 2021). Ein wesentlicher Input kam von einem Expertenkreis,5 der sich im Rahmen eines Workshops intensiv mit dem Konzept und den Fragestellungen für die Befragung auseinander gesetzt und sehr wertvolle Hinweise zur Ver-besserung des Fragebogens gegeben hat. Das Projektteam dankt den Expertinnen und Experten ebenso wie den Vertreterinnen und Vertretern des Bundeswirtschaftsministeriums,6 die ebenfalls sehr wertvolle Inputs zum Fragebogen gegeben haben.
+5 Michael Colombo (TI.KI), Susanne Dremel (Bitkom), Rainer Hoffmann (EnBW), Carolin Leffler (KI.NRW), Andreas Liebl (UnternehmerTUM), Wolfgang Maaß (DFKI), Tobias Meisen (Uni Wuppertal), Alexander Mihatsch (acatech), Guido Reimann (VDMA), Christin Schäfer (ACS Plus), Joachim Sedlmeir (acatech), Thomas Thiele (Deutsche Bahn), Angelika Voß (KI.NRW) 6 Marco-Alexander Breit, Lutz Gärtner, Manfred Meiss, Dörte Nielandt
+[Page #48]
+49
+A N H A N G
+Befragung zum Einsatz von Künstlicher Intelligenz im Jahr 2020
+Teilstichprobe 1: Teilnehmer der Innovationserhebung 2020, deren Geschäftsmodell digitale Elemente aufweist und für die KI keine oder eine geringe Bedeutung hat
+F1
+In der Innovationserhebung haben Sie angegeben, dass Künstliche Intelligenz für die Geschäftstätigkeit Ihres Unternehmens nur eine geringe oder keine Bedeutung hat. Zu-nächst würde ich gerne wissen, ob Ihr Unternehmen Verfahren der Künstlichen Intelli-genz gar nicht nutzt, ob Sie solche Verfahren passiv nutzen, zum Beispiel wenn Ver-triebsplattformen Dritter oder Social Media Plattformen genutzt werden, auf denen KI angewendet wird, oder ob Sie Künstliche Intelligenz aktiv nutzen, d.h. KI-Verfahren in Produkten oder Prozessen in Ihrem Unternehmen einsetzen. Unter Künstlicher Intelligenz verstehen wir dabei ganz allgemein Techniken der Infor-mationsverarbeitung zur eigenständigen Lösung von Problemen durch Computer, ein-schließlich Methoden des maschinellen Lernens. Nutzt Ihr Unternehmen Künstliche Intelligenz aktiv, passiv oder gar nicht?
+Ja o o o
+Nein o o o
+aktiv passiv gar nicht
+[-> weiter mit Frage F2] [-> weiter mit Frage F12] [-> weiter mit Frage F12]
+Teilstichprobe 2: Teilnehmer KI-Befragung 2019 sowie Startups und KMU mit KI-basierter Geschäfts-tätigkeit
+F2
+Zunächst würden wir gerne wissen, in welcher Form Ihr Unternehmen Künstliche Intel-ligenz nutzt. Unter Künstlicher Intelligenz verstehen wir dabei ganz allgemein Techniken der Infor-mationsverarbeitung zur eigenständigen Lösung von Problemen durch Computer, ein-schließlich Methoden des maschinellen Lernens. Wenn wir von Einsatz von KI sprechen, dann geht es sowohl um Anwendungen bei Produkten, Dienstleistungen oder Prozessen in Ihrem Unternehmen selbst als auch um Forschungs- und Entwicklungsarbeiten zu KI sowie um die Unterstützung des KI-Ein-satzes bei Dritten, wie z.B. Ihren Kunden. Ich lese Ihnen gleich verschiedene Formen der KI-Nutzung vor. Sagen Sie mir bitte je-weils, ob Ihr Unternehmen diese Form derzeit nutzt.
+Ja o o o
+Nein o o o
+Spracherkennung, Sprach- und Textverstehen, Textgenerierung Bild- oder Objekterkennung und Bildverarbeitung Mustererkennung in großen Datenmengen mit Hilfe von maschinel-lem Lernen Algorithmische Entscheidungssysteme und andere Formen der in-telligenten Entscheidungsunterstützung, z.B. Prognosen, Mensch-Maschine-Interaktion, Assistenzsysteme
+o
+o
+[Page #49]
+A N H A N G 50
+Automatisierung von Maschinen, Fahrzeugen oder Geräten zur selbstständigen Ausführung von Operationen (z.B. autonomes Fah-ren, selbstlernende Roboter, autonome Systeme)
+o
+o
+F3 Nutzt Ihr Unternehmen andere als die eben genannten Ansätze der Künstlichen Intelli-
+genz? Falls ja, könnten Sie diese bitte ganz kurz beschreiben?
+o
+Ja:
+_________________________________________________
+o Nein
+[Wenn keine positive Antwort in F2 und "Nein" oder "weiß nicht" in F3, dann weiter mit Frage F12, ansonsten weiter mit Frage F4.]
+F4 Basieren die KI-Anwendungen in Ihrem Unternehmen auf selbst entwickelter Software,
+auf Open Source Software, auf kommerziellen Softwarepaketen oder auf Individuallö-sungen für Ihr Unternehmen durch externe Softwareanbieter?
+Ja o o o o
+Nein o o o o
+selbst entwickelte Software Open Source Software Kommerzielle Softwarepakete zu KI Individuallösungen durch externe Softwareanbieter
+F5 Wie würden Sie den Reifegrad der Anwendung von KI in Ihrem Unternehmen beschrei-
+ben? Ich habe drei Antwortmöglichkeiten zur Auswahl. Bitte nennen Sie mir jene, die am besten auf Ihr Unternehmen zutrifft.
+o
+Die Anwendung von KI befindet sich noch im Experimentierstadium.
+o
+Es sind erste Anwendungsfälle auf Basis von KI im Einsatz.
+o
+KI wird produktiv im Unternehmen genutzt.
+F6 Als nächstes geht es um verschiedene Herausforderungen, denen sich Unternehmen
+beim Einsatz von KI gegenüber sehen können. Zunächst geht es um Herausforderungen im Bereich der internen Organisation. Ich lese Ihnen gleich mögliche Herausforderung vor. Sagen Sie mir bitte jeweils, ob dieser Aspekt ein eher großes Problem, ein eher ge-ringes Problem oder kein Problem für Ihr Unternehmen bei der Nutzung von KI dar-stellt.
+eher groß o
+eher gering o
+keines
+Schwierigkeiten, geeignete Anwendungsfälle für KI zu finden
+o
+[Page #50]
+51
+A N H A N G
+Nachweis des Mehrwerts von KI gegenüber alternativen Metho-den Fehlende Kompetenzen der Mitarbeiter zu KI-Methoden Integration von KI in bestehende Systeme wie z.B. IT-Systeme oder Maschinen Management von rechtlichen und technischen Risiken im Zu-sammenhang mit KI Hohe Kosten der Entwicklung und Implementation von KI Fehlende Bereitschaft der Mitarbeiter, KI-Anwendungen zu ak-zeptieren Fragen der ethischen Verantwortung, wenn Entscheidungen von KI-basierten Systemen getroffen werden
+o
+o
+o
+o o
+o o
+o o
+o
+o
+o
+o o
+o o
+o o
+o
+o
+o
+F7
+In der nächsten Frage geht es um das Thema Daten. Ich lese Ihnen gleich verschiedene Herausforderungen im Bereich Datenzugang und Datennutzung vor. Sagen Sie mir bitte jeweils, ob dieser Aspekt ein eher großes Problem, ein eher geringes Problem oder kein Problem für Ihr Unternehmen bei der Nutzung von KI darstellt.
+eher groß o
+eher gering o
+keines
+Fragen des Datenschutzes im Zusammenhang mit KI-Anwen-dungen Fragen der Datensicherheit bei KI-Anwendungen, z.B. Verhin-derung des unberechtigten Zugriffs Dritter auf Daten Mangelnde Verfügbarkeit von internen Daten, d.h. Daten, die in Ihrem Unternehmen generiert werden Unzureichende Qualität der vorhandenen internen Daten, z.B. fehlende Dokumentation oder mangelnde Systematik Fehlender Zugang zu externen Daten Fehlende methodische Kenntnisse im Umgang mit Daten
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o o
+o o
+o o
+F8
+In der nächsten Frage geht es um die Zusammenarbeit mit Dritten beim Thema KI. Ich lese Ihnen gleich wieder verschiedene mögliche Herausforderungen vor. Sagen Sie mir bitte wieder, ob der jeweilige Aspekt ein eher großes Problem, ein eher geringes Prob-lem oder kein Problem für Ihr Unternehmen bei der Nutzung von KI darstellt.
+eher groß o
+eher gering o
+keines
+Fehlende externe Unterstützung zu KI-Fragen, z.B. schlechter Kundenservice bei Problemen mit KI-Anwendungen Fehlendes Angebot von individuellen KI-Lösungen, d.h. KI-An-wendungen, die spezifisch auf Ihr Unternehmen zugeschnitten sind Fehlendes Vertrauen der Kunden in KI-Lösungen
+o
+o
+o
+o
+o
+o
+o
+[Page #51]
+A N H A N G 52
+Unzureichendes Investitionsbudget der Geschäftspartner zur Umsetzung von KI-Lösungen Fehlende Kooperationsbereitschaft von Hochschulen oder For-schungseinrichtungen zu KI-Fragen
+o
+o
+o
+o
+o
+o
+F9
+In der folgenden Frage geht es um externe Rahmenbedingungen, die aus Sicht Ihres Un-ternehmens besonders wichtig sind, damit KI verstärkt und effektiver genutzt werden kann. Ich lese Ihnen gleich verschiedene Rahmenbedingungen vor. Sagen Sie mir bitte je-weils, ob diese aus Ihrer Sicht wichtig, weniger wichtig oder unwichtig für die ver-stärkte Nutzung von KI sind.
+wichtig weniger wichtig o o
+un- wichtig o o
+Angebot an Fachkräften mit KI-Kompetenzen Anpassung des Datenschutzes, um KI-basierte Datenanaly-sen zu erleichtern Cloud-Angebote, die datenschutzkonform sind und höchste Datensicherheit gewährleisten (z.B. die Initiative GAIA-X) Verbesserung der technischen Ausstattung im Bereich IT (Netzabdeckung, Übertragungsgeschwindigkeit etc.) Umfassendere Information der Öffentlichkeit über KI und den Nutzen von KI-Anwendungen
+o o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+ Mehr Vertrauen von Nutzern und Anwendern in KI
+o
+o
+o
+F10 Abschließend würden wir noch gerne wissen, wo Ihrer Ansicht nach Deutschland beim
+Thema KI im internationalen Vergleich steht. Ich lese Ihnen gleich verschiedene Standortfaktoren für die Entwicklung und Nutzung von KI vor. Sagen Sie mir bitte jeweils, ob Deutschland bei diesem Faktor aus Ihrer Sicht besser, gleich gut oder schlechter im Vergleich zu anderen führenden Industrielän-dern dasteht. Falls Sie zu einem Standortfaktor ein Land kennen, das als Vorbild ange-sehen werden kann, nennen Sie mir bitte dieses Land. Der erste Standortfaktor ist [...]. Steht hier Deutschland im internationalen Vergleich besser, gleich gut oder schlechter dar? Können Sie ein Land nennen, das bei [...] als Vorbild angesehen werden kann? Welches Land kann als Vorbild gelten?
+besser gleich
+schlech-ter o o o
+Vorbildland
+gut o o o
+ Maßnahmen zur Datensicherheit
+o o o
+__________ __________ __________
+Regulierung im Bereich Datenschutz Datenverfügbarkeit und Möglichkeiten zur Nut-zung von externen Daten Cloud-Angebote mit hohen Sicherheitsstandards Finanzierung von Investitionen in KI
+o o
+o o
+o o
+__________ __________
+[Page #52]
+53
+A N H A N G
+Fachkräfteangebot im Bereich KI Offenheit der Gesellschaft gegenüber dem Ein-satz von KI
+o o
+o o
+o o
+__________ __________
+F11 Was müsste aus Ihrer Sicht von der Bundesregierung als Allererstes gemacht werden, um die Entwicklung und Nutzung von KI in Deutschland weiter voranzubringen?
+o
+_______________________________________________________________
+o
+Bundesregierung muss nichts Spezielles tun
+[Ende der Fragen für KI-Nutzer]
+[Beginn der Fragen für KI-Nichtnutzer]
+F12 Wir würden gerne wissen, aus welchen Gründen Ihr Unternehmen KI nicht nutzt. Ich
+lese Ihnen gleich verschiedene mögliche Gründe vor. Sagen Sie mir bitte, ob der Grund voll und ganz zutrifft, teilweise zutrifft oder nicht zutrifft. Zunächst habe ich verschiedene unternehmensinterne Gründe zur Auswahl.
+voll und ganz o o o o
+teil-weise o o o o
+nicht
+Kein erkennbarer Bedarf für KI Keine Zeit, um sich mit dem Thema KI zu befassen Fehlendes Wissen über mögliche KI-Anwendungen Fehlender Nachweis des Mehrwerts von KI gegenüber anderen Methoden Fehlende Kompetenzen der Mitarbeiter zu KI-Methoden
+o o o o
+o
+o
+o
+ Mangelnde Akzeptanz unter den Mitarbeitern
+Schwierigkeiten der Integration von KI in bestehende Systeme Zu hohe Kosten der Einführung von KI
+o o
+o o
+o o
+F13 Und nun habe ich noch verschiedene unternehmensexterne Gründe.
+voll und ganz o o o o o o
+teil-weise o o o o o o
+nicht
+Fehlende Finanzierungsmittel für Investitionen in KI Zu hohe Anforderungen an die Datensicherheit Zu hohe Anforderungen an den Datenschutz Fehlender Datenzugang bzw. mangelnde Datenverfügbarkeit Unzureichende Qualität der verfügbaren Daten Fehlende externe Unterstützung zum Einsatz von KI
+o o o o o o
+[Page #53]
+A N H A N G 54
+F14 Gibt es noch andere als die genannten Gründe, die Ihr Unternehmen von der Nutzung
+von KI abhalten? Falls ja, könnten Sie diese bitte kurz anführen?
+o
+Ja:
+_________________________________________________
+o Nein
+F15
+In der folgenden Frage würden wir gerne wissen, unter welchen Voraussetzungen Ihr Unternehmen Künstliche Intelligenz aktiv nutzen würde. Ich lese Ihnen gleich verschiedene Faktoren vor. Sagen Sie mir bitte jeweils, ob dieser Faktor die Wahrscheinlichkeit, dass Ihr Unternehmen KI aktiv nutzen würde, stark, we-niger stark oder gar nicht beeinflussen würde.
+stark weniger
+gar nicht
+stark o o
+Größeres Angebot an Fachkräften mit KI-Kompetenzen  Mehr Angebote zur Weiterbildung von Beschäftigten zum
+o o
+o o
+Thema KI Anpassung des Datenschutzes, um KI-basierte Datenanaly-sen zu erleichtern Staatliche finanzielle Förderung des Einsatzes von KI, z.B. durch Investitionszuschüsse Cloud-Angebote, die datenschutzkonform sind und höchste Datensicherheit gewährleisten, wie z.B. die Gaia-X des Bundeswirtschaftsministeriums Verbesserung der technischen Ausstattung im Bereich IT (Netzabdeckung, Übertragungsgeschwindigkeit etc.) Umfassendere Information der Öffentlichkeit über KI und den Nutzen von KI-Anwendungen Verfügbarkeit großer Datenmengen aus öffentlichen Quellen
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o o
+o o
+o o
+ Mehr Vertrauen von Nutzern und Anwendern in KI
+F16 Abschließend hätten wir noch eine Frage zum Thema Datennutzung. Konkret geht es
+darum, in welcher Form Ihr Unternehmen derzeit Daten systematisch für seine Ge-schäftsaktivitäten nutzt. Ich lese Ihnen dazu gleich verschiedene Aussagen vor. Sagen Sie mir bitte jeweils, ob diese Aussage für Ihr Unternehmen zutrifft oder nicht zutrifft.
+Ja o
+Nein o
+Unser Unternehmen verfügt über Mitarbeiter mit spezifischen Kenntnis-sen im Bereich Datenmanagement und Datenanalyse (z.B. Datenbank-verwaltung, statistische Auswertungsverfahren). Unser Unternehmen beschäftigt Mitarbeiter, die hauptsächlich für die Erfassung und Analyse von Daten tätig sind.
+o
+o
+[Page #54]
+55
+A N H A N G
+Unser Unternehmen nutzt systematisch Vertriebs- und Marketing-Da-ten, um Produkt- und Dienstleistungsangebote besser auf Kundenbe-dürfnisse zuzuschneiden. Unser Unternehmen nutzt Daten aus Online-Quellen (wie die eigene Webseite oder Social-Media-Daten), um Kundenbedürfnisse zu identifi-zieren und Marketingstrategien zu entwickeln. Unser Unternehmen nutzt Prozessdaten von Maschinen und Anlagen, um die Effizienz von Verfahren und Geschäftsprozessen zu verbessern. In unserem Unternehmen werden Echtzeit-Daten erfasst und ausgewer-tet, z.B. im Rahmen von Produktions-, Vertriebs- oder Logistikprozes-sen.
+o
+o
+o
+o
+o
+o
+o
+o
+[Page #55]
+bmwi.de

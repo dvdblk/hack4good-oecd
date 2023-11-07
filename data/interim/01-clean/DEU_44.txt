@@ -1,0 +1,3156 @@
+[Page #0]
+Ulrich Schmoch Bernd Beckert Thomas Reiß Peter Neuhäusler Oliver Rothengatter
+Identifizierung und Bewertung von Zukunftstechnologien für Deutschland
+Endbericht an die KfW
+Fraunhofer ISI
+Breslauer Str. 48
+76139 Karlsruhe
+Karlsruhe, Dezember 2020
+[Page #1]
+None
+[Page #2]
+Zukunftstechnologien für Deutschland
+i
+Inhaltsverzeichnis
+ZusammenfassungA
+1 Einführung1
+2 Rahmenbedingungen für Zukunftstechnologien in Deutschland3
+2.1
+Das deutsche Innovationsprofil3
+2.2
+Die Diskussion über Technologiesouveränität5
+2.3
+Die Situation nach Corona7
+3 Technologische Analysen9
+3.1
+Die Auswahl der Technologien9
+3.2
+Bewertung der Technologien mit Hilfe von Patenten, Publikationen und Marken16
+3.2.1
+Auswertung von Patentindikatoren16
+3.2.1.1
+Methodische Konzepte16
+3.2.1.2
+Ergebnisse der Auswertung der Patentindikatoren20
+3.2.1.3
+Die Beteiligung kleiner und mittlerer Unternehmen an Zukunftstechnologien22
+3.2.1.4
+Zukunftstechnologien mit großer strategischer Bedeutung24
+3.2.2
+Auswertung von Publikationsindikatoren26
+3.2.2.1
+Methodische Konzepte26
+3.2.2.2
+Ergebnisse der Auswertung von Publikationsindikatoren28
+3.2.3
+Auswertung von Markenindikatoren30
+3.2.3.1
+Methodische Konzepte30
+3.2.4
+Auswertung der Gesamtindikatoren34
+[Page #3]
+ii
+Zukunftstechnologien für Deutschland
+4 Spezielle Patentanalysen zu einzelnen Technologien36
+4.1
+Konvergenz in der Informationstechnik36
+4.1.1
+Strukturen des Feldes Künstliche Intelligenz39
+4.2
+Entwicklung der Robotik44
+4.3
+Bedeutung der Informationstechnik für Zukunftstechnologien47
+5 Bewertung der Technologien nach wirtschaftlichem Impact49
+5.1
+Das Bewertungsverfahren durch Marktstudien49
+5.1.1
+Methodik der Bewertung49
+5.2
+Das Bewertungsverfahren über Patentanmeldungen51
+5.2.1
+Methodik der Bewertung51
+5.3
+Gesamtergebnis der ökonomischen Bewertung53
+6 Wirtschaftlicher Impact und technologische Gesamtindikatoren57
+7 Wirtschaftspolitische Maßnahmen61
+8 Literatur65
+Anhang69
+[Page #4]
+Zukunftstechnologien für Deutschland
+iii
+Tabellen und Abbildungsverzeichnis
+Tabelle 2-1:
+Bruttowertschöpfung wichtiger Wirtschaftszweige in Deutschland, 20175
+Tabelle 3-1:
+Zukunftstechnologien für die Analyse im Rahmen dieser Studie9
+Tabelle 3-2:
+Spektrum der Ausprägung der Teilindikatoren zu Patenten für die Technologiefelder der Analyse und Zuordnung von Skalenwerten19
+Tabelle 3-3:
+Rangfolge der Zukunftstechnologien nach Patent-indikatoren in ihrer Relevanz für Deutschland21
+Tabelle 3-4:
+Beteiligung von KMU an Zukunftstechnologien, 2015-201723
+Tabelle 3-5:
+Zukunftstechnologien mit großer strategischer Bedeutung nach Rangfolge der Patentindikatoren und deren Spezialisierungsindex (Hervorhebung in Fett- und Kursivschrift)25
+Tabelle 3-6:
+Spektrum der Ausprägung der Teilindikatoren zu Publi-kationen für die Technologiefelder der Analyse und Zuordnung von Skalenwerten27
+Tabelle 3-7:
+Rangfolge der Zukunftstechnologien nach Publikations-indikatoren in ihrer Relevanz für Deutschland und Vergleich mit Patentindikatoren28
+Tabelle 3-8:
+Spektrum der Ausprägung der Teilindikatoren zu Marken für die Technologiefelder der Analyse und Zuordnung von Skalenwerten32
+Tabelle 3-9:
+Rangfolge der Zukunftstechnologien nach Markenind-ikatoren in ihrer Relevanz für Deutschland und Vergleich mit Patentindikatoren34
+Tabelle 3-10:
+Rangfolge der Zukunftstechnologien nach den techno-logischen Gesamtindikatoren in ihrer Relevanz für Deutschland35
+Tabelle 4-1:
+Vernetzung zwischen Zukunftstechnologien der Informationstechnik, 2014 und 201838
+Tabelle 4-2:
+Wichtige Unterklassen für die Einordung von Patent-anmeldungen zur Künstlichen Intelligenz, 201843
+[Page #5]
+iv
+Zukunftstechnologien für Deutschland
+Tabelle 4-3:
+Größte Anmelder in der Künstlichen Intelligenz, 201844
+Tabelle 4-4:
+Deutsche Anmelder von Roboterpatenten, 201847
+Tabelle 4-5:
+Anteil von Informationstechnik bei Patentanmeldungen zu Zukunftstechnologien, 201849
+Tabelle 5-1:
+Berechnung des aktuellen Marktwertes einer Technolo- gie am Beispiel des Autonomen Fahrens54
+Tabelle 5-2:
+Ranking der Zukunftstechnologien nach Marktwert für deutsche Unternehmen, 202055
+Tabelle A-1:
+Rangfolge der Zukunftstechnologien bei den technologischen Gesamtindikatoren bei der Berücksichtigung des KMU-Anteils bei Patenten74
+Tabelle A-2:
+Umrechnungsfaktoren für die Marktwerte, 202082
+Abbildung 1-1:
+Arbeitsablauf zur Analyse von Zukunftstechnologien1
+Abbildung 2-1:
+Spezialisierungsprofil Deutschlands bei transnationalen Patenten, 20184
+Abbildung 4-1:
+Netzwerk der Zukunftstechnologien in der Informations-technik, 201840
+Abbildung 4-2:
+Zahl der Transnationalen Patentanmeldungen zur Künstlichen Intelligenz42
+Abbildung 4-3:
+Zahl der Transnationalen Patentanmeldungen für wichtige Länder, 201842
+Abbildung 4-4:
+Transnationale Anmeldungen zu Robotern46
+Abbildung 4-5:
+Herkunftsländer von Anmeldungen zu Robotern, 2018 ... 47
+Abbildung 5-1:
+Verteilung des Wertes bei deutschen Unternehmen für Zukunftstechnologien, 202057
+Abbildung 6-1:
+Ranking der Technologien nach wirtschaftlichem Impact und nach technologischen Gesamtindikatoren61
+[Page #6]
+Zukunftstechnologien für Deutschland
+A
+Zusammenfassung
+Ausgangssituation
+Das Engagement in Zukunftstechnologien ist wichtig für die zukünftige wirtschaftliche Entwicklung, um im internationalen Wettbewerb zu bestehen. Das Ziel der vorliegenden Studie ist die Identifikation von Zukunftstechnologien und ihrer Bedeutung für Deutsch-land. Wesentliches Kriterium für die Auswahl war, dass die Technologien schon mittel-fristig eine hohe Relevanz am Markt erreichen, womit Technologien angesprochen sind, die schon aktuell kommerziell genutzt werden und ein deutliches Wachstumspotenzial haben.
+Eine wesentliche Rahmenbedingung für die Einschätzung der Bedeutung für Deutsch-land ist die seit Jahren stabile Orientierung deutscher Unternehmen auf Kraftfahrzeuge, Maschinenbau, elektrische Ausrüstungen und Chemie, wogegen Mikroelektronik, Infor-mationstechnik und Biotechnologe nicht zu den Schwerpunkten gehören. Durch diese langfristige Spezialisierung auf wenige Bereiche, oft als Pfadabhängigkeit bezeichnet, haben deutsche Unternehmen dauerhaft große wirtschaftliche Erfolge erzielt. Vor die-sem Hintergrund können Zukunftstechnologien aus diesen Spezialisierungsbereichen leicht aufgegriffen werden, während solche aus anderen Bereichen mit einem größeren Aufwand verbunden sind.
+Vorgehensweise
+Zur Untersuchung der Zukunftstechnologien und ihrer Bedeutung für Deutschland wurde der in Abbildung Z-1 skizzierte Arbeitsablauf verfolgt.
+Abbildung Z-1:
+Arbeitsablauf zur Analyse von Zukunftstechnologien
+[Page #7]
+B
+Zukunftstechnologien für Deutschland
+Zur Identifikation von Zukunftstechnologien wurden verschiedene Zukunftsstudien aus dem nationalen und internationalen Raum, Technologien, die im Kontext nationaler und internationaler gesellschaftlicher Herausforderungen diskutiert werden, sowie Fraun-hofer-interne und externe Experten herangezogen. Auf dieser Basis wurde eine Liste von 32 Technologien zusammengestellt, die sich auf die Bereiche Informationstechnik, Produktionstechnik, Werkstoffe, Gesundheit, Verkehr, Umwelt/Klima und Energie bezie-hen und somit ein breites Technologiespektrum abdecken (siehe Tabelle 3-1 auf Seite 99).
+Für diese Technologien wurden Recherchestrategien für Patente, Publikationen und Marken entwickelt. Auf dieser Basis konnte für jede Technologie ein Satz von Indikatoren zur technologischen Position Deutschlands ermittelt werden. Diese Indikatoren wurden in einen zusammengesetzten Indikator (Composite Indicator) überführt, mit dessen Hilfe ein Ranking durchgeführt wurde.
+Zusätzlich wurden die folgenden Vertiefungsthemen analysiert:
+ Konvergenz in der Informationstechnik
+ Strukturen des Feldes Künstliche Intelligenz
+ Entwicklung in der Robotik und
+ Bedeutung der Informationstechnik für Zukunftstechnologien
+Die Bewertung der wirtschaftlichen Relevanz einer Technologie erweist sich als schwie-rig, weil es keine amtlichen Statistiken zum ökonomischen Wert von Technologien gibt. Auch eine Ableitung aus Produktstatistiken (Außenhandel) oder Daten zu Wirtschafts-sektoren ist nicht möglich, weil diese zu grob klassifiziert und zu veraltet sind. Deshalb wurden zwei andere Ansätze zur Bewertung des ökonomischen Impacts gewählt. Zum einen wurden Marktstudien ausgewertet, die die Technologien direkt betreffen oder die vermittelt über Patentanalysen in die Technologien dieser Studie überführbar sind. Auf diese Weise konnten zu allen Technologien Marktstudien ermittelt werden.
+Als zweiter Ansatz wurde der Marktwert aus Patentanalysen abgeleitet. Dieses ist mög-lich, weil in der Patentdatenbank des Fraunhofer-ISI (einer Version von PATSTAT) ne-ben den üblichen Patentklassifikationen auch eine Zuordnung der Patentanmeldungen zu den Wirtschaftszweigklassifikationen der Anmelder realisierbar ist. Dadurch kann ein Bezug zur amtlichen Statistik der Wirtschaftszweige hergestellt werden. Bei dem ge-wählten Verfahren kann für einen großen Teil der Technologien ein Wert ermittelt wer-den, der in der Größenordnung der Ergebnisse aus den Marktstudien liegt. Durch den
+[Page #8]
+Zukunftstechnologien für Deutschland
+C
+Vergleich der verschiedenen Marktstudien und der Patentanalysen war es möglich, zu allen Technologien realistische Marktwerte zu bestimmen.
+Auf der Basis der Marktwerte ergibt sich eine andere Rangfolge der Zukunftstechnolo-gien als bei der Bewertung über Technologieindikatoren. Aufschlussreich ist ein Ver-gleich beider Listen. Damit kann abgeschätzt werden, ob der angenommene Marktwert aufgrund der technologischen Kompetenz Deutschlands realistisch erreicht werden kann.
+Ergänzend wurden Wirtschaftsverbände befragt. Diese sehen in der Digitalisierung ein zentrales Ziel ihres zukünftigen Engagements. Weitere zentrale Themen sind Nachhal-tigkeit, Ressourcen- und Energieeinsparung.
+In der Gesamtschau ergeben sich im Wesentlichen vier Bereiche von Zukunftstechnolo-gien, die für Deutschland relevant sind. Dies sind Technologien im Bereich der Kraftfahr-zeugtechnik, der Informationstechnik, von Ressourcen/Umwelt/Klima sowie der Produk-tionstechnik. Die Technologien zur Kraftfahrzeugtechnik haben ein großes Marktvolu-men und knüpfen an die hohen deutschen Kompetenzen in diesem Bereich an. Aller-dings ist eine konsequente Orientierung auf Elektromobilität und die zugrundeliegenden Technologien erforderlich.
+In der Informationstechnik liegt Deutschland im internationalen Vergleich deutlich zu-rück. Ein stärkeres Engagement ist nötig, da die Informationstechnik ein zentrales Ele-ment in den deutschen Wirtschaftsschwerpunkten Kraftfahrzeuge, Maschinenbau, Elekt-rische Ausrüstungen und Chemie geworden ist. Zentrale Zukunftstechnologien wie 5G, Internet der Dinge, Cybersecurity oder Künstliche Intelligenz sind wesentliche Elemente bei der neuen Automatisierung der Produktionstechnik, die unter dem Stichwort Industrie 4.0 läuft. Sie können daher nicht im Sinne der traditionellen internationalen Arbeitsteilung ausländischen Unternehmen überlassen werden, sondern müssen auch von deutschen Unternehmen in die Produktionstechnik integriert werden.
+Eine ausreichende Kompetenz in der Informationstechnik ist eine wichtige Vorausset-zung, um in den eigenen Kernkompetenzen eine hinreichende Selbständigkeit zu be-wahren. Diese Frage wird aktuell unter dem Thema der „technologischen Souveränität“ diskutiert. Die Intensivierung der Digitalisierung wird auch von den Wirtschaftsverbänden als zentrale Aufgabe gesehen. Wesentlich ist hier vor allem, dass deutsche Unterneh-men bei der Anwendung von Digitalisierungstechnologien international wettbewerbsfä-hig werden.
+Auch die Thematik Ressourcen/Umwelt/Klima ist für die Wirtschaftsverbände unter dem Stichwort Nachhaltigkeit ein wichtiges Thema. Die entsprechenden Technologien
+[Page #9]
+D
+Zukunftstechnologien für Deutschland
+werden in den üblichen Zukunftsstudien meist nicht benannt, wahrscheinlich, weil sie nicht genügend innovativ erscheinen. Sie haben jedoch ein relevantes Marktvolumen und sind daher auch aus ökonomischer Sicht zunehmend wichtig. Hierzu zählen Tech-nologien wie Biomaterialien, Recycling oder CO2-Management. Sie sind eine Stärke der deutschen Wirtschaft und sollten konsequent weiterverfolgt werden.
+Bei den Produktionstechnologien sind deutsche Unternehmen vor allem bei der Addi-tiven Fertigung technologisch gut aufgestellt. Allerdings wird hier das erzielbare Markt-volumen begrenzt sein. Aus Marktperspektive interessanter ist die Robotik. Hier sind deutsche Unternehmen gut vertreten, es gibt aber eine erhebliche Konkurrenz aus den USA, Japan, China und Südkorea. In den letzten Jahren konzentriert sich der technolo-gische Wettbewerb weniger auf die mechanischen Aspekte, sondern vielmehr auf die Steuerung und Vernetzung, d. h. auch hier spielt eine fortgeschrittene Informationstech-nik eine zentrale Rolle.
+Die Corona-Krise hat bisher noch nicht zu einer erkennbaren grundsätzlichen Neuorien-tierung bei zukünftigen Technologien geführt. In einzelnen Branchen gibt es jedoch Überlegungen, Lieferketten wieder stärker nach Europa zurückzuholen. Weiterhin ist eine deutliche Beschleunigung der Digitalisierung zu erkennen.
+Schlussfolgerungen
+Da die untersuchten Zukunftstechnologien schon jetzt am Markt präsent sind, kann For-schungsförderung nur ein Teilelement politischer Unterstützungsmaßnahmen sein. Ein gesamthafter innovationspolitischer Ansatz ist erforderlich. Dazu zählen auch wirt-schaftspolitische Maßnahmen wie die Schaffung klarer und verbesserter Rahmenbedin-gungen, Steueranreize, finanzielle Förderung beim Aufbau neuer Aktivitäten im Unter-nehmen oder am Markt oder gezielte öffentliche Nachfrage.
+Die größte Herausforderung ist der Aufbau von höheren Kompetenzen in der Informati-onstechnik. Hier sollte schon im Bereich der Bildung angesetzt werden und auch eine Intensivierung der Forschung ist sinnvoll. Weiterhin müssen Unternehmen in den Kern-bereichen der deutschen Wirtschaft eigene Kompetenzen in der Informationstechnik ausbauen. Bei Dienstleistern in der Informationstechnik sollten ergänzend Kompetenzen in der Produktionstechnik aufgebaut werden, um Unternehmen, vor allem KMU, kom-petent beraten zu können.
+In der Informationstechnik erweist sich die Künstliche Intelligenz als zentral mit einer Vielzahl von Vernetzungen zu anderen Feldern der Informationstechnik, aber auch zu anderen Anwendungsbereichen. Die Künstliche Intelligenz ist somit eine typisch generi-sche Technologie.
+[Page #10]
+Zukunftstechnologien für Deutschland
+E
+Insgesamt können deutsche Unternehmen bei Zukunftstechnologien in der Kraftfahr-zeugtechnik an traditionelle Kompetenzen anknüpfen, allerdings nur, wenn sie sich stär-ker auf neue Antriebskonzepte und dabei insbesondere Elektromobilität orientieren. Hier gibt es eine starke Konkurrenz von amerikanischen, französischen, japanischen und neuerdings auch chinesischen Unternehmen.
+Die neuen Umwelttechnologien können sich für deutsche Unternehmen zu einem wich-tigen Bereich mit einem relevanten ökonomischen Potenzial entwickeln. Es wird ent-scheidend sein, bei neuen Feldern wie dem CO2-Management eigene Kompetenzen aufzubauen und bei Themen wie Recycling deutlich verbesserte Ansätze bei Kunststof-fen, Elektronik, Batterien oder Kraftfahrzeugen zu entwickeln.
+Die Produktionstechnik, insbesondere der Maschinenbau, die Chemie und elektrische Ausrüstungen werden wichtige Bereiche bleiben. Um die internationale Wettbewerbsfä-higkeit zu erhalten, wird schon mittelfristig die kompetente Integration der Informations-technik wesentlich sein.
+Da Maschinenbau, Chemie, Elektrotechnik, Biotechnologie oder Kraftfahrzeugtechnik nicht mehr als eigenständige Bereiche angesehen werden können, sondern eine erheb-liche Durchdringung aller Technologien durch die Informationstechnik besteht, muss über eine Anpassung des deutschen technologischen Profils nachgedacht werden. Zu-mindest in der Anwendung von Informationstechnik sollten verstärkt Kompetenzen auf-gebaut werden. Das haben auch die deutschen Wirtschaftsverbände mit der Betonung der Digitalisierung erkannt. Da zahlreiche, insbesondere größere Unternehmen über ausreichende ökonomische Reserven verfügen, bestehen gute Aussichten, dass sie diese Ziele erreichen. Bei anderen Unternehmen besteht die Gefahr, dass sie sich mit den Folgen der Corona-Krise beschäftigen müssen und sich nicht genügend mit den neuen technologischen Ansätzen auseinandersetzen können. Deshalb ist es bei der För-derung wichtig, die Maßnahmen nicht zu eng auf aktuell erkennbare Corona-Folgen zu konzentrieren.
+[Page #11]
+None
+[Page #12]
+None
+[Page #13]
+None
+[Page #14]
+Zukunftstechnologien für Deutschland
+1
+1
+Einführung
+Die vorliegende Studie hat zum Ziel, Zukunftstechnologien für Deutschland zu identifi-zieren, die schon mittelfristig eine relevante volkswirtschaftliche Wirkung haben. Dabei geht es um Felder, die schon jetzt existieren, einen relevanten Umfang sowie ein Wachs-tumspotenzial für die nächsten Jahre haben.
+Als ein Grund für das Interesse an Zukunftstechnologien ist ein sich wandelndes Umfeld zu nennen, das eine zielgerichtete Ausgestaltung der Wirtschaftspolitik erfordert, um so eine schnellere Anpassung an neue politische Herausforderungen, neue technologische Gegebenheiten und sich daraus ergebende wirtschaftliche Potenziale zu ermöglichen. Nicht zuletzt werden auch die tiefen Spuren, die die Corona-Krise in der Wirtschaft und bei den Staatsfinanzen hinterlassen wird, zusätzlichen Druck darauf ausüben, dass staatliches Handeln effizienter wird. Dazu wird es notwendig sein, insbesondere staatli-che Fördermaßnahmen verstärkt in möglichst zukunftsträchtige Felder zu lenken, so-dass sie einen möglichst starken Beitrag zur Steigerung von Wertschöpfung und Be-schäftigung und zum Wiederanspringen der Produktivitätsentwicklung beitragen.
+In der Studie geht es zunächst darum, die Rahmenbedingungen für Zukunftstechnolo-gien in Deutschland näher zu beleuchten (Kapitel 2). In Bezug auf die technologische und ökonomische Analyse von Zukunftstechnologien und ihrer Bedeutung für Deutsch-land wurde ein Arbeitsablauf verfolgt, wie er in Abbildung 1-1 skizziert ist.
+Abbildung 1-1:
+Arbeitsablauf zur Analyse von Zukunftstechnologien
+Die Auswahl der Zukunftstechnologien wird in Kapitel 3.1 beschrieben, die technologi-schen Analysen im weiteren Verlauf des Kapitel 3 und die Untersuchung einzelner Tech-nologien in Kapitel 4. Die ökonomische Bewertung der Technologien erfolgt in Kapitel 5
+[Page #15]
+2
+Zukunftstechnologien für Deutschland
+und die gemeinsame Betrachtung der technologischen und ökonomischen Bewertungen in Kapitel 6. In Kapitel 7 werden wirtschaftspolitische Maßnahmen beschrieben, wie re-levante Zukunftstechnologien gefördert werden können.
+[Page #16]
+Zukunftstechnologien für Deutschland
+3
+2
+Rahmenbedingungen für Zukunftstechnologien in Deutschland
+Zukunftstechnologien werden in der Regel in einem globalen Zusammenhang diskutiert, sie wirken jedoch in den verschiedenen nationalen Systemen unterschiedlich. Deshalb ist es wichtig, zunächst einmal die spezifischen Rahmenbedingungen in Deutschland näher zu beleuchten, um die Relevanz von verschiedenen Technologien besser beurtei-len zu können.
+2.1
+Das deutsche Innovationsprofil
+Nationale Innovationssysteme zeichnen sich dadurch aus, dass sie ein sehr spezifi-sches, über viele Jahre stabiles Technologieprofil aufweisen. Hintergrund ist, dass in einem internationalen Handelssystem jedes Land dem Prinzip des komparativen Kos-tenvorteils folgt, das von Ricardo bereits 1817 erkannt wurde. Danach verfolgt jedes Land die Technologien, in denen es die größten Kompetenzen und Kostenvorteile im Vergleich zu anderen Ländern hat und exportiert diese.
+Aus der Sicht einzelner Unternehmen bedeutet diese Orientierung, dass die Produkte weiterverfolgt werden, bei denen die größten Gewinne erzielt wurden. Im Falle von Prob-lemen werden die Produkte verbessert, um an die alten Erfolge anzuknüpfen. In diesen Bereichen wurden hohe Kompetenzen und stabile Beziehungen zu Lieferanten und Kun-den aufgebaut. Deshalb wäre die Umstellung auf andere Bereiche mit hohen Kosten verbunden. In der Innovationsforschung wird dieses Phänomen als Pfadabhängigkeit beschrieben. Auf diese Weise können ökonomische Erfolge erzielt werden. Eine Gefahr besteht darin, dass bestimmte Produktlinien zu lange verfolgt werden, auch wenn sie an Relevanz verlieren, und neue Optionen zu spät aufgegriffen werden (Barnes u. a. 2004).
+Das lässt sich am besten durch die Ermittlung des Spezialisierungsprofils bei Patenten illustrieren. Dabei wird die Orientierung eines Landes auf spezifische Technologien im Vergleich zum Weltdurchschnitt errechnet. Der entsprechende Indikator RPA errechnet sich folgendermaßen:
+RPAkj = 100 * tanh (ln [(Pkj/∑j Pkj)/(∑k Pkj/∑kj Pkj)]))
+[1]
+Darin steht der Index k für das Land und der Index j für die Technologie. Der Wertebe-reich geht von -100 bis +100, der Neutralwert liegt bei 0. Positive Werte stehen für über-durchschnittliche Spezialisierung, negative für unterdurchschnittliche.
+[Page #17]
+4
+Zukunftstechnologien für Deutschland
+Für Deutschland ergibt sich für transnationale Patente im Jahr 2018 ein Profil nach Abbildung 2-1. Dabei wurden sämtliche Patentanmeldungen insgesamt 34 Technologien zugeteilt. Diese wurden auf der Basis einer Liste der World Intellectual Property Organi-sation (WIPO) definiert (Schmoch 2008).
+Abbildung 2-1:
+Spezialisierungsprofil Deutschlands bei transnationalen Patenten, 2018
+Derartige Länderprofile bleiben im Zeitverlauf sehr stabil. Im Falle Deutschlands liegen die Schwerpunkte in den verschiedenen Teilfeldern des Maschinenbaus, in der Kfz-
+[Page #18]
+Zukunftstechnologien für Deutschland
+5
+Technik (Transport), der Grundstoffchemie und der (Starkstrom)-Elektrotechnik. Nega-tive Spezialisierungen sind dagegen in der Mikroelektronik und der EDV-Technik zu fin-den sowie in der Biotechnologie und Pharmazie.
+Dieses Profil bei Technologien findet sich auch in der Bedeutung der Wirtschaftszweige wieder (Tabelle 2-1).
+Tabelle 2-1:
+Bruttowertschöpfung wichtiger Wirtschaftszweige in Deutschland, 2017
+Bruttowertschöpfung (Mrd. €) 138,361 102,854 78,560 49,842
+Anteil an Gesamt-Bruttowert-schöpfung (%) 4,7 3,5 2,7 1,7
+WZ-Code Wirtschaftszweig
+29 28 62 20
+Kraftwagen Maschinenbau IT-Dienstleister Chemie Elektr. Ausrüstun-gen DV-Geräte Pharmazie Quelle: Statistisches Bundesamt (2020)
+27 26 21
+44,845 40,545 22,186
+1,5 1,4 0,8
+Danach ist der Wirtschaftszweig (Branche) Kraftwagen mit Abstand dominierend. Die Spezialisierung der Kfz-Technik (Transport) nach Abbildung 2-1 ist weniger deutlich po-sitiv als andere Technologien, weil auch andere Länder wie Japan einen Schwerpunkt auf Kraftwagen haben. Außerdem hängt der Sektor Kraftwagen eng mit dem Maschi-nenbau zusammen.
+Trotz der negativen Spezialisierung bei Technologien sind die Wirtschaftszweige DV-Geräte und vor allem IT-Dienstleister relativ stark, weil die Informationstechnik für die deutsche Wirtschaft insgesamt eine wesentliche Funktion hat, was weiter unten genauer diskutiert wird. Das ändert jedoch nichts daran, dass die meisten Technologien bei der Informationstechnik aus den USA und China kommen, was zu den negativen Speziali-sierungsindizes in den entsprechenden Teilfeldern in Abbildung 2-1 für Deutschland führt.
+2.2
+Die Diskussion über Technologiesouveränität
+Das folgende Kapitel zur Technologiesouveränität erweist sich im Kontext von Zukunfts-technologien als relevant, weil sich häufig die Frage stellt, ob bei Technologien, die ei-gentlich nicht zu den Stärken deutscher Unternehmen zählen, eigene Kompetenzen auf-gebaut werden sollten oder ob die Zulieferung durch ausländische Partner beibehalten werden soll.
+[Page #19]
+6
+Zukunftstechnologien für Deutschland
+Technologiesouveränität wird definiert „als die Fähigkeit eines Staates oder Staatenbun-des, die Technologien, die sie für sich als kritisch für Wohlfahrt, Wettbewerbsfähigkeit und staatliche Handlungsfähigkeit definieren, selbst vorzuhalten und weiterentwickeln zu können oder ohne einseitige strukturelle Abhängigkeit von anderen Wirtschaftsräumen beziehen zu können“.
+Technologiesouveränität bedeutet in dieser Definition also keinesfalls umfassende tech-nologische Autarkie, welche die internationale Arbeitsteilung oder die Globalisierung in Frage stellt und anstrebt, jegliche als kritisch eingestufte Technologie selbst vorzuhalten. In erster Linie bezeichnet sie die Wahrung von Optionen durch den Aufbau und Erhalt eigener Fähigkeiten und die Vermeidung einseitiger Abhängigkeiten. Technologiesouve-ränität ist damit eine notwendige, aber keinesfalls hinreichende Bedingung für die selbst-bestimmte Erstellung und Diffusion von kritischen Innovationen (Innovationssouveränität) und damit für selbstbestimmtes wirtschaftliches Handeln (wirtschaftliche Souveränität).“ (Edler u. a. 2020: 4)
+Grundsätzlich ist im Falle Deutschlands die Informationstechnik wichtig für die Wettbe-werbsfähigkeit, da sie im Rahmen der Digitalisierung der Produktion zunehmend eine wichtige Funktion in Kernbereichen der deutschen Wirtschaft erhalten hat. Hier ist anzu-streben, dass deutsche Unternehmen mehr Kompetenz aufbauen, um sich unabhängi-ger von externen Anbietern zu machen und die Informationstechnik spezifischer an die eigenen Bedürfnisse anpassen zu können.
+Wichtig ist eine differenzierte Betrachtung des Einzelfalls. So gibt es im Falle der 5G-Technik zwar Abhängigkeiten von US-amerikanischen und chinesischen Anbietern, es gibt aber auch kompetente europäische Unternehmen, die weltweit wettbewerbsfähig sind, sodass aus deutscher Sicht die Situation weniger prekär ist (Edler u. a. 2020: 24 ff.).
+Zu dieser Thematik gibt es eine Reihe von technologiepolitischen Beiträgen, z. B. aus deutscher Sicht von March und Schieferdecker (2020). Insgesamt muss in jedem Fall die Bedeutung der Informationstechnik für Deutschland hervorgehoben werden. Hier be-steht für deutsche Unternehmen in der Produktionstechnik das Problem, dass sie in zu-nehmendem Maße die Informationstechnik integrieren müssen, um wettbewerbsfähig zu bleiben. Deshalb reicht es nicht aus, informationstechnische Komponenten extern zuzu-kaufen, sondern es müssen eigene Kompetenzen entwickelt werden. Hier trifft genau die obige Definition von Technologiesouveränität zu: „Technologien, die sie für sich als kritisch für ... Wettbewerbsfähigkeit und ... Handlungsfähigkeit definieren, selbst vorzu-halten und weiterentwickeln zu können ... ohne einseitige strukturelle Abhängigkeit von
+[Page #20]
+Zukunftstechnologien für Deutschland
+7
+anderen Wirtschaftsräumen“. Da, wie weiter unten ausgeführt, verschiedene Informati-onstechnologien, die für die Produktionstechnik relevant sind, zu den wichtigen Zu-kunftstechnologien gehören, ist diese Thematik für diese Studie von großer Bedeutung.
+2.3
+Die Situation nach Corona
+Durch die Corona-Krise haben sich die wirtschaftlichen Bedingungen in Deutschland er-heblich verändert. Im Frühjahr 2020 wurde als Lehre aus der Corona-Krise vor allem genannt, dass eine zu große Abhängigkeit von globalen Lieferketten bestünde. Wir ha-ben deshalb im Rahmen dieser Studie bei zwölf Wirtschaftsverbänden nachgefragt, wel-che Konsequenzen aus deren Sicht für die technologische Entwicklung bestehen.
+Der ZVEI konstatiert auf der einen Seite eine Verschlechterung des Geschäftsklimas, auf der anderen Seite eine erhebliche Beschleunigung der Digitalisierung im geschäftli-chen und privaten Bereich. Neben dem Homeoffice und Videokonferenzen werden Remote-Anwendungen im Fabrikkontext oder digitale Geschäftsmodelle genannt. Viele Unternehmen überlegen auch, ihre Lieferketten zu diversifizieren und ihre Supply Chain verstärkt auf Europa auszurichten sowie Investitionen und Forschung in Europa auszu-bauen. In mittelfristiger Sicht haben sich für den ZVEI die Bedingungen für die Digitali-sierung verbessert.
+Aus Sicht des VCI hat die Abhängigkeit der EU von Drittländern zur Herstellung von Chemikalien – z. B. Rohstoffe, Zwischenprodukte, pharmazeutische Wirkstoffe – in den letzten Jahren erheblich zugenommen. Die Corona-Krise hat deutlich gemacht, dass diese Abhängigkeit erhebliche Auswirkungen haben kann, z. B. auf die Verfügbarkeit von Medikamenten und auf die Fähigkeit der EU, angemessen und rechtzeitig auf Ge-sundheitskrisen zu reagieren. Man hat erkannt, dass eine widerstandsfähigere Gesell-schaft eine ausreichend diversifizierte, lokale chemische Produktionskapazität in Europa erfordert. Auch für den VCI ergeben sich damit mittelfristig positive Konsequenzen aus der Corona-Krise.
+Auch der Verband BIO Deutschland betont die Notwendigkeit einer stärkeren Vernet-zung in Europa als Folgerung aus der Corona-Krise. Er sieht gute Chancen bei der Ent-wicklung von Diagnostika und bei Impfstoffen.
+Der Bundesverband Arzneimittel-Hersteller (BAH) nennt als wichtige Entwicklungen nach der Corona-Krise die Verstärkung der Nachhaltigkeit bei der Produktion und eine Intensivierung bei der Digitalisierung in Produktion und Vertrieb.
+[Page #21]
+8
+Zukunftstechnologien für Deutschland
+Der Bundesverband Medizintechnologie (BVMed) sieht sich durch die neue Nachfrage im Rahmen der Corona-Krise gestärkt. Auch hier spielen Digitalisierung und eine bes-sere Vernetzung in Europa eine wichtige Rolle.
+Auch aus Sicht des Verbandes Bitkom ist ähnlich wie beim ZVEI die Verstärkung der Digitalisierung eine wesentliche Konsequenz der Corona-Krise. Einige, aber nicht alle Unternehmen im Verband denken an eine Rückverlagerung der Lieferketten nach Europa.
+Der Bundesverband der Pharmazeutischen Industrie (BPI) erkennt die Notwendigkeit die Produktion wieder stärker von China nach Europa zurückzuholen, mahnt aber eine Verbesserung der preislichen Rahmenbedingungen und der Auflagen in Deutschland an. Auch hier werden Nachhaltigkeit und Digitalisierung als wichtige Entwicklungen ge-nannt.
+Die Mitglieder des Verbandes der Automobilindustrie (VDA) werden im Wesentlichen an internationalen Lieferketten festhalten. Auch der VDA sieht Technologien zur Energie- und Rohstoffeinsparung sowie eine verstärkte Digitalisierung als wichtige Trends, die aller-dings schon vor Corona verfolgt wurden.
+Der Verband des Maschinenbaus (VDMA) ist von der Corona-Krise hart betroffen, weil er eine hohe Exportquote von rund 75 Prozent hat. Auch dieser Verband misst der Digi-talisierung eine große Bedeutung zu.
+Der Bundesverband der deutschen Industrie (BDI) sieht als übergreifender Verband ins-gesamt das kritische Nachdenken über internationale Lieferketten und das Bedürfnis zu mehr Autonomie. Technologisch ist das Thema Nachhaltigkeit zentral. Weiterhin sind die verschiedenen Bereiche der Digitalisierung von großer Bedeutung. Es wird hier die Möglichkeit gesehen, ein deutsches oder europäisches Alleinstellungsmerkmal zu ent-wickeln mit der Konzentration auf die industrielle Anwendung der Digitalisierung und ins-besondere von KI.
+Der Verband für Anlagentechnik (VAIS) nimmt durch die Corona-Krise eine Tendenz zur Optimierung innerbetrieblicher Prozesse insbesondere in Richtung Digitalisierung wahr. Auch hier wird die Notwendigkeit zur Verlagerung der Lieferketten nach Europa gese-hen. Die Ressourcen- und Energieeinsparung ist ein wichtiges Thema, das allerdings schon vor Corona bedeutsam war.
+Beim Gesamtverband der deutschen Textil- und Modeindustrie ist die Betonung des Re-cyclings eine Besonderheit sowie der Einsatz von Biotechnologie zur Entwicklung neuer biobasierter Materialien. Bei den Lieferketten sieht der Verband nur eine marginale Reorientierung auf Europa.
+[Page #22]
+Zukunftstechnologien für Deutschland
+9
+Insgesamt ergibt sich zwar bei den meisten Verbänden durch die Corona-Krise ein kurz-fristiger Rückgang der Geschäfte, es werden aber auch Veränderungen in Richtung Digitalisierung und Nachhaltigkeit immer wieder genannt. Es gibt nur teilweise eine Ver-änderung der Lieferketten in Richtung Europa. Hier wird es vor allem Auswirkungen auf die Produktion pharmazeutischer Wirkstoffe geben. Eine größere Eigenständigkeit wird in erster Linie im Kontext der Digitalisierung als zentraler Punkt genannt.
+[Page #23]
+10
+Zukunftstechnologien für Deutschland
+3
+Technologische Analysen
+3.1
+Die Auswahl der Technologien
+Zur Ermittlung von potenziell interessanten Zukunftstechnologien wurden verschiedene Quellen herangezogen. Neben aktuellen Studien zu Zukunftstechnologien wurden Tech-nologien zu gesellschaftlichen Herausforderungen geprüft, Experten innerhalb des Fraunhofer ISI befragt sowie Experten von wichtigen deutschen Wirtschaftsverbänden konsultiert. Dieses breite Vorgehen erwies sich als sinnvoll, weil Studien zu Zukunfts-technologien häufig auf spektakuläre Technologien abzielen und Technologien zu ge-sellschaftlichen Herausforderungen eher vernachlässigen, obwohl diese gesellschaftlich und auch ökonomisch eine erhebliche Relevanz haben. Diese Quellen werden im An-hang in Kapitel A.1 näher beschrieben.
+In einem ersten Schritt wurden auf der Basis der oben beschriebenen Quellen 49 Tech-nologien ausgewählt, die als Zukunftstechnologien im Sinne dieser Studie geeignet wa-ren. Kriterien für deren Auswahl waren vor allem die Nennung in mehreren Zukunftsstu-dien und die schon mittelfristig relevante volkswirtschaftliche Wirkung. Außerdem wurde eine Patentanalyse zu Umfang und zeitlicher Entwicklung dieser Technologien und dem Anteil Deutschlands durchgeführt, um eine erste Einschätzung zu erhalten. Diese erste Liste wurde in Abstimmung mit der KfW auf 32 Technologien reduziert, um den Arbeits-aufwand zur detaillierteren Analyse im Rahmen dieser Studie in sinnvollen Grenzen zu halten. Diese Liste von 32 Technologien ist in Tabelle 3-1 wiedergegeben.
+Tabelle 3-1:
+Zukunftstechnologien für die Analyse im Rahmen dieser Studie
+Nr.
+Technologie
+Informationstechnik
+Blockchain
+1
+Cybersecurity
+2
+Künstliche Intelligenz
+3
+Authentifizierung (Sicherheit)
+4
+Internet der Dinge (IoT)
+5
+5G, 6G
+6
+Quantencomputer
+7
+Produktionstechnik
+3D-Druck, Additive Fertigung
+8
+Soft robotics
+9
+10
+Mensch-Maschine-Schnittstelle
+11
+Augmented und Virtual Reality
+[Page #24]
+Zukunftstechnologien für Deutschland
+11
+Nr.
+Technologie
+Werkstoffe
+Low-carbon steelmaking
+12
+Carbon Nanotube (CNT)
+13
+2D-Materialien, Graphen
+14
+Gesundheit
+Mikrobiom
+15
+Digitale Medizin, Geräte
+16
+Neue Impfstoffe
+17
+Verkehr
+Hybridelektrische Kfz
+18
+Brennstoffzellen für Kfz, insbesondere Lkw
+19
+Elektr. Traktionsmotoren für Kfz
+20
+Autonomes Fahren
+21
+Leichtbau bei Kfz
+22
+E-Highway
+23
+Umwelt, Klima
+CO2-Management
+24
+Recycling
+25
+Umweltorientierte Biozide
+26
+Biomaterialien
+27
+Energie
+Batterietechnik
+28
+Alternative Solarzellen
+29
+Smart grid
+30
+Energiespeicherung (außer Batterien)
+31
+Wasserstoffproduktion
+32
+Diese Liste ist die Basis für die weiteren technologischen und ökonomischen Analysen im Rahmen dieses Berichtes.
+Im Folgenden werden die Technologien kurz beschrieben:
+1 Blockchain: Diese Technologie ist im Zusammenhang mit Kryptowährungen bekannt geworden. Es gibt aber eine Vielzahl anderer Anwendungen. Technisch geht es darum, eine Reihe von Informationen zu sicheren Ketten zu verbinden, indem ein Glied an das nächste über eine sichere Authentifizierung angekoppelt wird. Die Technik eignet sich auch für sichere Lieferketten, den Stromhandel oder das Settlement von Finanzproduk-ten. Kritisiert werden die langen Datenketten und der hohe Energieverbrauch (TA Swiss
+[Page #25]
+12
+Zukunftstechnologien für Deutschland
+2020). Ein wichtiger Anwendungsbereich ist die Dokumentation von Transaktionen mit dezentraler Verwaltung, die als Distributed Ledger bezeichnet wird.
+2 Cybersecurity: Die Sicherheit im Internet ist ein zentrales Thema, da es eine Vielzahl von Hackerangriffen und eine erhebliche Industriespionage gibt. Durch die ständigen technischen Fortschritte der Angreifer ist die Verbesserung der Cybersicherheit ein Dau-erthema. Cybersecurity ist eine wichtige Voraussetzung für die Digitalisierung. Ein gutes Beispiel ist die Vernetzung von Produzenten und Kunden im Kontext von Industrie 4.0.
+3 Künstliche Intelligenz: Bei dieser Technologie geht es um fortgeschrittene selbstler-nende Computersysteme. Typische Probleme, bei denen künstliche Intelligenz (KI) hilf-reich ist, sind Klassifikationen, statistische Schätzungen, Clusterungen, Entdeckung von Anomalien, Rankings usw. KI ist für eine Vielzahl von Problemen in Technik und Verwal-tung vom autonomen Fahren bis zu fortgeschrittenen Versicherungsproblemen (McKinsey Global Institute 2018) einsetzbar.
+4 Authentifizierung: Die sichere Authentifizierung ist ein zentrales Problem der Sicherheit im Internet. Etwa beim Kauf im Internet oder der Übermittlung von Produktionsdaten ist eine sichere Authentifizierung Voraussetzung, um einen Missbrauch zu vermeiden.
+5 Internet der Dinge: Das Internet der Dinge (Internet of Things, IoT) bezeichnet Tech-nologien, physische und virtuelle Gegenstände miteinander zu vernetzen. Dazu werden z. B. bei der Produktion Mini-Sensoren und -Rechner auf Maschinen implementiert, so-dass diese miteinander kommunizieren können. IoT ist ein wesentliches Element von Industrie 4.0.
+6 5G, 6G: 5G, die fünfte Generation des Mobilfunks, ist ein Mobilfunkstandard, der 2019 Verbreitung gewann. Wesentlich ist vor allem, spezifische Anwendungen etwa im Kon-text IoT zu entwickeln. Neben dem privaten Bereich (schnelle Übertragung von Bilddaten usw.) ist 5G vor allem im Kontext von Industrie 4.0, Smart Cities und dem Autonomen Fahren ein wichtiges Element. Aktuell gibt es bereits Forschungen zu 6G, mit dem noch höhere Datentransferraten erreicht werden sollen.
+7 Quantencomputer: Im Unterschied zum klassischen Computer arbeiten Quantencom-puter nicht auf der Basis der Gesetze der klassischen Physik, sondern auf der Basis quantenmechanischer Zustände. Die Verarbeitung dieser Zustände erfolgt nach quan-tenmechanischen Prinzipien. Theoretische Studien zeigen, dass unter Ausnutzung die-ser Effekte bestimmte Probleme der Informatik, z. B. die Suche in extrem großen Daten-banken (z. B. Grover-Algorithmus) oder die Faktorisierung großer Zahlen (z. B. Shor-Algorithmus) effizienter gelöst werden können als mit klassischen Computern.
+[Page #26]
+Zukunftstechnologien für Deutschland
+13
+Im Bereich der Informationstechnik wurden von den Vertretern der Wirtschaftsverbände häufig auch das Cloud Computing und die damit verbundenen Plattformen sowie im Rahmen der Digitalisierung Ferndienstleistungen (Remote Service) genannt. Diese Technologien wurden wegen zu geringer Dynamik und Trefferzahlen bei der Patentana-lyse nicht in die Liste aufgenommen.
+8 3D-Druck: Der 3D-Druck, auch bekannt unter den Bezeichnungen Additive Fertigung, ist eine umfassende Bezeichnung für alle Fertigungsverfahren, bei denen Material Schicht für Schicht aufgetragen und so dreidimensionale Gegenstände erzeugt werden. Das Verfahren eignet sich vor allem für die Fertigung hochpräziser Werkstücke mit hoher geometrischer Komplexität in kleinen Serien.
+9 Soft robotics: Dies ist ein neues Teilgebiet der Robotik, das sich stark an die Bewegung lebender Organismen anlehnt. Im Unterschied zu Standardrobotern aus festen Materia-lien, ermöglichen Soft Robots eine erhöhte Flexibilität und Anpassung an die Aufgaben sowie eine erhöhte Sicherheit beim Arbeiten in der Nähe von Menschen. Einsatzgebiete liegen in der Medizin und der Produktion.
+10 Mensch-Maschine-Schnittstelle: Die Benutzerschnittstelle ist die Stelle oder Hand-lung, mit der ein Mensch mit einer Maschine oder einem Gerät in Interaktion tritt. Diese gilt für Produktionsmaschinen oder Computer. Es wird an avancierten Methoden wie Spracheingabe gearbeitet. Ziel ist die leichtere Bedienbarkeit, die bessere Kontrolle des Prozesses und eine geringere Fehleranfälligkeit.
+11 Augmented und Virtual Reality: Als virtuelle Realität, kurz VR, wird die Darstellung und gleichzeitige Wahrnehmung der Wirklichkeit und ihrer physikalischen Eigenschaften in einer in Echtzeit computergenerierten, interaktiven virtuellen Umgebung bezeichnet. In der Industrie wird diese Technologie verstärkt eingesetzt, vor allem zur Erstellung von virtuellen Prototypen, für Produktionsplanungen, für virtuelles Training, für ergonomische Bewertungen oder für räumliche Studien in der Geologie. Damit lässt sich häufig der Bau von Prototypen zur Erprobung der Nutzung einsparen. Bei Augmented Reality geht es darum, dass zusätzliche Informationen zur Verfügung gestellt werden.
+12 Low-carbon steelmaking: Im Rahmen der Klimadebatte ist Stahlproduktion wegen ihrer hohen CO2-Emission häufig kritisiert worden. Lösungen sind hier die Direktreduk-tion oder der Einsatz von Wasserstoff bei der Produktion. Dieses Thema gehört zu den gesellschaftlichen Herausforderungen.
+13 Carbon Nanotube, CNT: Eines der wichtigsten Produkte der Nanotechnologie sind Kohlenstoffnanoröhren mit besonderen Eigenschaften bei Leitfähigkeit und Festigkeit. Sie werden in der Mikroelektronik oder bei faserverstärkten Kunststoffen eingesetzt.
+[Page #27]
+14
+Zukunftstechnologien für Deutschland
+14 2D-Materialien: 2D-Materialien sind Materialien, die aus nur einer Lage von Atomen oder Molekülen bestehen und damit faktisch zweidimensional sind. Aufgrund ungewöhn-licher Eigenschaften sind sie Gegenstand umfangreicher Forschungen. Das bekann-teste 2D-Material ist Graphen, das Anwendungen in der Batterietechnik, in der Halblei-tertechnik, bei der Verstärkung von Kunststoffen, hochfeinen Filtern und anderem hat. Für 2025 wird eine größere Verbreitung der Anwendungen gesehen (Ren und Cheng 2014).
+15 Mikrobiom: Das Mikrobiom ist die Gesamtheit aller Mikroorganismen, die ein vielzel-liges Lebewesen natürlicherweise besiedeln. Das Mikrobiom bewirkt die Stimulation des Immunsystems, die Verdrängung von Krankheitserregern und mehr. Veränderungen des Darmmikrobioms stehen unter anderem mit Erkrankungen wie Darmentzündungen, Darmtumoren und Darmkrebs, Adipositas, metabolischem Syndrom, Arthritis, MS und auch bestimmte Formen des Autismus und Morbus Alzheimer in Zusammenhang. Von daher werden in der Beeinflussung des Mikrobioms große medizinische Potenziale ge-sehen.1
+16 Digitale Medizin, Geräte: Die Digitalisierung hält auch bei medizinischen Geräten in großem Umfang Einzug. Die Methoden der Bildauswertung werden immer genauer, teil-weise mit der Unterstützung von künstlicher Intelligenz, die Diagnostik ist enger mit der Digitalisierung verbunden oder bei chirurgischen Robotern ist der Anteil der Informati-onstechnik erheblich.
+17 Neue Impfstoffe: Mit der Corona-Pandemie ist das Thema der Entwicklung neuer Impfstoffe, d. h. die Entwicklung mit neuen Methoden und die Entwicklung für neue Krankheiten, in den Fokus gerückt und wird relevant bleiben, da mit einer ständigen Ver-änderung des Corona-Virus und anderen Pandemien zu rechnen ist. Aktuell wird insbe-sondere an RNA- und DNA-Impfstoffen mit gentechnischen Verfahren gearbeitet.
+18 Hybridelektrische Kfz: Bei hybridelektrischen Kfz werden Verbrennungs- und Elekt-romotoren kombiniert. Ihr wesentlicher Vorteil gegenüber Kfz ausschließlich mit Verbren-nungsmotoren ist eine deutliche Verminderung des Kraftstoffverbrauchs und damit des CO2-Ausstoßes. Der Vorteil gegenüber reinen Elektrofahrzeugen ist die größere Reich-weite. Derartige Hybridfahrzeuge sind zwar schon am Markt, werden aber ständig wei-terentwickelt als Alternative oder Ergänzung zu reinen Elektrofahrzeugen.
+1 https://www.aerzteblatt.de/archiv/127068/Mikrobiomforschung-Wie-koerpereigene-Keime-
+als-Superorgan-agieren
+[Page #28]
+Zukunftstechnologien für Deutschland
+15
+19 Brennstoffzellen für Kfz: Bei Brennstoffzellen wird die chemische Reaktionsenergie eines kontinuierlich zugeführten Brennstoffes und eines Oxidationsmittels in elektrische Energie gewandelt. Bei Kfz werden Brennstoffzellen meist mit Wasserstoff betrieben und haben dadurch keine schädlichen Abgase. Gegenüber Elektrofahrzeugen haben sie den Vorteil großer Reichweiten. Von besonderem Interesse sind Anwendungen für Lkw.
+20 Elektrische Traktionsmotoren für Kfz: Bei der Umstellung hin zur Elektromobilität wird meist die Batterietechnik als Herausforderung betont. Für die speziellen Anforderungen an Kfz ist aber auch die Entwicklung spezifischer Elektromotoren ein wichtiger Aspekt.
+21 Autonomes Fahren: Das autonome Fahren befindet sich aktuell in einem intensiven Stadium der Entwicklung. Experten rechnen für 2025 mit einer funktionsfähigen techni-schen Realisierung, im Jahre 2035 soll bereits etwa ein Drittel des Kfz-Marktes von au-tonomen Fahrzeugen abgedeckt werden. Vorteile liegen in der Reduzierung der Unfall-wahrscheinlichkeit, dem Vermeiden von menschlichen Fahrfehlern und auch einer Re-duzierung von umweltschädlichen Emissionen. Durch die Nutzung der Fahrzeuge durch größere Gruppen und damit einen kontinuierlichen Betrieb kann auch der Bedarf an Parkraum verringert werden.
+22 Leichtbau bei Kfz: Der Leichtbau reduziert den Kraftstoffverbrauch bei Kfz mit Ver-brennungsmotoren und erhöht die Reichweite bei solchen mit Elektroantrieb. Wesentli-che Ansätze sind die Verwendung von Leichtmetallen und vor allem von faserverstärkten Kunststoffen.
+23 E-Highway: Bei dieser Technologie werden Autobahnen mit Oberleitungen oder In-duktionsschienen ausgestattet. Damit soll es entsprechend umgerüsteten LKWs ermög-licht werden, lange Strecken mit elektrischer Energie zurückzulegen und damit Emissio-nen relevant zu senken. Es zeigte sich bei der Analyse der Indikatoren, dass zu der Technologie E-Highway lediglich 17 Patentanmeldungen weltweit im Zeitraum 2015 bis 2017, neun Publikationen im Zeitraum 2017 bis 2019 und keine Marken gefunden wur-den. Diese Zahlen sind für die Bildung aussagefähiger Indikatoren zu niedrig. Diese Technologie erweist sich als wenig forschungsintensiv und es basiert lediglich auf einer Entwicklung auf der Basis bekannter Technologien. Es gibt aktuell lediglich drei kurze Teststrecken in Schweden, Schleswig-Holstein und südlich von Frankfurt und ein großes deutsches Unternehmen, das ein Konzept entwickelt hat. Eine breitere technologische Ausstrahlung in andere Wirtschaftszweige ist nicht gegeben. Von daher wird die Tech-nologie in der weiteren Analyse nicht mehr betrachtet.
+24 CO2-Management: Zum Erreichen der Klimaziele ist es nicht nur wichtig, die Emis-sion von CO2 zu reduzieren, sondern CO2 kann auch aus der Luft abgefangen, aus Erdöl usw. abgetrennt und gespeichert werden.
+[Page #29]
+16
+Zukunftstechnologien für Deutschland
+25 Recycling: Das Recycling ist angesichts der Verknappung der Rohstoffe ein wichtiges aktuelles Problem. Es steht nicht nur im Kontext gesellschaftlicher Ziele, sondern die Verknappung führt auch zu steigenden Rohstoffpreisen und ist damit ein ökonomisches Problem. Betroffen sind nicht nur Kunststoffe und Metalle, sondern das Recycling be-zieht sich auf alle Arten von Rohstoffen, z. B. Lösungsmittel, Baustoffe usw.
+26 Umweltorientierte Biozide: Als Reaktion auf die aktuelle Diskussion über das Arten-sterben gibt es zunehmend Bemühungen für die Entwicklung von besser umweltverträg-lichen Bioziden. Biozide sind Substanzen und Produkte, die Schädlinge und Lästlinge wie Insekten, Mäuse oder Ratten, aber auch Algen, Pilze oder Bakterien bekämpfen. Biozide sollten nicht mit Pflanzenschutzmitteln verwechselt werden.2
+27 Biomaterialien: Angesichts der Verknappung von Rohstoffen gibt es im politischen Raum erhebliche Bemühungen, Biomaterialien als nachwachsende Rohstoffe zu för-dern. Es geht somit um gesellschaftliche und ökonomische Ziele.
+28 Batterietechnik: Die Batterietechnik hat mit der Elektromobilität eine große Bedeutung erhalten. Dabei geht es mittelfristig nicht nur um Lithium-Ionen-Batterien, sondern auch um Festkörperbatterien, die eine höhere Leistungsdichte ermöglichen und bei denen die Rohstoffbeschaffung weniger prekär als bei Lithium ist. Untersucht werden in dieser Stu-die Batterien für größere Verbraucher, insbesondere Kfz, nicht Batterien für Kleingeräte.
+29 Alternative Solarzellen: Mit der wachsenden Bedeutung von regenerativen Energien werden Solarzellen immer wichtiger. Aktuell sind neue Typen wie Perovskite-Zellen, Dünnschichtzellen oder Zellen mit Tandemtechnik in der Entwicklung.
+30 Smart grids: Intelligente Stromnetze (engl. „smart grids“), umfassen die kommunika-tive Vernetzung und Steuerung von Stromerzeugern, Speichern, elektrischen Verbrau-chern und Netzbetriebsmitteln in Energieübertragungs- und -verteilungsnetzen der Elektrizitätsversorgung. Dieses ermöglicht eine Optimierung und Überwachung der mit-einander verbundenen Bestandteile. Ziel ist die Sicherstellung der Energieversorgung auf Basis eines effizienten und zuverlässigen Systembetriebs. Vor allem im Kontext der unregelmäßigen Einspeicherung von regenerativen Energiequellen werden Smart Grids bedeutsamer.
+31 Energiespeicherung (außer Batterien): Angesichts der unregelmäßigen Energieer-zeugung von Wind- oder Solarenergie sind Energiespeicher ein zentrales Element der
+2 https://www.reach-clp-biozid-helpdesk.de/DE/Biozide/Definition/Definition_node.html
+[Page #30]
+Zukunftstechnologien für Deutschland
+17
+Energieversorgung. Batterien allein können diese erheblichen Energiemengen nicht auf-nehmen. Deshalb sind andere Speicher wie Power to Gas, Power to Liquid, Power to Heat oder Metallhydrid-Wasserstoffspeicher im Gespräch.
+32 Wasserstoffproduktion: Wasserstoff als Energiequelle kann in erheblichem Maße zur Reduzierung des CO2-Ausstoßes beitragen etwa bei Kfz-Antrieben oder der Stahlpro-duktion. Trotz der hohen Kosten der Wasserstoffproduktion ist es ein wichtiges politi-sches Ziel, die Wasserstoffproduktion voranzutreiben. Damit steigen auch die Bemühun-gen zur Entwicklung effizienterer Verfahren.
+3.2
+Bewertung der Technologien mit Hilfe von Patenten, Publikationen und Marken
+Die Liste nach Tabelle 3-1 wurde mit Hilfe von Patent-, Publikations- und Markenindika-toren genauer analysiert.
+Zur Analyse der technologischen Relevanz der einzelnen Technologien wurden zu jeder Technologie Patent-, Publikations- und Markenanmeldungen ermittelt und daraus Indi-katoren gebildet. Diese wurden zu sogenannten Composite Indicators zusammengeführt und zur Bewertung herangezogen. Die Methodik ist in Munda und Nardo (2005) erläutert. Composite Indicators sind z. B. ein zentrales Instrument beim European Innovation Scoreboard.3
+3.2.1
+Auswertung von Patentindikatoren
+3.2.1.1 Methodische Konzepte
+Die Patente wurden auf der Basis von Transnationalen Patentanmeldungen mit Hilfe der Datenbank World Patents Index (WPI) erhoben, nach PATSTAT überführt und dort sta-tistisch ausgewertet.
+Transnationale Patentanmeldungen sind Erfindungen, die entweder am Europäischen Patentamt oder als internationale Anmeldungen nach der Patent Cooperation Treaty (PCT) angemeldet werden. Es geht in beiden Fällen um Patentanmeldungen, die an mehreren externen Märkten angemeldet werden sollen. Da dies mit erheblichen Anmel-dekosten verbunden ist, handelt es sich um Patente, bei denen ein hoher Gewinn erwar-tet wird, also um wertvollere Patente. Ein wichtiger Vorteil Transnationaler Patente ist, dass sie einen aussagefähigen Vergleich von Ländern erlauben. Dieser Ansatz hat sich
+3 https://ec.europa.eu/commission/presscorner/detail/en/QANDA_20_1150
+[Page #31]
+18
+Zukunftstechnologien für Deutschland
+in der Praxis anderen Verfahren zum Ländervergleich überlegen erwiesen (Schmoch und Khan 2019, Frietsch und Schmoch 2010).
+Die Recherchen wurden mit Hilfe der Datenbank WPI durchgeführt, weil diese in Form von Patentfamilien organisiert ist, bei der alle Patentanmeldungen in verschiedenen Län-dern, die zu einer Erfindung gehören, in einem Record zusammengeführt sind. Dadurch lassen sich Transnationale Patente leicht recherchieren. Außerdem ist die Datenbank sehr stichwortstark, sodass auch neue Technologien untersucht werden können, für die es noch keine geeignete Patentklassifikation gibt. Dieses ist bei den meisten Zukunfts-technologien der Fall.
+Eine Überführung dieser Rechercheergebnisse mit Hilfe von Patentanmeldenummern in die Datenbank PATSTAT, eine mit SQL auswertbare In-house-Datenbank, erwies sich als sinnvoll, weil diese bessere statistische Analysen, etwa der Familiengröße, ermög-licht. Außerdem können die Patentanmeldungen Wirtschaftszweigen zugeordnet wer-den, was eine wesentliche Grundlage für die Analyse der wirtschaftlichen Relevanz ist. Eine direkte Recherche in PATSTAT wäre in diesem Kontext nicht sinnvoll gewesen, weil Stichwortrecherchen in PATSTAT sehr aufwändig und wenig effektiv sind. Durch den Transfer der Daten aus WPI wurde dieser Mangel ausgeglichen.
+Bei den Jahren der Untersuchung ist zu beachten, dass Patentanmeldungen erst 18 Mo-nate nach der ersten Anmeldung, der Prioritätsanmeldung, veröffentlicht werden. Diese gesetzliche Regelung ermöglicht es dem Patentanmelder, die Patentanmeldung im Falle von technischen oder Vermarktungsproblemen zurückzuziehen, ohne dass die Erfin-dung einer breiten Öffentlichkeit bekannt wird. Das bedeutet, dass seit Juli 2020 alle Anmeldungen zum Jahr 2018 vorliegen. Im Falle der Datenbank PATSTAT, die vom Europäischen Patentamt bereitgestellt wird, gibt es eine aktualisierte Version erst im November 2020, sodass vor diesem Zeitpunkt nur Analysen bis 2017 realisierbar sind.
+Im Einzelnen wurden zur Bewertung der technologischen Relevanz zu jedem Feld die Indikatoren weltweiter Trend, Spezialisierung Deutschlands, absolutes Volumen Deutschlands und Familiengröße Deutschlands bestimmt.
+Der Indikator weltweiter Trend wurde als Relation der weltweiten Patentanmeldungen von 2017 zu denen von 2010 definiert. Er zeigt, was im Kontext von Zukunftstechnolo-gien wichtig ist, wie stark die betrachtete Technologie wächst und damit in den kommen-den Jahren relevanter wird.
+Die Spezialisierung Deutschlands wird mit dem Indikator RPA entsprechend Formel [1] (siehe S. 3) für den Zeitraum 2015 bis 2017 berechnet. Der Indikator basiert letztlich auf
+[Page #32]
+Zukunftstechnologien für Deutschland
+19
+dem Konzept von Soete und Wyatt (1983) und wird immer wieder zur Analyse der Pa-tentanmeldungen von Ländern benutzt, z. B. in Khramova u. a. (2013) oder Frietsch u. a. (2011). Im vorliegenden Kontext wird durch den RPA illustriert, wie die Stärke Deutsch-lands im Vergleich zu anderen Ländern beurteilt werden kann.
+Das Volumen Deutschlands wird über die Zahl der Patentanmeldungen im Zeitraum 2015 bis 2017 bestimmt. Da es sich um Transnationale Patentanmeldungen handelt, reflektiert das Volumen das wirtschaftliche Gewicht.
+Die Familiengröße Deutschlands wird ermittelt über die durchschnittliche Familiengröße deutscher Patentanmeldungen in einer Technologie im Zeitraum 2014 bis 2016. Diese wird in Relation zur durchschnittlichen Familiengröße deutscher Patentanmeldungen für alle deutschen Transnationalen Patentanmeldungen gesetzt, die 5,29 beträgt. Liegt diese Relation über 1, ist von einer überdurchschnittlichen Qualität der Anmeldungen in dem Feld auszugehen, bei Werten unter 1 von einer unterdurchschnittlichen. Dieser In-dikator reflektiert somit die Qualität deutscher Anmeldungen.
+Da diese vier Teilindikatoren verschiedene Dimensionen haben, können sie nicht direkt miteinander verrechnet werden. Ein sinnvoller Ansatz ist hier die Überführung in eine einfache qualitative Skala mit den Werten
+1
+für sehr schlecht, sehr schwach
+2
+für schlecht, schwach
+3
+für durchschnittlich
+4
+für gut, stark
+5
+für sehr gut, sehr stark
+Um eine gleichwertige Einteilung für alle Teilindikatoren für alle Technologien zu errei-chen, wird für jeden Teilindikator das Spektrum der Ausprägung ermittelt. Da die Vertei-lung nicht linear über die Technologien verläuft, muss auf der Basis von Expertenwissen eine qualitative Entscheidung über die Zuordnung der Ausprägung der Teilindikatoren zu der qualitativen Skala gefällt werden. Entscheidend ist hier, dass die Zuordnung für alle Technologien auf der gleichen Basis erfolgt. Die Einteilung in fünf Stufen ist bei so-genannten Likert-Skalen üblich.4
+4 https://de.statista.com/statistik/lexikon/definition/82/likert_skala/
+[Page #33]
+20
+Zukunftstechnologien für Deutschland
+Beim Trend/Wachstum wird mit den Punkten 4 und 5 eine Unterscheidung zwischen starkem und sehr starkem Wachstum gemacht, wobei die Grenze beim Faktor 40 gezo-gen wird. Die nächste Wachstumsrate ist mit 19,0 deutlich niedriger. Der neutrale Be-reich liegt in dem Spektrum 0,98 bis 1,49.
+Bei der Spezialisierung liegt der neutrale Bereich in etwa bei 0, hier erhält der RPA-Index 4 den Skalenwert 3 (durchschnittlich), der gute Bereich (Skalenwert 4) reicht von 11 bis 15, der sehr gute von 30 bis 78, der schlechte (Skalenwert 2) von -8 bis -23, der sehr schlechte von -40 bis -94. Diese Einteilung folgt der Erfahrung mit Technologien, die in der Projektserie „Technologische Leistungsfähigkeit“ des BMBF von 1994 bis 2007 und verschiedenen Projekten für die Expertenkommission Forschung und Innovation von 2008 bis 2019 gewonnen wurden.
+Beim Volumen der Patentanmeldungen liegt das Spektrum zwischen 6 und 1295 Patent-anmeldungen von Deutschen in den letzten drei Jahren. Die Grenzen zwischen den Punktwerten wurden bei größeren Stufen vorgenommen.
+Bei der Familiengröße musste die Abstufung unregelmäßig erfolgen, weil ein großer Teil der Technologien unterhalb des Neutralwerts liegt.
+In Tabelle 3-2 ist für die vier Teilindikatoren zu Patenten das Spektrum der ermittelten Werte zu den 31 Technologien aufgeführt sowie die jeweilige Zuordnung von Skalen-punkten.
+Tabelle 3-2:
+Spektrum der Ausprägung der Teilindikatoren zu Patenten für die Technologiefelder der Analyse und Zuordnung von Skalenwerten
+Punkte
+Trend
+Punkte
+RPA
+Punkte
+Vol.
+Punkte
+Fam.
+5
+5
+5
+5
+1611
+78
+1295
+2,03
+5
+5
+5
+5
+606
+63
+818
+1,10
+5
+5
+5
+5
+529
+55
+798
+1,09
+5
+5
+5
+5
+307
+53
+762
+1,09
+5
+5
+5
+40
+37
+707
+4
+1,08
+5
+4
+19
+32
+4
+629
+4
+1,07
+5
+3
+4
+18,9
+30
+4
+513
+0,97
+3
+4
+11,3
+4
+15
+4
+485
+0,97
+3
+4
+6,71
+4
+15
+4
+369
+0,96
+3
+4
+5,08
+4
+11
+4
+329
+0,96
+3
+3
+4
+4,78
+4
+4
+317
+0,94
+3
+4
+4,58
+2
+-8
+4
+255
+0,93
+3
+4
+3,25
+2
+-12
+4
+254
+0,93
+4
+3
+2
+-17
+4
+238
+2
+0,89
+[Page #34]
+Zukunftstechnologien für Deutschland
+21
+Punkte
+Trend
+Punkte
+RPA
+Punkte
+Vol.
+Punkte
+Fam.
+3
+4
+1,98
+2
+-23
+214
+2
+0,87
+1
+3
+4
+1,84
+-40
+212
+2
+0,86
+1
+3
+4
+1,81
+-48
+198
+2
+0,86
+3
+1
+3
+1,49
+-49
+171
+2
+0,86
+3
+1
+3
+1,24
+-51
+167
+2
+0,84
+3
+1
+3
+1,2
+-53
+160
+2
+0,84
+3
+1
+1,09
+-56
+2
+119
+2
+0,81
+3
+1
+1,05
+-66
+2
+75
+2
+0,8
+3
+1
+0,98
+-67
+2
+71
+2
+0,8
+3
+1
+1
+0,98
+-67
+2
+70
+0,78
+1
+1
+2
+0,94
+-72
+2
+70
+0,75
+1
+1
+1
+2
+0,93
+-73
+36
+0,71
+1
+1
+1
+2
+0,84
+-77
+33
+0,71
+1
+1
+1
+1
+0,77
+-82
+18
+0,69
+1
+1
+1
+1
+0,75
+-90
+11
+0,69
+1
+1
+1
+1
+0,58
+-92
+9
+0,66
+1
+1
+1
+1
+0,56
+-94
+6
+0,5
+Quelle: PATSTAT, eigene Recherchen und Berechnungen
+Bei der Zusammenführung wurden die Punkte der Teilindikatoren addiert, allerdings die Punkte für Volumen (Marktwert) und Familie (Qualität) jeweils mit dem Faktor 1,5 etwas höher gewichtet.
+3.2.1.2
+Ergebnisse der Auswertung der Patentindikatoren
+Bei der Bewertung der Technologien können mindestens 5 und maximal 25 Punkte er-reicht werden. Die Bewertung bezieht sich nicht auf die Technologien allgemein, sondern ihre Relevanz aus deutscher Sicht. Die Auswertung der Patentindikatoren führt zu einem Ranking nach Tabelle 3-3.
+Bei Biomaterialien resultiert die hohe Punktzahl aus einer sehr hohen Zahl deutscher Patente, aus einer positiven deutschen Spezialisierung und einer großen durchschnittli-chen Familiengröße. Die Maximalpunktzahl von 25 wird nicht erreicht, weil es in den letzten Jahren kein Wachstum gab. Die Patentzahlen sind aber über viele Jahre hoch geblieben.
+Für die Additive Fertigung sprechen ein sehr hohes Wachstum, eine sehr stark über-durchschnittliche deutsche Spezialisierung und eine hohe Zahl von Patentanmeldungen.
+[Page #35]
+22
+Zukunftstechnologien für Deutschland
+Tabelle 3-3: Rangfolge der Zukunftstechnologien nach Patentindikatoren in ihrer
+Relevanz für Deutschland
+Rang Technologie
+Indexpunkte
+1
+Biomaterialien
+22,0
+2
+3D-Druck, Additive Fertigung
+20,5
+3
+Leichtbau bei Kfz
+19,5
+4
+Autonomes Fahren
+19,0
+5
+Alternative Solarzellen
+18,0
+6
+Recycling
+17,5
+7
+Batterietechnik
+17,5
+8
+Elektr. Traktionsmotoren für Kfz
+17,0
+9
+Umweltorientierte Biozide
+16,5
+10
+Hybridelektrische Kfz
+16,0
+11
+CO2-Management
+15,5
+12
+Augmented- u. Virtual Reality
+15,0
+13
+Brennstoffzellen für Kfz
+14,5
+14
+Cybersecurity
+14,0
+15
+2D-Materialien, Graphen
+14,0
+16
+Digitale Medizin, Geräte
+14,0
+17
+Wasserstoffproduktion
+14,0
+18
+Künstliche Intelligenz
+12,5
+19
+Authentifizierung (Sicherheit)
+12,5
+20
+Mensch-Maschine-Schnittstelle
+12,5
+21
+Low-carbon steelmaking
+12,5
+22
+Neue Impfstoffe
+12,5
+24
+Energiespeicherung
+12,5
+25
+Internet der Dinge (IoT)
+12,0
+26
+5G, 6G
+10,5
+27
+Carbon Nanotube (CNT)
+10,0
+28
+Soft robotics
+9,5
+29
+Blockchain
+9,0
+30
+Quantencomputer
+9,0
+31
+Mikrobiom
+9,0
+32
+Smart grid
+8,0
+Wesentliche Argumente für Technologien aus dem Kfz-Bereich (Hybride, Leichtbau, Elektromotoren für Kfz, Autonomes Fahren) sind eine sehr starke deutsche Spezialisie-rung, ein hohes Patentaufkommen und beim Autonomen Fahren zusätzlich das sehr starke Wachstum. Diese Zukunftstechnologien knüpfen an traditionelle Stärken des deutschen Innovationssystems an.
+[Page #36]
+Zukunftstechnologien für Deutschland
+23
+Bei den Technologien Blockchain, Quantencomputer, Mikrobiom und Smart Grid liegt das Patentaufkommen sehr niedrig. Hinzu kommt eine sehr niedrige Spezialisierung deutscher Anmelder auf diese Bereiche. Bei Quantencomputer ist zwar das Wachstum stark, dies kann aber die übrigen niedrigen Indikatorwerte nicht ausgleichen. Nach Fraunhofer (2020:38) ist die Technologie Quantencomputer zwar grundsätzlich hochin-teressant, befindet sich aktuell aber noch in einem sehr frühen Stadium. Relevante Marktvolumina werden danach erst in 20 bis 30 Jahren erreicht werden.
+3.2.1.3 Die Beteiligung kleiner und mittlerer Unternehmen an Zukunfts-
+technologien
+Mit Hilfe von Patentanmeldungen ist es möglich, weitere Merkmale neben Anzahl, Län-derbeteiligung usw. zu analysieren. Ein für die Innovationspolitik interessantes Merkmal ist dabei, die Beteiligung von kleinen und mittleren Unternehmen (KMU) an Technologien.
+Die PATSTAT-Version des Fraunhofer ISI hat eine Verbindung zur Unternehmensda-
+tenbank ORBIS hergestellt, wodurch eine Zuordnung von Patentanmeldern zu Unter-
+nehmen und damit zu Unternehmensgrößen, Wirtschaftszweigen usw. möglich ist.
+Im Falle von kleinen und mittleren Unternehmen (KMU) ergibt sich ein durchschnittlicher Anteil von KMU-Patenten an allen Patenten von 16,9 Prozent für die Jahre 2015 bis 2017. Werden die KMU-Anteile für die einzelnen Zukunftstechnologien mit dem Durchschnitts-wert normiert, so ergeben sich Index-Werte leicht oberhalb oder unterhalb von 1,0. Tabelle 3-4 zeigt die Rangfolge der Zukunftstechnologien nach dem Kriterium KMU-Index.
+Bei etwa einem Drittel der Zukunftstechnologien ist die Beteiligung der KMU überdurch-schnittlich. Die wesentliche Übereinstimmung mit der Rangfolge nach Technologierele-vanz (Tabelle 3-3) gibt es bei der Technologie Recycling. Überdurchschnittliche KMU-Beteiligungen finden sich bei Technologien im Kontext Umwelt/Klima/Energie. Unter-durchschnittliche Indizes finden sich erwartungsgemäß bei allen Technologien im Kon-text von Kraftfahrzeugen, aber auch im Bereich Informationstechnik. Allerdings wird hier in der Technologie Digitale Medizin ein Durchschnittswert erreicht.
+[Page #37]
+24
+Zukunftstechnologien für Deutschland
+Tabelle 3-4:
+Beteiligung von KMU an Zukunftstechnologien, 2015-2017
+Rang Technologie
+KMU-Index
+1
+Carbon Nanotube (CNT)
+1,65
+2
+Smart grid
+1,61
+3
+Recycling
+1,42
+4
+Soft robotics
+1,32
+5
+Energiespeicherung (außer Batterien)
+1,27
+6
+CO2-Management
+1,19
+7
+Wasserstoffproduktion
+1,14
+8
+Low-carbon steelmaking
+1,11
+9
+2D-Materialien, Graphen
+1,04
+10
+Digitale Medizin, Geräte
+0,97
+11
+Biomaterialien
+0,80
+12
+Augmented- und Virtual Reality
+0,74
+13
+Authentifizierung (Sicherheit)
+0,65
+14
+Cybersecurity
+0,63
+15
+3D-Druck, Additive Fertigung
+0,62
+16
+Leichtbau bei Kfz
+0,60
+17
+Umweltorientierte Biozide
+0,60
+18
+Alternative Solarzellen
+0,53
+19
+Künstliche Intelligenz
+0,45
+20
+Batterietechnik
+0,44
+21
+Mensch-Maschine-Schnittstelle
+0,37
+22
+Autonomes Fahren
+0,37
+24
+Blockchain
+0,36
+25
+Elektr. Traktionsmotoren für Kfz
+0,36
+26
+5G, 6G
+0,34
+27
+Brennstoffzellen für Kfz
+0,34
+28
+Neue Impfstoffe
+0,33
+29
+Internet der Dinge (IoT)
+0,15
+30
+Hybridelektrische Kfz
+0,12
+31
+Quantencomputer
+0,00
+32
+ Mikrobiom
+0,00
+Quelle: PATSTAT, eigene Erhebungen und Berechnungen
+[Page #38]
+Zukunftstechnologien für Deutschland
+25
+3.2.1.4
+Zukunftstechnologien mit großer strategischer Bedeutung
+Im Kontext der Technologiesouveränität wird von der Bundesregierung und auch Vertre-tern der Wirtschaftsverbände immer wieder die Informationstechnik genannt. Diesen Technologien kann für Deutschland eine große strategische Bedeutung zugemessen werden. Die Bundesregierung hat deshalb eine Initiative zur Förderung der Künstlichen Intelligenz initiiert.5 Die Technologien zur Informationstechnik sind in Tabelle 3-5 in Fett-schrift hervorgehoben.
+Aufgrund der Klimaproblematik und der Ressourcenknappheit sind außerdem Technolo-gie zur Ressourcenschonung und zur Emissionsreduktion strategisch relevant. Diese Technologien sind in Tabelle 3-5 in Fett- und zusätzlich Kursivschrift hervorgehoben.
+Nach diesem Kriterium sind 22 der 32 Zukunftstechnologien strategisch bedeutsam. Um zu prüfen, wie stark Deutschland schon aktuell auf diese Themen orientiert ist, ist in Tabelle 3-5 zusätzlich der Spezialisierungsindex ausgewiesen. Während bei den Tech-nologien zur Emissionsreduzierung und Ressourcenschonung die Spezialisierungsindi-zes in der Regel positiv oder zumindest nur schwach negativ sind, sind sie bei Informa-tionstechnologien stark negativ.
+Es ist wenig wahrscheinlich, dass deutsche Unternehmen in den nächsten Jahren in den grundlegenden Entwicklungen zur Informationstechnik eine führende Rolle einnehmen werden. Sie können jedoch in den Anwendungen dieser Technologien eine wichtige Rolle spielen, wie jetzt schon die stark positive Spezialisierung beim Autonomen Fahren zeigt. Bemerkenswert ist in diesem Zusammenhang die Beobachtung, dass viele Pa-tentanmeldungen zu den Technologien der Informationstechnik von Unternehmen aus den Wirtschaftszweigen Maschinenbau, Kraftfahrzeugbau und Elektrische Ausrüstun-gen kommen und diese derartige Innovationen nicht an externe Unternehmen aus den Sektoren DV-Geräte oder IT-Dienstleister delegieren. IT-Dienstleiser können beispiels-weise wesentliche Beiträge beim Aufbau eines unternehmensinternen IT-Systems leis-ten, kennen sich aber in der Regel nicht mit den besonderen Eigenschaften von Produk-tionssystemen aus, die über Embedded Systems gesteuert werden sollen.6
+5 https://www.ki-strategie-deutschland.de/home.html
+6 https://www.embedded-software-engineering.de/was-ist-ein-embedded-system-a-665424/
+[Page #39]
+26
+Zukunftstechnologien für Deutschland
+Tabelle 3-5:
+Zukunftstechnologien mit großer strategischer Bedeutung nach Rang-folge der Patentindikatoren und deren Spezialisierungsindex (Hervor-hebung in Fett- und Kursivschrift)
+Rang Technologie
+Indexpunkte
+RPA
+1
+Biomaterialien
+22,0
+15
+2
+3D-Druck, Additive Fertigung
+20,5
+37
+3
+Hybridelektrische Kfz
+19,5
+76
+4
+Leichtbau bei Kfz
+19,5
+63
+5
+Autonomes Fahren
+19,0
+53
+6
+Alternative Solarzellen
+18,0
+32
+7
+Recycling
+17,5
+-8
+8
+Batterietechnik
+17,5
+11
+9
+Elektr. Traktionsmotoren für Kfz
+17,0
+78
+10
+Umweltorientierte Biozide
+16,5
+-23
+11
+CO2-Management
+15,5
+15
+12
+Augmented- und Virtual Reality
+15,0
+-67
+13
+Brennstoffzellen für Kfz
+14,5
+30
+14
+Cybersecurity
+14,0
+-40
+15
+2D-Materialien, Graphen
+14,0
+-67
+16
+Digitale Medizin, Geräte
+14,0
+-48
+17
+Wasserstoffproduktion
+14,0
+4
+18
+Künstliche Intelligenz
+12,5
+-73
+19
+Authentifizierung (Sicherheit)
+12,5
+-53
+20
+Mensch-Maschine-Schnittstelle
+12,5
+-56
+21
+Low-carbon steelmaking
+12,5
+-12
+22
+Neue Impfstoffe
+12,5
+-51
+Energiespeicherung (außer Batterien)
+24
+12,5
+-17
+25
+Internet der Dinge (IoT)
+12,0
+-77
+26
+5G, 6G
+10,5
+-90
+27
+Carbon Nanotube (CNT)
+10,0
+-82
+28
+Soft robotics
+9,5
+-49
+29
+Blockchain
+9,0
+-72
+30
+Quantencomputer
+9,0
+-94
+31
+Mikrobiom
+9,0
+-92
+32
+Smart grid
+8,0
+-66
+Quelle: WPI, PATSTAT, eigene Erhebungen und Berechnungen
+[Page #40]
+Zukunftstechnologien für Deutschland
+27
+3.2.2
+Auswertung von Publikationsindikatoren
+Zu den 32 Zukunftstechnologien wurden neben Recherchestrategien für Patente auch solche für Publikationen entwickelt. Publikationen sind ein guter Indikator für wissen-schaftliche Aktivitäten. Untersuchungen zu forschungsintensiven Technologien haben gezeigt, dass neben den Forschungen in den Unternehmen auch parallel Forschungen in wissenschaftlichen Einrichtungen durchgeführt werden, die einen leichten Vorlauf zur industriellen Forschung haben und wichtige Impulse für die Entwicklung des jeweiligen Gebiets geben (Schmoch 2007). Von daher ist eine gute wissenschaftliche Basis eine wichtige Grundlage für die Entwicklung von Zukunftstechnologien.
+3.2.2.1 Methodische Konzepte
+Die Recherchen zu Publikationen wurden in der multidisziplinären Datenbank Web of Science (WoS) in der Version Scisearch des Anbieters STN durchgeführt. Bei den Pub-likationen wurden ähnlich wie bei Patenten Teilindikatoren gebildet zu dem globalen Trend (Wachstum), der deutschen Spezialisierung, dem deutschen Volumen sowie der Zitatrate von deutschen Publikationen:
+ Der Teilindikator zu Trend/Wachstum wird errechnet als Relation der Publikations-zahlen von 2019 zu denen von 2010. Bei Publikationen waren im Jahr 2020 die voll-ständigen Publikationszahlen von 2019 verfügbar.
+ Bei der Spezialisierung Deutschlands erfolgte die Berechnung analog zum Speziali-
+sierungsindex für Patente, allerdings für den Zeitraum 2017 bis 2019.
+ Bei der Zahl der deutschen Publikationen wurde ebenfalls der Zeitraum 2017 bis 2019
+zugrunde gelegt.
+Bei Zitaten wurden die Zitate auf deutsche Publikationen aus dem Jahr 2017 ermittelt. Dieses frühere Jahr ist erforderlich, weil ein Zeitraum von etwa drei Jahren erforderlich ist, bis sich in Bezug auf ein Publikationsjahr eine stabile Zitatquote bestimmen lässt. Diese Zitatquote für deutsche Publikationen wurde auf die Zitatquote aller Publikationen aus dem Jahr 2017 für dieses Gebiet bezogen, um eine über- oder unterdurchschnittli-che Zitatquote feststellen zu können. Der Vergleich erfolgte innerhalb der Technologie, weil aus verschiedenen Gründen die Zitatquote zwischen Gebieten variiert (Van Raan 2004).
+Diese Teilindikatoren wurden analog zu den Patentindikatoren in eine 5-stufige Skala überführt, um sie miteinander verrechnen zu können (Tabelle 3-6).
+[Page #41]
+28
+Zukunftstechnologien für Deutschland
+Tabelle 3-6:
+Spektrum der Ausprägung der Teilindikatoren zu Publikationen für die Technologiefelder der Analyse und Zuordnung von Skalenwerten
+Punkte
+Trend
+Punkte
+Spez. RLA
+Punkte Volumen Punkte
+Zitatrate
+5 5 5 5 4 4 4 4 3 3 3 3 2 2 2 2 2 2 2 2 2 1 1 1 1 1 1 1 1 1 1
+143,0 80,0 50,0 33,0 13,8 10,5 10,2 9,5 6,5 6,3 6,2 4,9 4,1 4,0 3,7 3,4 3,2 3,0 2,9 2,8 2,7 2,3 2,3 2,1 2,1 2,0 2,0 1,9 1,8 1,8 1,3
+5 5 5 5 4 4 4 4 4 4 4 3 3 3 3 2 2 2 2 2 1 1 1 1 1 1 1 1 1 1 1
+50 37 34 33 23 23 17 15 8 6 6 3 3 -3 -5 -16 -19 -19 -22 -22 -34 -35 -38 -47 -48 -55 -60 -61 -63 -65 -86
+5 5 5 5 5 5 5 5 4 4 4 4 4 4 3 3 3 3 3 2 2 2 2 2 1 1 1 1 1 1 1
+6178 3177 2092 1834 1468 1269 1253 1074 732 618 532 510 493 455 367 326 289 263 251 184 175 168 137 107 53 49 43 40 34 18 12
+5 5 5 5 5 5 4 4 4 4 4 4 4 4 4 3 3 3 3 3 3 3 3 3 2 2 2 1 1 1 1
+1,88 1,61 1,59 1,54 1,53 1,35 1,21 1,21 1,20 1,14 1,14 1,13 1,11 1,11 1,10 1,07 1,06 1,05 1,03 1,02 0,98 0,96 0,95 0,94 0,90 0,88 0,83 0,74 0,72 0,65 0,55
+Die Vergabe von Punkten erfolgte ähnlich wie bei Patenten. Es ist lediglich anzumerken, dass auch bei Technologien mit sehr geringem Wachstum die niedrigste Wachstumsrate über 1 liegt, was mit dem grundsätzlichen Wachstum der Datenbank WoS zusammen-hängt (Michels und Schmoch 2012).
+Die vier Teilindikatoren bei Publikationen wurden gleich gewichtet.
+[Page #42]
+Zukunftstechnologien für Deutschland
+29
+3.2.2.2
+Ergebnisse der Auswertung von Publikationsindikatoren
+Für die einzelnen Technologien sind bei Publikationen 4 bis 20 Punkte möglich. Auch hier steht die Bewertung der deutschen Position im Vordergrund. Es ergibt sich ein Ran-king nach Tabelle 3-7.
+Tabelle 3-7: Rangfolge der Zukunftstechnologien nach Publikationsindikatoren in ihrer Relevanz für Deutschland und Vergleich mit Patentindikatoren
+Rang Technologie
+Publ.-Index
+Pat.-Index
+1
+3D-Druck, Additive Fertigung
+18,0
+20,5
+2
+Mikrobiom
+18,0
+9,0
+3
+Quantencomputer
+15,0
+9,0
+4
+Augmented- und Virtual Reality
+15,0
+15,0
+5
+Alternative Solarzellen
+14,0
+18,0
+6
+Künstliche Intelligenz
+13,0
+12,5
+7
+Internet der Dinge (IoT)
+13,0
+12,0
+8
+5G, 6G
+13,0
+10,5
+9
+2D-Materialien, Graphen
+13,0
+14,0
+10
+CO2-Management
+13,0
+15,5
+11
+Biomaterialien
+13,0
+22,0
+12
+Batterietechnik
+13,0
+17,5
+13
+Energiespeicherung (außer Batterien)
+13,0
+12,5
+14
+Cybersecurity
+12,0
+14,0
+15
+Soft robotics
+12,0
+9,5
+16
+Autonomes Fahren
+12,0
+19,0
+17
+Neue Impfstoffe
+11,0
+12,5
+18
+Brennstoffzellen für Kfz
+11,0
+14,5
+19
+Umweltorientierte Biozide
+11,0
+16,5
+20
+Wasserstoffproduktion
+11,0
+14,0
+21
+Digitale Medizin, Geräte
+10,0
+14,0
+22
+Recycling
+10,0
+17,5
+24
+Blockchain
+9,0
+9,0
+25
+Mensch-Maschine-Schnittstelle
+9,0
+12,5
+26
+Elektr. Traktionsmotoren für Kfz
+9,0
+17,0
+27
+Leichtbau bei Kfz
+9,0
+19,5
+28
+Low-carbon steelmaking
+8,0
+12,5
+29
+Carbon Nanotube (CNT)
+8,0
+10,0
+30
+Smart grid
+8,0
+8,0
+31
+Hybridelektrische Kfz
+7,0
+19,5
+32
+Authentifizierung (Sicherheit)
+6,0
+12,5
+Quellen: WoS, WPI, PATSTAT, eigene Erhebungen und Berechnungen
+[Page #43]
+30
+Zukunftstechnologien für Deutschland
+Die Rangfolge bei Publikationen unterscheidet sich deutlich von der bei Patenten.
+Bei den Publikationen zur Additiven Fertigung ist das Wachstum sehr stark und auch die deutsche Spezialisierung ist stark überdurchschnittlich, die Zahl der deutschen Publika-tionen liegt hoch und auch die deutsche Zitatquote. Beim Mikrobiom, das bei den Patentindikatoren niedrig liegt, sind das Wachstum und die deutsche Publikationszahl stark überdurchschnittlich, die deutsche Spezialisierung und die Zitatquote gut. Grund dafür ist, dass die Publikationsindikatoren stärker zukunftsorientiert als die Patentindika-toren sind. Beim Mikrobiom ist bei wichtigen Krankheiten noch nicht der Durchbruch er-reicht. Wenn das der Fall ist, werden sich auch bei den Patentindikatoren die Zahlen erheblich verbessern. Auch die Additive Fertigung ist noch in einer Erprobungsphase. Wenn sich hier erprobte Konzepte durchgesetzt haben, werden auch die Patentindika-toren höhere Werte annehmen.
+Die Zukunftsorientierung der Publikationsindikatoren wird bei den Quantencomputern noch deutlicher. Hier gibt es eine sehr hohe Spezialisierung Deutschlands, was auch für die Zitatrate gilt. Das lässt in etwa zehn Jahren auch eine gute Positionierung Deutsch-lands in der Technologie erwarten.
+Auch im Gebiet Augmented und Virtual Reality liegen die Werte bei Spezialisierung, Publikationszahl und Zitatrate gut oder sehr gut, was eine Verbesserung der Technolo-gieindikatoren in mittelfristiger Sicht erwarten lässt.
+Auch bei Alternativen Solarzellen, Künstliche Intelligenz, Internet der Dinge und 5G ist die Positionierung in der Wissenschaft besser als in der Technologie, was auf den ab-soluten Trend, das Publikationsvolumen und die Zitatquote zurückzuführen ist. Aller-dings ist nur bei den Solarzellen die deutsche Spezialisierung durchschnittlich. Bei Künstlicher Intelligenz, Internet der Dinge und 5G ist sie wie bei Patenten stark unter-durchschnittlich, womit in diesen strategisch wichtigen Technologien erhebliche Anstren-gungen unternommen werden müssen, um eine ausreichende Eigenständigkeit zu er-reichen.
+Bei den 2D-Materialien könnte die deutsche Spezialisierung besser sein, beim CO2-Management sind die Werte insgesamt gut und bei den Biomaterialien ist wie bei den Patenten das Wachstum mäßig, die absoluten Publikationszahlen sind aber hoch. Auch bei diesen Technologien ist mittelfristig mit einer Verbesserung der deutschen Position in der Technologie zu rechnen.
+Insgesamt weichen die Zahlen bei Publikationen von denen für die Patente ab, sie sagen aber etwas über die Zukunftsorientierung der Gebiete aus. Da im Kontext dieser Studie
+[Page #44]
+Zukunftstechnologien für Deutschland
+31
+die aktuelle technologische Position im Vordergrund steht, werden die Publikationsindi-katoren im Gesamtindex mit dem Faktor 0,5 gewichtet. Bei einer Gewichtung mit 1,0 ergeben sich allerdings in der Gesamtbewertung bei der Kombination von Patent-, Pub-likations- und Markenindikatoren nur geringfügige Veränderungen. Nur die Technologien Mikrobiom und Quantencomputer kommen auf höhere Platzierungen.
+3.2.3
+Auswertung von Markenindikatoren
+Neben Patent- und Publikationsindikatoren wurden zu den 32 Zukunftstechnologien auch Markenindikatoren ausgewertet. Marken werden angemeldet, um den Verkauf ei-nes Produktes oder einer Dienstleistung zu fördern. Marken bilden damit die Diffusion ab. Sie zeigen, wie stark Produkte und Dienstleistungen aktuell am Markt etabliert sind.
+3.2.3.1 Methodische Konzepte
+Für die vorliegende Untersuchung wurden Europäische Marken am Amt der Europäi-schen Union für Geistiges Eigentum (EUIPO, Alicante) untersucht. Es handelt sich dabei um Marken, die in den Ländern der EU wirksam sind, die also einen Schutz im Europä-ischen Raum bieten. Sie ermöglichen damit eine gute Vergleichbarkeit von Ländern. Es besteht allerdings ein Regionalvorteil gegenüber nicht-europäischen Ländern wie USA oder China.
+Die Analysen wurden zunächst im DPMAregister des Deutschen Patent- und Marken-amtes durchgeführt, das neben deutschen auch europäische Marken umfasst. Marken sind nur nach einer groben Klassifikation von 45 Klassen eingeordnet, die für eine Un-tersuchung von Zukunftstechnologien nicht geeignet sind. Die Recherche wurde deshalb auf der Basis der Stichworte durchgeführt, mit denen die Anmelder die Waren und Dienstleistungen beschreiben, die durch die Marke geschützt werden sollen.
+Die zu schützenden Waren und Dienstleistungen können in einer Reihe von unterschied-lichen Sprachen benannt werden, meist wird aber Englisch oder Deutsch verwendet, auch etwa von spanischen oder italienischen Anmeldern.
+Mit dem DPMAregister werden Stichwortrecherchen sehr effektiv durchgeführt. Ein Problem ist aber, dass größere Anmelder zu einer Marke eine Vielzahl von Waren und Dienstleistungen in verschiedenen Klassen anmelden, sodass zu kombinierende Stich-worte manchmal weit auseinanderstehen und damit die gesuchte Technologie nicht gut erfasst wird. Deshalb muss jede Strategie anhand der Durchsicht von Stichproben der gefundenen Marken geprüft werden.
+Die am Ende zu einer Technologie gefundenen Marken wurden mit Hilfe des Aktenzei-chens an die In-house-Version des Europäischen Markenregisters TMview überführt,
+[Page #45]
+32
+Zukunftstechnologien für Deutschland
+weil sich hier geeignete statistische Analysen über SQL durchführen lassen. Eine direkte Analyse in der In-house-Version wäre nicht sinnvoll gewesen, weil sich hier die Stich-wort-Recherchen nur mit einem erheblichen Aufwand durchführen lassen.
+Bei den Europäischen Marken wurden drei Teilindikatoren gebildet:
+ Trend/Wachstum wurde als Relation der weltweiten Anmeldungen von 2018 in Rela-
+tion zu 2010 berechnet.
+ Die deutsche Spezialisierung wurde bei Marken analog zu der bei Patenten für den Zeitraum 2016 bis 2018 berechnet. Referenz waren dabei nicht alle Markenanmel-dungen in diesem Zeitraum, sondern nur die Anmeldungen in den Markenklassen, die sich auf Technologien oder technologiebezogene Dienstleistungen beziehen (Schmoch und Gauch 2009).
+ Das deutsche Volumen wurde als Zahl der Markenanmeldungen im Zeitraum 2016
+bis 2018 ermittelt.
+Das Spektrum der Ausprägung der Teilindikatoren bei Europäischen Marken und die Zuordnung von Skalenwerten ist in Tabelle 3-8 aufgelistet.
+Bemerkenswert ist dabei, dass bei Marken insgesamt für zwei Felder überhaupt keine Anmeldungen gefunden wurden. Bei CNT ist die Technologie jeweils in anderen Waren eingebaut und wird nicht separat vertrieben, Soft Robots sind eine spezielle Variante von Robotern. Es werden nur Roboter als Waren aufgeführt, die nicht weiter spezifiziert wer-den können. Im Falle von Low-carbon steelmaking und von 5G sind die weltweiten An-meldungen sehr niedrig und es gibt keine deutschen Anmeldungen. Im Falle von 5G melden nur einige wenige große Anbieter das System als solches an und es gibt keine Anmeldungen zu spezifischen Anwendungen etwa in der Produktion.
+Insgesamt können die Indikatoren bei Marken einen Gesamtwert zwischen 3 und 15 einnehmen.
+Tabelle 3-8:
+Spektrum der Ausprägung der Teilindikatoren zu Marken für die Tech-nologiefelder der Analyse und Zuordnung von Skalenwerten
+Punkte
+Trend
+Punkte
+Spez. RMA
+Punkte
+Volumen
+5
+107,0
+5
+85
+5
+719
+5
+59,0
+5
+80
+5
+538
+5
+56,0
+5
+80
+5
+473
+4
+18,5
+5
+67
+5
+430
+4
+11,3
+5
+61
+5
+389
+4
+11,1
+5
+53
+4
+298
+4
+8,5
+5
+46
+4
+289
+[Page #46]
+Zukunftstechnologien für Deutschland
+33
+Punkte
+Trend
+Punkte
+Spez. RMA
+Punkte
+Volumen
+4
+7,0
+5
+40
+4
+139
+4
+6,9
+5
+38
+4
+137
+4
+6,8
+5
+37
+4
+95
+4
+5,0
+5
+27
+4
+92
+4
+5,0
+4
+20
+4
+82
+4
+4,8
+4
+15
+3
+68
+3
+4,0
+4
+11
+3
+48
+3
+4,0
+3
+6
+3
+37
+3
+3,6
+3
+5
+3
+30
+3
+3,5
+1
+0
+2
+24
+3
+3,0
+1
+0
+2
+19
+3
+3,0
+1
+0
+2
+10
+3
+2,9
+1
+0
+2
+9
+3
+2,9
+1
+0
+1
+4
+2
+2,4
+2
+-14
+1
+4
+2
+2,3
+2
+-18
+1
+3
+2
+2,3
+2
+-20
+1
+2
+2
+2,1
+1
+-24
+1
+2
+2
+2,0
+1
+-27
+1
+1
+2
+1,9
+1
+-43
+1
+0
+1
+0,9
+1
+-50
+1
+0
+1
+0,1
+1
+-67
+1
+0
+1
+0,0
+1
+-74
+1
+0
+1
+0,0
+1
+-77
+1
+0
+3.2.3.2
+Ergebnisse der Auswertung von Markenindikatoren
+Das Ergebnis der Auswertung für Marken ist in Tabelle 3-9 dokumentiert und dem Er-gebnis zu Patenten gegenübergestellt.
+Tabelle 3-9: Rangfolge der Zukunftstechnologien nach Markenindikatoren in ihrer
+Relevanz für Deutschland und Vergleich mit Patentindikatoren
+Rang Technologie
+Marken-Index
+Pat.-Index
+1
+Authentifizierung (Sicherheit)
+14
+13
+2
+Brennstoffzellen für Kfz
+13
+15
+3
+Autonomes Fahren
+13
+19
+4
+Mensch-Maschine-Schnittstelle
+12
+13
+5
+Cybersecurity
+11
+14
+6
+Internet der Dinge (IoT)
+11
+12
+[Page #47]
+34
+Zukunftstechnologien für Deutschland
+Rang Technologie
+Marken-Index
+Pat.-Index
+7
+3D-Druck, Additive Fertigung
+11
+21
+8
+Digitale Medizin, Geräte
+11
+14
+9
+Energiespeicherung (außer Batterien)
+11
+13
+10
+Leichtbau bei Kfz
+10
+20
+11
+Recycling
+10
+18
+12
+Biomaterialien
+10
+22
+13
+Batterietechnik
+10
+18
+14
+Augmented- und Virtual Reality
+9
+15
+15
+Mikrobiom
+9
+9
+16
+Elektr. Traktionsmotoren für Kfz
+9
+17
+17
+CO2-Management
+9
+16
+18
+Smart grid
+9
+8
+19
+Wasserstoffproduktion
+9
+14
+20
+Blockchain
+8
+9
+21
+Künstliche Intelligenz
+7
+13
+22
+Quantencomputer
+6
+9
+24
+Hybridelektrische Kfz
+6
+20
+25
+Umweltorientierte Biozide
+6
+17
+26
+Alternative Solarzellen
+6
+18
+27
+2D-Materialien, Graphen
+4
+14
+28
+Neue Impfstoffe
+4
+13
+29
+5G, 6G
+3
+11
+30
+Soft robotics
+3
+10
+31
+Low-carbon steelmaking
+3
+13
+32
+Carbon Nanotube (CNT)
+3
+10
+Quelle: DPMAregister, TMview, eigene Erhebungen und Berechnungen
+Auch bei Markenindikatoren ergibt sich eine andere Rangfolge als bei Patentindikatoren. Auffällig ist, dass Zukunftstechnologien der Informationstechnik wie Cybersecurity oder Internet der Dinge relativ weit oben stehen. Das ist möglich, weil die Spezialisierung deutscher Anbieter nur negativ, aber nicht stark negativ ist. Es geht dabei um deutsche IT-Dienstleister, die ihre Dienste auf der Basis ausländischer Produkte anbieten. Weiter-hin gibt es gute Positionen der Technologien, die mit Kfz zusammenhängen.
+Weil die Marken vor allem die gegenwärtige Marktsituation abbilden, es in dieser Studie aber in erster Linie um Zukunftstechnologie geht, werden im Gesamtindikator die Mar-kenindikatoren mit dem Faktor 0,3 gewichtet.
+[Page #48]
+Zukunftstechnologien für Deutschland
+35
+3.2.4
+Auswertung der Gesamtindikatoren
+Bei der Zusammenführung der Patent-, Publikations- und Markenindikatoren ergibt sich eine Rangfolge nach Tabelle 3-10.
+Erwartungsgemäß ist die Rangfolge sehr ähnlich zu der der Patentindikatoren. Die Addi-tive Fertigung und die Biomaterialien stehen aus technologischer Sicht mit deutlichem Abstand vorne. Erwähnenswert ist die gute Stellung der Batterietechnik, die einige Ex-perten wegen der chinesischen und japanischen Stärke für Deutschland verloren geben. Hier haben deutsche Hersteller gut aufgeholt und können besondere Eigenschaften wie alternative Werkstoffe zu Lithium, hoher Kapazitäten oder Wiederverwertbarkeit betonen. Mit der Umstellung auf Elektromobilität wird es wichtig sein, diese Stärken am Markt durchzusetzen. Auffällig ist schließlich die niedrige Positionierung von Blockchain, das in vielen Zukunftsstudien als eine zentrale Zukunftstechnologie dargestellt wird. Bei Pa-tent-, Publikations- und Markenindikatoren sind alle Werte wie deutsche Spezialisierung, deutsches Volumen, Größe der Patentfamilie oder Beteiligung von KMU auf der nied-rigsten Stufe. Nur das Wachstum ist sehr stark.
+Die Ergebnisse der Gesamtauswertung hängen von den zugrunde liegenden Annahmen ab, hier insbesondere von der Auswahl der Indikatoren und deren Gewichtung. Wird beispielsweise die Gewichtung der Publikationsindikatoren von 0,5 auf 1 angehoben, verändert sich in der Rangfolge der Technologien nur wenig. Die größte Veränderung betrifft die Technologien Mikrobiom, die dann vom 22. auf den 11. Rang vorrückt und Quantencomputer vom 27. auf den 22. Rang. Größer sind die Veränderungen, wenn zusätzlich bei den Patentindikatoren der Anteil von KMU mit dem Gewicht 1,5 eingeführt wird. Hierdurch rücken vor allem einige Technologien im Bereich Umwelt/Klima weiter nach oben (siehe Tabelle A-1 im Anhang).
+Tabelle 3-10: Rangfolge der Zukunftstechnologien nach den technologischen Ge-samtindikatoren in ihrer Relevanz für Deutschland7
+Rang Technologie
+Gesamt-Index
+1
+3D-Druck, Additive Fertigung
+33
+2
+Biomaterialien
+32
+3
+Autonomes Fahren
+29
+4
+Leichtbau bei Kfz
+27
+5
+Batterietechnik
+27
+6
+Alternative Solarzellen
+27
+7 In dieser Tabelle ist das Feld 23 zu E-Highway, das von der Analyse ausgenommen wurde,
+nicht aufgeführt.
+[Page #49]
+36
+Zukunftstechnologien für Deutschland
+Rang Technologie
+Gesamt-Index
+7
+Recycling
+26
+8
+Augmented- und Virtual Reality
+25
+9
+CO2-Management
+25
+10
+Elektr. Traktionsmotoren für Kfz
+24
+11
+Brennstoffzellen für Kfz
+24
+12
+Umweltorientierte Biozide
+24
+13
+Cybersecurity
+23
+14
+Digitale Medizin, Geräte
+22
+15
+Energiespeicherung
+22
+16
+Wasserstoffproduktion
+22
+17
+Internet der Dinge (IoT)
+22
+18
+2D-Materialien, Graphen
+22
+19
+Künstliche Intelligenz
+21
+20
+Hybridelektrische Kfz
+21
+21
+Mikrobiom
+21
+22
+Mensch-Maschine-Schnittstelle
+21
+24
+Authentifizierung (Sicherheit)
+20
+25
+Neue Impfstoffe
+19
+26
+Quantencomputer
+18
+27
+5G, 6G
+18
+28
+Low-carbon steelmaking
+17
+29
+Soft robotics
+16
+30
+Blockchain
+16
+31
+Carbon Nanotube (CNT)
+15
+32
+Smart grid
+15
+[Page #50]
+Zukunftstechnologien für Deutschland
+37
+4
+Spezielle Patentanalysen zu einzelnen Technolo-gien
+Aus der Auswertung der 32 Zukunftstechnologien ergeben sich Fragen zu Einzelaspek-ten, die im folgenden Kapitel näher analysiert werden sollen. Behandelt werden insbe-sondere
+ Konvergenz in der Informationstechnik
+ Strukturen des Feldes Künstliche Intelligenz
+ Entwicklung in der Robotik und
+ Bedeutung der Informationstechnik für Zukunftstechnologien
+Diese Analysen wurden durchgeführt, weil sich bei der inhaltlichen Betrachtung der Ein-zeltechnologien der Informationstechnik der Eindruck aufgedrängt hat, dass diese inhalt-lich eng verbunden sind und manche Aspekte schwer trennbar sind. Dieser Eindruck sollte systematisch geprüft werden.
+Bei der Künstlichen Intelligenz ergibt sich aus den Beschreibungen der Zukunftsstudien, dass sehr viele Anwendungsbereiche betroffen sind. Hier sollte geprüft werden, inwie-weit sich das auf die technologischen Aktivitäten auswirkt.
+Die Robotik wird in aktuellen Zukunftsstudien nicht als Zukunftstechnologie genannt. Der Hinweis auf Soft Robotics als besonders dynamisches Feld stammt von einem Fraun-hofer-Experten. Im Gutachten der Expertenkommission Forschung und Innovation 2016 wird allerdings auch die Robotik insgesamt als Zukunftstechnologie herausgestellt (EFI 2016). Vor diesem Hintergrund sollte geprüft werden, ob auch aktuell noch die Robotik insgesamt als Zukunftstechnologie bezeichnet werden kann.
+Bei der Zusammenstellung der Zukunftstechnologien ist immer wieder deutlich gewor-den, dass die Informationstechnik auch für viele Technologien anderer Bereiche eine wichtige Rolle spielt. Dieser Frage sollte in systematischer Form nachgegangen werden.
+4.1
+Konvergenz in der Informationstechnik
+Die erste Frage stellt sich bei zukunftsorientierten Informationstechnologien, in welchem Ausmaß es hier eine Konvergenz zwischen den Technologien gibt oder ob davon ein-zelne weitgehend separat zu sehen sind. So ist zu vermuten, dass es eine enge Verbin-dung zwischen den Technologien Internet der Dinge (IoT) und 5G gibt, da z. B. über IoT die Kommunikation zwischen Maschinen organisiert wird und über 5G die physikalische Verbindung zwischen den Maschinen hergestellt wird, oder es ist eine enge Verbindung zwischen Künstlicher Intelligenz und Autonomem Fahren anzunehmen.
+[Page #51]
+38
+Zukunftstechnologien für Deutschland
+Zur genaueren Überprüfung dieser Hypothesen wurde für die Jahre 2014 und 2018 er-mittelt, wie groß die Überschneidung der Patentanmeldungen für die Technologien
+ Künstliche Intelligenz
+ Cybersecurity
+ 5G
+ Internet der Dinge
+ Mensch-Maschine-Schnittstelle
+ Blockchain
+ Autonomes Fahren
+ Augmented und Virtual Reality
+ist. Die Technologie Authentifizierung wurde nicht betrachtet, weil sie ein Teilgebiet von Cybersecurity ist.
+Daraus ergeben sich Vernetzungsmatrizen nach Tabelle 4-1.
+Tabelle 4-1:
+Vernetzung zwischen Zukunftstechnologien der Informationstechnik, 2014 und 2018
+2014
+KI
+BLC
+CYS
+IoT
+5G
+MM
+VIRT AUTF SMGR
+KI
+1887
+0
+43
+3
+0
+5
+20
+18
+2
+BLC
+0
+5
+2
+0
+0
+0
+0
+0
+0
+CYS
+43
+2
+8686
+37
+17
+3
+6
+0
+8
+IoT
+3
+0
+37
+186
+4
+0
+1
+0
+3
+5G
+0
+0
+17
+4
+226
+1
+1
+0
+3
+MM
+5
+0
+3
+0
+1
+230
+2
+5
+0
+VIRT
+20
+0
+6
+1
+1
+2
+447
+1
+0
+AUTF
+18
+0
+0
+0
+0
+5
+1
+169
+0
+SMGR
+2
+0
+8
+3
+3
+0
+0
+0
+67
+[Page #52]
+Zukunftstechnologien für Deutschland
+39
+2018
+KI
+BLC
+CYS
+IoT
+5G
+MM
+VIRT AUTF SMGR
+KI
+7446
+37
+185
+75
+8
+23
+109
+216
+0
+BLC
+37
+1216
+434
+53
+4
+1
+6
+4
+0
+CYS
+185
+434
+11728
+355
+195
+5
+58
+3
+12
+IoT
+75
+53
+355
+1882
+111
+5
+53
+8
+23
+5G
+8
+4
+195
+111
+2006
+0
+45
+1
+20
+MM
+23
+1
+5
+5
+0
+295
+15
+2
+0
+VIRT
+109
+6
+58
+53
+45
+15
+2135
+27
+14
+AUTF
+216
+4
+3
+8
+1
+2
+27
+808
+4
+SMGR
+0
+0
+12
+23
+20
+0
+14
+4
+122
+Quelle: WPI, eigene Erhebungen und Berechnungen
+mit
+KI = Künstliche Intelligenz, BLC = Blockchain, CYS = Cybersecurity, IoT = Internet der Dinge, 5G =
+5G,
+MM
+= Mensch-Maschine-Schnittstelle, VIRT = Augmented und Virtual Reality, AUTF = Autonomes Fah-
+ren, SNGR = Smart grid
+In den einzelnen Zellen ist die Anzahl der Patentanmeldungen wiedergegeben, die gleichzeitig in zwei Tech-
+nologien eingeordnet sind, z. B. für 2018 185 sowohl in Künstlicher Intelligenz als auch Cybersecurity.
+2014 zeigen sich erste Überschneidungen zwischen Künstlicher Intelligenz, Cyber-security, Virtueller Realität und Autonomem Fahren. Weiterhin kommen Verbindungen zwischen Cybersecurity, Internet der Dinge und 3G heraus. Viele Verbindungsstellen zwischen den Technologien bleiben leer. Blockchain steckt noch in einer frühen Phase und weist kaum Patentanmeldungen auf.
+Das Netz in 2018 ist wesentlich dichter geworden. Die Verbindungen zwischen Künstli-cher Intelligenz, Cybersecurity, Virtueller Realität und Autonomem Fahren sind wesent-lich enger geworden. Das Internet der Dinge ist neu hinzugekommen. Bei Cybersecurity kommt als neue Verbindung Blockchain heraus. Es gibt in der Matrix nur noch wenige Leerstellen bei Smart Grid und bei Mensch-Maschine-Schnittstelle. Eine graphische Dar-stellung des Netzes von 2018 ist in Abbildung 4-1 wiedergegeben.
+[Page #53]
+40
+Zukunftstechnologien für Deutschland
+Abbildung 4-1:
+Netzwerk der Zukunftstechnologien in der Informationstechnik, 2018
+Quelle: WPI, eigenen Erhebungen und Berechnungen
+Das Netzwerk zeigt eine zentrale Stellung der Technologien Künstliche Intelligenz, Cy-bersecurity, Blockchain, Internet der Dinge, 5G sowie angebunden an Künstliche Intelli-genz das Autonome Fahren. Die zentrale Stellung der Künstlichen Intelligenz wird im folgenden Abschnitt genauer untersucht. Smart Grid und Mensch-Maschine-Schnittstelle haben dagegen eine Randstellung mit nur leichten Kopplungen an die anderen Techno-logien.
+Es bestätigt sich insgesamt die Hypothese einer zunehmenden Konvergenz der Zu-kunftstechnologien in der Informationstechnik.
+4.1.1
+Strukturen des Feldes Künstliche Intelligenz
+Die Technologie Künstliche Intelligenz hat, wie schon in der Netzwerkanalyse gezeigt, eine zentrale Stellung in der neuen Informationstechnik und vielfältige Anwendungsbe-reiche. Deshalb wird diese Technologie an dieser Stelle genauer betrachtet.
+Ein zentrales Merkmal von Künstlicher Intelligenz (KI) ist das maschinelle Lernen, vor allem basierend auf neuronalen Netzen. Diese simulieren natürliche neuronale Netze. Wesentlich ist dabei, wie viele Schichten von Neuronen simuliert werden. Bei etwa zehn Schichten wird von Deep Learning gesprochen (McKinsey 2018:4).
+[Page #54]
+Zukunftstechnologien für Deutschland
+41
+Wichtige Problemtypen, bei denen KI angewandt wird sind
+ Klassifikationen
+ Abschätzungen
+ Clusterung
+ Optimierung
+ Erkennung von Anomalien
+ Rangbildung
+ Empfehlungen
+ Datenerzeugung in besonderer Form (McKinsey 2018:5)
+Es geht somit um Probleme der unscharfen Logik, die auf der Basis von Erfahrungen (Lernen, Training) gelöst werden. Es gibt Anwendungen in einer Vielzahl von Wirt-schaftszweigen. McKinsey (2018a:9) benennt allein 18 sehr verschiedene Wirtschafts-zweige wie Mikroelektronik, Bankwesen, Versicherungen, Reiseorganisation, Transport oder Medizintechnik. Besondere Schwerpunkte werden gesehen bei Mikroelektronik, Automobilproduktion, Bankwesen, Medizintechnik, sehr stark Versicherungen, Pharma-zie, Einzelhandel, Sozialwesen und Telekommunikation. Aufgrund der vielfältigen An-wendungsmöglichkeiten ist eine belastbare Ermittlung des Marktwertes sehr schwierig (McKinsey 2018:18).
+Zur Analyse der Patentanmeldungen wurde eine sehr aufwändige Strategie der OECD benutzt, die aktuell der beste Vorschlag zu diesem Thema ist (Baruffaldi u. a. 2020). Aus technischer Sicht ist zunächst einmal festzustellen, dass es KI als Forschungsfeld schon seit mehr als 20 Jahren gibt, dass die Zahl der Patentanmeldungen jedoch seit 2014 massiv angestiegen ist (Abbildung 4-2). Es ist davon auszugehen, dass die Zahlen wei-ter steigen werden.
+[Page #55]
+42
+Zukunftstechnologien für Deutschland
+Abbildung 4-2:
+Zahl der Transnationalen Patentanmeldungen zur Künstlichen Intel-ligenz
+Quelle: WPI, eigenen Erhebungen
+Abbildung 4-3 zeigt die Anmeldezahlen für wichtige Länder. Die USA sind mit Abstand führend gefolgt von China. Die Zahl der deutschen Anmeldungen liegt bei dem Vergleich mit diesen wichtigen Ländern am niedrigsten.
+Abbildung 4-3:
+Zahl der Transnationalen Patentanmeldungen für wichtige Länder, 2018
+Quelle: WPI, eigene Erhebungen
+[Page #56]
+Zukunftstechnologien für Deutschland
+43
+Die Vielzahl von Anwendungen von KI zeigt sich auch in der Vielzahl von Patentunter-klassen, in denen Patentanmeldungen zu KI eingeordnet sind. Insgesamt sind 299 Un-terklassen von insgesamt 325 betroffen, also fast die gesamte Technik. Die am häufigs-ten betroffenen Unterklassen sind in Tabelle 4-2 aufgelistet.
+Tabelle 4-2: Wichtige Unterklassen für die Einordung von Patentanmeldungen zur
+Künstlichen Intelligenz, 2018
+Unterklasse Anzahl
+Gegenstand
+G06N
+5295
+Spezielle Rechnermodelle
+G06F
+2592
+Elektr. digitale Datenverarbeitung
+G06K G06T
+2362 1876
+Erkennen von Daten Bildverarbeitung
+G06Q
+1073
+Datenverarbeitung für geschäftliche Zwecke
+H04N
+576
+Bildübertragung
+H04L
+572
+Übertragung digitaler Informationen
+A61B
+465
+Med. Diagnostik, Chirurgie
+G16H
+440
+Medizinische Informatik
+G05D
+404
+Steuer- und Regelsysteme für nichtelektrische Größen
+G10L
+372
+Analyse und Synthese von Sprache, Spracherkennung
+G05B
+292
+Steuer- und Regelsysteme allgemein
+G08G
+285
+Steuern und Überwachen des Verkehrs
+B60W
+284
+Steuerung und Regelung bei Fahrzeugen
+G01N
+246
+Analysieren von Stoffen
+H04W
+203
+Drahtlose Kommunikationsnetze
+G01C
+193
+Navigation
+G01S
+163
+Funknavigation
+G16B
+121
+Bioinformatik
+Quelle: WPI, eigene Erhebungen
+[Page #57]
+44
+Zukunftstechnologien für Deutschland
+In der Unterklasse G06N werden Neuronale Netze eingruppiert. Ansonsten wird die Breite der Anwendungen von der Bildverarbeitung über geschäftliche Zwecke (Banken, Versicherungen), Spracherkennung, Verkehrssteuerung und Chirurgie (Chirurgierobo-ter) bis hin zur Bioinformatik deutlich. Aufgrund dieser eminenten Bedeutung ist die Ini-tiative der Bundesregierung zur Stärkung der Künstlichen Intelligenz in Deutschland nachdrücklich zu begrüßen.8
+Die Liste der größten Anmelder in der Künstlichen Intelligenz wird von Unternehmen aus den USA, China, Südkorea und Japan dominiert, aber auch Siemens und Bosch erschei-nen an prominenter Position in Tabelle 4-3. Siemens war ein Pionier bei den Neuronalen Netzen (Schmoch u. a. 1996). Insgesamt gibt es 2018 rund 1400 Anmelder in der Künst-lichen Intelligenz, d. h. durch die vielen Anwendungsmöglichkeiten haben sich viele Mit-telständler auf spezielle Anwendungen spezialisiert. Hier bestehen auch für deutsche Mittelständler große Chancen, interessante Anwendungen zu erschließen.
+Tabelle 4-3: Größte Anmelder in der Künstlichen Intelligenz, 2018
+Unternehmen
+Land
+Anzahl
+SAMSUNG ELECTRONICS CO LTD
+Südkorea
+168
+MICROSOFT TECHNOLOGY LICENSING LLC
+USA
+146
+HUAWEI TECHNOLOGIES CO LTD
+China
+82
+NIPPON TELEGRAPH & TELEPHONE CORP
+Japan
+81
+GOOGLE LLC
+USA
+62
+NEC CORP
+Japan
+58
+SONY CORP
+Japan
+55
+SIEMENS AG
+Deutschland
+50
+TATA CONSULTANCY SERVICES LTD
+Indien
+45
+INT BUSINESS MACHINES CORP
+USA
+43
+BOSCH GMBH ROBERT
+Deutschland
+40
+IBM UK LTD
+USA
+39
+LG ELECTRONICS INC
+Südkorea
+38
+FUJITSU LTD
+Japan
+36
+ALIBABA GROUP HOLDING LTD
+China
+30
+CANON KK
+Japan
+30
+IBM CHINA INVESTMENT CO LTD
+USA/China
+30
+KONINK PHILIPS NV
+Niederlande
+30
+FUJI FILM CORP
+Japan
+28
+WAYMO LLC
+USA
+28
+8 https://www.ki-strategie-deutschland.de/home.html
+[Page #58]
+Zukunftstechnologien für Deutschland
+45
+Unternehmen
+Land
+Anzahl
+GENERAL ELECTRIC CO
+USA
+27
+NOKIA TECHNOLOGIES OY
+Finnland
+24
+SIEMENS HEALTHCARE GMBH
+Deutschland
+24
+OMRON CORP
+Japan
+23
+BEIJING DIDI INFINITY TECHNOLOGY & DEV
+China
+22
+INTEL CORP
+USA
+22
+OMRON KK
+Japan
+22
+ACCENTURE GLOBAL SOLUTIONS LTD
+Irland
+21
+ELEMENT AI INC
+Kanada
+21
+DAJIANG INNOVATIONS TECHNOLOGY CO LTD
+China
+20
+DIDI RES AMERICA LLC
+USA
+20
+HERE GLOBAL BV
+USA
+20
+NEC LAB AMERICA INC
+Japan
+20
+SZ DJI TECHNOLOGY CO LTD
+China
+20
+ZOOX INC
+USA
+20
+Quelle: WPI, eigene Recherchen
+Eine ausführlichere Untersuchung der Teilfelder der Künstlichen Intelligenz ist grund-sätzlich möglich, würde aber den Rahmen dieser Studie übersteigen.
+4.2
+Entwicklung der Robotik
+Die Zukunftstechnologie Soft Robotics ist ein besonders anspruchsvolles Teilfeld der Robotik, bei dem es um die präzise Handhabung besonders empfindlicher Güter geht. Insgesamt ist das Gebiet der Robotik deutlich größer. Die ersten Anmeldungen zu Ro-botern wurden bereits in den 1970er-Jahren registriert. Das Gebiet hat sich aber ständig weiterentwickelt, insbesondere seit die Informationstechnik zur Steuerung der Roboter kompakter, leistungsfähiger und kostengünstiger geworden ist (etwa seit 1995). Etwa seit dem Jahr 2000 bekommen Serviceroboter neben Industrierobotern ein immer grö-ßeres Gewicht. Sie sind von der Regelung her aufwändiger, weil sie nicht wie Industrie-roboter in einem definierten Raum arbeiten und damit mit neuen Situationen konfrontiert werden. So arbeiten z. B. Reinigungsroboter in der Nähe von Menschen und es müssen Unfälle ausgeschlossen werden. Dienstleistungsroboter werden nicht nur im gewerbli-chen Kontext verwendet; es werden zunehmend auch Dienstleistungsroboter für den privaten Bereich angeboten, etwa zum Staubsaugen oder Rasenmähen. Die Experten-kommission Forschung und Innovation stellte in ihrem Gutachten von 2006 die Robotik als Zukunftstechnologie heraus (EFI 2006).
+[Page #59]
+46
+Zukunftstechnologien für Deutschland
+Für die Anmeldungen zu Robotern ergibt sich ein Zeitverlauf nach Abbildung 4-4. Da-nach ist ein gleichmäßiger Anstieg, seit 2014 ein starker Anstieg zu beobachten. Die Anmeldungen zu Service-Robotern liegen höher als die zu Industrie-Robotern. Inzwi-schen liegen auch die Umsätze von Service-Robotern höher (Beckert u. a. 2016). Seit 2014 ist auch bei Service-Robotern ein stärkeres Wachstum zu beobachten.
+Eine erhebliche Menge von Anmeldungen kann weder Industrie- noch Service-Robotern zugeordnet werden. Dabei geht es vor allem um datentechnische Fragen zu Bildüber-tragung, Bilderkennung, Regeln usw.
+Bei einer Analyse der Herkunftsländer ergibt sich bei Robotern insgesamt eine führende Stellung von Japan dicht gefolgt von den USA. Die USA sind bei den Service-Robotern an erster Stelle, China führt bei Industrierobotern. Deutschland liegt etwa gleichauf mit China und ist stärker als Südkorea (Abbildung 4-5).
+Abbildung 4-4:
+Transnationale Anmeldungen zu Robotern
+Quelle: WPI, eigene Erhebungen
+[Page #60]
+Zukunftstechnologien für Deutschland
+47
+Abbildung 4-5:
+Herkunftsländer von Anmeldungen zu Robotern, 2018
+Quelle: WPI, eigene Erhebungen
+In Tabelle 4-4 sind die deutschen Anmelder von Roboterpatenten aufgelistet. Der einzige originäre Hersteller von Industrierobotern, Kuka, ist zwar formal ein deutsches Unterneh-men und produziert in Deutschland, gehört jedoch einem chinesischen Unternehmen.9
+Tabelle 4-4: Deutsche Anmelder von Roboterpatenten, 2018
+Unternehmen
+Anzahl
+SIEMENS AG
+42
+KUKA DEUT GMBH
+39
+BOSCH GMBH ROBERT
+38
+VOLKSWAGEN AG
+20
+SICK AG
+18
+FRANKA EMIKA GMBH
+16
+ABB SCHWEIZ AG
+14
+KRONES AG
+9
+FRAUNHOFER GES FOERDERUNG ANGEWANDTEN EV
+8
+SCHAEFFLER TECHNOLOGIES AG & CO KG
+8
+9 https://www.handelsblatt.com/meinung/kommentare/kommentar-kuka-wird-zum-testfall-
+fuer-chinesische-investoren-in-deutschland/23679014.html?ticket=ST-2306577-K7TSxfAypSpYaU4JJkH7-ap5
+[Page #61]
+48
+Zukunftstechnologien für Deutschland
+Unternehmen
+Anzahl
+BSH HAUSGERAETE GMBH
+7
+BRAINLAB AG
+6
+SCHMALZ GMBH J
+6
+AUDI AG
+5
+MIELE & CIE KG
+5
+OERLIKON TEXTILE GMBH & CO KG
+5
+BAYERISCHE MOTOREN WERKE AG
+4
+CONTINENTAL REIFEN DEUT GMBH
+4
+EISENMANN SE
+4
+IGUS GMBH
+4
+SIEMENS HEALTHCARE GMBH
+4
+THYSSEN KRUPP AG
+4
+TRINAMIX GMBH
+4
+Quelle: WPI, eigene Erhebungen
+Insgesamt ist die Robotertechnik schon relativ alt, kann aber aufgrund der starken aktu-ellen Wachstumsraten durchaus zu den Zukunftstechnologien gerechnet werden und hat auf jeden Fall eine erhebliche wirtschaftliche Bedeutung.
+4.3
+Bedeutung der Informationstechnik für Zukunftstech-nologien
+Bei der Analyse der Zukunftstechnologien ist immer wieder die große Bedeutung der Informationstechnik deutlich geworden. Vor diesem Hintergrund soll systematisch unter-sucht werden, in welchem Ausmaß die ausgewählten Zukunftstechnologien von der Informationstechnik abhängen. Zu diesem Zweck wurden zunächst einmal Patentunter-klassen (IPC-4-Steller) zusammengestellt, in die Patentanmeldungen zur Informations-technik eingruppiert werden. Neben den hier zentralen Codes der Klasse G06 kommen die zur Spracherkennung (G10L), zur Medizininformatik (G16H) sowie zur Bioinformatik (G16B) hinzu. Weiterhin wurden die Unterklassen zur Klasse H04 für die elektrische Nachrichtentechnik hinzugenommen, weil viele Operationalisierungen der Informations-technik mit der Übertragung von Daten, insbesondere der drahtlosen Übertragung, ver-bunden sind. Im zweiten Schritt wurde dann ermittelt, welcher Anteil der Patentanmel-dungen zu einer Technologie in der Informationstechnik eingruppiert ist.
+Aus dieser Analyse ergibt sich ein Bild nach Tabelle 4-5. Der Anteil von Informations-technik beträgt im Durchschnitt der Technologien 36 Prozent. Es gibt natürlich Techno-logien mit einem sehr geringen Anteil von Informationstechnik, aber es fällt auf, dass die Informationstechnik immer stärker in Bereiche der Mechanik, Medizin oder Chemie wie
+[Page #62]
+Zukunftstechnologien für Deutschland
+49
+Additive Fertigung, Robotik, Mensch-Maschine-Schnittstelle, Mikrobiom, Digitale Medi-zin oder Hybridelektrische Kfz vordringt. Dieser Befund unterstreicht erneut, welche große strategische Bedeutung die Informationstechnik für Zukunftstechnologien hat.
+Tabelle 4-5:
+Anteil von Informationstechnik bei Patentanmeldungen zu Zukunfts-technologien, 2018
+Anteil IT-Technologien
+Nr.
+Technologie
+Informationstechnik
+Blockchain
+1
+99,1
+Cybersecurity
+2
+99,9
+Künstliche Intelligenz
+3
+98,3
+Authentifizierung (Sicherheit)
+4
+100,0
+Internet der Dinge (IoT)
+5
+89,6
+5G, 6G
+6
+89,8
+Quantencomputer
+7
+90,1
+Produktionstechnik
+3D-Druck, Additive Fertigung
+8
+7,2
+Soft robotics
+9
+12,8
+Mensch-Maschine-Schnittstelle
+10
+91,6
+Augmented- und Virtual Reality
+11
+68,4
+Werkstoffe
+Low-carbon steelmaking
+12
+0,3
+Carbon Nanotube (CNT)
+13
+1,9
+2D-Materialien, Graphen
+14
+2,4
+Gesundheit
+Mikrobiom
+15
+18,8
+Digitale Medizin, Geräte
+16
+100,0
+Neue Impfstoffe
+17
+1,0
+Verkehr
+Hybridelektrische Kfz
+18
+30,0
+Brennstoffzellen für Kfz
+19
+4,6
+Elektr. Traktionsmotoren für Kfz
+20
+0,5
+Autonomes Fahren
+21
+43,1
+Leichtbau bei Kfz
+22
+0,7
+Umwelt, Klima
+CO2-Management
+24
+1,6
+Recycling
+25
+3,9
+Umweltorientierte Biozide
+26
+0,3
+Biomaterialien
+27
+0,5
+[Page #63]
+50
+Zukunftstechnologien für Deutschland
+Anteil IT-Technologien
+Nr.
+Technologie
+Energie
+Batterietechnik
+28
+1,8
+Alternative Solarzellen
+29
+1,9
+Smart grid
+30
+82,0
+Energiespeicherung (außer Batterien)
+31
+6,7
+Wasserstoffproduktion
+32
+0,8
+Quelle: WPI, eigene Erhebungen und Berechnungen
+[Page #64]
+Zukunftstechnologien für Deutschland
+51
+5
+Bewertung der Technologien nach wirtschaftlichem Impact
+Die Verbindung von Technologien mit einem wirtschaftlichen Impact ist grundsätzlich schwierig, weil die amtlichen Statistiken zu Umsatz, Beschäftigung oder Wertschöpfung sich auf Wirtschaftszweige, nicht aber Technologien beziehen. Eine etwas engere Ver-bindung gibt es beim Außenhandel, der nach Produktgruppen klassifiziert ist. Die ent-sprechenden Klassifikationen SITC oder HS sind aber zu veraltet und zu grob und nicht zur Beschreibung von Zukunftstechnologien geeignet.
+Deshalb bleiben nur zwei Möglichkeiten der ökonomischen Bewertung von Zukunfts-technologien. Zum einen gibt es eine Reihe von Marktstudien, die sich mit Zukunftstech-nologien befassen und neben anderen Informationen auch Umsatzzahlen angeben. Zum anderen lassen sich aus Patentanmeldungen Beziehungen zu ökonomischen Daten her-stellen, weil in der Version des Fraunhofer ISI alle Patentanmeldungen auch in der Klas-sifikation der Wirtschaftszweige eingruppiert sind. Das ist möglich, weil die Anmelder in PATSTAT mit Unternehmen assoziiert werden, die in der Datenbank ORBIS erfasst sind.
+Beide Ansätze haben methodische Vor- und Nachteile. Deshalb wurden beide Ansätze für alle Technologien durchgeführt und die Ergebnisse wechselseitig miteinander vergli-chen. Im Falle größerer Abweichungen wurde geprüft, wo die Ursache liegen könnte und welches Ergebnis plausibler ist. Auf diese Weise konnte für alle Technologien eine öko-nomische Bewertung erreicht werden. Dieses führt zu einer anderen Rangliste als die technologische. Da es sich um verschiedene Dimensionen der Bewertung handelt, macht es keinen Sinn, diese miteinander zu verrechnen. Vielmehr müssen beide Formen der Bewertung nebeneinandergestellt werden.
+5.1
+Das Bewertungsverfahren durch Marktstudien
+Die Bewertung über Marktstudien scheint auf den ersten Blick der sicherste Weg zu sein, den Marktwert einer Technologie zu ermitteln. Bei genauerem Hinsehen zeigt sich aller-dings, dass es eine Reihe von methodischen Problemen gibt, die stets beachtet werden müssen.
+5.1.1
+Methodik der Bewertung
+Eine grundsätzliche Frage bei Markstudien ist immer, auf welche Weise die Daten erhoben werden (Unternehmensbefragung, Expertenbefragung usw.) und wie die jeweiligen Tech-nologien definiert werden. In einer Untersuchung von Hullmann (2007) zur Nanotechnologie zeigt sich beispielsweise, dass verschiedene Marktstudien zu deutlich unterschiedlichen Ergebnissen kommen.
+[Page #65]
+52
+Zukunftstechnologien für Deutschland
+Ein weiteres Problem im vorliegenden Kontext, bei dem es um die Bedeutung für Deutschland geht, ist die Frage, für welche Einheit der Marktwert jeweils angegeben wird. Üblich ist der globale Wert am Weltmarkt. Einzelne Studien geben auch den Wert am amerikanischen und europäischen Markt an. In wenigen Fällen wird auch der Wert am deutschen Markt angegeben. Auch in diesem Fall ist aber nicht klar, wer die Tech-nologien bereitstellt. Denn neben deutschen agieren auch ausländische Unternehmen am deutschen Markt. Außerdem gibt der Wert am deutschen Markt keine Auskunft dar-über, wie hoch der Export deutscher Unternehmen ist.
+Angesichts dieser Probleme wurde in den meisten Fällen der Wert am Weltmarkt heran-gezogen und über den Anteil bei Patentanmeldungen der deutsche Anteil ermittelt.10 Das ist natürlich nur eine Näherung, weil am Weltmarkt nicht nur die technologische Stärke, sondern auch Faktoren wie Preis, Qualität, Kundenfreundlichkeit usw. eine Rolle spielen. Dafür ist bei diesem Vorgehen die gesamte Produktion deutscher Unternehmen für den Binnenmarkt und für den Export erfasst.
+Zusätzlich muss jeweils geprüft werden, ob in einer Zukunftsstudie eine spezifische Technologie so wie im Rahmen dieser Studie definiert ist. Oftmals werden nur Segmente betrachtet.
+Schließlich gibt es zu speziellen Technologien wie Soft Robotics keine Marktstudien, wohl aber zu übergeordneten Technologien wie Industrieroboter. Auch hier wurde mit Patentanteilen gearbeitet.11
+Aufgrund dieser vielfältigen Probleme ist kein einheitliches Vorgehen möglich. Deshalb wurden die Technologien einzeln behandelt. Die Ergebnisse aus den Marktstudien für die einzelnen Technologien sind in Anhang A.3 dokumentiert.
+Insgesamt war es möglich, zu allen außer zwei Technologien geeignete Marktstudien zu finden.12 In einigen Fällen haben verschiedene Quellen zu deutlich unterschiedlichen Ergebnissen geführt, sodass genauer geprüft werden musste, wie die Gebiete genau definiert sind und wie sie zu den Definitionen dieser Studie passen. In acht Fällen war
+10 Die entsprechenden Anteilswerte sind in Tabelle A-2 im Anhang zusammengestellt.
+11 Siehe Tabelle A-2 im Anhang.
+12 Es gab keine Marktstudien zu Authentifizierung und E-Highways.
+[Page #66]
+Zukunftstechnologien für Deutschland
+53
+es auch erforderlich, die Angaben der Marktstudien über Patentanalysen an die spezifi-sche Definition der Technologie im Rahmen dieser Studie anzupassen.13
+13 Anpassungen über Patentanalysen waren erforderlich für Soft robots, Low-carbon steelma-king, Digitale Medizin, Brennstoffzellen für Kfz, Elektr. Traktionsmotoren für Kfz, umweltori-entierte Biozide, Batterien für Kfz und alternative Solarzellen.
+[Page #67]
+54
+Zukunftstechnologien für Deutschland
+5.2
+Das Bewertungsverfahren über Patentanmeldungen
+Das zweite Bewertungsverfahren über Patente ermöglicht es, zwei Ansätze gegenüber-zustellen und bei deutlichen Abweichungen genauer zu prüfen, wo die Ursachen für die Unterschiede liegen und auszuwählen, welche Variante adäquater ist.
+5.2.1
+Methodik der Bewertung
+Die Bewertung über Patente basiert auf der Möglichkeit, in der Version der Patentdaten-bank PATSTAT des Fraunhofer ISI Patentanmelder über die Unternehmensdatenbank ORBIS Wirtschaftszweigen (WZ) zuzuordnen.
+Es wurde ein einfacher Ansatz gewählt, der die Berechnungsschritte nachvollziehbar macht. Umfangreichere Modelle mit Zeitreihen für mehrere Länder verknüpft mit Zeitrei-hen von Makrodaten für Wirtschaftszweige und Außenhandelsströme wären grundsätz-lich möglich, aber die Ergebnisse schwer interpretierbar.
+Ziel der Analyse war letztendlich die Bestimmung des Marktwertes einer Technologie für deutsche Unternehmen am aktuellen Rand, da die vorliegende Studie auf die Identifizie-rung von Zukunftstechnologien und deren Bedeutung für Deutschland abzielt.
+Ausgangspunkt der Berechnung sind die aktuellen Patentanmeldungen von deutschen Unternehmen zu einer Technologie. Im Falle von PATSTAT sind das die Patentanmel-dungen von 2017. Für jede Technologie wurde für einen etwas längeren aktuellen Zeit-raum, hier 2015 bis 2017, um eine größere Stabilität der Daten zu erreichen, ermittelt, welchen Wirtschaftszweigen die Patentanmeldungen zugeordnet sind.
+Im Hintergrund wurde für die Patentanmeldungen von 2015 bis 2017 ermittelt, wieviel Patentanmeldungen insgesamt auf alle Wirtschaftszweige entfielen. Auf dieser Grund-lage kann errechnet werden, welcher Anteil der Patentanmeldungen in einem WZ auf die jeweilige Technologie entfallen.
+Eine zentrale Annahme ist, dass Patentanmeldungen eng mit Verkaufszahlen am Markt zusammenhängen. Dieser Zusammenhang wurde schon früh von Narin und Noma (1987) entdeckt und wird von Faber (2004) ausführlicher untersucht. Selbstverständlich spielen für den Markterfolg neben der technologischen Stärke auch andere Faktoren, wie Preis, Qualität, Kundennähe usw. eine Rolle. Bei forschungsintensiven Gütern, wie das bei Zukunftstechnologien der Fall ist, kann jedoch angenommen werden, dass die Technologie im Vordergrund steht. Eine weitere sinnvolle Annahme in diesem Kontext ist, dass es einen Vorlauf von Patentanmeldungen zum Verkauf gibt, sodass die Patent-anmeldungen von 2017 den Markterfolg von 2020 widerspiegeln.
+[Page #68]
+Zukunftstechnologien für Deutschland
+55
+Der Markterfolg eines Wirtschaftszweiges hängt zu einem großen Teil von Gütern ab, die nicht innovativ sind und die nicht zum Patent angemeldet werden. Deshalb können die Patentanmeldungen zu einem Wirtschaftszweig nur mit einem Teil des gesamten Umsatzes assoziiert werden. Hier bietet es sich an, den Umsatzanteil mit innovativen Produkten heranzuziehen, der für die verschiedenen Wirtschaftszweige in Rammer u. a. (2020:12) ausgewiesen wird.
+Aus der Addition der Werte für alle Wirtschaftszweige, die zu einer Technologie gehören, ergibt sich der Marktwert für die jeweilige Technologie.
+Das Verfahren soll im Folgenden am Beispiel des Autonomen Fahrens illustriert werden (Tabelle 5-1). Zunächst einmal wird festgestellt, in welchen WZ die meisten Patente zu einer Technologie angemeldet werden. Das sind beim Autonomen Fahren erwartungs-gemäß Kraftfahrzeuge, Maschinenbau und DV-Geräte. Zu diesen wird neben den Pa-tenten für die Technologie auch die Zahl der Gesamtanmeldungen in diesem Zeitraum eingetragen, im Falle des WZ Kraftfahrzeuge 87 Anmeldungen für die Technologie und 7755 Anmeldungen für den gesamten Wirtschaftszweig. Daraus lässt sich errechnen, welchen Anteil die Patente der Technologie an denen des gesamten Wirtschaftszweiges haben, im vorliegenden Fall 1,12 Prozent. Für den Wert eines Patentes der Technologie in dem Wirtschaftszweig in einem Jahr muss zunächst einmal der Gesamtwert für den WZ mit dem Anteil der Technologie multipliziert werden, dann mit dem Anteil von Pro-duktneuheiten an dem WZ, dieser mit 0,75 (da nicht alle Produktneuheuten patentiert werden). Für den Wert pro Patent für ein Jahr darf natürlich nur ein Drittel der Patente gezählt werden, da sich die Patenzahlen auf einen Drei-Jahres-Zeitraum beziehen. Ab-schließend müssen die Einzelwerte für die Wirtschaftszweige zusammengerechnet wer-den.
+Im Falle des Autonomen Fahrens gibt es eine sehr gute Übereinstimmung mit dem Marktwert von PwC für 2020. Damit konnte der stark abweichende Marktwert von Kordes verworfen werden, bei dem neben dem autonomen Fahren auch Fahrassistenzsysteme eingeschlossen sind. Das Beispiel zeigt auch gut, wo die Unsicherheiten des Verfahrens liegen. So kann es bei Wirtschaftszweigen ohne eigene Produktion und wenig Patenten, wie z. B. Unternehmensberatung, zu unrealistisch hohen Werten pro Patent kommen, was im Beispiel durch eine geringe Patentzahl und damit einen geringen Technologiewert ausgeglichen wird. Eine weitere Unsicherheit ist die Annahme des Wertes pro Patent bei den sonstigen Patenten, die auf eine Vielzahl von Wirtschaftszweigen verstreut sind. Im Beispiel wurde ein Wert von 0,03 gewählt, weil der höchste Wert pro Patent bei Kraft-fahrzeugen liegt und die übrigen Wirtschaftszweige deutlich niedrigere Werte pro Patent etwa bei 0,03 aufweisen. An diese wurde der Wert für die sonstigen Patente angepasst.
+[Page #69]
+56
+Zukunftstechnologien für Deutschland
+Es gibt bei etwa 2 Drittel der Technologien eine gute Übereinstimmung zwischen der Patentbewertung und den Marktstudien mit ±30 Prozent. In einigen Fällen sind allerdings die Unterschiede erheblich und die Ursachen sind nicht offensichtlich. Von daher werden die Ergebnisse aus den Marktstudien bevorzugt, auch wenn es manchmal deutliche Ab-weichungen zwischen den verschiedenen Quellen gibt. Insgesamt ist es möglich, aus der Gegenüberstellung der Ergebnisse der verschiedenen Marktstudien und der Pa-tentanalysen ein adäquates Ergebnis für den Marktwert zu bestimmen.
+Tabelle 5-1:
+Berechnung des aktuellen Marktwertes einer Technologie am Beispiel des Autonomen Fahrens
+2015-2017
+2017
+2018
+2015-2017 2015-2017
+2017
+2020
+(Mrd. €)
+(Mrd. €)
+(Mrd. €)
+Anteil Prod.-Neuh.. an WZ (%)
+Patente WZ gesamt
+Prod.-Wert WZ
+Patente Technol.
+Anteil Tech. an WZ (%)
+Wert/ Patent
+Wert Technol.
+WZ
+Gegenstand
+Kraftfahrzeuge
+7755
+414,2
+29
+0,480
+87
+1,12
+0,160
+1,673
+Maschinenbau
+22254
+271,1
+28
+0,200
+57
+0,26
+0,037
+0,104
+DV-Geräte
+7104
+88,2
+26
+0,366
+38
+0,53
+0,037
+0,130
+Unternehmensb.
+1837
+179,3
+70
+0,131
+10
+0,54
+0,293
+0,096
+Elektr. Ausrüst.
+4838
+109,3
+27
+0,295
+12
+0,25
+0,068
+0,060
+Sonstige
+0,400
+102
+0,030
+0,306
+Pat./Wert gesamt
+2,455
+246
+Quelle: Destatis (2020:117f.), Rammer (2000), PATSTAT, eigene Recherchen und Berechnun-gen (Technol. = Technologie)
+5.3
+Gesamtergebnis der ökonomischen Bewertung
+Bei der ökonomischen Bewertung im Kontext dieser Studie geht es nicht um den globa-len Marktwert der Technologien, sondern nur um die Bedeutung für deutsche Unterneh-men, also auch nicht um die Bedeutung am deutschen Markt, bei der auch ausländische Unternehmen einen relevanten Stellenwert haben können. Insgesamt ergibt sich eine Rangfolge nach Tabelle 5-2. In dieser Liste sind auch Roboter insgesamt aufgeführt, für die die Daten gesondert recherchiert wurden.
+[Page #70]
+Zukunftstechnologien für Deutschland
+57
+Tabelle 5-2: Ranking der Zukunftstechnologien nach Marktwert für deutsche Unter-
+nehmen, 2020
+Nr.
+Technologie
+Mrd. €
+Trend 34,989 ↗ 22,232 ↗ 15,439 ? 14,803 ↗ 14,143 ↗ 7,534 ↗ 3,593 ↗ 2,886 → 2,526 ↗ 2,468 ↗ 2,385 ↗ 2,216 ↑ 2,176 ↗ 2,153 ↑ 1,937 ↗ 1,916 ↗ 1,849 ↗ 1,671 ↗ 1,491 ↗ 1,448 ↗ 0,994 ↗ 0,523 ↗ 0,336 ↗ 0,319 → 0,242 ↗ 0,226 ↗ 0,186 → 0,109 ↑ 0,071 ↗ 0,020 ↗ 0,008 ↗ 0,002 ↗
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32
+Hybridelektrische Kfz Recycling Internet der Dinge (IoT) Biomaterialien Wasserstoffproduktion Augmented- u. Virtual Reality Roboter Leichtbau bei KfZ Digitale Medizin, Geräte Autonomes Fahren Low-carbon steelmaking 5G, 6G Cybersecurity Additive Fertigung Batterietechnik Energiespeicherung Künstliche Intelligenz Alternative Solarzellen Authentifizierung Smart grid Elektr. Traktionsmotoren für KfZ Neue Impstoffe Soft robotics CO2-Management Mensch-Maschine-Schnittstelle Carbon Nanotube (CNT) Umweltorientierte Biozide Blockchain Brennstoffzellen für KfZ 2D-Materialien, Graphen Quantencomputing Mikrobiom
+Quelle: Verschiedene Marktstudien, eigene Berechnungen
+[Page #71]
+58
+Zukunftstechnologien für Deutschland
+Zu jeder Technologie ist auch der Wachstumstrend für die nächste Dekade aufgeführt. Bei fast allen Technologien wird, wie bei Zukunftstechnologien zu erwarten, ein signifi-kantes Wachstum prognostiziert. Wesentliche Ausnahmen sind Leichtbau bei Kfz, um-weltorientierte Biozide und CO2-Management. Das ergibt sich zumindest aus Marktstu-dien, Patentanalysen, Publikationsanalysen sowie Markenanalysen. Die Wachstums-prognose erklärt auch, warum Blockchain in Zukunftsstudien so hoch gehandelt wird. Hier wird für die nächsten Jahre ein extremes Wachstum prognostiziert. Gleiches gilt für 5G und Additive Fertigung.
+Auffällig ist die sehr ungleiche Verteilung der Marktwerte (Abbildung 5-1). Es gibt sehr hohe Werte bei Wasserstoffproduktion bis Hybridelektrische Kfz, mittlere Werte im Kor-ridor Elektrische Traktionsmotoren bis Roboter. Augmented und Virtual Reality steht am Übergang dieser Bereiche. Sehr niedrig sind die Werte von Neue Impfstoffe bis Mikro-biom.
+Mit den Hybridelektrischen Kfz an erster Stelle wird an die traditionelle deutsche Stärke bei Kraftfahrzeugen angeknüpft. Mit Recycling, Biomaterialien und Wasserstoffproduk-tion stehen drei Technologien im Kontext Gesellschaftlicher Herausforderungen weit vorne, die in üblichen Zukunftsstudien nicht erscheinen.
+Von den Informationstechnologien gehören Internet der Dinge und Augmented und Vir-tual Reality zu den bedeutenden Technologien. 5G, Cybersecurity und Künstliche Intel-ligenz gehören gegenwärtig noch zum mittleren Wertebereich, könnten aufgrund ihres Wachstums in den nächsten Jahren aber eine größere Bedeutung erlangen.
+Der Marktwert bezieht sich auf Umsätze, bei Informationstechnologien mit Hard- und Software. McKinsey (2018b) sieht allerdings bei der Künstlichen Intelligenz erhebliche Wirkungen auf die Gesamtwirtschaft im Wesentlichen durch Produktivitätserhöhungen bei Verarbeitendem Gewerbe und Dienstleistungen (ebenda 13 ff.). Für den Zeitraum bis 2030 wird ein jährlicher Beitrag zur Gesamtwirtschaft von 1,2 Prozent gesehen, wäh-rend es für Industrieroboter ein Produktivitätszuwachs von 0,4 Prozent war. Diese Se-kundäreffekte sind somit massiv und setzen die Künstliche Intelligenz faktisch auf die führende Position der Zukunftstechnologien. Aufgrund der Einführungskosten sind die gesamten Sekundäreffekte allerdings aktuell leicht negativ, werden aber 2030 einen er-heblichen Umfang haben (ebenda 23). Lundvall (2020), einer der führenden Innovati-onsökonomen stellt entsprechend fest: "AI is at the core of the socond phase of ther ICT-revolution." Auch die Analysen in Kapitel 4.1 bestätigen diese zentrale Rolle der Künst-lichen Intelligenz für die Informationstechnik insgesamt.
+Die Darstellung nach Abbildung 5-1 ist für den aktuellen Zeitraum noch zutreffend, schon mittelfristig müsste die Künstliche Intelligenz ein größeres Gewicht erhalten. Natürlich
+[Page #72]
+Zukunftstechnologien für Deutschland
+59
+haben auch andere Technologien wie 5G oder Internet der Dinge deutliche Sekundäref-fekte; diese werden aber im Vergleich zur Künstlichen Intelligenz weniger ausgeprägt sein.
+Die Technologien aus dem unteren Wertebereich sind aktuell noch in einer sehr frühen Phase und werden mittelfristig nicht wesentlich zur Wertschöpfung in Deutschland bei-tragen. Das muss in etwa fünf Jahren neu bewertet werden. Bei allen der diesbezügli-chen Technologien ist nach den Ausführungen der Zukunftsstudien zu erwarten, dass sie langfristig ein deutlich höheres Gewicht erreichen werden.
+[Page #73]
+60
+Zukunftstechnologien für Deutschland
+Abbildung 5-1:
+Verteilung des Wertes bei deutschen Unternehmen für Zukunfts-technologien, 2020
+Quelle: Verschiedene Marktstudien, eigene Berechnungen
+[Page #74]
+Zukunftstechnologien für Deutschland
+61
+6
+Wirtschaftlicher Impact und technologische Ge-samtindikatoren
+Das Ziel der vorliegenden Studie war die Identifikation von Zukunftstechnologien und ihrer Bedeutung für Deutschland. Wesentliches Kriterium für die Auswahl war, dass die Technologien schon mittelfristig eine hohe Relevanz am Markt erreichen, womit Tech-nologien angesprochen sind, die schon aktuell am Markt vertreten sind und ein deutli-ches Wachstumspotenzial haben.
+Nach einer Auswahl einer Reihe von Technologien aus Zukunftsstudien und anderen Quellen, die grundsätzlich nach diesen Kriterien relevant waren, wurden diese nach technologischen und ökonomischen Kriterien genauer bewertet. Dieses war erforderlich, weil Zukunftsstudien lediglich sagen, dass bestimmte Technologien in Zukunft wichtig werden. Sie sind international ausgerichtet und machen keine spezifischen Aussagen zur Relevanz in spezifischen Ländern. Sie machen auch keine Angaben zu den Markt-volumina, die mit den jeweiligen Technologien verbunden sind. Um die Bedeutung für Deutschland zu ermitteln, wurden für jede Technologie technologische und ökonomische Bewertungen durchgeführt.
+Die technologische Bewertung erfolgte vor allem über Patente, die eine präzise Defini-tion der Technologie ermöglichen und viele Teilaspekte wie Trend, Volumen, deutsche Beteiligung usw. erfassen können. Sie reflektieren in erster Linie die kurz- und mittelfris-tige Entwicklung. Weitere Elemente der technologischen Bewertung sind Publikationen, die für wissenschaftliche Aktivitäten und die langfristige Entwicklung einer Technologie stehen. Zusätzlich wurden Marken ausgewertet, die spiegeln, in welchem Maße die Technologien schon aktuell am Markt vertreten sind.
+Für die technologische Analyse wurden für jede Technologie bei Patenten, Publikationen und Marken die internationale zeitliche Entwicklung (Trends), die deutsche Ausrichtung auf die jeweilige Technologie sowie der absolute Umfang der deutschen Aktivitäten er-mittelt, bei Patenten und Publikationen zusätzlich die Qualität der deutschen Aktivitäten. Die technologische Bewertung beschreibt damit vor allem die technologischen Kompe-tenzen in Deutschland.
+Für die ökonomische Bewertung der Technologien wurden zu jeder Technologie Markt-studien ermittelt. Dabei musste darauf geachtet werden, dass die Definition der Techno-logien, die diesem Bericht zugrunde liegt, mit dem der Marktstudien übereinstimmt und wo Unterschiede liegen. Weiterhin beziehen sich Marktstudien meist auf den internatio-nalen Marktwert, manchmal auch auf den für größere Regionen wie Amerika, Europa oder Asien. Für die Bedeutung für Deutschland ist aber die Relevanz für deutsche Un-ternehmen relevant. Auch das Volumen am deutschen Markt ist nicht hilfreich, weil hier
+[Page #75]
+62
+Zukunftstechnologien für Deutschland
+bei vielen Technologien ausländische Unternehmen im maßgeblichen Umfang vertreten sind. Um einen Bezug auf die Bedeutung für Deutschland zu erreichen, war eine Um-rechnung der weltweiten Marktvolumina über deutsche Patentanteile notwendig. Damit sind alle deutschen Aktivitäten erfasst, also auch Exporte.
+Ein zweiter Ansatz zur Bewertung der ökonomischen Bedeutung war die Berechnung des Wertes deutscher Aktivitäten über Patente, bei der über eine Klassifikation der Pa-tente14 nach Wirtschaftszweigen eine Verbindung zwischen Patenten und ökonomi-schen Statistiken vorgenommen wird. Die Ergebnisse dieser Analyse wurden mit den Ergebnissen aus den Marktstudien verglichen. Vor allem, wenn verschiedene Marktstu-dien zu derselben Technologie zu unterschiedlichen Ergebnissen führten, konnten die Ergebnisse der ökonomischen Patentanalyse im Sinne einer Triangulation zur Bestim-mung des wahrscheinlicheren Wertes herangezogen werden.
+Die Bewertung der Technologien nach wirtschaftlichem Impact und nach technologi-schen Gesamtindikatoren (Patente, Publikationen, Marken) spiegeln verschiedene Di-mensionen der Bedeutung von Zukunftstechnologien für Deutschland. Der wirtschaftli-che Impact zeigt in erster Linie die aktuelle Relevanz, die technologischen Gesamtindi-katoren die Möglichkeiten des Engagements in diesen Technologien ausgehend von den eigenen Kompetenzen. Von daher ist das Ranking nach diesen beiden Dimensionen nicht identisch, wie aus Abbildung 6-1 hervorgeht. Aufgrund ihrer Verschiedenheit macht es auch keinen Sinn, beide Dimensionen miteinander zu verrechnen. Deshalb sind beide Dimensionen in Abbildung 6-1 nebeneinandergestellt und gleiche Technolo-gien wurden durch Linien miteinander verbunden.
+Die Gegenüberstellung zeigt, dass in vielen Fällen der Marktwert und der Technologie-index auf einem ähnlichen Niveau liegen. Das trifft z. B. auf sieben der ersten zehn Tech-nologien mit dem größten Marktwert zu, die ebenfalls unter die ersten zehn Technologien des Technologieindex fallen. Im Falle von Hybridelektrischen Kfz, Internet der Dinge und Wasserstoffproduktion liegt der Rang des Technologieindexes deutlich unter dem Rang nach dem Marktwert. Bei den Hybridelektrischen Kfz ist dies auf die unterdurchschnittli-che Familiengröße/Qualität bei Patenten, bei dem Internet der Dinge auf die niedrige deutsche Spezialisierung, die niedrige absolute Zahl der Patente sowie die unterdurch-schnittliche Familiengröße zurückzuführen. Bei der Wasserstoffproduktion sind alle diese Werte gerade durchschnittlich. Das zeigt, dass in diesen Technologien ein großes technologisches Engagement nötig ist, um die prognostizierten Marktwerte zu erreichen.
+14 Über den Wirtschaftszweig der patentierenden Unternehmen.
+[Page #76]
+Zukunftstechnologien für Deutschland
+63
+Eine ähnliche Situation liegt bei Low-carbon steelmaking, 5G und Smart Grid vor. Das heißt auch bei diesen Technologien sind erhebliche technologische Anstrengungen er-forderlich, um die Wachstumspotenziale der Zukunftstechnologien für Deutschland nut-zen zu können.
+Die Bestimmung der Relevanz von Technologien nach Marktwert und technologischer Kompetenz wie in Abbildung 6-1 kann ergänzend auch nach weiteren Kriterien vorge-nommen werden. Ein mögliches Kriterium ist die Beteiligung von kleinen und mittleren Unternehmen (KMU), da diese in erheblichem Maße zur Beschäftigung in Deutschland beitragen. Der Anteil von KMU lässt sich über Patente auswerten und ist in den Abschnit-ten 3.2.1.3 und A.2 dokumentiert. Neben der bewussten Förderung von Technologien mit hohem KMU-Anteil ist es auch denkbar, dass gerade KMU-Aktivitäten in Technolo-gien gefördert werden, die aktuell in Deutschland von großen Unternehmen dominiert werden. Beispiele sind die Technologien Künstliche Intelligenz, 5G oder Internet der Dinge, bei denen KMU wesentlich zu deren Anwendung beitragen könnten. Schon jetzt gibt es in den USA in diesen Technologien relativ viele KMU.
+[Page #77]
+64
+Zukunftstechnologien für Deutschland
+Abbildung 6-1:
+Ranking der Technologien nach wirtschaftlichem Impact und nach technologischen Gesamtindikatoren
+[Page #78]
+Zukunftstechnologien für Deutschland
+65
+7
+Wirtschaftspolitische Maßnahmen
+Die identifizierten Zukunftstechnologien lassen sich in Technologien im Kontext von Kraftfahrzeugen, im Bereich der Informationstechnologien und in Bezug auf Umwelt und Klima einteilen. Hinzu kommen Technologien im Zusammenhang von Produktion und Medizin.
+Zu den Kraftfahrzeugtechnologien zählen Hybridelektrische Kfz, Batterietechnik, Elektri-sche Traktionsmotoren, Leichtbau bei Kfz und Autonomes Fahren. Hier sind die deut-schen Unternehmen technologisch gut aufgestellt. Bis auf Hybridelektrische Kfz liegen diese Technologien auf einem Rang nach dem Technologieindex von mindestens 12. Die Aussichten für den deutschen Automobilbau als einer deutschen Schwerpunktin-dustrie sind deshalb positiv, erfordern aber ein weiteres Engagement in der Forschung. Bei Hybridelektrischen Kfz gibt es einen starken Wettbewerb mit Frankreich und vor al-lem Japan, bei der Batterietechnik mit Japan und Südkorea.
+In all diesen Technologien haben deutsche Unternehmen gute Voraussetzungen, in die neuen Märkte zu kommen, es sind aber erhebliche Investitionen nötig, um Kompetenzen in der Elektromobilität aufzubauen. Es ist unbedingt erforderlich, in diese neue Richtung zu gehen, weil die südostasiatischen Märkte hier einen Schwerpunkt setzen und auch große Teile des US-amerikanischen Marktes. Es ist im Automobilmarkt wichtig, die ver-schiedenen Märkte mit gleicher Technologie zu bedienen, um eine hinreichende Renta-bilität zu erreichen. Vor diesem Hintergrund ist es sinnvoll, von staatlicher Seite keine Unterstützung von verbesserten Verbrennungsmotoren zu gewähren, da diese Techno-logie schon mittelfristig obsolet ist. Wesentlich sind vor allem klare Rahmenbedingungen zugunsten von Elektromobilität und Förderprämien beim Kauf von E-Mobilen. Ein zent-raler Ansatz ist die Verbesserung der Lade-Infrastruktur in Deutschland.
+Die Informationstechnologien wurden schon von den Vertretern der Wirtschaftsverbände als zentrale Herausforderung herausgestellt. Der zentrale Punkt ist hier, dass die Informa-tionstechnik eine immer größere Bedeutung für Wirtschaftszweige wie Kraftfahrzeuge, Maschinenbau oder Chemie erhält und eine Abhängigkeit von ausländischen Unterneh-men problematisch ist. Zu den Informationstechnologien mit Zukunftspotenzial gehören Internet der Dinge, Augmented und Virtual Reality, 5G/6G, Cybersecurity, Authentifizie-rung, Künstliche Intelligenz, Blockchain, Quantencomputer und abgeleitet auch Roboter, Soft Robotics, Digitale Medizin, Smart Grids und Autonomes Fahren. Die Analysen zur Konvergenz der Informationstechnologie (Abschnitt 4.1) haben gezeigt, dass diese Technologien eng zusammenhängen und es deshalb nicht sinnvoll ist, sich nur auf ein-zelne zu konzentrieren. Allerdings wird die Künstliche Intelligenz eine Schlüsselrolle ha-ben.
+[Page #79]
+66
+Zukunftstechnologien für Deutschland
+Man muss aber eingestehen, dass die deutsche Spezialisierung auf alle Bereiche der Informationstechnik stark unterdurchschnittlich ist, was für Patente (Tabelle 3-5) und auch Publikationen gilt. Hier ist es wenig realistisch, durch verstärkte Investitionen in wissenschaftliche und technologische Forschung in wenigen Jahren international den Anschluss zu erreichen. Diese Bereiche sollten zwar gefördert werden, etwa durch Aus-bau der entsprechenden Fachbereiche an Hochschulen oder Ausweitung der Aktivitäten an außeruniversitären Forschungseinrichtungen. Entscheidend ist aber zunächst, die Kompetenz in der Anwendung der Informationstechnologien in der Produktion zu verbes-sern. Das kann der Aufbau von Kompetenzen in der Informationstechnik in Betrieben der Produktionstechnik sein. Schon jetzt sieht man, dass viele Patentanmeldungen zur Informationstechnologie aus Deutschland von Unternehmen aus Maschinenbau oder Fahrzeugbau kommen. Diese Initiativen dienen im Sinne der Diskussion über Technolo-giesouveränität dazu, eigene Kompetenzen in der Informationstechnik aufzubauen und hier eine ausreichende Eigenständigkeit zu erreichen.
+Darüber hinaus sind Unternehmen im Bereich der Softwareentwicklung und -implemen-tation wichtig, die über Kompetenzen in der Produktionstechnik verfügen. Nur solche Unternehmen können Produktionsbetriebe kompetent beraten, wie in ihrem speziellen Betrieb die Einführung von Industrie 4.0 aussehen kann. Es ist auch vorstellbar, dass in diesem Segment Startups aufgebaut werden.
+Ein wesentliches Element zur Stärkung der Informationstechnologien ist der Ausbau der entsprechenden Bildung an Schulen, Fachhochschulen und Universitäten. Auch hier sind Studiengänge, die die Verbindung von Produktions- und Informationstechnik zum Inhalt haben, für den deutschen Kontext wesentlich. Auf diese Weise kann mittelfristig dem schon jetzt bestehenden Fachkräftemangel in diesem Bereich begegnet werden.
+In der Informationstechnologie sind somit Maßnahmen in Bildung, Forschung, Betriebs-gründungen und Betriebsergänzungen erforderlich. Das Ziel muss sein, in der Anwen-dung von Informationstechnologie die internationale Wettbewerbsfähigkeit zu erreichen. Während es sich insgesamt bewährt hat, nationale Schwerpunkte in der technologischen Wettbewerbsfähigkeit zu verteidigen und das Profil langfristig stabil zu halten, wie es z. B. aus dem deutschen Patentprofil nach Abbildung 2-1 hervorgeht, ist eine dezidierte Verstärkung der Kompetenzen in der Informationstechnologie eine entscheidende Auf-gabe.
+Die Durchdringung fast aller Technologien durch die Informationstechnik betrifft nicht nur Deutschland, sondern alle industrialisierten Länder. Vor diesem Hintergrund hat die OECD aktuell einen „Digital Economy Outlook“ herausgegeben, in dem das Phänomen der Digitalisierung beschrieben wird und forschungspolitische Empfehlungen gegeben
+[Page #80]
+Zukunftstechnologien für Deutschland
+67
+werden (OECD 2020). Wichtig zum Verständnis ist hier, dass bei der OECD Digitalisie-rung nicht nur die Verbesserung der Infrastruktur (Glasfaserkabel, Schnelles Internet) und die Ausstattung von öffentlichen Einrichtungen mit Informationstechnik, sondern die Integration der Informationstechnik in alle Bereiche der Wirtschaft betrifft.
+Zu den Zukunftstechnologien im Bereich der Umwelt zählen Recycling, Biomaterialien, Wasserstoffproduktion, Low-carbon steelmaking, Energiespeicherung, Smart Grid, CO2-Management, Umweltorientierte Biozide und abgeleitet Batterietechnik und Brennstoff-zellen. In der überwiegenden Zahl der Fälle ist die technologische Basis in Deutschland gut. Die entscheidende Frage ist meist, ob sich diese Technologien aus ökonomischer Sicht rechnen. Angesichts der Verknappung von Rohstoffen und der Klimaproblematik ist das mittelfristig sicherlich gegeben, kann aber in einer kurzfristigen Sicht problema-tisch sein. Deshalb ist ein wichtiger Punkt, durch öffentliche Regelungen zuverlässige Rahmenbedingungen zu schaffen, dazu zählt z. B. die kürzlich beschlossenen CO2-Steuer. Viele Maßnahmen müssen auch in den Betrieben ansetzen. Das Recycling ist nicht nur Aufgabe der entsprechenden Branche, sondern in Produktionsbetrieben aller Branchen müssen Maßnahmen zur Rückführung und zum Aufbereiten von Rohstoffen gefördert werden, wofür z. B. auch Steueranreize denkbar wären.
+Insgesamt sind alle Anreize, die den Umweltschutz mit der Wirtschaft verbinden, vorteil-haft. Schon aktuell fördert die KfW viele Aktivitäten von Unternehmen im Bereich Um-welt.15
+Zu den Produktionstechnologien zählen Roboter, Leichtbau, Low-carbon Steelmaking und Additive Fertigung. Die technologischen Voraussetzungen für deutsche Unterneh-men sind generell gut. Eine besondere Herausforderung ist die Behauptung deutscher Unternehmen in dem neuen Markt der Additiven Fertigung. Dieser Markt zielt auf Pro-dukte mit komplexer Geometrie und auf die Fertigung in kleiner Serie.16 Wettbewerbs-faktoren sind technische Qualität, spezifische Lösungen und Preis. Aktuell sind unter den deutschen Patentanmeldern neben Mittelständlern auch große Unternehmen wie Siemens, BMW, BASF oder Airbus vertreten. Alle Arten von Materialien von Kunststoffen über Zemente bis zu Metallen werden genutzt. Viele neue Anwendungen sind noch
+15 https://www.kfw.de/inlandsfoerderung/Unternehmen/Energie-Umwelt/Erneuerbare-Ener-
+gien-Umwelt/
+16 https://www.mission-additive.de/was-ist-additive-fertigung-definitionen-anwendungen-
+potenziale-a-898676/
+[Page #81]
+68
+Zukunftstechnologien für Deutschland
+experimentell und risikobehaftet. Es ist zu erwarten, dass es hier eine Reihe von Neu-gründungen gibt, die technisch anspruchsvolle Lösungen für spezifische Anwendungen entwickeln. Hier ist ein ausreichendes Angebot von Risikokapital wichtig.
+Zu den Zukunftstechnologien der Medizin zählen Neue Impfstoffe, Digitale Medizin und Mikrobiom. Impfstoffe waren lange Zeit ökonomisch wenig attraktiv und stagnierten in Ver-kauf und Forschung. Mit der Corona-Pandemie haben Impfstoffe eine neue Bedeutung bekommen. Es wird nach Meinung von Fachleuten in den kommenden Jahren auch immer wieder ähnliche neue Viren geben, für die in kurzer Zeit neue Impfstoffe benötigt werden. Dazu können neue Formen von Impfstoffen einen wichtigen Beitrag leisten. Da die Pa-tentanalysen nur bis zum Jahr 2018 reichen und auch die Marktstudien vor 2020 angefer-tigt wurden, wird der Marktwert von neuen Impfstoffen in Tabelle 5-1 unterschätzt. In jedem Fall besteht ein erhebliches Wachstumspotenzial. Gleich mehrere deutsche Firmen sind hier gut aufgestellt. Die staatliche Beteiligung ist sicherlich ein geeignetes Instrument, die deutschen Interessen in diesem Bereich zu wahren. Eine andere Möglichkeit ist ein früh-zeitiger Abschluss von Lieferverträgen mit öffentlichen Stellen.
+Bei der digitalen Gerätemedizin ist die Stellung deutscher Unternehmen im Grundsatz gut. Auch hier gelten die Überlegungen zur Informationstechnologie zur Stärkung der Kompetenz in der Anwendung.
+In der Mikrobiom-Technologie befindet sich die Forschung noch in einer frühen Phase. Gesicherte Behandlungsverfahren zu Arthritis, Allergien, Autoimmunkrankheiten oder Krebs stehen noch aus. Aus diesem Grund wird die langfristige Bedeutung auf der Basis von Patentanalysen und Marktstudien deutlich unterschätzt. Positiv sind der deutliche Aufwärtstrend und die positive deutsche Spezialisierung bei Publikationen. Eine Förde-rung muss aktuell vor allem in der Unterstützung der medizinischen Forschung liegen.
+Insgesamt gibt es keine einheitlichen Fördermaßnahmen für Zukunftstechnologien. Auf-grund der großen Varianz muss für jede Technologie über spezifische Formen nachge-dacht werden. Da die Technologien in der Regel schon am Markt präsent sind, ist die Unterstützung der Forschung nicht die wichtigste Komponente einer Förderung. Schaffung von verlässlichen Rahmenbedingungen am Markt, steuerliche Anreize, Finanzierungshil-fen beim Aufbau neuer Aktivitäten im Unternehmen oder am Markt oder auch gezielte öffentliche Nachfrage (Edler und Georghiou 2007) sind oft wichtiger.
+Alles in allem gibt es gute Bedingungen für ein Engagement deutscher Unternehmen in einer Reihe von Zukunftstechnologien, die zu einer Stärkung der wirtschaftlichen Struktu-ren beitragen werden.
+[Page #82]
+Zukunftstechnologien für Deutschland
+69
+8
+Literatur
+Andreescu, L.; Dragomir, B.; Gheorghiu, R.; Baboschi, C.; Curaj, A.; Cuhls, K.; Warnke, P.; Svetlana Meissner, S. (2018): Radical Innovation Breakthrough Inquirer. Bu-charest and Karlsruhe: Fraunhofer ISI und Institutul de Prospectiva.
+Barnes, W.; Gartland, M.; Stack, M. (2004): Old Habits Die Hard: Path Dependency and
+Behavioural Lock-in. In: Journal of Economic Issues 38(2), S. 371-77.
+Baruffaldi, S.; van Beuzekom, B.; Dernis, H.; Harhoff, D.; Rao, N.; Rosenfeld, D.; Squicciarini, M. (2020): Identifying and measuring developments in artificial intelli-gence: Making the impossible possible. OECD Working Papers 2020/05, Paris: OECD.
+Beckert, B.; Buschak, D.; Graf, B. (IPA), Hägele, M. (IPA), Jäger, A.; Moll, C.; Schmoch, U.; Wydra, S. (2016): Automatisierung und Robotik-Systeme. Studien zum deut-schen Innovationssystem Nr. 11-2016. Berlin: EFI.
+Benedikter, R. (2016): Deutschland und die Zukunftstechnologien. Telepolis, zugreifbar https://www.heise.de/tp/features/Deutschland-und-die-Zukunftstechnolo-
+über gien-3454459.html.
+Bertelmann-Stiftung (Hrsg.) (2020): Weltklassepatente in Zukunftstechnologien. Die In-novationskraft Ostasiens, Nordamerikas und Europas. Gütersloh: Bertelsmann-Stiftung.
+BMBF (Hrsg.) (2018): Forschung und Innovation für die Menschen, Die Hightech-Stra-
+tegie 2025. Berlin: BMBF.
+Cuhls, K.; Ganz, W.; Warnke, P. (Hrsg.) (2009): Foresight im Auftrag des BMBF. Zu-kunftsfelder neuen Zuschnitts. Karlsruhe, Stuttgart: Fraunhofer ISI und IAO.
+Destatis (2020): Volkswirtschaftliche Gesamtrechnungen. Fachserie 18, Reihe 1.4.
+Wiesbaden: Statistisches Bundesamt.
+Döscher, H.; Reiss, T.; Schmaltz, T.; Schmoch, U.; Thielmann, A. (2020): GRM Tech-nology and Innovation Roadmap. Report in the context of the EU Graphene Flag-ship project. Karlsruhe: Fraunhofer ISI.
+Edler, J.; Georghiou, L. (2007): Public procurement and innovation – Resurrecting the
+demand side. In: Research Policy 36(7), S. 949-963.
+Expertenkommission Forschung und Innovation (EFI) (2016): Gutachten 2016, Berlin:
+EFI.
+Faber, J. (2004): Innovation capabilities of European nations: Cross-national analyses of patents and sales of product innovations. In: Research Policy 33(2), S. 193-207.
+[Page #83]
+70
+Zukunftstechnologien für Deutschland
+Fraunhofer (2020): Quantum Machine Learning. Sankt Augustin: Fraunhofer-Gesell-
+schaft.
+Frietsch, R.; Schmoch, U. (2010): Transnational patents and international markets.
+In: Scientometrics 85, S. 185-200.
+Frietsch, R.; Schmoch, U.; Neuhäusler, P.; Rothengatter, O. (2011): Patent Applications - Structures, Trends and Recent Developments. Studien zum deutschen Innovati-onssystem Nr. 9-2011. Berlin: Expertenkommission Forschung und Innovation (EFI).
+Ganz, W.; Hermann, S., Ardilio, A.; Keicher, L., Schletz, A.; Schirrmeister, E.; Meissner, S.; Maloca, S. u. a. (2019): Foresight Fraunhofer. Zukunftsthemen für die ange-wandte Forschung. München: Fraunhofer.
+Gartner (Hrsg.) (2020): Top 10 Strategic Technology Trends for 2020. Orlando: Gartner.
+Hullmann, A. (2007): Measuring and assessing the development of nanotechnology.
+In: Scientometrics 70(3), S. 739-758.
+Khramova, E.; Meissner, D.; Sagieva, G. (2013): Statistical Patent Analysis Indicators as a Means of Determining Country Technological Specialisation. Economics of Inno-vation, eJournal.
+Lundvall, B. A. (2020): FREEMAN CENTENARY LECTURE 'Innovation System Re-search and Economic Development ', Online-Vorlesung vom 7.1.2021, zugreifbar über https://www.cris-is.org/event-details/.
+March, Ch.; Schieferdecker, I. (2020): Digitale Innovationen und Technologiesouveräni-tät. In: Wirtschaftsdienst, Heft 13, S. 30-35, zugreifbar über https://www.wirt-schaftsdienst.eu/inhalt/jahr/2020/heft/13/beitrag/digitale-innovationen-und-tech-nologiesouveraenitaet.html.
+McKinsey Global Institute (2018a): Notes from the AI frontier. Insights from hundreds of
+use cases, New York: McKinsey Global Institute.
+McKinsey Global Institute (2018b): Notes from the AI frontier. Modelling the impact of AI
+on the world economy, New York: McKinsey Global Institute.
+Michels, C.; Schmoch, U. (2012): The growth of science and database coverage.
+In: Scientometrics 93(3), S. 831-846.
+Munda, G.; Nardo, M. (2005): Constructing Consistent Composite Indicators: the Issue
+of Weights, EUR 21834EN. Luxembourg: European Commission.
+Narin, F.; Noma, E.; Perry, R. (1987): Patents as indicators of corporate technology
+strength. In: Research Policy 16, S. 143-155.
+[Page #84]
+Zukunftstechnologien für Deutschland
+71
+OECD (2020): Digital Economy Outlook 2020, Paris: OECD.
+Püttner, C. (2013): 12 Technik-Trends, Neue Leber aus dem 3D-Drucker. Berlin, New York: McKinsey, zugreifbar über https://www.cio.de/a/neue-leber-aus-dem-3d-drucker,2917205.
+Rammer, C.; Doherr, T.; Peters, B.; Krieger, B.; Behrens, V.; Schubert, T.; Trunschke, M.; vasn der Burg, J. (2020): Innovationen in der deutschen Wirtschaft, Indikato-renbericht zur Innovationserhebung 2019. Mannheim: ZEW.
+Reiss, T.; Frietsch, R.; Schubert, T.; Kukk, P.; van de Velde, E. (2016): Study on EU Positioning: An Analysis of the International Positioning of the EU Using Revealed Comparative Advantages and the Control of Key Technologies. Final Report. Luxembourg: European Commission.
+Ren, W.; Cheng, H.-M. (2014): The global growth of graphene. In: Nature Nanotechology
+9, S. 726-739.
+Schmoch, U. (2007): Double-boom cycles and the comeback of science-push and mar-
+ket-pull. In: Research Policy 36(7), S. 1000-1015.
+Schmoch, U. (2008): Concept of a Technology Classification for Country Comparisons. Karlsruhe: Fraunhofer ISI, zugreifbar über https://www.wipo.int/export/sites/www/ ipstats/en/statistics/patents/pdf/wipo_ipc_technology.pdf.
+Schmoch, U.; Breiner, S.; Cuhls, K.; Hinze, S.; Münt, G. (1996): The Organisation of Interdisciplinarity – Research Structures in the Areas of Medical Lasers and Neural Networks. In: Reger, G.; Schmoch, U. (Hrsg.): Organisation of Science and Tech-nology at the Watershed. Heidelberg: Physica-Verlag, S. 267-372.
+Schmoch, U.; Gauch, S. (2009): Service marks as indicators for innovation in knowledge-
+based services. In: Research Evaluation 18(4), S. 323-335.
+Schmoch, U.; Khan, M. (2019): Methodological Challenges for Creating Accurate Patent Indicators. In: Glänzel, W. u. a. (Hrsg). Springer Handbook of Science and Tech-nology Indicators. Cham: Springer, S. 907-927.
+Soete, L.; Wyatt, S. (1983): The use of foreign patenting as an internationally comparable
+science and technology indicator. In: Scientometrics 5(1), S. 31-54.
+Statistische Bundesamt (2020): Volkswirtschaftliche Gesamtrechnungen 2019, Fachse-
+rie 18 Reihe 1.4. Wiesbaden: Statistisches Bundesamt.
+Studybees (Hrsg.) (2019): Technologien der Zukunft: 10 Themen im Überblick. Mann-heim: Studybess, zugreifbar über https://studybees.de/magazin/technologien-der-zukunft-10-themen-im-uberblick/.
+[Page #85]
+72
+Zukunftstechnologien für Deutschland
+TA Swiss (Hrsg.) (2020): Programmed trust: Opportunities and risks of blockchain tech-
+nology. Zürich: vdf Hochschulverlag.
+Van Raan, A. F. J. (2004): Measuring Science, Capita Selecta of Current Main Issues. In: Moed, H. F.; Glänzel, W.; Schmoch, U. (Hrsg.): Handbook of Quantitative Science and Technology Research, S. 19-50.
+WEF (Hrsg.) (2016): Top 10 Emerging Technologies of 2016. Colony, Geneva: WEF.
+[Page #86]
+Zukunftstechnologien für Deutschland
+73
+Anhang
+A.1
+Quellen für die Ermittlung von Zukunftstechnologien
+Zur Ermittlung von potenziell interessanten Zukunftstechnologien wurden verschiedene Quellen herangezogen. Neben aktuellen Studien zu Zukunftstechnologien wurden Tech-nologien zu gesellschaftlichen Herausforderungen geprüft, Experten innerhalb des Fraunhofer ISI befragt sowie Experten von wichtigen deutschen Wirtschaftsverbänden konsultiert.
+A.1.1
+Studien zu Zukunftstechnologien
+Es wurden für die Auswahl von Zukunftstechnologien die folgenden Studien herangezo-gen:
+1.
+Foresight Fraunhofer (Ganz u. a. 2019)
+2.
+TA Swiss Blockchain (TA Swiss 2020)
+3.
+EU Positioning (Reiß u. a. 2016)
+4. Weltklassepatente (Bertelsmann-Stiftung 2020)
+5.
+BMBF Foresight (Cuhls u. a. 2009)
+6.
+BMBF HighTech (BMBF 2018)
+7. McKinsey (Püttner 2013)
+8. Gartner (Gartner 2020)
+9.
+RIBRI (Andreescu u. a. 2018)
+10. Studybees (Studybees 2019)
+11. Telepolis (Benedikter 2016)
+12. WEF (WEF 2016)
+Die Studie Foresight Fraunhofer beruht auf einer breiten Befragung führender Fraun-hofer-Mitarbeiter zu Zukunftsthemen der angewandten Forschung. Viele davon befinden sich noch in einem sehr frühen Stadium und sind für die vorliegende Fragestellung nicht geeignet. Eine Reihe von Technologien war jedoch auch im vorliegenden Kontext rele-vant.
+Die Studie der TA Swiss zur Blockchain-Technologie befasst sich ausführlich mit deren Möglichkeiten und Risiken.
+[Page #87]
+74
+Zukunftstechnologien für Deutschland
+Die Studie EU Positioning befasst sich mit den sogenannten Key Enabling Technologies (KETs), die die Europäische Kommission für besonders relevant für die technologische Wettbewerbsfähigkeit Europas hält, sowie mit den Societal Development Goals (SDGs).
+Die Studie der Bertelsmann-Stiftung zu Weltklassepatenten wurde von dem Schweizer Unternehmen EconSight erstellt. Sie enthält eine Liste von zukunftsträchtigen Berei-chen, die sich über die gesamte Technik erstrecken. Die meisten Bereiche sind aller-dings zu breit gefasst, geben aber Anregungen, wo Zukunftstechnologien zu finden sind.
+Die Studie BMBF Foresight führt eine Vielzahl von Zukunftstechnologien auf, die jedoch sehr langfristig orientiert sind und einen sehr spekulativen Charakter haben. Sie sind daher für die vorliegende Fragestellung nicht geeignet.
+Die Analyse der deutschen Tochter des amerikanischen Beratungsunternehmens McKinsey beruht auf Erfahrungen des Unternehmens im Kundengeschäft und greift dort wichtige Trends auf. Gleiches gilt für das amerikanische Beratungsunternehmen Gartner. Dessen Studie ist allerdings aktueller als die von McKinsey.
+Bei RIBRI handelt es sich um eine Untersuchung im Auftrag der Europäischen Kommis-sion, für die das Internet systematisch im Hinblick auf neue Technologien durchsucht wurde. Die Mehrzahl dieser Technologien befindet sich noch in einem sehr frühen Sta-dium. Einige sind aber auch für die vorliegende Fragestellung interessant.
+Studybees ist eine Online-Plattform von etwa 20 deutschen Universitäten, die unter an-derem eine Analyse von Zukunftstechnologien in ihrem Programm anbietet.
+Telepolis ist ein Online-Magazin für Politik und Medien, das sich auch regelmäßig mit neuen Technologien beschäftigt.
+Die Abkürzung WEF steht für Schweizer World Economic Forum, das regelmäßig Jah-restagungen mit prominenten Teilnehmern veranstaltet und Berichte zu ökonomischen und politischen Themen, unter anderem auch zu neuen Technologien veröffentlicht.
+Viele Zukunftstechnologien werden in mehreren dieser Studien angeführt.
+A.1.2
+Zukunftstechnologien abgeleitet aus gesellschaftlichen Zielen
+Die Vereinten Nationen haben gesellschaftliche Entwicklungsziele (Societal Develop-ment Goals, SDGs) formuliert, die von vielen Akteuren übernommen wurden. Daraus abgeleitet hat sich z. B. die Europäische Kommission bereits früh eigene Schwerpunkte für ihre Innovations- und Wissenschaftspolitik gegeben. Diese sind:
+[Page #88]
+Zukunftstechnologien für Deutschland
+75
+1. Gesundheit, demografischer Wandel und Wohlergehen
+2.
+Ernährungs- und Lebensmittelsicherheit, nachhaltige Land- und Forstwirtschaft, marine, maritime und limnologische Forschung und Biowirtschaft
+3.
+Sichere, saubere und effiziente Energie
+4.
+Intelligenter, umweltfreundlicher und integrierter Verkehr
+5.
+Klimaschutz, Umwelt, Ressourceneffizienz und Rohstoffe
+6.
+Europa in einer sich verändernden Welt: integrative, innovative und reflektierende Gesellschaften
+7.
+Sichere Gesellschaften – Schutz der Freiheit und Sicherheit Europas und seiner Bürger
+Diese Ziele sind vorrangig nicht technologieorientiert, enthalten allerdings teilweise auch technologische Aspekte. Die meisten neuen Technologien sind mit ökonomischen Zielen verknüpft. Somit besteht die Herausforderung darin, Technologien zu identifizieren, die Beiträge zur Erreichung der SDGs leisten. Üblicherweise erscheinen Zukunftstechnolo-gien, die solche Beiträge leisten können, nicht in Studien zu Zukunftstechnologien. In der Studie EU Positioning (Reiss u. a. 2016) wurde daher versucht, die in den Zielen enthaltenen technischen Komponenten zu definieren. Diese technischen Definitionen der gesellschaftlichen Ziele wurden auch für die vorliegende Studie herangezogen. Wei-terhin beschäftigen sich im Fraunhofer ISI drei Competence Center mit Energie- und Umweltfragen. Von deren Mitarbeitern und Mitarbeiterinnen wurden zusätzliche Zu-kunftstechnologien zu den SDGs vorgeschlagen.
+Schließlich wurden von Vertretern der Wirtschaftsverbände größere Zukunftsthemen wie die CO2-Minderung vorgebracht, ähnliches gilt für Studien Weltklassepatente (Bertels-mann-Stiftung 2020) oder BMBF HighTech (BMBF 2018).
+A.1.3
+Interne und externe Experten
+Zusätzlich zu den erwähnten Quellen wurden interne und externe Experten befragt. Im Fraunhofer ISI wurden insgesamt 15 Mitarbeiter und Mitarbeiterinnen aus verschiedenen Competence Center befragt. Neben einzelnen Anregungen zu Zukunftstechnologien und der Korrektur von ersten Vorschlägen aus den Zukunftsstudien wurde insbesondere eine Liste von rund 250 Zukunftstechnologie bereitgestellt mit unterschiedlicher Breite und unterschiedlichem Entwicklungsstadium. Daraus wurden viele Vorschläge aus den Zu-kunftsstudien bestätigt und neue Vorschläge übernommen, die für den vorliegenden Kontext von Interesse sind. Aus dieser Quelle stammen auch einige Vorschläge für Technologien im Zusammenhang von SDGs.
+[Page #89]
+76
+Zukunftstechnologien für Deutschland
+Um Vorstellungen zu Zukunftstechnologien der Wirtschaftsverbände zu ermitteln und insbesondere mögliche Auswirkungen der Corona-Krise auf entsprechende Aktivitäten zu erfassen, wurden die folgenden Verbände befragt:
+1.
+VDMA
+2.
+VCI (Chemie)
+3.
+Bitkom
+4.
+Verband der Automobilindustrie (VDA)
+5.
+Bundesverband der Arzneimittel-Hersteller e.V. (BAH)
+6.
+Forschungsvereinigung der Arzneimittelhersteller e.V. (FAH)
+7.
+ZVEI - Zentralverband Elektrotechnik- und Elektronikindustrie e. V.
+8.
+VDE Verband der Elektrotechnik Elektronik Informationstechnik e.V.
+9.
+SET e.V. Wirtschaftsverband Anlagenbau und Industrieservice
+10. BVMed Bundesverband Medizintechnik
+11. Verband für Anlagentechnik (VAIS)
+12. Bundesverband der deutschen Industrie (BDI)
+Diese Verbände wurden schriftlich und in fünf Fällen auch mündlich befragt. Aus diesen Befragungen ergaben sich verschiedene neue Zukunftstechnologien und die Bestäti-gung von solchen aus den Zukunftsstudien. Weiterhin wurden auch die Internetseiten dieser Verbände ausgewertet, die häufig ebenfalls technologische Perspektiven anspre-chen.
+A.2
+Technologisches Ranking unter Berücksichtigung der Relevanz von KMU
+Ranking der Technologien nach den Gesamtindikatoren (Patente, Publikationen, Mar-ken), wenn zusätzlich beiden Patentindikatoren die Beteiligung von KMU mit der Ge-wichtung von 1,5 eingeführt wird. Dabei sind die Ränge ohne die Berücksichtigung von KMU aufgeführt, wenn sich die Ränge signifikant verbessert haben.
+[Page #90]
+Zukunftstechnologien für Deutschland
+77
+Tabelle A-1: Rangfolge der Zukunftstechnologien bei den technologischen Gesamt-
+indikatoren bei der Berücksichtigung des KMU-Anteils bei Patenten
+Rang Rang ohne KMU Technologie 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 24 25 26 27 28
+Gesamt-Index 35,8 35,4 34,5 33,0 30,7 30,4 30,0 29,8 29,8 28,5 28,2 28,2 26,8 26,8 26,3 26,2 25,7 25,4 23,9 23,4 23,3 22,8 22,7 22,6 22,4 22,2 22,2
+Additive Fertigung Roboter Biomaterialien Recycling CO2-Management Autonomes Fahren Leichtbau bei Kfz Alternative Solarzellen Energiespeicherung Batterietechnik Augmented- u. Virtual Reality Wasserstoffproduktion Digitale Medizin, Geräte Umweltorientierte Biozide Cybersecurity 2D-Materialien, Graphen Elektr. Traktionsmotoren Brennstoffzellen für Kfz Soft robotics Low-carbon steelmaking Internet der Dinge (IoT) Hybridelektrische Kfz Authentifizierung (Sicherheit) Künstliche Intelligenz Carbon Nanotube (CNT) Mikrobiom Smart grid
+8 10
+16
+17 15
+19
+32
+33
+29
+Mensch-Maschine-Schnittstelle
+22,1
+30 31 32 33
+Neue Impfstoffe Quantencomputer 5G, 6G Blockchain
+20,7 19,8 19,4 17,4
+[Page #91]
+78
+Zukunftstechnologien für Deutschland
+A.3
+Ergebnisse von Marktstudien für einzelne Technolo-gien
+Für die einzelnen Technologien wurde in erster Linie der Marktwert für 2020 ermittelt, da Patentanmeldungen der Vermarktung vorlaufen und der letzte Erhebungswert mit PATSTAT von 2017 in etwa den Vermarktungswert von 2020 widerspiegelt. Darüber hinaus wird über die zukünftige Entwicklung berichtet.
+(1) Für Blockchain gibt es eine Angabe zum weltweiten Marktvolumen vom Anbieter
+Statista, der neben eigenen Erhebungen auch auf andere Quellen zurückgreift. In die-sem Fall bezieht sich Statista auf eine Publikation von Shahong Liu aus dem Jahr 2020.17 Für 2020 wird ein weltweites Markvolumen von 3 Mrd. US$ angenommen, aller-dings wird bis 2025 ein starkes Wachstum angenommen und dann ein Wert von 39,7 Mrd. US$ prognostiziert. Der große Anbieter für Marktstudien Frost & Sullivan bietet keine Studien mit Marktwerten zu Blockchain an.
+(2) Allied Market Research gibt für Internetsicherheit (Cybersecurity) für 2020 einen weltweiten Marktwert von 42,8 Mrd. US$ an, wobei sich der Wert seit 2013 nahezu ver-doppelt hat. Die Analyse stammt aus dem Jahr 2013.18
+(3) Für Künstliche Intelligenz gibt es eine Marktstudie von Tractia aus dem Jahr 2020,
+die für 2020 eine weltweite Marktgröße von 22,6 Mrd. US$ annimmt. Die Prognose für 2025 liegt sehr viel höher bei 126 Mrd. US$. IDC sieht für 2020 ein Volumen von 51,1 Mrd. US$.19 Die Unterschiede sind auf eine breitere Abdeckung der vielfältigen An-wendungsbereiche von Künstlicher Intelligenz bei IDC zurückzuführen.
+Speziell bei Künstlicher Intelligenz besteht das Problem darin, dass es viele verschie-dene Marktsegmente wie Business-Anwendungen, Spracherkennung, Industrieroboter, Autonomes Fahren, Supercomputer, Einzelhandel usw. gibt, die zusammengerechnet werden müssen.20
+(4) Zu Authentifizierung gibt es keine Marktstudien.
+17 https://www.statista.com/statistics/647231/worldwide-blockchain-technology-market-size/
+18 https://de.statista.com/statistik/daten/studie/378763/umfrage/prognostiziertes-umsatzvolu-
+men-des-marktes-fuer-internetsicherheit-weltweit/
+19 https://www.statista.com/statistics/941835/artificial-intelligence-market-size-revenue-com-
+parisons/
+20
+file:///C:/Users/us/Downloads/study_id38585_kuenstliche-intelligenz-statista-dossier.pdf
+[Page #92]
+Zukunftstechnologien für Deutschland
+79
+(5) Für das Internet der Dinge liegen die Angaben von IDC zu den weltweiten Ausgaben im Jahr 2020 bei 742 Mrd. US$.21 Eine Publikation von Gartner aus dem Jahr 2017 kommt für 2020 auf ein weltweites Marktvolumen von 470 Mrd. US$.22 Das Problem bei IoT ist wie bei KI die Vielzahl von Anwendungsbereichen.
+(6) Nach einer Publikation von Tenzer (2019) steigt das weltweite Marktvolumen für die 5G-Technologie von 0,5 Mrd. US$ im Jahr 2018 auf 26 Mrd. US$ im Jahr 2022.23 Yano Research sieht für 5G im Jahre 2020 ein Volumen von 105,8 Mrd. US$, für 2022 205,6 Mrd. US$, also wesentlich höhere Volumina.24 Ein Grundproblem ist hier die De-finition, was zu der Technologie gehört.
+(7) Beim Quantencomputer ist nach Fraunhofer (2020) das aktuelle Marktvolumen ver-nachlässigbar, es liegt 2030 bei 2 Mrd. US$, 2040 bei 18 Mrd. US$ und 2050 bei 48 Mrd. US$.25 Die Autoren beziehen sich dabei auf eine Studie von BCG.
+Nach Tractia sind es 2020 260 Mio. US$, nach Market Research Future dagegen 58 Mrd. US$. Tractica sieht 2030 ein Volumen von 9 Mrd. US$, Mind Commerce schon 2024 18 Mrd. US$.26 Die Differenzen bei dieser Technologie, die sich noch in einer frü-hen Phase befindet, sind also erheblich.
+(8) Bei der Additiven Fertigung liegt nach Focus Online der weltweite Umsatz 2020 bei 3,1 Mrd. US$.27 Nach Wohlers Associates liegt der weltweite Markt für 3D-Printing Pro-dukte und Dienstleistungen 2020 bei 16 Mrd. US$.28 Auch hier ist die Differenz der Ab-schätzungen erheblich.
+21
+file:///C:/Users/us/Downloads/study_id34576_marktprognosen-zum-internet-der-dinge-sta-tista-dossier.pdf
+22 https://www.statista.com/statistics/913299/projected-global-revenue-of-the-internet-of-
+things-segment/
+23 https://de.statista.com/statistik/daten/studie/940311/umfrage/prognose-zum-umsatz-mit-5g-
+netzwerktechnik-weltweit/
+24 https://www.statista.com/statistics/1174487/global-5g-related-devices-market-size/
+25 https://newsletter.fraunhofer.de/public/a_14338_S4Jdz/file/data/1847_Fraunhofer_
+BIG_DATA_AI-Studie-QML_web.pdf
+26 https://www.statista.com/statistics/936010/quantum-computing-future-market-outlook-fore-
+cast/
+27
+file:///C:/Users/us/Downloads/study_id29177_additive-fertigung-statista-dossier.pdf
+28
+file:///C:/Users/us/Downloads/study_id21960_additive-manufacturing-statista-dossier.pdf
+[Page #93]
+80
+Zukunftstechnologien für Deutschland
+(9) Zu Soft robotics gibt es keine Marktstudien, wohl aber zu industriellen Robotern.
+Hier besteht wieder das Problem, dass sich die Anwendungen auf viele verschiedene Einzelbereiche beziehen, die addiert werden müssen. Nach Statista liegen nach einer Eigenanalyse die weltweiten Verkaufszahlen 2020 bei 28,1 Mrd. US$.29. In Bezug auf Service-Roboter gibt Statista einen weltweiten Verkaufswert für 2020 von 17,11 Mrd. US$ an.30
+Für die Abschätzung des Marktvolumens für Soft Robotics wurde dessen Patentanteil an Industriellen Roboter herangezogen.31
+(10) Für die Technologie Mensch-Maschine-Schnittstelle gibt ReportLinker für 2019
+ein weltweites Marktvolumen von 4,18 Mrd. US$ an, für 2028 von 8,77 Mrd. US$, also rund doppelt so viel.32
+(11)IDC gibt für Augmented und Virtual Reality für 2021 einen weltweiten Umsatz von 67,3 Mrd. US$ an.33 2015 waren es noch 2,3 Mrd. US$, die Steigerung ist also massiv. Völlig anders sind die Zahlen von Morgan Stanley: Danach werden nur für Augmented Reality im Jahr 2020 ein weltweiter Umsatz von 186 Mrd. US$ erzielt.34 Allerdings be-zieht sich IDC nur auf Geräte, Morgan Stanley auf Geräte und Dienstleistungen. Nur für Geräte gibt Morgan Stanley 68 Mrd. US$ an, was sich mit IDC weitgehend deckt.
+(12) Für Low-carbon steelmaking gibt es keine Marktstudie. Es gibt Studien zur Menge der Stahlproduktion und Angaben zum weltweiten Volumen zu einzelnen Segmenten des Stahlmarktes. Das führt in der Summe zu 466 Mrd. US$ für 2020 und 648 Mrd. US$ für 2025.35 Für die Abschätzung von Low-carbon steelmaking wurde der Patentanteil an der gesamten Produktion herangezogen.
+29 https://www.statista.com/statistics/1018262/industrial-robotics-sales-value-worldwide-by-
+application-area/
+30 https://www.statista.com/statistics/1018311/service-robotics-sales-value-worldwide-by-ap-
+plication-area/
+31 Siehe Tabelle A-2 im Anhang.
+32 https://www.statista.com/statistics/1120222/global-human-machine-interface-market-size/
+33 https://de.statista.com/infografik/9006/marktentwicklung-von-augmented-und-virtual-reality/
+34 https://www.statista.com/statistics/786821/ar-device-and-services-revenue-worldwide/
+35
+file:///C:/Users/us/Downloads/study_id12372_global-steel-market-statista-dossier.pdf
+[Page #94]
+Zukunftstechnologien für Deutschland
+81
+(13) Für Carbon Nanotube (CNT) wird von Reports and Data für 2018 von einem welt-
+weiten Marktwert von 4,47 Mrd. US$ berichtet und für 2026 ein Wert von 15,02 Mrd. US$ prognostiziert.36
+(14) Für Graphen-(2D-Materialien)-basierte Produkte gibt BBC Research für 2020 ein weltweites Marktvolumen von 0,31 Mrd. US$ an, für 2025 von 2,1 Mrd. US$.37 Nach Dö-scher u. a. gibt es bei dem weltweiten Graphen-Markt eine große Bandbreite der welt-weiten Marktabschätzung durch verschiedenen Studien für 2020 zwischen 0,070 und 0,800 Mrd. US$ und 2025 zwischen 0,2 und 3 Mrd. US$. Bei diesen relativ neuen Tech-nologien sind offenbar valide Prognose schwierig.
+(15) Der weltweite Markt für die Mikrobiom-Technologie beträgt nach MarketsandMar-kets im Jahr 2024 0,942 Mrd. US$ und 2027 1,731 Mrd. US$.38 Nach Grand View Re-search beträgt das Marktvolumen im Jahr 2020 0,085 Mrd. US$ und im Jahr 2025 0,56 Mrd. US$.39 Auch hier sind bei der noch in der Anfangsphase befindlichen Techno-logie die Anwendungen und damit die Marktprognosen unsicher.
+(16) Bei der Digitalen Medizin gibt es keine Marktstudien, die eine klare Abgrenzung
+der Technologie von Verwaltung erlauben. Es gibt aber Studien zu der Medizintechnik insgesamt.40 Hier beträgt der weltweite Marktwert nach Evaluate im Jahr 2020 484 Mrd. US$ und im Jahr 2024 594 Mrd. US$. Es ist damit ein sehr erhebliches Volu-men, und es wird weiterwachsen. Der Anteil der digitalen Medizintechnik wurde wieder über Patente ermittelt.
+(17) Für Impfstoffe liegt nach Mikulic das weltweite Marktvolumen 2020 bei 44,4 Mrd. US$, 2024 bei 61,6 Mrd. US$.41 Das methodische Problem besteht hier darin, dass eine Abgrenzung von neuen und bekannten Impfstoffen nicht möglich ist.
+36 https://www.statista.com/statistics/714463/global-market-value-of-carbon-nanotubes/
+37
+file:///C:/Users/us/Downloads/study_id66040_graphene-industry-worldwide.pdf
+38 https://www.marketsandmarkets.com/Market-Reports/human-microbiome-market-
+37621904.html
+39 https://www.grandviewresearch.com/industry-analysis/microbiome-therapeutics-market
+40
+file:///C:/Users/us/Downloads/study_id18123_medical-technology-industry--statista-dos-sier.pdf
+41 https://www.statista.com/statistics/943867/size-of-the-global-vaccine-market/
+[Page #95]
+82
+Zukunftstechnologien für Deutschland
+(18) McKinsey beziffert den globalen Marktwert für Elektroautos im Jahr 2020 mit 301 Mrd. €, im Jahr 2030 mit 459 Mrd. €.42 Zu Hybridfahrzeugen gibt es dagegen nur Verkaufszahlen von Fahrzeugen, nicht aber Umsatzzahlen. Deshalb muss auch hier der Anteil über Patente ermittelt werden.
+(19) Laut Breitkopf liegt im Jahre 2019 der Umsatz der deutschen Brennstoffzellenin-dustrie bei 120 Mio. €, im Jahr 2024 bei 700 Mio. €. Welcher Anteil davon sich auf Brennstoffzellen für Kfz bezieht, muss über Patente ermittelt werden.
+(20) Der Umsatz der Branche Elektromotoren, Generatoren und Transformatoren in Deutschland wird von Statistischen Bundesamt für 2020 mit 13,42 Mrd. € angegeben, für 2024 mit 11,57 Mrd. €.43 Die Abschätzung des Anteils von Elektr. Traktionsmoto-ren für Kfz über Patente kann nur grob erfolgen, weil unsicher ist, von welcher Branche
+Traktionsmotoren für Kfz letztendlich gefertigt werden.
+(21) Nach Kordes beträgt das weltweite Marktvolumen von Fahrassistenzsystemen und vom Autonomen Fahren im Jahr 2020 80,2 Mrd. US$, im Jahr 2025 187,8 Mrd. US$.44 PwC prognostiziert für autonome Fahrzeuge der Stufen 4 und 5 für 2022 ein weltweites Marktvolumen von 15,1 Mrd. US$ und für 2030 von 55,3 Mrd. US$. (Stufe 4 = Vollauto-matisiertes Fahren, erfordert zur Sicherheit noch einen Fahrer, Stufe 5 = voll-autonomes Fahren). Dabei beträgt 2030 der Anteil von Fahrzeugen der Stufe 5 (voll-autonom) 13,7 Mrd. US$.45 Aus diesen Angaben wird deutlich, dass der aktuelle Anteil voll-auto-nomer Fahrzeuge vernachlässigbar ist.
+(22) Nach Berylls beträgt das weltweite Volumen des Markts für Leichtbau von Kfz im Jahr 2025 99 Mrd. €,46 nach BrandEssence liegt der weltweite Markt für Automotive
+42 https://de.statista.com/statistik/daten/studie/173157/umfrage/prognose-zum-weltweiten-um-
+satz-mit-elektrofahrzeugen/
+43 https://de.statista.com/prognosen/924940/herst-von-elektromotoren-generatoren-uae-um-
+satz-in-deutschland
+44 https://de.statista.com/statistik/daten/studie/468552/umfrage/marktvolumen-von-autono-
+men-fahrfunktionen/
+45
+file:///C:/Users/us/Downloads/study_id69417_autonomous-vehicles.pdf
+46 https://www.biz-up.at/fileadmin/user_upload/BizupWebsite/News/News_PDF/2015/
+Praesentation_Jan_Dannenberg.pdf
+[Page #96]
+Zukunftstechnologien für Deutschland
+83
+Composites Materials 2025 bei 18,33 Mrd. US$47. Es wird deutlich, dass offensichtlich die Definitionen des Gebiets beider Studien völlig unterschiedlich sind.
+(23) E-Highways. Entfällt, keine Marktstudien.
+(24) Der globale Markt für CO2-Erfassung und Speicherung wird von Global Markets Insights 2020 auf 3 Mrd. US$ und 2026 auf 6 Mrd. US$ geschätzt.48
+(25) Das Statistische Bundesamt beziffert den Markt der deutschen Recycling-Branche 2020 auf 17,7 Mrd. € und 2024 auf 19,1 Mrd. €.49 Damit ist Recycling sehr eng definiert. Es fehlt die Rückgewinnung und Wiederverwertung von Wertstoffen in Unternehmen, woran die Recycling-Branche überhaupt nicht beteiligt ist.
+(26) Das Statistische Bundesamt beziffert den Umsatz der Branche Biozide und Pesti-zide in Deutschland 2020 auf 1,03 Mrd. € und 2024 auf 0,876 Mrd. €.50 Hier ist über Patente eine Umrechnung auf umweltorientierte Biozide erforderlich.
+für Biomaterialien wird von Garside
+(27) Der weltweite Wert für 2021 mit 151,65 Mrd. US$ beziffert. 2017 waren es noch 83,76 Mrd. US$51. Das Wachstum ist also erheblich. Das zentrale methodische Problem bei dieser Technologie ist die Frage, was alles zu Biomaterialien gezählt wir.
+(28) Frost & Sullivan beziffert den weltweiten Markt für Lithium-Ionen-Batterien für 2019 auf 15,49 Mrd. US$. Für 2026 wird ein Volumen von 36,56 Mrd. US$ gesehen.52 Es wird also ein massives Wachstum geben. Für den Anteil der Batterietechnik für Kfz ist eine
+Umrechnung über Patente erforderlich.
+(29) Frost & Sullivan sehen für den weltweiten Solarzellenmarkt für 2020 ein Volumen von 137 Mrd. US$.53 Nach Allied Market Research betrug der globale Marktwert der
+47 https://www.statista.com/statistics/658766/size-of-the-global-automotive-composites-mar-
+ket/
+48 https://www.gminsights.com/industry-analysis/carbon-capture-and-storage-market
+49 https://de.statista.com/prognosen/313893/recycling-bzw-rueckgewinnung-von-werkstoffen-
+umsatz-in-deutschland
+50 https://de.statista.com/prognosen/313714/herstellung-von-bioziden-und-petiziden-umsatz-
+in-deutschland
+51 https://www.statista.com/statistics/800209/global-biomaterials-market-value/
+52 https://cds.frost.com/p/18359#!/ppt/c?id=MF51-01-00-00-00&hq=batteries
+53 https://cds.frost.com/p/18359#!/ppt/c?id=MA28-01-00-00-00&hq=solar%20cells
+[Page #97]
+84
+Zukunftstechnologien für Deutschland
+Photovoltaik 2018 53,9 Mrd. US$ und 2026 wird ein Wert von 333,7 Mrd. US$ erreicht.54 Hier muss über Patente eine Umrechnung auf alternative Solarzellen erfolgen.
+(30) Für Smart grids ergibt sich nach einer Analyse von MarketsandMarkets ein welt-weites Marktvolumen für 2020 von 35,1 Mrd. US$ und für 2023 von 61,3 Mrd. US$.55 Das Wachstum ist also erheblich.
+(31) Der weltweite Markt für Energiespeichersysteme hat nach Global Markets Insights 2018 einen Wert von 340 Mrd. US$ und 2025 500 Mrd. US$.56 Nach Lux Research hat der weltweite Markt für Energiespeicher 2019 ein Volumen von 59 Mrd. US$ und 2035 von 546 Mrd. US$. Allerdings bezieht sich der größte Teil auf mobile Speicher, also Au-tomobile. Stationäre Speicher werden 2023 ein Volumen von 30,4 Mrd. US$ haben.57 In jedem Fall sind die Definitionen von Energiespeichern in den beiden Studien sehr un-
+terschiedlich.
+(32) Der weltweite Markt der Wasserstoffproduktion wird von Zion Market Research für das Jahr 2017 auf 129 Mrd. US$ und für 2023 auf 183 Mrd. US$ geschätzt.58 Nach MarketsandMarkets hat der weltweite Markt 2018 einen Umfang von 135 Mrd. US$ und 2023 von 199 Mrd. US$.59 Die Einschätzungen beider Quellen sind also ähnlich.
+(33) Nach der genaueren Analyse zu Robotik sollte auch diese Technologie insgesamt
+zu den Zukunftstechnologien gerechnet werden. Werden hier Industrieroboter und Ser-vice-Roboter zusammengerechnet, ergibt sich nach einer Analyse von Statista für 2020 ein weltweiter Marktwert von 37,92 Mrd. US$.60
+54 https://www.alliedmarketresearch.com/photovoltaic-market
+55 https://www.statista.com/statistics/246154/global-smart-grid-market-size-by-region/
+56 https://www.gminsights.com/industry-analysis/energy-storage-systems-mar-
+ket?utm_source=GoogleAds&utm_medium=Adwords&utm_campaign=Energy-PPC&gclid=EAIaIQobChMIkrnl3LHk7AIVQdiyCh0qmQo4EAAYAiAAEgJBuvD_BwE
+57 https://www.luxresearchinc.com/hubfs/Lux%20Research%20-%20Global%20Energy%
+20Storage%20Market%20Forecast%202019%20-%20press.pdf
+58 https://www.statista.com/statistics/933570/global-market-value-hydrogen/
+59 https://www.marketsandmarkets.com/Market-Reports/hydrogen-generation-market-
+494.html
+60 https://www.statista.com/statistics/1018262/industrial-robotics-sales-value-worldwide-by-
+application-area/ und https://www.statista.com/statistics/1018311/service-robotics-sales-va-lue-worldwide-by-application-area/
+[Page #98]
+Zukunftstechnologien für Deutschland
+85
+A.4
+Umrechnung der weltweiten Marktwerte aus Marktstu-dien auf Marktwerte für deutsche Unternehmen
+In Tabelle A-2 sind die Umrechnungsfaktoren der Marktwerte zusammengestellt, die über Patentanalysen ermittelt wurden. Dabei geht es zum einen um den Anteil Deutsch-lands am weltweiten Marktwert, zum anderen um die Umrechnung einer Technologie, etwa bei Technologie 22 der Anteil von Soft Robotics an Industriellen Robotern, die in Marktstudien behandelt werden.
+Tabelle A-2: Umrechnungsfaktoren für die Marktwerte, 2020
+Anteil Deutsch-lands
+Patentan-passung
+Nr.
+Technologie
+1
+Blockchain
+0,043
+1,000
+2
+Cybersecurity
+0,060
+1,000
+3
+Künstliche Intelligenz
+0,043
+1,000
+4
+Authentifizierung (Sicherheit)
+0,060
+0,688
+5
+Internet der Dinge (IoT)
+0,039
+1,000
+6
+5G, 6G
+0,025
+1,000
+7
+Quantencomputing
+0,034
+1,000
+8
+3D-Druck, Additive Fertigung
+0,159
+1,000
+9
+Soft robotics
+0,063
+0,224
+10
+Mensch-Maschine-Schnittstelle
+0,057
+1,000
+11
+Augmented- u. Virtual Reality
+0,048
+1,000
+12
+Low-carbon steelmaking
+0,096
+0,063
+13
+Carbon Nanotube (CNT)
+0,033
+1,000
+14
+2D-Materialien, Graphen
+0,048
+1,000
+15
+Mikrobiom
+0,021
+1,000
+16
+Digitale Medizin, Geräte
+0,064
+0,097
+17
+Neue Impfstoffe
+0,069
+0,200
+18
+Hybridelektrische Kfz
+0,198
+0,692
+19
+Brennstoffzellen für Kfz, insb. Lkw
+?
+0,595
+20
+Elektr. Traktionsmotoren für Kfz
+?
+0,074
+21
+Autonomes Fahren
+0,193
+1,000
+22
+Leichtbau bei Kfz
+0,227
+1,000
+23
+E-Highway
+X
+24
+CO2-Management
+0,125
+1,000
+[Page #99]
+86
+Zukunftstechnologien für Deutschland
+Anteil Deutsch-lands
+Patentan-passung
+Nr.
+Technologie
+25
+Recycling
+1,000
+1,256
+26
+Umweltorientierte Biozide
+1,000
+0,181
+27
+Biomaterialien
+0,125
+1,000
+28
+Batterietechnik
+0,119
+1,063
+29
+Alternative Solarzellen
+0,149
+0,096
+30
+Smart grid
+0,049
+1,000
+31
+Energiespeicherung (außer Batterien)
+0,090
+1,000
+32
+Wasserstoffproduktion
+0,111
+1,000
+33
+Roboter
+0,112
+1,000

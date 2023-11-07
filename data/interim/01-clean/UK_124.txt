@@ -1,0 +1,2114 @@
+[Page #0]
+The R&D Pipeline Report to the Department for Business, Energy and Industrial Strategy by the Warwick Institute for Employment Research
+BEIS Research Paper Number: 2021/22
+July 2021
+[Page #1]
+Acknowledgements/Disclaimer
+This report was commissioned by the Department for Business, Energy and Industrial Strategy in June 2020 and completed by Jeisson Cardenas Rubio and Terence Hogarth on behalf of the Warwick Institute of Employment Research (University of Warwick) in December 2020.
+Contact details: Terence Hogarth. Warwick Institute for Employment Research. University of Warwick. Coventry CV4 7AL. t.hogarth@warwick.ac.uk
+https://warwick.ac.uk/fac/soc/ier
+© Crown copyright 2021
+This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3 or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: psi@nationalarchives.gsi.gov.uk.
+Where we have identified any third-party copyright information you will need to obtain permission from the copyright holders concerned.
+Any enquiries regarding this publication should be sent to us at: enquiries@beis.gov.uk
+[Page #2]
+The R&D Pipeline
+Contents
+Executive Summary __________________________________________________________ i
+1 Introduction ______________________________________________________________ 1
+1.1 Government’s R&D roadmap _____________________________________________ 1
+1.2 International comparisons of R&D activity ___________________________________ 2
+1.3 R&D, productivity and human capital development ____________________________ 3
+1.4 The study ____________________________________________________________ 5
+2 Defining R&D ____________________________________________________________ 6
+3 Labour demand considerations _______________________________________________ 9
+3.1 R&D occupations ______________________________________________________ 9
+3.2 Employment and skill demand in the R&D sector ____________________________ 19
+3.3 Demand for people with STEM qualifications ________________________________ 27
+3.4 Conclusion __________________________________________________________ 32
+4 Labour supply side considerations ___________________________________________ 33
+4.1 Introduction __________________________________________________________ 33
+4.2 Study towards STEM qualifications _______________________________________ 33
+4.3 Destinations of STEM graduates _________________________________________ 39
+4.4 Conclusion __________________________________________________________ 39
+5 Evidence of skill mismatches _______________________________________________ 43
+5.1 Introduction __________________________________________________________ 43
+5.2 Evidence of skill shortages ______________________________________________ 43
+5.3 Implications of the findings ______________________________________________ 47
+5.4 Conclusion __________________________________________________________ 48
+6 Conclusion _____________________________________________________________ 49
+References _______________________________________________________________ 54
+3
+[Page #3]
+The R&D Pipeline
+Executive Summary
+• The general trend in the UK and other European countries is one of an
+increasing share of employment in R&D over time. In the UK, though the number of people employed in R&D has increased, there is not much evidence of occupational change.
+• As expected, the level of qualification of R&D workers is relatively high
+compared to the rest of the UK workforce. However, whilst the overall level of qualification amongst R&D workers has been increasing, it has not been increasing as fast as that for those not working in R&D. This indicates that the rate at which the educational levels are increasing is greater in R&D which might reflect its reliance upon relatively young employees.
+• CEDEFOP’s1 forecast of future employment demand indicates that
+employment in hi-tech manufacturing and knowledge-intensive services is likely to fare relatively well in the future with employment growth relatively strong compared with the situation overall.
+• The sociodemographic results indicate that the R&D workforce is (slightly)
+younger compared with workforce overall, which may reflect entry into R&D posts following completion of postgraduate studies. Those working in R&D are more likely to be either born abroad or have a nationality other than that of the UK.
+• The data show that the fall in the number of vacancies during the first months of the pandemic for R&D workers whilst steep was not as steep as that for other jobs. Despite the general trend, not all R&D sector jobs have declined in the same way (e.g. the job postings for engineering sharply decreased whilst the number of online job vacancies for Biological Scientists and Biochemists fell much less precipitously.
+• People who studied for a STEM degree are more likely to be an employee
+compared with those with a non-STEM degree, but the differences again are not large. Both STEM and non-STEM degree holders were more likely to be in professional occupations than any other one in 2019. However, this share considerably varies across groups. For instance, more than half (59 per cent) of STEM degree holders were in professional occupations, while the percentage for non-STEM degree holders was 41 per cent.
+• Relative wage growth over the last five years or so has been relatively modest and below that in the economy as a whole, though there are selected R&D occupations which have revealed relatively strong wage growth. This tends to reinforce the view that R&D is a varied sector with particular niches where
+1 European Centre for the Development of Vocational Education
+i
+[Page #4]
+The R&D Pipeline
+there are shortage hotspots. But for the most part, supply looks to be keeping pace with skills demand.
+•
+If policy were to lead to an increased amount of R&D activity in the economy – which seems to be implicit in policies which seek to increase productivity levels and ensure that more of the UK’s employment is in high value segments of the global market – then there is a likelihood that shortages would materialise. This is because the lead times to become, say, a physical scientist are relatively long (requiring a bachelor degree as a minimum).
+• The above point stresses the importance of making the most of available
+supply, such as people from overseas who possess the high-level skills the country needs and / or the existing stock of people with a STEM qualification. It also draws attention to making R&D – however defined – an attractive career option so that more people with a STEM qualification might be attracted to working in R&D.
+ii
+[Page #5]
+The R&D Pipeline
+1 Introduction
+1.1 Government’s R&D roadmap
+The UK Research and Development Roadmap (July 2020) set out the government’s goals to further strengthen science, research and innovation. Amongst other things, it draws attention to the need to:
+•
+increase investment in R&D;
+• secure the economic and social benefits which increased investment should
+confer on the country;
+• support R&D entrepreneurs and start-ups; and
+• ensure that R&D contributes the levelling up agenda.
+In particular, it mentions the need to attract, retain and develop an R&D talent pool. It goes on to say: “We will do this through a new R&D People and Culture Strategy. We will increase the attractiveness and sustainability of careers throughout the R&D workforce – not just for researchers, but also for technicians, innovators, entrepreneurs and practitioners. We will set up an Office for Talent, which will take a new and proactive approach to attracting and retaining the most promising global science, research and innovation talent to the UK.” (p.6). In fact, many of the issues which the roadmap considers are related to the creation of an R&D skills pipeline. It is recognised that the skills pipeline should comprise highly qualified and skilled individuals emerging from UK universities plus those from overseas. In addition to being able to attract and retain highly qualified scientists, it is also recognised that the UK’s R&D sector (however that might be defined) is also dependent upon technicians who provide valuable support services.
+The importance of R&D to the future of the UK can be obtained from the Build Back Better: our plan for growth
+This report provides background information on the demand for, and supply of, R&D personnel in the UK. It provides a snapshot of the current characteristics of the R&D workforce, which might be useful for gauging future progress towards meeting the ambitions set out in the Government’s roadmap. In doing so, it also provides an indication of those factors which may inhibit or facilitate the development of the UK’s R&D workforce.
+The importance of R&D to the future of the UK can be obtained from Build Back Better: our plan for growth (2021) which sets out the Government’s policies to stimulate growth in the economy (hereafter the Plan for Growth). There are three investment pillars in the plan: infrastructure; skills; and innovation. The plan signals
+1
+[Page #6]
+The R&D Pipeline
+the Government intention’s intention to support and encourage investments in those ideas and technologies which will shape the country’s future. In doing so, it will upon the country’s acknowledged science and innovation strengths
+1.2 International comparisons of R&D activity
+The UK has many outstanding centres of R&D, several of which are drawn attention to in the Government’s roadmap. But investment in intramural R&D is below that of many competitor countries as Figure 1.1 reveals. While R&D expenditure as a percentage of GDP has increased substantially in countries such as South Korea and China (excluding Hong Kong), it has declined modestly in the UK since the 1980s and is below that of countries such as Germany and France. If one compares the situation from purely a European perspective it is apparent that at present it is a middle ranking country (see Figure 1.2).
+Figure 1.1: R&D expenditure as a percentage of GDP: selected countries compared
+5.04.54.03.53.02.52.01.51.00.50.0
+PDG%
+GermanyUnited States
+FranceChina except Hong Kong
+United KingdomJapan
+Source: Intramural R&D expenditure (GERD) by sectors of performance [RD_E_GERDTOT]
+Figure 1.2: R&D expenditure as a percentage of GDP in Europe, 2018
+2
+[Page #7]
+The R&D Pipeline
+3.5
+3.32 3.29
+3.14 3.12
+3.03
+3.0
+2.76
+2.68
+2.5
+2.19 2.14 2.11 2.06 2.04
+1.95 1.9
+PDG%
+2.0
+1.73
+1.53
+1.43 1.41 1.36
+1.5
+1.24 1.21 1.21 1.18
+0.99 0.97 0.94
+1.0
+0.84
+0.76
+0.64 0.63 0.6
+0.5
+0.5
+0.0
+S S
+T
+E
+TM
+RF
+82UE
+I
+HC
+ON
+TL
+VL
+ED
+K FD
+UH
+UL
+ZC
+KU
+RH
+OR
+YC
+LN
+ES
+TA
+EB
+GB
+KS
+EE
+TP
+SE
+I
+LP
+LE
+I
+I
+I
+Source: Eurostat - Intramural R&D expenditure (GERD) by sectors of performance [RD_E_GERDTOT]
+According to the OECD, gross domestic spending on R&D in the UK has stood around 1.5 per cent of GDP, while this average for the OECD countries has been 2 per cent over the last two decades (OECD, 2020). Moreover, the Department for Business, Energy & Industrial Strategy (2020) reported that in 2018 the percentage of businesses investing in internal R&D decreased by three percentage points to 16 per cent compared with 2016. This suggests that the UK might be under-investing in R&D compared with some of its competitors.
+If one wants to invest further in R&D then there is a need to think about the skill needs this will give rise to and how those skills can be secured. There is also a need to consider how those skills might feed through into the wider economy so that the wider economic and social benefits can be obtained.
+1.3 R&D, productivity and human capital development
+A number of studies have demonstrated the impact of R&D on companies’ productivity performance and, in aggregate, on that of the economy as a whole through, amongst other things, spillover effects. Griliches (1986), for instance, highlighted that R&D investments increase productivity growth and have a relatively high rate of return. On average, the elasticity of output of R&D investments was estimated to be around 0.07. The impact, however, of R&D investments on productivity largely depends on the context. Countries with a long history of R&D investments tend to have a higher capacity for obtaining gains from R&D spillovers (Sylwester, 2001). As noted above, the UK has invested less in R&D than some of its competitors.
+If the UK is to increase investment its R&D investments, there is a need to think about:
+3
+[Page #8]
+The R&D Pipeline
+•
+the specific types of R&D skills in which it will need to invest (often there is not much attention paid to specific skills or knowledge in which investments need to be increased);
+• how increases in supply can be retained within R&D (for instance, simply increasing the supply of people with high level skills in, say, physics, is no guarantee that this will lead to commensurate increase in the number of people becoming physicists);
+•
+the wider set of skills required to support R&D functions (e.g. the role played by technicians in supporting the activities of scientists);
+•
+the diffusion of R&D outputs into the wider economy (e.g. how can companies exploit R&D so that they are able to capture an increased share of the global market for higher value good and services).
+Picking upon the last point, R&D should not be considered simply as something which is undertaken in higher education and / or specialist research centres. As an activity it is something which many companies invest in through their in-house R&D facilities and / or in collaboration with higher education institutes and research centres. Critically it is how that R&D is converted into products that ultimately determines the impact of R&D on the economy more generally.
+If R&D investment were to be increased, what would be the impact on skills? At face value, it would suggest an increase in the demand for highly qualified personnel in science, technology, engineering and mathematics (STEM) amongst others. One would expect to this reflected in both employment in the higher education sectors and in companies which engage in R&D. But it would not necessarily be limited to these high-level skills given the need for a range of support functions, such as technicians, to support the role of the STEM professionals. Some evidence suggests that supply has kept pace with the demand for STEM skills at various levels. McCaig et al., (2014) and Bosworth et al. (2013) analysed the supply of, and demand, for STEM skills at different levels and indicated that overall there was limited evidence of shortages. This is despite the fact that many STEM graduates choose not to enter STEM jobs. For instance, Smith and White (2019) found that most STEM graduates never work in highly skilled STEM jobs. Their estimates show that about one-third of non-medical STEM graduates who entered employment were working in highly skilled STEM jobs six months after graduation.
+More recent evidence, however, suggests that skills supply is a constraint on R&D. The recent UK Innovation Survey (UKIS) suggested that a lack of qualified personnel was reported by companies as one of the key barriers to investing in innovation 2018 (UKIS, 2020). Moreover, the percentage of companies which faced barriers to investing in innovation due to lack of skilled personnel increased from 10 per cent in 2014/16 to 15 per cent in 2016/18. Other evidence suggests that STEM specific skills are in short-supply, especially those related to IT, engineering, and medicine
+4
+[Page #9]
+The R&D Pipeline
+(Gambin et al., 2016). Of course, all of the above relates to current demand and supply; it does not take into account what would happen if the demand for R&D skills were to increase as a result of, say, policies designed to provide an impetus to various high-tech sectors of the economy.
+1.4 The study
+Bearing in mind the mixed evidence on the UK’s demand for R&D skills, the study on which this report is based assessed how the R&D pipeline has been developing in the UK along with an indication of how it might well need to develop in the future. The overall aim is to provide a summary of the demand and supply sides and the extent to which there is a degree of mismatch between them. The report cannot definitively address all of the issues which affect the way in which investments the supply of R&D related skills are converted into R&D activity, but can provide an insight into how the supply of, and demand for, R&D skills has changed over the recent past and contemplate how this might play out if investments in R&D are increased.
+The report is divided into five sections. The next section defines the phenomenon of interest. This is followed by a section which addresses the demand for people to work in R&D. Next is an assessment of the supply-side which, in turn, is followed by an assessment of the extent of skill mismatches. The last section presents the concluding statement to this research and considers the outlook for R&D skills demand should the roadmap be enacted.
+5
+[Page #10]
+The R&D Pipeline
+2 Defining R&D
+R&D can be defined with reference to the types of job people undertake, or with respect to the sector in which people are employed. A definition based on occupation will provide detailed information on the types of skills which are in demand to carry out R&D. It will ignore the various personnel - and their skills - required to support those engaged in research. Throughout this report a distinction is made between:
+• an occupation based definition; and
+• an industry based one.
+R&D related occupations refer to those jobs which are engaged in the process of conducting R&D. R&D occupations have been defined with reference to (Standard Occupational Classification – SOC 2010):
+Table 2.1: R&D occupations
+SOC 2010
+2111
+Chemical Scientists
+2112
+Biological Scientists and Biochemists
+2113
+Physical Scientists
+2114
+Social and Humanities Scientists
+2119
+Natural and Social Science Professionals not elsewhere classified
+2121
+Civil Engineers
+2122
+Mechanical Engineers
+2123
+Electrical Engineers
+2124
+Electronics Engineers
+2126
+Design and Development Engineers
+2127
+Production and Process Engineers
+2129
+Engineering Professionals not elsewhere classified
+2311
+Higher Education Teaching Professionals
+3111
+Laboratory Technicians
+2150
+Research and Development Managers
+6
+[Page #11]
+The R&D Pipeline
+This definition is different to the one used by the OECD, for example, which includes:2
+•
+researchers;
+•
+technicians; and
+• other support staff.
+The occupational classification used in this report seeks to capture the types of jobs where people are involved in the activity of R&D rather than providing, say, administrative support. In this sense, it is about capturing information about people who are exercising skills which are directly related to R&D. But this is not limited solely to researchers but includes those who are involved in using R&D in their jobs (such as engineers) and the personnel who provide technical support to R&D personnel (i.e. technicians).
+R&D activities, however, can also be defined as a sector where the principal activity of an economic unit (firms / workplaces) is that of R&D (R&D related sectors). This includes the following sub-sectors (Standard Industrial Classification - SIC 2007):
+Table 2.2: R&D sectors of employment
+SIC 2007
+72.1
+Research and experimental development on natural sciences and engineering
+72.11
+Research and experimental development on biotechnology
+72.19
+Other research and experimental development on natural sciences and engineering
+72.2
+Research and experimental development on social sciences and humanities
+72.20
+Research and experimental development on social sciences and humanities
+In addition to the occupation and sectoral descriptions of R&D there are also classifications / definitions which are synonymous with R&D. These include:
+• hi-tech industries and knowledge intensive services – which includes relatively capital intensive manufacturing activities and services requiring relatively high levels of skilled personnel;3 and
+• STEM jobs those people working in managerial, professional, and associate professional jobs who hold a degree in medicine, science, IT, mathematics or engineering.
+2 See: https://stats.oecd.org/Index.aspx?DataSetCode=PERS_OCCUP) 3 See: https://ec.europa.eu/eurostat/cache/metadata/Annexes/htec_esms_an3.pdf
+7
+[Page #12]
+The R&D Pipeline
+Reference is made to hi-tech industries and knowledge intensive services and STEM jobs, respectively, where they provide an additional insight into either the demand for, or supply of R&D skills.
+8
+[Page #13]
+The R&D Pipeline
+3 Labour demand considerations
+The purpose of this section is to estimate the number of people working in R&D or R&D related occupations. This gives an indication of R&D skills demand and how it has changed over time. As well as providing information on the number of people working in each respective R&D occupation, it also looks at the number of people employed the STEM occupations and the R&D sector. It also provides an insight into the socio-demographic and educational characteristics of those working in R&D jobs of one kind or another. International comparisons of employment in R&D are also provided.
+3.1 R&D occupations
+The number of R&D jobs
+Based on the classification of R&D occupations provided in Section 2, Figure 3.1 shows the trend in R&D occupational employment over the recent past. The general trend is one of an increasing share of employment in R&D over time. In 2001, there were an estimated 686,000 R&D workers in the UK and by 2019 this had risen to 1,026,000 people (a percentage increase of 49.5 per cent).4 Around 6 per cent of R&D workers are self-employed and this has not shown much change over time.
+Figure 3.1: Employment in R&D occupations.
+4 The OECD estimate, based on a more restrictive measure of R&D employment, indicates that 416,538 people were employed in the sector in 2015, up from 312,000 in 1981, 261,000 in 1991, and 299,205 in 2001
+9
+[Page #14]
+The R&D Pipeline
+Source: Labour Force Survey Table 3.1 shows the distribution and the number of R&D occupations for each UK region. There is not much difference between the various nations, except that:
+•
+the share of R&D employment accounted for by civil engineering is relatively high in Scotland and Northern Ireland;
+• a relatively high share of R&D employment in Northern Ireland comprises
+design and development engineers;
+•
+in Northern Ireland the share of R&D employment accounted for higher education and teaching professionals is relatively low.
+Table 3.1: R&D Employment by 4-digit SOC and regions 2017-2019
+England Wales
+Scotland
+Northern Ireland
+2111 Chemists
+2.7%
+2.5%
+2.1%
+5.0%
+2112 Bio scientists and biochemists
+7.7%
+10.9%
+7.8%
+11.3%
+2113 Physicists, geologists & meteorologists
+2.4%
+1.9%
+5.4%
+0.8%
+2114 Social and Humanities Scientists
+2.7%
+3.0%
+1.4%
+2.6%
+2119 Natural and Social Science Professionals not elsewhere classified
+5.7%
+3.0%
+6.7%
+4.6%
+2121 Civil engineers
+7.8%
+8.3%
+11.6%
+11.5%
+2122 Mechanical engineers
+6.8%
+9.2%
+6.2%
+7.2%
+2123 Electrical engineers
+5.3%
+6.1%
+5.1%
+3.7%
+2124 Electronics engineers
+3.2%
+3.1%
+2.3%
+3.5%
+2126 Design and development engineers
+7.6%
+5.2%
+4.4%
+12.9%
+2127 Production and process engineers
+4.8%
+4.9%
+4.5%
+5.1%
+2129 Engineering professionals n.e.c.
+13.0%
+11.9%
+12.4%
+10.6%
+2150 Research and Development Managers
+6.1%
+2.4%
+4.3%
+6.3%
+2311 Higher education teaching professionals
+16.6%
+20.1%
+17.0%
+8.7%
+3111 Laboratory technicians
+7.6%
+7.4%
+8.8%
+6.3%
+10
+[Page #15]
+The R&D Pipeline
+England Wales
+Scotland
+Northern Ireland
+Base
+100.0%
+100.0%
+100.0%
+100.0%
+N
+837,922
+45,302
+93,,744
+2,136
+Source: Labour Force Survey
+A further insight into the regional distribution of R&D skills can be obtained by looking at the number of people employed in high-technology industries and knowledge intensive services (see Figure 3.2). This is not the same as R&D per se, but it nevertheless gives an indication of the extent to which relatively high-tech jobs are distributed across the UK. It reveals that in 2019, London and the South East account for over a quarter of all these jobs. In contrast, the North East accounts for 4 per cent. Between 2015 and 2019 there has been little change in the regional distribution of this type of employment.
+Figure 3.2: Employment shares in hi-tech industry and knowledge intensive services, 2019
+Northern IrelandNorth EastWalesEast MidlandsYorkshire and the HumberScotlandWest MidllandsSouth WestEast of EnglandNorth WestSouth EastLondon
+68% employment
+Source: Eurostat Employment in technology and knowledge-intensive sectors by NUTS 2 regions [HTEC_EMP_REG2]
+The skill content of R&D jobs
+By combining several years of LFS data an estimate can be made of the share of overall share of R&D employment accounted for by each individual R&D occupation (see Figure 3.3). Occupation provides a proxy measure of skill. Figure 3.3 shows that the percentage shares have not changed much over time. Professionals in the higher education sector account for the highest share of employment, followed by engineering professionals.
+11
+[Page #16]
+The R&D Pipeline
+Figure 3.3: Employment by 4-digit SOC 2010 R&D occupations
+3111 Laboratory technicians
+2311 Higher educ teaching profs.
+2150 Research and Development Managers
+2129 Engineering professionals n.e.c.
+2127 Production and process engineers
+2126 Design and development engineers
+2124 Electronics engineers
+2123 Electrical engineers
+2122 Mechanical engineers
+2121 Civil engineers
+2119 Natural and Social Science Professionals not…
+2114 Social and Humanities Scientists
+2113 Physicists, geologists & meteorologists
+2112 Bio scientists and biochemists
+2111 Chemists
+% of R&D employment
+2017-2019
+2011-2013
+Source: Labour Force Survey
+A further indication of skill level can be obtained from looking at the highest qualification of those employed in R&D jobs. Table 3.2 shows that the level of qualification of R&D workers is relatively high compared to the rest of the UK workforce. Whilst the overall level of qualification amongst R&D workers has been increasing, it has not been increasing as fast as that for those not working in R&D. This reflects the relatively high level of R&D workers in the first instance.
+Table 3.2: Qualification level of R&D workforce (% qualified at each level)
+R&D occupations
+Non-R&D occupations
+YEAR
+2006
+2019
+2006
+2019
+NVQ Level 4 and above
+71
+79
+31
+44
+NVQ Level 3
+11
+9
+16
+17
+Trade Apprenticeships
+6
+3
+6
+3
+NVQ Level 2
+4
+5
+16
+15
+Below NVQ Level 2
+2
+2
+13
+9
+Other qualifications
+4
+2
+9
+7
+No qualifications
+1
+1
+9
+5
+Total
+100
+100
+100
+100
+Source: Labour Force Survey
+12
+[Page #17]
+The R&D Pipeline
+Figure 3.4 shows the industrial sectors in which R&D workers are employed. It is immediately apparent that the largest share of R&D workers are employed in the public sector (32 per cent) followed by manufacturing (24 per cent). There has not been much change in the shares over time.
+Figure 3.4: Employment of R&D workers by industrial sector
+Other services
+Public admin, education and health
+Banking and finance
+Transport and communication
+Distribution, hotels and restaurants
+Construction
+Manufacturing
+Energy and water
+Agriculture, forestry and fishing
+% of R&D personnel
+Source: Labour Force Survey
+The characteristics of people employed in R&D occupations
+Regarding the personal characteristics of the workers in R&D and non-R&D occupations, Figure 3.5 indicates that the R&D workforce is relatively young compared to workforce overall. This is likely to reflect, in part, the number of people exiting university to enter, for example, post-doc positions before, perhaps, entering other occupations which lie outside the scope of the definition of R&D used here. That said, the differences in the age distribution between R&D and non-R&D employment is not marked.
+13
+[Page #18]
+The R&D Pipeline
+Figure 3.5: Age structure of those employed in R&D jobs, 2019
+Source: Labour Force Survey The roadmap stipulates that the UK should become a top destination for international talent. The Global Talent Visa, for example, provides a means for talented individuals from abroad to work in the UK. And the Graduate Route makes it easier for highly skilled international graduates to secure skilled jobs in the UK: International students who completed a PhD can stay in the UK for three years after study to live and work. Students who have successfully completed under-graduate and master’s degrees will be able to stay for two years after study. It needs to be borne in mind that many countries are attempting to do the same. In the EU, for example, there are plans to reform the Blue Card Directive to attract highly skilled workers. It is also apparent that some European countries with a strong R&D base have introduced their own plans to make it easier to enter their countries (e.g. Germany’s Skilled Immigration Act (2020) which has expanded the definition of skilled workers to include those with vocational qualifications which is apposite given the inclusion of technicians used in the definition of R&D in this report). The R&D sector in the UK is dependent upon attracting talent from around the world. Figure 3.6 shows the nationality and country of birth of people working in R&D jobs. It shows that R&D workers are more likely to be either born abroad or have a nationality other than that of the UK.
+14
+[Page #19]
+The R&D Pipeline
+Figure 3.6:
+Country of birth and the nationality of R&D personnel, 2019
+Nationality
+Elsewhere
+EU
+UK
+Place of birth
+Elsewhere
+EU
+UK
+% of R&D workers
+Non-R&D personnel
+R&D personnel
+Source: Labour Force Survey
+Skills needs in R&D occupations identified from vacancy data
+As well as looking at the percentage of people in employment, there is also a need to obtain an estimate of the number of vacancies for R&D workers (unsatisfied labour demand). Using IER’s software to extract vacancy data by occupation from a range of online recruitment sites, it is possible to gain an indication of the number of vacancies for R&D workers (see Figure 3.7).5 The data show that the fall in the number of vacancies during the first months of the pandemic. However, the recovery rate from May until October 2020 seems to be higher for R&D job vacancies.
+The vacancy data built by the IER allows looking at the number of vacancies over time for specific R&D jobs. These figures are particularly important because they shed light on the current labour market opportunities and perspectives for R&D workers. For instance, Figure 3.8 shows that the number of online job vacancies for Design and Development Engineers considerably decreased in April 2020. After May 2020, the number of job vacancies seems to have returned to pre-pandemic level. According to the vacancy data collected the skills required in this job are, amongst other things, to: design drawings; design electrical systems; design packages; design processes; develop management plans, electrical engineering.6
+5 nevertheless provide an insight into the trend in vacancies. 6
+A degree of caution is required with these data given their experimental nature; that said, they
+Categories based on ESCO
+15
+[Page #20]
+The R&D Pipeline
+Figure 3.7: Number of vacancies for R&D workers, 2019-2020
+Source: IER occupational vacancy series
+Figure 3.8: Design and Development Engineers
+Source: IER occupational vacancy series
+However, not all R&D sector jobs have declined in the same way as the engineering example provided above. For instance, Figure 3.9 plots that the number of online job vacancies for Biological Scientists and Biochemists. As can be seen the demand for people to work in this job was relatively stable before the pandemic outbreak. However, over recent months the number of job vacancies for Biological Scientists and Biochemists has considerably increased. The skills mentioned in the online
+16
+[Page #21]
+The R&D Pipeline
+adverts for Biological Scientists and Biochemists included: teach biology; teach chemistry; lead a team, work in an international environment, and work within communities.
+Figure 3.9: Biological Scientists and Biochemists
+Source: IER occupational vacancy series Additionally, databases such as ESCO provide a means of identifying the skill profiles of jobs, but the profiles are often collated, albeit systematically, using data from the past. By looking at vacancy data and the types of skills which are mentioned in job adverts, it is possible to gain a more current indication of skill demand. CEDEFOP’s OVATE7 system collects vacancy data from EU countries (including the UK) and classifies the skills mentioned in job advertisements. Using ‘engineers and researchers’ as a synonym for R&D workers, Figure 3.10 lists the 25 most frequently mentioned skills or knowledge sets associated with R&D jobs. It is readily apparent that it is often generic or transversal skills which are mentioned rather than R&D skills per se.
+7 https://www.cedefop.europa.eu/en/data-visualisations/skills-online-vacancies
+17
+[Page #22]
+The R&D Pipeline
+Figure 3.10:
+Skill and knowledge sets associated with R&D type jobs
+Source: Data taken from Cedefop OVATE
+Future skill needs
+One can obtain a view of future employment demand from the Working Futures projections of skill demand which IER periodically produces. Estimates have been produced for R&D occupations based on Working Futures data, but a degree of caution is required when interpreting the data given the relatively small number of people employed in R&D.8 Table 3.3 gives an indication of the level of future demand. It shows the overall expansion in the number of people likely to be employed by 2027. This is expected to increase by 9 per cent. But there is also a need to consider those who will leave R&D jobs in the future for reasons such as retirement. Given that these people will need to be replaced – an estimated 290 thousand people – alongside the additional 91 thousand expansion demand, this means that around 382 thousand R&D jobs will need to be filled by 2027. As noted above, these data are indicative and designed to indicate the overall scale of future employment demand for R&D personnel. But the data do show the scale of future demand.
+Table 3.3:
+Projections of future employment demand for R&D workers
+Levels
+Growth
+Estimated replacement demand
+Net requirement
+Baseline (2017)
+2027
+Absolute % Number
+Number
+R&D occupations
+1,026,556
+1,117,900 91,400
+9
+290,500
+381,800
+Source: Working Futures; own calculations. Data have been round to nearest 100; Projections produced before the onset of the Covid-19 crisis.
+8 This is because some of the data sets on which Working Futures is based are sample surveys.
+18
+[Page #23]
+The R&D Pipeline
+The goal outlined in the Government’s R&D roadmap is to increase expenditure on R&D to around 2.5 per cent, an increase of around 0.5 percentage points compared with today. If the spend on R&D were to increase other things being equal by, say, 20 per cent then this has implications for the future demand for R&D skills. The estimate of the net requirement set out in Table 3.3 may therefore under-estimate the level of future demand. Against this, one must consider the potential impact of COVID-19 on the economy over the medium-term. Depending upon the depth and severity of the economic downturn, investment in R&D and much else besides may well be dampened.
+3.2 Employment and skill demand in the R&D sector
+Employment in the R&D sector
+As mentioned in the introduction, the R&D labour market can be analysed from different views. One of them is based on sector classification. Following the sector classification of R&D companies previously listed, Table 3.4 compares the number of people employed in R&D and non-R&D sector between 2009 and 2019. As can be seen, the share of workers accounted for by the R&D sector has not changed much over time. In 2009, the percentage of people employed in R&D companies in the UK was 0.35 per cent (around 114,815 workers) while in 2019 this percentage was 0.45 per cent (around 135,751). Nevertheless, over time the size of the R&D workforce has increased by 21,000 people.
+Table 3.4:
+Employment in the R&D sector
+2009
+2019
+Non-R&D sector
+99.5
+99.5
+R&D sector
+0.35
+0.45
+Source: Labour Force Survey
+Table 3.5 shows the distribution and the number of workers in the R&D sector for each UK nation. In all the four nations, the “Other R&D on natural sciences and engineering” sector accounts for the highest share of workers in the R&D sector (it ranges from 74 per cent in Scotland to 85 per cent in Wales).
+Table 3.5: R&D Employment distribution SIC and regions 2017-2019
+England Wales Scotland Northern
+Ireland
+7211 Research and experimental development on biotechnology
+14%
+3%
+14%
+5%
+19
+[Page #24]
+The R&D Pipeline
+7219 Other R&D on natural sciences and engineering
+75%
+85%
+74%
+82%
+7220 R&D on social sciences and humanities
+11%
+12%
+11%
+13%
+Total
+100%
+100%
+100%
+100%
+Base
+115,773 4,105
+15,738
+2,579
+Source: Labour Force Survey
+Skills demand in the R&D sector
+Not everyone in the R&D sector will be employed in an R&D. Figure 3.11 shows the distribution of workers in the R&D sector by occupational group. According to this figure, professional occupations accounts for the highest proportion of workers in the R&D sector, followed by associate professionals, and then managers. Over time the share accounted for by professionals has been increasing, which might indicate that the R&D intensity of employment in the sector is increasing. It is estimated that in 2019, 59 per cent of people working in the R&D sector were working in R&D occupations.
+Figure 3.11: Employment by 4-digit SOC R&D sector
+No information
+Elementary occupations
+Process, plant and machine operatives
+Sales and customer service occupations
+Caring, leisure and other service occupations
+Skilled trades occupations
+Administrative and secretarial occupations
+Associate professional occupations
+Professional occupations
+Managers, directors and senior officials
+% of R&D sector employment
+Source: Labour Force Survey
+Qualification also provides an indicator of skills demand. Table 3.6 shows the share of workers in the R&D and non-R&D sectors by qualification held. The level of qualification of workers in the R&D sector is higher than in the non-R&D sector. For instance, 72 per cent and 85 per cent of workers in the R&D sector held a Level 4 and above qualification in 2009 and 2019 respectively. In contrast, for the rest of the workers these percentages were 35 per cent and 45 per cent. This indicates that the rate at which the educational levels are increasing is greater in R&D which might reflect its reliance upon relatively young employees (see below).
+20
+[Page #25]
+The R&D Pipeline
+Table 3.6: Qualification level of workforce in the R&D sector (% qualified at each level)
+R&D sector
+Non-R&D sector
+2009
+2019
+2009
+2019
+NVQ Level 4 and above
+72
+85
+35
+45
+NVQ Level 3
+10
+7
+16
+17
+Trade Apprenticeships
+2
+1
+5
+3
+NVQ Level 2
+6
+3
+16
+14
+Below NVQ Level 2
+5
+1
+12
+9
+Other qualifications
+3
+2
+9
+6
+No qualifications
+1
+0
+7
+5
+Total
+100
+100
+100
+100
+Source: Labour Force Survey
+Characteristics of those working in the R&D sector
+Figure 3.12 shows the age distribution of the people employed in the R&D sector to reveal that the sector’s workforce is slightly younger than the rest of UK’s workforce. The average for workers in the R&D sector in 2019 was 40.3 years, while for the rest of the workforce it was 40.8 years. But if one looks at the distribution it is apparent that there is a relatively large group of people in their late 20s and early 30s working in the sector.
+Figure 3.12: Age structure of those employed in the R&D sector, 2019
+Source: Labour Force Survey
+21
+[Page #26]
+The R&D Pipeline
+Table 3.7 shows the gender and ethnicity distribution of people working in the R&D sector. According to this table, the percentage of male workers in the R&D sector in 2019 was 57 per cent which is higher than in the rest of the country’s workforce. There is not much difference in the ethnic group profile of the R&D sector’s workforce compared with other sectors.
+Table 3.7: Gender and Ethnicity of people working in the R&D sector, 2019
+Non-R&D sector
+R&D sector
+Gender
+Male
+52
+57
+Female
+48
+43
+Ethnicity
+White
+88
+89
+Mixed/Multiple ethnic groups
+1
+1
+Indian
+3
+5
+Pakistani
+1
+0
+Bangladeshi
+1
+0
+Chinese
+0
+1
+Any other Asian background
+1
+1
+Black/African/Caribbean/Black British
+3
+1
+Other ethnic group
+2
+3
+Source: Labour Force Survey
+Figure 3.13 shows the nationality and country of birth of people working in R&D sector. It shows that workers in the R&D sector are more likely to be either born abroad or have a nationality other than that of British.
+22
+[Page #27]
+The R&D Pipeline
+Figure 3.13: Country of birth and the nationality of R&D personnel, 2019
+Nationality
+Elsewhere
+EU
+UK
+Place of birth
+Elsewhere
+EU
+UK
+Non-R&D sector
+R&D sector
+Source: Labour Force Survey
+International comparisons
+As mentioned above, the study looks in detail at the number of people employed in the R&D sector using the LFS. Below data are presented from data collated by Eurostat on the size of the R&D workforce in Europe (and selected other countries). Figure 3.13 shows the number of people employed in the R&D sector over time. It shows that while the percentage of people employed in the R&D sector in the UK is higher than the EU-28 average, it has been persistently lower than in countries such as France and Germany.
+23
+[Page #28]
+The R&D Pipeline
+Figure 3.13: Employment in R&D in Europe, 2000-2018
+1.8
+1.6
+1.4
+ecrof
+1.2
+ruobal
+1.
+0.8
+fo%
+0.6
+0.4
+0.2
+0.
+Germany
+France
+United Kingdom
+EU-28
+Source: Eurostat R&D personnel by sector [SDG_09_30]
+Figure 3.14 shows the percentage of people employed in R&D in 2018 to reveal that the UK, while above the EU-average, employs proportionately fewer people in R&D than countries such as Denmark, Finland, Austria, etc. Like most countries in Europe, the share of employment accounted for by R&D has increased over time in the UK. The level of change in the UK is close to the EU-average.
+Figure 3.14: Employment in R&D by country, 2005 and 2018
+2.5
+2.
+ecrof
+ruobal
+1.5
+fo%
+1.
+0.5
+0.
+surpyC
+ynamreG
+ainamoR
+kramneD
+atla
+ainotsE
+dnalniF
+ecnarF
+dnaloP
+yragnuH
+dnalerI
+gruobmexuL
+ylatI
+airagluB
+nedewS
+eceerG
+muigleB
+aera
+yawroN
+ainauhti
+sdnalrehteN
+dnalecI
+KU
+aikavolS
+ainevolS
+aihcezC
+niapS
+aivtaL
+lagutroP
+aitaorC
+airtsuA
+82-UE
+72-UE
+M
+oruE
+L
+Source: Eurostat R&D personnel by sector [SDG_09_30]
+24
+[Page #29]
+The R&D Pipeline
+Employment in R&D includes a wide range of different jobs not all of them directly involved in the process of carrying out R&D. To provide an indication of the extent to which personnel in the sector are involved in R&D, the percentage of people employed as researchers is shown (see Figure 3.15). It reveals that in 2018, 66 per cent of employment in the R&D sector was accounted for by researchers. This compares with an EU-28 average of 64 per cent. It is below countries such as Denmark and Finland which are known to have relatively large R&D sectors. On the other hand, it is above high productivity countries such as Germany.
+Figure 3.15: Percentage of the R&D workforce employed as researchers, 2018
+83 82 82 81 81 80
+76 76 75 74 73 73 72 72 71 70 69 68 68 66 66 65 65 64 64 64 63 62 62 61 61 61 60 59
+srehcraeser
+56 55 54 53 53
+45 43
+%
+ainotsE
+dnalniF
+ylatI
+yekruT
+aissuR
+aihcezC
+lagutroP
+atla
+dnalecI
+orgenetnoM
+ainamoR
+dnaloP
+ecnarF
+aeroKhtuoS
+napaJ
+aibreS
+yragnuH
+aivtaL
+airagluB
+muigleB
+KU
+nedewS
+KH
+dnalrezti
+niapS
+ainauhti
+airtsuA
+sdnalrehteN
+dnalerI
+ainodeca
+kramneD
+aitaorC
+surpyC
+82-UE
+ynamreG
+aikavolS
+aeraoruE
+yawroN
+gruobmexuL
+ainevolS
+eceerG
+M
+tpecxe
+L
+wS
+MhtroN
+anihC
+Source: Total R&D personnel by sectors of performance, occupation and sex [rd_p_persocc]
+An alternative view of demand for R&D skills, or something analogous to it, can be obtained by looking at the demand for people to work in high technology manufacturing sectors, and knowledge intensive hi-tech services. Figure 3.16 shows the percentage of employment accounted for by high and medium-tech manufacturing industries, and Figure 3.17 shows the percentage of employment accounted for by knowledge intensive services. As can be seen, the UK’s relative position of strength is in relation to knowledge intensive services. Overall, the percentage of employment accounted for by these activities in combination is relatively high in the UK compared with the rest of Europe (see Figure 3.18).
+25
+[Page #30]
+The R&D Pipeline
+Figure 3.16: Employment in high- and medium-tech manufacturing sectors
+7.0
+6.0
+tnemyolpme
+5.0
+4.0
+3.0
+fo%
+2.0
+1.0
+0.0
+2013EU-28
+UK
+Source: Employment in technology and knowledge-intensive sectors [htec_emp_nat2]
+Table 3.17: Employment in knowledge intensive service sectors
+60.0
+50.0
+tnemyolpme
+40.0
+30.0
+fo%
+20.0
+10.0
+0.0
+2012EU-28
+2015UK
+Source: Employment in technology and knowledge-intensive sectors [htec_emp_nat2]
+Table 3.18: EU, 2019
+Employment in knowledge intensive service sectors and hi-tech manufacturing in the
+tnemyolpme
+fo%
+kramneD
+ainodeca
+ainamoR
+ynamreG
+atla
+dnalniF
+surpyC
+dnalrezti
+ainotsE
+ecnarF
+gruobmexuL
+dnalerI
+yragnuH
+nedewS
+muigleB
+ylatI
+yawroN
+aera
+yekruT
+dnaloP
+dnalecI
+KU
+sdnalrehteN
+ainevolS
+aikavolS
+eceerG
+aihcezC
+airagluB
+51UE
+ainauhti
+airtsuA
+niapS
+lagutroP
+82-UE
+72-UE
+aivtaL
+aitaorC
+aibreS
+M
+oruE
+L
+wS
+MhtroN
+Source: Employment in technology and knowledge-intensive sectors [htec_emp_nat2]
+26
+[Page #31]
+The R&D Pipeline
+Looking to the future, CEDEFOP’s forecast of future employment demand indicates that employment in hi-tech manufacturing and knowledge intensive services is likely to fare relatively well in the future, with employment projected to increase by 1.6 per cent between 2018 and 2030 compared with -0.3 per cent across all sectors (these projections were before the onset of the Covid-19 crisis).9
+3.3 Demand for people with STEM qualifications
+As indicated in the introduction one can define the potential R&D workforce with respect to those who have obtained a degree in a STEM (Science, technology, engineering, and mathematics) subject.
+Table 3.8 shows the degree held by people in employment. It is important to note that the area of study distribution has not changed much between 2012 and 2019. In 2012 the percentage of people with an undergraduate or higher degree in a STEM field was around 41 per cent, while this percentage was 44 per cent for people with an undergraduate degree, and 42 per cent for people with a higher level degree in 2019.
+Table 3.8: Degree subject held by those in employment
+Undergraduate degree
+Higher level degree
+Field of study
+2012
+2019
+2012
+2019
+Medicine and dentistry
+2
+2
+3
+3
+Medical related subjects
+8
+9
+6
+7
+Biological Sciences
+8
+8
+7
+8
+Agricultural Sciences
+1
+2
+1
+1
+Physical/Environmental Sciences
+6
+5
+7
+6
+Mathematical Sciences & Computing
+7
+7
+8
+6
+Engineering
+7
+7
+6
+7
+Technology
+1
+1
+1
+1
+Architecture and related studies
+3
+3
+2
+3
+All STEM
+43
+44
+41
+42
+9 economy
+See - https://skillspanorama.cedefop.europa.eu/en/indicators/employment-growth-high-tech-
+27
+[Page #32]
+The R&D Pipeline
+Undergraduate degree
+Higher level degree
+Social Studies
+10
+10
+8
+9
+Law
+5
+5
+4
+4
+Business & Financial studies
+13
+13
+13
+14
+Mass Communications and Documentation
+2
+3
+2
+2
+Linguistics, English, Celtic and Ancient
+4
+3
+4
+3
+European Languages
+1
+1
+1
+1
+Eastern, Asiatic, African, American, and Australasian Languages, literature
+0
+0
+0
+0
+Humanities
+5
+5
+5
+4
+Arts
+9
+10
+4
+5
+Education
+6
+6
+18
+16
+Source: Labour Force Survey
+Figure 3.19 shows the age distribution of the people who studied for STEM and non-STEM degree. There is not much difference between the different groups. The average age for both groups is 39.8 years old.
+Figure 3.19: Age structure of those in employment with a STEM/non-STEM degree, 2019
+Source: Labour Force Survey
+28
+[Page #33]
+The R&D Pipeline
+Looking the employment status (see Figure 3.20), people who studied for a STEM degree are more likely to be an employee compared with those with a non-STEM degree, but the differences again are not large.
+Figure 3.20: Employment status of those with STEM and non-STEM degrees, 2019
+0.00.0
+Government scheme
+0.30.2
+Unpaid family worker
+1.61.9
+Inactive or Unemployed
+14.0
+Self-employed
+10.8
+84.0
+Employee
+87.1
+0.0
+10.0
+20.0
+30.0
+40.0
+50.0
+60.0
+70.0
+80.0
+90.0
+100.0
+Non-STEM STEM
+Source: Labour Force Survey
+Table 3.9 shows the gender and ethnicity distribution of workers who studied for STEM degrees. In 2019, 55 per cent of STEM degree holders were men. The ethnic group distribution of STEM and non-STEM degree holders in employment is much the same.
+Table 3.9: Gender and Ethnicity of workers who study in STEM fields, 2019
+Non-STEM
+STEM
+Gender
+Male
+45
+55
+Female
+55
+45
+Ethnicity
+White
+87
+85
+Mixed/Multiple ethnic groups
+2
+1
+Indian
+2
+4
+Pakistani
+2
+2
+Bangladeshi
+1
+1
+Chinese
+1
+1
+Any other Asian background
+1
+1
+Black/African/Caribbean/Black British
+3
+3
+29
+[Page #34]
+The R&D Pipeline
+Other ethnic group
+1
+1
+Source: Labour Force Survey
+Figure 3.21 shows the occupations in which those with STEM degrees are employed. Both STEM and non-STEM degree holders were more likely to be in professional occupations than any other one in 2019. However, this share considerably varies across groups. More than half (59 per cent) of STEM degree holders were in professional occupations, while the percentage for non-STEM degree holders was 41 per cent.
+Figure 3.21: Occupational distribution of STEM degree holders in 2019
+9 Elementary occupations
+8 Process, plant and machine operatives
+7 Sales and customer service occupations
+6 Caring, leisure and other service occupations
+5 Skilled trades occupations
+4 Administrative and secretarial occupations
+3 Associate professional and technical…
+2 Professional occupations
+1 Managers, directors and senior officials
+0.00
+10.00 20.00 30.00 40.00 50.00 60.00 70.00
+Non-STEM STEM
+Source: Labour Force Survey
+Figure 3.22 shows the sectoral distribution of STEM degree holders in 2019 to reveal that one sees slightly higher percentages of those with STEM degrees in public administration and manufacturing.
+Figure 3.22: Sectoral distribution of STEM workers, 2019
+30
+[Page #35]
+The R&D Pipeline
+R,S,T,U - Other services
+O,P,Q - Public admin, education and health
+K,L,M,N - Banking and finance
+H,J -Transport and communication
+G,I -Distribution, hotels and restaurants
+F - Construction
+C -Manufacturing
+B,D,E - Energy and water
+A - Agriculture, forestry and fishing
+Non-STEM STEM
+Source: Labour Force Survey
+Finally, Figure 3.23 plots subject of degree by sector of employment. Around 90 per cent of medicine and dentistry graduates and 80 per cent of medical related graduates work in the public administration, education and health sector. Otherwise, the evidence shows that STEM graduates work across a range of sectors.
+Figure 3.23: Workers in STEM fields by sectors, 2019.
+(8) Technology
+(7) Engineering
+(6) Mathematical Sciences & Computing
+(5) Physical/Environmental Sciences
+(4) Agricultural Sciences
+(3) Biological Sciences
+(2) Medical related subjects
+(1) Medicine and dentistry
+No answer
+A - Agriculture, forestry and fishing
+B,D,E - Energy and water
+C -Manufacturing
+F - Construction
+G,I -Distribution, hotels and restaurants
+H,J -Transport and communication
+K,L,M,N - Banking and finance
+O,P,Q - Public admin, education and health R,S,T,U - Other services
+Source: Labour Force Survey
+31
+[Page #36]
+The R&D Pipeline
+3.4 Conclusion
+A relatively broad definition of R&D employment has been used in this section. It reveals that R&D employment has been growing in the UK over time, but this varies. R&D cannot be regarded as a single homogeneous entity. Similarly, it cannot be regarded as solely the domain of those educated to a high level often in STEM subjects. R&D is much broader than that and includes a number of support functions which are essential to its performance.
+What one begins to see from the data are differences by type of R&D. Much R&D employment is concentrated in jobs in higher education or associated with undertaking various kinds of engineering. Analysis of the vacancy data provides some indicative evidence that jobs which fall under the rubric of scientist may be more resilient to economic downturns than those of engineers. It needs, however, to be emphasised that these data are indicative.
+A key question is what will happen to R&D employment in the future. This is dependent upon a number of factors, not least how the UK economy recovers from COVID-19 but also importantly the extent to which investments in R&D increase over the short- to medium-term and the types of R&D which benefit from this. A projection of future demand has been provided. It indicates that the need to replace people who will leave R&D added to the overall level of growth projected in the numbers employed is such that the number of additional jobs that will need to be filled by 2027 is substantial. Filling those jobs will be dependent upon supply-side considerations, which is turned to next.
+32
+[Page #37]
+The R&D Pipeline
+4 Labour supply side considerations
+4.1 Introduction
+The supply-side potentially consists of:
+• people exiting the education system with qualifications and skills required in
+R&D;
+• people in the population – either in or out of work – who have the qualification
+and skills required to work in R&D; and
+• potential additional sources of R&D skills, such as recruiting people from
+abroad.
+The focus here is upon a particular aspect of supply – the change in the number of people studying towards qualifications which are relevant to R&D of one kind or another. The difficulty with any analysis of the supply-side is that there is not always a one-to-one correspondence between a person’s qualifications and a particular job. Many people may be qualified in one area but choose to work in a job where the specific subject knowledge may be of secondary importance.
+4.2 Study towards STEM qualifications
+In order to gain an indication of changes in the supply of R&D personnel one can look at changes in the number of people studying STEM courses at degree level. This will give an indication of the extent which people with the required subject knowledge are emerging from the education and training system. A number of findings are apparent (see Tables 4.1 and 4.2):
+•
+the number of people who study STEM degrees has been increasing faster than that for non-science ones. This is true for postgraduate and undergraduate levels;
+•
+the number of people studying for non-STEM degrees – at either undergraduate or postgraduate levels – is still higher than for STEM ones but the gap has been closing over time;
+• much of the growth in STEM student growth has been from the increase in the number of computer science students which has increased by 23 per cent between 2014/15 and 2018 overall, and by 31 pe per cent at postgraduate levels;
+33
+[Page #38]
+The R&D Pipeline
+• subjects allied to medicine contains the largest group of students at
+undergraduate and postgraduate levels.10 In 2018/19, 30 per cent of all STEM students were studying subjects allied to medicine compared with 28 per cent in 2014/15.
+10 Audiology; Nursing; Medical technology; Other medical subjects
+This includes: Anatomy & Physiology; Pharmacology; Pharmacy; Nutrition; Ophthalmics;
+34
+[Page #39]
+The R&D Pipeline
+Table 4.1: Number of people studying science and non-science subjects, 2014/15 and 2018/19 (All degree levels). Source: HESA
+Subject of study
+Total 2014/2015 Total 2018/2019 Change in level % change Annual % change
+Medicine & dentistry
+66,000
+67,755
+1,755
+2.7
+0.7
+Subjects allied to medicine
+275,345
+290,445
+15,100
+5.5
+1.3
+Biological sciences
+211,360
+241,755
+30,395
+14.4
+3.4
+Veterinary science
+5,900
+8,400
+2,500
+42.4
+9.2
+Agriculture & related subjects
+19,205
+19,320
+115
+0.6
+0.1
+Physical sciences
+93,760
+94,845
+1,085
+1.2
+0.3
+Mathematical sciences
+42,405
+45,910
+3,505
+8.3
+2.0
+Computer science
+93,230
+114,730
+21,500
+23.1
+5.3
+Engineering & technology
+161,315
+165,180
+3,865
+2.4
+0.6
+Architecture, building & planning
+48,255
+55,345
+7,090
+14.7
+3.5
+Total science subject areas
+1,016,775
+1,103,690
+86,915
+8.5
+2.1
+Social studies
+208,000
+237,480
+29,480
+14.2
+3.4
+35
+[Page #40]
+The R&D Pipeline
+Law
+87,605
+95,260
+7,655
+8.7
+2.1
+Business & administrative studies
+326,800
+358,480
+31,680
+9.7
+2.3
+Mass communications & documentation 48,610
+51,310
+2,700
+5.6
+1.4
+Languages
+111,340
+99,365
+-11,975
+-10.8
+-2.8
+Historical & philosophical studies
+86,330
+81,965
+-4,365
+-5.1
+-1.3
+Creative arts & design
+166,930
+181,830
+14,900
+8.9
+2.2
+Education
+164,390
+142,825
+-21,565
+-13.1
+-3.5
+Combined
+49,200
+31,765
+-17,435
+-35.4
+-10.4
+Total non-science subject areas
+1,249,205
+1,280,280
+31,075
+2.5
+0.6
+Total
+2,265,980
+2,383,970
+117,990
+5.2
+1.3
+36
+[Page #41]
+The R&D Pipeline
+Table 4.2: Number of people studying science and non-science subjects, 2014/15 and 2018/19 (Postgraduates). Source: HESA
+Subject of study
+Total 2014/2015 Total 2018/2019 Change in level % change Annual % change
+Medicine & dentistry
+20,395
+20,120
+-275
+-1.3
+-0.3
+Subjects allied to medicine
+62,610
+77,040
+14,430
+23.0
+5.3
+Biological sciences
+34,600
+46,805
+12,205
+35.3
+7.8
+Veterinary science
+815
+2,410
+1,595
+195.7
+31.1
+Agriculture & related subjects
+4,075
+3,605
+-470
+-11.5
+-3.0
+Physical sciences
+19,870
+21,540
+1,670
+8.4
+2.0
+Mathematical sciences
+6,270
+7,375
+1,105
+17.6
+4.1
+Computer science
+16,740
+21,855
+5,115
+30.6
+6.9
+Engineering & technology
+39,760
+38,200
+-1,560
+-3.9
+-1.0
+Architecture, building & planning
+14,945
+17,285
+2,340
+15.7
+3.7
+Total science subject areas
+220,080
+256,235
+36,155
+16.4
+3.9
+Social studies
+48,400
+53,270
+4,870
+10.1
+2.4
+37
+[Page #42]
+The R&D Pipeline
+Subject of study
+Total 2014/2015 Total 2018/2019 Change in level % change Annual % change
+Law
+19,445
+20,590
+1,145
+5.9
+1.4
+Business & administrative studies
+103,210
+108,800
+5,590
+5.4
+1.3
+Mass communications & documentation 10,375
+12,520
+2,145
+20.7
+4.8
+Languages
+15,370
+16,110
+740
+4.8
+1.2
+Historical & philosophical studies
+16,345
+16,950
+605
+3.7
+0.9
+Creative arts & design
+21,605
+28,035
+6,430
+29.8
+6.7
+Education
+81,425
+71,905
+-9,520
+-11.7
+-3.1
+Combined
+1,920
+1,305
+-615
+-32.0
+-9.2
+Total non-science subject areas
+318,100
+329,495
+11,395
+3.6
+0.9
+Total
+538,175
+585,730
+47,555
+8.8
+2.1
+38
+[Page #43]
+The R&D Pipeline
+4.3 Destinations of STEM graduates
+Based on HESA destinations surveys it is possible to observe the initial destinations of those studying STEM qualifications (see Table 4.3). A number of findings are apparent:
+•
+those who studied medical and medical related subjects tend to end up in the health sector;
+• a relatively high share of computer science graduates enter the IT sector;
+• a relatively high share of engineering graduates enter manufacturing; and
+•
+the financial sector is a popular destination for those with mathematics degrees.
+For the most part, however, the destinations of those with science degrees is varied with the share entering the formal R&D sector, which is part of the Professional, Scientific and Technical Activities sector is relatively small for most subjects with the exception of physical sciences. This, perhaps, illustrates that the sectoral demand for those with science qualifications is varied and that these graduates are sought across a range of different type of employer.
+4.4 Conclusion
+The supply-side analysis is partial insofar as it concentrates on the supply of STEM skills from universities. It reveals that supply has increased especially so in areas such as biosciences and computer science. But it is not always the case that people who study a particular subject will ultimately take a job related to the subject of study. In practice, the career choices individuals make are guided by a number of factors including pragmatic issues to do with job availability, earnings and so on (CRAC, 2011). That said, it is typically the case that many who study STEM subjects want a career linked to their subject of study. Smith and White (2018) point to many STEM graduates entering STEM jobs, but not always in what they refer to as the STEM shortage occupations such as those in science, ICT or engineering. There were also variations by discipline. Those with engineering degrees were likely to enter engineering jobs, but those with biological science degrees were much less likely to enter a STEM occupation. Whether any of this matter is, to some extent, dependent upon the extent of skills mismatch in the labour market for STEM or R&D type skills. This is turned to next.
+39
+[Page #44]
+The R&D Pipeline
+Table 4.3: Destinations of graduates by subject area, 2017/18. Source: HESA
+ygoonhcet
+&erutlucirgA
+lacitamehtaM
+,erutcetihcrA
+gnireengnE
+&enicideM
+&gnd
+yranireteV
+lacigooB
+retupmoC
+l
+yrtsitned
+secneics
+secneics
+secneics
+stcejbuS
+lacisyhP
+otdeilla
+ecneicS
+ecneics
+ecneics
+detaler
+-
+i
+latoT
+latoT
+i
+l
+li
+ub
+i
+&
+Agriculture, forestry and fishing
+13%
+0%
+1%
+Mining and quarrying
+2%
+2%
+1%
+Manufacturing
+1%
+2%
+4%
+1%
+11%
+11%
+4%
+6%
+29%
+2%
+8%
+5%
+Electricity, etc.
+1%
+1%
+1%
+2%
+1%
+1%
+Water supply, etc
+1%
+2%
+0%
+0%
+2%
+1%
+0%
+Construction
+1%
+2%
+1%
+1%
+9%
+23%
+3%
+2%
+Wholesale and retail trade
+6%
+9%
+1%
+13%
+7%
+6%
+9%
+5%
+2%
+7%
+8%
+Transport and storage
+1%
+0%
+1%
+2%
+2%
+3%
+1%
+1%
+1%
+Accommodation and food service activities
+1%
+6%
+1%
+7%
+4%
+3%
+3%
+2%
+1%
+3%
+4%
+Information and communication
+1%
+3%
+1%
+8%
+15%
+41%
+7%
+1%
+7%
+7%
+40
+[Page #45]
+The R&D Pipeline
+ygoonhcet
+&erutlucirgA
+l
+,
+acitamehtaM
+erutcetihcrA
+gnireengnE
+&enicideM
+&gnd
+yranireteV
+lacigooB
+retupmoC
+l
+yrtsitned
+secneics
+secneics
+secneics
+stcejbuS
+lacisyhP
+otdeilla
+ecneicS
+ecneics
+ecneics
+detaler
+-
+i
+latoT
+latoT
+i
+l
+li
+ub
+i
+&
+Financial and insurance activities
+3%
+1%
+5%
+21%
+8%
+2%
+1%
+3%
+4%
+Real estate activities
+1%
+3%
+1%
+1%
+1%
+7%
+1%
+1%
+Professional, scientific and technical activities
+3%
+2%
+9%
+89%
+17%
+23%
+17%
+8%
+21%
+46%
+12%
+13%
+Administrative and support service activities
+1%
+4%
+3%
+3%
+2%
+4%
+2%
+2%
+2%
+3%
+Public administration, etc.
+1%
+2%
+5%
+1%
+3%
+7%
+4%
+4%
+4%
+6%
+4%
+6%
+Education
+8%
+5%
+20%
+5%
+9%
+15%
+17%
+8%
+6%
+3%
+10%
+19%
+Human health and social work activities
+85%
+78%
+26%
+2%
+5%
+4%
+3%
+3%
+2%
+1%
+34%
+19%
+Arts, entertainment and recreation
+1%
+6%
+1%
+7%
+3%
+2%
+2%
+1%
+1%
+2%
+4%
+Other service activities
+1%
+2%
+5%
+2%
+1%
+1%
+1%
+1%
+2%
+41
+[Page #46]
+The R&D Pipeline
+ygoonhcet
+&erutlucirgA
+l
+,
+acitamehtaM
+erutcetihcrA
+gnireengnE
+&enicideM
+&gnd
+yranireteV
+lacigooB
+retupmoC
+l
+yrtsitned
+secneics
+secneics
+secneics
+stcejbuS
+lacisyhP
+otdeilla
+ecneicS
+ecneics
+ecneics
+detaler
+-
+i
+latoT
+latoT
+i
+l
+li
+ub
+i
+&
+Total
+100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100%
+42
+[Page #47]
+The R&D Pipeline
+5 Evidence of skill mismatches
+5.1 Introduction
+The Government’s roadmap sets out an ambitious programme to boost R&D in the UK. This will have implications for employment and skills demand. If the skills are not available to support the expansion of the R&D sector then this will constrain any growth. The Employers Skills Survey series has repeatedly demonstrated that where employers experience deficiencies in the supply of skills then this has implications for organisation performance such as delays developing new products and services and disruptions to customer services. In extremis, it can lead to lost orders or decisions to move out of certain markets.11 It is also apparent that many R&D related occupations are in the Migration Advisory Committee’s shortage occupation list.12
+There are various ways of conceptualising skills mismatches with respect to whether the availability of skills is either in surplus or deficit (McGuiness, et al., 2018). Here the particular interest is in shortages. Usually, a distinction is made between external shortages (difficulties recruiting from the external labour market) and internal ones sometimes referred to as skill gaps (the extent to which the existing workforce has the skills needed to satisfy the employer’s business goals). Usually, data from a number of sources can be combined to indicate the extent of skills shortages – such as that from employer surveys alongside data on differential occupational wage growth. Here the analysis is limited to differential occupational wage growth. One might expect wage levels to reflect relative scarcity in the market, though in practice there tends to be a number of factors which influence wage rates other than the balance between supply and demand. It tends to be only over the longer term that wage rates respond to changes in demand. Nevertheless, wage rates provide a degree of insight into skill mismatches.
+5.2 Evidence of skill shortages
+Table 5.1 shows the wage rates for people working in various R&D occupations over the period 2005 to 2019. It shows that compared with wage growth overall (that for all occupations), the rate of increase for those in R&D has been below the average. Where wage growth has been strongest amongst R&D professionals it has been for:
+• Physical scientists
+11 https://www.gov.uk/government/collections/employer-skills-survey-2019 12 occupation-list
+The results from the latest Employers Skills Survey can be found at:
+See - https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-k-shortage-
+43
+[Page #48]
+The R&D Pipeline
+• Electrical engineers
+• R&D managers
+It is apparent that wage growth in various R&D occupations was relatively strong over the 2005 to 2010 period but more recently has slowed.
+Figure 5.1 shows how wages have changed over time in the R&D sector. This includes the wages of both R&D professionals (professional scientists, engineers, and technicians) and those involved in providing a range of managerial and administrative support services. It shows that over time wage growth in the R&D sector has been in line with that with all occupations.
+Figure 5.1: Median wage growth in the R&D occupations, 2015 to 2019. Source: Annual Survey of Hours and Earnings
+)₤(
+setar
+egawylkee
+W
+All occupations
+R&D occupations
+One the basis of the information on wage growth there is little sign of there being skill mismatches for STEM graduates (as a synonym for R&D ones) over time.
+44
+[Page #49]
+The R&D Pipeline
+Table 5.1: Median wage rates for people working in R&D occupations
+Full-time mean wage (₤)
+% change
+2005
+2010
+2015
+2019
+2005 - 2010
+2010-2015
+2015-2019
+All occupations
+431.2
+498.5
+527.1
+584.9
+15.6
+5.7
+11.0
+21 Science and technology professionals
+632.4
+704.8
+760.6
+818.0
+11.4
+7.9
+7.5
+211 Science Professionals
+597.9
+690.2
+703.0
+743.2
+15.4
+1.9
+5.7
+2111 Chemical Scientists
+595.5
+604.2
+629.6
+656.9
+1.5
+4.2
+4.3
+2112 Biological Scientists and Biochemists
+577.9
+700.2
+733.9
+747.0
+21.2
+4.8
+1.8
+2113 Physical Scientists
+647.9
+785.8
+742.9
+865.1
+21.3
+-5.5
+16.4
+2114 Social and Humanities Scientists
+609.6
+629.6
+3.3
+2119 Natural and Social Science Professionals not elsewhere classified
+691.5
+742.6
+7.4
+2121 Civil Engineers
+610.1
+699.5
+745.6
+785.4
+14.7
+6.6
+5.3
+2122 Mechanical Engineers
+649.1
+766.5
+817.4
+800.2
+18.1
+6.6
+-2.1
+45
+[Page #50]
+The R&D Pipeline
+Full-time mean wage (₤)
+% change
+2005
+2010
+2015
+2019
+2005 - 2010
+2010-2015
+2015-2019
+2123 Electrical Engineers
+697.2
+831.9
+834.3
+924.8
+19.3
+0.3
+10.8
+2124 Electronics Engineers
+645.9
+853.4
+807.8
+867.7
+32.1
+-5.3
+7.4
+2126 Design and Development Engineers
+630.1
+665.4
+738.6
+794.8
+5.6
+11.0
+7.6
+2127 Production and Process Engineers
+597.7
+657.8
+723.0
+774.7
+10.1
+9.9
+7.2
+2129 Engineering Professionals not elsewhere classified
+607.8
+694.7
+768.7
+787.8
+14.3
+10.7
+2.5
+2150 Research and Development Managers
+859.3
+958.2
+11.5
+2311 Higher Education Teaching Professionals
+719.8
+865.4
+907.0
+989.5
+20.2
+4.8
+9.1
+3111 Laboratory Technicians
+410.2
+416.0
+400.8
+413.3
+1.4
+-3.7
+3.1
+Source: Annual Survey of Hours and Earnings
+46
+[Page #51]
+The R&D Pipeline
+5.3 Implications of the findings
+Research on the impact of technological change suggests that it increases the productivity of high skilled workers such that the skill premium increases where skills supply cannot keep pace with the demand (Acemoglu and Autor, 2011; Golden and Katz, 2007). This tends to be based on research which does not differentiate between fields of study. Where field of study is included in the analysis it can be an important determinant of returns. For example, one study found that the returns to a university degree ranged from less than 10 per cent for an arts graduate to 75 per cent for an engineering graduate working in an engineering job (Lemieux, 2014). The implication is that the skills obtained in a given field of study are more valuable in jobs that are matched to the individual’s degree subject. But the skills premium may not last. Research from the USA points to the earnings premium for those who studied STEM degrees being highest at the point of entry and then falls away thereafter by 50 per cent in the first decade (Deming and Noray, 2019). Or at least it does so for applied STEM subjects such as engineering and computer science but not where the field of study was biology, chemistry, physics or mathematics. This is explained with reference to the short-shelf life of certain skills where there is rapid technological change. Employers prefer to recruit graduates trained in the latest technologies rather than invest in the skills of their existing workforce and given that technological change tends to affect applied subject knowledge more, this accounts for the observed decline in the skills premium.
+If skill shortages can be detected then there are issues about how to address them. Increasing supply is not the obvious solution. There are concerns about the percentage of STEM graduates entering non-STEM jobs from the perspective that these are relatively expensive degrees to provide (from the public expenditure point of view) and if the skills conferred on the STEM graduate are not used, then this is a wasted resource. Research which is now rather dated pointed to a relatively high share of STEM graduates working in non-STEM jobs (Bosworth et al., 2013). It revealed that of new graduates in 2011:
+• 16 per cent were working in STEM jobs in STEM sectors;
+• 12 per cent were working in non-STEM jobs in STEM sectors;
+• 6 per cent were working in STEM jobs in non- STEM sectors; and
+• 66 per cent were working in a non- STEM job in non- STEM sectors (up from
+52 per cent in 2001).
+A degree of caution is required when interpreting these statistics. First of all, there can be STEM jobs embedded with STEM occupations (given that occupations are aggregations of jobs which may vary from one another in significant ways) (Grinnis, 2017). And employers sometimes value STEM knowledge and skills in non-STEM
+47
+[Page #52]
+The R&D Pipeline
+jobs. Research which has looked for STEM keywords in job advertisements reveals that 35 per cent of all STEM jobs belong to non-STEM occupations which results in occupational analyses underestimating the extent to which STEM graduates enter STEM occupations based on data sources such as the LFS (Grinnis, 2017).
+As noted in the introduction, there are also data that suggest that a lack of skills inhibits innovation in the UK from which one might infer that the skills sought are of an R&D kind. The UKIS provides evidence on the characteristics of innovative enterprises and their skill needs. UKIS 2019 points to a lack of skilled personnel being one of the key barriers to investments in innovation taking place. Data over time suggests that the extent to which availability of skilled personnel acts as a barrier to innovation has been increasing: from around 8 per cent of enterprises citing this is as a barrier in 2012/14 to 14 per cent in 2016/18 (BEIS, 2019).
+5.4 Conclusion
+The factors underlying skill shortages are often complex. Often the employer is looking for the ideal candidate who possesses all the skills required to do the jobs. This will include a mix of soft and technical skills that will allow the recruit to hit the ground running when they start work. But this may be an unreasonable expectation from employers (Gambin et al. 2016). Nevertheless, the evidence reported here does point to various R&D occupations experiencing relatively fast wage growth which is likely to indicate at least in part a mismatch between the supply or, and the demand for, skills.
+48
+[Page #53]
+The R&D Pipeline
+6 Conclusion
+The data presented in the previous sections indicate that the number of people who are employed in either R&D occupations or the R&D sector has increased over the recent past. To some extent, this reflects the changing skill structure of employment with more people employed in jobs where the entry requirement is typically that of tertiary level educational attainment. There are increasing numbers of people employed in a range of professional and associate professional jobs and this is likely to increase in the future.
+Overall, the evidence suggests that supply has managed to keep pace with growing demand for people to work in R&D. There has been an increase in supply from the education sector (with more people studying STEM subjects). And R&D jobs are also more likely to be filled by people from overseas reflecting the fact that the R&D labour market is an international one. The combination of supply from abroad and increased supply from the education sector has been sufficient for it to keep pace with demand.
+There is a danger in treating the R&D sector as a single entity. There is prima facie evidence presented in the report that there are hotspots of demand. Annual wage growth, for instance, has been particularly strong over recent years for physical scientists (where the growth in the number of people studying this subject at university has increased relatively modestly compared with other science subjects). And the number of vacancies for jobs related to biology and biochemistry has held up better than some engineering ones as the labour market enters a recessionary phase caused by the COVID-19 pandemic. This tends to emphasise the fact that there is a need to look in more detail at the R&D sector to identify skill shortage hotspots. It may well be that demand is particularly strong for particular specialisms but this is difficult to identify in available data.
+Whilst the overall evidence reveals that supply has more or less kept pace with demand overall, there is a need to add a caveat here. If one looks at the international comparative statistics it is evident that the percentage of people employed in, say, the high-tech industry is a little lower in the UK than the average in the EU. This begs the question: what would happen if demand were to be ratcheted up to something near the level in key competitor countries? Given the relatively long training periods for people to become R&D workers (a bachelor level degree or higher being the norm), then it is apparent that there are long lead times which would be likely to result in, other things being equal, shortages at least over the short-term. This does tend to emphasise the point of making the most of the supply currently available – be that attracting talent from elsewhere in the world and / or making the most of those who already possess STEM qualifications.
+49
+[Page #54]
+The R&D Pipeline
+What does all of the above add up to for the future?13 The Government’s roadmap has set an ambitious target for increased investment in R&D; an investment, if it is to be realised which will depend heavily upon increased human capital development. Based on a continuation of existing trends, the Working Futures projections of future skill demand indicate that the number of people employed in R&D will increase by around 91,000 people between 2017 and 2027. But when the number of people who need to be replaced because they will have left R&D employment – mainly because of retirement – the number rises to 382,000. This is the number of R&D jobs that will need to be filled between 2017 and 2027 and provides a baseline of sorts to compare alternative outcomes.
+In thinking further about the future demand for skills there are a number of factors to take into consideration:
+•
+the pace of economic recovery post COVID-19;
+• structural changes which might take place following COVID-19;
+•
+the type of technological changes which will be dominant over the next few decades;
+•
+the factors which are likely to inhibit growth in the future.
+This then provides an indication of where policy might be required to bring about the future sought in the Government’s roadmap.
+The speed of recovery from the COVID-19 induced economic slowdown is uncertain. From an optimistic standpoint, one might suggest that the economy will regain its long-term growth path within a year or two. In which case, one might expect the government’s target of increasing expenditure on R&D to be achieved with a concomitant impact on the demand for R&D skills. If R&D expenditure is increased this might have a commensurate impact on the level of expansion demand in R&D employment. So if investment in R&D increases by around 20 per cent one might surmise that this lead to a similar increase in R&D employment (i.e. from 91,000 to c.109,000 leading to a net requirement of around c.400,000 people over ten years).
+On the other hand, the recovery might prove to slower such that the scale of investment in R&D is lower than desired again with a commensurate impact on R&D employment. It might also possibly be the case that if the downturn proves to be protracted then any increase in R&D expenditure will be driven by the government rather than the private sector. Depending upon the conduits used to channel that expenditure this may have an impact on the nature of skills demand. For instance, if it is channelled through higher education and research institutes of one kind or
+13
+For an alternative view see Industrial Strategy Council (2019)
+50
+[Page #55]
+The R&D Pipeline
+another, then this may lead to an increased demand for the types of R&D specialists working in a more academic environment (e.g. blue skies research).
+A further aspect to consider is how structural changes in the economy following COVID-19 might affect R&D employment. For instance, if is there is more focus on security of production such that supply-chains are reined in to be nearer the UK than at present, then this may have some impact on the types of R&D undertaken here. Whilst many UK / EU multi-national companies retain their strategic R&D capacity in the west, it may be that more mundane R&D previously undertaken at a distance is transferred increasingly into the UK. This will clearly have implications for the overall level of demand and the types of job that will be undertaken in the UK. It may well increase the demand for technician level R&D skills.
+So far the discussion has focussed on R&D as a single entity. The body of evidence provided in the report demonstrates that the R&D sector is dependent upon a wide variety of skills serving differing types of research needs. To date, the impact of future technological change has tended to focus on:
+•
+the greening of the economy / climate change; and
+•
+the digitalisation of large swathes of the economy;
+•
+increased automation resulting from the take-up of AI, robotics, and so on.
+Added to these, one can probably add biosciences given their central role in developing a response to the COVID-19 pandemic.
+R&D is central to driving these changes in the economy. The R&D on which they are based can take place in the UK but equally it can take place anywhere in the world. If the R&D is to take place here on the desired scale, then there needs to be the R&D infrastructure and skills in place to make this a reality. In the past, there has tended to be a view that the market will send signals about the skills required in a given sector to which training providers and would-be leaners respond. This has been at the centre of the demand-led skills system which has been systematically introduced in the UK from the late 1980s onwards. Whether this is able to satisfy skill needs in the R&D sector is a moot point. As indicated in the report, the sector is heavily dependent upon people educated a master’s level and higher. R&D skills therefore have long lead times such that the reliance upon the market to send signals about emerging skill needs in a timely manner may be misplaced. It may be that more planning is required about the likely scale and nature of R&D skill demand if future skill needs are to be met. In turn, this suggests that concerted / co-ordinated actions are required to anticipate future skill demands (e.g. via the proposed Office for Talent and / or Innovation Expert Group) and plan accordingly. There a range of methodologies associated with technology foresight and forecasting which have sought to identify emerging technological trend and associated skill needs which may be worth revisiting.
+51
+[Page #56]
+The R&D Pipeline
+Even if it is possible to anticipate the scale and content of future skill demand, there is no guarantee that increasing the supply will necessarily result in demand being better met. Again, as noted in the main body of the report, many of those who study subjects in higher education which potentially provide entry to a career in R&D choose other career paths. In part, this relates to making R&D an attractive career option and removing the precariousness which affects employment in parts of the sector. It is worth bearing in mind that there are concerns, at the time of writing in late 2020, that the impact of COVID-19 has been to reduce the potential funding charitable trusts have in place fund future R&D in key sectors. This may have adverse consequences for the future employment of R&D personnel if it persists.
+It will remain the case that the UK, like all major industrialised economies, will be looking to recruit the best talent from around the world. The continued ability of the UK to attract the best talent will be a mix of the factors which will attract it to the country (e.g. a strong well-funded research infrastructure) plus relative ease of entry (i.e. that any visa requirements are no more onerous than those which are applied in other countries looking to attract the same talent). As noted in the report, there is a competition between countries to attract the best talent.
+The above has sought to set out some of the issues which are likely to affect the future demand and supply of R&D skills in the UK. Table 6.1 below provides a summary of possible futures. This is of course speculative but gives an indication of how the future might unfold with respect to R&D employment and skills demand. In essence, it sets out a simple set of outlooks – optimistic, a continuation of past trends, and pessimistic – and indicates how these might affect the future demand for R&D skills. Under the optimistic scenario, the extent to which the skills supply system can keep pace with demand is an important consideration. If recovery from the pandemic is particularly strong with an acceleration in R&D activity, there is a heightened risk that supply will not keep pace with demand simply because the rate of change is so great. Similarly, under the pessimistic outlook, the supply-side may also become constrained as a result of a struggling economy (e.g. there is less funding for R&D in universities and the private sector), which increases the risk of a relatively adverse outcome. The content of Table 6.1 is speculative. Its aim is that of outlining possible outcomes so that policy is prepared to deal with any eventuality.
+52
+[Page #57]
+The R&D Pipeline
+Table 6.1: Possible emerging futures associated with R&D skills demand
+Skill supply side considerations
+Outlook
+Economy
+Technology
+Outcome
+Roadmap targets met with UK as major force in all aspects of R&D – with less geographical concentration of activity R&D strong in traditional areas of strength, put progress in other areas becomes patchy R&D remains particularly strong in traditional areas of R&D, and is able to capture new areas of activity albeit patchily R&D remains locked in traditional areas of expertise Even traditional areas of excellence are at risk of contracting R&D fundamentally challenged with risk that the function is lost to other countries in some instances
+Supply keeps pace with demand
+Rapid progress in technologies related to the green economy, digitalisation and biosciences
+Accelerates rapidly following COVID-19
+Optimistic outlook
+Supply side struggles to keep pace with demand
+R&D develops in new areas but is more dependent upon traditional areas of strength than under the optimistic outlook
+Supply keeps pace with demand
+Stable outlook (business as usual)
+Moderate growth following COVID-19
+Supply side struggles to keep pace with demand
+Supply keeps pace with demand
+Investments in R&D constrained such that even traditional areas of strength are weakened
+Economy in doldrums over medium-term following COVID-19
+Pessimistic outlook
+Supply side struggles to keep pace with demand
+53
+[Page #58]
+References
+Acemoglu, D., and D. H. Autor (2011). ‘Skills, tasks and technologies: Implications for employment and earnings’ in eds. O. Ashenfelter and D. Card (eds.) Handbook of Labor Economics, Vol. 4. Amsterdam: North-Holland
+BEIS (2019). UK Innovation Survey 2019: Main Report. London: Department for Business Energy & Industrial Strategy
+Bosworth, D., Lyonette, C. and Wilson, R (2013). The supply of and demand for high-level STEM skills. UK Commission for Employment and Skills Evidence Report 77
+CRAC (2011) STEM Graduates in Non-STEM jobs. London: Department for Business Innovation and Skills Research Report 30
+Deming, D. and Noray, K. (2019). STEM Careers and the Changing Skill Requirements of Work. University of Harvard mimeo
+Department for Business, Energy & Industrial Strategy (UKIS) (2020). UK Innovation Survey 2019: Headline findings covering the survey period 2016 – 2018.London:BEIS
+Gambin, L., Hogarth, T., Murphy, L., Spreadbury, K., Warhurst, C., & Winterbotham, M. (2016). Research to understand the extent, nature and impact of skills mismatches in the economy London: Department for Business Innovation and Skills.
+Goldin, C. and Katz, L. F. (2007). The race between education and technology: the evolution of us educational wage differentials, 1890 to 2005, Technical report, National Bureau of Economic Research.
+Griliches, Z. (1986). ‘Productivity, R &D, and Basic Research at the Firm Level in the 1970s’. The American Economic Review, 76(1), 141-154.
+Grinnis, I. (2017) The STEM Requirements of "Non-STEM" Jobs: Evidence from UK Online Vacancy Postings and Implications for Skills & Knowledge Shortages. SRC Discussion Paper No 69, London School of Economics
+Industrial Strategy Council (2019). UK Skills Mismatch in 2030
+Lemieux, T. (2014). ‘Occupations, fields of study and returns to education’, Canadian Journal of Economics/Revue canadienne d’économique Vol. 47, No.4, 1047–1077
+McCaig, C., Hogarth, T., Gambin, L. and Clague, L. (2014). Research into the need for and capacity to deliver STEM related apprenticeship provision in England. London: BIS Research Paper Number 171
+McGuiness, S., Pouliakas, K. and Redmond, P. (2018) “Skill Mismatches: Concepts, Measurement and Policy Approaches”. Journal of Economic Surveys, Vol, 32, No.4 pp. 985-1015
+[Page #59]
+OECD (2020). Gross domestic spending on R&D. Retrieved September 29, 2020, from https://data.oecd.org/rd/gross-domestic-spending-on-r-d.htm.
+Smith, E., & White, P. (2019).’Where Do All the STEM Graduates Go? Higher Education, the Labour Market and Career Trajectories in the UK’. Journal of Science Education and Technology, 28(1), 26-40
+Smith, E., & White, P. (2018). The employment trajectories of Science Technology Engineering and Mathematics graduates. Leicester / Warwick Universities
+Sylwester, K. (2001). "R&D and economic growth." Knowledge, Technology & Policy 71-84.
+[Page #60]
+This publication is available from: www.gov.uk/government/publications/research-and-development-rd-pipeline
+If you need a version of this document in a more accessible format, please email enquiries@beis.gov.uk. Please tell us what format you need. It will help us if you say what assistive technology you use.

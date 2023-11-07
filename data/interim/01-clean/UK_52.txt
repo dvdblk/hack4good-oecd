@@ -1,0 +1,1101 @@
+[Page #0]
+The National Skills Fund Government consultation response
+April 2022
+[Page #1]
+Contents
+4
+Glossary of Terms:
+7
+Executive summary
+The importance of skills
+7
+Consultation response
+8
+Free level 3 qualifications for adults
+9
+Skills Bootcamps
+9
+Meeting critical skills needs
+10
+11
+Introduction
+Progress to date
+11
+Consultation context
+14
+Consultation exercise
+14
+Methodology for consultation analysis
+14
+Profile of respondents
+15
+16
+Section 1: Free level 3 qualifications for adults
+Accessibility
+16
+Summary of responses received
+17
+Government response
+22
+Employer Involvement
+26
+Summary of responses received
+27
+Government response
+28
+Pathways to free level 3 qualifications for adults
+29
+Summary of responses received
+30
+Government response
+31
+34
+Section 2: Skills Bootcamps
+Expansion of the Skills Bootcamps
+34
+Summary of responses received
+34
+Government response
+35
+Providers
+36
+Summary of responses received
+37
+Government response
+37
+2
+[Page #2]
+38
+Accessibility
+39
+Summary of responses received
+39
+Government response
+41
+Employer Involvement
+41
+Summary of responses received
+43
+Government response
+44
+Pathways leading on from Skills Bootcamps
+44
+Summary of responses received
+46
+Government response
+48
+Section 3: Meeting critical skills needs
+48
+Critical Skills
+48
+Summary of responses
+50
+Government response
+56
+Short Courses
+57
+Summary of responses
+58
+Government response
+61
+Annex A: List of Consultation Questions
+61
+Introduction: The National Skills Fund
+71
+Annex B: Profile of respondents
+3
+[Page #3]
+Glossary of Terms:
+• Adult Education Budget (AEB): The AEB is funding which is targeted at
+engaging adults and providing the necessary skills and learning for progressing into work, an apprenticeship or other learning. The national AEB is used to support statutory entitlements to full funding for eligible adults (aged 19 and above). The statutory responsibility for certain adult education functions, including for funding the statutory free entitlements has been transferred to certain Mayoral Combined Authorities (and delegated to the Mayor of London) in relation to their areas together with an associated portion of the AEB.
+• Advanced Learner Loan (ALL): An Advanced Learner Loan helps eligible adults (aged 19 and above) with the costs of a course at a college or training provider in England. Further information can be found on GOV.UK. Qualifications for which an individual can take a loan out are known as “qualifications approved for ALL”. They can be found at: https://www.qualifications.education.gov.uk/.
+• Apprenticeship: An apprenticeship is a job that combines practical training with
+study. These can be provided from intermediate level (level 2) to professional level (levels 6&7). Further information can be found on GOV.UK, at: What is an apprenticeship? (apprenticeships.gov.uk).
+• Awarding organisations: Refers to individual organisations recognised and
+regulated by Ofqual that design, develop, and certificate qualifications but are not themselves education providers.
+• Degree Level: Any qualification at level 6 or 7; of which many will be a full
+undergraduate degree (may be degree with honours/bachelor’s degree), or a graduate diploma. Level 7 includes a master’s degree, postgraduate diploma, and a level 7 diploma. Apprenticeships can also be delivered at levels 6 and 7. • Education and Skills Funding Agency (ESFA): The ESFA is an executive
+agency sponsored by the Department for Education. It is responsible for funding education and skills for children, young people and adults. See the ESFA website for more information.
+• Further education college (FEC): Refers to institutions conducted by further
+education corporations. Further education colleges offer a variety of courses from entry level through to higher level qualifications.
+• Higher level: Any qualification at levels 4, 5 and 6. Apprenticeships can also be at
+higher level.
+• Higher technical education (HTE): Refers to technical education provided at
+levels 4 and 5.
+• Higher Technical Qualification (HTQ): This refers to a level 4-5 Higher Technical
+Qualification that gains approval from the Institute for Apprenticeships and Technical Education where its content aligns with the Institute’s occupational standards. Institute for Apprenticeships and Technical Education (The Institute): The Institute is an executive non-departmental public body, sponsored by the Department for Education. It approves and publishes the employer-led standards
+•
+4
+[Page #4]
+for occupations (and their associated apprenticeship assessment plans), approves technical education qualifications, and advises government on funding for each standard. See the Institute website for more information. Institutes of Technology (IoT): Collaborations between further education colleges, universities and employers, focused on providing higher-level technical STEM education.
+•
+• Knowledge, skills and behaviours (KSBs): These are the outcomes set out in employer-led standards, that demonstrate competence in an occupation. For an approved Higher Technical Qualification, and the T Level qualifications, an individual will attain as many of the outcomes as may be reasonably expected from a course of education.
+• Level (L): Refers to the 9 qualification levels in England, Wales and Northern
+Ireland. See GOV.UK for more information.
+• Level 2: Also known as Intermediate level. Level 2 qualifications include GCSEs (Grades A*-C/9-4) and level 2 Technical Award. Apprenticeships can also be delivered at Intermediate level.
+• Level 3: Also known as Advanced level. Level 3 qualifications include A Levels, T Levels, Applied General qualifications and Technical levels. Apprenticeships can also be delivered at Advanced level.
+• Levels 4 and 5: Also known as higher level. Level 4 qualifications include
+certificate of higher education, level 4 diploma, and higher national certificate. Level 5 qualifications include, diploma of higher education, foundation degree, higher national diploma. Apprenticeships can also be delivered at higher level. • Levels 6 and 7: Level 6 includes a full undergraduate degree (may be degree with honours/bachelor’s degree), and a graduate diploma. Level 7 includes a master’s degree, postgraduate diploma, and a level 7 diploma. Apprenticeships can also be delivered at degree level.
+• Lifelong Loan Entitlement (LLE): Introduced from 2025, the LLE will provide individuals with a loan entitlement to the equivalent of four years of post-18 education to use over their lifetime. It will be available for both modules and full years of study at higher technical and degree levels (levels 4-6), regardless of whether they are provided in colleges or universities. (Mayoral) Combined Authority (MCA): A combined authority is a legal structure that may be set up by local authorities in England, with or without a directly elected mayor. Specified adult education statutory functions of the Secretary of State have been transferred to certain MCAs by way of affirmative orders under the Local Democracy, Economic Development and Construction Act 2009. In addition, a delegation of those functions has been made by the Secretary of State in relation to London (which is not a combined authority) under section 39A of the Greater London Authority (GLA) Act 1999. We refer to MCAs and GLA as ‘devolved authorities’ throughout the document.
+•
+• Non-regulated learning: Learning which is not subject to awarding organisation external accreditation in the form of a regulated qualification. It may be designed, delivered, and certificated by a provider or another organisation.
+5
+[Page #5]
+• Occupation: A set of jobs whose main tasks and duties are characterised by a high degree of similarity. It is also an all-encompassing term for individuals’ employment and is not restricted to a particular workplace. The term ‘occupation’ (for example in ‘occupational standards’) is a more general and all-encompassing term for ‘employment in which individuals are engaged’ and is not restricted to a particular workplace. It also points towards opportunities for progression, both within an occupation but importantly also to related occupations with a similar skill requirements.
+• Occupational standards: The occupational standards (also referred to as
+employer-led standards) set out the knowledge, skills and behaviours (KSBs) required for an occupation. Occupational standards make it possible to assess whether an individual has achieved the KSBs needed to be competent in an occupation. They are developed by groups of employers and approved by the Institute for Apprenticeships and Technical Education.
+• Office for Standards in Education, Children’s Services and Skills (Ofsted): The Office for Standards in Education, Children’s Services and Skills inspects services providing education and skills for learners of all ages. Ofsted also inspect and regulate services that care for children and young people. Ofsted’s role is to make sure that organisations providing education, training and care services in England do so to a high standard. Ofsted report directly to Parliament and are independent and impartial.
+• Provider: An education or training organisation that is approved to deliver
+education to students.
+• Skills for Jobs White Paper: Government White Paper titled ‘Skills for Jobs: Lifelong Learning for Opportunity and Growth’, published January 2021 by the Department for Education. This white paper sets out reforms to post-16 technical education and training to support people to develop the skills needs to get good jobs and improve national productivity.
+6
+[Page #6]
+Executive summary
+The importance of skills
+Improving the skills of people across the country is central to this Government’s ambition to build back better, fairer, and greener.12 We are therefore investing in high-quality education and skills provision that enables and supports adults to retrain and upskill rapidly to meet current and emerging skills needs.3 Through reforms to further education in England we want to improve the pipeline of technical skills, sustain productivity growth, and boost the UK’s international competitiveness. As we strive to recover from the impact which the Covid-19 pandemic has had on the economy, investing in a skills system which is responsive to the needs of the national economy is more important than ever.
+Skills play an important role in driving productivity and there is a strong correlation between the qualification level of a local area’s population and its productivity performance.4 5 Further developing and driving up skills across the country is therefore central to levelling up opportunity and building back fairer. As set out in the Levelling Up the United Kingdom White Paper, this Government is committed to ensuring that people have the opportunity to access quality jobs and progress in work, without having to leave their communities.6 This is essential to employers having access to the skills they need to grow and reap the successes of their local area, and is in keeping with the Department for Education’s commitment to reform technical education so that it aligns with employer needs.7
+As we look toward the future, we also know that green and growth go hand in hand, and in our Net Zero Strategy we have set out our ambition to make the UK the home of the new Green Industrial Revolution.8 However, we also know that to seize this opportunity we will need to create the skilled workforce required to deliver net zero and support the development of a skilled, competitive supply chain for key green industries in the UK. Our reforms to the skills system will play a critical role in building back greener, and we want providers, employers, and learners to be encouraged and ready to help deliver the
+1 HM Treasury, 2021: Build Back Better: Our Plan for Growth. 2 Department for Business, Energy, and Industrial Strategy, 2021: Net Zero Strategy: Build Back Greener. 3 HM Treasury and The Rt Hon Rishi Sunak MP, 2020: A Plan for Jobs speech. 4 Department for Business, Innovation and Skills, 2015: UK skills and productivity in an international context 5 Analysis of ONS Regional and sub-regional productivity in the UK and the Annual Population Survey 6 Department for Levelling Up, Housing and Communities, 2022: Levelling Up the United Kingdom. 7 Department for Education, 2021: Skills for jobs: Lifelong learning for opportunity and growth. 8 Department for Business, Energy, and Industrial Strategy, 2021: Net Zero Strategy: Build Back Greener.
+7
+[Page #7]
+transition to net zero.
+As was set out in the Skills for Jobs White Paper, the Department for Education is committed to building a coherent post-16 skills system which is free from the historic restraints of academic or technical pathways.9 Through reforms to the post-16 skills system, we are taking significant steps to transform the way people progress into the workforce after the age of 16 and access lifelong learning throughout their career. Through these reforms, this government is committed to ensuring that the skills system is contributing to economic growth, levelling up productivity and employment, and supporting our businesses and our economy to provide greater wealth and prosperity for all of us. The Unit for Future Skills will also explore options on how to improve the timeliness and accessibility of data to support increased understanding of skills supply and enable informed decision making across the system.
+As part of these reforms, National Skills Fund investment started in April 2021, and since then we have focused this investment on achieving outcomes for adults and employers. Through our Free Courses for Jobs offer we have made over 400 courses available, so that eligible adults can undertake a free level 3 qualification to improve their job prospects and help meet critical skills priorities.10 We have also continued to test and expand our Skills Bootcamps since their launch; investing £43 million in Skills Bootcamps in digital, construction, and technical sectors (including green), in the Financial Year 2021-2022. We will be investing up to a further £550 million over the course of the next 3 years, to respond to priority skills needs. Early evaluation of our first wave of delivery indicates the success of Skills Bootcamps, with high demand across employers, providers, and learners. As we expand these offers, we will explore options for monitoring delivery data to ensure quality provision.
+Both these offers support adults to train, retrain and upskill throughout their lifetime and have been designed to respond quickly to emerging skills needs and changing employment patterns. For example, recently launched Skills Bootcamps in HGV driving exemplify how we are transforming the skills system to efficiently respond to the needs of the economy; allowing more individuals more opportunities to retrain and progress. We have also expanded qualifications included in the Free Courses for Jobs offer to respond to skills needs in further growth areas of the economy.
+Consultation response
+The National Skills Fund consultation collected stakeholders’ views on three primary areas, which the Government has responded to in turn. This executive summary provides
+9 Department for Education, 2021: Skills for jobs: lifelong learning for opportunity and growth. 10 Department for Education: Free courses for jobs: Guidance.
+8
+[Page #8]
+a high-level overview on the key feedback which came through in responses and how we have responded to this feedback. More detail can be found in the corresponding sections of this document.
+Free level 3 qualifications for adults
+The level 3 qualifications available through the Free Courses for Jobs offer give eligible adults the chance to access over 400 free courses. The courses have been identified as leading to good wage outcomes or to sectors that are actively recruiting – helping to boost job opportunities and address skills needs in the economy. This is a long-term offer and forms part of our commitment to transform the foundations of the skills system so that everyone has the chance to train and retrain.
+Respondents to the consultation highlighted several barriers which can limit uptake of the free level 3 qualifications which are available through the Free Courses for Jobs offer. In particular, they requested that the Free Courses for Jobs offer be extended to include more adults, such as those with outdated or irrelevant level 3 qualifications. To address eligibility restrictions, the Government recently announced a trial so that, from April 2022, any adult in England who is unemployed or earning under the National Living Wage annually (£18,525) will also be able to access these qualifications for free, regardless of their prior qualification level.
+Respondents also suggested that it can be confusing for adults and employers to identify which Government funded skills offers are the right fit for them. To ensure the offer is as effective as possible, respondents suggested that steps could be taken to boost awareness and address some of the user-journey difficulties. Raising awareness of the opportunities which the Free Courses for Jobs offer can create for adults and ensuring that the user journey is simple and consistent across all government skills offer is a key priority for the Department for Education. Since the publication of the consultation, and to help address this, we have launched a new Skills for Life campaign to help raise awareness and understanding of the different ways in which people can access the skills they need to gain the job they want. You can find out more information on this at GOV.UK: Unlock a better way ahead - Skills for Life (campaign.gov.uk).
+Skills Bootcamps
+Skills Bootcamps are flexible courses of up to 16 weeks which are free to eligible adult learners. They provide adults with in-demand skills and then fast-track them to an interview with an employer – supporting adults to move into well-paid jobs and helping employers to fill much-needed vacancies.
+Most respondents to the National Skills Fund consultation said that the Skills Bootcamp model is valuable and were keen to see this provision made available in more areas of the country. Since the publication of this consultation, we have expanded this provision
+9
+[Page #9]
+across the country in a greater number of subject areas. As a result of the 2021 Spending Review, up to a further £550 million investment over the next three financial years will be used to significantly expand Skills Bootcamps and give more adults across the country the opportunity to gain the skills they need to access work in a range of priority sectors.
+Throughout the consultation, respondents were in broad agreement that Skills Bootcamps should continue to respond to the needs of employers and provide a direct line of sight to a job. We recognise the importance of employer links for those adults wishing to retrain or upskill. As we continue to expand this provision into its third wave of delivery, the Government wants to ensure that this provision is employed-led, provides adults with in-demand skills, and builds on our engagement with over 350 employers in the first wave of Skills Bootcamps delivery. We are currently testing a smaller employer contribution for small and medium sized enterprises (SMEs) of 10% and are making it easier for people to progress from Skills Bootcamps into apprenticeships.
+Meeting critical skills needs
+Respondents provided helpful insight on both the current and emerging skills needs in a variety of sectors and subject areas. The offers available to adults, play an important part in responding to priority skills needs across the country, and provision is available in many of the subject areas where respondents identified skills needs. As part of our wider reforms to the further education system, these targeted offers are helping to put employers at the heart of the skills system and boosting the supply of skills that they require now and in the future.11
+Throughout the consultation, respondents emphasised the value of short courses or modules for meeting the needs of both adults and employers. Both Skills Bootcamps and the Free Courses for Jobs offer have been designed and the courses identified with the needs of adults and employers in mind and many of the available courses can be undertaken flexibly. In addition to these offers, the Government is also supporting the development of further reforms to the adult skills landscape, such as the Lifetime Loan Entitlement which will be introduced from 2025. The Lifetime Loan Entitlement will provide individuals with a loan entitlement up to the equivalent of four years post-18 education to use over their lifetime and enable people to space out their studies and learn at a pace that is right for them, including choosing to build up their qualifications over time within both Further Education and Higher Education providers.
+11 Department for Education, 2021: Skills for Jobs: lifelong learning for opportunity and growth.
+10
+[Page #10]
+Introduction
+The Government has committed to funding evidence-based skills offers which will support adults to gain the valuable skills they need to improve their job prospects, whatever their circumstances. We are investing £1.6bn through the National Skills Fund in the next three years, on top of the £375m already committed in financial year 2021-22, to help adults gain the valuable skills they need to improve their job prospects. Through targeted offers, such as our Free Courses for Jobs and Skills Bootcamps, we want to put employers at the heart of the system and use this investment to boost the supply of skills that they require; preparing the labour market for future skills needs.
+In July 2021, the government launched a consultation to gather views, evidence, and insight on how the government can best support adults and employers to gain the skills they need. Responses received to this consultation will be integral to improving the offers which we are funding through the National Skills Fund and ensuring that they work for adults, employers, and providers. Furthermore, by improving our offers, the insight which stakeholders have provided will contribute even more widely; helping to fulfil the Government’s ambition to build back better, fairer, and greener. This document sets out the Government’s response to the invaluable insight which we received through this consultation process.
+Progress to date
+This Government wants to guarantee that everyone can access the skills they need to be successful at every stage of their lives, no matter their circumstances.12 As part of this commitment, we are already investing in high-quality, evidence-based offers to support adults, improve job prospects, and improve upon the successes of England’s apprenticeship system.
+Since the publication of this consultation, the Government has taken significant steps to address skills shortages in priority areas through National Skills Fund investment. This progress has included:
+• Uptake of level 3 qualifications: We have seen positive early signs in uptake figures through the individualised learning record (ILR). There were 11,770 enrolments reported in April-October on offers funded through the Level 3 Free
+12 Prime Minister’s Office, 10 Downing Street and The Rt Hon Boris Johnson MP, 2020: PM’s skills speech: 29 September 2020.
+11
+[Page #11]
+Courses for Jobs offer between April-November 2021.13 14 The department has also seen strong interest from potential learners via online channels, with high volumes of web traffic through GOV.UK and social media posts.
+• The successful delivery and evaluation of our first wave of Skills
+Bootcamps: Between September 2020 and 31 March 2021, we delivered our first Skills Bootcamps. Early data suggests participants are achieving positive outcomes in priority sectors, including progression to new roles, taking on new responsibilities, or securing new access to opportunities for the self-employed. For example, at least 54% of individuals who completed a Skills Bootcamp achieved a positive outcome as a result of the training (where a positive outcome is defined as a new full or part time job or apprenticeship; a new role or increased responsibilities with their current employers; or, where self-employed, access to new opportunities). 15 We will continue to evaluate the progress and success of Skills Bootcamps delivery as we expand the programme.
+• Delivery of our second wave of Skills Bootcamps is in progress: Eligible adults can now access Skills Bootcamps across the country, in subject-areas covering digital, technical, construction, logistics (HGV driving), and green skills. We will continue to evaluate the successes of this training model.
+• The expansion of our Free Courses of Jobs offer: The list of qualifications
+available through this offer is kept under review to ensure it meets the needs of the economy. We have already added more qualifications to the original list to meet the needs of the economy. For example, in July 2021, we expanded the offer to include in-demand hospitality and catering qualifications.
+• The rapid development and roll-out of new Skills Bootcamps in HGV driving: To help address the shortage of HGV drivers we are investing up to £34 million to create up to 11,000 HGV driver training places for people that are new, returning to, or looking to upskill as an HGV driver. This training will look to increase the numbers of qualified HGV drivers in the shortest time possible and is available for free to those individuals who are new to HGV driving, for those that have left the industry and wish to return, and existing HGV drivers who need additional qualifications to work in high priority areas like driving fuel tankers.
+• The delivery of our Emerging Skills Programme: As part of the reforms set out in the Department for Education’s White Paper, Skills for Jobs, in March 2021 we
+13 Department for Education, 2022: Further education and skills: January, 2022. 14 Department for Education, 2021: Further education and skills: November, 2021. 15 Department for Education, 2021: Skills Bootcamps process evaluation of wave 1. ; Government Social Research, 2021: Skills Bootcamps process evaluation (publishing.service.gov.uk)
+12
+[Page #12]
+used National Skills Fund investment to support the Emerging Skills Project pilot; to help address future skills gaps in advanced manufacturing, electrification and the wider engineering workforce.
+• A £1.6 billion investment in the National Skills Fund: At the Spending Review
+2021, the Chancellor announced a significant £1.6 billion investment in the National Skills Fund for the Financial Years 2022-2025, on top of the £375 million already committed in Financial Year 2021-2022. This includes investment to significantly expand Skills Bootcamps so that more adults and employers can benefit from these employer-led initiatives. We will also trial expanding the eligibility of our Free Courses for Jobs offer, so that any adult aged 19 and over and earning under the annual National Living Wage can benefit from training in a subject-area with good returns for both individuals and the economy.
+Alongside these programmes, the Government is continuing to support adults to access new and improved opportunities, align provision to employer and labour market needs, and make progress on the reforms set out in the Skills for Jobs White Paper.16 For example, through Multiply the Government will help adults improve their basic numeracy skills and, in doing so, build their confidence and help remove barriers to learning at higher levels. By making apprenticeships more flexible, encouraging innovative training models, and giving employers more control over their levy funds17, the Government is also improving the apprenticeship system for employers in England. We are providing more people with the opportunity to benefit from a high-quality apprenticeship, by making more money available for apprenticeships. In July 2021, we also confirmed the changes to level 3 qualifications that will be implemented as part of the review of post-16 qualifications at level 3 and below in England. These changes will help strengthen the pathways to progression; creating clearly defined academic and technical routes with qualifications leading to further study, and/or skilled employment. This clarity of purpose will allow students to see more easily how their study will help them to progress. To help raise awareness and understanding of the different ways in which people can access the skills they need to gain the job they want, in January 2022, we launched our new Skills for Life campaign and website. We encourage interested stakeholders to find out more about all government skills offers at GOV.UK: Unlock a better way ahead - Skills for Life (campaign.gov.uk).
+16 Department for Education, 2021: Skills for jobs: Lifelong learning for opportunity and growth. 17 To give employers more control over their levy funds, we have made it easier for larger employers to find other employers who wish to take on apprentices and transfer funds to them by launching an online Pledge and Transfer Apprenticeship Funds service.
+13
+[Page #13]
+Consultation context
+In July 2021, we launched a consultation to gather views, evidence, and insight on how the Government can use the National Skills Fund to support adults and employers to gain the skills they need.
+This document provides a summary of the responses which were submitted to each section of the National Skills Fund consultation. It then sets out the Government’s response to this feedback. This response should be read alongside the consultation document as this provides the context and background to the questions we asked. The consultation document in full can be read at GOV.UK: National Skills Fund consultation (education.gov.uk). For reference, the list of consultation questions can be found at Annex A.
+Consultation exercise
+The consultation on the National Skills Fund was launched on 15 July 2021 and closed 9-weeks later, on 17 September 2021. The consultation consisted of a total of 56 questions, the first nine of which requested respondents’ details (such as name, email, and the position from which they were responding). Of the 47 main consultation questions, 13 included a poll response-format, although all sections invited respondents to provide additional qualitative text-based responses and comments.
+We accepted responses to the consultation which were submitted either via our online survey (accessed through gov.uk), through attendance at one of our four consultation feedback events (hosted online), or by email.
+Methodology for consultation analysis
+The external company, Methods Ltd, was subcontracted by the Department for Education to undertake analysis of the responses submitted to this consultation.
+All free text responses to this consultation were evaluated using qualitative thematic analysis. Any quantitative data collected through polls has been presented as a chart or by using percentages, and where we received less than 50 responses this has been highlighted. The data was first assessed and quality assured, and any erroneous entries were excluded from analysis. The feedback was then reviewed, and the key themes, trends and prominent patterns presented by respondents were identified. This included identification of any anomalous answers, and any instances whereby there was no agreement or little consistency reached in answers.
+Where we were able to identify a difference or trend in responses given by different organisations or profiles of respondents, we have endeavoured to highlight this.
+Where we have included the results of the poll-format questions, where possible we have
+14
+[Page #14]
+considered all responses submitted; whether submitted via the online survey, through attendance at one of our online consultation feedback events, and those submitted by email. In taking this approach, we recognise that in some cases an organisation might have submitted more than one response: for example, by attending an online consultation feedback event and submitting a response via the online survey. Where this might have been the case, the implication on the results of the poll-format questions is considered minimal in this analysis. Due to the varied format of emailed responses, only email responses which clearly set out the poll question and provided a clear answer have been included.
+Profile of respondents
+A total of 188 responses were submitted to the National Skills Fund consultation from across the country. 165 respondents to the consultation (88% of all respondents) either identified themselves as an organisation through the online survey, attended a feedback event for organisations, or submitted an email response on behalf of an identifiable organisation. Of these organisations, most respondents described themselves as either a provider, an employer, a representative body, or a local authority or body. A breakdown of respondent profile types is provided in Annex B.
+15
+[Page #15]
+Section 1: Free level 3 qualifications for adults
+The level 3 qualifications available through the Free Courses for Jobs offer give eligible adults the chance to access over 400 free qualifications which will help to boost their job prospects and address skills needs in the economy. Initially available to adults without an existing level 3 qualification, from April 2022 we are trialling an expansion of eligibility to also include any adult in England who is unemployed or earning under the National Living Wage on an annual basis, regardless of their prior qualifications, over the current Spending Review period. All adults without an existing level 3 qualification will remain eligible.
+We intend, subject to evidence and evaluation, for this to become a long-term offer and form part of our commitment to transform the foundations of the skills system so that everyone has the chance to train and retrain. A large range of sector subject areas are included in the offer, such as engineering, accounting and finance, and health and social care; we will keep the list under review to ensure it meets the needs of the economy.
+These qualifications have strong returns for both individuals and the economy, and we want to make sure we help more people to benefit from them. To meet the needs of adults, this training should also be delivered in a way that works for them and helps adults to overcome barriers to accessing learning.
+Accessibility
+The free level 3 qualifications available through the Free Courses for Jobs offer have been identified to help ensure adults can access the skills they need to improve their employment opportunities. However, we know from research undertaken to inform the development of the offers available through the National Skills Fund that adults face a variety of different barriers to accessing training. Some of these barriers include:
+• Work, or other time commitments
+• Perception that learning and/or training is for a younger cohort
+• Associated costs
+16
+[Page #16]
+• Childcare and other caring responsibilities.18 19
+In delivering the Free Courses for Jobs offer, we want to help adults to overcome these barriers, so that as many eligible adults can benefit from the offer as possible. To do so, we asked respondents to this consultation to set out what they thought were the key barriers which might prevent adults from taking up a free level 3 qualification.
+To better understand how the existing financial support system is working, this consultation requested feedback on the current government support for learners which is funded through the Adult Education Budget (AEB), or the Advanced Learner Loan (ALL) Bursary Fund for loan-funded learners.20 21 To determine the effectiveness of the currently available non-financial flexibilities, this consultation also asked which of these flexibilities are of value and sought insight on the barriers to their use and delivery.
+Summary of responses received
+Barriers to adults taking up the free level 3 qualifications
+Eligibility requirements:
+When we published the consultation in July 2021, the Free Courses for Jobs offer made any adult, aged 24 and over, without a first level 3 qualification (or equivalent) eligible to access a free level 3 qualification.22 This has given adults with the lowest skills levels the opportunity to reap the benefits of achieving level 3 qualifications: full level 3 qualifications on average result in a 14-16% earnings return (for adults aged 19+) and a 4 percentage point increase in the chance of employment.23 From April 2022, these courses will also be available to any adult in England earning below the National Living Wage (£18,525 at the time of publication) or unemployed, even if they already have a level 3 qualification or higher.
+Across all types of respondents to the consultation, the eligibility criteria for accessing the offer were frequently raised as a potential barrier which might reduce uptake of the offer. Respondents suggested that many potential learners might already hold a level 3 qualification, but it might be outdated and less relevant to the skills needed in today’s
+18 Department for Education, 2020: National Retraining Scheme: Key Findings Paper. 19 Learning and Work Institute, 2019: Adult Participation in Learning Survey 2019. 20 Education and Skills Funding Agency, 2021: Adult education budget (AEB) funding rules 2021-2022. 21 Education and Skills Funding Agency, 2021: Advanced learner loans funding rules 2021-2022. 22 19- to 23-year olds continue to be eligible for their first full level 3 via the adult education budget and are also eligible for any additional qualifications made available through this offer. 23 Department for Education, 2021: Transparency data overview: Measuring the net present value of further education in England 2018 to 2019 - GOV.UK (www.gov.uk)
+17
+[Page #17]
+labour market. Linked to this, those who described themselves as individuals, commonly expressed frustration that complicated eligibility criteria can be difficult to understand and is not easily accessible.
+Time and availability:
+Many respondents recognised that the commitment needed to undertake a level 3 qualification might pose a barrier for many adults – in particular, those with competing priorities such as work or caring responsibilities. Linked to this, respondents questioned whether some adults would need to reduce their working hours to have the time to undertake this learning. Concern was expressed over the impact this commitment might have on the finances of those who are currently employed but nevertheless wish to undertake a level 3 to retrain or upskill.
+Other associated financial costs:
+Throughout feedback to the consultation, the other financial costs associated with undertaking a level 3 qualification were raised as possible barriers to participation in the offer.
+Providers and employers expressed concern about the implications of studying for adults receiving unemployment benefits. Specifically, respondents identified that for those currently in receipt of Universal Credit, the risk of training impacting an individual’s eligibility to receive Universal Credit could be a potential barrier to accessing this training.
+Whilst the courses available through the Free Courses for Jobs offer remain free to all eligible adults, respondents also identified several other associated financial costs that could prevent some adults from undertaking a qualification. Recurring examples of these associated costs include: the costs of travel, access to digital tools and infrastructure (including the internet), and childcare.
+Prior experience and/or a lack of confidence:
+Feedback to the consultation highlighted that many adults who have the most to gain from this offer have limited, or no, relevant prior educational experience. For these individuals, undertaking a level 3 course can be a particular challenge without the appropriate support.
+For those adults with limited digital literacy, participation on some level 3 courses can raise specific accessibility challenges. In a similar vein, some providers and individuals responding to the consultation identified how a lack of confidence can prevent many adults from enrolling on a free level 3 qualification.
+User journey difficulties and/or lack of awareness:
+Throughout the consultation, many respondents raised concerns about the complicated user journey for those looking for information about the Free Courses for Jobs offer. They
+18
+[Page #18]
+suggested that limited awareness of the offer, alongside varied and complicated user journeys, can prevent individuals accessing key information about the courses and support available. It was understood that this could discourage adults from enrolling on a course and limit uptake of the Free Courses for Jobs offer.
+Use of the current financial support offer
+Most providers identified their website as a primary tool for advertising their current learner support offer, with occasional references made to social media, magazines, posters, and course directories. Most providers indicated that they maintain collaborative partnerships with job centres and local organisations who might then share relevant information about the learner support on the provider’s behalf. For some providers, face-to-face communication with learners was identified as a key means through which they publicise learner support.
+There was a common view across responses that the existing learner support offer is helpful in supporting learners to undertake a level 3 qualification – particularly those adults from low-income households. However, responses suggested that some adults may not apply for learner support due to the stigma associated with needing financial support.
+Several responses suggested that the learner support offer should also provide additional support for any loss in earnings or unemployment benefits which are experienced as a result of undertaking a free level 3 qualification.
+Respondents also expressed concern that the learner support system is too complicated, and that this might hinder access for both the provider and learner. The difficulty accessing information about the learner support offer was confirmed by answers to the poll at Question 12. The number of responses to this question was 129 (69% of all consultation respondents). As is illustrated by Figure 1, 45% of respondents who answered this question stated that it is ‘Difficult’ for adults to find out whether they are eligible for the current learner support offer, whilst only 6% stated that it was ‘Easy’. Reasons for answers submitted included references to arduous website design to difficulties understanding the complicated language used to communicate information about the offer.
+19
+[Page #19]
+Q12. How easy is it for adults to find out whether they are elgible for the current learner support offer?
+Base: 129
+100%
+90%
+80%
+70%
+60%
+50%
+45%
+40%
+32%
+30%
+20%
+13%
+6%
+10%
+4%
+0%
+Really easy
+Easy
+Neutral
+Difficult
+Really Difficult
+Figure 1: Responses submitted to Question 12
+More generally, respondents expressed concern at the lack of public awareness about the support available to undertake a free level 3 qualification. In line with the user journey barrier described on pages 19-20, to boost uptake of the offer, respondents commonly suggested that there is a need for clearer, more coherent information on learner support which is more easily accessible to learners. In many of these comments it was unclear whether respondents’ concerns related specifically to accessing information about the currently available learner support offer, or the Free Courses for Jobs offer more generally.
+Many respondents offered suggestions for improving awareness about the offer. Common suggestions included a national campaign, using alternative methods for advertising (e.g., television and radio broadcasting), and using partnerships with local stakeholders, including job centres and representative bodies, to communicate key information to potential learners.
+Responses frequently agreed that a national campaign would help to raise awareness and aid providers in delivering best practice. Responses also maintained that there is a need for clear and consistent information from the government, including best practice guidance on how to support learners, and a clear and standardised approach to eligibility rules.
+20
+[Page #20]
+Use of the currently available non-financial flexibilities
+In Question 15, we asked respondents to select which of the non-financial flexibilities already supported by the system are valuable to them. The number of responses to this question was 140 (75% of all consultation respondents). The results are included in Figure 2 below.
+Q15. For the non-financial flexibilities below, please select which you think are valuable (multicode).
+Base: 140
+98%
+100%
+87%
+87%
+90%
+83%
+76%
+80%
+70%
+60%
+50%
+40%
+29%
+30%
+20%
+10%
+0%
+Flexible modesof delivery
+Flexible startdates
+Weekend andevening learning
+Recognition ofprior learning
+Breaks inlearning
+Other; not listed
+Figure 2: Responses submitted to Question 15
+As is illustrated by Figure 2, all the non-financial flexibilities are deemed valuable; with 98% of respondents selecting ‘flexible modes of delivery’, 87% selecting ‘flexible start dates’, 87% selecting ‘weekend and evening learning’, 83% selecting ‘recognition of prior learning’, and 76% selecting ‘breaks in learning’. Additional comments provided in response to this question reiterated the value of these flexibilities; with many respondents emphasising how they can help adults to fit learning around other commitments. The most frequent barriers to using the non-financial flexibilities raised by respondents, include a lack of awareness and a lack of availability of these non-financial flexibilities.
+Many responses expressed concern that online delivery can raise specific barriers and challenges for those adults with limited digital literacy or skill and/or limited access to IT equipment or the internet. It was suggested that online courses are not suitable for all adults and there should remain the option to undertake courses in-person.
+Some respondents suggested that, whilst helpful for learners, the barriers to delivering these non-financial flexibilities mean that many providers are not able to make all the non-financial flexibilities available to learners. Responses highlighted a variety of barriers, including the financial implications of implementing flexible modes of delivery, weekend and evening learning, and flexible start dates. These responses emphasised the
+21
+[Page #21]
+difficulties in making sure there is sufficient demand to make class sizes financially viable, and that resources and estates capacity can be made available for flexible delivery.
+Some providers expressed concern at the implications which taking a break in learning might have on a learner’s progress and motivation. These responses frequently emphasised the increased risk of a learner not returning to their studies after taking a break and highlighted the administrative burden of organising a break for a learner within the current funding rules.
+Respondents reported inconsistent advice on recognition of prior learning as a main barrier to implementing this non-financial flexibility. It can be difficult for learners to understand how relevant their prior experience and qualifications are to a new qualification they would like to take. Additionally, respondents suggested it can be difficult for adults to source evidence of their prior learning. The administrative burden of delivering this non-financial flexibility was also raised as a potential barrier.
+Government response
+Barriers to adults taking up the free level 3 qualifications for adults
+Eligibility:
+We recognise that there will be many adults with an existing level 3 qualification who wish to retrain or upskill to improve their job prospects. We note the responses which highlighted how the eligibility restrictions to the Free Courses for Jobs offer can be a barrier to adults taking up these valuable qualifications and benefiting from learning the advanced technical skills which the labour market needs. Since launching the consultation, and to address eligibility restrictions, we have recently announced a trial so that, from April 2022, any adult in England who is unemployed or earning under the National Living Wage annually (£18,525) will also be able to access these qualifications for free, regardless of their prior qualification level. The Greater London Authority and Mayoral Combined Authorities will also be able to adapt their low wage criteria to meet local need.
+Adults not eligible for the Free Courses for Jobs offer may apply for an Advanced Learner Loan to help with course fees. Repayment of Advanced Leaner Loans is income-contingent, so learners will only need to repay the loan once their annual income exceeds a specified threshold (currently £27,295, for financial year 2022-23). These loans are available for many courses at levels 3-6 at an approved college or training provider in England. Adults should check with their college or training provider to find out if they are eligible for a loan if they wish to apply.
+22
+[Page #22]
+Time and availability:
+In the Department for Education’s Skills for Jobs White Paper, the government committed to ensuring that training is delivered in ways which work for adults, regardless of their situation.24 This will form a key step in building back better from the impact of Covid-19.25
+The level 3 qualifications available through the Free Courses for Jobs offer are substantial courses which provide valuable skills which could increase an adult’s earning potential. Shorter qualifications are available through the offer and there remain options for undertaking this training flexibly and in ways which work for adults in different circumstances. As substantial qualifications designed to provide adults with valuable technical skills they do, however, require an appropriate time commitment from learners. We have provided a funding uplift for each qualification included in the offer, which is intended to support providers to deliver them in a way that meets adults’ needs.26
+The Free Courses for Jobs offer is a long-term government commitment, which is backed by significant investment over the Spending Review period. We hope that those adults who are unable to take up the offer at this moment due to other time commitments are nevertheless able to take up the offer in future years.
+Reforms to the Further Education funding and accountability system will give providers more flexibility to address the needs of their learners and respond to skills needs. In doing so, we want to shift towards higher value provision, alongside an accountability system that measures outcomes. More information on these reforms was set out in the 2021 consultation in this area. This consultation has now closed, but information can be found at GOV.UK: Reforms to further education (FE) funding and accountability - GOV.UK (www.gov.uk). Further information on these reforms will follow this year.
+Other associated financial costs:
+Level 3 qualifications bring substantial wage returns (14-16% increase on average for adults aged 19+). However, we recognise that those on lower wages or unemployed may be concerned about the impact of study on receipt of Universal Credit, and on other financial responsibilities.
+24 Department for Education, 2021: Skills for jobs: lifelong learning for opportunity and growth. 25 HM Treasury, 2021: Build Back Better: Our Plan for Growth. 26 For example, Skills Bootcamps might be better suited to some adults needs. As is covered in the following section of this document, Skills Bootcamps are flexible courses, of up to 16 weeks, which are open to any adult aged 19 or over who is currently employed, self-employed, or recently unemployed (within the last 12-months).
+23
+[Page #23]
+The Department for Work and Pensions has introduced more flexibility into benefit rules to allow claimants to attend longer training courses such as Skills Bootcamps. Benefit recipients can attend courses up to and including level 3 without this affecting their benefits, providing that they continue to fulfil the eligibility conditions for any benefits they are claiming. These flexibilities will remain in place until April 2023.
+There are over 400 courses available through the Free Courses for Jobs offer, some of which can be delivered with less than 16 hours per week of study and so can accommodate this rule.
+As is detailed below, we will also take steps to ensure that the user journey is clear and that adults are able to easily access the relevant information on applying for learner support.
+Prior experience and/or a lack of confidence:
+In line with responses received to the consultation, we recognise that, for some adults, accessing the free level 3 qualifications may prove challenging as they may lack some of the prior learning or experience needed to engage in learning at level 3. Our next steps for ensuring that there are pathways to the level 3 qualifications available through this offer are outlined on pages 33-34 in this document.
+User journey difficulties and/or a lack of awareness:
+Raising awareness of the opportunities which the Free Courses for Jobs offer can create for adults and ensuring that the user journey is simple and consistent across all government skills offers is a key priority for the Department for Education.
+Earlier in the year we launched our new Skills for Life campaign and website: Unlock a better way ahead - Skills for Life (campaign.gov.uk). This will raise awareness and understanding of the different ways adults can gain the skills they need to get the job they want, whatever their stage in life. This new website brings together different government endorsed skills policies to help people make an informed choice about the right option for them.
+We have also created a specific page on the National Careers Service course finder tool, which allows prospective learners to search locally available courses included in the Free Courses for Jobs offer. This makes it easier to find a course that is right for them.
+Use of the current financial support offer:
+The government appreciates the steps providers are already taking to ensure that information about the learner support offer reaches those adults who need it the most. We encourage providers to continue advertising the learner support offer as widely as possible and sharing best practice.
+24
+[Page #24]
+The government is committed to working with providers to ensure that the current learner support offer is advertised as effectively as possible. To do so, we have undertaken further research to ascertain how learners are made aware of the offer, and how this impacts on their decision or ability to start a course. This will help us to identify which mechanisms work particularly well and better understand where improvements can be made by working with providers.
+Financial support was also addressed in the recent consultation on proposed reforms to Further Education funding and accountability.27 We plan to consult on the next steps for these reforms in Spring 2022.
+In response to this consultation feedback, we will also review how the relevant information about both the Free Courses for Jobs offer and associated learner support offer is communicated on government websites (including gov.uk). We encourage providers to engage potential learners in their local areas through means which work for them.
+Use of the currently available non-financial flexibilities:
+The responses to the consultation indicate that there is significant support for non-financial flexibilities which can help to make studying on a level 3 qualification accessible to as many eligible adults as possible.
+Online learning gives many adults the flexibility to access new opportunities. However, we recognise that for some adults this method of delivery will not be suitable. The qualifications available through the offer are delivered in different ways, which can vary by provider. We continue to encourage providers to use their expertise and discretion to deliver qualifications in ways which suit the skills needs of adults in their local area.
+Many providers are already using non-financial flexibilities to deliver provision which meets the needs of adults in their local area, especially evening and weekend learning and flexible modes of delivery. However, we are aware that some non-financial flexibilities are more common than others, due to cost implications and complexity of implementation. We encourage prospective learners to get in contact with their local provider to understand what is available to them. The ways in which we encourage providers to deliver Skills Bootcamps in flexible ways which work for adults is covered on pages 41-42.
+Providers are vital to the delivery of the Free Courses for Jobs offer and we understand that some may be concerned about the financial implications of delivering non-financial flexibilities such as flexible modes of delivery, weekend and evening learning, and
+27 Department for Education, 2021: Reforms to further education (FE) funding and accountability.
+25
+[Page #25]
+flexible start dates. We have provided a funding uplift for each qualification delivered through the offer to support providers to deliver according to adults’ needs.
+Furthermore, in line with the commitment which we set out in the government response to the Review of post-16 qualifications at level 3 in England, we want to empower providers to ensure that the reformed qualifications funded in the future, as a result of the qualifications review, are delivered in ways which meet the needs of a variety of adults whilst remaining viable for providers.28
+We recognise the challenges of applying recognition of prior learning and experience consistently and robustly. Going forward, we will explore how to remove unnecessary barriers to recognition of prior learning, so that, where relevant, individuals’ prior experience can be counted in order to mitigate against the need to repeat learning. We also want to work with the sector and Awarding Organisations to tackle the administrative burden of applying this non-financial flexibility, to ensure that recognition of prior learning can be applied in a fit-for-purpose and proportionate way.
+More generally, we will continue to work with providers to understand how best to address any other barriers they might face to flexible delivery, to ensure that these non-financial flexibilities are widely available to learners.
+We will also consider how the wider funding and accountability reforms can support post-16 providers to reduce administrative burdens and deliver non-financial flexibilities as easily as possible.
+Employer Involvement
+In the Skills for Jobs White Paper, the Department for Education committed to further education reforms that put employers at the heart of post-16 skills, enabling people to get great jobs in areas our economy needs.29 Employers are more likely to support the Free Courses for Jobs offer, and promote the free level 3 qualifications to their employees if the offer aligns with their needs as an employer.
+To understand how the Free Courses for Jobs offer is currently working, this consultation sought insight on how different sectors and employers are already using the offer or are planning to make use of the offer. To ensure it continues to benefit employers, we also asked for views on how the offer could be adapted to better meet the needs of different
+29 Department for Education, 2021: Skills for jobs: lifelong learning for opportunity and growth.
+26
+[Page #26]
+employers. In doing so, we want to better understand how to encourage more employers to make use of these qualifications for adults to train or upskill their workers.
+Summary of responses received
+There was broad agreement across responses to the consultation that the free level 3 qualifications available through the Free Courses for Jobs offer can be used by employers to train new staff and/or upskill current employees into new roles or skilled positions. By and large, responses to the consultation agreed that the offer could help employers to respond to a changing labour market through workforce development.
+In general, respondents highlighted the cross-sectoral benefits of the Free Courses for Jobs offer. Meeting skills needs in digital, leadership, and management were identified most frequently as potential employer uses for the offer.
+Whilst there was broad agreement across responses that the Free Courses for Jobs offer could benefit multiple sectors, some respondents identified sectors for which there are currently no available free level 3 qualifications through the offer. Respondents suggested that greater employer involvement in the qualification selection could help to boost engagement.
+Conversely, some providers also suggested that there were industries and sectors for which gaining a level 3 qualification might not be the best route into employment - despite the current availability of a free level 3 qualification in the subject-area. Some sectors require practical experience to fill vacancies and a lack of relevant experience might therefore be a barrier to securing new employment regardless of an adult’s relevant level 3 qualification.
+Some provider and employer respondents suggested that the Free Courses for Jobs offer could be more responsive to the skills needs of different sectors if employers and representative bodies had a greater role in shaping the content delivered. It was also suggested that greater employer involvement in the design of courses would mean that employers are then better placed to support the needs of an employee on a course – for example, by facilitating learning and providing adequate time off for study.
+Respondents indicated that employers can be confused about how these qualifications compare with other government-endorsed offers or training, such as T Levels, Higher Technical Qualifications (HTQs), and Apprenticeships. These responses emphasised how employers require clarity and understanding on how best to develop their workforce before they can encourage employees to undertake training.
+Some respondents suggested that employers might not be aware of the skills needs of their organisation, nor of the labour market more generally. It was also indicated that some employers might not understand the value of building people management capability. In these responses it was suggested that employers could benefit from
+27
+[Page #27]
+specific support in carrying out strategic workforce planning, identifying current and emerging skills needs, and assessing which training is best suited to their needs.
+For the most part, respondents recognised the value of the Free Courses for Jobs offer but suggested that there is a need to build greater employer awareness and engagement by providing clear information about the offers. Suggestions for boosting employer awareness include: promoting evidence and case studies which emphasise positive impact; a national marketing campaign to boost public awareness; suggestions to consider financial incentives for employers to encourage their employees to take up this offer.
+Government response
+The qualifications available through the Free Courses for Jobs offer have been identified for their strong wage outcomes and ability to address strategic skills priorities. Mayoral Combined Authorities, the Greater London Authority, and Awarding Organisations can suggest qualifications to be included in the Free Courses for Jobs offer. So that the qualifications available continue to reflect the skills needs of the economy, we encourage AOs and MCAs to work closely with local employers in making any suggestions.
+In addition, the introduction of employer-led Local Skills Improvement Plans (LSIPs) will help shape technical skills provision so that it better meets local labour market needs. More detail on how LSIPs will work with employers, education and training providers, and local stakeholders to do so can be found on page 57.
+The vocational and occupational qualifications available through the Free Courses for Jobs offer have been identified to support progression into employment. We expect that employers are meaningfully engaged by the Awarding Organisation as part of the qualification development process.
+Meeting critical skills needs in digital, leadership, and management were identified most frequently by respondents as potential employer uses for the Free Courses for Jobs offer going forward. There are over 400 qualifications available through the Free Courses for Jobs offer, including qualifications covering all of these identified areas.
+In July 2021 we published our response to the second stage of our review to post-16 qualifications at level 3 and below in England and set out the groups of qualifications that we will approve for funding alongside A levels and T Levels. These qualifications will need to meet our new quality and necessity criteria. In doing, the Government is
+28
+[Page #28]
+setting out its intention to raise the bar and ensure every publicly funded qualification is necessary, has a clear purpose, and offers good progression opportunities.30 31
+In addition to this, as set out in the first stage of our consultation process on reforms to the wider Further Education system, we will also aim to improve outcomes for students by encouraging providers to improve the mix and relevance of courses, to better match labour market needs and improve adults’ chances of getting a good job. 32
+As detailed in the Levelling Up the United Kingdom White Paper, ensuring that adults can access flexible support to train, retrain, and upskill throughout their lives is key to breaking the cycle of lower skills and lack of opportunity which affects some communities.33
+Employers can also, and already do, engage with local providers, awarding organisations, and mayoral combined authorities on what skills they require for their workforce development and which other qualifications could be included in the existing offer.
+In January 2022, we also launched our campaign on employer skills engagement, as part of the cross-government ‘Plan for Jobs’ and linked to the new ‘Skills for Life’ central campaign. This campaign helps to provide joined up messaging on skills to employers. It is our hope that it will encourage employers to ‘Join the Skills Revolution’, and take steps to upskill their workforce, drive better results, and retrain their staff through government funded training and employment schemes, such as those funded through the National Skills Fund. The main information page linked to the campaign is available at GOV.UK: Find training and employment schemes for your business (education.gov.uk).
+Pathways to free level 3 qualifications for adults
+The free qualifications available through the Free Courses for Jobs offer have been designed to support the country’s lowest-skilled adults to gain new skills and access opportunities which can help them to secure better jobs. To ensure that adults within these groups can access these courses, this consultation sought insight on the prior
+30 Department for Education, 2021: Review of post-16 qualifications at level 3 in England: Government consultation response. 31 Department for Education, 2021: Review of post-16 qualifications at level 3 in England: policy statement. 32 Department for Education, 2021: Reforms to further education (FE) funding and accountability. 33 Department for Levelling Up, Housing and Communities, 2022: Levelling Up the United Kingdom.
+29
+[Page #29]
+learning requirements for entry onto different level 3 qualifications. To make the offer as effective as possible, this consultation also requested views on how providers can best support adults to succeed through these courses, and how the Free Courses for Jobs offer can achieve the best impact for adults.
+Summary of responses received
+There was a broad consensus that individuals require prior learning at level 2 before progressing onto a level 3 qualification. In line with the feedback provided to the consultation subsection, ‘Accessibility (Section 1: Free level 3 qualifications for adults)’, many responses reiterated the view that undertaking study on a level 3 course can be a particular challenge for adults with limited or no relevant prior educational experience.
+In cases where an adult lacks the prior skills needed to complete a level 3 qualification, respondents across all groups suggested that a preparatory course could help to support and enable pathways to the free level 3 qualifications for adults. Respondents said that training and support at these lower levels will also help to enhance an adult’s success on a level 3 course.
+Where employers were asked whether there are any requirements for learners looking to achieve a level 3 qualification in an area that supports their sector, English, maths, and digital skills were most commonly identified as the key skills needed for employment.
+Respondents across all groups frequently advocated for targeted support from providers – for example, in the form of a mentor or tutor. Respondents suggested that both academic and tailored pastoral support can be important in supporting adults without a level 3 to overcome some of the specific barriers raised in the consultation subsection, ‘Accessibility (Section 1: Free level 3 qualifications for adults)’ covered on pages 18-28.
+Respondents suggested that case-studies and success stories illustrating the potential opportunities available after completion of a level 3 qualification might help boost uptake of the offer by those adults who need it the most.
+Where respondents suggested ways to maximise the impact of the Free Courses for Jobs offer, most proposed measures focused on improving government messaging. Respondents suggested clearer information is needed on how the offer can work for individuals. Respondents recognised that a lack of clarity on how the offer works for individuals can limit the impact of the offer. Across responses, it was maintained that adults need to easily understand how to access the offer, and whether they are eligible. They also need to know what support is available and how this might aid them in their specific personal circumstances. Respondents reiterated how this is a particularly pertinent issue for those adults who have no prior qualifications, are in employment, having caring responsibilities, have a disability, or are claiming unemployment benefits.
+Many respondents also stressed the need for a clear and coherent structure across post-16 skills offers. In particular, it was suggested that clear pathways to potential
+30
+[Page #30]
+employment, in which the skills acquired by individuals can be matched to the skills needs of employers, would help to boost engagement with the available offers.
+Government response
+The government is committed to ensuring that those adults who need it can access training to improve their job prospects and we recognise that many adults also lack the required skills in maths, English, or digital. As was set out in the Department for Education’s Skills for Jobs White Paper, most occupations require competence in English, maths, and digital. 34 However, research shows that 36% of the workforce do not have the essential digital skills needed for work, and 15% of adults’ literacy skills are no better than that of an average 11-year-old.35 For numeracy skills this number is even higher, at 49%.
+The Government recognises that we need to address this so that employers get the competent staff they need, and so that adults have access to better opportunities and jobs. To do so, the Government provides full funding for learners who do not have a GCSE grade 4/C or equivalent in English and/or maths to undertake a range of courses in GCSEs, Functional Skills and other relevant qualifications from entry level to level 2.
+To aid those adults with low digital skills, in August 2020, we also introduced a legal entitlement for adults with low digital skills to study for free on new basic digital skills qualifications, putting digital skills on par with English and maths. Alongside this digital entitlement, our reforms will provide students with high-quality qualifications based on new employer supported national standards, which equip them with the full range of essential digital skills for life, work, and further study. These include:
+• Essential Digital Skills Qualifications (EDSQs) which were introduced from
+August 2020 are a new type of qualification designed to meet the diverse needs of adults with no or low digital skills.
+• New Digital Functional Skills qualifications, which will be available for teaching from August 2023, have standardised content and assessment and will provide a benchmark of digital skills for employers.
+We also support English for Speakers of Other Languages (ESOL) courses as part of our wider effort to improve adult literacy in England. Funding is available through the
+34 Department for Education, 2021: Skills for jobs: lifelong learning for opportunity and growth. 35 Department for Business Innovation and Skills, 2012: The 2011 Skills for Life Survey: A Survey of Literacy, Numeracy, and ICT Levels in England.
+31
+[Page #31]
+AEB for courses at up to level 2. We provide full or part-funding for ESOL courses for eligible adults depending on their employment status and income levels.
+In addition to this, the Government has also announced funding for Multiply; a new programme of up to £559 million which will help adults to improve their basic numeracy skills through free digital training, flexible courses, and online tutoring. Launching in 2022, the Multiply programme will be in addition to the England-wide statutory entitlement for numeracy and will give adults who don’t have at least a GCSE grade 4/C or equivalent in maths, access to free new flexible courses to improve their numeracy skills. This will include a new digital platform with bitesize training and online tutorials, as well as flexible courses. Multiply will be a UK-wide ‘end to end’ offer which will help people build their confidence, remove barriers to learning, and be delivered in a way that meets the needs of learners and employers. Information on this provision can be found at GOV.UK: Everything you need to know about the new Multiply programme - The Education Hub (blog.gov.uk).
+We will continue to work with the sector to identify best practice and to understand how best to raise awareness about how learners can be best supported to access level 3 qualifications available through the Free Courses for Jobs offer. There are already a number of providers implementing innovative measures to boost participation amongst eligible adults who require extra support to access level 3 provision. One such example of where a provider is doing their best to support learners is provided in the case study below.
+Case study: Weston College of Further and Higher Education, 2022.
+“At Weston College, we deliver a variety of Level 3 qualifications which are available through the Free Courses for Jobs offer. We want to ensure each prospective learner finds the right programme, at the right level for them, with the right support in place. From the start of the prospective learner’s journey, we therefore provide in-depth advice and guidance and work with them to make sure they are ready for the programme.
+At Weston College we look at pathways to help learners get ready for a Free Courses for Jobs qualification. For learners who are not yet ready to access a Level 3 qualification, we have courses at Level 2 to prepare them to access higher level training. For example, we put on a short booster Level 2 bookkeeping course to prepare learners for the Level 3 Diploma in Accountancy, and a Level 2 Counselling course to prepare learners for study in that subject at Level 3.
+Through our induction process we also provide a package of learning for those who haven’t been in education for a long period of time. These bespoke virtual resources, developed in-house, are accessible 24/7 and focus on delivering learner specific digital skills and higher-level study skills to support their transition into study. Providing
+32
+[Page #32]
+learners with the correct support is crucial to delivering high-quality adult provision, so we conduct an in-depth classroom initial needs assessment. Many adults may not be aware of the level of support they are able to access and so it is important to make them aware of the bespoke learning support packages we have available at Weston College.
+It is important to ensure that adult learners are treated no differently to, for example 16–19-year-old learners, and that all the building blocks of support are in place to allow them to progress and ultimately thrive in their chosen programme of study.”
+33
+[Page #33]
+Section 2: Skills Bootcamps
+Skills Bootcamps are an innovative new offer of flexible courses up to 16 weeks long which are free to eligible adult learners. They provide adults with in-demand skills and then fast-track them to an interview with an employer – supporting adults to move into well-paid jobs and helping employers to fill much-needed vacancies. Skills Bootcamps fill a crucial gap in skills provision for both employers and individuals, providing short, technical courses that are aimed specifically at meeting the needs of adults and the labour market.
+Expansion of the Skills Bootcamps
+Skills Bootcamps are designed to support local regions and employers to fill in-demand vacancies. Since their launch in September 2020, we have delivered more than 300 different Skills Bootcamps supporting thousands of adults to gain digital and technical skills.
+As we expand the Skills Bootcamp offer across the country, we want to ensure that this provision continues to improve over time. To do so, this section of the consultation requested views on which aspects of the current provision are most valuable. The response to this consultation has also considered the results of the Skills Bootcamps Wave 1 Process Evaluation which was commissioned to commence in early 2021 and tracked the implementation of the Wave 1 Skills Bootcamps.36
+Summary of responses received
+In Question 29 we asked respondents to select which aspects of the Skills Bootcamps they think are most valuable. The number of responses to this question was 134 (71% of all consultation respondents). As is illustrated by Figure 3, all aspects of the Skills Bootcamp model were deemed valuable, with ‘industry-specific training designed to meet the needs of employers’ being the most frequently selected valuable aspect.
+36 Government Social Research, 2021: Skills Bootcamps process evaluation (publishing.service.gov.uk)
+34
+[Page #34]
+Q29. Which current aspects of the Skills Bootcamps do you think are most valuable? (multicode)
+Base: 134
+100%
+90%
+83%
+80%
+73%
+71%
+70%
+69%
+65%
+70%
+61%
+60%
+53%
+50%
+40%
+30%
+20%
+10%
+0%
+Fast-track to aninterview
+Emphasis onImprovingdiversity intechnical skills
+Flexible deliverymodel
+Line of sight toa job
+Short, intensivecourses
+Focus on in-demand skills
+Recruitmentpipeline foremployers
+Industry-specifictraining,designed tomeet the needsof employers
+Figure 3: Responses submitted to Question 29
+Respondents to this question also provided additional comments:
+• Reiterating the value of the line of sight to a job. To appeal to learners,
+respondents emphasised the need for Skills Bootcamps to provide a realistic expectation of securing sustained employment.
+• Reiterating the value of employer and sector involvement in the design, development, and delivery of Skills Bootcamps to ensure efficacy.
+• Questioning how the fast-track to an interview would work for those who are self-employed, as well as for those employers who want to use a Skills Bootcamp to upskill a current employee.
+• Suggesting areas of improvement including the need to increase sectoral and geographic coverage and availability of Skills Bootcamps across the country.
+Government response
+At the 2021 Autumn Budget, the Chancellor announced £1.6 billion investment in the National Skills Fund over the years 2022-25, including an investment of up to £550 million to significantly expand Skills Bootcamps. This will give adults across the country opportunities to train, retrain, and progress into employment through intensive programmes shaped by employers. This investment will mean many more adults will
+35
+[Page #35]
+gain the skills they need to access work in a range of priority sectors, responding to the needs of the economy.
+We know that there is evidence of demand for skills across the country that could be supplied through Skills Bootcamps. With the increased investment, we will be better able to address local and national labour market skills needs and ensure more availability across all areas of the country, in a greater number of subject areas. We will continue to work with Mayoral Combined Authorities, the Greater London Authority, and local public bodies to achieve this.
+Skills Bootcamps are employer-led initiatives, designed to respond to the needs of the labour market. For example, to help address the shortage of HGV drivers across the country, in November, the government introduced a new Skills Bootcamp in HGV driving. This new Skills Bootcamp will provide more opportunities for people to train as drivers, gain their licences and launch new careers in this priority sector.
+A clear line of sight to a job is a key component of the Skills Bootcamps offer and we know this is important for learners. For many this means a guaranteed interview/s for a role in an occupation or skill area relevant to the course they are undertaking, where they are looking to move into a new job. For these participants, some of the funding to suppliers is contingent on completion of training, which includes an interview/s. For those who are self-employed or taking a Skills Bootcamp with their existing employer, a guaranteed interview might not be the best option. Instead, support is provided to give the individual the best chance of accessing new contracts and self-employment opportunities, and progression with their existing employer respectively.
+We recently published process evaluation finding for the trailblazer phase of Skills Bootcamps delivery from September 2020 to March 2021. This showed that 79% of people were satisfied with the training they received, with more than half the people completing a Skills Bootcamps reporting that they moved into a new job, an apprenticeship or progressed with their existing employer or for those that were self-employed, increased access to contracting and self- employment opportunities. This is a really positive start, and we expect to see the proportion of people reporting a positive outcome within 6 months of completing a Skills Bootcamps increase over time.
+To help suppliers improve their Skills Bootcamps, a new Quality Assurance and Improvement team will be responsible for quality assuring the delivery of the offer. To help achieve this aim, the team will be visiting providers of Skills Bootcamps (both virtually and in-person) to assess this provision, the outcomes, and the quality of education against the Ofsted framework for skills.
+Providers
+Providers are obviously essential to the successful delivery of Skills Bootcamps. As we expand this provision, we want to ensure that a range of providers can deliver these
+36
+[Page #36]
+courses. To do so, this consultation asked providers for their views on the challenges to delivering Skills Bootcamps and on how we might best overcome these.
+Summary of responses received
+Respondents raised the difficulty of getting sufficient employer participation as a key barrier to providers delivering Skills Bootcamps, and some providers drew attention to the difficulty of finding employers who are willing to commit to interviewing those who complete a Skills Bootcamp.
+For some providers, recruiting learners to take part in Skills Bootcamps can also be a challenge. Here it was suggested that the time commitment to undertake a Skills Bootcamp might dissuade some adults from participating – particularly those adults with other time commitments, or those receiving Universal Credit.
+Some providers suggested that clearer messaging about what a Skills Bootcamp entails, who the target audience is for this provision, and the benefit of this training for adults and employers, would help to strengthen learner and employer participation and engagement with the offer.
+Some responses outlined the potential difficulty which smaller providers might experience at procurement. In these responses it was suggested that those providers who deliver on a smaller scale might be less likely to have the prior experience to write high-quality bids and therefore win at procurement.
+Government response
+Skills Bootcamps are employer-led initiatives that provide direct line of sight to employment. Employer engagement is essential to their success. We will continue to expect all providers to draw on employer links to ensure that Skills Bootcamps deliver relevant skills that employers need and value. Our procurement processes ask providers for evidence of employer input and commitment.
+More detail on how we will continue to engage employers in the development of Skills Bootcamps is covered in further detail on page 45-46.
+We continue to encourage providers to grow their employer networks to better understand the skills that employers need to fill their vacancies. We will engage local areas to ensure that local employer skills needs are considered in full when planning future Skills Bootcamps. We strongly encourage employers and providers to connect with their local authority skills leads and get involved in shaping these plans.
+The Department for Education will also take steps to build awareness and recognition of the Skills Bootcamp model by engaging with sectors and employer representatives at both national and local levels. As detailed on page 31, the campaign launched in January 2022 will encourage employers to ‘Join the Skills Revolution’, and take steps
+37
+[Page #37]
+to upskill their workforce, drive better results, and retrain their staff through government funded training and employment schemes, such as Skills Bootcamps.
+Since the publication of the consultation, we have taken several steps to support providers to submit high quality tenders at our procurement process. For instance, we held market engagement events prior to issuing the Invitation to Tender to assist potential applicants with the tender process. We also provided supporting guidance, including questions and answers. This was made available to all applicants. We will continue to review our procurement processes to ensure they meet the needs of all Skills Bootcamp providers.
+It is important that providers can demonstrate how they plan to deliver high-quality Skills Bootcamps which achieve the best outcomes for adults. We have listened to feedback following our national procurement in 2021 to make it as easy as possible for potential suppliers to understand what is expected of them as part of the bid process. For example, we now request supporting evidence from employers and suggest suppliers use case studies to demonstrate best practice.
+We are committed to working with providers to support adult learners (who have different needs). This is covered in more detail on pages 40-42 [subsection on ‘Accessibility, Skills Bootcamps’].
+Accessibility
+Any adult aged 19 and over, who is employed, self-employed, or recently unemployed (under 12 months) is eligible to apply for a Skills Bootcamp. Some Skills Bootcamps also have additional eligibility criteria, which is dependent on the course difficulty and sector area. Skills Bootcamps can last up to 16 weeks when undertaken on a full-time basis, although adults can take longer to complete the course if they pursue the training part-time.
+We are already taking steps to ensure that as many eligible adults as possible can access this provision. For example, the flexible and shorter format of Skills Bootcamps has been designed to address some of the barriers adults face to learning. Likewise, the fast-track to an interview provides a clear sense of how the training links to job opportunities. User-research indicates that this can make adults more motivated to undertake training.37
+37 Department for Education, 2019: National Retraining Scheme: key findings paper.
+38
+[Page #38]
+As we continue to expand Skills Bootcamp provision, we will do so in a way that continues to be inclusive and accessible, so that as wide a range of eligible adults as possible can use a Skills Bootcamp to gain new skills or update their existing skills. To do so, this section of the consultation requested views on accessibility and sought insight on whether the length of the course fits the needs of adults, employers, and providers.
+Summary of responses received
+Many respondents felt that Skills Bootcamp provision should be flexible and tailored to specific learner needs. Some local authorities proposed that this could be done by working with relevant networks to have some Skills Bootcamps targeted at different groups of people, and then delivering this provision in a way which meets their needs.
+In response to Question 35, ‘Do you think Skills Bootcamps courses should continue to be a maximum of 16-weeks long?’ 43% of respondents stated ‘yes’, 33% answered ‘no’, and the remaining 24% stated that they ‘do not know or prefer not to say’. The number of responses to this question was 127 (68% of all consultation respondents).
+Providers, in particular, felt that the current length of Skills Bootcamps should continue, but many made suggestions for some further flexibility around the 16-week timeframe.
+Whilst most respondents agreed that Skills Bootcamps should continue to be a maximum of 16-weeks long, of the 33% who disagreed, many expressed a preference for shorter courses. Whilst it was suggested that a shorter, more intensive course could help learners to be more immediately ready for employment, respondents recognised that the training would still need to ensure that learners develop sufficient skills.
+The significant time and capacity commitment of a 16-week Skills Bootcamp was a recurring reason for answering ‘no’ to Question 35; with many respondents expressing concern that the duration of this study could deter adults with other competing priorities such as work and childcare from taking up the offer. Similarly, some individuals and providers doubted whether many employers would be willing to support staff to train on a 16-week Skills Bootcamp.
+Respondents provided mixed suggestions when asked, in Question 36, what the minimum length of time a Skills Bootcamp should be; with answers ranging from 2-weeks to 24-weeks. Most responses suggested that whilst the minimum length might vary, the courses should be long enough to ensure learners can develop sufficient skills for employment.
+Government response
+The Skills Bootcamps model is flexible; by design it allows providers to adapt the delivery of Skills Bootcamps to suit the varied needs of adults and employers. So that Skills Bootcamps are open to a range of prospective learners (e.g., recently unemployed, self-employed, and currently employed), we ask potential suppliers to
+39
+[Page #39]
+demonstrate how they will adapt delivery to suit these differing needs during our procurement process. Courses should also be accessible to learners and adjustments to delivery must be made as appropriate for those learners who could suffer disadvantage or discrimination because of a protected characteristic (as defined by the Equality Act 2010).
+Providers are already tailoring this provision to attract a wide cohort of adult learners. For example, some providers offer online learning, deliver courses at a variety of times including weekends and evenings, host regular drop-in sessions so that adults can learn at their own speed but access support when they need to, or record session content for viewing at a time that suits the learner.
+In line with the responses submitted to Question 35, we will continue to allow Skills Bootcamps of differing lengths up to a maximum of 16-weeks long in the next wave of delivery. This flexibility means courses last long enough to provide the skills needed by employers for in-demand jobs but are short enough to work for as many adults as possible. We will continue to review this flexibility in future delivery.
+In our procurement for Skills Bootcamps in 2022, we have recommended that providers should offer a minimum of 60 guided learning hours in all subject areas. This is recommended so that every Skills Bootcamp is substantive enough to support a learner to progress onto a career in their chosen sector, with a base level of knowledge and understanding. This is in keeping with the theme of responses provided in answer to Question 36. We will keep this recommendation under review.
+Providers can also choose to allow adults to undertake a Skills Bootcamp on a part-time basis. The variation in the length of Skills Bootcamp provision, and the additional possibility for part-time delivery in some subjects, means that adults have the option to choose a Skills Bootcamp which best suits their needs and interests.
+Under the current rules, participants in receipt of Universal Credit can undertake study on a Skills Bootcamp lasting up to 16 weeks and continue to receive Universal Credit. This flexibility has been extended until April 2023.
+Despite the flexible nature of this provision, we recognise that a Skills Bootcamp might not be the right fit for all adults. The government is committed to ensuring that, no matter an adult’s circumstances, there is a flexible, high-quality technical education route that works for them. Skills Bootcamps are one of several opportunities available for adults to get the skills they need to get ahead in work. Adults wishing to train or retrain can also access impartial advice and guidance on the many options available to them through the National Careers Service.
+40
+[Page #40]
+Employer Involvement
+In line with the commitment set out in the Department’s Skills for Jobs White Paper, we want to ensure that the skills system meets the needs of employers, as well as adults.38 Skills Bootcamps have been designed with the needs of employers in mind and they can be used both to upskill existing employees to meet changing workforce needs, as well as to hire new staff to fill vacancies. We ask employers to pay a contribution towards the course fees where they are using this provision to train up an existing employee.39 This is to reflect the benefit that employers will receive from the training, through having access to employees with improved and in-demand skills.
+Summary of responses received
+Many organisations suggested that employers need to understand the clear return on their investment before contributing to the design of a Skills Bootcamp and/or supporting (and paying for) an employee to undertake this training.
+Some respondents said that employers also need help identifying skills needs and suggested that there is a need for clearer government communication and messaging on the sector-specific skills needs of the labour market, how they might impact different employers, and how Skills Bootcamps are providing skills in these areas.
+In terms of making the mechanism for contributing as easy as possible, employers frequently suggested that greater flexibility in how the apprenticeship levy can be spent would help to boost their engagement with and willingness to contribute to Skills Bootcamps provision. Providers raised the concern that some employers might be unwilling to contribute to training on a Skills Bootcamp whilst they are managing unspent apprenticeship levy funds.
+Question 39 asked respondents to select which non-financial contributions they thought it would be valuable for employers to make. The number of responses to this question was 108 (57% of all consultation respondents). Most respondents judged all (or nearly all) of those listed to be valuable [Figure 4]; with the most frequently selected non-financial contribution selected being ‘giving workers time to learn’. These responses frequently linked the value of this non-financial contribution to helping adults already in employment to overcome the challenges they might face committing to undertake a Skills Bootcamp.
+38 Department for Education, 2021: Skills for Jobs: Lifelong learning for opportunity and growth. 39 We do not ask employers to contribute towards the cost of a Skills Bootcamp for those who are not currently their workers.
+41
+[Page #41]
+Q39. Please select the non-financial contributions that you think it would be most valuable for employers to make (multicode)
+Base: 108
+100%
+90%
+90%
+81%
+81%
+80%
+80%
+70%
+60%
+50%
+40%
+25%
+30%
+20%
+10%
+0%
+Any other additional non-financial contributions
+Giving their workers timeto learn
+Providing technicalequipment for learning
+Providing space fortraining
+Helping delivery oftraining - e.g., providingsome learning materialsor teaching part of thecourse content
+Figure 4: Responses submitted to Question 39
+Most respondents highlighted the need for government to consider the financial implications of all the proposed non-financial contributions.
+Some respondents expressed concern about the potentially uneven impact that both financial and non-financial contributions could have on SMEs. Respondents noted the differing financial viability of making contributions for smaller versus larger employers.
+Question 40 asked employers, ‘Would you be willing to make a non-financial contribution to training’. The number of responses to this question was only 28 (15% of all consultation respondents).40 Of those that did submit an answer to this Question, 68% (19) stated ‘yes’, whilst 4% (1) answered ‘no’, and 29% (8) stated that they ‘do not know and/or prefer not to say’. Of those employers who stated that they would be willing to make non-financial contributions, most recognised the benefits to investing in workforce development.
+Many respondents identified employer support and engagement as a crucial factor to ensuring adult participation and success on the course.
+40 Please note only a small number of respondents submitted an answer to this question. The results of this poll may therefore not be representative.
+42
+[Page #42]
+Government response
+Employer participation in Skills Bootcamps is essential to ensuring that adults who undertake this training have direct line of sight to a job. We are encouraged by early evaluation results which show that over 350 employers were involved in wave 1 of the programme, and 76% were SMEs.41
+We also know that employer support more generally motivates adults to undertake training, as they feel it is endorsed by their employer. We are committed to continuing to engage with employers individually and within sectors to share the successes and benefits of the programme and encourage them to get involved to upskill and reskill their existing workforce and to recruit new staff.
+Skills Bootcamps can be used by employers to fill much needed vacancies and to retrain and upskill current employees to meet the changing needs of the labour market. We ask employers to contribute 30% to the course fee when using a Skills Bootcamp to train a current employee to reflect the benefit that the employer will receive from the training, through having employees with improved and valuable skills. In the Employer Skills Survey 2019, 90% of employers who arranged or funded vocational training for their employees reported that this led to better business performance.42
+In response to feedback gained through this consultation and subsequent market engagement activity, in our Wave 3 delivery we are currently testing a smaller employer contribution for small and medium sized enterprises (SMEs) of 10%. We want this to encourage greater SME involvement with Skills Bootcamps. We will be reviewing the success of this measure through our subsequent evaluation process. We only ask employers to contribute towards the cost of a Skills Bootcamp for their own employees. We do not ask employers to contribute towards training for other participants.
+More information on how we are supporting employers to understand their skills needs and to prepare for the labour market of the future can be found in 'Section 3: Meeting critical skills needs’ on pages 50-58.
+The Apprenticeship Levy was created to support the uptake and delivery of high-quality apprenticeships and we have no plans to allow employers to use it for other skills programmes. The levy is set at a level to fund employer demand and its introduction has enabled the government to grow apprenticeships funding to £2.7 billion by 2024-
+41Department for Education, 2021: Skills Bootcamps process evaluation of wave 1.; Government Social Research, 2021: Skills Bootcamps process evaluation (publishing.service.gov.uk) 42 Department for Education, 2020: Employer skills survey 2019: UK (excluding Scotland) findings - GOV.UK (www.gov.uk.)
+43
+[Page #43]
+2025. To support employers in getting full value from their levy funds we are making apprenticeships more flexible and have made it easier for employers to transfer their unused funds to support apprenticeships in other businesses. We are also making it easier for people to progress from Skills Bootcamps into apprenticeships.
+Pathways leading on from Skills Bootcamps
+As set out in the Department for Education’s Skills for Jobs White Paper, we want to ensure employers are at the heart of post-16 skills, and that technical skills provision meets local labour market needs. In line with this commitment, the Department for Education is taking steps to align a substantial majority of post-16 technical education and training to employer-led standards, managed by the Institute for Apprenticeships and Technical Education.
+As we develop and expand the Skills Bootcamp offer in the future, it is important that the knowledge and skills acquired by participation on a Skills Bootcamp, can then be used to move onto better employment, training, or learning. To do so, this section of the consultation sought insight on how Skills Bootcamps can fit within longer progression pathways and tested respondent’s appetite for this.
+Summary of responses received
+Question 43 asked respondents: ‘What further learning do you think a Skills Bootcamp should enable adults to progress onto?’. The number of responses to this question was 124 (66% of all consultation respondents). Responses indicate that most respondents think a Skills Bootcamp should allow for progression onto further training and/or learning. As illustrated by Figure 5, there was no overarching agreement across responses on what this further training and/or learning should be. Instead, most respondents selected several, or all, of the options presented; with many respondents suggesting additional training in further comments to this question.
+44
+[Page #44]
+Q43. What further learning do you think a Skills Bootcamp should enable adults to progress onto? (multicode)
+Base: 124
+100%
+90%
+87%
+85%
+90%
+80%
+70%
+60%
+50%
+40%
+34%
+30%
+20%
+11%
+10%
+0%
+No further learning
+Job-based training inthe workplace
+An apprenticeship
+A higher technicalqualification
+Other further trainingand/or learningopportunities notlisted.
+Figure 5: Responses submitted to Question 43
+Some respondents questioned how a progression pathway could work when Skills Bootcamps are non-accredited and expressed concern that this type of training might not be recognised by employers or through ‘recognition of prior learning’.
+Many employers expressed the need to support individuals following completion of a Skills Bootcamp course to ensure the best outcomes for adults. It was noted that this could particularly benefit those adults who are not successful at the interview after completion of a Skills Bootcamp.
+Respondents also reiterated the value of information and guidance on progression pathways and suggested that providers should offer additional support to help learners understand their options upon completion of a Skills Bootcamp.
+Some respondents suggested that ongoing support for the employer would be beneficial in ensuring that the individual is well supported by their line manager and engaged in continuous development after completion of a Skills Bootcamp.
+More generally, responses suggested that clearer information from the government on progression pathways would help adults and employers to understand how Skills Bootcamps provision align with other government-funded offers.
+45
+[Page #45]
+Government response
+To support adults to move into new jobs, roles, or opportunities, we expect Skills Bootcamps providers to offer a “wrapround service” of learner support at the application stage, during, and after completing a Skills Bootcamp. Examples of this service include: soft skills (or work readiness) training to support the occupational skills training, vacancy/role/opportunity identification, providing pastoral services to help participants complete the programme, high-quality advice and guidance to support the learner into a positive employment outcome (for example, CV writing support, mock interviews), and follow-up services to participants and employers to support job placement.
+Early market engagement indicates that there is strong appetite for Skills Bootcamps which lead onto further training and/or learning. Feedback received to this consultation, has also shown that one of the most valuable aspects of the Skills Bootcamps model is the direct line of sight to a job. This is backed up by feedback we have received from individuals that have completed a Skills Bootcamp. We are committed to ensuring Skills Bootcamps continue to support learners into new and improved employment opportunities following their training.
+The feedback we received through this consultation also suggests that there is appetite for Skills Bootcamps which lead onto further training and/or learning. Considering this, we are testing a Pathway to Accelerated Apprenticeship model in delivery from this year. This model is designed to support learners to progress to an accelerated apprenticeship at either the same or higher level (through alignment to occupational standards managed by the Institute for Apprenticeships and Technical Education). This model can be offered in any of the Skills Bootcamp sector skills areas. We know there is already potential for some Skills Bootcamps to provide a good platform for progression onto an accelerated apprenticeship. We think this provides an opportunity to drive additional apprenticeship starts, give learners a good understanding of the occupation prior to joining an apprenticeship, provide learners with a starting point closer to occupational competence and help ensure that Skills Bootcamps are coherent with the wider skills landscape.
+As a formal qualification is not a requirement of this provision, Skills Bootcamps can instead be aligned to industry standard knowledge and skills. This alignment is more flexible than a formal qualification and means that this provision can stay relevant and adapt to the skills needs of the labour market. Employers have welcomed the flexibility of Skills Bootcamps.
+As we expand this provision, we will continue to keep the provision under review to ensure that it is of a high-quality and provides adults with the skills needed by the labour market to support them into better jobs.
+Beyond the National Skills Fund, there is further work being developed on progression pathways. The Institute for Apprenticeships and Technical Education (IFATE) are
+46
+[Page #46]
+developing their occupational maps to show the opportunities for career development across levels and between sectors, including in apprenticeships and technical qualifications. This redevelopment will allow users to identify progression pathways to support their career development. The new functions of the maps will also make it easier for employers to identify training opportunities and potential skills gaps. The redeveloped maps are due to be published towards the end of 2022.
+You can find out more information, advice and guidance on the options available at GOV.UK: Advice and Guidance - Skills for Life (campaign.gov.uk).
+47
+[Page #47]
+Section 3: Meeting critical skills needs
+The government recognises the substantial challenges which the country has faced as it has dealt with restrictions brought about by the impact of the coronavirus (COVID-19) pandemic. We now have the opportunity, not just to recover, but to build back better; fixing some of the shortcomings that have held our country back for too long so that our people, businesses, and the economy can flourish. As part of our drive towards growth, we want to explore where there may be priority skill needs we could do more to meet, so that we can help adults improve their job prospects, and help businesses to access the skills they need to thrive.
+Critical Skills
+In the Skills for Jobs White Paper the Government committed to reform Further Education to better support people to get the skills they need to increase productivity, support growth industries, and improve job opportunities across the country. The Net Zero strategy, published in October 2021, further committed to taking action to ensure the right skills are in place to deliver a green industrial revolution.43
+The offers funded through National Skills Fund have been designed to address gaps in technical skills provision and are targeted at adults looking to upskill or reskill. Since this investment began, these offers have made good headway in our ambition to ensure that adults can gain the valuable skills that employers require throughout their lifetime, and to drive up employment and skills in priority sectors to help meet the current and emerging skills needs of the labour market.
+Summary of responses
+Respondents identified skills gaps in a number of subject areas and/or sectors with the most frequently identified being: HGV driving, construction, digital (including coding and AI), skills related to hospitality and catering, advanced manufacturing, STEM, engineering, and cyber security, sustainability, green technologies, and other skills related to net-zero.44
+43 Department for Business, Energy, and Industrial Strategy, 2021: Net Zero Strategy: Build Back Greener. 44 Please note that this list is not inclusive of all skills gaps raised by respondents but representative of the most frequently given answers; as set out in the ‘Methodology’ section of this response.
+48
+[Page #48]
+As well as subject area or sector-specific skills gaps, many respondents also identified transferrable skills needs. Examples given in consultation responses include: management, leadership, administration, marketing, English, Maths, digital, and other more general skills which were understood to increase employability.
+Many responses stressed the impact of the Covid-19 pandemic on acute skills shortages. Respondents recognised that the pandemic has increased the need for digital skills across a wide range of sectors and subject areas.
+100 respondents submitted an answer to Question 47b and identified what level these skills gaps are at (53% of all consultation respondents). These respondents most frequently identified skills gaps across levels 2-5 [Figure 6]; with Level 3 being the most common skills need identified by employers, providers, and representative bodies, and Level 2 selected most frequently by local authorities and bodies.
+Q47b. What level are these skills gaps at? (multicode)
+Base: 100
+100%
+90%
+80%
+70%
+70%
+62%
+62%
+60%
+55%
+50%
+37%
+40%
+30%
+20%
+9%
+10%
+0%
+Level 1
+Level 2
+Level 3
+Level 4
+Level 5
+Don'tknow/Prefer notto say
+Figure 6: Responses submitted to question 47b
+When asked to identify their skills needs, respondents most frequently identified current needs but stressed that these needs would likely only increase in the future, particularly in the context of net-zero and emerging technological advances. Many respondents noted that such future priorities will require specific skill sets. They also recognised that many job opportunities will be created both through the UK’s aim to reach Net Zero by 2050 and by digitalisation.
+Some respondents suggested that clear government guidance on emerging and future skills needs, including predictions on which sectors are most likely to grow, would help employers to prepare their workforce and future-proof their business models.
+49
+[Page #49]
+However, some respondents also recognised the speed at which the skills landscape is evolving in response to new and emerging technologies. Respondents here suggested that the pace of technological change could make predicting the skills needs of the future with any reasonable certainty particularly difficult.
+In either case, respondents frequently stressed the need for skills provision which is employer-led and linked to sector-based needs and/or an overarching skills strategy. These responses suggest would help to ensure skills provision matches labour market needs.
+Respondents provided a variety of suggestions and thoughts on why the skills system does not currently meet the identified skills gaps. Where some respondents highlighted the lack of information and guidance on training opportunities, others identified a societal focus on academic levels and qualifications as problems contributing to a recognised ‘missing middle’ of skills at levels 4 to 5.
+In a similar vein, some respondents argued that a lack of funding and support for the skills system over time has contributed to acute skills shortages, whilst others recognised the need for a wider behaviour change driving more support for lifelong learning across, including among government, employers, providers, and individuals.
+Several respondents also raised the lag between identifying skills needs and then developing and delivering provision as a problem which can prevent the skills systems from responding to emerging skills needs in a timely manner.
+Government response
+As detailed in the Levelling Up the United Kingdom White Paper, ensuring that adults can access flexible support to train, retrain, and upskill throughout their lives is key to breaking the cycle of lower skills and lack of opportunity which affects some communities.45
+Skills Bootcamps and the free level 3 qualifications which are available through our Free Courses for Jobs offer play an important part in responding to priority skills needs across the country, and we are proud to offer provision in almost all the subject areas where respondents identified skills needs. We encourage employers, adults, and other interested organisations and individuals to find out more about these offers, and how they can help to provide skills and opportunities on GOV.UK: Free courses for jobs - GOV.UK (www.gov.uk).
+45 Department for Levelling Up, Housing and Communities, 2022: Levelling Up the United Kingdom.
+50
+[Page #50]
+Sector-based Work Academy Programmes, which are run by the Department for Work and Pensions, also help employers with immediate and future employment needs by helping to upskill benefit claimants to fill job vacancies. Job centre work coaches play a key role in supporting claimants through work-focused discussions around qualifications, training, and transferrable skills. The aim is to determine potential skills gaps in relation to job goals, what the labour market is seeking and how to improve employment prospects.
+As detailed in our introduction to this document (page 13-15), we have now announced the significant expansion of our Skills Bootcamps, as well as the expanding of eligibility to our Free Courses for Jobs. Both of these targeted measures will help to support businesses to find or develop talented people of all ages to fill skills gaps such as those highlighted in responses to the consultation. In doing so, the National Skills Fund is also supporting the economic recovery from the impact of the Covid-19 pandemic and contributing to the Government’s ambition to build back better.46
+As well as sector-specific skills, we also recognise the importance of the broad transferrable skills identified by respondents to this consultation in helping adults to access new opportunities and boost their employability. Some of the measures we have already taken to support adults in gaining these skills include:
+As part of our procurement process, we ask potential Skills Bootcamp suppliers to indicate how they will support adults to gain these ‘softer’, employability skills, ahead of any future employment following completion of the course.
+Any adult in England who is either earning under the National Living Wage annually (£18,525) or who is unemployed, will also be able to access level 3 qualifications for free through the Free Courses for Jobs offer, regardless of their prior qualification level. Some of these courses provide more transferrable or widely applicable skills, such as in digital subject areas. More information on the courses available through this offer can be found at GOV.UK: List of free level 3 qualifications available to eligible adults - GOV.UK (www.gov.uk).
+In line with many of the responses to this consultation, the Government recognises that we have a skills system that has historically been effective at producing graduates, but less suited to helping people achieve good quality higher technical skills. In the Skills for Jobs White Paper we set out our aim to boost provision at higher technical levels. These reforms will strengthen our skills system and encourage study at these levels;
+46 HM Treasury, 2021: Build Back Better: Our plan for growth.
+51
+[Page #51]
+creating more opportunities for learners so that they can choose the right pathway for them, helping them meet their potential, and delivering the skills the economy needs.47
+Provision funded through the National Skills Fund is designed to address gaps at these levels; with Skills Bootcamps available in a variety of subject areas. There are also a range of wider skills offers available, which are helping to respond to the skills needs at levels 2-5 highlighted by respondents.
+The government is already reforming the level 4 and 5 market in order to reverse the generational decline in higher technical education and to make it a more popular and prestigious choice that provides the skills employers need. This includes the introduction of the new Higher Technical Qualifications (HTQs), which are new existing level 4 and 5 qualifications that have been approved by the Institute (IFATE) to indicate their alignment to employer-led occupational standards. The first 30 approved digital Higher Technical Qualifications will be available for first teaching in September 2022, and we aim to roll out HTQs across all technical routes by 2025. More information can be found at GOV.UK: Higher technical qualifications (HTQs) - GOV.UK (www.gov.uk).
+Apprenticeships are also available at multiple levels, including at levels 2-5, and there are hundreds to choose from; some of which include a qualification. More information on apprenticeships can be found at gov.uk: Further education and skills: Apprenticeships - detailed information - GOV.UK (www.gov.uk).
+The Government also recognises the importance of skills below level 3 and, in particular, the importance of basic skills in English, maths and digital to be able to fully access both work and everyday life. We know that a solid foundation in these skills can be essential to succeeding in future learning or training.
+• This is why we are continuing to support participation in English, maths, and digital training to meet employers’ needs and support people to progress in employment and further study.
+• We provide full funding for learners who need English and maths skills to
+undertake a range of courses in GCSEs, Functional Skills and other relevant qualifications from entry level to level 2. Adults with low digital skills are fully funded to undertake Essential Digital Skills qualifications up to level 1.
+•
+In addition to this, the Government has also announced funding for Multiply; a new up to £559 million programme which will help adults to improve their basic
+47 Department for Education, 2021: Skills for Jobs: lifelong learning for opportunity and growth.
+52
+[Page #52]
+numeracy skills through free digital training, flexible courses, and tutoring. More detail on this provision can be found at page 34.
+• Our consultation on reforms of post-16 qualifications at level 2 and below will
+explore how we can improve qualifications at these levels, and make sure that every student has a clear progression route.48
+Whilst many of the skills needs identified by respondents are current, we know that the needs of the labour market are changing as a result of technological advances, globalisation, the government’s environmental aims and the changes outlined in our Net Zero Strategy.49 50 To help address this:
+• Skills bootcamps have been developed in priority sector areas where higher
+level skills are needed, and their focus is shaped by the market. For example, in recognition of the skills which will be needed to transition to the green economy we have already begun to roll out Green Skills Bootcamps: available in areas such as housing retrofit, solar, nuclear energy, and vehicle electrification.
+• Additionally, as set out in ‘Section 1: Free level 3 qualifications for adults’ , the qualifications which are available through the Free Courses for Jobs offer have been identified for their ability to address strategic skills priorities, as well as their strong wage outcomes. The offer currently includes qualifications linked to in-demand skills gaps, as well as sectors where we expect skills needs to grow – such as those skills needed for meeting the government’s environmental aims and the net zero transition. Eligible adults can choose from qualifications in digital and healthcare, as well as in green sectors such as Agriculture, Building and Construction, Engineering, Environmental Conservation, Horticulture and Forestry and Science.
+• The Emerging Skills Programme is helping to upskill employees in the skills needed to introduce emerging technologies into their businesses. It funds employers, providers, and centres of innovation to work together to forecast the skills needed to exploit cutting-edge technologies, develop new learning to meet future need, and free training for teaching workforce and employees in these new skills.
+48 Department for Education, 2022: Review of post-16 qualifications at level 2 and below 49 Department for Education, 2019: Post-18 review of education and funding: Independent panel report. 50. Department for Business, Energy and Industrial Strategy, 2021: Net Zero Strategy: Build Back Greener.
+53
+[Page #53]
+The Government is also taking active steps to improve our understanding of the current and future skills needs of the economy and ensuring that our skills reforms support them. For example:
+• The evidence collated by the Green Jobs Taskforce has helped the Department to develop an improved understanding of skills needs across the green economy and has helped inform policy decisions such as the second wave of Skills Bootcamps delivery and the qualifications included in the Free Courses for Jobs offer. This sets the foundation for our contribution to the Net Zero Strategy, wherein we set out how our skills reforms will strengthen the links between employers and providers, support workers in high carbon sectors with the transition, and help to build a pipeline of future talent.
+• The Green Jobs Delivery Group will be the central forum through which
+government, industry, and other key stakeholders work together to ensure that the United Kingdom has the workforce to deliver both net zero and the government’s environmental goals.
+• Through the Construction Skills Delivery Group, the department is working with
+other government departments and with industry to improve skills support for the construction sector. This work contributes to ‘Project Speed’, a cross-Whitehall taskforce to accelerate, improve and reduce the costs of developing, designing, and delivering vital economic and social infrastructure projects.
+• The Department will contribute to cross-government strategies for other vital
+sectors of the economy. This includes contributing to the Digital Strategy led by the Department for Digital, Culture, Media and Sport, the Cyber Strategy led by Cabinet Office, and the Social Care White Paper led by the Department of Health and Social Care. 5152 53
+• As announced in the Levelling Up the United Kingdom White Paper in February 2022, the Department for Education is setting up a new Unit for Future Skills which will work with the Department for Business, Energy and Industrial Strategy and the Department for Work and Pensions to bring together the skills data and information held across Government, and enable its use across central and local government, as well as by providers and the general public. 54 The Unit will
+51 The Digital Strategy is due to be published by the Department of Digital, Culture, Media and Sport in 2022. 52 Cabinet Office, 2021: National Cyber Strategy 2022. 53 Department of Health and Social care, 2021: People at the Heart of Care: adult social care reform white paper. 54 Department for Levelling up, Housing and Communities, 2022: Levelling up the United Kingdom.
+54
+[Page #54]
+produce information on local skills demand, future skills needs of business, the skills available in an area, and the pathways between training and good jobs.
+• The Skills and Productivity Board has also been conducting research and
+analysis into skills mismatches and the relationship between skills, productivity, and place and will publish its findings in Spring 2022. The work and expertise of the Skills and Productivity Board has completed its reports on the three questions set by the previous Secretary of State. The Board’s work will be subsumed into the Unit, and it will be wound down.
+In keeping with the responses we received to this consultation, it is important that any evidence we gather on skills needs is well communicated, so that employers, providers, and local areas can prepare and plan for the future. This will not only help to ensure that people can access quality jobs and progress in work without having to leave their communities, but also help to increase productivity and the resilience of the labour market more generally. We will continue to work with our stakeholders at both local and national levels to ensure that this important information is communicated clearly and promptly.
+Local Skills Improvement Plans (LSIPs) will help with this by providing a clear articulation of current and future employer skills needs in specific local areas. These plans will set out the key changes needed to make technical education and training provision more responsive to the changing skills needs of employers and the local economy. This will help to ensure provision is better aligned with the skills employers most need to thrive and boost productivity – ultimately helping individuals to gain valuable skills, get good jobs, and progress in their careers.
+We are currently Trailblazing LSIPs in eight areas before we roll out this new employer-led approach to local skills planning across England. Alongside these Trailblazers, we are legislating to put LSIPs on a statutory footing as part of the Skills and Post-16 Education Bill. Evidence from the Trailblazers will inform statutory guidance and plans for wider rollout.
+In addition, the foresighting process developed through the Emerging Skills Programme is supporting employers to work with centres of innovation and providers to identify emerging skills needs in their sectors. Starting with what’s known about emerging technologies and how they will transform working practices, it will provide recommendations about which and how occupational standards should be updated, and what new provision needs to be developed.
+We acknowledge respondents’ concern that there can be a lag between identifying skills needs, and then developing and delivering provision. There is often a necessary lead-in time to develop new high-quality provision and to support providers to put in place delivery plans, particularly for longer courses. This is particularly important
+55
+[Page #55]
+because, as well as meeting skills needs, we want to ensure that we are supporting the development of high-quality provision which leads to good outcomes for adults.
+We continue to consider how to balance the needs for both a responsive and high-quality skills system which leads to good outcomes for both adults and employers. Our Further Education funding and accountability reforms will help providers focus on meeting local and national skills needs. Providers will have more flexibility in how they use their funding to meet these objectives; allowing them to innovate and operate in the way they believe best, supported by a funding system that focuses on high value provision.
+Some respondents highlighted a focus on academic qualifications, and a lack of funding for technical and vocational skills training. The measures already set out evidence the Government’s commitment to investing in a strong and responsive further education system which is equipped to deliver the skills which the labour market needs, including those below degree level. For example:
+• The Skills Bootcamps and Free Courses for Jobs offers already available have made good headway on this ambition and we are already seeing adults gaining valuable skills in areas with acute skills shortages.
+• The Government’s commitment to improve England’s further education system is encapsulated by the proposed reforms to the further education funding and accountability system which were consulted on in 2021.55 These reforms will be further developed in 2022.
+• As we have detailed on page 26, raising awareness of the opportunities for
+upskilling and retraining through further education and ensuring that the user-journey is simple and consistent across all government skills offers is a key priority for the Department for Education.
+Short Courses
+We recognise that, for some adults, the time pressures and commitment required by much of the current regulated training provision can remain a barrier to undertaking learning or training. Considering this, in this section of the consultation we explored whether there is a need for shorter courses or modules in technical skills. To ascertain how shorter courses or modules might help to address skills shortages, we also
+55 Department for Education, 2021: Reforms to further education (FE) funding and accountability.
+56
+[Page #56]
+requested views on areas, sectors, or occupations which might particularly benefit from greater access to shorter courses or modules. Finally, to ensure that the government is reforming our Further Education system as effectively as possible, this consultation sought input from respondents on any additional gaps in adult skills provision below degree level which might benefit from targeted government support.
+Summary of responses
+Responses to this section of the consultation highlighted the demand for and value of shorter courses. In Question 53, we asked employers ‘Do you have any skills needs that you think might be met by a short course or module outside of a full qualification?’. 37 (20%) of 188 respondents submitted an answer to this question; of which 73% stated that they have skills needs that might be met by a short course or module outside of a full qualification.56
+Respondents frequently identified skills in Digital, IT, and net zero or green technologies as subject areas which could be accessed through short courses. Respondents suggested that short courses in these subject areas could help to guarantee that provision is responsive to the evolving nature of skills needs in areas with fast-paced technological advances.
+Respondents also suggested that short courses or modules could help to meet the identified skills gaps in broad transferrable skills, such as digital competency.
+Employers highlighted how full qualifications are often not required in cases where an individual might need to upskill in a new technology or skill. In these cases, it was recognised that short courses which enhance existing skills or provide a quick upskilling opportunity can be a better fit. It was emphasised that short courses can help adults to quickly move into employment which requires these skills. It was stressed that this can be valuable for both employers and adults.
+Employers also identified specific sectors which could particularly benefit from access to short courses or modules. Sector-specific health and safety courses in areas such as health and social care were often identified as training which could be delivered through a short course or modular format.
+Whilst, in main, employers expressed support for short courses, there was an expectation that the course should be effective in providing the necessary skills and knowledge for competency in the subject area. By and large, it was agreed that courses
+56 Please note only a small number of respondents submitted an answer to this question. The results of this poll may therefore not be representative.
+57
+[Page #57]
+should provide value for money and have clear outcome measurements in place to guarantee quality.
+In some cases, respondents suggested that for many adults, short courses are more accessible than modular provision. Despite this, respondents recognised that for those adults wishing to undertake a full qualification, a modular format can help with accessibility as provision can then fit in around other commitments and learning can be paced and accumulated over time.
+To better understand current delivery of short courses, questions 51 and 52 asked providers and employers whether and what types of short courses outside of full qualifications they deliver, and fund. 84% of providers who responded here stated that they are currently delivering short courses (under 12 months) or modules outside of full qualifications, and 68% of employers stated that they have funded a short course (under 12 months) or modules outside of full qualifications.
+Responses we received to this question suggest that providers are already delivering a wide range of short courses in sector specific areas, as well as in basic skills such as English, maths and, digital. Providers most frequently stated that where they do deliver short courses or modules this is as a result of demand, whether from employers or students. Responses suggest that this provision is being delivered at all levels, with provision at level 2 being the most frequently identified.
+Responses also suggest that providers currently deliver short courses through a variety of means. Examples given include via online platforms, through short ‘bite-size’ courses, through partnerships with other independent providers, as well as through the Adult Education Budget. Many of the providers who responded to this question stated that they designed these courses with employers in mind, so that they are responsive to the labour market. Employers also noted that they fund courses across a range of disciplines to meet individual skills development plans and business performance needs.
+Government response
+Responses to the consultation provided helpful insights on how providers and employers are already using shorter and modular provision to meet the needs of both learners and employers. In line with the responses submitted to this consultation, we recognise that the provision of shorter courses or modules can help some adults to overcome barriers to learning.
+As part of the review of Post-16 qualifications at level 3 and below, we have said that to support adults to access qualifications, technical qualifications should be able to be taught in a modular way and relevant prior learning and experience should be recognised. We recognise that providers will play an important part in delivering these principles and delivering qualifications which meet the needs of adults, and we will work with them so that they are empowered to do so in a way that is viable for them.
+58
+[Page #58]
+We have designed the offers funded through the National Skills Fund with the needs of adults in mind, and there are courses available at a variety of lengths. For example, many of the free level 3 qualifications which are available through the Free Courses for Jobs offer can be delivered flexibly, in ways which meet the needs of different adults. The measures we are taking to respond to any unnecessary barriers to using or delivering these non-financial flexibilities are outlined on pages 27-28. Shorter qualifications are also available through the Free Courses for Jobs offer and there remain options for undertaking this training flexibly – in ways which work for adults in different circumstances.
+Similarly, our Skills Bootcamps fill a gap in provision which is flexible, shorter, and responsive to the needs of the labour market. The steps we are taking to ensure that this provision is as accessible as possible are outlined in this document on pages 41-42.
+We recognise that, for some adults, the offers available through the National Skills Fund might not be the right fit. We encourage individuals to access the impartial advice and guidance on the many options available to adults wishing to train or retrain through the National Careers Service.
+A key component of the proposed reforms set out in the Skills for Jobs White Paper will also be the Lifelong Loan Entitlement (LLE). The LLE will be introduced from 2025 and will provide individuals with a loan entitlement to the equivalent of four years of post-18 education to use over their lifetime. Under this flexible skills system, people will be able to space out their studies and learn at a pace that is right for them, including choosing to build up their qualifications over time, with both further and higher education providers. They will have a real choice in how and when they study to acquire new life-changing skills, through increased modular study and provision of high-quality technical education (at levels 4 and 5). The detail and scope of the LLE is open for consultation in Spring 22 as part of our planned pathway to delivery from 2025.57
+Ahead of delivery of the Lifetime Loan Entitlement, we are introducing a Higher Education Short Course trial. The trial will test short courses in preparation for the launch of the LLE from 2025, allowing students to study and build up the skills they need more flexibly. 115 courses will be delivered from September 2022 at levels 4-6 in subjects such as STEM, healthcare, education, net zero, and digital innovation. You can find out more information about the trial at the Office for Students website: Higher education short course trial - Office for Students.
+57 Department for Education, 2022: Lifelong Loan Entitlement.
+59
+[Page #59]
+60
+[Page #60]
+Annex A: List of Consultation Questions
+Introduction: The National Skills Fund
+Heading
+Question
+Introduction: The National Skills Fund
+Q1. What is your name?
+Introduction: The National Skills Fund
+Q2. What is your email address?
+Introduction: The National Skills Fund
+Q3. Are you responding as an individual or as part of an organisation?
+Introduction: The National Skills Fund
+Q4. If you are responding as an individual, how would you describe yourself?
+Introduction: The National Skills Fund
+Q5. If you are responding as part of an organisation, how would you describe yourself?
+Introduction: The National Skills Fund
+Q6. What is the name of the organisation you are responding as part of?
+Introduction: The National Skills Fund
+Q7. Which local authority area are you responding from?
+Introduction: The National Skills Fund
+Q8. Do you consent to the data you provide being held in accordance with UK GDPR as covered in the Department for Education’s personal information charter?
+Introduction: The National Skills Fund
+Q9. Would you like us to keep your responses confidential?
+Section 1: Free level 3 qualifications for adults
+Heading
+Question
+Accessibility (Section 1: Free level 3 qualifications for adults)
+Q10. What do you think will be the key barriers to adults taking up the free level 3 qualifications?
+Accessibility (Section 1: Free level 3 qualifications
+Q11. This is a question for providers:
+61
+[Page #61]
+for adults)
+a. How do you currently advertise your learner support
+offer?
+b. To what extent does the current learner support offer enable you to address the financial barriers which could stop adults participating or continuing in learning?
+c. Which financial barriers do you find it hardest to
+address and what is the reason for this?
+Please provide examples and/or evidence for your response.
+Accessibility (Section 1: Free level 3 qualifications for adults)
+Q12. How easy is it for adults to find out whether they are eligible for the current learner support offer?
+a. Really easy b. Easy c. Neutral d. Difficult e. Really difficult
+Please provide an explanation for your answer.
+Accessibility (Section 1: Free level 3 qualifications for adults)
+Q13. Are there any other ways through which it would be useful to publicise learner support?
+Please set out what these other ways are and explain why they might be useful.
+Accessibility (Section 1: Free level 3 qualifications for adults)
+Q14. How do you think that government can support providers to deliver best practice in communicating and providing the current financial support for adults?
+Please explain your answer and, where possible, provide evidence for your response.
+Accessibility (Section 1: Free level 3 qualifications for adults)
+Q15. For the non-financial flexibilities below, please select which you think are valuable:
+• Flexible start dates • Breaks in learning • Flexible modes of delivery • Weekend and evening learning • Recognition of prior learning • Other which is not listed (please specify)
+62
+[Page #62]
+Accessibility (Section 1: Free level 3 qualifications for adults)
+Q16. Are there any barriers which might make it difficult to use or deliver the existing non-financial flexibilities?
+Please set out what these barriers are and, where possible, suggest ways that these barriers may be overcome.
+Accessibility (Section 1: Free level 3 qualifications for adults)
+Q17. This is a question for providers: What could encourage providers to deliver these non-financial flexibilities more often?
+Please set out which of these non-financial flexibilities your answer refers to (e.g., “all the non-financial flexibilities above” or “flexible start dates only”).
+Accessibility (Section 1: Free level 3 qualifications for adults)
+Q18. If you have any further comments or reflections on ‘Accessibility (Section 1: Free level free qualifications for adults)’ you can add them here.
+Employer Involvement (Section 1: Free level 3 qualifications for adults)
+Q19. Different sectors may use the offer in different ways, depending on their skills needs. How do you think different sectors might make use of the offer and why?
+If you are answering as an employer, you might want to talk about how your specific sector could use the offer.
+Employer Involvement (Section 1: Free level 3 qualifications for adults)
+Q20. How might we adapt the offer to better meet the needs of employers, including those from a range of different sectors, and a range of sizes?
+Where possible, please set out the proposed adaptation and which types of employers it would suit.
+Employer Involvement (Section 1: Free level 3 qualifications for adults)
+Q21. How else can we encourage employers to use the free level 3 qualifications for adults to train or upskill their workers?
+Please set out your suggestion and, where possible, provide a reason and/or evidence for your response.
+Employer Involvement (Section 1: Free level 3 qualifications for adults)
+Q22. If you have any further comments or reflections on ‘Employer Involvement (Section 1: Free level 3 qualifications for adults)’ you can add them here.
+Pathways to free level 3 qualifications for adults (Section 1: Free level 3
+Q23. This is a question for providers: What prior learning requirements (if any) do you have for someone taking a level 3 course?
+63
+[Page #63]
+qualifications for adults)
+Please set out the prior learning requirements and how those requirements differ between different courses and sectors (if at all).
+For example, you may require an adult to have gained the equivalent level 2 qualification before taking a level 3 course. Do the prior learning requirements differ depending on the sector at which the course is aimed?
+Pathways to free level 3 qualifications for adults: (Section 1: Free level 3 qualifications for adults)
+Q24. This is a question for employers: Are there any particular requirements for learners looking to achieve a level 3 qualification in an area that supports your sector?
+Please set out these requirements and, where possible, provide a reason and/or evidence for your response.
+Pathways to free level 3 qualifications for adults (Section 1: Free level 3 qualifications for adults)
+Q25. How else can providers best support adults without a level 3 to access the level 3 qualifications available through the Lifetime Skills Guarantee, given that they may lack some prior learning or experience?
+Please provide evidence and/or examples to illustrate your response.
+Pathways to free level 3 qualifications for adults (Section 1: Free level 3 qualifications for adults)
+Q26. How else can we achieve the best impact for adults with the most to gain from the free level 3 qualifications for adults, alongside funding the courses?
+Please provide a reason and/or evidence for your response.
+Pathways to free level 3 qualifications for adults (Section 1: Free level 3 qualifications for adults)
+Q27. If you have any further comments or reflections on ‘Pathways to free level 3 qualifications for adults (Section 1: Free level 3 qualifications for adults)’ you can add them here.
+Further comments (Section 1: Free level 3 qualifications for adults)
+Q28. If you have any further comments or reflections on ‘Section 1: Free level 3 qualifications for adults’, you can add them here.
+64
+[Page #64]
+Section 2: Skills Bootcamps
+Heading
+Question
+Expansion of Skills Bootcamps (Section 2: Skills Bootcamps)
+Q29. Which current aspects of the Skills Bootcamps do you think are most valuable? Select all that apply.
+• Short, intensive courses •
+Industry-specific training, designed to meet the needs of employers
+• Focused on in-demand skills • Fast-track to an interview • Line of sight to a job • Recruitment pipeline for employers • Flexible delivery model • Emphasis on improving diversity in technical
+skills.
+• Other – please specify
+Please explain the reason for your response.
+Expansion of Skills Bootcamps (Section 2: Skills Bootcamps)
+Q30. If you have any further comments or reflections on ‘Expansion of Skills Bootcamps (Section 2: Skills Bootcamps)’ you can add them here.
+Providers (Section 2: Skills Bootcamps)
+Q31. This is a question for providers: What do you think are the challenges in delivering Skills Bootcamps?
+Where possible, please provide evidence for your response.
+Providers (Section 2: Skills Bootcamps)
+Q32. This is a question for providers: How best do you think we might help providers to overcome the challenges to delivering a Skills Bootcamp?
+Please refer to the challenge you have set out in answer to the previous question. Where possible, please provide evidence for your response.
+Providers (Section 2: Skills Bootcamps)
+Q33. If you have any further comments or reflections on ‘Providers (Section 2: Skills Bootcamps)’ you can add them here.
+Accessibility (Section 2: Skills Bootcamps)
+Q34. Skills Bootcamps currently run for up to 16 weeks. Other than the length of the courses, do you think we could adapt Skills Bootcamps in any other way to:
+65
+[Page #65]
+a. Support adults to access this training more
+easily?
+b. Support adults who are self-employed to
+access this training and use what they learn to benefit their business?
+c. Better meet the needs of employers, including those from a range of different sectors, and a range of sizes? Where possible, please detail the proposed adaptation and which types of employers it would suit.
+Please provide a reason and/or evidence for your responses.
+Q35. Skills Bootcamps are designed to give adult learners the skills they need to fast-track them to an interview for a specific job. Do you think Skills Bootcamps courses should continue to be a maximum of 16 weeks long?
+Accessibility (Section 2: Skills Bootcamps)
+Please explain and provide evidence for your answer.
+Accessibility (Section 2: Skills Bootcamps)
+Q36. What is the minimum length of time that you think a Skills Bootcamp course should be?
+Please provide evidence for your response.
+Providing evidence: If you are an adult learner, you might want to think about how much time you would be willing to commit to training through a Skills Bootcamp, including how many hours per week. If you are an employer or provider, you might want to give an example of a technical skills needed for a specific job and set out how many weeks it would take to learn that skill on a full-time basis.
+Accessibility (Section 2: Skills Bootcamps)
+Q37. If you have any further comments of reflections on Accessibility (Section 2: Skills Bootcamps) you can add them here.
+Employer Involvement (Section 2: Skills Bootcamps)
+Q38. This is a question for employers: We understand that how an employer is required to make this financial contribution could have an impact on them – for example whether employers are required to make an upfront payment before the start of the course.
+66
+[Page #66]
+Are there any ways that we could make the mechanism for contributing as easy as possible?
+Employer Involvement (Section 2: Skills Bootcamps)
+Q39. For all stakeholders, it may be valuable if employers could also make non-financial contributions to training. These non-financial contributions could be made by both those employers who are using a Skills Bootcamps to retrain their current workforce, in addition to the 30% contribution where they are using Skills Bootcamps to train existing employees, and by those who are not.
+Please select the non-financial contributions below that you think it would be most valuable for employers to make, and add any other contributions not listed that you think would also be valuable.
+• Providing space for training. • Providing technical equipment for learning. • Helping delivery of the training – e.g., providing some learning materials or teaching part of the course content.
+• Giving their workers time to learn. • Any other additional non-financial contributions
+not already listed that you think would be valuable. Please specify.
+Employer Involvement (Section 2: Skills Bootcamps)
+Q40. This is a question for employers: Would you be willing to make a non-financial contribution to training?
+Please explain your response.
+Employer Involvement (Section 2: Skills Bootcamps)
+Q41. How do you think that we can encourage more employers to make non-financial contributions?
+Where possible, please give examples and explain your answer.
+Employer Involvement (Section 2: Skills Bootcamps)
+Q42. If you have any further comments or reflections on ‘Employer Involvement (Section 2: Skills Bootcamps)’ you can add them here.
+Pathways leading on from Skills Bootcamps (Section 2: Skills Bootcamps)
+Q43. What further learning do you think a Skills Bootcamp should enable adults to progress onto?
+• No further learning. • Job-based training in the workplace.
+67
+[Page #67]
+• A higher technical qualification. • An apprenticeship. • Other further training and/or learning opportunities not
+already listed which you think a Skills Bootcamp should enable adults to progress onto. Please specify.
+Pathways leading on from Skills Bootcamps (Section 2: Skills Bootcamps)
+Q44. We welcome any further comments on how we can best enable progression from Skills Bootcamps onto further training and/or learning, such as apprenticeships or higher technical education.
+Pathways leading on from Skills Bootcamps (Section 2: Skills Bootcamps)
+Q45. If you have any further comments or reflections on ‘Pathways leading on from Skills Bootcamps (Section 2: Skills Bootcamps)’ you can add them here.
+Further comments (Section 2: Skills Bootcamps)
+Q46. If you have any further comments or reflections on ‘Section 2: Skills Bootcamps’ you can add them here.
+Section 3: Meeting critical skills needs
+Heading
+Question
+Critical Skills (Section 3: Meeting critical skills needs)
+Q47. Are there any current critical skills gaps below degree level and in particular sectors, occupations, or locations that you think the skills system will not meet, either now or in the next five years?
+For example, some sectors might have specific skills needs which have emerged since exiting the European Union, whereas other sectors might encounter skill needs in the future – for instance, because of new technologies linked to transitioning industries or our ambition to reach net zero by 2050.
+a. What are these skills gaps? Please set out what
+these skills gaps are and specify whether they apply to a particular sector, occupation, or location.
+b. What level are these skills gaps at? c. Is this a current skill gap, or something that you see emerging in the future? If in the future, please detail when you think this skill need is likely to arise.
+68
+[Page #68]
+d. Why do you think the skills system does not meet this
+skills gap?
+Critical Skills (Section 3: Meeting critical skills needs)
+Q48. If you have any further comments or reflections on ‘Critical Skills (Section 3: Meeting critical skills needs)’ you can add them here.
+Shorter Courses (Section 3: Meeting critical skills needs)
+Q49. Are there any particular sectors or occupations which would benefit from improved access to shorter courses?
+Please set out which sector or occupation and, where possible, provide a reason and/or evidence for your response.
+Shorter Courses (Section 3: Meeting critical skills needs)
+Q50. Could more options for shorter courses or more modular learning opportunities help adults to overcome barriers to learning?
+Please explain your answer and, where possible, provide evidence for your response.
+Shorter Courses (Section 3: Meeting critical skills needs)
+Q51. This is a question for providers: Are you currently delivering short courses (under 12 months) or modules outside of full qualifications?
+If you answered yes, please specify:
+a. What courses/modules you are delivering. b. What level these short courses/modules are. c. Why you chose to deliver these short courses or
+modules.
+d. How you designed these short courses or modules. For example, did you work with employers to do so?
+Shorter Courses (Section 3: Meeting critical skills needs)
+Q52. This is a question for employers: Have you funded short courses (under 12 months) or modules outside of full qualifications?
+If you answered yes, please specify:
+a. What short courses/modules you have funded,
+and why.
+b. Whether you worked with the provider on the
+design of any of these courses.
+69
+[Page #69]
+Shorter Courses (Section 3: Meeting critical skills needs)
+Q53. This is a question for employers: Do you have any skills needs that you think might be met by a short course or module outside of a full qualification?
+If you answered yes, please set out what these are.
+Shorter Courses (Section 3: Meeting critical skills needs)
+Q54. Considering the provision we have already made available through National Skills Fund investment, do you think there are any further gaps below degree level in adult skills provision which would benefit from targeted support?
+If you answered yes, please:
+a. b.
+Specify what these gaps are. Provide evidence for your answer, including evidence on the impact of this gap. Suggest ways that these gaps in provision might best be met.
+c.
+Shorter Courses (Section 3: Meeting critical skills needs)
+Q55. If you have any further comments or reflections on ‘Shorter Courses (Section 3: Meeting critical skills needs)’ you can add them here.
+Further comments (Section 3: Meeting critical skills needs)
+Q56. If you have any further comments or reflections on ‘Section 3: Meeting critical skills needs’ you can add them here.
+70
+[Page #70]
+Annex B: Profile of respondents
+Q3. Are you responding as an individual or as part of an organisation?
+(Base: 188)
+100.0%
+88%
+90.0%
+80.0%
+70.0%
+60.0%
+50.0%
+40.0%
+30.0%
+20.0%
+12%
+10.0%
+1%
+0.0%
+Individuals
+Organisations
+Other
+Figure 7: Breakdown of respondents; Individuals and Organisations
+Figure 7 provides a breakdown of respondents to the consultation. The chart includes those who submitted a response via the online survey, attended an online event for organisations, or submitted an email response from an identifiable organisation.
+71
+[Page #71]
+Q5: If you are responding as part of an organisation, how would you describe yourself?
+(Base: 117)
+100.0%
+90.0%
+80.0%
+70.0%
+60.0%
+50.0%
+40.0%
+26%
+30.0%
+23%
+22%
+17%
+20.0%
+11%
+10.0%
+0.0%
+Employer
+Provider
+Local authority orbody
+Representative body
+Other
+Figure 8: Breakdown of respondents who described themselves as an organisation in answers submitted via the online survey
+Question 5 asked respondents answering as part of an organisation how they would describe themselves. There were 117 responses submitted via the online survey to this question. Figure 8 provides a breakdown of these responses submitted via the online survey. We have not included a breakdown of those who submitted answers to the consultation either through attendance at an online consultation event or by email, as most respondents who submitted an answer through these means did not explicitly specify how they would describe themselves.
+72
+[Page #72]
+© Crown copyright 2022
+This document/publication (not including logos) is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+To view this licence:
+visit www.nationalarchives.gov.uk/doc/open-government-licence/version/3
+email psi@nationalarchives.gsi.gov.uk
+write to
+Information Policy Team, The National Archives, Kew, London, TW9 4DU
+About this publication:
+enquiries www.education.gov.uk/contactus
+download www.gov.uk/government/consultations
+Follow us on Twitter: @educationgovuk
+Like us on Facebook: facebook.com/educationgovuk
+73

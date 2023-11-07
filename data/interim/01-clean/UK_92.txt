@@ -1,0 +1,572 @@
+[Page #0]
+Opportunity lostHow inventive potential is squandered and what to do about it
+Madeleine Gabriel, Juliet Ollard and Nancy Wilkinson
+December 2018
+[Page #1]
+Acknowledgements
+We are very grateful to all the schemes that shared data with us: 3M Young Innovators Challenge, Apps for Good, the Big Bang Competition, Code Club, CREST, Faraday Challenge Days, Institute of Imagination, Little Inventors, Primary Engineer and Teentech. Our thanks also to all the consultees who took time to speak with us about this report. They are listed in the Appendix.
+Initial research for this report was carried out by AlphaPlus, and we would like to thank Hayley Limmer and Andrew Boyle for all their work in shaping this project. We have built on AlphaPlus’ research and any mistakes or omissions remain our own.
+At Nesta, we’d like to thank the following colleagues who have provided invaluable input and help at various stages in this project: Javahir Askari, Albert Bravo-Biosca, Luca Bonavita, Jonathan Bone, Kirsten Bound, Jed Cinnamon, Ella Duffy, Triin Edovald, Teo Firpo, Juliet Grant, Will Hoyles, Joysy John, Maddy Kavanagh, Geoff Mulgan, Hannah Owen, Alessandro Palmieri, Isaac Stanley and Steph Welstead.
+About Nesta
+Nesta is a global innovation foundation. We back new ideas to tackle the big challenges of our time.
+We use our knowledge, networks, funding and skills - working in partnership with others, including governments, businesses and charities. We are a UK charity but work all over the world, supported by a financial endowment.
+To find out more visit www.nesta.org.uk
+If you’d like this publication in an alternative format such as Braille, large print or audio, please contact us at: information@nesta.org.uk
+[Page #2]
+Opportunity lostHow inventive potential is squandered and what to do about it
+Madeleine Gabriel, Juliet Ollard and Nancy Wilkinson
+December 2018
+Contents
+Summary
+Introduction
+Why improving diversity in innovation means starting young
+What can we do to unleash inventive potential?
+Scale, spread and impact
+Understanding what works in promoting exposure to innovation
+20
+Recommendations
+Appendix
+Endnotes
+[Page #3]
+Summary
+Despite many well intentioned initiatives to improve diversity, innovation is still dominated by privileged white men. Exposure to innovation in childhood can shape the inventive potential of a population, and transform the prospects of the economy. Understanding how to do this well should be a priority for any government interested in a competitive and inclusive future economy.
+Innovation is a rarefied field. Over the last 15 years, just 7 per cent of the people who applied for patents in the UK were women. Just 15 per cent of UK scientists are from working-class backgrounds, even though these make up 35 per cent of the overall population. Almost half of British Nobel Prize winners in the last 25 years were privately educated.
+To become an innovator, knowledge and qualifications are important. But opportunities are also shaped by social networks, beliefs and values. These ideas and relationships start forming from an early age. Exposure to innovation in childhood makes a critical difference shaping inventive potential.
+What can be done to support innovators from an early age, and are we doing enough of it? We mapped schemes in the UK that promote invention to young people. We found that:
+• Schemes focused on getting children interested in inventing currently reach under 1.5 per
+cent of the UK’s school population.
+• Pupils in the South of England (including London) are twice as likely to have
+opportunities to take part in one of these schemes as those in the Midlands, and 1.6 times as likely as those in the North. However, Scotland does best - pupils there are 3.5 times as likely to take part as those in England. We found very few schemes operating in Northern Ireland or Wales.
+• Overall, schools with better-off pupil populations are more likely to take part in schemes that promote invention. We found that, for primary schools, participation in invention schemes is relatively even for more privileged and less privileged schools. But among secondary schools, those with less privileged pupil populations are considerably less likely to take part in invention schemes.
+• Schools with the most privileged pupil populations are six times as likely to reach the finals
+of invention competitions as schools with the most deprived pupil populations.
+reengnEyram
+i
+irP
+:tiderC
+An exhibition of students’ entries to the Scottish Engineering Leaders Awards, which asks “If you were an engineer, what would you do?”
+[Page #4]
+ezirPreropxEedutignoL
+l
+:tiderC
+Team AuxiCras from Thomas Deacon Academy made it to the final of the Longitude Explorer Prize 2017 with Panic+, wearable technology that allows students to notify teachers discreetly when they’re experiencing anxiety.
+The UK government directs a lot of effort towards optimising tax incentives for innovative firms - these are estimated to cost £4.45 billion a year. By contrast we seem to be massively under-investing in building a larger and more diverse pool of future innovators. We need to improve the reach, effectiveness and impact of interventions to provide exposure to innovation for young people. We argue that:
+1. All young people should have an opportunity to have at least one ‘hands-on’
+experience of innovation or invention during their time at school. The sector should be supported to experiment with different programmes and approaches to see what works, with a particular focus on reaching groups who are under-represented among innovators.
+2. Fostering a wider and more diverse pool of innovators must not fall between the cracks of education and innovation policy. There is a clear case for innovation policymakers to invest more in fostering innovators from an early age, not only supporting business innovation.
+3. Better coordination across providers is needed to create a more evidence-based,
+coherent and impactful offer for young people. A cross-sector coalition should be set up to promote exposure to innovation among young people.
+4. A strategy to increase diversity in innovation needs to focus on young people’s
+networks, not only their skills. Innovative businesses should be encouraged and enabled to build long-term relationships with schools.
+5. Government should invest in research and data on diversity in innovation and pathways into innovation. We need long-term evaluations and data to track pathways of innovators over time, so that we can better understand factors that affect whether people become inventors, and explore the impact of policies across systems. We also need better monitoring data to understand diversity among innovators.
+6. The school curriculum should support young people’s invention skills and promote
+exposure to innovation. Existing opportunities to build hands-on innovation activities into the curriculum - like Extended Project Qualifications and CREST awards - should be encouraged across more schools. Teachers need support from school leaders and external organisations to offer innovation activities for all students.
+[Page #5]
+ 1
+Introduction
+We’re so used to hearing about under-representation of women in science and business that the statistics are starting to lose their shock value. But the truth is, they are still abysmal. And it’s not just women who are missing.
+Innovation is a rarefied field. In the UK, among founders of innovative startups, men outnumber women 4:1.1 Over the last 15 years, just 7 per cent of the people who applied for patents in the UK were women.2 We know less about how the picture looks for people from low-income backgrounds, or ethnic minorities, because data is so limited. We do, however, know that just 15 per cent of UK scientists are from working-class backgrounds, even though these make up 35 per cent of the overall population.3 Almost half of British Nobel Prize winners in the last 25 years were privately educated.4
+Recent studies from the US, Finland and Sweden have explored these patterns in more depth using patent data. They find that parents’ income is strongly correlated with the probability of becoming an inventor. For example, children with parents in the top 1 per cent of the income distribution in the US are ten times as likely to register a patent as those with below-median income parents.5 The US research also finds that only 18 per cent of inventors are female, and that white children are three times as likely to become inventors as black children. The findings from Finland and Sweden put female participation at 10 per cent.6,7
+Why does this matter? One reason is that if a narrow group of people are responsible for generating new ideas and technologies, these may not meet the needs of the wider population. Given who’s most likely to be purchasing them, it’s somewhat reassuring that 55 per cent people who file patents for bras and corsets in the UK are women.8 It’s perhaps more concerning that only 6 per cent of patent applicants in the most popular sub-class, ‘electric digital data processing’, are female. These are everyday technologies, used in a wide range of products and services, but their inventors come from a very narrow section of society.
+Furthermore, it suggests we are missing out on a lot of talent. The US research paper mentioned above estimated that if under-represented groups’ potential was harnessed, the rate of innovation in America would quadruple. The research team coined the phrase ‘lost Einsteins’ to illustrate this point. And change isn’t happening quickly enough: at present rates, for example, it would take until 2080 to close the gender gap in patenting worldwide.9
+This is a social justice issue - all groups in society should have equal chance to take part in innovation and share the benefits of doing so. It is also an economic issue, given the importance of innovation to the economy.
+And it has interesting policy implications. Crucially, the ‘lost Einsteins’ researchers created an economic model to compare possible policy options to increase innovation. They found that intervening to create a more diverse pool of innovators is likely to be more effective in stimulating innovation than providing financial incentives, like tax cuts, or reducing barriers to entry (for example by changing recruitment practices).10
+[Page #6]
+ 2
+Why improving diversity in innovation means starting young
+Our narrow pool of inventors means we are missing out on a lot of talent. Evidence suggests that to grow and diversify this pool, we need to look upstream, giving children from all parts of society more ‘exposure to innovation’.
+What makes an inventor?
+With support from AlphaPlus, an educational consultancy, we carried out a literature review on factors that influence pathways to invention. Educational ability is clearly relevant: maths test scores in early childhood are strongly predictive of inventive activity in adulthood.11 Meanwhile, STEM knowledge is important for technological invention: individuals with technical, medical and natural science qualifications are more likely to file a patent.12
+There is also a range of skills and attributes associated with inventiveness. The US-based Lemelson Foundation, whose mission is “to support the next generation of inventors”, argues that young inventors need to “to think critically, and identify real-world problems and possible solutions” as well as being able “to turn ideas into solutions”.13 In a similar vein, earlier work by commissioned by Nesta identified five attributes that underpin innovative behaviour in young people: creativity, self-efficacy, energy, risk-propensity and leadership.14
+However, it’s not only personal characteristics that make a difference, but also factors in children’s environments. Inventors are likely to have had a better-than-average start in life: the ‘lost Einsteins’ study shows that children from families in the the top 20 per cent of the income distribution are much more likely to become inventors, while a study of Finnish inventors finds that parents’ education levels are a significant driver of children’s rates of invention.15 Family occupation plays a key role: children of inventors are nine times as likely to become inventors themselves as children whose parents are not inventors.16
+It also matters where you grow up. The ‘lost Einsteins’ study, for example, found that children from areas where there are more inventors are more likely to become inventors themselves. In fact, they find that ‘exposure to innovation’ in childhood influences not just whether individuals invent, but the type of inventions they come up with. Children who grow up in Silicon Valley are more likely to apply for patents in software as adults, even if they later move to another part of the country. Meanwhile, evidence from Sweden shows there are clusters of future inventors born in places that are close to prestigious academic institutions and have good support for entrepreneurs. The researchers suggest that ‘inventive cultures’ during childhood help form the career paths of Swedish inventors.17
+[Page #7]
+Schools and other learning environments also play a role in fostering future innovators, by helping children gain what could be loosely termed ‘practical knowledge’. This could be gained for example through exposure to scientific discoveries and technological breakthroughs, learning how to develop and execute innovation strategies and learning from other innovators.18
+Why are boys from privileged backgrounds more likely to become inventors?
+So how do we explain differences in likelihood to be an inventor between demographic groups? Disparities in educational attainment play a role. We know for examples that science attainment in the UK is significantly lower among disadvantaged socio-economic groups.19
+But attainment is only part of the story. Researchers at University College London have used the sociological concept of ‘capital’ to explore differences in attitudes to science and science careers among young people aged 10-19. ‘Social and cultural capital’ are resources that individuals can use to gain social advantage, such as social networks or qualifications that are seen as being ‘high status’.
+By tracking students’ attitudes and aspirations over time, the researchers identified eight key factors that affect likelihood of wanting to be a scientist. The researchers propose that these factors are specific forms of cultural and social capital, which they call ‘science capital’. Students with high levels of science capital are much more likely than others to consider becoming scientists.20
+Moreover, the researchers found systematic differences between groups in levels of science capital. Boys were much more likely to have high science capital than girls. There were significant differences between ethnic groups, with South Asian students having the highest levels. Pupils with high science capital were most likely to come from better-off households. Meanwhile, students with low science capital were more likely to be girls from lower-income backgrounds.
+What is science capital?
+Summarised as ‘what you know, what you think, what you do and who you know’, researchers at University College London have identified eight dimensions of science capital that help predict young people’s likelihood to consider science as a career. They are:
+• Scientific literacy
+• Participation in out-of-school science
+learning contexts
+• Science-related attitudes, values and
+dispositions
+• Family science skills, knowledge and
+qualifications
+• Knowledge about the transferability of
+science
+• Knowing people in science-related roles
+• Science media consumption
+• Talking about science in everyday life
+[Page #8]
+The more science capital a student has, the more likely they are to aspire to post-16 science and have a ‘science identity’. This can help explain why, for example, while girls in the UK are just as likely as boys to study chemistry and biology at A-level, there are far fewer girls studying physics and computer science - despite girls outperforming boys in nearly all subjects at GCSE.21
+These disparities in science capital are not necessarily down to different levels of interest in, or experience of, science. Those with low science capital might actually have considerable scientific knowledge - but of types that are rarely recognised or valued as such. The team at UCL give the example of pupils who like cooking, or whose parents are mechanics. These activities involve a lot of STEM expertise, but are not usually seen as being ‘scientific’.
+In fact, the way that science is often taught at school prioritizes academic language, which benefits children who are comfortable using it, and excludes or marginalizes others. It is those who can ‘do’ science in specific ways - those that are recognised by dominant scientific elites - who are more likely to be able to use their science capital to their advantage.
+One way, therefore, of thinking about how to create more diversity in innovation is that this involves helping those with low levels of relevant ‘capital’ to acquire more, as well as shifting societal attitudes and norms that means some people’s forms of capital are valued more than others’.
+We know there are many other things that need to be done to improve diversity in science and innovation. For example, the concept of the ‘leaky pipeline’ is well-established. This refers to the pattern - observed worldwide - which sees more women drop out of the STEM workforce at every step up the ladder of seniority. Barriers to progression include discrimination, a competitive culture, long working hours and difficulties in managing career advancement around having children.22 Research on why women’s rates of patenting are so low shows how important professional relationships and networks are in patenting - most patents are filed as group applications - and how women are often missing or excluded from these networks.23 However, there are compelling reasons to think that if we want to tackle diversity in innovation we also need to focus on what happens in childhood.
+noitangam
+i
+I
+foetutitsn
+I
+:tiderC
+Families get creative at the Institute of Imagination.
+[Page #9]
+ 3
+What can we do to unleash inventive potential?
+So what is being done to help young people become the innovators of the future? We found 29 schemes around the UK that aim to give children ‘exposure to innovation’.
+Mapping invention schemes
+We worked with AlphaPlus to map initiatives that aim to give children and young people ‘exposure to innovation’. We combined online searches, expert interviews and open calls on social media and through our networks, to try and find as much of this activity as possible.
+Drawing on what we had learned from the literature, we were interested in schemes that could help to build children’s ‘capital’ relating to innovation. We reasoned that this might include:
+1. Helping children to meet inventors (who you know)
+2. Building their skills and knowledge relating to invention (what you know)
+3. Changing perceptions about who can be an inventor (how you think)
+4. Helping children get practical experience of inventing (what you do)24
+A key challenge in finding relevant schemes was in deciding where to draw the boundaries between ‘invention’ and other related activities. We found a lot of interventions focusing on STEM (science, technology, engineering and maths), enterprise, and skills such as creativity or problem solving. All of these could help prepare young people to be innovators, because they all aim to develop skills, knowledge and competencies that are relevant to innovation. A strong knowledge base in STEM subjects, for example, is important for technological invention.
+However, as we argue in the previous section, academic literature on this subject points to the importance of very specific information and networks in shaping people’s likelihood to be an inventor. The ‘lost Einsteins’ study, for example, shows that growing up in an area where there is a concentration of patenting activity in a particular field makes people more likely to patent in exactly that field.
+[Page #10]
+For this study, therefore, we focused on schemes that have a ‘strong’ focus on exposure to innovation. We classified schemes in this way if they addressed at least one of the goals listed above and if invention was a central focus, rather than one of several possible objectives. Most of these schemes used the terms ‘invention’ or ‘innovation’ in the way they described their aims and activities. For this study, we focused on schemes involving direct interaction with individuals (i.e. those that were not simply marketing campaigns or products).
+We judged 29 schemes to have a ‘strong’ focus on exposure to innovation, meeting the criteria above. We reflect below on the schemes that met some, but not all, of our criteria - the wider landscape of provision that is relevant to, but not directly focused on, invention.
+The fact that these schemes are hard to identify also indicates to us that there is a need for more coordination and visibility for activity like this. We return to this point in our recommendations.
+What types of schemes did we find?
+We found that competitions are the most common type of scheme. Children usually work on ‘challenges’ as teams, supported by teachers, and can submit their entries to local, national or even international judging panels. For example, 3M Young Innovators Challenge offers students in Berkshire, Leicestershire and Nottinghamshire the opportunity to take part in challenges tailored to different age groups - primary school students, for instance, can take part in the Eco Tech Challenge, where they design and construct a functioning musical instrument made entirely from recycled materials. Nesta’s Longitude Explorer Prize has a different focus each year. Its most recent iteration tasked young people with developing innovative, practical solutions using the Internet of Things to improve health and wellbeing in the UK.
+Some competitions are open for children to enter directly, rather than running through schools. Equinor’s Young Imagineers, for example, is run in partnership with the Science Museum, and invites children to come up with an invention to ‘make tomorrow’s world a better place’. Children are asked to draw a sketch of their invention, along with a short description of what it does, with entries judged by a panel of leading inventors.
+We found some expert-designed projects and courses designed to complement the school curriculum. Fixperts projects challenge young people to research and develop solutions to problems they have identified, sketch out ideas, model prototypes and make a final product. Fixperts aims to integrate design & technology, engineering thinking and practical making skills and allows students to develop their creative skills through hands on model making whilst learning to improve their ideas through feedback. Apps for Good is a technology education programme in which students create mobile apps and IoT (internet of things) products that solve a social problem. It provides free courses for teachers to use as part of the curriculum, as enrichment, or as a club.
+One-day activities give children a ‘taster’ of invention. Examples include the Engineering Development Trust’s First Edition Days, during which children design, build and test a model, putting their STEM knowledge into practice on themes like renewable energy. Little Inventors takes a different approach, focusing on creativity and imagination. It gets children to come up with an idea and draw a picture of their invention - some of these ideas are later turned into real models and products by professional makers and artists.
+[Page #11]
+Outside of school, some clubs and holiday camps give children an opportunity to further develop their skills for invention. FixCamp, Fixperts’ summer camp, ran in London for the first time in 2018, focused on making. Institute of Imagination runs summer workshops covering design, electronics, mechanics and programming, also in London. MakerClub runs weekend and after-school sessions in innovation centres, colleges and community spaces in Brighton, Bournemouth, Birmingham, Norwich and London. It also sells ‘invention kits’ for children to use at home.
+Children can get access to role models and employers through schemes like In2Science, which helps children to meet people working in STEM roles and organises work experience. Younger children entering the Primary Engineer Leaders Award are encouraged to interview an engineer, and then submit an idea for a something an engineer could build to solve a problem. Apps for Good and Fixperts both convene networks of experts to support activity in schools. Schools delivering Apps for Good courses, for example, can book ‘expert sessions’ where industry experts dial into a classroom for an hour and talk with the students. In Northern Ireland, Generation Innovation - Reimagining Work Experience, piloted in 2018, gave 60 pupils from 32 schools the chance to work with innovative companies to “solve real business challenges using ‘design-thinking’ methods”. Several competitions involve awards days where shortlisted teams get to meet ‘real life’ inventors.
+Most schemes we found are aimed at children, but some also offer activities for families and communities. The Engineering Development Trust hosts Family Challenge events, which provide an opportunity for schools and companies to build and enhance relationships with young people and family members. Institute of Imagination runs one-day family workshops. SMASHfest is a community festival designed to widen participation and build diversity in STEM using the arts - it has run annually in south east London for four years, with the most recent edition attended by 4,000 people.
+Invention sits in a wider field of related activity
+Beyond our 29 ‘high-relevance’ schemes, we found more than 50 further interventions that met some, but not all, of our criteria. These included schemes that focus on teaching skills like coding or making, but did not have a strong emphasis on problem solving and creating something new. We did not include any enterprise programmes in our final list because in all of those we reviewed, innovation was a minor objective (they focused more on entrepreneurship, business skills and pitching). Since STEM competitions and challenges were such a common model, we searched for as many of these as we could find, and then rated them for their focus on invention. Where competitions revolved more around research projects, or building things like model cars to a predefined design, we left these out.
+However, it is clear that there is a wider field of activity that touches on invention, even if it is not a primary focus. In our recommendations, we argue that making invention a stronger part of these schemes could help significantly expand the opportunities available to children.
+[Page #12]
+For example, we found a wide range of activities to promote engagement, interest and attainment in STEM. Some give access to role models (e.g. STEM Ambassadors) while others encourage young people to apply STEM knowledge in practice (e.g. the Formula 1 in Schools STEM Challenge). Several organisations offer professional development for STEM teachers (e.g. Primary and Secondary Engineer’s CPD programme). Through the British Science Association CREST Awards, pupils can receive accreditation for their participation in practical STEM activities tailored for different age ranges.
+Some of these centre around increasing diversity in STEM. Stemettes, for example, runs public workshops and events, a mentoring scheme and school trips, focused on inspiring girls and young women into careers in STEM. The Science Capital Teaching Approach is a teaching resource that aims to help more—and more diverse—students engage with science, based on the science capital model. The Institute of Physics Whole School Equality Programme supports schools to make small changes across the curriculum and school environment, to try to make big changes in gender equality across all areas of school life.
+The Association of Science and Discovery Centres runs a network of over 60 centres across the UK, which receive more than 20 million visitors a year; half are estimated to be school-age children. The network, which includes the UK’s major science museums and learned societies, aims to inspire and engage local communities in science: several of the institutions have particular research interests (eg. the National Space Centre in Leicester, or the Centre of the Cell in London which focuses on biomedical research), and organise activities around these themes. Many deliver particular national programmes, developed centrally by the Association and then opened for bidding between centres.
+Nesta has previously mapped activities focusing on digital making, which help young people learn skills to be active users of digital technologies. These range from large-scale programmes like Code Club, now reaching over 100,000 children through after-school coding clubs, to more local initiatives like Curiosity Hub, based in Brighton and Hove, which runs one-day STEAM enrichment workshops in schools, as well as public workshops open to all.
+Enterprise initiatives like the Young Enterprise Fiver and Tenner challenges, Tycoon in Schools and the Ryman National Enterprise Challenge teach young people business and entrepreneurship skills, incorporating an element of innovation.
+Meanwhile, there are many schemes that promote skills and competencies important for future jobs that are relevant for innovation, such as collaborative problem-solving, creativity and resilience. Some schools have even made these central to their teaching approaches: XP is an 11-19 mainstream secondary school in Doncaster, UK and is part of the XP Multi-Academy Trust. It organises teaching around ‘expeditions’ that encourage students to come up with creative solution to real-world issues and problems.
+[Page #13]
+ 4
+Scale, spread and impact
+Are we doing enough to help young people become inventors? Our analysis suggests the UK is under-investing in this area. Moreover, the investment we are making is unevenly spread across the country, and skewed towards schools with less deprived pupil populations.
+How many children do ‘invention schemes’ reach?
+We attempted to find out how many children participate in the 29 schemes we identified as having a strong focus on invention. Twenty of these published data about their participant numbers online, or responded to our requests for information. We asked schemes for data on their most recent full year of activity. We estimated the reach of the remaining ten schemes.25
+In total, we estimate that these 29 schemes reach around 145,000 children per year. The scale of these schemes ranges from 60 pupils per year to 37,000, with the majority operating at the smaller end of this scale. Only six schemes reach 10,000 or more per year.
+Given that there are 10.2 million pupils in UK primary and secondary schools, these schemes between them reach less than 1.5 per cent of the pupil population.
+If we assume every child has an equal chance of taking part in one of these schemes, then over a 13-year school career, each pupil in the UK has roughly a one-in-five chance of taking part in an ‘invention’ scheme.26 However, this is a generous estimate - we know that provision is not evenly spread across the country, and that some children will have multiple opportunities to take part while others have none. At a minimum, we would need around five times the current level of provision for children to have even one ‘hands-on’ invention experience during their 13 years at school.
+We do not yet know how much exposure to innovation is needed to make a difference to children’s chances of becoming an inventor. But based on these estimates, it seems unlikely that we are offering children in the UK sufficient opportunities to experience innovation in practice.
+[Page #14]
+How is provision spread across the UK?
+Among the 29 invention schemes we identified, 13 have national reach and a further four are international. Of the remainder, most are based in London or the south east of England.
+We wanted to find out more about how opportunities to take part in these schemes are spread across the UK. We were able to collect data from 17 schemes on the spread of their participants across the UK.27 Between them, these schemes account for 91 per cent of the estimated 145,000 pupils reached per year.
+Percentage of pupils taking part in invention schemes, UK
+Percentage of pupils taking part in invention schemes, England
+1.2%
+England
+EnglandSouth
+1.6%
+0.2%
+Wales
+EnglandMidlands
+0.8%
+4.1%
+4.1%
+Scotland
+EnglandNorth
+1.0%
+NorthernIreland
+0.3%
+0%
+1%
+2%
+3%
+4%
+0%
+0.5%
+1%
+1.5%
+Pupil population (millions)
+Number of pupils taking part in invention schemes
+England 8,692,200
+59,100
+3,642,6 0 0
+20,600
+28,200
+24,000
+1,000
+3.5
+Scotland
+2,652,8 0 0
+2,39 6,8 0 0
+2.5
+England North
+1.5
+Northern Ireland
+684,4 0 0
+EnglandMidlands
+475,0 0 0
+327,6 0 0
+Wales
+0.5
+EnglandSouth
+N orthernIrela n d
+W ales
+E n gla n dS o uth
+E n gla n dMidla n ds
+E n gla n dN orth
+Scotla n d
+England pupil numbers source: School Pupils and their Characteristics, 2018. All schools, excluding nursery schools. Rounded to neared 500.
+Scotland, Northern Ireland and Wales pupil numbers source: Education and Training Statistics for the UK, 2017. All schools, excluding nursery schools.
+[Page #15]
+Within England, our data suggests that pupils in the South (including London) are twice as likely to have opportunities to take part in an invention scheme as those in the Midlands, and 1.6 times as likely as those in the North.
+Of the four UK nations, Scotland has by far the highest concentration of opportunities to take part in invention schemes: there are 3.5 times more opportunities per pupil in Scotland than in England. On the other hand, England has six times as many opportunities to take part in invention schemes per pupil as Wales, and 4.5 times as many as Northern Ireland.
+How far do these schemes reach disadvantaged pupils?
+To get more insight into who these schemes are reaching, we compiled a dataset of schools in England participating in innovation schemes. Two schemes - Faraday Challenge Days and Leaders Award - shared a complete list of participating schools for 2017/18. Alongside this, we compiled a list of schools that had reached the finals of recent invention competitions. After removing duplicates, our database contained 519 schools, 102 of which had been finalists in at least one competition.
+We added data on school type. This showed that 91 per cent are state-funded, while 9 per cent are independent. This is roughly in line with the status of schools across England (nationally, 10 per cent are independent). However, if we focus just on ‘finalist’ schools, then independent schools appear over-represented - they account for 20 out of 102 finalists, or 20 per cent.
+Chart 1: Schools taking part in invention schemes, by school type
+All participatingschools
+Shortlistedschools
+0%
+25%
+50%
+75%
+100%
+State funded
+Independent
+Base: 519 schools taking part in invention schemes, including 102 schools shortlisted for the finals of invention competitions.
+[Page #16]
+For the state primary and secondary schools in the sample, we then added data from Department for Education on the proportion of students in each school eligible for the Deprivation Pupil Premium. This is additional funding that schools receive to support students from disadvantaged backgrounds.28
+To explore what types of pupil populations these schemes are reaching, we first divided our sample of schools that take part in invention schemes into two groups based on whether they had below, or above, the national median average proportion of students eligible for Pupil Premium.
+We found that, for primary schools, participation in invention schemes is relatively even for more deprived and less deprived schools (though slightly skewed towards more deprived). But among secondary schools, those with more deprived pupil populations are considerably less likely to take part in invention schemes. Among secondary schools, ‘more deprived’ schools made up up just 35 per cent of the sample, while for primary schools, 54 per cent were in the ‘more deprived’ group.
+Chart 2: Schools taking part in invention schemes, by level of deprivation
+46%
+54%
+Primaryschools
+65%
+35%
+Secondaryschools
+0%
+25%
+50%
+75%
+100%
+Less deprived schools (below average eligibility for Pupil Premium)
+More deprived schools (above average eligibility for Pupil Premium)
+Source: Pupil Premium Allocations School Level Allocations Q2 2018-19, Department for Education. Median proportions eligible for Pupil Premium calculated separately for primary and secondary schools. Base: 465 state schools, including 246 primary schools and 219 secondary schools.
+[Page #17]
+To explore these patterns in more detail, we did a similar exercise, this time dividing state schools nationally into five equal groups (quintiles) based on the proportion of students eligible for Pupil Premium. We then looked at which quintiles our participating schools fell into. If schools were taking part in invention schemes at the same rate regardless of their Pupil Premium numbers, we would expect 20 per cent to fall in each quintile.
+This analysis shows that overall, there are more schools in the top (less deprived) quintile (25 per cent), and fewer schools in the more deprived quintile (17 per cent). The skew is far more apparent for secondary schools - 36 per cent are in the top quintile, compared with 11 per cent in the bottom quintile. But as noted earlier, primary schools buck the trend - only 15 per cent are in the least deprived quintile, while 22 per cent are in the most deprived quintile.
+Among schools that have made it to the finals of invention competitions, the skew towards schools with better-off pupil populations is even stronger: 46 per cent are in the top quintile, and only 8 per cent in the bottom quintile. This means schools with the least deprived pupil populations are six times as likely to reach the finals of invention competitions than those with the most deprived pupil populations.
+Chart 3: Schools taking part in invention schemes, by deprivation quintile
+50%
+40%
+30%
+20%
+10%
+0%
+Quintile 1 (least deprived
+Quintile 2
+Quintile 3
+Quintile 4
+Quintile 5 (most deprived
+All participants state schools
+State secondary schools
+State primary schools
+Finalist state schools
+Source: Pupil Premium Allocations School Level Allocations Q2 2018-19, Department for Education. Quintiles calculated separately for primary and secondary schools. Base: 465 state schools.
+[Page #18]
+Teams of pupils who make it to the finals of invention competitions usually have additional opportunities over others who enter these competitions - they get to meet inventors and innovators, and of course, they get recognition for their work. So not only are schools with better-off pupil populations more likely to take part in invention schemes, they are much more likely to reap the fullest benefits of doing so.
+If we want to unleash ‘lost’ inventive talent, then we need to reach groups of pupils who are under-represented amongst inventors. We would want a strong skew in favour of more deprived schools, rather than the other way around.
+srotnevn
+IelttiL
+:tiderC
+The inventor of the Silent Ear Cover poses with her certificate next to Little Inventors founder Dominic Wilcox.
+[Page #19]
+ 5
+Understanding what works in promoting exposure to innovation
+Our scan of ‘invention schemes’ found very limited evidence of outcomes and impact. Only a minority of interventions publish evaluations or impact data, and those that do tend to measure student satisfaction rather than outcomes.
+If we want to create a more diverse pool of potential innovators, we need to know much more about what works in delivering effective invention schemes. We reviewed existing literature to see what lessons could be gleaned from research on invention education and related activities such as efforts to engage under-represented groups in STEM.
+Helping young people develop innovation skills
+The evidence base on how to help young people develop innovation skills is relatively small, but the research we found offers some guidance on effective approaches to developing innovation skills and ability:
+1. Cross-curricular, open-ended, student-led projects: Previous Nesta research suggests
+that giving students the opportunity to explore subjects in depth and make connections across subject and knowledge areas encourages creative thinking and risk-propensity (two fundamental skills for innovation). Project approaches are especially effective when students are able to lead on them themselves in the knowledge that they won’t be formally assessed.29
+2. Adults need to facilitate, rather than teach innovation, so that young people have the freedom to develop their own ideas and concepts.30 Providing a space where young people’s ideas are valued, and where they are given the time and space for experimentation with these ideas, is key to building an effective innovation learning environment.
+3. Taking a socio-cultural approach: the literature on how young people develop
+capability and intention to innovate emphasises the importance of social and cultural reinforcement. For example, providing positive role models and opportunities to develop networks - both with adults and amongst peers - supports the development of innovative skills and increases the likelihood of sustained participation.31
+[Page #20]
+What makes a good role model?
+The ‘lost Einsteins’ study finds that role models need to be relevant for effects to be seen: growing up around female inventors affected girls’ propensity to invent, whilst growing up around male inventors had no effect, with the inverse observed for men.32 This corroborates Microsoft’s recent study on girls and women in STEM across 12 European countries, which finds that girls are more interested in STEM, find it easier to imagine a career in STEM, and are more inclined to seek out further support, when they have a female role model: the most influential role models are women working in STEM, above real non-STEM figures and fictional characters.33
+The Educational Endowment Foundation (EEF), meanwhile, has found that STEM role models in particular work best with disadvantaged groups when the interaction is more informal, subject-specific, and based around experiential learning.34 And more generally, the Behavioural Insights Team has found that when delivering programmes to improve access to higher education, role model stories are more effective than simple presentations. This is down to the added ‘heart’ elements of sharing one’s own experience (combined with the ‘head’ elements of facts about fees, career prospects etc.).35
+reengnEyram
+i
+irP
+:tiderC
+Aidan got the idea for his adjustable ‘Trolley for the Elderly’ from seeing his own grandmother struggling with her grocery shopping.
+[Page #21]
+Engaging under-represented groups in STEM
+There are some common lessons from the research on engaging under-represented groups in STEM and achieving effective and equitable practice:
+1. Strong relationships with communities make for better outreach schemes: Research from the Wellcome Trust found that consulting members of the target group in the design, planning and delivery of programmes leads to more effective programmes and sustained participation.36 In 2013/14, for example, Scottish Science Centres trialled a participatory approach to community engagement. Community engagement officers helped the Centres to build relationships with deprived communities and get them involved in developing programmes. A year in, 2,000 people from deprived communities had participated in Science Centre programmes, and 80 per cent of all participants were from the top 15 per cent most deprived areas in Scotland.37
+2. Participation increases when practical barriers like cost are removed and activities and events are held in accessible locations. The Dundee Science Centre operates a Golden Ticket scheme for schools in the most deprived areas of the city, which allowed children and families to attend events at the Science Centre free of charge. The Science Museum’s Building Bridges project develops disadvantaged communities’ relationships with the Museum by first holding events in schools with staff and students, and then inviting families for activity days at the Museum.
+3. Equality and diversity aims and principles need to be reflected in all elements of practice, for example by ensuring that there is diversity amongst the practitioners, mentors and role models engaging with participants, and that this is sustained in printed material, on websites and on social media.38 In schools in particular, gaining commitment to aims and principles across the staff body and subject departments is important.39
+4. Data can help programmes explain the problem and develop solutions: Research
+emphasises the effectiveness of using data to explain equality, diversity and inclusion issues to students and those in their immediate networks, such as parents and teachers,40 and to help create learning environments that reflect diversity aims and principles. Practical measures for schools and programmes include tracking the diversity of their personnel and collecting data on participants to inform targeted outreach (or highlight the need to change strategy to reach a particular group). For example, the Thinktank Birmingham Science Museum conducts independent entrance and exit surveys to better understand visitor characteristics and reasons for visiting, and uses this information to inform its strategy.41
+5. Support and professional development for teachers is important: Teachers or others
+delivering activities need to have a good understanding of the intervention and an ability to adapt it to their own context.42
+6. Length and intensity matter: The EEF found that for interventions aiming to improve
+science learning amongst students from poorer backgrounds, interventions lasting less than a school year are less likely to be effective. Longer programmes are also more likely to produce lasting effects. Similarly, the most effective interventions are those which are integrated into teachers’ regular practice (on a daily or weekly basis).43
+[Page #22]
+Institute of Physics Whole School Equality Programme
+The Improving Gender Balance project ran from 2014-2016, testing different approaches to improving gender equality in 20 schools and comparing their effects. The programme incorporates several of the dimensions highlighted above as important for improving equality and diversity.
+For example, schools compared their own data on A-level gender balance with national averages. They also conducted an anonymous survey of all teachers on equality issues, and surveyed students on their associations with different school subjects to elicit gendered assumptions or conceptions. Schools also conducted audits of gender equality in their environment (eg. displays, notices, reporting system for sexual misconduct/gender-based bullying, careers advice) and writing gender balance aims into school development plans. Meanwhile, all teachers underwent unconscious bias training to develop their ability to create equitable classroom environments.
+Several positive changes were reported as a result. Teachers changed their teaching style and content to support gender equality, and many reported that the overall school discourse on equality issues was enhanced. Careers support improved in terms of amount provided and focus on careers that counter gender stereotypes. There was some evidence of effects on subject uptake at A-level towards greater gender equality, with girls’ Physics participation trebling.
+The IoP developed the following recommendations:
+• Appoint a gender champion: someone in the senior leadership team who is able to drive change within the school.
+• Raise students’ awareness and
+engagement of the gender stereotypes they face and engage them in addressing them.
+• Analyse progression data by gender for
+• Review the options process: look at
+different subjects and discuss what might be driving any gendered patterns.
+options information and presentations through a gender lens and equip students to engage critically.
+• Train teachers to understand
+unconscious bias and how the experiences of boys and girls may differ because of it.
+• Consider project-led science clubs to encourage a better gender balance.
+[Page #23]
+Learning from what doesn’t work
+Designing effective interventions to help give young people more exposure to innovation isn’t easy - as we know from our own experience. In late 2009, Nesta launched idiscover, a programme that aimed to help young people increase their innovative skills and ambition.
+The idea was to give young people the opportunity to choose experiential learning experiences that would help them get the skills they need for the future. Participants each received credits of up to £200 per term to book places on a range of education experiences covering science, technology, engineering, maths, enterprise and the creative sector.
+We piloted idiscover until July 2011 in selected schools in London, Manchester and the Scottish Highlands. Over 2,300 young people took part, with 92 per cent booking at least one learning experience as part of the programme.
+We commissioned external evaluators to capture impact of, and learning from, the programme. They found that the programme “generated considerable excitement but apparently limited impact”. Schools welcomed the scheme and overall, young people enjoyed the experience. However, the programme did not create a measurable change in young people’s self-assessed creativity and innovation skills.
+The programme’s theory of change assumed that giving young people the choice of experiences would help create a market for experiential learning, as well as getting young people more engaged in education and helping to improve their skills and attainment. However, in practice, choice was motivating for some young people, but challenging for others, who needed support and guidance. Young people often picked experiences without knowing much about what they would involve, or because their friends had chosen them. The quality of the experiences themselves varied, and schools found it hard to link what students learned back to the curriculum. Meanwhile, the goal to stimulate more supply of experiential learning experiences was probably over-ambitious, given the relatively small scale of the programme.
+idiscover was an evidence-informed programme with a well-developed theory of change, but it still failed to create a positive impact. It highlights a wider issue: in general, programmes are successful in developing activities that are fun and engaging but there is limited evidence that this translates to longer lasting outcomes.44 For example, ‘STEM by stealth’ approaches, whilst generally enjoyable for students (especially younger children), can risk obscuring the point of the intervention and failing to connect learners’ experiences to the ‘official’ STEM teaching they encounter at school and therefore limiting how far students can convert their experiences into recognisable capital.45
+It is also worth bearing in mind that some approaches might even have adverse effects on young people’s attitudes and motivation. Stakeholders we consulted for this project highlighted the risk that invention schemes could perpetuate stereotypes instead of breaking them down, for example by suggesting an ‘ideal identity’ (e.g. giving the impression that only the brainiest or most ‘science-y’ students should take part).
+One key problem is that the long term outcomes - becoming an inventor, for example - are very hard to track. A shared outcome model for invention schemes, defining intermediate steps (or ‘proximal outcomes’) that indicate a greater likelihood to participate in innovation, would be valuable. This is a point we return to in our recommendations.
+[Page #24]
+ 6
+Recommendations
+To create a competitive and inclusive future economy, we need policies that create the right conditions for young people to realise their innovative potential.
+We recommend that:
+1. All young people should have an opportunity to have at least one ‘hands-on’
+experience of innovation or invention during their time at school.
+• Our data suggests that at least five times as much provision is needed in order to
+reach all UK pupils at least once during their school careers. This could be achieved by scaling up current schemes and by incorporating more innovation-focused activities into existing provision, such as the work of the Science Centres.
+• Efforts to expand provision should focus specifically on reaching under-represented
+groups. Our research suggests that schools with more disadvantaged pupil populations are less likely than others to get involved in ‘hands-on’ innovation schemes.
+• Government should invest in evaluation and support for providers to design evidence-informed interventions. Currently, interventions rarely report on their impact, and most do not state in any precise way the outcomes they hope to achieve. The field would benefit from a shared measurement framework, possibly adapted from the Science Capital approach. The sector should be encouraged, and supported, to experiment with different programmes and approaches to see what works best, and find out what does not work.
+• Invention should be promoted through traditionally creative disciplines as well as
+STEM. The majority of schemes we found approach invention and innovation from a STEM perspective. While this is clearly important, STEM subjects are not the only ‘way in’ to invention. We think a range of approaches should be tested, including those that approach invention through art, design and other creative subjects.
+2. Fostering a wider and more diverse pool of innovators must not fall between
+the cracks of education and innovation policy.
+Fostering innovators from an early age should be a shared priority across education and innovation policy. As part of this, there is a clear case for innovation policymakers to shift investment ‘upstream’ - investing more in fostering innovators from an early age, not only supporting business innovation. In 2016-17, tax reliefs for innovation cost the UK government an estimated £4.45 billion.46 Investing a fraction of this amount could massively increase the scale and reach of schemes supporting young people to innovate, and help address the evidence gap.
+• DfE, BEIS and UK Research & Innovation should create a joint strategy to ensure that
+all children have ‘exposure to innovation’ during their school careers.
+• Fostering diversity in innovation, and building a pipeline of innovators, should be a priority for delivering the government’s Industrial strategy, both at national and local levels.
+[Page #25]
+3. Better coordination across providers is needed to create a more evidence-
+based, coherent and impactful offer for young people.
+There are many organisations working in this field and opportunities for far greater collaboration and coordination between them. This is particularly important given that the fragmentation of the education system, especially in England, presents a challenge in spreading provision and increases the risk that schools with less capacity and resources are less likely to take part.
+• A cross-sector coalition should be set up to promote exposure to innovation among young people and support schools and colleges to access opportunities. We would like to see joint action between relevant government departments and arms-length bodies (e.g. Department for Education, Department for Business, Energy and Industrial Strategy, UK Research and Innovation, Careers and Enterprise Company), organisations that have an interest in invention and diversity, schools and businesses to help spread ‘invention’ schemes and get more innovative businesses engaging with schools and young people.
+4. A strategy to increase diversity in innovation needs to focus on young people’s
+networks, not only their skills.
+We found more examples of interventions that help children develop and apply innovation skills than those helping children meet role models and get to know people working in innovation. Where interventions do include an element of network building, it is often light touch - for example, children meeting innovators at one-off events, talks in schools or awards days.
+• Innovative businesses should be encouraged and enabled to build long-
+term relationships with schools, for example through offering work experience, apprenticeships, careers talks, supporting employee volunteering with ‘invention’ schemes and sponsoring competitions and challenges. There are already lots of examples of this happening and organisations actively promoting this (e.g. STEM Ambassadors), but also an indication that more is possible. For example, previous work by Nesta has estimated that just 1 per cent of workers in the tech sector regularly volunteer.47 In particular, young people unable to easily build their own networks need support to develop sustained and effective networks with innovative employers.
+• Innovate UK could work with the Careers and Enterprise Company to encourage more innovative businesses - especially smaller organisations - to engage with schools. The Careers and Enterprise Company, which has a lead role in delivering the government’s new Careers Strategy, has a network of ‘Enterprise Advisors’ to engage with schools across England. Their data shows that while these come from a range of sectors, professional services is particularly strongly represented in relation to overall employee numbers in the UK. Pupils should have as much chance to get meaningful experiences of work with innovative companies as they do with law, accountancy or consultancy firms.
+[Page #26]
+5. Government should invest in research and data on diversity in innovation and
+pathways into innovation.
+The evidence base on factors that affect likelihood to become an inventor or innovator is surprisingly weak, and we lack data to understand which groups are over- and under-represented, and what might be done to improve diversity.
+• Government should invest in long term evaluations and data to track pathways of innovators over time, so that we can better understand factors that affect whether people become inventors, and explore the impact of policies across systems. This is particularly important in finding out more about the role of upbringing and social class, which are less easy to observe or infer than characteristics like gender. In the United States, the ‘lost Einsteins’ study used linked data on family income (from tax records), school results and patent applications to show how people from the highest-income families were much more likely than others to become inventors.
+• UK Research & Innovation should invest in data collection and metrics to explore gender, ethnicity and socio-economic background of innovators. It publishes data annually from the Research Councils on diversity in higher education, but nothing comparable about innovation.
+6. The school curriculum should support young people’s invention skills and
+promote exposure to innovation.
+Extra-curricular interventions are important and give young people experiences that they wouldn’t otherwise have. But what happens within the school day is still likely to have a larger effect on their skills and knowledge. We would like to see more problem solving and real world experiences within the curriculum.
+• Existing opportunities for hands-on innovation activities should be encouraged across more schools. Qualifications such as Extended Project Qualifications and CREST awards offer opportunities for young people to take part in research and problem-solving activities within school. Schools should also be supported to offer more interdisciplinary learning, for example, combining STEM and more traditionally creative subjects to develop creativity and problem-solving throughout the curriculum. The Department for Education could look to other countries like Finland who offer successful interdisciplinary learning for inspiration.
+• Teachers need support from school leaders and external organisations to offer
+innovation activities for all students. Teachers need time and support to introduce opportunities like Extended Project Qualifications into their school, both from senior leaders and from external training and guidance. The Department for Education should ensure training and guidance is easily accessible for teachers on effective innovation schemes and that interventions are easily accessible.
+[Page #27]
+Appendix
+List of ‘high relevance’ invention schemes
+Name of programme
+Programme summary (from programme websites)
+Address/website link
+3M Young Innovators Challenge
+Competition-based STEM programme for primary and secondary schools across Berkshire, Leicestershire and Nottinghamshire. All entries to the competition are submitted for a British Science Association CREST Award at Discovery or Bronze Level.
+3M Cain Road, Binfield, Bracknell, RG12 8HT
+3M website
+Apps for Good
+Technology education programme in which students create mobile apps and Internet of Things products that solve a social problem. Apps for Good provides free courses for teachers to use as part of the curriculum, as enrichment, or as a club, and runs a set of awards that the projects can be entered into.
+White Bear Yard, Second Floor, 144a Clerkenwell Road, London, EC1R 5DF
+Apps for Good website
+BP Ultimate STEM Challenge
+Competition-based STEM programme for UK students aged 11-14 which asks participants to design an innovative solution to a real-life problem.
+BP Ultimate STEM Challenge website
+Equinor Young Imagineers
+Nationwide competition for children aged 7-14 to inspire and engage more young people in STEM. The competition asks young people: “What one invention would you create to make tomorrow’s world a better place?
+88 Lower Marsh, Lambeth, London, SE1 7AB
+Young Imagineers website
+Faraday Challenge Days
+Delivered free of charge by the Institute of Engineering and Technology in partnership with 12 UK universities, Faraday Challenge Days are one-day STEM activities designed for six teams of six students aged 12-13 years.
+Education 5-19, The IET, Michael Faraday House, Six Hills Way, Stevenage, Hertfordshire SG1 2AY
+IET Faraday website
+FixCamp
+Pilot programme delivered summer 2018 by Fixperts (see below). Workshops, day camps and week-long courses for 9-14 year olds. Using traditional and new materials and technologies attendees learn about problem-solving processes and devise creative solutions to the big problems of today. Teams are joined by expert ‘Coaches’(engineers, designers and makers).
+First Floor, 16 Stannary Street, London, SE11 4AA
+Fixperts
+Learning programme that challenges young people to use their imagination and skills to create ingenious solutions to everyday problems, developing a host of transferable skills from prototyping to collaboration. Fixperts offers a range of teaching formats to suit schools and universities, from hour-long workshops, to a term-long project, relevant to any creative design, engineering and STEM/STEAM studies.
+First Floor, 16 Stannary Street, London, SE11 4AA
+Fixperts website
+Generation Innovation
+Three-day work experience delivered in partnership with 10 of Northern Ireland’s most innovative companies.
+Catalyst Inc, The Innovation Centre, Queen’s Road, Belfast, BT3 9DT
+Catalyst website
+[Page #28]
+Google Science Fair
+Competition-based STEM programme for primary and secondary schools across Berkshire, Leicestershire and Nottinghamshi Competition-based STEM programme for 13-18 year olds which invites participants to identify a problem, develop and test solutions, and share their results in a report. Can be delivered in schools using teaching material and exercises developed by Google. re. All entries to the competition are submitted for a British Science Association CREST Award at Discovery or Bronze Level.
+Google Science Fair website
+Innovate Guildford
+Competition-based STEM programme for 13-18 year olds which invites participants to identify a problem, develop and test solutions, and share their results in a report. Can be delivered in schools using teaching material and exercises developed by Google.
+Millmead House, Millmead, Guildford GU2 4BB
+Guildford Borough Council website
+Institute of Imagination
+Second Home, 68 Hanbury St, London E1 5JL
+Runs events, camps, workshops and competitions for children and families at the Imagination Lab in Lambeth, including some free events focused on disadvantaged communities.
+Institute of Imagination website
+Lab 13
+Gillespie Rd, Highbury, London N5 1LH
+A space where children explore science, investigate their own questions and turn their ideas for inventions into reality. With the support of their Scientist/Inventor-in-Residence Carole Kenrick, pupils engage in enquiry-led and hands-on learning within and beyond their usual science lessons. The Lab_13 Management Committee (pupils aged nine to eleven) plan and lead whole-school STEAM engagement projects.
+Gillespie School website
+Leaders Award
+Competition-based programme that asks students “If you were an engineer, what would you do?” Children in early years, primary and secondary schools are invited to interview an engineer, identify a problem, draw and annotate a solution and explain why their solution should be manufactured by engineers.
+MS Technology Park, Billington Road, Burnley, BB11 5UB
+Leaders Award website
+Little Inventors
+Invites children to become the inventors of tomorrow, by drawing invention ideas to imagine what our world might look like in the future. The programme is delivered through regional challenges and in schools with resource packs for free download from the Little Inventors website
+26 Granville Court, Newcastle Upon Tyne, England, NE2 1TQ
+Little Inventors website
+Longitude Explorer Prize
+STEM and enterprise competition which challenges young people (11-16) in school teams to develop innovative solutions to pressing societal issues. Teams come up with an idea, with the top 10 visiting an induction event and being supported to develop prototypes and workbooks, before pitching their ideas to a judging panel.
+58 Victoria Embankment, London EC4Y 0DS
+Longitude Explorer Prize website
+Makerclub
+Runs clubs in innovation centres, colleges and community spaces in Brighton, Bournemouth, Beckton, and Greenwich where young people use kits to build solutions to challenges.
+81 Palace Gardens Terrace, Kensington, London W8 4AT
+Makerclub website
+[Page #29]
+Micro:bit Global Challenge
+Micro:bit is a small programmable computer which is used to learn digital skills creativity. The Global Challenge 2018 asks children aged 8-12 to address one of the Sustainable Development Goals using the micro:bit. Children can enter individually or as teams, and are supported by teachers through resources developed by the Micro:bit Educational Foundation.
+12 New Fetter Lane, London EC4A 1JP
+Micro:bit Global Challenge website
+Microsoft STEM Student Challenge
+The Challenge invites students to use their knowledge of STEM subjects together with research and creativity to imagine and depict (through a two minute video) an idea for a technology that could exist in 2037. Finalists are invited to a one-day event at Microsoft’s research lab in Cambridge, where they experience the future of computing first-hand and present their idea to world-leading computer science researchers and engineers, who select the winning teams.
+21 Station Rd, Cambridge CB1 2FB
+Microsoft STEM Student Challenge website
+Practical action: Design for a better world
+A design challenge and competition for students to develop an idea for a technology that will address a global issue.
+Practical Action, The Robbins Building, 25 Albert Street, RUGBY, CV21 2SD
+Practical Action website
+Shell Bright Ideas Challenge
+Asking ‘What will cities look like in 2050?’, this STEM challenge for 11-14 year olds invites innovative ideas on how to solve a particular energy challenge that might face a future city.
+Shell Centre, London SE1 7NA
+Shell Bright Ideas website
+Technovation Challenge
+Coding challenge for girls aged 10-18 to produce an app that aims to solve a problem in the local community. Pitches and judging take place at regional and world levels.
+Technovation website
+Teentech
+The Teentech Awards are a scheme for secondary and post-16 students that helps students to see how they might apply science and technology to real world problems. Teentech encourages students to develop their own ideas for making life better, simpler, safer or more fun. Participating schools are provided with a suggested structure and industry contacts.
+Teentech website
+WIRED Next Generation of UK Innovators
+One-day event designed for students aged 13-19. Attendees are introduced to fascinating individuals who have forged new paths for their careers. Combining inspiring talks with hands-on workshops, this day motivates young people to dream up new ideas, and starts the important conversation on the type of future they want to build.
+Vogue House, 1-2 Hanover Square, London W1S 1JU
+WIRED website
+WJEC Innovation Awards
+Working in conjunction with the Welsh Government, the WJEC Innovation Awards encourage young people in Wales to be technologically innovative and appreciate the importance of design and technology.
+Eduqas (WJEC CBAC Ltd), 245 Western Avenue, Cardiff, CF5 2YX
+WJEC website
+Work West Thinc Schools
+Work West offers a unique innovators programme for school children with design thinking principles at the fore. The focus is on creativity, problem solving, teamwork and learning by doing.
+Work West, 301 Glen Road, Belfast, BT11 8BU
+Work West website
+[Page #30]
+Endnotes
+1. https://www.nesta.org.uk/blog/some-ideas-are-more-equal-
+16. Bell, A., Chetty, R., Jaravel, X., Petkova, N. and Van Reenen,
+others/
+J. (2017) ‘Who Becomes an Inventor in America? The Importance of Exposure to Innovation’. NBER Working Paper No. 24062, December 2017. The Equality of Opportunity Project.
+2.
+Intellectual Property Office (2016) Gender Profiles in UK Patenting. An Analysis of Female Inventorship.
+3. Laurison, D., & Friedman, S. (2016) The Class Pay Gap in
+17. Ejermo, O., and Hansen, H. (2015) ‘How Important Are Local Inventive Milieus: The Role of Birthplace, High School and University Education’. Geoforum 65: 387–97.
+Higher Professional and Managerial Occupations. American Sociological Review, 81(4), 668–695.
+4. Kirby, P. (2016) Leading people 2016: the educational backgrounds of the UK professional elite. Sutton Trust.
+18. Shavinina, L. (2013) ‘The Fundamentals of Innovation
+Education’. In The Routledge International Handbook of Innovation Education. London: Routledge.
+5. Bell, A., Chetty, R., Jaravel, X., Petkova, N. and Van Reenen,
+J. (2017) ‘Who Becomes an Inventor in America? The Importance of Exposure to Innovation’. NBER Working Paper No. 24062, December 2017. The Equality of Opportunity Project. Available at: http://www.equality-of-opportunity.org/assets/documents/inventors_paper.pdf [Accessed 2.12.18]
+19. Nunes, T. et al. (2017) Review of SES and Science Learning in Formal Educational Settings: A Report Prepared for the EEF and the Royal Society, September 2017. Available at: https://educationendowmentfoundation.org.uk/public/files/Review_of_SES_and_Science_Learning_in_Formal_Educational_Settings.pdf. [Accessed 4.12.18]
+6. Aghion, P., Akcigit, U., Hyytinen, A. and Toivanen, O. (2017) The Social Origins of Inventors. NBER Working Paper No. 24110, December 2017.
+20. Archer, L., Dawson, E., DeWitt, J., Seakins, A. and Wong, B. (2015) ‘Science Capital: A Conceptual, Methodological and Empirical Argument for Extending Bourdieusian Notions of Capital Beyond the Arts’. Journal of Research in Science Teaching 57(7):922-48.
+7. Ejermo, O., and Jung, T. (2014) ‘Demographic patterns
+and trends in patenting: Gender, age and education of inventors’. Technological Forecasting & Social Change 86, 110-124.
+21. In 2017, 18.6 per cent of girls studying at A-level chose biology, compared with 13.5 per cent of boys. The proportions of girls and boys studying chemistry were similar - 13.0 per cent and 14.9 per cent respectively. But only 0.5 per cent of girls chose computer science, compared with 4.5 per cent of boys, and 3.8 per cent of girls chose physics compared with 16.9 per cent of boys. In the same year, girls out-performed boys in GCSE attainment in physics, chemistry and biology. Sources: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/676389/SFR03_2018_Main_text.pdf https://www.gov.uk/government/statistics/revised-gcse-and-equivalent-results-in-england-2016-to-2017
+8. According to the IPO report (cited above), Wearing Apparel -> Corsets; Brassieres’ is one of just two sub-classes of patents where female inventors are in the majority; the other is Wearing Apparel -> Shirts; Underwear; Baby Linen; Handkerchiefs.
+9. World Intellectual Property Organization (2016) World
+Intellectual Property Indicators - 2016.
+10. Bell, A., Chetty, R., Jaravel, X., Petkova, N. and Van Reenen,
+J. (2017) Who Becomes an Inventor in America? The Importance of Exposure to Innovation. NBER Working Paper No. 24062, December 2017. The Equality of Opportunity Project.
+22. UNESCO (2015) UNESCO Science Report. Available at:
+http://unesdoc.unesco.org/images/0023/002354/235406e.pdf. [Accessed 4.12.18]
+11. Bell, A., Chetty, R., Jaravel, X., Petkova, N. and Van Reenen,
+J. (2017) ‘Who Becomes an Inventor in America? The Importance of Exposure to Innovation’. NBER Working Paper No. 24062, December 2017. The Equality of Opportunity Project.
+23. Institute for Women’s Policy Research (2016) Equity in
+Innovation. Women Inventors and Patents.
+24. Here we took inspiration from the Lemelson Foundation, and defined ‘inventing’ as including identifying problems and possible solutions, and turning ideas into reality through designs, prototypes and entrepreneurial thinking. https://www.lemelson.org/our-programs/us-programs/education
+12. Ejermo, O., and Hansen, H. (2015) ‘How Important Are Local Inventive Milieus: The Role of Birthplace, High School and University Education’. Geoforum 65: 387–97.
+13. https://www.lemelson.org/our-programs/us-programs/
+education
+25. To estimate the size of schemes where data was missing, we excluded the six ‘outlier’ schemes that reach 10,000 or more pupils per year and then used the average from the remaining 14 schemes, which reached between 60 and 5,500 children each.
+14. Chell, E., and Athayde, R. (2009) The Identification and
+Measurement of Innovative Characteristics of Young People: Development of the Youth Innovation Skills Measurement Tool. London: Nesta.
+26. For this calculation we also assume that if a child has taken part in a scheme one year, they will not take part in another. In reality, this is unlikely - for example, we observe the same schools taking part in different schemes.
+15. Aghion, P., Akcigit, U., Hyytinen, A. and Toivanen, O. ‘The
+Social Origins of Inventors’. NBER Working Paper No. 24110, December 2017.
+[Page #31]
+27. One scheme, the Engineering Development Trust’s First
+37. UK Association for Science and Discovery Centres (2014)UK Science and Discovery Centres: Effectively engaging under-represented groups. Available at: https://www.sciencecentres.org.uk/national-impact/uk-science-and-discovery-centres-effectively-engaging-under-represented-groups/uk-science-and-discovery-centres-effectively-engaging-under-represented-groups/ [Accessed 4.12.18]
+Edition Days, reached 25,000 pupils in 2017 according to its most recent published impact report. This report specifies that 1200 of these were in Scotland, and reports none in Wales or Northern Ireland. We were not able to get further data from EDT on the spread of their participants across England, so for the purposes of our calculations, we assumed that they are spread in proportion with the pupil population. Some schemes were able to provide data on the spread of schools, but not pupils; in these cases, we assumed that equal numbers of pupils took part in the scheme from each school.
+38. UK Association for Science and Discovery Centres (2014) UK Science and Discovery Centres: Effectively engaging under-represented groups.
+39. Institute of Physics (2017) Improving Gender Balance. Reflections on the impact of interventions in schools. Available at: http://www.iop.org/publications/iop/2017/file_69171.pdf. [Accessed 4.12.18]
+28. Pupil Premium is additional funding given to schools in
+England to raise the attainment of disadvantaged pupils since 2011. It is allocated to: children who have been eligible for free school meals at any point in the last six years (the ‘Deprivation Pupil Premium’); children who are, or have been, looked after by the local authority; and children whose parents are currently serving in the armed forces.
+40. UK Association for Science and Discovery Centres (2014) UK Science and Discovery Centres: Effectively engaging under-represented groups.
+41. UK Association for Science and Discovery Centres (2014) UK Science and Discovery Centres: Effectively engaging under-represented groups.
+29. Chell, E., and Athayde, R. (2009) The Identification and
+Measurement of Innovative Characteristics of Young People: Development of the Youth Innovation Skills Measurement Tool. London: Nesta.
+42. Nunes, T. et al. (2017) Review of SES and Science Learning in Formal Educational Settings: A Report Prepared for the EEF and the Royal Society, September 2017.
+30. Sebba, J. et al. (2009) Youth-led innovation: Enhancing the skills and capacity of the next generation of innovators. London: Nesta.
+43. Nunes, T. et al. (2017) Review of SES and Science Learning in Formal Educational Settings: A Report Prepared for the EEF and the Royal Society, September 2017.
+31. Chell, E., and Athayde, R. (2009) The Identification and
+44. Nunes, T. et al. (2017) Review of SES and Science Learning in Formal Educational Settings: A Report Prepared for the EEF and the Royal Society, September 2017.
+Measurement of Innovative Characteristics of Young People: Development of the Youth Innovation Skills Measurement Tool. London: Nesta.
+45. Hitchin, J., Horvath, T. and Petie, O. (2017) Science and
+32. Bell, A., Chetty, R., Jaravel, X., Petkova, N. and Van Reenen,
+the youth sector: Context matters for disadvantaged young people and informal science activities. Wellcome Trust. Available at: https://wellcome.ac.uk/sites/default/files/science-and-the-youth-sector-context-matters-for-disadvantaged-young-people.pdf. [Accessed 4.12.18]
+J. (2017) ‘Who Becomes an Inventor in America? The Importance of Exposure to Innovation’. NBER Working Paper No. 24062, December 2017
+33. https://news.microsoft.com/europe/features/girls-in-stem-
+the-importance-of-role-models/
+46. These include R&D tax credits; Patent Box; income tax
+34. Nunes, T. et al. (2017) Review of SES and Science Learning in Formal Educational Settings: A Report Prepared for the EEF and the Royal Society, September 2017.
+relief and capital gains tax relief on Enterprise Investment Scheme, Seed Enterprise Investment Scheme and Venture Capital Trusts; and relief for trading losses against capital gains. Figures from HMRC, available at https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/737597/Dec_17_Main_Reliefs_Final.pdf
+35. Behavioural Insights Team. (2015) Behavioural Insights and the Somerset Challenge. Available at: http://www.behaviouralinsights.co.uk/wp-content/uploads/2015/07/Somerset-Challenge-Report1.pdf [Accessed 4.12.18]
+36. Atkinson, R., and Mason, C. (2014) Experiments in
+47. https://www.nesta.org.uk/blog/tech-volunteering-a-win-win-
+Engagement: Review of literature around engagement with young people from disadvantaged backgrounds. Wellcome Trust.
+for-young-people-and-industry/
+[Page #32]
+58 Victoria Embankment London EC4Y 0DS
++44 (0)20 7438 2500 information@nesta.org.uk @nesta_uk www.facebook.com/nesta.ukwww.nesta.org.uk
+Nesta is a registered charity in England and Wales with company number 7706036 and charity number 1144091. Registered as a charity in Scotland number SCO42833. Registered office: 58 Victoria Embankment, London, EC4Y 0DS.

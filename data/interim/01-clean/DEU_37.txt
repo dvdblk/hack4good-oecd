@@ -1,0 +1,167 @@
+[Page #0]
+POLICY PAPER
+Future Skills - Diskussionspapier 1
+FUTURE SKILLS: WELCHE KOMPETENZEN IN DEUTSCHLAND FEHLEN
+Julian Kirchherr | Julia Klier | Cornels Lehmann-Brauns | Mathias Winde
+[Page #1]
+FUTURE SKILLS
+DISKUSSIONSPAPIER 1 | 4
+FUTURE SKILLS: WELCHE KOMPETENZEN IN DEUTSCHLAND FEHLEN
+» Gemeinsam mit Unternehmen haben Stifterverband und McKinsey ein
+» Bis 2023 müssen rund 700.000 Personen vertiefte technologische Fähigkeiten erwerben, um den Bedarf der Wirtschaft an Tech-Spezialisten zu decken.
+Future-Skills-Framework entwickelt, das die aktuellen Kompetenzbedarfe von Wirtschaft und Gesellschaft darstellt.
+» Das Framework definiert Future Skills als Kompetenzen, die in den
+kommenden fünf Jahren für Berufsleben oder gesellschaftliche Teilhabe deutlich wichtiger werden.
+» Dazu zählen die Gestaltung von transformativen Technologien (Künstliche Intelligenz, Smart Hardware, Robotik) sowie digitale und nicht-digitale Schlüsselqualifikationen (digitale Interaktion, Adaptionsfähigkeit, unternehmerisches Denken).
+» Der Bedarf an Technologie-Spezialisten ist hoch: In den kommenden fünf Jahren werden in Deutschland rund 700.000 Personen mehr als heute benötigt, die über technologische Fähigkeiten verfügen.
+» Zusätzlich müssen jeweils über 2,4 Millionen Erwerbstätige in Schlüssel-
+qualifikationen wie agilem Arbeiten, digitalem Lernen oder Kollaborationstechniken befähigt werden.
+1. EINLEITUNG
+Die zukünftige Arbeitswelt wird immer mehr von digitalen Informationen und Abläufen geprägt werden. Herkömmliche Berufsbilder wandeln sich, neue Anforderungsprofile entstehen. Der Umgang mit digitalen Technologien und internetbasierten Anwendungen wird in fast allen Branchen und Berufen wichtiger werden. Auch außerhalb der Arbeits-welt beeinflussen neue Formen der Interaktion und Wissensproduktion den Alltag und verändern nahezu alle Lebensbereiche. Angesichts dieser voranschreitenden gesell-schaftlichen Transformation wird der kompetente Umgang mit digitalen Technologien und Kollaborationstechniken zur zentralen Voraussetzung – nicht nur für wirtschaftlichen Erfolg, sondern auch für gesellschaftliche Teilhabe.
+2
+[Page #2]
+FUTURE SKILLS
+DISKUSSIONSPAPIER 1 | 4
+Doch welche Fähigkeiten werden in den Arbeits- und Lebenswelten der Zukunft konkret benötigt? Wie groß ist der Bedarf der deutschen Unternehmen an solchen „Future Skills“? Einen ersten Ansatz zur Beantwortung dieser Fragen bietet das vorliegende Diskussionspapier.
+Es geht von der Beobachtung aus, dass für Future Skills zwar bereits eine Reihe von Kompetenzkategorisierungen entwickelt wurden (zum Beispiel von OECD, World Economic Forum, McKinsey Global Institute, Ashoka Foundation), aber die aktuellen Kompetenzbedarfe der deutschen Unternehmen dort bislang kaum adressiert sind. Im ersten Teil dieses Papiers haben Stifterverband und McKinsey deshalb gemeinsam mit Unternehmen die aktuellen Kompetenz-Herausforderungen analysiert und daraus ein Framework der derzeit relevanten Future Skills erarbeitet. Die Studie basiert auf einem Mix von quantitativen und qualitativen Befragungen (mehr Informationen zur Methodik: siehe Kästen auf den Seiten 3 und 8). Das Future-Skills-Framework soll weder eine starre allgemeingültige Kategorisierung sein noch die oben genannten Frameworks ersetzen. Es zielt vielmehr darauf ab, augenblickliche Trends und Bedarfe der deutschen Wirtschaft abzubilden, Kompetenzlücken zu antizipieren und dadurch kurz- bis mittelfristige Impulse für Bildungspolitik und (Weiter-) Bildungseinrichtungen zu geben. Das Framework bildet den konzeptionellen Hintergrund der Initiative Future Skills des Stifterverbandes und wird in regelmäßigen Abständen aktualisiert und neuen Umfeldbedingungen angepasst werden.
+» Das Framework zielt darauf ab, kurz- und
+mittelfristige Bedarfe der deutschen Wirtschaft abzubilden und dabei auch Trends aufzuzeigen.
+KONTEXT UND METHODIK DIESER STUDIE Das vorliegende Diskussionspapier wurde im Rahmen der Zusammenarbeit des Stifterverbandes für die Deutsche Wissenschaft e.V. und McKinsey & Company, Inc. erarbeitet. Es ist das erste von insgesamt vier Diskussionspapieren, die den analytischen Rahmen für die Future-Skills-Programminitiative des Stifter-verbandes liefern. Die weiteren Papiere beschäftigen sich mit der Zukunft der Personalarbeit in Unternehmen (Papier 2), den Future-Skills-Herausforderungen für Hochschulen und Weiterbildungseinrichtungen (Papier 3) sowie den daraus resultierenden Empfehlungen an die Politik (Papier 4).
+Methodisch basieren die im Folgenden dargestellten Ergebnisse auf einer Kombination aus quantitativem und qualitativem Vorgehen: So wurde zunächst ein Workshop mit 40 Teilnehmern aus Start-ups, etablierten Unternehmen, Bildungseinrichtungen sowie aus Politik, Verwaltung und Verbänden veranstaltet. Es folgte eine standardisierte Online-Befragung von insgesamt 607 deutschen Unternehmen aus der gewerblichen Wirtschaft, Versicherungen und Banken. Flankierend wurden 20 leitfadengestützte Experteninterviews mit Personalverantwortlichen aus Unternehmen geführt. Stets wurde berücksichtigt, dass Unternehmen jeder Größe, von Start-ups über den Mittelstand bis zu Großkonzernen, in der Stichprobe vertreten sind. Darüber hinaus basieren die Diskussionspapiere auf den bisherigen Erkenntnissen der Future-Skills-Initiative des Stifterverbandes sowie den Arbeiten von McKinsey zu diesem Thema.
+Aufbauend auf diesem Framework wird im zweiten Teil dieses Papiers die zukünftige Nachfrage von Unternehmen nach einzelnen Future Skills in erster Annäherung ermittelt.
+3
+[Page #3]
+FUTURE SKILLS
+DISKUSSIONSPAPIER 1 | 4
+Dabei wird unterschieden zwischen dem Bedarf an Spezialisten mit einem bestimmten Fachwissen auf neuen Technologiefeldern und dem Bedarf an überfachlichen Schlüsselqualifikationen. Die Berechnungen und Analysen zeigen, dass es in beiden Bereichen einen hohen Qualifikationsbedarf gibt, der mit ganz unterschiedlichen Maßnahmen gedeckt werden kann.
+2. DAS FUTURE-SKILLS-FRAMEWORK: 18 SKILLS IN 3 KATEGORIEN
+Future Skills werden in dieser Studie definiert als Fähigkeiten, die in den nächsten fünf Jahren für das Berufsleben und/oder die gesellschaftliche Teilhabe deutlich wichtiger werden – und zwar über alle Branchen und Industriezweige hinweg. Das heißt: Als Future Skills wird eine wichtige Teilmenge aller in Zukunft erforderlichen Fähigkeiten bezeichnet, zum einen zeitlich eingegrenzt auf die kommenden fünf Jahre, zum anderen inhaltlich fokussiert auf das Merkmal der branchenübergreifend steigenden Bedeutung. In dieser Definition von Future Skills sind sämtliche Fähigkeiten ausgeklammert, die entweder eindeutig branchen- oder fachspezifisch sind oder deren Bedeutung relativ zu anderen Fähigkeiten abnehmen wird. Sie sind selbstverständlich in zahlreichen Teilbereichen der Wirtschaft nach wie vor wichtig und bleiben damit eine zentrale Aufgabe für die Aus- und Weiterbildung. Der Zeithorizont von fünf Jahren wurde gewählt, da er lang genug ist, um die Effekte bereits heute absehbarer Entwicklungen realistisch einzubeziehen. Gleichzeitig ist diese Spanne noch kurz genug, um trotz der rasanten technologischen Entwicklung belastbare Aussagen zu den Future Skills treffen zu können.
+In diesem Zeithorizont werden Digitalisierung und neue Arbeitsformen die Unternehmen vor zwei Herausforderungen stellen, und zwar in der Spitze wie in der Breite (siehe Grafik). Das Stellenportfolio verschiebt sich erstens weiter in Richtung IT-Stellen, deren Besetzung insbesondere in den Bereichen der transformativen Technologien ein zunehmendes Problem darstellt, etwa in der Blockchain-Technologie oder der Künstlichen Intelligenz. Zweitens verändern sich für einen Großteil aller Mitarbeiter die Arbeitsformen und die Tätigkeitsanforderungen. Viele Mitarbeiter benötigen deshalb ein verändertes Set an digitalen und nicht-digitalen Schlüsselqualifikationen.
+» Neue Arbeitsformen und veränderte
+Tätigkeitsanforderungen verlangen ein verändertes Set an digitalen und nicht-digitalen Schlüsselqualifikationen.
+GRAFIK 1: DIE ZWEIFACHE HERAUSFORDERUNG
+Quelle: Stifterverband, McKinsey
+4
+[Page #4]
+FUTURE SKILLS
+DISKUSSIONSPAPIER 1 | 4
+Auf Basis der Aussagen von Personalverantwortlichen und unter Einbezug bestehender Konzepte haben Stifterverband und McKinsey ein Future-Skills-Framework entwickelt, das zwischen drei Kategorien unterscheidet:
+Technologische Fähigkeiten umfassen jene Fähigkeiten, die für die Gestaltung von transformativen Technologien notwendig sind. Dazu zählen bereits etablierte transformative Technologien wie das Internet (zum Beispiel Web-Entwicklung, UX-Design) ebenso wie erst entstehende Felder (zum Beispiel Blockchain- oder Smart Hardware-Entwicklung). Ein besonders großer Bereich ist die Fähigkeit zur Analyse komplexer Daten, die auch die Entwicklung von Künstlicher Intelligenz umfasst. Wer solche technologischen Fähigkeiten beherrscht, verfügt über neuestes (informations-) technologisches Fachwissen und kann es anwenden. Diese Kategorie wird über alle Wirtschaftsbereiche hinweg neue Berufsprofile schaffen, etwa den Data Scientist. Insbesondere in Start-ups werden schon heute Berufsprofile durch technologische Fähigkeiten geprägt.
+Digitale Grundfähigkeiten als zweite Kategorie beschreiben Fähigkeiten, durch die Menschen in der Lage sind, sich in einer digitalisierten Umwelt zurechtzufinden und aktiv an ihr teilzunehmen. Diese Fähigkeiten werden im Berufsleben ebenso wie für gesellschaftliche Teilhabe (Digital Citizenship) in Zukunft benötigt und von Arbeitgebern bei ihren Mitarbeitern zunehmend vorausgesetzt. Dazu zählt die digitale Wissensgenerierung (digitales Lernen) und der informierte Umgang mit Daten im Netz (digital Literacy) ebenso wie die Fähigkeit zum kollaborativen Arbeiten. Wer diese Fähigkeiten beherrscht, kann in einer immer stärker digital geprägten Welt kooperativ und agil arbeiten, wirkungsvoll interagieren und kritische Entscheidungen treffen.
+Während nur einzelne Personen spezifische technologische Fähigkeiten benötigen, sollten die digitalen Grundfähigkeiten möglichst von allen Menschen beherrscht werden.
+Klassische Fähigkeiten bilden die dritte Kategorie. Hier werden Kompetenzen und Eigenschaften erfasst, deren Bedeutung aus Sicht der Unternehmen in den kommenden Jahren im Arbeitsleben zunehmen wird, zum Beispiel Adaptionsfähigkeit, Kreativität und Durchhaltevermögen. Wer diese klassischen Fähigkeiten mitbringt, kann sich in neuen Situationen leichter zurechtfinden sowie Probleme in einer zunehmend unbeständigen und komplexen (Arbeits-) Welt besser analysieren und lösen.
+Für die Zukunftsfähigkeit von Unternehmen ist die Verknüpfung von technologischen Fähigkeiten, digitalen Grundfähigkeiten und klassischen Fähigkeiten von entscheidender Bedeutung. Es genügt nicht, lediglich Mitarbeiter zu beschäftigen, die „nur“ einzelne, spezifische Fähigkeiten mitbringen. Die Herausforderung besteht darin, Personen so auszuwählen oder so zu qualifizieren, dass sie ein möglichst umfangreiches Bündel aller der für ihren Arbeitskontext relevanten Future Skills besitzen.
+5
+[Page #5]
+FUTURE SKILLS
+DISKUSSIONSPAPIER 1 | 4
+TABELLE 1: DIE FUTURE SKILLS
+KATEGORIE
+FÄHIGKEIT
+BESCHREIBUNG
+Komplexe Datenanalyse
+Große Datenmengen effizient mit analytischen Methoden untersuchen, um Informationen zu gewinnen; dies umfasst auch das Entwickeln von Künstlicher Intelligenz (KI)
+Technologische Fähigkeiten
+Smart Hardware-/Robotik-Entwicklung
+Physische Komponenten für „intelligente“ Hardware-Software-Systeme („Internet of Things“), z.B. Roboter, entwickeln
+Web-Entwicklung
+Programmiersprachen zur Back- und Frontend-Entwicklung für Web-Applikationen (insbesondere mobil) beherrschen
+Nutzerzentriertes Designen (UX)
+Produkte so entwerfen, dass sie auf eine optimierte Funktionalität bei intuitiver Anwendbarkeit und somit attraktive Nutzererfahrung abzielen
+Konzeption und Administration vernetzter IT-Systeme
+Komplexe IT-Infrastruktur, auch in der Cloud, mit Schnittstellen zu weiteren IT-Systemen aufsetzen sowie kontinuierlich verwalten und weiterentwickeln
+Blockchain-Technologie-Entwicklung
+Dezentrale Datenbanken („Distributed Ledgers“) mit Hilfe der Blockchain-Technologie aufbauen
+Tech-Translation
+Zwischen Technologie-Experten und involvierten Nicht-Fachleuten moderieren
+Digital Literacy
+Grundlegende digitale Skills beherrschen, z.B. sorgsamer Umgang mit digitalen persönlichen Daten, Nutzen gängiger Software, Interagieren mit KI
+Digitale Grundfähigkeiten
+Digitale Interaktion
+Bei Interaktion über Online-Kanäle andere verstehen und sich ihnen gegenüber angemessen verhalten („Digitaler Knigge“)
+Kollaboration
+Unabhängig von räumlicher Nähe und über verschiedene Disziplinen und Kulturen hinweg effektiv und effizient in Projekten zusammenarbeiten, um als Team bessere Resultate als Einzelpersonen zu erzielen
+Agiles Arbeiten
+In einem für ein Endprodukt verantwortlichen Team iterativ („Rapid Prototyping“) genau das erarbeiten, was dem Kunden Mehrwert stiftet
+Digital Learning
+Aus einer Vielzahl digitaler Informationen valides Wissen zu ausgewählten Themengebieten aufbauen
+Digital Ethics
+Digitale Informationen sowie Auswirkungen des eigenen digitalen Handelns kritisch hinterfragen und entsprechende ethische Entscheidungen treffen
+Problemlösungsfähigkeit
+Konkrete Aufgabenstellungen, für die es keinen vorgefertigten Lösungsansatz gibt, durch einen strukturierten Ansatz und Urteilskraft lösen
+Klassische Fähigkeiten
+Kreativität
+Originelle Verbesserungsideen (z.B. für bestehende Geschäftsprozesse) oder Ideen für Innovationen (z.B. für neue Produkte) entwickeln
+Unternehmerisches Handeln & Eigeninitiative
+Eigenständig und aus eigenem Antrieb im Sinne eines Projekts oder einer Organisation arbeiten
+Adaptionsfähigkeit
+Sich auf neue (technologische) Entwicklungen einlassen, sie vorteilhaft nutzen und auf verschiedene Situationen transferieren können
+Durchhaltevermögen
+Übernommene Aufgaben, z.B. herausfordernde Projekte, fokussiert, verantwortlich und auch gegen Widerstände zu Ende führen
+6
+[Page #6]
+FUTURE SKILLS
+DISKUSSIONSPAPIER 1 | 4
+3. DER FUTURE-SKILLS-BEDARF BIS 2023
+Wie bereits eingangs dargestellt, stehen Unternehmen angesichts der fortschreitenden Digitalisierung und der Entwicklung neuer Arbeitsformen vor einer doppelten Heraus-forderung: Sie müssen einerseits den Engpass an Experten mit technologischen Fähigkeiten bewältigen, die bereits heute eine knappe Ressource darstellen und bei deren Rekrutierung sich insbesondere klassische Industrie- oder Dienstleistungsunternehmen nach wie vor schwertun. Andererseits gilt es in der Arbeitswelt 4.0 auch dem Großteil der übrigen Belegschaft neue digitale und nicht-digitale Schlüsselqualifikationen zu vermitteln. Ein besseres Verständnis, welche Future Skills in welchem Ausmaß zukünftig benötigt werden, ist daher als Planungs- und Entscheidungsgrundlage für Unternehmen, aber auch für Politik und Bildungsinstitutionen von zentraler Bedeutung.
+» „Reines Wissen wird immer weniger wichtig. Die Bedeutung von Skills, die den Einsatz von Wissen erst ermöglichen, nimmt hingegen stark zu.“
+Führungskraft, Start-up
+Im Folgenden wird zunächst der zukünftige Bedarf an technischen Spezialisten einge-schätzt, bevor anschließend der Weiterbildungsbedarf auf Ebene der digitalen und nicht-digitalen Schlüsselqualifikationen genauer beleuchtet wird. In beiden Fällen basiert die Quantifizierung auf der Online-Befragung von 607 Unternehmen aus der gewerblichen Wirtschaft, Versicherungen und Banken.
+3.1 BIS 2023 WERDEN RUND 700.000 ZUSÄTZLICHE TECH-SPEZIALISTEN BENÖTIGT
+Für den Bereich der technologischen Fähigkeiten lässt sich aus den Umfrageergebnissen bis 2023 ein Bedarf von rund 700.000 Personen mit den entsprechenden Kompetenzen allein in der Wirtschaft ableiten (siehe Grafik 2). Dieser Bedarf berechnet sich als Differenz zwischen der Zahl von Beschäftigten, die heute schon über einzelne technologische Fähigkeiten verfügen, und der Zahl derer, die der Umfrage zufolge in fünf Jahren darüber verfügen sollten (zur Methodik siehe Kasten 3).
+GRAFIK 2: RUND 700.000 PERSONEN MIT TECHNOLOGISCHEN FÄHIGKEITEN GESUCHT Anzahl der Personen mit technologischen Fähigkeiten, die in Unternehmen der gewerblichen Wirtschaft, Versicherungen und Banken bis 2023 zusätzlich benötigen werden, in Tausend
+Quelle: Stifterverband, McKinsey
+Gliedert man die rund 700.000 Personen nach den zugrundeliegenden Future Skills, so erweist sich der Bedarf an Personen mit der Fähigkeit zu komplexer Datenanalyse mit 455.000 Personen als mit Abstand größter Posten, der sogar mehr als die Hälfte des Bedarfs bei den technologischen Fähigkeiten insgesamt ausmacht. Dieser hohe Wert deutet darauf hin, dass Unternehmen zukünftig noch stärker als bisher große
+» Komplexe Datenanalyse ist der Tech-Skill mit
+der mit Abstand größten Bedarfslücke.
+7
+[Page #7]
+FUTURE SKILLS
+DISKUSSIONSPAPIER 1 | 4
+Datenmengen erheben und verarbeiten werden und dass die Künstliche Intelligenz, die auf komplexer Datenanalyse basiert, einen immer größeren Stellenwert haben wird.
+Der Bereich komplexe Datenanalyse hat darüber hinaus auch die größte Bedeutung für Berufsprofile außerhalb von IT-Abteilungen und beeinflusst nahezu alle Funktionsbereiche in Unternehmen, angefangen bei Forschung und Entwicklung über Marketing und Vertrieb bis hin zu Personal und Organisation. Aber nicht nur in verschiedenen Funktionsbereichen werden zukünftig mehr Fachexperten mit Fähigkeiten in komplexer Datenanalyse benötigt. Aufgrund der mit der Digitalisierung verbundenen allgemeinen Ausweitung der Möglichkeiten zur Datenerhebung entstehen auch jenseits der originär datenintensiven Branchen wie zum Beispiel der Versicherungswirtschaft zunehmend neue Geschäftsmodelle, die auf der Analyse und Interpretation großer Datenmengen basieren. Expertise in komplexer Datenanalyse wird daher branchen- und funktionsbereichsübergreifend zu einer zentralen Schnittstellenkompetenz in Unternehmen.
+METHODIK DER UMFRAGE UND HOCHRECHNUNG DES FUTURE-SKILLS-BEDARFS
+607 Unternehmen, darunter Großunternehmen, Start-ups sowie kleine und mittlere Unternehmen, wurden im Juni 2018 online dazu befragt, inwieweit Mitarbeiter über einzelne der oben beschriebenen Future Skills verfügen bzw. verfügen müssten. Die Schätzungen der Unternehmen bilden die Grundlage für die Hochrechnung.
+Der zusätzliche Bedarf an technologischen Fähigkeiten ergibt sich als Differenz zwischen den Erwerbstätigen der gewerblichen Wirtschaft, Versicherungen und Banken mit hohem Bildungsstand (gemäß International Standard Classification of Education (ISCED) der UNESCO, Level 5 und 6), die heute über die einzelnen Fähigkeiten verfügen, und denjenigen, die in fünf Jahren aus Sicht von Unternehmen darüber verfügen müssten. Beispielsweise ergibt sich für komplexe Datenanalyse, dass in fünf Jahren 455.000 Spezialisten mehr benötigt werden, als heute in diesem Bereich arbeiten. Die gerundete Zahl 455.000 berechnet sich dabei als prozentuale Differenz (Anteil Personen an allen Mitarbeitern, die Skills in fünf Jahren benötigen werden, abzüglich des Anteils, der ihn heute bereits besitzt), multipliziert mit der Gesamtzahl Erwerbstätiger der gewerblichen Wirtschaft, Versicherungen und Banken mit hohem Bildungsstand.
+Der Bedarf bei Smart Hardware-/Robotik-Entwicklung wird mit 27.000 Personen deutlich geringer eingeschätzt. Eine mögliche Erklärung hierfür könnte darin liegen, dass die erforderlichen Fähigkeiten vergleichsweise nahe an bereits in der Vergangenheit wichtigen Fähigkeiten aus dem Ingenieurwesen liegen und hier bereits ein größerer Pool an entsprechend ausgebildeten Mitarbeitern existiert. Aufgrund der anhaltenden und zentralen Bedeutung von Software für die Geschäftsmodelle von Unternehmen können
+8
+[Page #8]
+FUTURE SKILLS
+DISKUSSIONSPAPIER 1 | 4
+die vorliegenden Ergebnisse auch als Beleg für eine mögliche Fokussierung auf den Bereich Software bzw. als Beleg für eine Unterschätzung der Bedeutung von Hardware und Robotik interpretiert werden.
+Für den Bereich der Blockchain-Technologie konnte der Bedarf von Unternehmen vielfach nicht beziffert werden, so dass er nicht in die Berechnung eingeflossen ist. Dass sich die Nachfrage bei dieser Technologie besonders dynamisch entwickelt, zeigt sich aber beispielsweise in Analysen des Online-Job-Portals Indeed, gemessen an den Zugriffszahlen eines der größten Jobportale in Deutschland und weltweit. So stieg allein von Januar bis Dezember 2017 die Zahl der veröffentlichten Stellen mit Blockchain-Bezug um 625 Prozent, Suchanfragen unter Verwendung des Begriffs Blockchain legten im gleichen Zeitraum sogar um 661 Prozent zu. Wenngleich dieser sprunghafte Anstieg bislang noch auf geringen absoluten Zahlen beruht, zeigt dieses Beispiel, wie schnell sich neue Technologien auf das Angebot bzw. die Nachfrage nach bestimmten Qualifikationen auf dem Arbeitsmarkt auswirken können.
+Ausgehend von einem Bedarf von 700.000 Personen müssten in den kommenden fünf Jahren also im Durchschnitt jährlich rund 140.000 Personen fortgeschrittene technologische Fähigkeiten erwerben – allein für den hier betrachteten Bereich der Wirtschaft, der rund 60 Prozent der Erwerbstätigen in Deutschland umfasst. Überträgt man die Ergebnisse auch auf den Bereich der öffentlichen Arbeitgeber, steigt der Bedarf an Personen mit technologischen Fähigkeiten auf etwa 1,1 Millionen Personen – eine immense Qualifikationsaufgabe.
+» Bis 2023 müssen im Durchschnitt jährlich rund
+140.000 Personen fortgeschrittene Tech-Fähigkeiten erwerben, um den Bedarf der Wirtschaft zu decken. Noch nicht eingerechnet ist der Bedarf der öffentlichen Arbeitgeber.
+Nach Aussagen der Unternehmen kann dieser Bedarf auf unterschiedlichen Wegen gedeckt werden: Erstens durch gezielte Rekrutierung von Studienabsolventen aus entsprechenden Studiengängen. Zweitens wird die bestehende Belegschaft durch entsprechende Weiterbildungsmaßnahmen beim Aufbau der Fähigkeiten unterstützt, zum Beispiel durch Weiterbildungen von Maschinenbauingenieuren in Smart Hardware und Robotik. Technologische Fähigkeiten werden drittens auch verstärkt in der dualen Ausbildung vermittelt werden, beispielsweise Web-Entwicklung oder UX-Design. Viertens sind deutsche Unternehmen vermehrt auf dem globalen Arbeitsmarkt aktiv und werben weltweit um Tech-Spezialisten. Einige Unternehmen geben auch an, dass sie Technologie-Aktivitäten gezielt an Standorten in den Ländern ansiedeln, in denen Technologie-spezialisten ausreichend verfügbar sind. Eine Analyse der Herausforderungen für Personalabteilungen und Bildungseinrichtungen wird in den Diskussionspapieren zwei und drei dieser Serie vorgestellt.
+3.2 DIGITALE UND NICHT-DIGITALE SCHLÜSSELQUALIFIKATIONEN: JEDER VIERTE ERWERBSTÄTIGE SOLLTE WEITERGEBILDET WERDEN
+» „Gerade bei den Soft Skills wie z.B. Kreativität
+Für alle Arten von beruflichen Tätigkeiten, von der Vertriebsleiterin bis zum Sachbearbeiter, werden einige Fähigkeiten und Fertigkeiten zu Schlüsselqualifikationen in der Arbeitswelt 4.0 – etwa der routinierte Umgang mit elektronischen Daten, Grundkenntnisse in Fragen des Datenschutzes, die Kollaboration mit anderen, ein beständiges Lernen und weitgehend selbstständiges Arbeiten. Dieser Befund wird von den befragten Personalverantwortlichen bestätigt, die übereinstimmend davon ausgehen, dass in den digitalen und nicht-digitalen Schlüsselqualifikationen der weitaus größte Weiterbildungsbedarf in den kommenden Jahren liegen wird.
+oder zwischenmenschlicher Interaktion beobachten wir, dass Mitarbeitern nicht klar ist, dass sie Weiterbildungsbedarf haben. Soft Skills sind jedoch besonders entscheidend, da sie nicht durch künstliche Intelligenz ersetzt werden."
+Führungskraft, Start-up
+9
+[Page #9]
+FUTURE SKILLS
+DISKUSSIONSPAPIER 1 | 4
+GARFIK 3: KOLLABORATIVES ARBEITEN ERWÜNSCHT Anteil der Mitarbeiter, welche in fünf Jahren den Future Skill beherrschen sollten, in Prozent (Auswahl)
+Quelle: Stifterverband, McKinsey
+Der von den meisten Mitarbeitern benötigte Future Skill ist die Fähigkeit zur Kollaboration; sie wird zunehmend durch digitale Technologien unterstützt und geprägt. Neun von zehn Mitarbeitern sollten sie beherrschen. Jeweils rund drei Viertel der Mitarbeiter benötigen digitale Grundkenntnisse und sollten Durchhaltevermögen und Eigeninitiative beweisen. Der Bedarf an Personen, die agil arbeiten können, ist am geringsten, aber immer noch zwei Drittel der Beschäftigten sollten diese Fähigkeit besitzen.
+Der Vergleich zwischen den Personen, die heute bereits über die einzelnen Fähigkeiten verfügen, und denjenigen, die in fünf Jahren aus Sicht von Unternehmen darüber verfügen müssten, zeigt einen hohen Weiterbildungsbedarf. Der höchste Bedarf besteht beim digital Learning: Damit in fünf Jahren rund drei Viertel der Beschäftigten die Fähigkeit zum digitalen Lernen besitzen, müssen bis dahin 3,8 Millionen Menschen weitergebildet werden. Bei rund 2,8 Millionen Personen sollte in diesem Zeitraum die digital Literacy vertieft werden, ebenso hoch ist der Weiterbildungsbedarf bei Kollaboration und digitaler Interaktion. Der geringste, aber dennoch signifikante Bedarf besteht beim unternehmerischen Handeln, das bei rund 2,4 Millionen Personen trainiert werden sollte.
+Angesichts der Radikalität und des Tempos, mit denen Automatisierung und Digitalisierung die Arbeitswelt verändern, erscheint dieser Bedarf zwar hoch, aber dennoch nicht unrealistisch. Die Bedeutung der Weiterbildung hat in den vergangenen Jahren kontinuierlich zugenommen und der Kreis der Weiterbildungsteilnehmer hat sich ständig vergrößert. 2016 nahm bereits etwa jeder zweite der 18- bis 64-Jährigen an Weiterbildungen teil, so dass die Deckung des Bedarfs zwar ambitioniert, aber nicht unmöglich erscheint.
+Die Qualifizierungslücke im Bereich der überfachlichen Qualifikationen lässt sich nur schließen, indem Menschen im Berufsleben konsequent und kontinuierlich weitergebildet werden. Hierfür werden punktuelle „Schulungen“ allein nicht ausreichen, vielmehr gilt es
+10
+[Page #10]
+FUTURE SKILLS
+DISKUSSIONSPAPIER 1 | 4
+im Sinne eines lebenslangen Lernens, eine systematische und kontinuierliche betriebliche Weiterbildung und Befähigung zu entwickeln.
+4. FAZIT UND EMPFEHLUNGEN
+Ein Bedarf von rund 700.000 Personen mit technologischen Fähigkeiten und ein Weiterbildungsbedarf von jeweils mehr als 2 Millionen Personen bei überfachlichen Qualifikationen – diese Zahlen verdeutlichen die Größe der Herausforderung, vor der Deutschland im Bereich der Bildung in den kommenden Jahren steht. Dabei ist die hier vorgelegte Ermittlung des Bedarfs als Versuch einer näherungsweisen Quantifizierung zu verstehen.
+Wie auch immer die konkreten Bedarfe in der Zukunft ausfallen werden: Schon jetzt besteht die Notwendigkeit zum Handeln. Vor allem gilt es, die bestehenden Instrumente der Bundesagentur für Arbeit zu ergänzen, die sich immer schneller wandelnden Bedarfe des Arbeitsmarktes kontinuierlich zu analysieren und diese Entwicklungen auch öffentlichkeitswirksam zu kommunizieren. Auf Grundlage eines solchen stetigen Monitorings könnten Unternehmen und private Weiterbildungsanbieter zudem neue Angebote entwickeln sowie bestehende Inhalte und Formate anpassen. Entscheidend ist, dass sich auch das Bildungs-, Hochschul- und Berufsbildungssystem stärker an den zukünftig benötigten Fähigkeiten orientiert und entsprechende Bildungsangebote entwickelt.
+IMPRESSUM
+Herausgeber Stifterverband für die Deutsche Wissenschaft e.V. Barkhovenallee 1, 45239 Essen T 0201 8401-0 . F 0201 8401-301 mail@stifterverband.de www.stifterverband.org
+Inhaltliche Leitung und Ansprechpartner Mathias Winde, Stifterverband Jürgen Schröder, McKinsey & Company
+Projektteam Stifterverband Cornels Lehmann-Brauns . Volker Meyer-Guckel . Isabel Schünemann . Mathias Winde
+Projektteam McKinsey & Company Tobias Enders . Solveigh Hieronimus . Julian Kirchherr . Julia Klier Timur Ohloff . Jürgen Schröder . Neslihan Sönmez . Isabella Susnjara . Lisa Svoboda Anna Wiesinger
+Redaktion Nadine Bühring Kirsten Best-Werbunat
+Gestaltung Atelier Hauer + Dörfler, Berlin
+11

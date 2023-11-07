@@ -1,0 +1,1037 @@
+[Page #0]
+KI
+KI-Monitor 2022Status quo der Künstlichen Intelligenz in Deutschland
+Gutachten
+www.bvdw.org
+[Page #1]
+Das dieser Publikation zugrundliegende Gutachten wurde durchgeführt im Auftrag des
+Bundesverband Digitale Wirtschaft (BVDW) e.VSchumannstraße 210117 Berlin
+vom
+Institut der deutschen Wirtschaft (IW)Konrad-Adenauer-Ufer 2150668 Köln
+Ansprechpartner BVDW:Carsten Rasner, Geschäftsführer
+Redaktion BVDW:Sebastian Witte, Referent Künstliche Intelligenz
+Ansprechpartner IW:Dr. Christian Rusche
+Autoren IW: Dr. Vera DemaryDr. Henry GoeckeEnno Kohlisch Dr. Armin MertensDr. Christian RuscheDr. Marc ScheufenJan Marten Wendt
+[Page #2]
+KI-Monitor 2022
+Status quo der Künstlichen Intelligenz in Deutschland Gutachten
+Zusammenfassung
+1 Einleitung
+2 Aktuelle Entwicklungen und Struktur des KI-Index
+2.1 Aktuelle Entwicklungen
+2.2 Literaturanalyse zu KI
+3 Ergebnisse des KI-Index
+3.1 Kategorie Rahmenbedingungen
+3.2 Kategorie Wirtschaft
+3.3 Kategorie Gesellschaft
+4 Handlungsempfehlungen
+4.1 Daten als wesentliche Grundlage von KI
+4.2 Rahmenbedingungen
+4.3 Wirtschaft
+4.4 Gesellschaft
+5 Fazit
+6 Anhang
+6.1 Begriffe
+6.2 Kategorie Rahmenbedingungen
+6.3 Kategorie Wirtschaftt
+6.4 Kategorie Gesellschaft
+Literaturverzeichnis
+Über uns
+Ressort Künstliche Intelligenz
+Impressum
+[Page #3]
+Zusammenfassung
+Zusammenfassung
+Deutschland und die Europäische Union sehen sich einer herausfordernden geopolitischen Gesamtsituation sowie einem harten globalen Wettbewerb gegenüber. Künstliche Intelligenz (KI) bietet Lösungen an, um den Herausforderungen zu begegnen und die Wettbewerbsfähig-keit Deutschlands vor dem Hintergrund eines disruptiven Umfelds1 zu erhalten. Gleichzeitig erstreckt sich der globale Wettbewerb auch auf das Feld KI. Unter KI wird diesbezüglich „die Schaffung von (quasi) intelligenten Programmen und Maschinen, welche Entscheidungen selbstständig treffen und basierend auf diesen Handlungen ausführen können“ verstanden.2 Der KI-Monitor bietet auf der Grundlage seiner 14 aussagekräftigen Indikatoren vor dem Hin-tergrund des Status quo von KI in Deutschland einen Mehrwert: Die Indikatoren und die durch sie gebildeten Kategorien Rahmenbedingungen, Wirtschaft und Gesellschaft können jeweils im Vergleich zum Basisjahr 2019 sowie im Vergleich zu den anderen Erhebungsjahren darge-stellt werden. Entwicklungen bei KI können so seit dem Jahr 2019 detailliert nachvollzogen und entsprechender Handlungsbedarf identifiziert werden. Der KI-Index, der sich aus den Kategorien zusammensetzt, bringt zudem anhand eines Wertes die aktuelle Situation im Be-reich KI prägnant auf den Punkt.
+Der Indexwert des KI-Index 2022 beträgt 122 Punkte (Abbildung 3-1). Im Vergleich zum Jahr 2021 ist dies ein Rückgang um 1,22 Indexpunkte, während im Vergleich zum Basisjahr 2019 eine Zunahme um 22 Indexpunkte verzeichnet werden kann. In Abbildung 3-1 sind neben den Indexwerten der Jahre 2020 bis 2022 auch die Beiträge der drei Kategorien in den jeweiligen Jahren dargestellt. Es fällt auf, dass im Vergleich zu den dynamischen Entwicklungen in den Vorjahren im Jahr 2022 das positive Momentum verlorengegangen ist. Von 2019 auf 2020 konnte ein Zuwachs um rund sieben Punkte verzeichnet werden. Von 2020 auf 2021 betrug der Zuwachs mehr als 16 Punkte. Der Rückgang von 2021 auf 2022 ist somit umso schwerwiegender, da bei der Zukunftstechnologie KI eigentlich eine positive Entwicklung zu erwarten gewesen und für die Wettbewerbsfähigkeit Deutschlands auch notwendig wäre.
+Im Vergleich zum Basisjahr 2019 ist die Entwicklung jedoch insgesamt noch erfreulich. Zum Anstieg von 22 Indexpunkten haben die einzelnen Kategorien dabei höchst unterschiedlich beigetragen: So hat die Kategorie Rahmenbedingungen in jedem einzelnen Erhebungsjahr einen negativen Beitrag geleistet. Im vergangenen Jahr fiel der Rückgang um mehr als 1,3 Indexpunkte aber deutlich höher aus als in den Vorjahren. Die Rahmenbedingungen für KI verschlechtern sich somit. Den größten Beitrag zum Anstieg des KI-Index seit 2019 hat die Wirtschaft geleistet. In Summe trug sie rund 21,5 Indexpunkte bei. Der Rückgang um 1,22 Indexpunkte zwischen dem aktuellen Erhebungsjahr und dem KI-Index 2021 ist der erste negative Beitrag dieser Kategorie. Im Vergleich zu den hohen Zuwächsen der vergangenen Jahre ist der Rückgang jedoch vergleichsweise moderat. Die Kategorie Gesellschaft hat sich über den gesamten Erhebungszeitraum als Konstante erwiesen, da die Veränderungsraten in diesem Bereich gering ausfallen. Insgesamt beträgt der Beitrag dieser Kategorie rund +2,5 In-dexpunkte. Aktuell trägt sie 1,33 Punkte zur Veränderung des KI-Index von 2021 auf 2022 bei.
+Insbesondere die multiplen wirtschaftlichen und geopolitischen Herausforderungen können zur Erklärung der Gesamtentwicklung im aktuellen Jahr beitragen: Lieferengpässe und Unsi-cherheiten in Folge von Inflation könnten für den Rückgang der Dynamik insbesondere in der Wirtschaft gesorgt haben. Zudem könnte das Pandemiegeschehen zwischen 2020 und 2022 Wirtschaft, Gesellschaft sowie Politik zunehmend beschäftigt haben. Dennoch offenbaren die Zahlen im KI-Index Handlungsbedarf. Allgemein, das heißt in allen drei Kategorien, be-steht Verbesserungspotenzial bei der Bereitstellung von Daten. KI ist auf Daten angewiesen.
+1 Demary et al., 20212 Demary et al., 2020, S. 6
+[Page #4]
+Zusammenfassung
+Daten dienen dazu, die analoge Welt digital abzubilden, wodurch eine maschinenbasierte Analyse erst ermöglicht wird. Außerdem werden Daten benötigt, um KI zu entwickeln und zu trainieren. Folglich profitieren die Entwicklung und die Nutzung von KI davon, wenn die Ver-fügbarkeit von Daten insgesamt verbessert wird. Verbesserungspotenziale werden ebenfalls bei der spezifischen Analyse der drei Kategorien deutlich.
+Abbildung 3-1: KI-Index in Deutschland 2019 bis 2022 sowie Beitrag der Kategorien zur Veränderung der Index-Werte 2020 bis 2022
+17,33
+123,22
+1,33
+-0,74
+-1,33
+-1,22
+1,91 106,94
+5,42
+-0,32
+-0,39
+0202xednI-IK
+1202xednI-IK
+2202xednI-IK
+9102xednI-IK
+negnugndeb
+negnugndeb
+negnugndeb
+tfahcs
+tfahcs
+tfahcs
+tfahcstri
+tfahcstri
+tfahcstri
+-
+-
+-
+nemhaR
+nemhaR
+nemhaR
+ll
+ll
+ll
+eseG
+eseG
+eseG
+i
+i
+i
+W
+W
+W
+KI-Index in Indexpunkten (dunkelblau), 2019=100, gewichteter zusätzlicher Beitrag der Kategorien in Indexpunkten (hellblau). Aufgrund von Anpassungen in der Methodik weichen die hier dargestellten Werte für 2020 teilweise von denen im KI-Monitor 2020 ab.
+Quelle: IW, eigene Berechnungen
+Der Rückgang bei den Rahmenbedingungen in allen Erhebungsjahren offenbart dabei beson-deren Handlungsbedarf. Diese Kategorie setzt sich aus fünf Indikatoren zusammen: Digitale Infrastruktur, KI in Bundestagsprotokollen, Informatikabsolventen, wissenschaftliche KI-Pu-blikationen und Kooperationen zwischen Unternehmen und Forschungseinrichtungen. Die digitale Infrastruktur hat sich dabei im Vergleich zum Vorjahr verbessert, auch wenn sie im internationalen Vergleich deutlichen Nachholbedarf aufweist. Die Bedeutung von Kooperati-onen zwischen Unternehmen und Forschungseinrichtungen sowie die Anzahl bestandener Abschlussprüfungen im Bereich Informatik sind nahezu unverändert geblieben. Die Bedeu-tung von KI im Bundestag sowie in wissenschaftlichen Publikationen hat abgenommen. Ent-sprechend den Ergebnissen konnten folgende Handlungsempfehlungen erarbeitet werden:
+■ Die digitale Infrastruktur muss ausgebaut werden. Mögliche Maßnahmen dazu sind der Abbau von Bürokratie, aber auch der Einsatz von KI, um die Verwaltung leistungsfähiger zu machen. Des Weiteren sollte die Vereinfachung von Verfahren sowie die Verbesserung der (personellen) Ausstattung bei den zuständigen Behörden als Maßnahmenbereich ins Auge gefasst werden. Zusätzlich können neue Techniken beispielsweise bei der Verlegung von Kabeln zum Einsatz kommen und staatliche Investitionen beim Ausbau von Infrastruktur in Regionen vorangetrieben werden, in denen sich privatwirtschaftliche Investitionen be-triebswirtschaftlich nicht rechnen.
+■ Forschung über KI, Kooperationen zwischen der Forschung und der Wirtschaft sowie die Erweiterung des verfügbaren Know-how sind weitere Möglichkeiten zur Förderung der Entwicklung von KI. Zunächst ist weiterhin eine Förderung von Zukunftstechnologien, wie dem Quantencomputing, notwendig. Zudem sollte das Erwerben von KI-Know-how in der schulischen, beruflichen sowie universitären Bildung gestärkt werden. Damit die Erkennt-nisse auch in der Praxis zur Anwendung kommen, sollten Kooperationen zwischen Unter-nehmen und Forschungseinrichtungen angeregt werden.
+[Page #5]
+Zusammenfassung
+■ Die Politik muss bei den national wie international unternommenen Regulierungsvorhaben darauf achten, dass Rechtssicherheit geschaffen und eine Fragmentierung bei der Regu-lierung vermieden wird. Bestehende rechtliche Unsicherheiten, wie beim Datenaustausch, sollten ebenfalls verringert werden. Gleichzeitig ist es dringend notwendig, darauf zu ach-ten, dass Regulierung Innovationen nicht bremst, sondern ihnen einen effizienten Rahmen bietet. Damit geht einher, nur dort Regulierung einzusetzen, wo dies im Sinne eines Markt-versagens auch geboten ist.
+Die Kategorie Wirtschaft setzt sich ebenfalls aus fünf Indikatoren zusammen: Einschätzung der Bedeutung von KI, Einsatz von KI in Unternehmen, KI in Geschäftsberichten, KI-Paten-tanmeldungen sowie KI in Stellenanzeigen. Der Rückgang des Index bei der Kategorie Wirt-schaft beruht darauf, dass beim Einsatz von KI, der Einschätzung der Bedeutung von KI, KI in Geschäftsberichten sowie KI-Stellenanzeigen nach zum Teil deutlichen Zuwächsen im KI-Monitor 2021 in diesem Jahr moderate Rückgänge zu verzeichnen sind. Lediglich die KI-Patentanmeldungen haben sich in dieser Kategorie positiv entwickelt. Die Wirtschaft be-sitzt die Fähigkeit, die treibende Kraft bei der Entwicklung von KI in Deutschland zu sein. Um diese Fähigkeit wieder wirksam werden zu lassen, sollten folgende Handlungsempfehlungen beachtet werden:
+■ Die Attraktivität Deutschlands als Investitionsziel im Bereich KI ist gering; die Gründungs-aktivitäten in Deutschland sind generell rückläufig. Daher ist eine verbesserte Förderung von Gründungen und Finanzierung von Start-ups notwendig. Dienlich in dieser Hinsicht sind ein Verzicht auf eine Vermögenssteuer, eine Verbesserung der Verlustverrechnung un-ter den Beteiligungen von Venture-Capital-Fonds (VC-Fonds) sowie eine Verbesserung der Steuertransparenz von privaten VC-Fonds.3 Zusätzlich sollten die regulatorischen Hürden für Venture-Capital-Investitionen von Versicherungen verringert werden.4 Vereinfachungen bei der Durchführung von Börsengängen5 sowie der Beteiligung der Mitarbeiterinnen und Mitarbeiter am Unternehmen6 können ebenfalls förderlich sein.
+■ Die bestehenden Unternehmen sind ebenfalls ein wichtiger Faktor beim Einsatz und der Ent-wicklung von KI. Viele Unternehmen stehen hier jedoch noch ganz am Anfang. Sie können unterstützt werden, wenn ihnen Anwendungsmöglichkeiten von KI im Unternehmen aufge-zeigt, sowie Kooperationen mit Start-ups vermittelt werden. Doch auch die Unternehmen selbst sind gefragt, durch die Weiterbildung eigener Fachkräfte und die proaktive Nutzung von KI-Technologien für das eigene Unternehmen zur Entwicklung von KI beizutragen.
+Die Kategorie Gesellschaft setzt sich aus vier Indikatoren zusammen: Bekanntheit von KI in der Gesellschaft, Suchinteresse an KI sowie KI in Printmedien und auf Twitter. Der Zuwachs der Kategorie im KI-Index beruht auf einem gestiegenen Wissen der Bevölkerung bezüglich KI. Die Diskussion von KI in der Gesellschaft ist konstant neutral. Lediglich das Suchinteresse an KI auf Google Search hat abgenommen. Dies ist jedoch zum Teil durch das gestiegene Wissen erklärbar. Um die Akzeptanz von KI auf einem konstant hohen Niveau zu halten und um diese gegebenenfalls sogar zu steigern, gilt es, die Transparenz von KI zu verbessern, Standards bezüglich Qualitätskriterien sowie Prüfverfahren für KI-Anwendungen zu etablie-ren und durchzusetzen sowie die Zivilgesellschaft bei der Entwicklung und dem Einsatz von KI einzubinden.
+3 Röhl, 20214 Ebenda5 Ebenda6 Hammermann/Rusche/Röhl, 2021
+[Page #6]
+Einleitung
+1 Einleitung
+Das seit dem Erscheinen des KI-Monitors 20217 vergangene Jahr stellte die gesamte deut-sche Volkswirtschaft vor enorme Herausforderungen. Die Corona-Pandemie, Lieferkettenpro-bleme, zunehmende Inflation, der ökologische Wandel sowie der Ukraine-Krieg sind lediglich die herausstechenden Komplexe. Künstliche Intelligenz (KI) bietet aufgrund ihrer vielfältigen Anwendungsmöglichkeiten für die entstehenden Herausforderungen Lösungen. So kann KI die Effizienz in der Produktion und bei der Bereitstellung von Produkten verbessern, wodurch Ressourcen geschont und Materialknappheiten verringert werden können. Der Mangel an Fachkräften kann ebenfalls mittels KI gelindert werden, wenn einfache Aufgaben auf KI-ge-stützte Anwendungen wie Buchungssysteme, Chatbots oder Übersetzungsprogramme über-tragen werden. Auch in der Pandemiebekämpfung konnte KI ihren Beitrag leisten.8 Die Er-kenntnis, dass KI bei akuten Krisen helfen kann, ist in der Politik angekommen: Zum Beispiel fördern Frankreich und Deutschland gemeinsam KI-Projekte für mehr Krisenresilienz.9
+Generell ist der Einsatz von KI ein wichtiger Faktor für die zukünftige Wettbewerbsfähigkeit von Unternehmen in Deutschland.10 Durch die Einbindung von Deutschland in die Europä-ische Union ist das Thema KI aber auch entscheidend für die gesamte Wirtschaft in der Europäischen Union. So kommt das World Economic Forum in Kooperation mit der Unter-nehmensberatungsgesellschaft McKinsey zu dem Schluss, dass durch den Einsatz von KI der ökonomische Output in Europa bis zum Jahr 2030 um rund 2,7 Billionen Euro gesteigert werden kann.11 Da bei KI noch erhebliche Entwicklungsmöglichkeiten bestehen12, dürften die zu realisierenden Potenziale für die gesamte Gesellschaft noch wesentlich höher liegen. Bei-spielsweise stehen zahlreiche Bürgerinnen und Bürger in Deutschland dem Einsatz von KI bei einer Beratung bezüglich ihrer Altersvorsorge offen gegenüber.13 Zum Teil sind sie dies-bezüglich sogar bereit, komplett auf eine menschliche Beratung zu verzichten.
+Der KI-Monitor leistet vor diesem Hintergrund einen wesentlichen Beitrag, um die Weichen zur Implementierung und Entwicklung von KI in Deutschland adäquat zu stellen. Durch eine geeignete Entwicklung und den Einsatz von KI können nicht nur aktuelle Krisen und ihre Aus-wirkungen gemildert, sondern auch die Wettbewerbsfähigkeit der Unternehmen in Deutsch-land verbessert werden. Zunächst stellt der KI-Monitor die aktuelle Gesamtentwicklung im Bereich KI im Vergleich zum Basisjahr 2019 prägnant mihilfe des KI-Index dar. Auf Basis der für den KI-Index verwendeten Indikatoren kann zudem die Entwicklung seit 2019 kleinteilig nachgezeichnet werden. Dies wird insbesondere dadurch erleichtert, dass die Definition von KI und die verwendeten Indikatoren konstant gehalten werden. Konkret wird unter KI „die Schaffung von (quasi) intelligenten Programmen und Maschinen, welche Entscheidungen selbstständig treffen und basierend auf diesen Handlungen ausführen können, verstanden“.14 Aufbauend auf dieser durchgängigen Empirie können schlussendlich Handlungsbedarfe ab-geleitet sowie die Auswirkungen politischer Maßnahmen und exogener Schocks evaluiert werden. Dies erleichtert es in einem zweiten Schritt, die Entwicklung zielgerichtet weiter zu fördern.
+ 7 Im Folgenden wird der KI-Monitor des Jahres 2021 ohne jeweilige Quellenbezeichnung genannt. Konkret ist jedes
+Mal die Quelle Büchel et al. (2021) gemeint.
+ 8 Europäische Kommission, 2021a  9 BMWK, 202210 Demary/Goecke, 202111 WEF, 201912 vgl. starke und schwache KI im KI-Monitor 202113 Bitkom, 2022a14 Demary et al., 2020, S. 6
+[Page #7]
+Aktuelle Entwicklungen und Struktur des KI-Index
+Der Aufbau des KI-Index und die aktuelle Entwicklung im Bereich KI werden in Abschnitt 2 kurz dargestellt. Die verwendeten Indikatoren für den Index und deren Entwicklung finden sich in Form von Steckbriefen im Anhang. In den KI-Monitoren 202015 und 2021 wurden die Indikatoren und deren Erhebung bereits ausführlich beschrieben, daher wird an dieser Stelle darauf verzichtet. Diese Verschiebung ermöglicht es, die Ergebnisse des Index insgesamt sowie für die Kategorien und die Indikatoren direkt nach der Beschreibung des Aufbaus im dritten Kapitel darzustellen. Anschließend werden im vierten Kapitel Handlungsempfehlun-gen abgeleitet, bevor ein Fazit den KI-Monitor beschließt.
+2 Aktuelle Entwicklungen und Struktur des KI-Index
+Seit 1956 wird bereits intensiv an Künstlicher Intelligenz geforscht16 und seit 2020 wird jähr-lich der KI-Monitor des Bundesverbands Digitale Wirtschaft (BVDW) e.V. in Kooperation mit dem Institut der deutschen Wirtschaft (IW) veröffentlicht. Vor diesem Hintergrund kann die Darstellung der Entwicklung von KI sowie der Aufbau des KI-Index des KI-Monitors entspre-chend kurz ausfallen. In Abschnitt 2.1 werden dazu die aktuellen Entwicklungen im Bereich KI zusammengefasst, während Abschnitt 2.2 Ziel und Aufbau des KI-Index für die neuen Leserinnen und Leser überblicksartig darstellt.17
+2.1 Aktuelle Entwicklungen
+Das seit dem letzten KI-Monitor vergangene Jahr war insbesondere durch Corona-Pande-mie, anziehende Inflation, Lieferengpässe und Ukraine-Krieg geprägt. Doch auch die Bundes-tagswahl und der Regierungswechsel ragten heraus. Während dieses Jahres haben sich im Bereich Künstliche Intelligenz wichtige Entwicklungen ergeben. Dabei ist insbesondere zu beobachten, dass vor allem auf politischer Ebene vermehrt internationale Initiativen zur Re-gulierung sowie Förderung vorangetrieben wurden. Wie bereits im KI-Monitor 2021 erwähnt, wurde im April 2021 der Regulierungsentwurf zu KI durch die Europäische Kommission ver-öffentlicht. Knapp ein Jahr später, am 20. April 2022, publizierte das Europäische Parlament seinen Entwurf mit Änderungsvorschlägen.18 Darin wird bekräftigt, dass KI anthropozentrisch und vertrauensvoll sein soll sowie die Werte der Europäischen Union respektieren muss.19 Andererseits sollen Innovationen durch zu viele oder zu strenge Vorgaben möglichst nicht behindert werden. Wesentliche Änderungen in dem Vorschlag betreffen eine Erweiterung der Liste mit den Hochrisiko-KI-Anwendungen. So sollen insbesondere Anwendungen dazu zäh-len, die das Wahlverhalten von Wählerinnen und Wählern beeinflussen oder die Entwicklung von Kindern beeinträchtigen können. Aber auch im Bereich der Überwachung der Entwicklung von KI und der internationalen Kooperation im Feld der KI werden Anpassungen angeregt.
+Dieser Reportentwurf des Europäischen Parlaments ist aber nur eine Zwischenstufe.20 Der Report muss noch vom Europäischen Parlament verabschiedet werden. Ferner muss der Rat der Europäischen Union seine Positionierung erarbeiten. Die Ansichten von Kommission, Par-lament und Rat bilden anschließend die Grundlage der Trilogverhandlungen, an deren Ende ein Entwurf steht, der die Grundlage für die finale Regulierung liefert.
+15 Im Folgenden wird der KI-Monitor des Jahres 2020 ohne jeweilige Quellenbezeichnung genannt. Konkret ist jedes
+Mal die Quelle Demary et al. (2020) gemeint.
+16 Demary et al., 202017 Die interessierten Leserinnen und Leser können sehr gerne auf den KI-Monitor 2020 (Demary et al., 2020) und den
+KI-Monitor 2021 (Büchel et al., 2021) für weitere Informationen zurückgreifen.
+18 Europäisches Parlament, 2022a19 Ebenda, S. 15920 Europäisches Parlament, 2022b
+[Page #8]
+Aktuelle Entwicklungen und Struktur des KI-Index
+Die Regulierung von KI ist jedoch nicht die einzige Initiative auf europäischer Ebene. Die EU möchte insbesondere die Haftungsregeln für Schäden durch defekte Produkte im Hinblick auf KI überarbeiten.21 Dazu wurde im Januar 2022 eine öffentliche Konsultation abgeschlos-sen, die die Grundlage für die Befassung mit dem Thema durch die Kommission im 3. Quartal 2022 bildet.
+Es existieren zudem weitere internationale Initiativen zur Kooperation in Bezug auf KI. Im Juni 2021 legten US-Präsident Biden und EU-Kommissionspräsidentin von der Leyen den Grundstein für das U.S.-EU Trade and Technology Council (TTC).22 In diesem werden ins-besondere gemeinsame Leitlinien für KI entwickelt.23 Um die Transmission von Forschung in die Praxis international zu unterstützen, wurde 2020 die Global Partnership on Artificial Intelligence (GPAI) gegründet.24 Deutschland gehört hier auch zu den Gründungsmitgliedern. In der Tat mussten im KI-Monitor 2020 Defizite bei der Transmission von Forschung in die Praxis verzeichnet werden. Im KI-Monitor 2021 konnten gleichwohl bereits Verbesserungen bei der Kooperation zwischen Forschung und Wirtschaft verzeichnet werden.
+Auch auf nationaler Ebene konnten Entwicklungen bei KI beobachtet werden. So wurde KI in der 17. Novelle der Außenwirtschaftsordnung in die Liste der Technologien aufgenommen, die voraussichtlich Auswirkungen auf die Öffentliche Ordnung oder Sicherheit haben.25 Der Bundesregierung stehen somit bei Übernahmen und Beteiligungen an inländischen KI-Un-ternehmen durch ausländische Investoren mehr Kompetenzen bei der Investitionsprüfung zu. Zudem wurden vier Modellprojekte für mehr KI-Gründungen aus der Wissenschaft auf-gelegt.26 Dies reiht sich nahtlos in die Förderung der Infrastruktur ein, wodurch die Grund-lagen für die Entwicklung von KI verbessert werden. Beispielsweise wurde im Mai 2021 die Förderung für Quantencomputing angepasst.27 Ebenfalls erfreulich ist, dass im Mai 2022 die in der KI-Strategie28 angekündigten zusätzlichen 100 KI-Professuren endlich besetzt werden konnten.29
+Damit werden national wie international der Rahmen sowie die Grundlagen für die Entwick-lung von KI angepasst. Insbesondere die Wirtschaft – Unternehmen und Investoren – fül-len diesen Rahmen zudem vermehrt aus. So konnten 2021 weltweit private Investitionen in KI-Unternehmen von rund 93,5 Milliarden US-Dollar verzeichnet werden.30 Damit haben sich die Investitionen im Vergleich zum Corona-Jahr 2020 mehr als verdoppelt. Gleichzeitig hat sich die Anzahl an Unternehmen, in die investiert wurde, von 762 auf 746 verringert. Somit wurden im Schnitt höhere Summen in einzelne Unternehmen investiert, was auf eine Kon-zentration auf Unternehmen mit hohem Potenzial hindeutet. Auch im KI-Monitor 2021 wurde insbesondere die Wirtschaft als treibende Kraft bei der Entwicklung von KI in Deutschland identifiziert.
+Bevor mithilfe des KI-Index 2022 die Entwicklungen im vergangenen Jahr nachgezeichnet werden, um darauf basierend Handlungsempfehlungen für die Politik abzuleiten, wird im fol-genden Abschnitt kurz der Aufbau des Index zusammengefasst. Dadurch sollen insbesonde-re die Grundlagen für eine verbesserte Interpretation gelegt werden.
+21 Europäische Kommission, 202222 US Department of Commerce, 2021a23 US Department of Commerce, 2021b24 GPAI, 202225 Bundesanzeiger, 202126 BMWK, 2021a27 BMWK, 2021b28 Bundesregierung, 201829 BMBF, 202230 Zhang et al., 2022, S. 12
+[Page #9]
+Aktuelle Entwicklungen und Struktur des KI-Index
+2.2 Struktur des KI-Index
+Der Kern des KI-Monitors wird durch den KI-Index gebildet. Dieser hat die Aufgabe, übersicht-lich den aktuellen Stand der KI in Deutschland im Vergleich zum Basisjahr 2019 und im Zeitab- lauf darzustellen. Dazu wurden für den KI-Monitor 2020 anhand von Literaturrecherche und theoretischen Überlegungen drei wesentliche Kategorien identifiziert. Die Kategorien und die in der jeweiligen Kategorie verwendeten Indikatoren sind in Tabelle 2-1 dargestellt.
+Tabelle 2-1: Kategorien und Indikatoren des KI-Index
+Die Kategorien gehen gleichgewichtet (Gewicht je 1/3) in den KI-Index ein, während die Indikatoren lediglich innerhalb der jeweiligen Kategorien gleichgewichtet sind.
+KI-INDEX
+Kategorie Rahmenbedingungen
+Kategorie Wirtschaft
+Kategorie Gesellschaft
+Einschätzung der Bedeutung von KI durch Unternehmen
+Bekanntheit von KI in der Gesellschaft
+Digitale Infrastruktur
+Einsatz von KI in Unternehmen
+KI in Bundestagsprotokollen
+KI in Printmedien
+Informatikabsolventen
+KI in Geschäftsberichten
+KI auf Twitter
+Wissenschaftliche KI-Publikationen
+KI-Patentanmeldungen
+Google-Suchinteresse an KI
+Kooperation zwischen KI- Forschung und Unternehmen
+KI in Stellenanzeigen
+Quelle: eigene Darstellung
+Die Rahmenbedingungen sind für den Einsatz und die Entwicklung von KI von hoher Be-deutung. Die Politik setzt den regulatorischen Rahmen, der bestimmt, welche Anwendungen unter welchen Bedingungen erlaubt sind. Zudem ist der Staat ein wesentlicher Akteur, der über die Bereitstellung von Infrastruktur und Fördermitteln die technologischen Möglichkei-ten von Unternehmen beeinflusst. Zur Abbildung der Einflussmöglichkeiten des Staates und zur Bewertung der Qualität weiterer Rahmenbedingungen, werden insgesamt fünf Indikato-ren verwendet. Konkret wird die Verfügbarkeit der digitalen Infrastruktur über einen Indikator abgebildet. Zudem wird analysiert, in welchem Umfang sich der Bundestag mit dem Thema KI beschäftigt. Grundlegend für den Einsatz von KI ist jedoch auch die Forschung und die Transmission von Forschungsergebnissen in die Praxis. Daher werden ebenso diese Fakto-ren bei den Rahmenbedingungen jeweils über einen Indikator abgebildet. Grundlegend für den Einsatz von KI ist schlussendlich auch das verfügbare Know-how31, welches ebenfalls über einen Indikator in die Kategorie eingeht. Insgesamt wird die Kategorie Rahmenbedin-gungen somit durch fünf Indikatoren gebildet, die jeweils ein Gewicht von 20 Prozent haben. Dies hat zur Folge, dass die Indikatoren im Gesamtindex ein Gewicht von 1/15 besitzen.
+Wesentlich bei der Analyse von KI ist ebenfalls die Wirtschaft, da sie KI-Anwendungen nach-fragt und einsetzt sowie Anwendungen selbst entwickelt und potenziellen Nachfragern zur Verfügung stellt. Die Wirtschaft ist demnach sowohl als Nachfrager als auch als Anbieter von KI-Technologien aktiv. Zur Abbildung dieser Zusammenhänge wird zunächst über eine exklu-sive Unternehmensbefragung im Rahmen des IW-Zukunftspanels erfasst, welche Bedeutung Unternehmen KI zuschreiben und welcher Anteil der Unternehmen bereits KI einsetzt. Des Weiteren werden die Jahresberichte der Unternehmen im deutschen Börsen-Leitindex DAX analysiert. Die DAX-Unternehmen haben hohes wirtschaftliches Gewicht und auch eine Vor-
+31 Rammer, 2021
+[Page #10]
+Aktuelle Entwicklungen und Struktur des KI-Index
+bildfunktion.32 Inwiefern sie Chancen und Risiken bei KI sehen, liefert folglich wichtige Einbli-cke für den Standort Deutschland insgesamt. Ebenfalls mit einem Indikator abgebildet wird die Nachfrage der Unternehmen nach KI-Fachkräften, weil diese von hoher Bedeutung für den Einsatz von KI in Unternehmen sind.33 Der Output an Forschungsbemühungen im Bereich KI, welcher sich aus den Patentanmeldungen ergibt, geht ebenfalls in den Index ein. Insge-samt wird die Kategorie Wirtschaft somit durch fünf Indikatoren gebildet. Diese Indikatoren werden innerhalb der Kategorie gleichgewichtet: Jeder Indikator geht mit einem Gewicht von 20 Prozent in die Kategorie ein. Da die drei Kategorien jeweils von gleicher Bedeutung für KI und den KI-Index sind (Gewicht: jeweils 1/3), haben die Indikatoren der Kategorie Wirtschaft jeweils ein Gesamtgewicht im Index von 1/15.
+Die Entwicklungen in der Wirtschaft finden nicht unabhängig statt. Die Akzeptanz von KI und die Nachfrage nach KI in der Gesellschaft bestimmen, wie viel KI tatsächlich eingesetzt und in Produkten abgesetzt werden kann. Dies sind wesentliche Determinanten für entsprechen-de Investitionen in KI, weshalb diese ebenfalls mithilfe von Indikatoren abgedeckt werden. Konkret geht in die Kategorie Gesellschaft ein, inwieweit KI der Bevölkerung bekannt ist und in welchem Umfang sie an neuem Wissen über KI interessiert ist. Dieses Interesse wird über die Entwicklung der Suchanfragen bei der dominierenden Suchmaschine Google34 abgebil-det. Die Akzeptanz von KI in der Gesellschaft wird über die Tonalität von Artikeln in bedeu-tenden Printmedien35 sowie in Diskussionen auf dem Kurznachrichtendienst Twitter erfasst. Die Tonalität gibt dabei Aufschlüsse darüber, ob das Thema positiv, negativ oder neutral diskutiert wird. Die insgesamt vier Indikatoren der Kategorie Gesellschaft gehen jeweils mit einem Gewicht von 25 Prozent in die Kategorie ein. Entsprechend haben die vier Indikatoren jeweils ein Gewicht von 1/12 im Gesamtindex.
+Der KI-Index verwendet das Jahr 2019 als Basisjahr. Somit wird die Entwicklung im Vergleich zur Situation in diesem Basisjahr dargestellt. Dazu werden die prozentualen Veränderungen der verwendeten Indikatoren ( ) im Vergleich zu ihrem Wert im Indexjahr 2019 () berech-net. Für jede Kategorie wird anschließend die Summe der Veränderungen der verwendeten  definiert, ergibt Indikatoren gebildet. Wird sich die gewichtete Summe der Veränderungen in dieser Kategorie im Jahr
+ als Anzahl der Indikatoren in der Kategorie
+ wie folgt:
+Die Veränderungen der drei Kategorien gewichtet und aufaddiert. Das Ergebnis ist die Veränderung des Gesamtindex (Jahres wird, aus dem Indexwert des Vorjahres ((
+ werden für das jeweilige Jahr wiederum mit 1/3 ) des  bezeichnet ) zuzüglich der Veränderungen im aktuellen Jahr
+. Es gilt, dass sich der Gesamtindexwert des Jahres
+, welcher mit
+) ergibt.
+Für das aktuelle Indexjahr 2022 kann der Indexwert
+ wie folgt berechnet werden:
+.
+32 Kilian/Hennings, 2011, S. 25033 Rammer, 202134 Bundeskartellamt, 202235 Es werden die Onlineausgaben von drei der fünf auflagenstärksten Zeitungen in Deutschland (Bild, Die Welt und
+Handelsblatt) untersucht.
+[Page #11]
+Ergebnisse des KI-Index
+Die Entwicklung des KI-Index im Jahr 2022 kann somit aufgeteilt werden in die Entwicklun-gen der Jahre 2019 bis 2020, 2020 bis 2021 und 2021 bis 2022. Es kann folglich die Gesam-tentwicklung seit 2019 betrachtet werden. Zusätzlich kann diese Gesamtentwicklung auf die betrachteten Jahre aufgeteilt und näher analysiert werden. Die konkreten Entwicklungen bei den Indikatoren sind im Anhang ausführlich dargestellt. Im folgenden Abschnitt werden das Gesamtergebnis und die Ergebnisse in den Kategorien analysiert.
+3 Ergebnisse des KI-Index
+Die Berechnung des KI-Index 2022 (Abbildung 3-1) auf Basis der 14 Indikatoren und der drei Kategorien zeigt eine ambivalente Entwicklung sowohl im Vergleich zum Vorjahr als auch im Vergleich zum Basisjahr 2019:
+Der KI-Index 2022 beträgt 122 Punkte. Im Vergleich zum Jahr 2021 ist dies ein Rückgang um 1,22 Indexpunkte, während mit Blick auf das Basisjahr eine Verbesserung um 22 Index-punkte verzeichnet werden kann.
+Im Vergleich zu den dynamischen Entwicklungen in den Vorjahren ist das positive Momen-tum verlorengegangen. Von 2019 auf 2020 konnte noch ein Zuwachs um rund sieben Punkte verzeichnet werden. Von 2020 auf 2021 betrug der Zuwachs nochmals mehr als 16 Punkte. Der Rückgang im aktuellen Jahr ist somit umso schwerwiegender, da bei der Zukunftstech-nologie KI eigentlich weiterhin eine positive Entwicklung zu erwarten gewesen wäre.
+Im Vergleich zum Basisjahr 2019 ist die Entwicklung insgesamt noch erfreulich. Zum Anstieg um 22 Indexpunkte seit 2019 haben die einzelnen Kategorien jedoch höchst unterschiedlich beigetragen: So hat die Kategorie Rahmenbedingungen in jedem einzelnen Erhebungsjahr gegenüber dem Vorjahr einen negativen Beitrag geliefert. Unter dem Strich beträgt der Bei-trag dieser Kategorie seit 2019 rund minus zwei Indexpunkte. Mit -1,33 erfolgte der größte Rückgang im KI-Index 2022 im Vergleich zum KI-Index 2021.
+Den größten Beitrag zum Anstieg des KI-Index seit 2019 hat die Wirtschaft geliefert. In Sum-me trug sie rund 21,5 Indexpunkte bei. Im KI-Index 2020 betrug der Anstieg 5,42 Indexpunkte. Im KI-Index 2021 im Vergleich zum KI-Index 2020 konnte nochmals eine Zunahme von mehr als 17 Indexpunkten verzeichnet werden. Der Rückgang um 1,22 Indexpunkte zwischen dem aktuellen Erhebungsjahr und dem KI-Index 2021 ist somit im gesamten Betrachtungszeit-raum der erste negative Beitrag dieser Kategorie.
+Die Gesellschaft hat sich über den gesamten Erhebungszeitraum als Konstante erwiesen. Insgesamt beträgt der Beitrag dieser Kategorie seit 2019 rund +2,5 Indexpunkte. Dieser teilt sich auf in eine Zunahme um rund zwei Punkte im KI-Index 2020 und um +1,33 Punkte im KI-Index 2022 gegenüber dem KI-Index 2021. Zwischen 2020 und 2021 musste hingegen ein leichter Rückgang um 0,74 Indexpunkte konstatiert werden.
+Insbesondere vor dem Hintergrund der multiplen wirtschaftlichen und geopolitischen Her-ausforderungen ist die aktuelle Gesamtentwicklung erklärbar. Lieferengpässe, Unsicherhei-ten in Folge von Inflation und Pandemiegeschehen könnten für den Rückgang der Dynamik insbesondere in der Wirtschaft gesorgt haben. Die Pandemie 2020 bis 2022 kann auch die Gesellschaft sowie Politik zunehmend beschäftigt haben. Welche Entwicklungen konkret für das Abschneiden der Kategorien verantwortlich sind, wird im Folgenden näher analysiert.
+[Page #12]
+Ergebnisse des KI-Index
+Hierdurch werden insbesondere auch Ableitungen ermöglicht, die die Identifizierung von Handlungsempfehlungen für eine dynamischere Entwicklung in der Zukunft erlauben. Dass die Triebkräfte für KI in Deutschland vorhanden sind, haben die letzten beiden Ausgaben des KI-Monitors bereits bewiesen. Jetzt gilt es, diese auch wieder zur Entfaltung kommen zu lassen.
+Abbildung 3-1: KI-Index in Deutschland 2019 bis 2022 sowie Beitrag der Kategorien zur Veränderung der Index-Werte 2020 bis 2022
+17,33
+123,22
+1,33
+-0,74
+-1,33
+-1,22
+1,91 106,94
+5,42
+-0,32
+-0,39
+0202xednI-IK
+1202xednI-IK
+2202xednI-IK
+9102xednI-IK
+negnugndeb
+negnugndeb
+negnugndeb
+tfahcs
+tfahcs
+tfahcs
+tfahcstri
+tfahcstri
+tfahcstri
+-
+-
+-
+nemhaR
+nemhaR
+nemhaR
+ll
+ll
+ll
+eseG
+eseG
+eseG
+i
+i
+i
+W
+W
+W
+KI-Index in Indexpunkten (dunkelblau), 2019=100, gewichteter zusätzlicher Beitrag der Kategorien in Indexpunkten (hellblau). Aufgrund von Anpassungen in der Methodik weichen die hier dargestellten Werte für 2020 teilweise von denen im KI-Monitor 2020 ab.
+Quelle: IW, eigene Berechnungen
+3.1 Kategorie Rahmenbedingungen
+Analog zum KI-Monitor 2020 und zum KI-Monitor 2021 muss auch im KI-Monitor 2022 ein negativer Beitrag für die Kategorie Rahmenbedingungen36 festgestellt werden (Abbildung 3-1). Im Vergleich zu den Vorjahren, wo jeweils ein Rückgang im Bereich von 0,3 bis 0,4 Index-punkten festgestellt wurde, hat sich der Rückgang auf aktuell 1,33 beschleunigt. Im KI-Index hat die Kategorie Rahmenbedingungen im Vergleich zum Basisjahr 2019 in Addition einen negativen Beitrag von 2,04 Indexpunkten geliefert. Da die Rahmenbedingungen lediglich eine von drei gleichwertigen Kategorien bilden, wird die Veränderung seit 2019 mit einem Drittel gewichtet. Der Rückgang um rund zwei Indexpunkte bedeutet somit, dass sich die Rahmen-bedingungen um mehr als sechs Punkte verschlechtert haben. Die Einzelbetrachtung der Indikatoren verdeutlicht, welche Entwicklungen maßgeblich für diese Verschlechterung ver-antwortlich sind.
+36 Die Gesamtentwicklung der Kategorie ergibt sich dabei aus der Summe der gewichteten Änderungen der Indi-
+katoren. Das Gewicht eines Indikators wird durch die Anzahl an Indikatoren in der Kategorie bestimmt. Bei den Rahmenbedingungen haben alle Indikatoren folglich ein Gewicht von 1/5.
+[Page #13]
+Ergebnisse des KI-Index
+Tabelle 3-1: Veränderungen der Indikatoren in der Kategorie Rahmenbedingungen zwischen 2019 und 2022
+Die fünf Indikatoren innerhalb der Kategorie werden jeweils mit 1/5 gewichtet, Angaben in Prozent
+Indikator-wert 2019
+Indikator-wert 2021
+Indikator-wert 2022
+Veränderung des Indikators zwischen 2019 & 2022
+Gewichtete Veränderung im KI-Index 2022
+Digitale Infrastruktur
+66,3
+85,7
+89,6
++35,14
++7,03
+KI in Bundestags- protokollen
+0,174
+0,085
+0,067
+-61,49
+-12,30
+Informatikabsolventen
+26.394
+28.909
+28.875
++9,40
++1,88
+Wissenschaftliche KI-Publikationen
+3,78
+3,57
+2,99
+-20,90
+-4,18
+Kooperationen zwischen KI-Forschung und Unternehmen
+3,71
+3,99
+3,98
++7,28
++1,46
+Summe:
+-6,11
+Gewichtung der Kategorie Rahmenbedingungen im KI-Index: 1/3
+Wert für KI-Index:
+-2,04
+Quelle: IW, eigene Berechnungen
+■ Digitale Infrastruktur
+Sowohl für Unternehmen, die KI bereits einsetzen, als auch für Unternehmen, die KI aktu-ell noch nicht nutzen, stellt eine leistungsfähige Infrastruktur einen wichtigen Faktor für die Anwendung von KI dar.37 Zur Approximation der digitalen Infrastruktur in Deutschland wird die Breitbandverfügbarkeit der privaten Haushalte herangezogen. Da viele Gebiete in Deutschland sogenannte Mischgebiete sind,38 die gleichzeitig Unternehmen und private Haushalte beherbergen, bildet die Breitbandverfügbarkeit der Haushalte in Deutschland die gesamte Verfügbarkeit der Volkswirtschaft ab. Seit dem Basisjahr 2019 hat sich die Verfügbarkeit schnellen Internets in Deutschland kontinuierlich verbessert. Konkret weist der Indikator einen Anstieg um mehr als 35 Pro-zent seit 2019 aus. Dennoch besteht weiterhin Verbesserungspotenzial und auch die Not-wendigkeit zur Verbesserung. Mit einem weiteren Vordringen von digitalen Technologien und Anwendungen Künstlicher Intelligenz erhöhen sich ebenfalls die Anforderungen an die Infrastruktur. Dies wird an einer Unternehmensbefragung deutlich: 73 Prozent der Un-ternehmen in Deutschland halten die Verbesserung der IT-Infrastruktur für wichtig für den Einsatz von KI.39
+■ KI in Bundestagsprotokollen
+Die Politik kann die Implementierung von KI auf mehreren Wegen unterstützen. Zunächst ist sie aufgerufen, einen geeigneten regulatorischen Rahmen für die Entwicklung von KI zu setzen. Dieser dient insbesondere dazu, KI-Investitionen in erwünschte Anwendungen zu lenken und rechtliche Unsicherheit abzubauen, die Investitionen verhindern können. Weitere Möglichkeiten zur Unterstützung von KI sind der Einsatz von KI beispielsweise in der staat-lichen Verwaltung oder die Implementierung von Förderprogrammen zum Einsatz von KI.
+37 Rammer, 202138 Büchel et al., 2020, S. 739 Rammer, 2021, S. 18
+[Page #14]
+Ergebnisse des KI-Index
+Die Nennung von KI-Begriffen in Bundestagsdebatten können vor diesem Hintergrund den Stellenwert des Themas sowie die politischen Anstrengungen abbilden. Die Anteile der KI-Begriffe pro 1.000 Wörter je Rede in den jeweiligen Plenarsitzungen weisen seit 2018 einen konstant negativen Trend auf. Während 2018 0,174 Wörter pro 1.000 Wörter in Re-den verzeichnet wurden, waren es im gesamten Jahr 2021 lediglich rund 0,07 KI-Wörter. Folglich weist der Indikator einen Rückgang um mehr als 61 Prozent im Beobachtungs-zeitraum auf. Da Anstrengungen zur Regulierung zunehmend international stattfinden (vgl. Abschnitt 2) sowie vor dem Hintergrund der herausfordernden gesundheits- und geopoliti-schen Situation, ist diese Entwicklung zwar nicht überraschend, dennoch sollte sie weiter-hin mit besonderem Augenmerk verfolgt werden.
+■ Informatikabsolventen
+In Studien zu den Herausforderungen beim Einsatz von KI wird immer wieder auf das Fehlen von entsprechendem Know-how verwiesen.40 Eine Analyse von Stellenausschrei-bungen ergab in diesem Zusammenhang, dass KI-Kompetenzen oftmals mit einem Stu-dienabschluss aus den MINT-Fachrichtungen, insbesondere der Informatik, gleichgesetzt werden.41 Zur Abbildung des verfügbaren Know-how im KI-Index wird daher die Anzahl er-folgreich abgeschlossener Abschlussprüfungen im Studienfach Informatik verwendet. Mit einer erfolgreich absolvierten Prüfung sollte der Erwerb von einschlägigem Know-how ein-hergehen. Im Basisjahr 2019 des KI-Index waren die Werte für 2017 auf Basis des Statisti-schen Bundesamts verfügbar.42 Für die aktuelle Version des KI-Index werden entsprechend die Werte für 2020 verwendet.43 Im Betrachtungszeitraum hat sich die Anzahl erfolgreich bestandener Abschlussprüfungen um mehr als neun Prozent erhöht. Im Vergleich zum Jahr 2019, welches für den KI-Index 2021 verwendet wurde, muss jedoch ein Rückgang um 34 bestandene Abschlussprüfungen verzeichnet werden, was einem Rückgang von 0,1 Prozent entspricht. Sollte sich diese Entwicklung in den folgenden Jahren fortsetzen, könnte die Verbreitung von KI nachhaltig behindert werden.
+■ Wissenschaftliche KI-Publikationen
+Die Forschung und die dort generierten Erkenntnisse sind bedeutende Treiber des tech-nologischen Fortschritts. Dies gilt ebenso für KI: Je mehr Forschungsresultate in Fach-publikationen zur Verfügung stehen, desto wahrscheinlicher dürfte die Umsetzung von entsprechenden Ideen sein. Der KI-Index verwendet daher die relative Bedeutung von KI-Publikationen als Indikator für die Bedeutung von KI in der Forschung in Deutschland. Auf Basis von Microsoft Academic Graph werden alle wissenschaftlichen Publikatio-nen ermittelt, an denen mindestens eine Autorin oder ein Autor von einer Institution aus Deutschland beteiligt ist.44 Anschließend wird ermittelt, wie viele dieser Publikationen dem Themenfeld KI zugeordnet werden können. Der Anteil KI-Publikationen an allen deutschen Publikationen fließt als Indikator in den KI-Index ein. Im Vergleich zum Erhebungsjahr 2019 und zum Vorjahr ist hier eine Verschlechterung zu beobachten. Der Rückgang beträgt nahezu 21 Prozent. Im Vorjahr betrug die Verringerung im Vergleich zu 2019 jedoch lediglich rund sechs Prozent. Folglich hat KI in der Forschung erneut an Bedeutung verloren. Diese Entwicklung muss beobachtet werden, um entspre-chend gegenzusteuern. Der Hintergrund ist, dass dieser Rückgang darauf hindeuten kann, dass sich andere Staaten im Bereich der KI-Forschung einen Vorsprung erarbeiten.
+■ Kooperationen zwischen KI-Forschung und Unternehmen
+Von besonderer Bedeutung für die Entwicklung von KI in Deutschland ist der Transfer von Forschungserkenntnissen in die unternehmerische Praxis. Nur durch die Nutzbarma-chung von Forschungserkenntnissen kann ein Mehrwert generiert werden. Von besonde-rer Bedeutung für diese Nutzbarmachung sind Kooperationen zwischen Unternehmen und
+40 z.B. Rammer, 2021; Bitkom, 2021a; WIK, 2019 41 Büchel/Mertens, 202142 Statistisches Bundesamt, 201843 Statistisches Bundesamt, 202144 Microsoft Academic Graph, 2022
+[Page #15]
+Ergebnisse des KI-Index
+Forschungseinrichtungen.45 Der Indikator Kooperation bildet daher ab, wie der Stand des Transfers von Wissen ist. Dazu werden erneut die deutschen wissenschaftlichen KI-Pub-likationen aus dem vorhergehenden Indikator herangezogen. Für diese wird anschließend bestimmt, bei welchen Publikationen mindestens eine Forschungseinrichtung und min-destens ein Unternehmen beteiligt sind. Der Anteil der Publikationen mit Beteiligungen an allen deutschen KI-Publikationen wird als Indikator verwendet. Dieser Anteil hat sich im Vergleich zum Vorjahr nahezu nicht verändert. Im KI-Monitor 2021 betrug der Anteil 3,99 Prozent. Im KI-Monitor 2022 liegt der Wert bei 3,98 Prozent. Im Vergleich zum Basisjahr 2019 ist eine Zunahme um knapp sieben Prozent zu verzeichnen. Der Transfer hat sich so-mit seit 2019 verbessert. Im Vergleich zum Vorjahr ist er aber nahezu konstant geblieben.
+In der Kategorie Rahmenbedingungen fällt beim Vergleich mit dem KI-Index 2021 auf, dass sich im vergangenen Jahr lediglich die digitale Infrastruktur verbessert hat. Der An-teil der Kooperationen zwischen Forschung und Unternehmen ist des Weiteren nahezu stabil. Negativ entwickelt haben sich der Anteil wissenschaftlicher KI-Publikationen an allen wissenschaftlichen Publikationen, die Befassung des Bundestags mit KI und die An-zahl an bestandenen Abschlussprüfungen im Bereich Informatik. Als Resultat muss die zugenommene Verschlechterung der Rahmenbedingungen (Abbildung 3-1) festgehalten werden. Die Zunahme an internationalen politischen Initiativen (vgl. Abschnitt 2.1) deutet an, dass die Befassung des Bundestags mit KI zurückgegangen ist, weil das Thema auf anderen Ebenen diskutiert wird. Der Rückgang bei bestandenen Abschlussprüfungen und dem Anteil wissenschaftlicher Publikationen deutet hingegen darauf hin, dass sich das zur Verfügung stehende Know-how zur Implementierung von KI negativ entwickelt hat. Sollte sich diese Entwicklung fortsetzen, würde dies eine wesentliche Herausforderung für die Entwicklung von KI in Deutschland darstellen.
+3.2 Kategorie Wirtschaft
+Die deutsche Wirtschaft ist im Vergleich zum Basisjahr 2019 weiterhin der treibende Faktor bei der Implementierung von Künstlicher Intelligenz in Deutschland. Doch im Vergleich mit 2021 muss nun sogar eine Verschlechterung konstatiert werden (Abbildung 3-1). Der gewich-tete Beitrag der Wirtschaft zum KI-Index 2022 beträgt rund 21,55 Indexpunkte. Im Vorjahr lag der Beitrag noch bei circa 22,75 Indexpunkten.46 Nach der Vervierfachung im vergangenen Jahr ist somit eine Abschwächung zu verzeichnen. Eine analoge Entwicklung ist auch bei der Mehrzahl der fünf Indikatoren in der Kategorie zu verzeichnen (Tabelle 3-2). Dies wird im Folgenden betrachtet. Vorher soll jedoch noch erwähnt werden, dass der Gesamteffekt von rund +21,5 Punkten bereits gewichtet ist (Tabelle 3-2). Das Gewicht der Kategorie Wirtschaft am Gesamtindex beträgt 1/3, da sie lediglich eine von drei gleichwertigen Kategorien ist. So-mit haben sich die fünf Indikatoren der Kategorie in Summe seit 2019 um nahezu 65 Prozent verbessert. Das Gewicht eines Indikators beträgt innerhalb der Kategorie ein Fünftel.
+■ Einschätzung der Bedeutung von KI durch Unternehmen
+Die Herausforderungen in der gegenwärtigen Situation mit angespannten Lieferketten, steigenden Preisen und politischen Unsicherheiten dürften für viele Unternehmen drän-gende Fragen aufwerfen. Vor diesem Hintergrund erscheint die aktuelle Entwicklung bei der Einschätzung der Bedeutung von KI durch Unternehmen sogar vergleichsweise positiv. Auf einer Skala von 0 (maximales Risiko) bis 100 (maximale Chance) lag der Mittelwert im Jahr 2022 bei nahezu 65. Im Vorjahr betrug der Wert etwa 66. Im Vergleich zum Basisjahr 2019 mit 63 ist jedoch weiterhin eine Zunahme zu verzeichnen. Trotz der enormen Her-ausforderungen, mit denen sich Unternehmen konfrontiert sehen, wird in KI weiterhin eine nahezu unverändert große Chance gesehen. Durch die Einschätzung von KI soll insbeson-dere abgebildet werden, ob Unternehmen sich mit dem Thema befassen und ob sie auch bereit sind, zukünftig zu investieren.
+45 Wang/Kong, 2019; Ahuja, 2000; Becker/Dietz, 200446 Büchel et al., 2021
+[Page #16]
+Ergebnisse des KI-Index
+Tabelle 3-2: Veränderungen der Indikatoren in der Kategorie Wirtschaft zwischen 2019 und 2022
+Die fünf Indikatoren innerhalb der Kategorie werden jeweils mit 1/5 gewichtet, Angaben in Prozent
+Indikator-wert 2019
+Indikator-wert 2021
+Indikator-wert 2022
+Veränderung des Indikators zwischen 2019 & 2022
+Gewichtete Veränderung im KI-Index 2022
+Einschätzung der Bedeutung von KI durch Unternehmen
+63,0
+65,7
+64,7
++2,70
++0,54
+Einsatz von KI in Unternehmen
+10,1
+21,1
+18,8
++86,14
++17,23
+KI in Geschäftsberichten
+1,60
+2,89
+2,59
++61,87
++12,37
+KI-Patentanmeldungen
+0,743
+1,457
+1,731
++132,97
++26,59
+KI in Stellenanzeigen
+0,58
+0,88
+0,81
++39,65
++7,93
+Summe:
++64,66
+Gewichtung der Kategorie Wirtschaft im KI-Index: 1/3
+Wert für KI-Index:
++21,55
+Quelle: IW; eigene Berechnungen
+■ Einsatz von KI in Unternehmen
+Neben der Einschätzung der Unternehmen zu KI ist ebenfalls wichtig, welche Bedeutung KI in den Unternehmen bereits hat. Dazu wird die Nutzung von KI in Unternehmen untersucht. Im Vergleich zum Befragungsjahr 2019 hat sich die Nutzung im Jahr 2022 um mehr als 86 Prozent erhöht. Während 2019 lediglich rund zehn Prozent der Unternehmen angaben, An-wendungen Künstlicher Intelligenz einzusetzen, waren es im ersten Halbjahr 2022 nahezu 19 Prozent. Im Jahr 2021 gaben jedoch mehr als 21 Prozent der befragten Unternehmen aus Industrie und industrienahen Dienstleistungen an, KI zu nutzen. Folglich muss bei diesem Indikator unerfreulicherweise ein Rückgang zum Vorjahr konstatiert werden. Diese Entwicklung bedarf einer weiteren Beobachtung, um festzustellen, ob es sich um einen statistischen Effekt auf Basis der antwortenden Unternehmen handelt oder ob es tieferlie-gende Ursachen gibt, die entsprechenden Handlungsbedarf begründen.
+■ KI in Geschäftsberichten
+Die Unternehmen im deutschen Börsen-Leitindex DAX haben durch ihre Größe und ihre Rolle in den Wertschöpfungsketten eine besondere Bedeutung für die gesamte Wirtschaft und oft eine Vorbildfunktion.47 Die Bedeutung von KI für das Geschäft dieser Unterneh-men kann somit auch die Rolle von KI für die gesamte Volkswirtschaft näher beleuchten. Im KI-Monitor 2022 muss auch bei der Thematisierung von KI in Geschäftsberichten ein Rückgang zum Jahr 2021 verzeichnet werden. Analog zu den beiden vorhergegangenen Indikatoren ist die Entwicklung im Vergleich zum Index-Basisjahr 2019 jedoch weiterhin positiv. Konkret wurden in den Geschäftsberichten für das Geschäftsjahr 2018 der jeweili-gen DAX-Unternehmen 1,6 KI-Begriffe pro 1.000 Wörter gezählt. In den Berichten für 2020 waren es nahezu 2,9 und für das zuletzt verfügbare Geschäftsjahr 2021 fast 2,6. Folglich ist die Thematisierung um rund zehn Prozent im Vergleich zum Vorjahr gesunken. Mögli-che Erklärungen können die Veränderung der Zusammensetzung des Leitindex, der von 30 auf 40 Unternehmen vergrößert wurde, und die Dominanz gesundheitspolitischer sowie geopolitischer Themen sein.
+47 Kilian/Hennings, 2011, S. 250
+[Page #17]
+Ergebnisse des KI-Index
+■ KI-Patentanmeldungen
+Die Innovationsfähigkeit einer Volkswirtschaft, die durch Patente approximiert werden kann, stellt einen wichtigen Faktor für die Wettbewerbsfähigkeit dar.48 Dies gilt auch für die Patente im Zusammenhang mit KI. In Bezug auf den Patentindikator muss jedoch beachtet werden, dass bei Patentanmeldungen ein Verzug von bis zu 18 Monaten auftritt. Dies resultiert aus der Pflicht zur Offenlegung der Patentinformation innerhalb dieser Frist. Daher gingen in den KI-Monitor 2020 die Werte der Jahre 2016 und 2017 ein. Für den aktu-ellen KI-Index kann auf die Daten der Jahre 2016 bis 2019 zugegriffen werden. Im Vergleich zum Jahr 2016 hat sich der KI-Patentindikator stetig positiv entwickelt. Wäh-rend 2016 der Anteil von KI-Patenten an allen Patentanmeldungen rund 0,74 Prozent be-trug, betrug der Anteil 2019 1,73 Prozent. Im Vergleich zum Jahr 2016 hat der Anteil von KI-Patenten somit um mehr als 130 Prozent zugelegt. Für die Innovationen in Deutschland wird KI also immer bedeutender, was eine erfreuliche Entwicklung darstellt.
+■ KI in Stellenanzeigen
+Humankapital ist gerade auch im Kontext von KI ein wichtiger Faktor für Unternehmen. In einer Unternehmensbefragung gaben 84 Prozent der Unternehmen an, dass das Ange-bot an Fachkräften eine hohe Bedeutung für KI und deren Einsatz hat.49 Damit stellt das Fachkräfteangebot aus Sicht der Unternehmen den wichtigsten externen Einflussfaktor dar. Doch auch bei der internen Organisation von Unternehmen mithilfe von KI sahen 35 Prozent der befragten Unternehmen im fehlenden Fachkräfteangebot eine Herausforde-rung.50 Daher verwundert es nicht, dass die Bedeutung von KI in Stellenanzeigen im Ver-gleich zu 2019 von rund 0,6 Prozent auf mehr als 0,8 Prozent im Jahr 2022 zugenommen hat. Konkret ist der Anteil von KI-Stellenausschreibungen an allen Stellenausschreibungen um rund 40 Prozent51 im Betrachtungszeitraum gestiegen. Im Vergleich zum Jahr 2021 musste zuletzt jedoch ein Rückgang verzeichnet werden. Die konkreten Ursachen für diese Entwicklung bedürfen einer weiteren Begutachtung. Grundsätzlich gilt, dass die Nachfrage nach Fachkräften kurzfristig konjunkturell schwankt, so dass hier mittelfristig bedeutsam ist, wie sich die KI-Stellenanzeigen in einer längeren Frist entwickeln.
+Im Vergleich zum Basisjahr 2019 stellt die Wirtschaft weiterhin den Treiber von KI in Deutsch-land dar, da sie den weitaus größten Beitrag zum Wachstum des KI-Index geleistet hat. Im Vergleich zum Vorjahr ist jedoch nur beim Patentindikator eine Verbesserung festzustellen. Die anderen vier Indikatoren weisen in der aktuellen Ausgabe 2022 im Vergleich zum Vorjahr Rückgänge auf (Tabelle 3-2). Dies ist insbesondere deshalb verwunderlich, weil die Unterneh-men KI weiterhin überwiegend als Chance sehen. Neben möglichen statistischen Effekten oder Effekten aufgrund der aktuell herausfordernden Gesamtsituation mit geopolitischen Risiken und Lieferkettenschwierigkeiten können auch Effekte des Standorts Deutschland ur-sächlich sein. Daher ist eine weitere Begutachtung der Entwicklung ratsam.
+3.3 Kategorie Gesellschaft
+Die Kategorie Gesellschaft hat sich als stabilisierender Faktor von KI in Deutschland etabliert. Sie ist die einzige Kategorie, die auch im vergangenen Indexjahr einen positiven Beitrag zum Gesamtergebnis leisten konnte (Abbildung 3-1). Der Zuwachs von 1,33 Indexpunkten im Ver-gleich zum Vorjahr konnte den Rückgang bei den Rahmenbedingungen gerade wettmachen. Im KI-Index 2021 musste im Vergleich zum entsprechenden Vorjahr noch ein Rückgang von rund 0,7 Indexpunkten verzeichnet werden. Insgesamt trug die Kategorie seit 2019 2,51 Punkte zum KI-Index bei. Die Entwicklungen bei den vier Indikatoren, die diesen Gesamteffekt bedin-gen, geben mehr Aufschluss über die zugrundeliegenden Ursachen. Im Kern sind zwei Indika-toren nahezu konstant, während sich je einer verbessert beziehungsweise verschlechtert hat.
+48 Büchel et al., 2021, S. 2349 Rammer, 2021, S. 1850 Ebenda, S. 1051 Rundungsdifferenzen
+[Page #18]
+Ergebnisse des KI-Index
+Der Gesamteffekt von +2,51 Punkten ist bereits gewichtet (Tabelle 3-3): Da die Kategorie Ge-sellschaft eine von drei gleichwertigen Kategorien ist, wurde der Effekt in der Kategorie durch drei geteilt. Seit 2019 ist somit eine Entwicklung von +7,52 Prozent zu verzeichnen. Dieser Wert ergibt sich aus der Summe der gewichteten Änderungen der Indikatoren seit 2019. Das Gewicht eines Indikators beträgt in der Kategorie Gesellschaft, in die vier Indikatoren einge-hen, ein Viertel.
+■ Bekanntheit von KI in der Gesellschaft
+Je besser die Bevölkerung über eine Technologie informiert ist, desto realistischer können die Bürgerinnen und Bürger deren Chancen und Risiken einschätzen sowie das Thema und den Einsatz von KI ergebnisoffen diskutieren. Folglich steigen die Akzeptanz sowie der ziel-gerichtete Einsatz von entsprechenden KI-Anwendungen tendenziell mit dem vorhandenen Wissen. Der Anteil an Personen, die den Begriff KI erklären können oder ungefähr wissen, was er bedeutet, bildet das vorhandene Wissen gut ab. Daher wird dieser Anteil als Indikator verwendet. Seit dem Jahr 2018, welches für das Basisjahr des KI-Index 2019 verwendet wurde, ist dieser Anteil stetig gestiegen. Während der Anteil 2018 lediglich 52 betrug, sind es aktuell 75 Prozent. Somit gab es eine Zunahme um mehr als 44 Prozent. Dies deutet ein Interesse an KI an und zeigt, dass bereits eine breite Wissensbasis vorhanden ist.
+■ KI in den Printmedien
+Das reine Wissen in der Gesellschaft verrät jedoch noch nicht, wie KI bewertet wird. Je po-sitiver KI gesehen wird, desto eher werden entsprechende Produkte und Dienstleistungen nachgefragt. Sollte vor dem Hintergrund von vorhandenem Wissen KI negativ gesehen werden, könnte die Nutzung mit dem Wissen jedoch sogar sinken. Vor diesem Hintergrund ist die Analyse, wie KI in den Printmedien und auf Twitter diskutiert wird, aufschlussreich. Die Diskussion in den Printmedien ist vor allem deshalb von Bedeutung, weil sich breite Teile der Gesellschaft dort informieren und auf deren Basis eine Meinung bilden. Für den Indikator werden drei der fünf auflagenstärksten Zeitungen in Deutschland herangezogen (Bild, Die Welt und Handelsblatt). Dort werden die Artikel mit KI-Bezug ermittelt und die Tonalität der Thematisierung analysiert. Die Tonalität wird auf dem Intervall 0 bis 100 angegeben, wobei 0 für ausschließlich negativ und 100 für ausschließlich positiv steht. Seit 2019 liegt die Tonalität der KI-Artikel in den Printmedien bei rund 51 Punkten, was eine neutrale Diskussion widerspiegelt. Seit 2019 ist lediglich ein Zuwachs von rund einem Prozent zu verzeichnen. Im Vergleich zum KI-Index 2021 ist zudem eine minimale Verbes-serung von 50,97 auf 51,21 festzustellen.
+■ KI auf Twitter
+Neben der passiven Informationsaufnahme über Printmedien kann auch die Diskussion auf Twitter weitere Einsichten ermöglichen. Twitter bietet den Vorteil, dass die Bürgerin-nen und Bürger aktiv an der Diskussion teilnehmen können. Dadurch wird potenziell das gesamte Meinungsspektrum abgebildet. Die Diskussion über Tweets ist zudem quanti-fizierbar, indem die Tonalität der Diskussion in deutschsprachigen Tweets mit KI-Bezug analog zum Indikator Printmedien analysiert wird. Es bleibt festzuhalten, dass KI seit dem KI-Index 2019 nahezu konstant neutral diskutiert wird. Die verzeichnete Änderung um rund zwei Prozent innerhalb der vier betrachteten Jahre verdeutlicht diese Stabilität. Konkret konnte 2019 eine Tonalität von 53,23 verzeichnet werden, während im KI-Index 2022 eine Tonalität von 52,28 gemessen werden konnte. Dies entspricht einem Rückgang um unter zwei Prozent im Vergleich zu 2019.
+[Page #19]
+Ergebnisse des KI-Index
+Tabelle 3-3: Veränderungen der Indikatoren in der Kategorie Gesellschaft zwischen 2019 und 2022
+Die vier Indikatoren innerhalb der Kategorie werden jeweils mit 1/4 gewichtet, Angaben in Prozent
+Indikator-wert 2019
+Indikator-wert 2021
+Indikator-wert 2022
+Veränderung des Indikators zwischen 2019 & 2022
+Gewichtete Veränderung im KI-Index 2022
+Bekanntheit von KI in der Gesellschaft
++44,23
++11,06
+KI in den Printmedien
+50,69
+50,97
+51,21
++1,02
++0,26
+KI auf Twitter
+53,23
+52,78
+52,28
+-1,78
+-0,45
+Google-Suchinteresse an KI*
+17,82
+16,16
+15,43
+-13,40
+-3,35
+Summe:
++7,52
+Gewichtung der Kategorie Gesellschaft im KI-Index: 1/3
+Wert für KI-Index:
++2,51
+*Aufgrund der Methodik von Google-Trends weichen die Werte von denen der vorherigen KI-Monitore ab. Quelle: IW; eigene Berechnungen
+■ Google-Suchinteresse an KI
+Die Verwendung der Onlinesuchmaschine Google zum Auffinden von Wissen bezüglich KI gibt Aufschluss über das Interesse in der Gesellschaft an dem Thema. Gleichzeitig sind Suchanfragen auch eine Vorbedingung für den Erwerb von Wissen zu KI. Daher ist es nicht verwunderlich, dass die Suchanfragen in den vergangenen Jahren abgenommen haben, während das Wissen approximiert durch den Bekanntheitsindikator gestiegen ist. Konkret weist der Google-Indikator seit dem KI-Index 2019 einen Rückgang um rund 13 Prozent auf.
+Im Vergleich zum KI-Index 2021 ist die Kategorie Gesellschaft die einzige Kategorie, die einen positiven Beitrag leistet. Der Zuwachs von 1,33 Indexpunkten konnte negative Entwicklungen bei den Rahmenbedingungen gerade ausgleichen. Insgesamt hat die Kategorie Gesellschaft seit dem Basisjahr einen Beitrag von rund 2,5 Indexpunkten geliefert. Diese Entwicklung beruht auf einer konstant neutralen Diskussion von KI auf Twitter und in den Printmedien. Gleichzeitig ist das Wissen im Bereich KI in der Bevölkerung seit 2019 stetig gestiegen, wäh-rend das Suchinteresse auf Google deutlich gesunken ist. Diese Entwicklungen bedingen sich zum Teil jedoch gegenseitig, da mit vorhandenem Wissen auch der Bedarf sich zu in-formieren zum Teil obsolet wird. Die Gesellschaft steht dem Thema KI somit weiterhin offen gegenüber.
+[Page #20]
+Handlungsempfehlungen
+4 Handlungsempfehlungen
+Bereits im KI-Monitor 2020 und im KI-Monitor 2021 wurden Handlungsempfehlungen abgelei-tet, die dazu dienten, KI in Deutschland weiter voranzubringen. Die Zahlen im KI-Index 2022, in dem sogar ein leichter Rückgang im Bereich dieser Zukunftstechnologie vermeldet werden musste, offenbaren nochmals eindringlich, dass Handlungsbedarfe bestehen. Die konkreten Handlungsempfehlungen zur Adressierung der drängendsten Bedarfe werden dabei analog zu den bereits erschienenen KI-Monitoren den drei Kategorien des Index zugeordnet.
+4.1 Daten als wesentliche Grundlage von KI
+Zunächst gibt es eine Handlungsempfehlung mit übergreifender Bedeutung, die für alle Be-reiche gilt: KI benötigt Daten. Daten dienen in erster Linie dazu, die analogen Informationen digital darstellen zu können.52 Nur wenn die reale Welt korrekt abgebildet wird, kann eine KI, die auf der Basis dieser digitalen Abbildung entscheidet, sinnvolle Entscheidungen treffen. Des Weiteren benötigt KI Daten, weil zumeist schwache KI zum Einsatz kommt, um trainiert und verbessert zu werden. Je mehr Schachspiele beispielsweise eine KI für die Auswahl ei-nes erfolgreichen Zuges heranziehen kann, desto besser sollte entsprechend auch der resul-tierende Zug sein. Gerade in Deutschland ist jedoch die fehlende Verfügbarkeit von externen Daten ein wesentlicher Standortnachteil aus der Sicht von KI aktiv nutzenden Unternehmen.53
+Somit ist es entscheidend, dass die Verfügbarkeit von Daten insgesamt – also in Bezug auf Wirtschaft, Gesellschaft und Rahmenbedingungen – verbessert wird. Beispielsweise besitzt der öffentliche Sektor wertvolle Datensätze, deren Potenzial es zu heben gilt.54 Diese Daten gilt es, schnell und barrierearm zur Verfügung zu stellen, damit auf deren Basis neue Produk-te und Geschäftsmodelle entwickelt und bestehende verbessert werden können.
+Zudem kann der Staat entscheidend die Rahmenbedingungen für das Teilen von Daten ver-bessern. Rechtliche Unklarheiten und Bedenken werden in Befragungen seitens Unternehmen zumeist als wichtigste Hemmnisse für das Teilen von Daten gesehen. In einer Befragung unter 1.002 Industrieunternehmen und industrienahen Dienstleistern im Jahr 2021 zu Hemmnissen für das Teilen von Daten gaben 68 Prozent rechtliche Hemmnisse an.55 2020 wurden ebenfalls Unternehmen nach den Hemmnissen beim Austausch von Daten befragt:56 Rund 85 Prozent gaben datenschutzrechtliche Grauzonen und rund 84 Prozent Unklarheiten über Nutzungs-rechte von Daten an. Für 73 Prozent war die rechtssichere Anonymisierung und für 53 Prozent die Kommunikation/Zusammenarbeit mit Datenschutzbehörden ein Hemmnis. Bei einer Befra-gung des Branchenverbands der deutschen Informations- und Telekommunikationsbranche e.V. (Bitkom) im Jahr 2022 unter 604 Unternehmen nach der größten Hürde für das Datenteilen gaben immerhin 38 Prozent rechtliche Unsicherheiten und 35 Prozent „Datenschutz erlaubt Austausch nicht“ an. Die häufigsten Nennungen entfielen auf „Daten sind nicht direkt kompati-bel“ (50 Prozent) und auf den Mangel an passenden Partnern (45 Prozent).57
+Auch wenn die konkreten Anteile in den Studien durchaus variieren, wird deutlich, dass Un-ternehmen bei der Regulierung im Bereich Daten einen deutlichen Nachbesserungsbedarf sehen. Dies muss nicht notwendigerweise damit einhergehen, dass Regulierung und damit Rechtssicherheit fehlen, sondern kann auch darauf zurückzuführen sein, dass Unternehmen die bestehenden Regeln nicht kennen oder Schwierigkeiten bei der Sicherstellung der Com-pliance haben. Daher sollten neben einer Gewährleistung von Rechtssicherheit in Bezug auf
+52 Demary et al., 2016, S. 553 Rammer, 2021, S.654 Bruns et al., 202155 Büchel/Engels, 202256 Röhl et al., 202157 Bitkom, 2022b
+[Page #21]
+Handlungsempfehlungen
+den Umgang mit und die Weitergabe von Daten auch die Information und Kommunikation der Rahmenbedingungen, vor allem auch für kleine und mittlere Unternehmen, im Fokus stehen.
+Doch auch in den Unternehmen selbst besteht noch Ausbaupotenzial bei der Nutzung eige-ner Daten und beim Datenteilen.58 Daher gilt es, Unternehmen für das Potenzial ihrer Daten zu sensibilisieren und auf bereits vorhandene Lösungen für ein souveränes Teilen von Daten aufmerksam zu machen.59 Die Unternehmen müssen sich jedoch auch bewusst sein, dass ein Verzicht auf die Nutzung der Potenziale von Daten zukünftig mit hoher Wahrscheinlich-keit erhebliche Wettbewerbsnachteile mit sich bringt.
+Allgemein gilt, dass Daten nicht verbraucht werden und zur selben Zeit von mehreren Ak-teuren verwendet werden können.60 Gleichzeitig steigt unter Umständen der Wert eines Da-tensatzes durch dessen Kombination mit anderen Datensätzen, da aus dieser Kombination neue Erkenntnisse gewonnen werden können.61 Von einem verstärkten Datenteilen kann so-mit auch KI profitieren, ohne dass dadurch andere Bereiche auf die gleichen Daten verzichten müssen. Neben dem Teilen von Daten existieren weitere Potenziale zur Verbesserung der Entwicklung von KI, die im Folgenden für die einzelnen Kategorien näher thematisiert werden.
+4.2 Rahmenbedingungen
+Digitale Infrastruktur Der negative Beitrag der Kategorie Rahmenbedingungen zum KI-Index in allen bisherigen drei Erhebungen (Abbildung 3-1) zeigt, dass hier deutliches Verbesserungspotenzial besteht. In der Kategorie hat sich dabei die Verbesserung bei der digitalen Infrastruktur als stützender Faktor erwiesen. Die Verbesserungen um mehr als 35 Prozent seit 2019 haben negative Ent-wicklungen in anderen Bereichen kompensiert. Doch selbst bei der digitalen Infrastruktur be-steht in Deutschland erheblicher Nachholbedarf. Dies offenbart eine Befragung im Rahmen des Digital Economy and Society Index (DESI) der Europäischen Union (EU). 2020 wurden die Unternehmen in der EU und in weiteren europäischen Staaten befragt, ob der verfügbare kabelgebundene Breitbandanschluss ausreichend für die Bedürfnisse des jeweiligen Unter-nehmens ist (Abbildung 4-1).62 Nur 71 Prozent der Unternehmen in Deutschland gaben an, dass der Breitbandanschluss ausreichend ist. Lediglich in Griechenland war der Anteil mit 68 Prozent geringer. Der Durchschnitt der EU27-Staaten liegt bei 79 Prozent.
+Der Nachholbedarf bei der digitalen Infrastruktur ist mittlerweile so groß, dass die Entwick-lungspotenziale der Unternehmen begrenzt werden. In einer Umfrage unter 492 aktiv KI-nut-zenden Unternehmen gaben 22 Prozent die IT-Infrastruktur als prioritären Maßnahmenbe-reich der Bundesregierung an.63 Dies war der Maßnahmenbereich mit den zweitmeisten Nennungen.64 Somit muss die digitale Infrastruktur dringend ausgebaut werden. Mögliche Hebel dazu wurden bereits im KI-Monitor 2021 ausführlich thematisiert. So bestehen hohe bürokratische Hürden, die den Infrastrukturausbau verlangsamen. Konkret stellt der Deut-sche Städte- und Gemeindebund (DStGB) fest: „Bürokratie belastet den Standort Deutsch-land und hemmt dringend notwendige Investitionen beim Bauen sowie bei den Zukunftsinf-rastrukturen Breitband und Mobilfunk“.65
+58 Büchel et al., 202259 Rusche, 202260 Krotova et al., 201961 Ebenda62 Eurostat, 202263 Rammer, 2021, S. 2564 Mehrfachnennungen möglich65 DStGB, 2020
+[Page #22]
+Handlungsempfehlungen
+Abhilfe können dabei Vereinheitlichungen bei der Vergabe von Liefer-, Dienst- und Bauleistun-gen darstellen.66 Zudem können auch die bürokratischen Hürden gesenkt werden, wenn bei-spielsweise die bestehenden Genehmigungen für Mobilfunkmasten analog für neue 5G-Mas-ten gelten.67
+Die Personalkapazitäten in den Kommunalverwaltungen stellen diesbezüglich einen weiteren Engpass dar. Bereits 2018 wurde getitelt, dass die Grenzen der Leistungsfähigkeit erreicht seien und bis 2030 erhebliche Personalknappheiten bestehen würden.68 Um den forcierten Ausbau im Rahmen der fortschreitenden digitalen Transformation nicht auszubremsen, soll-ten entsprechend Kapazitäten aufgestockt werden.69 Zusätzlich können neue Techniken bei-spielsweise bei der Verlegung von Kabeln zum Einsatz kommen.70 Doch auch KI selbst kann hier hilfreich sein, wenn beispielsweise die Behörden durch den Einsatz von KI-Anwendungen leistungsfähiger werden.
+An Standorten, an denen sich die privaten Investitionen in eine ausreichende Infrastruktur betriebswirtschaftlich nicht rechnen, ist der Staat gefragt, Investitionen zu fördern. Konkret ist ein Abbau weißer und grauer Flecken, bei denen nur Anschlüsse mit weniger als 30 Mbit/s beziehungsweise weniger als 100 Mbit/s verfügbar sind, dringend angezeigt. Dafür ist hilf-reich, dass die neu geschaffene Mobilfunkinfrastrukturgesellschaft (MIG) die erforderlichen Kapazitäten zügig aufbaut und mit Markterkundungsverfahren Regionen identifiziert, bei de-nen marktliche Lösungen fehlen und eine staatliche Förderung somit sinnvoll ist.71
+Abbildung 4-1: Zustimmung der Unternehmen 2020 zu der Aussage, dass die kabelge-bundene Breitbandverbindung für die Bedürfnisse des Unternehmens ausreichend ist
+Anteil der Unternehmen in Prozent; alle verfügbaren Staaten
+Griechenland
+ 68
+Vereinigtes Königreich
+86
+Deutschland
+ 71
+Slowenien
+86
+Frankreich
+ 75
+Bosnien u. Herzegowina
+ 87
++
+Kroatien
+ 75
+Malta
+ 87
+Ungarn
+ 76
+Nordmazedonien
+ 88
+Österreich
+ 77
+Estland
+ 88
+Polen
+ 77
+Niederlande
+ 89
+EU27
+ 79
+Tschechien
+ 89
+Slowakei
+ 80
+Zypern
+ 89
+Irland
+ 81
+Litauen
+ 89
+Italien
+ 81
+Portugal
+ 89
+Lettland
+ 81
+Schweden
+ 90
+Rumänien
+ 81
+Montenegro
+ 91
+Bulgarien
+ 83
+Belgien
+ 91
+Türkei
+ 83
+Finnland
+ 91
+Spanien
+ 85
+Serbien
+ 94
+Luxemburg
+ 85
+Dänemark
+Norwegen
+ 85
+Quelle: Eurostat (2022); eigene Darstellung
+66 Ebenda67 Ebenda68 Beamten-Infoportal.de, 201869 Balzli, 202170 Eine Möglichkeit besteht in der Nutzung von „Trenching“. Dadurch können kürzere Bauzeiten und niedrigere Bau-kosten realisiert werden, da beispielsweise lediglich ein Schlitz in die Straßendecke gefräst wird, anstatt mittels Bagger einen Schacht auszuheben. Quelle: BMVI, 2018a
+71 Demary/Rusche, 2018
+[Page #23]
+Handlungsempfehlungen
+Chance Gaia-XDie digitale Infrastruktur wird ebenfalls aufgrund der zunehmenden Bedeutung des Cloud-Computings für Unternehmen ein immer wichtigerer Faktor für die Wettbewerbs- fähigkeit des Standorts Deutschland.72 Die Ausnutzung der Potenziale des Cloud-Computings ist nur mit einer geeigneten digitalen Infrastruktur möglich. Der Markt für Cloud-Lösungen in Deutschland sowie Europa wird jedoch insbesondere von US-amerikanischen Unternehmen dominiert.73 Vor diesem Hintergrund bekommt Gaia-X eine besondere Bedeutung. Diese In-itiative hat sich zum Ziel gesetzt, eine föderierte und sichere Infrastruktur zu schaffen. Fö-deriert sagt aus, dass die bestehenden Systeme der etablierten Anbieter mittels Standards interoperabel gestalten werden sollen. Dadurch wird beispielsweise der Datenaustausch über Unternehmensgrenzen hinweg erleichtert, insbesondere wenn sie verschiedene Cloud- Anbieter nutzen. Zudem ermöglicht Gaia-X einen Datenaustausch auf Basis von europäi-schen Sicherheitsstandards sowie unter Wahrung von Datensouveränität. Die teilenden Un-ternehmen sollen so frei entscheiden können, mit wem sie ihre Daten teilen und was dieser Partner anschließend mit den Daten realisiert. Jedoch ist Gaia-X noch in der Entwicklungs-phase. Staat und Unternehmen müssen daher Lösungen auf Basis von Gaia-X nachfragen und anbieten, damit sich diese Initiative auch durchsetzt. Neben der reinen Verfügbarkeit von Daten können mithilfe von Gaia-X ebenfalls KI-Anwendungen angeboten und sicher zur Verfügung gestellt werden.
+Forschung, Kooperationen und Know-howVon besonderer Bedeutung für die Entwicklung von KI sind das Vorhandensein von Fachkräf-ten, die Ableitung von Forschungsergebnissen sowie eine Transmission von der Forschung in die Praxis. Bis auf die Kooperationen zwischen Forschungseinrichtungen und Unterneh-men, die die Weitergabe von Wissen erleichtern und die im Vergleich zum Vorjahr nahezu konstant geblieben sind, müssen im KI-Monitor 2022 Defizite festgestellt werden (Tabelle 3-1). So hat die Bedeutung von KI in der Wissenschaft seit 2019 um mehr als 20 Prozent abgenommen. Bei den bestandenen Abschlussprüfungen musste im Vergleich zum Vorjahr zum ersten Mal ein Rückgang verzeichnet werden. Diese Entwicklungen verdeutlichen, wie dringlich die Besetzung der 100 KI-Professuren war.74 Da dies jedoch erst kürzlich abge-schlossen wurde, stellen sich die positiven Effekte auf die Forschungsergebnisse und die möglicherweise gesteigerte Attraktivität für Studierende vollständig erst in Zukunft ein. Das Angebot von KI-bezogenen Vorlesungen und Seminaren an der Hochschule ist das eine – es gilt hier außerdem eine hohe Qualität der Lehre dauerhaft sicherzustellen, damit Studierende die Angebote wahrnehmen und ein Studium in diesem Bereich auch abschließen. Im Be-reich der Ingenieurwissenschaften betrug die Abbruchquote zuletzt circa 35 Prozent und im Bereich Mathematik/Naturwissenschaft 43 Prozent.75 Der Durchschnitt im Bachelorstudium über alle Studiengänge hingegen liegt bei 32 Prozent.76 Eine Senkung der Abbruchquote in den MINT-Studiengängen ist vor diesem Hintergrund ebenfalls anzustreben.77 Unabhängig von der universitären Bildung muss der Erwerb von KI-Know-how in der schulischen sowie beruflichen Bildung ebenfalls gestärkt werden.78 Hier könnte frühzeitig Informatikunterricht verpflichtend in die Lehrpläne integriert werden, um Schülerinnen und Schüler mit passenden digitalen Kompetenzen zu versehen. Die Weiterbildung der Lehrenden sollte dabei ebenfalls bedacht werden, genauso wie die Ausstattung der Schulen und anderer Bildungseinrichtun-gen mit zeitgemäßer Hard- und Software.79
+72 Rusche, 202273 Ebenda74 BMBF, 202275 Heublein et al., 2020, 576 Ebenda, 477 Vgl. acatech, 201778 Anger et al., 202279 Vgl. ebenda
+[Page #24]
+Handlungsempfehlungen
+Politik und öffentliche VerwaltungDie eigene Nutzung von KI-Lösungen durch die öffentliche Verwaltung, die Freigabe öffent-licher Daten sowie die Förderung von Infrastruktur und Forschung sind bedeutende Hebel, mit denen die Politik positiv zur Entwicklung von KI in Deutschland beitragen kann. Dane-ben kann der Staat die Entwicklung von KI auch mittels geeigneter Regulierung fördern. Wie bereits in Abschnitt 2.1 dargestellt, finden zunehmend Initiativen zur Regulierung auf inter-nationaler Ebene statt. Die Bundesrepublik sollte sich proaktiv an diesen beteiligen, um die Bedürfnisse der deutschen Wirtschaft und Gesellschaft zu vertreten. Im Fokus muss dabei stehen, Regulierung bei Marktversagen derart einzusetzen, das Rechtssicherheit geschaffen wird, aber Innovationen weiter möglich sind und sogar angeregt werden. Dieser schmale Grat ist eine große Herausforderung für die Politik. Ein enger Kontakt zu Unternehmen, Verbänden und Interessengruppen der Zivilgesellschaft kann hier helfen, die Bedürfnisse und Erforder-nisse der gesamten Gesellschaft adäquat zu berücksichtigen. Anschließend muss bei der Umsetzung der Regulierung nach Möglichkeit international auf Konsistenz geachtet werden. Durch die Vergleichbarkeit internationaler Regulierung werden auch die Skalierbarkeit von KI-Produkten sowie entsprechende Investitionen unterstützt. Durch einen größeren poten-ziellen Markt lohnen sich größere Investitionen und es können weltweit Potenziale gehoben werden, verglichen mit einer Situation mit heterogener Regulierung.
+Insgesamt ist bei der Regulierung – wie oben angesprochen – darauf zu achten, dass Rechtssicherheit geschaffen wird. Dies betrifft insbesondere Unsicherheiten bezüglich eines rechtskonformen Datenaustauschs oder eines rechtskonformen Einsatzes von KI. Entspre-chend gilt es ebenfalls, bereits bestehende Rechtsunsicherheiten, deren Existenz die oben genannten Studien offengelegt haben, zu verringern. Dadurch werden Entwicklungsanstren-gungen auf zukunftsträchtige Bereiche konzentriert und eventuell zusätzliche Investitionen im Kontext von KI angeregt.
+4.3 Wirtschaft
+Förderung von Gründungen und Start-upsPrivate Investitionen in KI sind in Deutschland und für die deutsche Wirtschaft wichtig. Hier gilt es jedoch, die Herausforderung zu bewältigen, dass Deutschland als Ziel für private In-vestitionen in KI-Unternehmen international bisher kaum in Erscheinung getreten ist (Ab-bildung 4-2). Im Jahr 2021 wurden lediglich 1,98 Milliarden US-Dollar private Investitionen in KI-Unternehmen in Deutschland verzeichnet, was zwar dem fünfthöchsten Wert weltweit entspricht, aber im Vergleich zu den USA und China, den beiden Ländern mit den stärksten Werten, ist Deutschland weit abgeschlagen. Die nahezu zwei Milliarden US-Dollar in Deutsch-land sind dabei schon ein Erfolg. Von 2013 bis 2021 wurden insgesamt lediglich 4,4 Milliar-den US-Dollar an Investitionen in Deutschland verzeichnet.80 In den USA waren es im gleichen Zeitraum 149 Milliarden und in China rund 62 Milliarden US-Dollar. Deutschland als Investiti-onsstandort im Bereich KI hat im vergangenen Jahr somit zwar an Bedeutung gewonnen, bis jetzt ist Deutschland von der Weltspitze jedoch noch weit entfernt.
+Auch generell ist das Gründungsgeschehen in Deutschland in den vergangenen Jahren rück-läufig.81 Es bestehen folglich erhebliche Verbesserungsbedarfe im Bereich der Gründungs-kultur allgemein und der Attraktivität im Bereich KI im Besonderen. Der Zukunftsfonds der Bundesregierung, welcher seit dem Jahreswechsel 2020/21 aktiv ist,82 soll bis 2030 10 Mil-liarden Euro öffentliche Mittel und weitere 20 Milliarden Euro private Mittel für Start-ups in allen Gründungsphasen mobilisieren. Er kann damit zur Verbesserung der Situation von KI-Start-ups beitragen. Dennoch bestehen weitere Handlungsbedarfe, um die Bedingungen für die Finanzierung von Start-ups zu verbessern. Röhl schlägt in seiner Analyse zu Start-ups und Venture Capital in Deutschland vor, zunächst auf eine Vermögenssteuer zu verzichten,
+80 Zhang et al. 2022, 15581 Röhl, 202182 Ebenda
+[Page #25]
+Handlungsempfehlungen
+um die Attraktivität von Investitionen und Gründungen nicht zu verringern.83 Des Weiteren arbeitet Röhl heraus, dass auch mittels einer Verbesserung der Verlustverrechnung unter den Beteiligungen von Venture-Capital-Fonds (VC-Fonds) Investitionen gestärkt werden können. Hintergrund ist, dass die Verlustverrechnung unter Umständen bei weiteren Finanzierungs-runden verloren gehen kann, wodurch die Teilnahme an diesen Finanzierungsrunden unat-traktiver wird. Weitere Hebel können eine verbesserte Steuertransparenz von privaten VC-Fonds, eine Reduzierung der regulatorischen Hürden für Venture-Capital-Investitionen von Versicherungen sowie eine vereinfachte Durchführung von Börsengängen sein.
+Des Weiteren können auch Kooperationen zwischen Start-ups und mittelständischen Unter-nehmen positive Akzente setzen.84 Hier gilt es, bestehende Angebote für die Vermittlung von Kooperationen zu verbessern und gegebenenfalls neue, speziell mit Fokus auf KI zu etab-lieren. Dadurch können von den Investitionen in KI-Start-ups und den daraus resultierenden Innovationen auch weitere Unternehmen profitieren. Ein weiterer Hebel zur Förderung von Start-ups, auch im Bereich KI, ist eine Verbesserung der Mitarbeiterbeteiligung am Unter-nehmen.85 Diese Beteiligung der Mitarbeiterinnen und Mitarbeiter am Unternehmen kann zu positiven Produktivitäts- und Beschäftigteneffekten führen. Um diese zu realisieren, „braucht es Erleichterungen im Steuerrecht, weniger Bürokratie und eine rechtssichere Ausgestaltung“ im Kontext der Mitarbeiterbeteiligung.86
+Abbildung 4-2: Private Investitionen in KI-Unternehmen nach Zielland 2021
+Angaben in Milliarden US-Dollar
+USA
+52,88
+17,21
+China
+4,65
+Vereinigtes Königreich
+2,41
+Israel
+1,98
+Deutschland
+1,87
+Kanada
+1,55
+Frankreich
+1,35
+Indien
+1,25
+Australien
+1,10
+Südkorea
+0,93
+Singapur
+0,89
+Spanien
+0,82
+Vereinigte Arabische Emirate
+0,63
+Hongkong
+0,52
+Portugal
+Quelle: Zhang et al. (2022; 154); eigene Darstellung
+Nutzung von KI für das eigene GeschäftsmodellDie Gründung und Förderung neuer Unternehmen ist jedoch lediglich ein Aspekt bei der Fort-entwicklung von KI in Deutschland. KI ist auch für die bereits etablierten Unternehmen von Bedeutung. Diesen Unternehmen muss bewusst sein, dass der Einsatz von KI eine Möglich-keit zur Erhaltung und zum Ausbau ihrer Wettbewerbsfähigkeit ist. Die hohe Bedeutung, die die Unternehmen in Deutschland KI zuschreiben (vgl. Abschnitt 3.2) und die Anzahl ange-meldeter Patente (vgl. Abschnitt 3.2) verdeutlichen, dass viele Unternehmen diese Chance
+83 Ebenda, S. 1284 Engels/Röhl, 2020, mit einem Fokus auf Digitalisierung85 Hammermann et al., 202186 Ebenda, S. 3
+[Page #26]
+Handlungsempfehlungen
+bereits erkannt und entsprechende Maßnahmen ergriffen haben. Jedoch bestehen weiterhin Verbesserungsmöglichkeiten. Zunächst kann durch die Fortbildung von eigenen Mitarbeite-rinnen und Mitarbeitern der Bedarf an Fachkräften adressiert werden.87 Des Weiteren sind die Einsatzpotenziale bei KI noch nicht vollständig ausgenutzt, was durch den Rückgang des Einsatzes von KI (vgl. Abschnitt 3.2) in den Unternehmen angedeutet wird. Hier gilt es, einer-seits Unternehmen über die Einsatzmöglichkeiten von KI zu informieren. Andererseits sind auch die Unternehmerinnen und Unternehmer gefragt, die Möglichkeiten von KI in ihrem Un-ternehmen proaktiv auszuloten. Abschließend muss insgesamt darauf hingewiesen werden, dass die aktiv KI-nutzenden Unternehmen die Förderung beziehungsweise Finanzierung mit Abstand als wichtigsten Maßnahmenbereich für die Bundesregierung identifiziert haben.88 35 Prozent gaben diese Antwort.89 Die Verfügbarkeit von Kapital stellt somit eine Hürde dar, die es abzusenken gilt.
+4.4 Gesellschaft
+Die Kategorie Gesellschaft konnte als einzige Kategorie im KI-Index 2022 einen positiven Beitrag leisten. Anhand der Indikatoren wurde zudem offenbar, dass die Bevölkerung an KI interessiert ist und dieses Thema neutral diskutiert wird (vgl. Abschnitt 3.3). Generell steht die Bevölkerung auch dem Einsatz von KI in weiten Bereichen offen gegenüber (Abbildung 4-3).90 Hierfür wurden die Befragten mit Einsatzfeldern konfrontiert und konnten angeben, ob sie einem Einsatz von KI im jeweiligen Einsatzfeld zustimmen. Es wird deutlich, dass die ab-solute Mehrheit der Befragten in weiten Teilen mit einem Einsatz von KI einverstanden ist. Die höchsten Zustimmungswerte entfallen auf den Einsatz von KI zur Unterstützung älterer Men-schen (77 Prozent stimmen zu). Lediglich in vier Bereichen liegt der Anteil der Zustimmung unter 50 Prozent. Diese sind der Einsatz bei Gericht (48 Prozent Zustimmung), der Einsatz bei der Betreuung von Kleinkindern (45 Prozent), die Beratung in Finanzangelegenheiten (44 Prozent) und der Einsatz im Beziehungsleben (31 Prozent).
+Abbildung 4-3: Anteil der Personen, die dem Einsatz von KI in den angegebenen Bereichen „voll und ganz“ oder „eher zustimmen“
+Anteil in Prozent; N=1.003; Stand: 2021
+Zur Unterstützung älterer Menschen
+Bei der persönlichen Weiterbildung
+Als Unterstützung für den Arzt
+In Ämtern und Behörden
+Bei der Polizei
+Im Sport
+Als Service-Bot im Kundendienst
+Als Lehrer bzw. Dozent in Schule und Uni
+In Personalabteilungen
+Für politische Entscheidungen
+Im militärischen Bereich
+Bei Gericht
+In der Betreuung von Kleinkindern
+Bei der Beratung in Finanzangelegenheiten
+Im Beziehungsleben
+Quelle: Bitkom (2021b); eigene Darstellung
+87 Rammer, 202188 Ebenda, S. 2589 Mehrfachnennungen möglich90 Bitkom, 2021b
+[Page #27]
+Handlungsempfehlungen
+KI ist in der deutschen Gesellschaft somit in weiten Teilen willkommen. Diese Offenheit ist ein wichtiger Faktor für den weiteren Einsatz und die weitere Entwicklung von KI. Um diese güns-tigen Vorbedingungen auch zu erhalten, können unterstützende Maßnahmen ergriffen werden. In einer Unternehmensbefragung unter 492 aktiv KI-nutzenden Unternehmen wurde von 19 Prozent „Awareness der Öffentlichkeit“ als prioritärer Maßnahmenbereich der Bundesregierung genannt.91 Damit kam die „Awareness“ auf den vierthöchsten Anteil an Nennungen.92
+Mögliche Handlungsempfehlungen wurden bereits im KI-Monitor 2021 ausführlich diskutiert. Diese dort genannten Handlungsempfehlungen haben jedoch weiterhin Bestand und werden im Folgenden nochmals kurz umrissen:
+■ Transparenz von KI verbessern. Für ein Vertrauen der Konsumentinnen und Konsumenten in KI ist es förderlich, wenn es bei den getroffenen Entscheidungen möglich ist, deren Zu-standekommen im Nachhinein zu erklären oder Kriterien für eine Entscheidung zu nennen. Hier fehlen jedoch seitens der Politik noch entsprechende Vorgaben.93 Durch die Möglich-keit der Erklärung kann das Verständnis von KI verbessert und dem Eindruck vorgebeugt werden, dass KI willkürlich Entscheidungen trifft.
+■ Standards für KI-Systeme. Neben der reinen Erklärbarkeit von KI-Entscheidungen ist es für die Akzeptanz ebenfalls entscheidend, dass die Verbraucherinnen und Verbraucher da-rauf vertrauen können, dass KI und ihre Entscheidungen akzeptierten Standards genügen. Diesbezüglich arbeitet das Deutsche Institut für Normung e. V. (DIN) bereits an der zweiten Ausgabe einer Normungsroadmap.94 In seiner ersten Ausgabe wurde insbesondere auf die Notwendigkeit eines nationalen Umsetzungsprogramms „Trusted AI“ hingewiesen, das Qualitätskriterien und Prüfverfahren enthalten soll.95 Mit dessen Hilfe können KI-Systeme analysiert werden, um unter anderem festzustellen, wie verlässlich, robust, leistungsfähig und vertrauenswürdig sie sind. Dadurch könnten Nachfragerinnen und Nachfrager auf die Eigenschaft und Sicherheit vertrauen, wodurch die Akzeptanz steigen dürfte. Zusätzlich kann die Akzeptanz durch eine Zertifizierung von Hochrisiko-KI-Anwendungen gesteigert werden, wie sie die geplante EU-Regulierung im Bereich KI vorsieht (vgl. Abschnitt 2.1). Gerade wenn Verbraucherinnen und Verbraucher darauf vertrauen können, dass insbeson-dere KI-Anwendungen in sensiblen Bereichen zertifiziert sind, sollten Hemmnisse bei der Nutzung verringert werden.
+■ Zivilgesellschaft beim Thema einbeziehen. In der Fortschreibung der KI-Strategie von 2020 unterstrich die Bundesregierung die Notwendigkeit von Mitgestaltungsmöglichkeiten bei der Entwicklung und dem Einsatz von KI.96 Dazu wurde bereits 2020 die Initiative „Civic Coding – Innovationsnetz KI für das Gemeinwohl“ ins Leben gerufen.97 Diese Initiative gilt es zu eva-luieren und gegebenenfalls weiterzuentwickeln um zu gewährleisten, dass die Entwicklung von KI auf die gesellschaftlichen Bedürfnisse abgestimmt wird und das Wissen jeweils ein-schlägiger Expertinnen und Experten zur Anwendung kommt, wie es die Initiative anstrebt.
+Die Konzentration auf Einsatzfelder, bei denen ein Mehrwert für die Gesellschaft geschaf-fen werden kann, und die Zertifizierung sowie das Einhalten von Standards sind wichtige Bedingungen für die gesellschaftliche Akzeptanz von KI. Es ist jedoch auch von Bedeutung, generelle Grundsätze für den Einsatz von KI festzulegen und zu kommunizieren. Beispiels-weise kann ein Grundsatz darin bestehen, dass KI lediglich unterstützend eingesetzt wird und Menschen nicht als Objekt betrachtet, das heißt über sie bestimmt.98
+91 Rammer, 2021, S. 2592 Mehrfachnennungen möglich 93 Moraht, 202194 DIN, 2022a95 DIN, 2022b96 Bundesregierung, 2020, S. 2797 https://www.civic-coding.de/98 Precht, 2020
+[Page #28]
+Fazit
+5 Fazit
+KI ist eine Schlüsseltechnologie, die in nahezu allen Bereichen von Wirtschaft und Gesell-schaft eingesetzt werden kann. Sie ist zudem geeignet, globale Herausforderungen anzuge-hen und den weltweiten Wohlstand zu erhöhen. Dies gilt analog für Deutschland. Neben einer verbesserten Ressourceneffizienz, der Bekämpfung der Auswirkungen des demografischen Wandels und des Klimawandels sowie der Erhaltung der Wettbewerbsfähigkeit Deutschlands vor dem Hintergrund der Disruptionen, denen sich die Bundesrepublik und ihr Geschäfts-modell gegenübersieht,99 kann KI auch in weiteren Bereichen positive Wirkungen entfalten. Gleichzeitig stehen Deutschland und die Europäische Union im weltweiten Wettbewerb, auch im Bereich KI.
+Der erstmalige Rückgang des KI-Index im aktuellen Erhebungsjahr ist vor diesem Hinter-grund eine besorgniserregende Entwicklung. Auch wenn diese Entwicklung durch die gegen-wärtigen gesundheits- und geopolitischen Umstände erklärbar erscheint, kann dennoch die Wettbewerbsfähigkeit der Bundesrepublik leiden und der Standort Deutschland im weltwei-ten Wettbewerb zurückfallen.
+Der Rückgang des Index beruht insbesondere auf Defiziten im Bereich der Rahmenbedin-gungen. Die Kategorie lieferte bisher in allen drei Erscheinungsjahren des KI-Monitors einen negativen Beitrag. Selbst im Bereich der digitalen Infrastruktur, welche mit einem Indikator im Bereich Rahmenbedingungen abgedeckt wird, hat Deutschland trotz deutlicher Verbesse-rungen seit 2019 Nachholpotenzial. Des Weiteren hat sich in den Ausgaben des KI-Monitors 2020 und 2021 die Wirtschaft als Triebkraft der KI in Deutschland gezeigt. Im aktuellen Jahr musste auch im Bereich Wirtschaft ein Rückgang attestiert werden. Nach dem rasanten An-stieg im Vorjahr zeigt sich in vier von fünf Indikatoren ein leichter Rückgang. Es gilt nun, die zweifelsohne vorhandenen Triebkräfte der Wirtschaft im Bereich KI erneut zu entfesseln. Als stabilisierender Faktor hat sich die Gesellschaft erwiesen. Auf Basis eines fundierten Wis-sens wird das Thema weiterhin neutral diskutiert. Zudem stehen die Verbraucherinnen und Verbraucher dem Einsatz von KI in weiten Teilen der Gesellschaft offen gegenüber.
+Deutschland bietet in Wirtschaft und Gesellschaft sowie im Bereich der Forschung günstige Bedingungen für die Entwicklung von KI. Es besteht jedoch Handlungsbedarf, um diese auch auszunutzen und die Attraktivität des Wirtschaftsstandorts Deutschland zu steigern.
+99 Demary et al., 2021
+[Page #29]
+Anhang
+Anhang
+6.1 Begriffe
+Für insgesamt sieben Indikatoren des KI-Index werden Texte nach Begrifflichkeiten durch-sucht, die im Zusammenhang mit KI stehen. Bevor die 14 Indikatoren in den Abschnitten 6.2 bis 6.4 mittels Steckbriefe dargestellt werden, soll im Folgenden zunächst auf die Begriffe eingegangen werden, die bei der Suche zur Anwendung kommen. Die sieben Indikatoren sind:
+• KI in Bundestagsprotokollen (Kategorie Rahmenbedingungen),• KI in Geschäftsberichten (Kategorie Wirtschaft),• KI-Patentanmeldungen (Kategorie Wirtschaft),• KI in Stellenanzeigen (Kategorie Wirtschaft),• KI in den Printmedien (Kategorie Gesellschaft),• KI auf Twitter (Kategorie Gesellschaft) und• Google-Suchinteresse an KI (Kategorie Gesellschaft).
+Bei der Durchsuchung der Texte kommen standardisierte Listen von Suchwörtern zur An-wendung. Diese werden nachfolgend aufgeführt. Die Grundlage für die Auswahl der Such-wörter bildet eine Taxonomie von KI-Skill-Begriffen.100 Die englischen Begriffe werden um die deutschen Entsprechungen sowie gegebenenfalls weitere relevante Begriffe im KI-Kontext ergänzt. Diese Begriffe werden zusätzlich um reguläre Ausdrücke ergänzt, um alle relevanten Kombinationen der jeweiligen Begriffe (sowohl grammatikalisch als auch mit Sonderzeichen) abzudecken. Beispielsweise wird nicht nur nach „Künstlicher Intelligenz“ gesucht, sondern auch nach „künstliche Intelligenz“, „künstlicher Intelligenz“, „künstliche-Intelligenz“ usw. Die für die Ermittlung der Indikatoren konkret verwendeten Listen sind nachfolgend angegeben.
+KI-BegriffeVerwendet für alle oben genannten Indikatoren außer KI-Patentanmeldungen und KI in Stellenanzeigen:
+• artifical intelligence• autonomous driving• machine learning• natural language processing• neural net• robotics• image recognition• künstliche intelligenz• autonomes fahren• maschinelles lernen• neuronales netz• natürliche sprachverarbeitung• robotik • bilderkennung
+100 Burning Glass, 2020
+[Page #30]
+Anhang
+Suchwörter für KI in Volltexten von Patenten Verwendet für den Indikator KI-Patentanmeldungen:
+• artificial intelligence • autonomous driving • machine learning • neural net • natural language processing • computer vision • machine vision • language understanding • reinforcement learning • robotic[s] • robot • (face|image|character|speech|video|text) & (recognition|generation)• direction recognition • (gesichts|bild|zeichen|sprach|video|text|richtungs) & (erkennung|generierung) • object & (detection|localization|classification)• objekt & (erkennung|lokalisierung|klassifizierung)• machine translation • maschinelle übersetzung • künstliche intelligenz • autonome fahr • maschinelle lern • neuronale netz • natürliche sprachverarbeitung • autonome roboter • deep learning • fuzzy logik • trainingsdaten • trainier daten • ki • nlp • ml • cnn• lstm • fourier transformation • algorithm • maximum likelihood • navigation & (system|einrichtung|vorrichtung)• bilderfassung • fahrerassistenzsystem • routen berechnung • virtual reality • datenverarbeitung • ambient assisted living • vollautomatisiert • assistenz system • früh erkennung • programmcode • (detektion|erfassen) von objekten
+[Page #31]
+Anhang
+Suchwörter für KI-Jobbezeichnungen Verwendet für den Indikator KI in Stellenanzeigen:
+• big data engineer/scientist/science• research scientist• business intelligence• artificial intelligence• künstliche intelligenz• machine learning• maschinelles lernen• deep learning• autonomous driving• neural net• neuronales netz• computer vision• machine vision• natural language processing• language understanding• reinforcement learning• robotics• robotik• face/image/character/speech/video/text/direction recognition• face/image/character/speech/video/text/direction generation• gesichts-/bild-/zeichen-/sprach-/video-/text-/richtungserkennung• gesichts-/bild-/zeichen-/sprach-/video-/text-/richtungsgenerierung• object detection/localization/classification• objekterkennung/-lokalisierung/-klassifizierung• machine translation• maschinelle übersetzung• autonomes fahren• natürliche sprachverarbeitung• bot developer• chatbot• roboter programmierer• robot learning• bayesian optimization• AI• KI• NLP• SLAM• LIDAR• ML• CNN• LSTM• ADAS
+[Page #32]
+Anhang
+6.2 Kategorie Rahmenbedingungen
+Digitale Infrastruktur
+Bezeichnung des Indikators
+Breitbandverfügbarkeit mit einer Geschwindigkeit von mindestens 100 Mbit/Sekunde für Privathaushalte für alle Technologien
+Einheit
+Prozent der Haushalte
+Methodik
+Da in Deutschland viele Gebiete sogenannte Mischgebiete darstellen, d.h. unternehmerische Nutzung und Nutzung durch Konsumenten zusammenfällt,101 bildet die Verfügbarkeit von leistungsfähigen Breit-bandanschlüssen der Haushalte auch die Verfügbarkeit für Unter- nehmen sehr gut ab.Für den Index wird der Anteil privater Haushalte herangezogen, denen theoretisch eine Internetverbindung mit 100 Mbit/Sekunde zur Verfügung steht.
+Quelle
+Breitbandatlas des Bundes, Bundesministerium für Digitales und Verkehr
+Zusammenhang mit KI
+Eine gut ausgebaute, leistungsfähige Breitbandinfrastruktur ist die wesent-liche technische Rahmenbedingung für den erfolgreichen Einsatz von KI. Je größer der Anteil derer ist, für die Breitband in hoher Geschwindigkeit verfügbar ist, desto vorteilhafter ist dies für die Nutzung von KI.
+Abbildung 6-1: Entwicklung der digitalen Infrastruktur
+Anteil der Haushalte, für die eine Breitbandgeschwindigkeit von mindestens 100 Mbit/s verfügbar ist (alle Technologien); in Prozent
+89,6
+85,7
+81,8
+66,3
+Mitte 2018
+Mitte 2019
+Mitte 2020
+Mitte 2021
+Quelle: BMVI, 2018b, S. 4; 2019, S. 2; 2020a, S. 6; 2021, S. 7; eigene Darstellung
+101 Büchel et al., 2020, S. 7
+[Page #33]
+Anhang
+KI in Bundestagsprotokollen
+Bezeichnung des Indikators
+Erwähnung von KI im Deutschen Bundestag
+Einheit
+KI-Begriffe pro 1.000 Wörter
+Methodik
+Regelbasiertes Verfahren zur Identifikation von KI-Begriffen in Plenarprotokollen des Deutschen Bundestages. Die Auswertung erfolgt für das jeweilige Kalenderjahr. Berechnet wird der Anteil an KI-Begriffen pro 1.000 Wörter je Rede in den jeweiligen Plenarsitzungen.Fallzahlen: 66 Sitzungen mit 6.099 Reden (2018); 65 Sitzungen mit 6.976 Reden (2019); 64 Sitzungen mit 7.204 Reden (2020); 46 Sitzungen mit 4.904 Reden (2021)
+Quelle
+Plenarprotokolle, Deutscher Bundestag
+Zusammenhang mit dem Index
+Die Politik kann Rechtssicherheit schaffen und Investitionsanreize für KI-Anwendungen setzen. Ebenfalls kann sie mit gezielten Förderungen einen entscheidenden Beitrag leisten, um die KI-Forschungslandschaft in Deutschland und die Schnittstelle zwischen Forschung und Wirt-schaft zu stärken. Zudem kann auf politischer Ebene die Organisation der Aus- und Weiterbildung KI-relevanter Arbeitskräfte vorangetrieben werden. Da all dies zunächst eine Beschäftigung mit KI in der Politik voraussetzt, misst der Indikator die Diskussionsdichte von KI im Deutschen Bundestag.
+Abildung 6-2: Entwicklung der Erwähnung von KI in Bundestagsprotokollen
+Anzahl der durchschnittlichen KI-Begriffe pro 1.000 Wörter in Reden von Politikern im Deutschen Bundestag
+0,174
+0,129
+0,085
+0,067
+Quelle: Deutscher Bundestag, 2021a; eigene Berechnungen
+[Page #34]
+Anhang
+Informatikabsolventen
+Bezeichnung des Indikators
+Informatikabsolventen
+Einheit
+Anzahl bestandener Abschlussprüfungen in der Informatik an Hochschulen in Deutschland
+Methodik
+Eine bestandene Abschlussprüfung signalisiert den Erwerb von entsprechendem Know-how. Eine Analyse von Stellenanzeigen ergab, dass KI-Kompetenzen aus Unternehmenssicht oftmals mit einem Studienabschluss aus den MINT-Fachrichtungen, insbesondere der Informatik, einhergehen.102Für den Index werden daher die aktuell verfügbaren Zahlen des Statisti-schen Bundesamts zur Anzahl bestandener Abschlussprüfungen in der Informatik herangezogen.
+Quelle
+Bildung und Kultur, Prüfungen an Hochschulen, Fachserie 11 Reihe 4.2 des Statistischen Bundesamts
+Zusammenhang mit KI
+Fehlendes Know-how ist in Umfragen unter Unternehmen eine der am meisten genannten Hemmnisse für den Einsatz von KI-Technologien. Generell ist die Verfügbarkeit von Know-how ein positiver Faktor für die Entwicklung und den Einsatz von KI. Je mehr bestandene Abschluss-prüfungen im Bereich der Informatik zu verzeichnen sind, desto höher ist das verfügbare Humankapital, auch für KI.
+Abbildung 6-3: Entwicklung der Informatikabsolventen
+Anzahl bestandener Abschlussprüfungen in der Informatik an Hochschulen in Deutschland
+28.909
+28.875
+27.104
+26.394
+Quelle: Statistisches Bundesamt, 2018; 2019; 2020; 2021; eigene Darstellung
+102 Büchel/Mertens, 2021
+[Page #35]
+Anhang
+Wissenschaftliche KI-Publikationen
+Bezeichnung des Indikators
+Wissenschaftliche KI-Publikationen
+Einheit
+Anteil der KI-Publikationen in Deutschland an allen wissenschaftlichen Publikationen in Deutschland; in Prozent
+Methodik
+Für das jeweilige Jahr wird die Anzahl der als KI gekennzeichneten wissenschaftlichen Publikationen bestimmt, die in der Datenbank von Microsoft Academic Graph hinterlegt sind. Bei für den KI-Monitor rele-vanten Publikationen muss mindestens ein Autor mit einer deutschen Institution oder einem deutschen Unternehmen affiliiert sein. Der resul-tierende Wert wird durch die Gesamtheit aller deutschen Forschungs-beiträge dividiert. Aufgrund der Datenverfügbarkeit können für das Jahr 2021 nur Daten bis Juni 2021 berücksichtigt werden.
+Quelle
+Microsoft Academic Graph
+Zusammenhang mit KI
+Grundlagenforschung stellt insbesondere für hochtechnologische Inno-vationen eine wesentliche Voraussetzung dar. Besonders anwendungs-orientierte KI-Lösungen basieren häufig auf Verfahren, die kurz zuvor im Rahmen allgemeiner Grundlagenforschung begründet wurden. Dies bedeutet, dass eine höhere Forschungsaktivität zum Thema KI sowohl in bessere Rahmenbedingungen für die Entstehung als auch für die Entwicklung von KI in Deutschland ermöglicht.
+Abbildung 6-4: Entwicklung der wissenschaftlichen KI-Publikationen
+Anteil der KI-Publikationen in Deutschland an allen Publikationen in Deutschland; in Prozent
+4,16
+3,78
+3,57
+2,99
+Quellen: Microsoft Academic Graph, 2022; eigene Berechnungen.
+[Page #36]
+Anhang
+Kooperationen zwischen KI-Forschung und Unternehmen
+Bezeichnung des Indikators
+Kooperationen zwischen KI-Forschung und Unternehmen
+Einheit
+Anteil der KI-Publikationen, die im Rahmen einer Kooperation zwischen Forschungseinrichtungen und Unternehmen entstanden sind, an allen KI-Publikationen in Deutschland; in Prozent
+Methodik
+Die Anzahl der wissenschaftlichen KI-Publikationen des Indikators „Wissenschaftliche KI-Publikationen“ sind Grundlage für diesen Indika-tor. Sind bei einer Publikation sowohl Personen von Forschungseinrich-tungen als auch von Unternehmen beteiligt, wird diese als Kooperation gezählt. Für den Indikatorwert wird die Anzahl der Kooperation ins Verhältnis zu allen deutschen KI-Publikationen gesetzt. Aufgrund der Datenverfügbarkeit können für das Jahr 2021 nur Daten bis Juni 2021 berücksichtigt werden.
+Quelle
+Microsoft Academic Graph.
+Zusammenhang mit KI
+Aus innovationökonomischer Perspektive sind Spillover-Effekte sehr relevant. Dieser gegenseitige Wissens- und Technologietransfer mün-det auch mit Blick auf KI in erfolgreichere Innovations- und Wachstum-sprozesse. Eine weitere Verbesserung der Rahmenbedingungen mit Blick auf KI resultiert aus der Komplementarität der Kompetenzen von universitären und unternehmerischen Forschern.
+Abbildung 6-5: Entwicklung der Kooperationen zwischen KI-Forschung und Unternehmen
+Anteil von KI-Publikationen, die im Rahmen einer Kooperation zwischen Forschungseinrichtungen und Un-ternehmen entstanden sind, an allen KI-Publikationen in Deutschland; in Prozent
+3,99
+3,98
+3,71
+3,11
+Quellen: Microsoft Academic Graph, 2022; eigene Berechnungen
+[Page #37]
+Anhang
+6.3 Kategorie Wirtschaft
+Einschätzung der Bedeutung von KI durch Unternehmen
+Bezeichnung des Indikators
+Einschätzung der Bedeutung von KI durch Unternehmen
+Einheit
+Mittelwert der Einschätzungen der Bedeutung von KI durch befragte Unternehmen auf einer Skala von 1 bis 100
+Methodik
+Befragung von Unternehmen aus Industrie und industrienahen Dienstleistungen im Rahmen des IW-ZukunftspanelsBefragungszeitpunkte: Jeweils Frühjahr 2019, 2020, 2021 und 2022Fallzahlen: N = 681 (2019), N = 893 (2020), N = 983 (2021) und N = 985 (2022)
+Quelle
+IW-Zukunftspanel
+Zusammenhang mit dem Index
+Die Grundvoraussetzung für den Einsatz von KI durch Unternehmen ist, dass diese der Technologie eine hohe Bedeutung für das eigene Unternehmen und die gesamte Wirtschaft zumessen. Je größer der Mittelwert der Einschätzung der Bedeutung, desto relevanter ist KI für die zukünftige Entwicklung der deutschen Wirtschaft.
+Abbildung 6-6: Entwicklung der Einschätzung der Bedeutung von KI durch Unternehmen
+Mittelwert der Einschätzung der Bedeutung von KI durch befragte Unternehmen auf einer Skala von 1 bis 100
+65,7
+64,7
+63,0
+61,8
+Quelle: IW-Zukunftspanel 2019, 33. Befragungswelle; 2020, 35. Befragungswelle; 2021, 38. Befragungswelle; 2022, 41. Befragungswelle; eigene Berechnungen
+[Page #38]
+Anhang
+Einsatz von KI in Unternehmen
+Bezeichnung des Indikators
+Entwicklung des Einsatzes von KI in Unternehmen
+Einheit
+Anteil der befragten Unternehmen, die Verfahren der Künstlichen Intelligenz einsetzen; in Prozent
+Methodik
+Befragung von Unternehmen aus Industrie und industrienahen Dienstleistungen im Rahmen des IW-ZukunftspanelsBefragungszeitpunkte: Jeweils Frühjahr 2019, 2020, 2021 und 2022Fallzahlen: N = 681 (2019), N = 893 (2020), N = 983 (2021) und N = 985 (2022)
+Quelle
+IW-Zukunftspanel
+Zusammenhang mit dem Index
+Der Anteil der Unternehmen, die bereits KI im Produktionsprozess verwenden, gibt einen Hinweis auf die Bedeutung von KI in den Unternehmen. Je größer dieser Anteil, desto relevanter ist KI in der deutschen Wirtschaft bereits.
+Abbildung 6-7: Entwicklung des Einsatzes von KI in Unternehmen
+Anteil der befragten Unternehmen der Industrie und der industrienahen Dienstleistungen, die Verfahren der Künstlichen Intelligenz einsetzen; in Prozent
+21,1
+18,8
+12,9
+10,1
+Quelle: IW-Zukunftspanel 2019, 33. Befragungswelle; 2020, 35. Befragungswelle; 2021, 38. Befragungswelle; 2022, 41. Befragungswelle; eigene Berechnungen
+[Page #39]
+Anhang
+KI in Geschäftsberichten
+Bezeichnung des Indikators
+KI in Geschäftsberichten der DAX-Unternehmen
+Einheit
+Arithmetisches Mittel der Anzahl von KI-Begriffen pro 1.000 Wörter
+Methodik
+Regelbasiertes Verfahren zur Identifikation von KI-Begriffen in Geschäftsberichten der DAX-30 bzw. DAX-40 UnternehmenAuswertung für das jeweilige Kalenderjahr anhand der Geschäfts-berichte der im jeweiligen Jahr im DAX gelisteten Unternehmen Berechnung der Anteile an KI-Begriffen pro 1.000 Wörter je Rede in den jeweiligen Geschäftsberichten
+Quelle
+DAX-30 (DAX-40) Geschäftsberichte
+Zusammenhang mit dem Index
+Die Unternehmen im bedeutendsten Börsenindex Deutschlands – dem DAX – haben durch ihre Größe und ihre Rolle in den ausgeprägten, verzweigten Wertschöpfungsketten eine besondere Bedeutung für die deutsche Wirtschaft und häufig eine Vorbildfunktion. In den jährlich er-scheinenden Geschäftsberichten wird neben den buchhalterischen Zah-len auch ausführlich über die allgemeine Situation, Herausforderungen, Potenziale und die strategische Ausrichtung der Unternehmen berichtet. Wie häufig das Thema KI hierbei adressiert wird, gibt einen Einblick, wie relevant KI für die Geschäftsmodelle dieser Unternehmen ist.
+Abbildung 6-8: Entwicklung der Nennung von KI in Geschäftsberichten der DAX-30 (DAX-40) Unternehmen
+Arithmetisches Mittel der Anzahl von KI-Begriffen* pro 1.000 Wörter
+2,89
+2,59
+1,60
+1,50
+Quelle: DAX-30 (DAX-40) Geschäftsberichte; eigene Berechnungen
+[Page #40]
+Anhang
+KI-Patentanmeldungen
+Bezeichnung des Indikators
+Entwicklung der Patentanmeldungen für KI-Technologien
+Einheit
+Anteil der deutschen KI-Patentanmeldungen an der Gesamtheit aller deutschen Patentanmeldungen im Berichtsjahr
+Methodik
+Identifikation von Patentanmeldungen deutscher Unternehmen für Technologien, die mindestens einer von 401 Cooperative Patent Classification (CPC-)-Klassen, die im weiteren Sinne einen KI-Bezug aufweisen, zuzuordnen sind. Automatisierte Suche nach KI-Suchwör-tern in Volltexten von Patenten, zur Identifikation von Patentanmeldun-gen, die im engeren Sinne KI-Technologien darstellen. Berechnung des Anteils der KI-Patentanmeldungen nach automatisier-ter Filterung an der Gesamtzahl aller Patentanmeldungen im Berichts-jahr. Aufgrund der Pflicht zur Offenlegung der Patentinformation innerhalb von 18 Monaten (§ 31 Abs. 2 Nr. 2 PatG) ergibt sich ein zeitlicher Ver-zug, sodass für das aktuelle Berichtsjahr die Patentanmeldungen aus dem Jahr 2019 eingehen.
+Quelle
+IW-Patentdatenbank
+Zusammenhang mit dem Index
+Der Anteil von deutschen KI-Patentanmeldungen an allen deutschen Patentanmeldungen spiegelt die Innovationskraft im KI-Bereich wider. Je höher der Anteil ist, desto bedeutender sind KI-Innovationen für die deutsche Wirtschaft.
+Abbildung 6-9: Entwicklung der deutschen Patentanmeldungen
+Anteil der deutschen KI-Patentanmeldungen an allen deutschen Patentanmeldungen; in Prozent
+1,73
+1,46
+1,02
+0,74
+Quelle: IW-Patentdatenbank, 2022; eigene Berechnungen
+[Page #41]
+Anhang
+KI in Stellenanzeigen
+Bezeichnung des Indikators
+KI in Stellenanzeigen
+Einheit
+Anteil an KI-Stellenausschreibungen pro Quartal an allen Stellenaus-schreibungen
+Methodik
+Regelbasiertes Verfahren zur Identifikation von KI-Stellenaus- schreibungen über ein Wörterbuch mit Jobtiteln von KI-BerufenAuswertung für das jeweils erste Quartal eines Kalenderjahres Berechnung des Anteils an KI-Stellenausschreibungen an allen im Quartal ausgeschriebenen StellenFallzahlen: Q1-2019: 18.934 KI-Stellen (N = 3.247.811); Q1-2020: 21.608 KI-Stellen (N = 3.010.533); Q1-2021: 32.018 KI-Stellen (N = 3.618.411); Q1-2022: 36.684 KI-Stellen (N = 4.509.096)
+Quelle
+Textkernel; eigene Berechnung
+Zusammenhang mit dem Index
+Die Annahme ist, dass je mehr Stellen für KI-Jobs von deutschen Unter-nehmen ausgeschrieben werden, desto weiter fortgeschritten ist die Nutzung und die Relevanz von KI in den Unternehmen.
+Abbildung 6-10: Entwicklung von KI in Stellenanzeigen
+Anteil an Stellenausschreibungen, die KI-Kompetenzen beinhalten, an allen ausgeschriebenen Stellen; in Prozent; jeweils erstes Quartal
+0,88
+0,81
+0,72
+0,58
+Quelle: Textkernel; IW; eigene Berechnungen
+[Page #42]
+Anhang
+6.4 Kategorie Gesellschaft
+Bekanntheit von KI in der Gesellschaft
+Bezeichnung des Indikators
+Bekanntheit von KI in der Gesellschaft
+Einheit
+Anteil der befragten Personen in Prozent, die den Begriff Künstliche Intelligenz erklären können oder in etwa wissen, was er bedeutet
+Methodik
+Quelle ist die Studie der Initiative D21, welche von Kantar zur Ermitt-lung des D21 Digitalindex durchgeführt wurde. Diese beinhaltet eine mehrfach geschichtete, bevölkerungsrepräsentative Befragung, in der auch die Bekanntheit mehrerer Begriffe abgefragt wird. Künstliche Intelligenz ist einer dieser Begriffe. Der Anteil derjenigen Personen (ab 14 Jahren), die den Begriff KI er-klären können oder in etwa wissen, was er bedeutet, wird als Indikator verwendet. Ausnahme bildet das Erhebungsjahr 2020, in dem der Begriff KI nicht in der Studie der Initiative D21 abgefragt wurde. In diesem Jahr wurde eine Befragung des Bitkom verwendet, in der eine vergleichbare Frage gestellt wurde.103 Fallzahlen: N = 2024 für 2021; N = 2.019 für 2019; N = 2.052 für 2018
+Quelle
+Initiative D21, 2022; 2020; 2019; Bitkom, 2020; eigene Berechnung
+Zusammenhang mit dem Index
+Eine gute Kenntnis von KI deutet ein Interesse an dieser Technologie an und hilft, Berührungsängste abzubauen. Je höher der Anteil der Per-sonen ist, die sich mit KI auskennen, desto höher sollte die Akzeptanz von KI in der Gesellschaft sein.
+Abbildung 6-11: Entwicklung der Bekanntheit von KI in der Gesellschaft
+Anteil der Befragten über 14 Jahre, die den Begriff „Künstliche Intelligenz“ erklären können oder in etwa wissen, was er bedeutet; in Prozent
+2020 *
+* Imputierter WertQuelle: Initiative D21, 2022; 2020; 2019; Bitkom, 2020a; eigene Berechnung
+103 Bitkom, 2020a
+[Page #43]
+Anhang
+KI in Printmedien
+Bezeichnung des Indikators
+KI in den Printmedien
+Einheit
+Mittlere Tonalität der Zeitungsartikel über Künstliche Intelligenz, transformiert auf den Wertebereich 1 bis 100
+Methodik
+Die Artikel der Onlineausgaben der Zeitungen werden nach KI-Stich- wörtern durchsucht. Werden in einem Artikel mindestens zwei der KI-Begriffe verwendet, wird dieser als Artikel mit KI-Bezug eingestuft. Die Tonalität dieser Artikel wird anschließend bestimmt.Die Tonalitätswerte werden auf eine Skala von 0 bis 100 transformiert, wobei 0 eine maximal negative, 100 eine maximal positive und 50 eine neutrale Tonalität indiziert. Auf Basis der Tonalität aller Artikel wird das arithmetische Mittel des jeweiligen Jahres ermittelt.
+Quelle
+Quelle: Bild, Welt, Handelsblatt; eigene Berechnungen
+Zusammenhang mit dem Index
+Breite Teile der Gesellschaft informieren sich über Themen mithilfe von Printmedien. Hierbei ist es für die gesellschaftliche Wahrneh-mung nicht nur relevant, dass ein Thema wie KI nicht nur vorkommt beziehungsweise möglichst häufig in den Printmedien adressiert wird, sondern insbesondere wie – positiv oder negativ – das Thema darge-stellt wird.
+Abbildung 6-12: Entwicklung der Berichterstattung über KI in den Printmedien
+Mittlere Tonalität der Zeitungsartikel über Künstliche Intelligenz, transformiert auf den Wertebereich 1 bis 100; Werte zwischen 1 und 50 signalisieren eine negative Tonalität, Werte über 50 eine positive Tonalität
+50,69
+50,66
+50,97
+51,21
+Quelle: Bild, Welt, Handelsblatt; eigene Berechnungen
+[Page #44]
+Anhang
+KI auf Twitter
+Bezeichnung des Indikators
+KI auf Twitter
+Einheit
+Mittlere Tonalität aller KI Tweets pro Jahr auf einer Skala von 1 bis 100
+Methodik
+Scraping von allen deutschsprachigen Tweets pro Jahr, die KI-Begriffe enthalten.Berechnung der Tonalität jedes Tweets. Hierbei wird der Anteil positiv behafteter durch den Anteil negativer Wörter geteilt.Die Tonalitätswerte werden auf eine Skala von 0 bis 100 transformiert, wobei 0 eine maximal negative, 100 eine maximal positive und 50 eine neutrale Tonalität indiziert. Daraus wird das arithmetische Mittel des jeweiligen Jahres ermittelt.Fallzahlen: N = 169.671 (2018); N = 165.807 (2019); N = 154.267 (2020); N = 149.969 (2021)
+Quelle
+Twitter; eigene Berechnungen
+Zusammenhang mit dem Index
+Über Onlinekanäle wie Twitter oder andere soziale Netzwerke können Bürgerinnen und Bürger aktiv an meinungsbildenden Diskussionen teilnehmen. Onlinekanäle können als Sprachrohr gelten, welches die direkte Wahrnehmung in der Bevölkerung widerspiegelt. Im Gegensatz zum gegenseitigen gesellschaftlichen Austausch, der offline stattfin-det, besitzt die Online-Kommunikation den Vorteil, dass sie quantifizier- und auswertbar ist.
+Abbildung 6-13: Entwicklung der Wahrnehmung von KI auf Twitter
+Mittlere Tonalität aller deutschsprachigen Tweets über künstliche Intelligenz auf einer Skala von 1 bis 100
+53,23
+53,42
+52,78
+52,28
+Quelle: Twitter; eigene Berechnungen
+[Page #45]
+Anhang
+Google-Suchinteresse an KI
+Bezeichnung des Indikators
+Google-Suchinteresse an KI
+Einheit
+Min-Max normalisierte Google-Suchanfragen für 14 KI-Begriffe
+Methodik
+Mittels Google Trends wird das Suchinteresse an 14 KI-Begriffen im Zeitraum von 2018 bis 2021 wochenweise untersucht. Dabei standar-disiert Google Trends das Maximum an Suchanfragen in einer Woche im Gesamtzeitraum auf 100 und gibt alle Werte entsprechend diesem Maximum an. Anschließend wird die Summe der standardisierten KI-Suchanfragen auf Google über alle 14 Begriffe für die einzelnen Wochenintervalle gebildet. Dies ist die Basis zur Berechnung der Jahresdurchschnitte für die einzel-nen Zeiträume 2018, 2019, 2020 und 2021. Da Google Trends bei verschie-denen Datenabfragen jeweils leicht unterschiedliche, aber stets repräsen-tative Stichproben zieht, wird die Datenabfrage zehnmal durchgeführt und der Durchschnitt dieser zehn Abfragen ermittelt. Als Indikator wird anschließend dieser Durchschnitt Min-Max normalisiert.
+Quelle
+Google Trends, 2022; eigene Berechnungen
+Zusammenhang mit dem Index
+Suchmaschinen spielen zur Online-Informationsbeschaffung eine herausragende Rolle. Das Interesse an Informationen zu KI in der deutschen Gesellschaft deutet dabei eine Aufgeschlossenheit ge-genüber der Technologie an. Je ausgeprägter das Interesse und die Aufgeschlossenheit gegenüber KI ist, desto günstiger ist das Umfeld für einen Einsatz entsprechender Technologien.
+Abbildung 614: Entwicklung des Google-Suchinteresses* an KI
+Min-Max normalisierte Indikatorwerte der Google-Suchanfragen für KI-Begriffe*Aufgrund der Methodik von Google-Trends weichen die Ergebnisse von denen der vorhergehen-den KI-Monitore ab.
+18,69
+17,82
+16,16
+15,43
+Quelle: Google Trends, 2022; eigene Berechnungen
+[Page #46]
+Literaturverzeichnis
+Literaturverzeichnis
+acatech - Deutsche Akademie der Technikwissenschaften e.V. (Hrsg.), 2017, Studienabbruch in den Ingenieurwissenschaften. Hochschulübergreifende Analyse und Handlungsempfehlungen, acatech POSITION, München
+Ahuja, Gautam, 2000, The Duality of Collaboration: Inducements and Opportunities in the Formati-on of Interfirm Linkages, in: Strategic Management Journal, 21. Jg., S. 317–343
+Anger, Christina / Kohlisch, Enno / Koppel, Oliver / Plünnecke, Axel, 2022, MINT-Frühjahrsreport 2022. Demografie, Dekarbonisierung und Digitalisierung erhöhen MINT-Bedarf – Zuwanderung<br /> stärkt MINT-Fachkräfteangebot und Innovationskraft, Gutachten für BDA, MINT Zukunft schaf-fen und Gesamtmetall, Köln
+Balzli, Beat, 2021, Schulden für die Politshow, https://www.wiwo.de/politik/deutschland/balzli- direkt-schulden-fuer-die-politshow/27141678.html [3.5.2021]
+Beamten-Infoportal.de, 2018, Personalprobleme im Jahr 2030 im Öffentlichen Dienst, https://beamten-infoportal.de/ratgeber/personalprobleme-im-jahr-2030-im-oeffentlichen-dienst/ [20.6.2022]
+Becker, Wolfgang / Dietz, Jürgen, 2004, R&D Cooperation and Innovation Activities of Firms – Evidence for the German Manufactoring Industry, in: Research Policy, 33. Jg., Nr. 2, S. 209–223
+Bitkom – Bundesverband Informationswirtschaft, Telekommunikation und neue Medien e.V., 2020, Künstliche Intelligenz, https://www.bitkom.org/sites/default/files/2020-09/bitkom- charts-kunstliche-intelligenz-28-09-2020_final.pdf [9.3.2021]
+Bitkom, 2021a, Künstliche Intelligenz kommt in Unternehmen allmählich voran, https://www.bitkom-research.de/de/pressemitteilung/kuenstliche-intelligenz-kommt-unternehmen- allmaehlich-voran [5.5.2022]
+Bitkom, 2021b, Fast drei Viertel sehen Künstliche Intelligenz als Chance, https://www.bitkom.org/Presse/Presseinformation/Kuenstliche-Intelligenz-als-Chance [1.6.2022]
+Bitkom, 2022a, Mehrheit will sich von einer KI zur Altersvorsorge beraten lassen, https://www.bitkom.org/Presse/Presseinformation/Mehrheit-fuer-KI-Beratung-Altersvorsorge [12.5.2022]
+Bitkom, 2022b, Datenökonomie – Wo steht die deutsche Wirtschaft?, https://www.bitkom.org/Presse/Presseinformation/Unternehmen-oeffnen-sich-Datenoekonomie [2.6.2022]
+BMBF – Bundesministerium für Bildung und Forschung, 2022, Stark-Watzinger: 100. zusätzliche KI-Professur wurde besetzt, PRESSEMITTEILUNG: 35/2022, https://www.bmbf.de/bmbf/ shareddocs/pressemitteilungen/de/2022/05/030522-KI-Professoren.html [13.5.2022]
+BMVI - Bundesministerium für Verkehr und digitale Infrastruktur, 2018a, Alternative Verlegetech-niken: „Trenching“ am 05.11.2018, https://www.bmvi.de/SharedDocs/DE/Artikel/DG/workshop- verlegetechniken-trenching.html [20.6.2022]
+BMVI, 2018b, Aktuelle Breitbandverfügbarkeit in Deutschland (Stand Mitte 2018), Erhebung des TÜV Rheinland im Auftrag des BMVI, Berlin
+BMVI, 2019, Aktuelle Breitbandverfügbarkeit in Deutschland (Stand Mitte 2019), Erhebung der atene KOM im Auftrag des BMVI, Berlin
+[Page #47]
+Literaturverzeichnis
+BMVI, 2020, Aktuelle Breitbandverfügbarkeit in Deutschland (Stand Mitte 2020), Erhebung der atene KOM im Auftrag des BMVI, Berlin
+BMVI, 2021, Aktuelle Breitbandverfügbarkeit in Deutschland (Stand Mitte 2021), Erhebung der atene KOM im Auftrag des BMVI, Berlin
+BMWK – Bundesministerium für Wirtschaft und Klimaschutz, 2021a, Start von vier Modell-projekten für mehr KI-Gründungen, https://www.bmwk.de/Redaktion/DE/Meldung/ 2021/20211216-start-von-vier-modellprojekten-fur-mehr-ki-grundungen.html [13.5.2022]
+BMWK, 2021b, BMWi fördert Quantentechnologien mit 878 Millionen Euro, https://www.bmwk.de/Redaktion/DE/Pressemitteilungen/2021/05/20210511-BMWi-foerdert-Quanten-technologien-mit-878-Millionen-Euro.html [13.5.2021]
+BMWK, 2022, Frankreich und Deutschland fördern gemeinsam fünf Kooperationsprojekte im Bereich der Nutzung künstlicher Intelligenz zur Stärkung der Krisenresilienz, https://www.bmwk.de/Redaktion/DE/Pressemitteilungen/2022/04/20220419-frankreich-und- deutschland-fordern-gemeinsam-funf-kooperationsprojekte-im-bereich-der-nutzung- kunstlicher-intelligenz-zur-starkung-der-krisenresilienz.html [13.5.2022]
+Bruns, Lina / Demary, Vera / Goecke, Henry / Horn, Nikolai / Klessmann, Jens / Mack, Le-onhard / Otto, Philipp / Rusche, Christian / Scheufen, Marc / Vallée, Tim, 2021, Hochwertige Datensätze in Deutschland, Studie im Auftrag des Bundesministeriums für Wirtschaft und Energie, Berlin
+Büchel, Jan / Demary, Vera / Engels, Barbara / Goecke, Henry / Rusche, Christian, 2020, Gutachten im Auftrag des Bundesministeriums für Wirtschaft und Energie (BMWi): Methodik des Digitalisierungsindex, https://www.de.digital/DIGITAL/Redaktion/DE/Digitalisierungsindex/ Publikationen/publikation-download-methodik-des-digitalisierungsindex.pdf [4.12.2020]
+Büchel, Jan / Mertens, Armin, 2021, KI-Bedarfe der Wirtschaft am Standort Deutschland. Eine Analyse von Stellenanzeigen für KI-Berufe, Studie im Rahmen des Projekts „Entwicklung und Messung der Digitalisierung der Wirtschaft am Standort Deutschland“ im Auftrag des Bundesministeriums für Wirtschaft und Energie (BMWi), Köln
+Büchel, Jan / Demary, Vera / Goecke, Henry / Kohlisch, Enno / Koppel, Oliver / Mertens, Armin / Rusche, Christian / Scheufen, Marc / Wendt, Jan, 2021, KI-Monitor 2021, Status quo der Künstlichen Intelligenz in Deutschland Gutachten, Studie im Auftrag des Bundesverband Digitale Wirtschaft (BVDW), Berlin
+Büchel, Jan / Engels, Barbara, 2022, Datenbewirtschaftung von Unternehmen in Deutsch-land, in: IW-Trends, 49. Jg., Nr. 1, S. 73–90
+Büchel et al., 2022, Anreizsysteme und Ökonomie des Data Sharings, Handlungsfelder des unternehmensübergreifenden Datenaustausches und Status quo der deutschen Wirtschaft, Dortmund/Köln
+Bundesanzeiger, 2021, Siebzehnte Verordnung zur Änderung der Außenwirtschaftsverord-nung, https://www.bmwk.de/Redaktion/DE/Publikationen/Aussenwirtschaft/banz-at-2021-04-30-v1.pdf?__blob=publicationFile&v=4 [12.5.2022]
+Bundeskartellamt, 2022, Alphabet/Google ist ein Anwendungsfall für neue Aufsicht über große Digitalkonzerne - Bundeskartellamt stellt „überragende marktübergreifende Bedeutung“ fest, Pressemitteilung vom 5.1.2022, https://www.bundeskartellamt.de/SharedDocs/Publikation/DE/Pressemitteilungen/2022/05_01_2022_Google_19a.pdf?__blob=publicationFile&v=2 [13.5.2022]
+[Page #48]
+Literaturverzeichnis
+Bundesregierung, 2018, Strategie Künstliche Intelligenz der Bundesregierung, November 2018, o. O.
+Bundesregierung, 2020, Strategie Künstliche Intelligenz der Bundesregierung. Fortschreibung 2020, https://www.bmwi.de/Redaktion/DE/Publikationen/Technologie/strategie-kuenstliche- intelligenz-fortschreibung-2020.pdf?__blob=publicationFile&amp;v=10 [8.6.2022]
+Demary, Vera / Engels, Barbara / Röhl, Klaus-Heiner / Rusche, Christian, 2016, Digitalisie-rung und Mittelstand, Eine Metastudie, IW-Analysen, Nr. 109, Köln
+Demary, Vera / Rusche, Christian, 2018, Zukunftsfaktor 5G, Eine ökonomische Perspektive, IW-Report, Nr. 45, Köln
+Demary, Vera / Engels, Barbara / Goecke, Henry / Koppel, Oliver / Mertens, Armin / Rusche, Christian / Scheufen, Marc / Wendt, Jan, 2020, KI-Monitor, Status quo der Künstlichen Intel-ligenz in Deutschland, Gutachten im Auftrag des Bundesverband Digitale Wirtschaft (BVDW), Berlin
+Demary, Vera / Goecke, Henry, 2021, Wie KMU Künstliche Intelligenz nutzen, IW-Kurzbericht, Nr. 81, Köln
+Demary, Vera / Matthes, Jürgen / Plünnecke, Axel / Schaefer, Thilo (Hrsg.). 2021, Gleichzei-tig: Wie vier Disruptionen die deutsche Wirtschaft verändern. Herausforderungen und Lösun-gen, IW-Studie, Köln
+Deutscher Bundestag, 2022, Open Data, https://www.bundestag.de/services/opendata [08.02.2022]
+DIN - Deutsches Institut für Normung e. V., 2022a, Künstliche Intelligenz: Ohne Normen und Standards geht es nicht, https://www.din.de/de/forschung-und-innovation/themen/ kuenstliche-intelligenz [8.6.2022]
+DIN - Deutsches Institut für Normung e. V., 2022b, Erste Ausgabe der Deutschen Normungs-roadmap Künstliche Intelligenz, Wegweisende Ergebnisse und Handlungsempfehlungen, https://www.din.de/de/forschung-und-innovation/themen/kuenstliche-intelligenz/erste- ausgabe-der-deutschen-normungsroadmap-kuenstliche-intelligenz/erste-ausgabe-der- deutschen-normungsroadmap-kuenstliche-intelligenz-483942 [8.6.2022]
+DStGB – Deutscher Städte- und Gemeindebund, 2018, Bürokratie abbauen, Investitionen beschleunigen, https://www.dstgb.de/aktuelles/archiv/archiv-2020/buerokratie-abbauen -investitionen-beschleunigen/ [20.6.2022]
+Engels, Barbara / Röhl, Klaus-Heiner, 2020, Start-ups und Mittelstand. Potenziale und Her-ausforderungen von Kooperationen, IW-Analysen, Nr. 134, Köln
+Europäische Kommission, 2021a, Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions Fostering a European approach to Artificial Intelligence, COM(2021) 205 final, Brüssel
+Europäische Kommission, 2021b, Proposal for a Regulation of the European Parliament and of the Council laying down harmonised rules on artificial intelligence (Artificial Intelligence Act) and amending certain Union Legislative Acts, COM(2021) 206 final, Brüssel
+[Page #49]
+Literaturverzeichnis
+Europäische Kommission, 2022, Civil liability – adapting liability rules to the digital age and artificial intelligence, https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12979-Civil-liability-adapting-liability-rules-to-the-digital-age-and-artificial- intelligence_en [12.5.2022]
+Europäisches Parlament, 2022a, DRAFT REPORT on the proposal for a regulation of the European Parliament and of the Council on harmonised rules on Artificial Intelligence (Arti-ficial Intelligence Act) and amending certain Union Legislative Acts, https://www.europarl.europa.eu/doceo/document/CJ40-PR-731563_EN.pdf [11.5.2022]
+Europäisches Parlament, 2022b, Artificial intelligence act, Briefing EU Legislation in Progress, https://www.europarl.europa.eu/RegData/etudes/BRIE/2021/698792/EPRS_BRI(2021698792_EN.pdf [11.5.2022]
+Eurostat, 2022, Type of connections to the internet [ISOC_CI_IT_EN2__custom_2840229], The speed of the fixed line connection(s) to the internet is sufficient for the actual needs of the enterprise, All enterprises, without financial sector (10 or more employees and self-em-ployed persons), abgerufen am 1.06.2022
+GPAI - The Global Partnership on Artificial Intelligence, 2022, The Global Partnership on Artificial Intelligence, https://gpai.ai [13.5.2022]
+Google Trends, 2022, Interesse im zeitlichen Verlauf, https://trends.google.de/trends/explo-re?date=today%205-y&geo=DE&q=K%C3%BCnstliche%20Intelligenz [26.04.2022]
+Hammermann, Andrea / Rusche, Christian / Röhl, Klaus-Heiner, 2021, Start-ups. Zusam-men erreicht man mehr, IW-Kurzbericht, Nr. 43, Köln
+Heublein, Ulrich / Richter, Johanna / Schmelzer, Robert, 2020, Die Entwicklung der Studie-nabbruchquoten in Deutschland, DZHW Brief 03/2020, Hannover
+Initiative D21, 2019, D21 DIGITAL INDEX 2018/2019 – Jährliches Lagebild zur Digitalen Ge-sellschaft, https://initiatived21.de/app/uploads/2019/01/d21_index2018_2019.pdf [9.3.2021]
+Initiative D21, 2020, Wie Digital ist Deutschland? D21 DiGITAL INDEX 19/20 - Jährliches Lagebild zur Digitalen Gesellschaft, https://initiatived21.de/app/uploads/2020/02/d21_in-dex2019_2020.pdf [9.3.2021]
+Initiative D21, 2022, Wie Digital ist Deutschland? D21 DiGITAL INDEX 21/22 - Jährliches Lagebild zur Digitalen Gesellschaft, https://initiatived21.de/app/uploads/2022/02/d21-digi-tal-index-2021_2022.pdf [13.06.2022]
+Kilian, Thomas / Hennings, Nadine, 2011, Unternehmerische Verantwortung zwischen Anspruch und Wirklichkeit: Eine empirische Analyse der Kommunikation CSR-relevanter Aspekte in Geschäftsberichten der DAX-30-Unternehmen von 1998–2009, in: Sustainability Management, Forum, Nr. 3–4
+Krotova, Alevtina / Rusche, Christian / Spiekermann, Markus, 2019, Die ökonomische Be-wertung von Daten, Verfahren, Beispiele und Anwendungen, IW-Analysen, Nr. 129, Köln
+Moraht, Frederike 2021, Erklärbare KI noch in den Kinderschuhen, https://background.tagesspiegel.de/digitalisierung/erklaerbare-ki-noch-in-den-kinderschuhen [6.5.2021]
+Precht, Ricard D., 2020, Jäger, Hirten, Kritiker: Eine Utopie für die digitale Gesellschaft, Wilhelm Goldmann Verlag, München
+[Page #50]
+Literaturverzeichnis
+Rammer, Christian, 2021, Herausforderungen beim Einsatz von Künstlicher Intelligenz, Er-gebnisse einer Befragung von jungen und mittelständischen Unternehmen in Deutschland, Studie im Auftrag des Bundesministeriums für Wirtschaft und Energie (BMWi), Berlin
+Röhl, Klaus-Heiner / Bolwin, Lennart / Hüttl, Paula, 2021, Datenwirtschaft in Deutschland. Wo stehen die Unternehmen in der Datennutzung und was sind ihre größten Hemmnisse?, Gutachten im Auftrag des Bundesverbands der Deutschen Industrie e.V. (BDI), Köln
+Röhl, Klaus-Heiner, 2021, Start-ups und Venture Capital in Deutschland. Bringt der Zu-kunftsfonds neue Schubkraft für die Gründerkultur?, IW-Policy Paper, Nr. 28, Berlin
+Rusche, Christian, 2022, Einführung in Gaia-X – Hintergrund, Ziele und Aufbau, IW-Report, Nr. 10, Köln
+Statistisches Bundesamt, 2018, Bildung und Kultur, Prüfungen an Hochschulen, Fachserie 11 Reihe 4.2, Wiesbaden
+Statistisches Bundesamt, 2019, Bildung und Kultur, Prüfungen an Hochschulen, Fachserie 11 Reihe 4.2, Wiesbaden
+Statistisches Bundesamt, 2020, Bildung und Kultur, Prüfungen an Hochschulen, Fachserie 11 Reihe 4.2, Wiesbaden
+Statistisches Bundesamt, 2021, Bildung und Kultur, Prüfungen an Hochschulen, Fachserie 11 Reihe 4.2, Wiesbaden
+Textkernel, 2022, Textkernel Jobdatenbank, https://www.textkernel.com/de/solution/job-feed/ [11.04.2022]
+Twitter, 2022, twitter.com [15.02.2022]
+US Department of Commerce, 2021a, U.S.-EU Trade and Technology Council, https://www.trade.gov/useuttc [12.5.2022]
+US Department of Commerce, 2021b, U.S.-EU Trade and Technology Council Inaugural Joint Statement, https://www.commerce.gov/news/press-releases/2021/09/us-eu-trade- and-technology-council-inaugural-joint-statement [12.5.2021]
+Wang, Gaofeng / Kong, Qingqing, 2019, The Dilemmas of Scientific Research Cooperation and their Resolution from the Perspective of Evolutionary Psychology, in: Frontiers in Psy-chology, 10. Jg., https://doi.org/10.3389/fpsyg.2019.02561 [7.5.2020]
+WIK, 2019, Künstliche Intelligenz im Mittelstand. Relevanz, Anwendungen, Transfer, Eine Erhebung der Mittelstand-Digital Begleitforschung, https://www.mittelstand-digital.de/MD/Redaktion/DE/Publikationen/kuenstliche-intelligenz-im-mittelstand.pdf?__blob=publication-File&v=5 [5.5.2022]
+WEF – World Economic Forum, 2019, Innovate Europe Competing for Global Innovation Leadership, Insight Report, https://www3.weforum.org/docs/WEF_Innovate_Europe_ Report_2019.pdf [11.5.2022]
+Zhang, Daniel / Maslej, Nestor / Brynjolfsson, Erik / Etchemendy, John / Lyons, Terah / Manyika, James / Ngo, Helen / Niebles, Juan Carlos / Sellitto, Michael / Sakhaee, Ellie / Shoham, Yoav / Clark, Jack / Perrault, Raymond, 2022, The AI Index 2022 Annual Report, AI Index Steering Committee, Stanford Institute for Human-Centered AI, Stanford University
+[Page #51]
+Über uns
+Bundesverband Digitale Wirtschaft (BVDW) e.V.
+Der Bundesverband Digitale Wirtschaft (BVDW) e.V. ist die Interessenvertretung für Unter-nehmen, die digitale Geschäftsmodelle betreiben oder deren Wertschöpfung auf dem Einsatz digitaler Technologien beruht. Als Impulsgeber, Wegweiser und Beschleuniger digitaler Ge-schäftsmodelle vertritt der BVDW die Interessen der digitalen Wirtschaft gegenüber Politik und Gesellschaft und setzt sich für die Schaffung von Markttransparenz und innovations-freundlichen Rahmenbedingungen ein. Sein Netzwerk von Experten liefert mit Zahlen, Da-ten und Fakten Orientierung zu einem zentralen Zukunftsfeld. Neben der DMEXCO und dem Deutschen Digital Award richtet der BVDW eine Vielzahl von Fachveranstaltungen aus. Mit Mitgliedern aus verschiedensten Branchen ist der BVDW die Stimme der digitalen Wirtschaft.
+www.bvdw.org
+[Page #52]
+Ressort Künstliche Intelligenz
+Ressort Künstliche Intelligenz
+Im Ressort KI beschäftigt sich der BVDW mit den verschiedenen Aspekten rund um die Re-gulierung und den Einsatz von Künstlicher Intelligenz. Wir entwickeln Instrumente für die Aufklärung und Information über die Chancen von Künstlicher Intelligenz im Dialog mit Po-litik und Gesellschaft. Gemeinsam mit Experten aus den Gremien des BVDW möchten wir die Diskussion um den nutzenbringenden Einsatz sowie den gesetzlichen Rahmen von einer „KI made in Europe“ proaktiv mitgestalten.
+Losgelöst von etablierten Allianzen wird im Ressort KI die Zusammenarbeit der digitalen Wirtschaft unterstützt und der gestiegenen Bedeutung branchenübergreifender Vernetzung Rechnung getragen.
+[Page #53]
+Impressum
+Impressum
+KI-Monitor 2022
+Erscheinungsort und -datum Berlin, Oktober 2022
+Herausgeber
+Bundesverband Digitale Wirtschaft (BVDW) e.V.Schumannstraße 2, 10117 Berlin, +49 30 2062186 - 0, info@bvdw.org, www.bvdw.org
+Geschäftsführer
+Carsten Rasner
+Präsident
+Dirk Freytag
+Vizepräsidenten
+Thomas Duhr, Anke Herbener, Corinna Hohenleitner, Dr. Moritz Holzgraefe, Alexander Kiock, Julian Simons
+Kontakt
+Sebastian Witte, Referent Künstliche Intelligenz, witte@bvdw.org
+Vereinsregisternummer
+Vereinsregister Düsseldorf VR 8358
+Rechtshinweise
+ Alle in dieser Veröffentlichung enthaltenen Angaben und Informationen wurden vom Bundesverband Digitale Wirtschaft (BVDW) e.V. sorgfältig recherchiert und geprüft. Diese Informationen sind ein Service des Verbandes. Für Richtigkeit, Vollständigkeit und Aktualität können weder der Bundesverband Digitale Wirtschaft (BVDW) e.V. noch die an der Erstellung und Veröffentlichung dieses Werkes beteiligten Unternehmen die Haftung übernehmen. Die Inhalte dieser Veröffentlichung und / oder Verweise auf Inhalte Dritter sind urheberrechtlich geschützt. Jegliche Vervielfältigung von Informationen oder Daten, insbesondere die Verwendung von Texten, Textteilen, Bildmaterial oder sonstigen Inhalten, bedarf der vorherigen Zustimmung durch den Bundesverband Digitale Wirtschaft (BVDW) e.V. bzw. die Rechteinhaber (Dritte).
+Ausgabe
+Erstausgabe
+Titelmotiv
+© iStock / wongmbatuloyo
+[Page #54]
+None

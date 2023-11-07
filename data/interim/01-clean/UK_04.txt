@@ -1,0 +1,806 @@
+[Page #0]
+Train in Vain?
+Skills, tasks, and training in the UK labour market
+Nye Cominetti, Rui Costa, Andrew Eyles, Kathleen Henehan & Sandra McNally
+December 2022
+[Page #1]
+The Economy 2030 Inquiry | Train in Vain?
+Citation
+If you are using this document in your own writing, our preferred citation is:
+N Cominetti et al., Train in Vain?:
+Skills, tasks, and training in the UK labour market, The Resolution Foundation,
+December 2022
+Permission to share
+This document is published under the Creative Commons Attribution Non
+Commercial No Derivatives 3.0 England and Wales Licence. This allows anyone
+to download, reuse, reprint, distribute, and/or copy Economy 2030 Inquiry
+publications without written permission subject to the conditions set out in the
+Creative Commons Licence.
+For commercial use, please contact: info@resolutionfoundation.org
+[Page #2]
+The Economy 2030 Inquiry | Train in Vain?
+[Page #3]
+The Economy 2030 Inquiry | Train in Vain?
+Summary
+Human capital – which we take to be synonymous with skills – is a good place to start
+when looking to improve the UK’s labour market and economic performance. But the
+nature of work has changed significantly in the past decades, demanding from workers
+skills to perform new tasks and rendering other skills and corresponding tasks obsolete.
+In particular, over the past 25 years, the need for social skills and abstract skills in the
+workplace has increased at the same time as the employment shares of occupations
+that are intensive in routine and manual skills have fallen. For example, occupations that
+use social skills intensively (such as directorial positions in marketing and sales, human
+resources, and customer services) have become a larger part of the set of jobs done in
+the UK, whereas those that have little need for social skills have declined in importance.
+Conversely, occupations that use routine skills intensively (such as metal workers,
+assemblers, and plastic process operatives) have declined, whereas those that have little
+need for manual skills have become more important.
+Alongside these changes, wages have grown particularly strongly for jobs that require a
+significant amount of abstract reasoning: occupations that use abstract skills intensively
+(i.e. at the 90th percentile of abstract-skill-intensity across all occupations) have seen
+average wage growth of 30 per cent since 1994, compared with wage growth of below 15
+per cent for occupations that involve below-median levels of abstract skills. In general,
+these shifts are relatively good news for workers with high levels of education and those
+in high-paying occupations, as they are most likely to utilise social and abstract skills
+while in the workplace.
+Training, whether it be on-the-job or done outside of work, is the most salient pathway
+by which one can acquire skills while in the labour market. But training is in decline: the
+proportion of workers who report that they have received work-related training in the
+past 3 months has fallen from 29 per cent in 2002 to 24 per cent in 2020, and has fallen
+the most for workers aged under 25. The number of days training received per employee
+or per trainee is lower than a decade ago, as are the proportion of employers who report
+they are providing training and the amount of money spent on training by employers. The
+most-educated workers train more, with an average of over 40 per cent reporting having
+received some form of training in the previous quarter, twice as high a rate as those with
+below secondary level education. Among adults who are out-of-work (both those who are
+inactive and unemployed, but excluding those on parental leave), training rates are very
+low: only 13 per cent received any training (in a 12-month period), less than half the rate at
+which employees are trained. Fewer than one-in-ten out-of-work adults received longer
+or qualification-bearing forms of training.
+[Page #4]
+The Economy 2030 Inquiry | Train in Vain?
+These low rates of training among the least educated are troubling, given international
+evidence showing that there are higher returns to adult education for these individuals.
+And the difficulty of acquiring new skills once one is already in the labour force is borne
+out by worrying labour market trends. The UK has seen falling rates of job mobility in
+recent decades, with much of the changing patterns of occupational structure driven by
+entry and exit of workers as opposed to employed workers transitioning from declining
+to expanding sectors. In a world of stagnant productivity growth and with an increasing
+need for wages to keep pace with prices, improving the UK’s system of training and skills
+provision could have an enormously beneficial impact. Fortunately, there is a wealth of
+international evidence that can be drawn upon to design a system that would make post-
+school training provision work for more of the UK’s labour force. Phase 2 of the Economy
+2030 project will advance policy recommendations in this field that can ultimately
+contribute to higher and more inclusive economic growth for the UK.
+Introduction
+Human capital – by which we mean the skills, knowledge and experience of the
+workforce – should form part of any attempt to assess the strengths and weaknesses of
+the UK economy, and so it is a key consideration for the Economy 2030 project, being
+undertaken by the Resolution Foundation and the Centre for Economic Performance at the LSE.1
+It is well-known that the UK has an unequal distribution of human capital, in the sense
+that there is a relatively large proportion of adults with higher-level qualifications but
+also a higher proportion of adults with very low qualification levels than in comparable
+countries. According to OECD data, 38 per cent of working-age adults in England are
+qualified to tertiary level (above the OECD average of 34 per cent), while 25 per cent have
+below upper secondary level qualifications (slightly higher than the OECD average of
+24 per cent). This is set out in Figure 1, which shows these figures for England, Northern
+Ireland, and selected OECD countries. England stands out for having relatively few adults
+with middle-level qualifications; recent work has found that this gap is related to the lack
+of funding for advanced vocational qualifications, leaving UK adults a quarter as likely as adults from the US to have undertaken an advanced vocational qualification.2
+1
+ Resolution Foundation & Centre for Economic Performance, LSE, Stagnation nation: Navigating a route to a fairer and more prosperous Britain, Resolution Foundation, July 2022. Britain’s future skills need is also being considered by another project funded by the Nuffield Foundation, The Skills Imperative 2035. C Farquharson, S McNally & I Tahir, Education Inequalities, IFS Deaton Review of Inequalities, August 2022.
+2
+[Page #5]
+The Economy 2030 Inquiry | Train in Vain?
+FIGURE 1: England and Northern Ireland have a large share of adults with only a low-level qualification, especially given the large proportion who have a degree-level qualification
+Highest qualification among working-age population in selected OECD countries: 2019
+Tertiary
+Upper secondary
+Below upper secondary
+Canada
+11%
+36%
+53%
+Israel
+13%
+36%
+51%
+Singapore
+21%
+29%
+50%
+Japan
+12%
+43%
+46%
+United States
+8%
+46%
+46%
+Norway
+21%
+37%
+41%
+South Korea
+20%
+40%
+40%
+England
+25%
+36%
+39%
+Australia
+27%
+36%
+37%
+Ireland
+28%
+38%
+35%
+OECD average
+24%
+43%
+34%
+Germany
+10%
+55%
+34%
+Sweden
+19%
+47%
+33%
+Northern Ireland
+36%
+32%
+32%
+France
+27%
+44%
+29%
+Italy
+52%
+34%
+14%
+NOTES: The OECD data used to produce this graph are only available for England and Northern Ireland and not the United Kingdom as a whole. In addition, the OECD data do not disaggregate education levels into the four categories used in the previous subsection; instead, vocational qualifications and degrees are combined into tertiary education.SOURCE: Figure 8 in C Farquharson, S McNally & I Tahir, ‘Education Inequalities’, IFS Deaton Review of Inequalities, August 2022.
+There are at least two reasons why a desire to end the recent stagnation and inequality
+that has characterised the UK economy should cause policy makers to focus on human
+capital. One is that it can make an important contribution to economic growth, alongside
+other inputs. An increase in educational quality is strongly associated with economic growth, even when taking account of initial levels of GDP and years of schooling.3 Another reason is the important role that human capital plays in shaping individuals’
+life outcomes. In the labour market, an individual’s highest qualification has a strong
+impact on employment and earnings over their working life. For example, among today’s
+40-year-olds, those with at most GCSE-level qualifications have an employment rate 15
+percentage points lower – and, if in work, earn 40 per cent less – than those with a degree or an equivalent level qualification.4
+In this note, we focus on the skills of the UK workforce. We first show that recent changes
+in the labour market mean that demand is rising for abstract and social tasks. This
+suggests that these skills should form part of any expansion in training activity. Then
+3
+ E Hanushek & L Woessmann, Education and Economic Growth, Oxford Research Encyclopedia of Economics and Finance, August 2022. These statistics come from analysis of the ONS Labour Force Survey, Q1 2022.
+4
+[Page #6]
+The Economy 2030 Inquiry | Train in Vain?
+we zoom in on workplace training, and show that this is currently not responding to our
+skills shortage in an appropriate way: the amount of training happening is falling, and it is
+concentrated on workers with higher-level qualifications.
+Jobs requiring abstract and social tasks have increased in the UK labour market, at the expense of those involving routine and manual tasks
+Like many developed countries, the UK has undergone structural change in recent
+decades. Not only has there been a secular decline in manufacturing, but the increased
+use of information technology and offshoring have meant that the tasks performed, and skills utilised, by the labour force have also changed.5 Below, we provide an overview of how skills used to perform different tasks has changed in the UK labour market between
+1994 and 2018; Box 1 explains some methodological points.
+BOX 1: Task measurements and employment-weighted ranks methodology
+To undertake an analysis of the skills
+tasks. Manual and abstract tasks,
+used to perform different tasks, we
+although often performed by very
+created a correspondence between
+different workers, are less amenable to computerization.8 We also considered how the utilisation of social skills in the
+the US O*NET system and UK
+SOC occupational codes, and then
+matched UK occupational data with information on task content.6 In line with the literature on skill- and task-
+workplace has changed over time, given
+the US-based evidence that social
+skills are of growing importance in the labour market. 9 We measure social skills as the average of the importance
+biased technological change, we
+characterised occupations according
+to their intensities in three sorts of tasks: routine, manual and abstract. 7 The delineation along these lines is motivated by the fact that technology,
+of perceptiveness, coordination, persuasion, and negotiation.
+To analyse changes over time, we
+constructed employment-weighted
+particularly ICT, is thought to substitute
+ranks of occupations for each of the
+for repetitive, codifiable (i.e. routine)
+5
+ M Goos, A Manning & A Salomons, Explaining Job Polarization: Routine-Biased Technological Change and Offshoring, American Economic Review, August 2014. The analysis here closely follows that of: A Dickerson & D Morris, The Changing Demand for Skills in the UK, CVER Discussion Paper, April 2019. That paper gives greater detail on the process of matching US-based skill measures to UK SOC codes.  D Acemoglu & D Autor, Skills, Tasks and Technologies: Implications for Employment and Earnings, NBER WP 16082, June 2010. For example, the following occupations are highly ranked by the skill type in parenthesis: medical radiographers (abstract), train and tram drivers (routine), paramedics (manual), and the clergy (social skills). D Deming, The Growing Importance of Social Skills in the Labor Market, The Quarterly Journal of Economics, November 2017.
+6
+7 8
+9
+[Page #7]
+The Economy 2030 Inquiry | Train in Vain?
+four task types at the beginning of
+construction, these variables have a
+our sample period, and then took
+mean value of 50 in the baseline year,
+employment-weighted means of
+1994.
+these ranks in subsequent years. By
+Figure 2 shows how changes in the occupational distribution from 1994 to 2018 have
+altered the skills used in tasks performed by the UK labour force. As explained in Box
+1, each occupation has been associated with its intensity in the four different tasks or
+skills, and the chart plots how the usage of the skills have changed over time as different
+occupations have become more or less common. It shows that the occupational shifts
+that have taken place since 1994 imply a substantial growth in the use of both social
+skills and abstract skills, and a marked decline in the use of manual and routine skills
+in the labour force. For example, the average intensity of the abstract skill task across
+all jobs undertaken in 2018 lay about 8 centiles higher than its 1994 level (see Box 1 for
+an explanation of this). The growth in the importance of social skills is similar, and the
+importance of routine and manual skills has declined.
+FIGURE 2: Abstract and social tasks are in increasing demand in the UK labour market, at the expense of demand for routine and manual tasks
+Mean task input across all occupations (measured in percentiles of 1994 distribution), all workers aged 16-65: UK
+Social Skills
+Abstract
+Routine
+Manual
+NOTES: Data are aggregated to 367 occupation cells by year before being assigned a value corresponding to their rank in the 1994 distribution of task input. Values in subsequent years reflect how the imputed task input changes in accordance with how employment shares change within each occupation. SOURCE: Analysis of ONS, Labour Force Survey; O*NET skills data.
+[Page #8]
+The Economy 2030 Inquiry | Train in Vain?
+Figure 3 paints a similar picture but instead looks at how employment shares have
+changed between 1994 and 2019. This time we compute changes in employment shares
+at each centile of each task measure: occupations are assigned a rank according to
+their percentile position in the (employment-weighted) skill distribution in 1994 for
+each task, and the chart shows the change in importance of different occupations
+depending on how intensively they use different skills. It highlights an almost-monotonic
+relationship between the intensity at which each task type is used in each occupation
+and the change in its employment share: occupations requiring high levels of abstract
+and social tasks have increased their employment shares, but occupations that involve
+intensive use of routine and manual tasks have seen declining employment shares. To
+give examples: occupations that had large increases in employment share and involve
+intensive use of abstract tasks include public health managers and directors, IT specialist
+managers, and IT business analysts. On the other hand, there have been large declines
+in the employment shares of jobs like metal workers, assemblers, and plastic process
+operatives, all of which rank highly on routine task intensity. Jobs that require high levels of social skills – such as directorial positions in marketing and sales, human resources,
+and customer services – have increased their employment shares as well.
+FIGURE 3: Shares of employment have grown significantly for occupations demanding high levels of abstract and social tasks, and have shrunk for workers in occupations performing mostly routine and manual tasks
+Changes in employment shares of occupations by percentile of task intensity, all workers aged 16-65: UK,1994-2019
++0.5ppts
++0.4ppts
+Routine
++0.3ppts
+Manual
++0.2ppts
++0.1ppts
+0.0ppts
+-0.1ppts
+Abstract
+-0.2ppts
+-0.3ppts
+Social Skills
+-0.4ppts
+-0.5ppts
+-0.6ppts
+ NOTES: Full-time workers, aged 16-64. Occupations are assigned a rank according to their percentile position in the employment-weighted skill distribution in 1994 for each task. Employment shares at each centile are then computed using the LFS for 1994 and 2019 and their difference is plotted against the 1994 skill percentiles of each task. SOURCE: Analysis of ONS. Labour Force Survey; O*NET skills data.
+[Page #9]
+The Economy 2030 Inquiry | Train in Vain?
+The return to abstract skills has increased markedly
+Figures 2 and 3 document an increased role in the labour market for social and abstract
+skills, but it is also interesting to look at changes in the wage that can be earned in jobs
+that are particularly intensive in certain skills.
+It is not always simple to interpret changes in the wages associated with different skills,
+because wages are affected by both the supply of and demand for skills. If, though, the
+supply of some skills increases without a commensurate wage decline (or even with
+a wage increase), then this is often interpreted as evidence that the increase in the demand for those skills is greater than the increase in supply.10 This is the interpretation given to the fact that the return to university education rose between 1980 and 2000 despite the supply of university-educated workers increasing, for example.11
+A further issue is that the supply of workers who can perform different skills is not
+directly observable. But we can use employment shares in different occupations – as shown in Figure 3 – as a proxy. If we do this, considering both Figure 3 and Figure 4
+together suggests that the supply of workers endowed with abstract skills has failed to
+keep pace with the demand for these skills. This is because wage growth has been high in
+occupations making use of abstract skills (shown in Figure 4), at the same time as there
+has been strong employment growth in abstract-task-intensive occupations (shown in
+Figure 3). Together, these facts suggest that the demand for abstract skills has exceeded
+the supply of workers with these skills.
+Figure 4 also shows that there is strong wage growth at the higher centiles across all
+four tasks; that is, occupations where tasks are used very intensively (regardless of
+what skill that is) are those that have exhibited strong wage growth. However, drawing
+firm conclusions from Figure 4 is difficult partly because the relationship between
+the skill measures is harder to interpret, and partly because it would require a deeper understanding of how the various task types interact with each other in the workplace.12 To see this, consider a world where highly skill-intensive occupations are those that
+rely on one task requirement at the expense of others (i.e. if occupations high in routine
+task requirement require little to no social, abstract, and manual skills); if so, then Figure
+3 would suggest that wage gains have occurred for those in the most specialised (as
+measured by task content) occupations. But the pattern in Figure 3 is also consistent
+with a world where highly skill-intensive occupations also require other skills, which
+would suggest that diverse, not specialised skills, lead to the biggest wage gains.
+10 A Dickerson & D Morris, The Changing Demand for Skills in the UK, CVER Discussion Paper, April 2019.11 C Goldin & L Katz, The Race between Education and Technology, Belknap Press, March 2010.12 Evidence from the US highlights how different skills can act as complements while at work. While social skills grew in importance between 1980 and 2012 in the US, returns were particularly high for those whose job required a mix of both social and abstract skills. See: D Deming, The Growing Importance of Social Skills in the Labor Market, The Quarterly Journal of Economics, June 2017.
+[Page #10]
+The Economy 2030 Inquiry | Train in Vain?
+FIGURE 4: Although pay growth increases with higher task intensities, this relation is particularly strong for abstract tasks
+Changes in mean weekly real-terms full-time earnings by percentile of task intensity in 1994 for full-time workers aged 16-65: UK, 1994-2019
++40%
++35%
++30%
++25%
+Abstract
++20%
+Manual
++15%
+Routine
++10%
+Social Skills
++5%
+0%
+NOTES: Occupations are assigned a rank according to their percentile position in the employment-weighted skill distribution in 1994 for each task. Earnings are gross weekly full-time wages. Changes are calculated using LFS person weights, and earnings are deflated using the CPIH.SOURCE: Analysis of ONS, LFS; ONS, Consumer Prices; O*NET skills data.
+The increased use of abstract and social skills has benefitted higher-paid and better-educated workers
+Figures 2 to 4 show what tasks are associated with those occupations that have seen
+changes in employment shares or wages over time; however, this does not tell us which
+workers (along the initial wage distribution) have experienced these changes. Figure 5
+looks at the relationship between the task content of jobs and wage centiles in 1994. It
+shows that workers at the top end of the wage distribution are more likely to use both
+social skills and abstract tasks in the workplace, and the converse is true of those in the
+bottom half of the wage distribution. Lower-paid workers perform manual and routine
+tasks on a more regular basis.
+If we combine the insights from Figure 5 with the employment and wage changes
+depicted in Figures 3 and 4, then we can conclude that workers at the bottom and
+middle of the wage distribution have seen significantly less (and sometimes negative)
+employment growth and lower wage returns to their skills between 1994 and 2019,
+compared to those workers performing jobs at the top of the wage distribution.
+[Page #11]
+The Economy 2030 Inquiry | Train in Vain?
+FIGURE 5: Higher-paid workers perform tasks that are experiencing expanding increased demand
+Standardised measure of task utilisation by wage percentile for full time workers aged 16-65: UK, 1994
+Abstract
+0.5
+Social Skills
+Routine
+-0.5
+Manual
+-1
+NOTES: The lines plotted are smoothed local regression of bandwidth 0.8. Task measures are standardized to have mean 0 and standard deviation of 1 using employment weights in 1994. The horizontal rank is defined as the employment-weighted percentiles of occupation-level weekly full-time wages in 1994.SOURCE: Analysis of ONS, Labour Force Survey; O*NET skills data.
+Figure 6 looks at how task content differs by education level.13 Unsurprisingly, given the results in Figure 5 and the strong relationship between education levels and wages, those
+with higher levels of education are much more likely to use social and abstract tasks in
+the workplace. Those with basic qualifications, or no qualifications, are more likely to use
+routine and manual tasks once in the workplace. As with wages, there is a middle ground
+with intermediate levels of education (those leaving education with ‘good’ GCSEs or an
+intermediate vocational qualification) using a broader mix of skills when at work. This
+tells us that the shift in what skills are being used in the UK labour market since the mid-
+1990s is one that has favoured better-educated workers.
+13 A similar approach is taken in: H Steedman, S McIntosh & A Green, International comparisons of qualifications: skills audit update,
+DfES research report 548, 2004.
+[Page #12]
+The Economy 2030 Inquiry | Train in Vain?
+FIGURE 6: Less-educated workers tend to be in occupations performing manual and routine tasks more intensively, while higher-qualified workers work in occupations characterised by social and abstract tasks in high demand
+Standardised task intensity by qualification levels for full-time workers aged 16-65: UK, 1994-2019
+1.0
+0.5
+Social Skills
+Abstract
+0.0
+Routine
+Manual
+-0.5
+-1.0
+Below Secondary
+Lower Secondary
+Upper Secondary
+Higher
+NOTES: LFS education variables are assigned into 5 NVQ levels using the implied ordering of qualifications in the LFS. Those with no qualifications or NVQ1 are deemed as below secondary, NVQ2 is lower secondary, NVQ3 is upper secondary, while NVQ4 and above is higher. Pooled data: 1994-2019.SOURCE: Analysis of ONS, Labour Force Survey; O*NET skills data.
+The volume of workplace training has been falling, contributing to the slowdown in human capital growth
+The analysis above shows that task requirements have changed significantly over recent
+decades in the UK labour market, most likely in a way that advantaged those who were
+already better-educated and undertaking better-paid jobs. The rest of this note turns to
+the provision of on-the-job training, as this is an important way by which workers acquire skills and qualifications during their working lives after formal education.14
+The long-term trend is that the volume of training provided to workers has been slowing down over the past 20 years.15 One measure of this is the proportion of workers who report receiving work-related training in the past three months (this is set out in Figure
+7). The high point was in 2002, when 29 per cent of workers said they had received work-
+related training. Since then the rate of training has fallen, reaching a low point of 24
+per cent in 2020, a 16 per cent fall. Other measures of the volume of workplace training
+14 Some of the remainder of this note updates analysis in: K Henehan, Can training help workers change their stripes? Retraining and
+career change in the UK, Resolution Foundation, August 2020.
+15 For a detailed analysis of training in the UK and international comparisons, see: J Li, A Valero & G Ventura, Trends in job-related
+training and policies for building future skills into the recovery, CVER Discussion Paper 033, December 2020.
+[Page #13]
+The Economy 2030 Inquiry | Train in Vain?
+present a similar picture. The number of days training received per employee or per
+trainee is lower than a decade ago; as are the proportion of employers who report they are providing training and the amount of money spent on training by employers.16
+FIGURE 7: Workplace training is in slow decline
+Proportion of those in employment receiving work-related training in the past three months: UK
+30%
+20%
+10%
+0%
+SOURCE: Analysis of ONS, Labour Force Survey.
+Some have criticised the Apprenticeship Levy as contributing to falling numbers of
+apprenticeship starts and employer-led training in general, but the fall in workplace training far predates the Levy’s introduction in 2017.17
+Perhaps more concerning than the overall fall in training is the fact that the slowdown in
+training has been most pronounced among younger workers. Between 2002 and 2020,
+those aged 16-24 saw their training rate fall by over a quarter (by 27 per cent, falling from
+39 per cent to 29 per cent), as shown in Figure 8. Meanwhile, the proportion of workers
+receiving training has fallen less steeply among those aged 25-49 and has not fallen at all
+among those aged 50 and above, and the proportion receiving training has actually risen
+among workers aged 65 and above. These trends mean that today’s generation of young workers receive significantly less training from their employers than previous cohorts.18
+16 N Clayton & S Evans, Learning at work: Employer investment in skills, Learning and Work Institute, July 2021.17 CIPD, Apprenticeship Levy has failed on every measure and will undermine investment in skills and economic recovery without
+significant reform says CIPD, March 2021.
+18 This is discussed more in: K Henehan & A Vignoles, Technical Fault: options for promoting human capital growth, Resolution
+Foundation, April 2018.
+[Page #14]
+The Economy 2030 Inquiry | Train in Vain?
+FIGURE 8: The fall in workplace training is concentrated among the youngest workers
+Proportion of those in employment receiving work-related training in the past three months, by age group: UK
+40%
+Age 16-24
+Age 25-34
+30%
+Age 35-49
+20%
+Age 50-64
+10%
+Age 65+
+0%
+SOURCE: Analysis of ONS, Labour Force Survey.
+The fall in training incidence among young workers has happened across occupations: it
+is not the result of young workers becoming more represented in low-training jobs. Figure
+9 shows how training rates among 18-34-year-olds changed between 1996 and 2019,
+with a breakdown by occupation. The vertical axis shows the change in the incidence of
+training, the horizontal axis plots the incidence of training in 2019, and the bubble size
+shows the industry’s share of 18-34 employment in 2019. Clearly, many occupations fall
+below zero on the vertical axis, indicating that training rates fell in these occupations. In
+addition, several higher-paid occupations saw steep falls in training incidence. On the
+other hand, it is in the higher-paid occupations – such as professionals in business and
+science or research – where young people are more likely to receive training.
+[Page #15]
+The Economy 2030 Inquiry | Train in Vain?
+FIGURE 9: Training rates among young people fell most for those in higher-paid roles, but remain lowest for those in lower-paid roles
+Change in the proportion of 18-34-year-olds who reported work-related training in the previous three months between 1996 and 2019 (vertical axis) and proportion of 18-34-year-olds who reported having training in the previous three months in 2019 (horizontal axis), by occupation: UK
+Percentage point change in training rate
++10ppts
+Overall 18-34-year-old traininig rate
+Elementary trades
+Caring & personal service
+Skilled construction
+Skilled agriculture
+Skilled metal
++5ppts
+Process & plant
+Transport operatives
+Protective service
+Textiles & other trades
+0ppts
+Leisure
+Sci & eng assoc. prof
+Health & care assoc prof
+Elementary admin.
+-5ppts
+Sales
+Healthcare prof
+Business/Pub service prof
+Administrative
+-10ppts
+Customer service
+Busines asoc prof
+-15ppts
+Teaching prof
+Science & research prof.
+-20ppts
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+50%
+55%Training rate, 2019
+60%
+NOTES: Bubble size indicates the industry’s share of 18-34-year-old employment in 2019. SOURCE: Analysis of ONS, Labour Force Survey.
+Workplace training exacerbates existing inequality in human capital
+The second key problem with workplace training is that it exacerbates, rather than
+mitigates, inequalities in human capital. This is because workers with higher levels of
+existing qualifications are significantly more likely than lower-qualified workers to receive
+training.
+This is shown in Figure 10, which plots the incidence of workplace training by education
+level, rather than earnings. Irrespective of whether we look at training in the previous
+month or previous quarter, better-qualified workers receive more training. Those with a
+‘higher’ education qualification (NVQ 4 and above) are twice as likely to have received
+training in the previous quarter than those with below secondary level education.
+Training itself is particularly high for the most-educated workers, with an average of close to 40 per cent reporting having received some form of training in the previous quarter. 19
+19 It’s worth noting that this relationship between qualification level and training incidence holds even when we control for other
+factors, including age and industry (two factors across which training incidence varies considerably). Between 2016 and 2021, the incidence of workplace training among workers with degree level qualifications was 50 per cent higher than workers with GCSE-level qualifications (31 per cent versus 19 per cent). Holding age and industry constant, this difference is only marginally smaller (the incidence falls from 11 percentage points to a still-large 9 percentage points).
+[Page #16]
+The Economy 2030 Inquiry | Train in Vain?
+These low rates of training among the least educated are troubling, given international evidence showing that there are higher returns to adult education for these individuals.20
+FIGURE 10: The likelihood of training increases with education
+Proportion of full-time workers aged 16-65 receiving training, by level of education: UK, 1994-2019
+40%
+30%
+3 months
+20%
+4 weeks
+10%
+0%
+Below Secondary
+Lower Secondary
+Upper Secondary
+Higher
+NOTES: LFS education variables are assigned into five NVQ levels using the implied ordering of qualifications in the LFS. A similar approach is taken in H Steedman, S McIntosh & A Green, International Comparisons of Qualifications: Skills Audit Update, DfE Research Report No. 548, 2004. Those with no qualifications or NVQ1 are deemed as below secondary, NVQ2 is lower secondary, NVQ3 is upper secondary, while NVQ4 and above is higher. SOURCE: Analysis of Labour Force Survey.
+Education is one dimension by which training opportunities can differ, but it is not the
+only one. Access can differ by employment type as well. This dimension is likely to grow
+in importance as more workers opt – out of choice and necessity – into self-employed work.21 Figure 11 highlights that employees aged 25-59 are significantly more likely to take part in most forms of education and training than the self-employed or those not working.22 The sole exception to this is full-time education, where the workless are the most-frequent recipients (although there are very few people in this category). There are
+sizeable gaps in training rates between employees and the self-employed, the former
+being 61 per cent more likely to get training. There are also differences in the type of
+training received by different kinds of worker, with employees more likely to take longer
+20 A Kauhanen & H Virtanen, Heterogeneity in Labor Market Returns to Adult Education, ETLA Working Paper 91, December 2021; R Blundell et al., Wages, Experience, and Training of Women over the Life Cycle, Journal of Labor Economics 39(S1), January 2021.
+21 G Giupponi & X Xu, What does the rise of self-employment tell us about the UK labour market?, Institute for Fiscal Studies,
+November 2020; N Cominetti et al., Low Pay Britain 2022: Low pay and insecurity in the UK labour market, Resolution Foundation, May 2022.
+22 Note that this and subsequent charts draw on a different dataset from that used in, e.g., Figure 7, and so give slightly different
+estimates for the share of workers undergoing training recently.
+[Page #17]
+The Economy 2030 Inquiry | Train in Vain?
+forms of training than the self-employed, and ones more likely to lead to a qualification:
+nearly one-in-five (18 per cent) employees reported having a qualification-bearing training
+in the previous year, but about half as many (just over one-in-ten, or 11 per cent) self-
+employed workers did.
+There are well-known reasons why firms may be reticent to provide training to their
+workers: training is costly to provide and, at least for general training, the gains from
+having a highly-trained worker are lost should the worker leave or be poached by another firm.23 However, the evidence above suggests that self-employed workers, who tend to forgo earnings to access training, face more barriers to access than their employed
+counterparts.
+FIGURE 11: Employees are more likely than both the self-employed and workless to take part in most forms of education and training
+Proportion of 25-59-year-old respondents reporting having taken part in training or full-time education over the past year, by employment status: UK, 2012-2021
+34%
+Any training
+21%
+12%
+21%
+Longer training
+12%
+8%
+18%
+Training with qualification
+11%
+6%
+1%
+Employee
+Full-time education
+1%
+Self-employed
+1%
+Workless
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+NOTES: ‘Workless’ refers to all adults who are unemployed or out of work at the time of interview, excluding those who report being an apprentice, a full-time student or retired. Respondents are asked to indicate whether they took part in full-time education since their interview in the previous wave, and any part-time or evening courses, training provided by an employer, day release schemes, apprenticeships and government training schemes – including those not yet completed. Results are not weighted. SOURCE: Analysis of ISER, Understanding Society.
+Training is of particular importance for those out-of-work, but rates of training are very
+low for this group. Among adults who are out of work (both inactive and unemployed,
+23 It is worth noting that in Becker’s competitive model (G Becker, Investment in Human Capital: Effects on Earnings, January 1975), workers still receive the optimal amount of general training as they bear the cost of it themselves. This result relies on the absence of imperfections in the credit market. For a theoretical overview of training provision in non-competitive markets, see: D Acemoglu & J S Pischke, Beyond Becker: Training in Imperfect Labour Markets, The Economic Journal 109(453), February 1999.
+[Page #18]
+The Economy 2030 Inquiry | Train in Vain?
+but excluding students and those who say that they are retired), training rates are very
+low: only 12 per cent receive any training, less than half the rate at which employees are
+trained. Fewer than one-in-ten out-of-work adults received longer or qualification-bearing
+forms of training.
+Figure 12 builds upon the previous analysis by looking at differences in training provision
+by broad occupational categories. Much of our focus has been on skills and how training
+can aid skill development. While we remain agnostic as to the relative usefulness
+of different types of training, it is interesting to see how training type differs at the
+occupation level and whether specific skill-focused training is more prevalent in certain
+occupations than others.
+FIGURE 12: Workers in lower-paid occupations are less likely than their counterparts in higher-paid occupations to report training was intended to improve their job skills or attain a promotion
+Purpose of education or training scheme among 25-59-year-olds who received any form of education or training in the past year, by occupation: UK, 2012-2021
+12%
+8%
+23%
+22%
+11%
+24%
+13%
+6%
+30%
+19%
+14%
+17%
+11%
+9%
+22%
+20%
+17%
+19%
+10%
+11%
+16%
+22%
+18%
+20%
+5%
+5%
+19%
+18%
+13%
+37%
+3%
+5%
+4%
+20%
+21%
+15%
+31%
+3%
+10%
+7%
+16%
+24%
+18%
+22%
+4%
+4%
+4%
+24%
+15%
+12%
+37%
+4%
+4%
+9%
+13%
+16%
+23%
+31%
+0%
+20%
+10%Future jobGet promoted
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Health and safetyHobbies
+Improve current job skillsGet started in current job
+Maintain occ standards
+NOTES: Excludes those respondents who participated in full-time education (because full-time students are not asked to indicate the purpose of their course). Results are not weighted.SOURCE: Analysis of ISER, Understanding Society.
+Figure 12 highlights that workers in different occupations report relatively different forms
+of training. Of the workers in mid- and lower-paid occupations receiving training, more
+reported that their training was for health and safety purposes, rather than (for example)
+to improve their skills (and productivity), progress in their role, or move to another role.
+For example, more than one-third (37 per cent) of process operatives who had training
+reported that it was for health and safety, more than twice the share of professionals who
+[Page #19]
+The Economy 2030 Inquiry | Train in Vain?
+did (17 per cent). By contrast, nearly a third of professionals reported that their training
+was intended to improve their current job skills (19 per cent) or get promoted in their
+current job (13 per cent); among operatives, 15 per cent reported their training was to
+improve their current job skills, and just 4 per cent reported it was intended to help them
+attain a promotion. In other words, it appears that many UK workers who receive training
+tend to see that training as maintaining occupational or health and safety standards,
+rather than improving their general, or job-related skills. These patterns are particularly
+strong for workers in roles that tend to require lower-level qualifications, meaning that
+those workers who could benefit from education and training to improve in their current
+job and boost productivity, or move to a new type of role, are unlikely to receive it.
+Most forms of training do not drastically increase the odds of a worker changing industry, especially for workers with lower-level qualifications
+Not all work-based training is intended to improve worker’s skills and employability, but it
+is still interesting to examine the relationship between receipt of training and outcomes
+in the labour market. Recent research highlights a certain paralysis in the UK labour
+market whereby workers in declining sectors struggle to move into expanding sectors of the economy.24 What role might training play in reskilling workers and enabling them to progress in their careers?
+Figure 13 looks at the extent of inter-industry moves and how these correlate with
+recent receipt of training. It shows that most forms of training have a small association
+with making a significant job move, captured here in terms of moving industry (at the
+single-digit SIC code level). In particular, among workers who received no training in the
+previous 12 months, roughly 12 per cent move industry each year, but 15 per cent of those
+who had longer forms of training (excluding training that was reported as a hobby or for
+health and safety purposes) switch industry over a given 12-month period. This rate is
+largely unchanged (14 per cent) if we focus on training leading to a qualification.
+The form of training that is most strongly associated with making a significant job move
+is full-time education. Full-time education increases these odds (to 23 per cent), but very
+few adults partake in full-time education to begin with: just under 1 per cent of employees
+and the self-employed do so, no doubt reflecting the challenges in terms of forgone earnings – and indeed tuition costs – of returning to full-time study as an adult.25
+24 N Cominetti et al., Changing jobs? Change in the UK labour market and the role of worker mobility, Resolution Foundation,
+January 2022.
+25 K Handscomb, L Judge & H Slaughter, Listen up: Individual experiences of work, consumption and society, Resolution Foundation,
+May 2022.
+[Page #20]
+The Economy 2030 Inquiry | Train in Vain?
+FIGURE 13: Only full-time education is associated with a large increase in the odds of worker changing sector
+Predictive proportion of 25-59-year-olds working in a different industry and being paid at least 10 per cent more compared to three years ago, by type of training received: UK, 2012-2021
+25%
+23%
+20%
+15%
+15%
+14%
+12%
+10%
+5%
+0%
+No training
+Longer training
+Training w/qualification
+Full-time education
+NOTES: Training undertaken one year prior. Controls are: sex, age, age squared, number of children, highest qualification (current), highest qualification (two waves ago), region interacted with whether area is classed as urban or rural, two-digit occupation two waves ago (including if missing), one-digit industry two waves ago (including if missing), weekly job hours two waves ago. Respondents classed as frequent trainers (those who reported any form of training or full-time education in the current wave, three previous waves and future waves) are removed, as are those who said their training purpose was ‘hobbies’ or ‘health and safety’.SOURCE: Analysis of ISER, Understanding Society.
+Education and training can increase the odds of a person returning to work within two years of becoming workless, although the effects are patchiest for adults with lower-level qualifications
+Another important role of training is to provide a pathway back into employment. For
+example, 13 per cent of those not in work take part in training in any given year, but what
+does this mean for their employment prospects?
+Figure 14 looks at how the odds of returning to work vary according to whether an
+individual had received training in the previous year. Training is positively associated
+with returning to employment within two years of becoming workless: of those who
+do no training, 54 per cent return within that timeframe, and this proportion rises to
+between 69 and 71 per cent (depending upon the form of training ) for those who have had training.26 This suggests that training may be effective for helping workless people
+26 The association between returning to work and participating in full-time education is not included in the chart as it is not
+statistically significant.
+[Page #21]
+The Economy 2030 Inquiry | Train in Vain?
+improve their job prospects, but it should be remembered that relatively few workless
+individuals receive training. Understanding why this is would require a more in-depth
+analysis, focusing not only the prospect of finding work but also the costs of training and
+what kind of jobs training leads to (for example, whether individuals move into a better-
+paid, higher-quality job than their previous one).
+FIGURE 14: Most forms of training are associated with a greater chance that a workless person returns to work
+Predictive proportion of 25-59-year-olds returning to stable work after having workless spell, by type of training: UK, 2012-2021
+80%
+70%
+71%
+69%
+67%
+60%
+54%
+50%
+40%
+30%
+20%
+10%
+0%
+No training
+Any training
+Longer training
+Training w/qualification
+NOTES: Training undertaken one year prior. Regression analysis tests for the likelihood of returning to work, and being in work for one of the following three waves conditioned on the type of training undertaken. Controls are: sex, age, age squared, number of children, highest qualification (current), highest qualification (three waves ago), region interacted with whether area is classed as urban or rural, two-digit occupation three waves ago (including if missing), one-digit industry three waves ago (including if missing), weekly job hours three waves ago. Respondents classed as frequent trainers (those who reported any form of training or full-time education in the current wave, three previous waves and also future waves) are removed, as are those who said their training purpose was ‘hobbies’ or ‘health and safety.’SOURCE: Analysis of ISER, Understanding Society.
+Figure 14 looks at all workers out of work, but training is arguably most needed for those
+with lower-level qualifications. Here it appears that only qualification-bearing training is
+associated with an improvement in the odds of their returning to work: a previous version
+of this analysis showed that 53 per cent of non-graduates who didn’t have training moved
+into work after a spell of worklessness, compared to 71 per cent of those that undertook qualification-bearing training.27
+27 Table 2 of: K Henehan, Can training help workers change their stripes? Retraining and career change in the UK, Resolution
+Foundation, August 2020.
+[Page #22]
+The Economy 2030 Inquiry | Train in Vain?
+Conclusion
+This note has shown that changes in the UK labour market have boosted the demand
+for social skills and abstract task utilisation, and this demand has been (partially) met by
+highly-paid, highly-educated workers. At the same time, those leaving education with low-
+level academic and vocational educations appear left behind as technological change
+continues apace. This suggests that that there is a growing need for training to help
+upskill the workers most at risk in the changing labour market. Unfortunately, training
+provision in the UK is not currently playing the role that it could do. Rates of training
+are falling and, even though the gap is narrowing, those who need training the most are
+the least likely to receive it. What’s more, most of the training is not explicitly focused on
+skills and has only a marginal association with the probability of changing one’s skill set
+and moving industry. In addition, it can be argued that UK firms lack the (tax) incentives
+to invest in human capital – the generosity of tax credits and (super)deductions tend to
+strongly favour capital and R&D, leaving investments in human capital, including training, fighting an uphill battle when it comes to firms deciding how to re-invest profits.28
+Despite this, it would be wrong to think that the current state of affairs is fixed. There
+is a wealth of international evidence that could be drawn upon to design a system that
+makes post-school training provision work for more of the UK’s labour force. Recent
+evidence from over 1,000 policy evaluations highlights how employment training can work when the programs are skill intensive and involve a strong on-the-job component.29 Interestingly, in light of our findings that soft skills are of growing importance in the
+UK economy, recent work has highlighted how training in soft skills can be particularly
+effective for workers in low-skilled occupations, and that there can be high returns to vocational training in interpersonal skills.30 In a world of stagnant productivity growth and with an increasing need for workers’ wages to keep pace with prices, the UK’s
+current system of training and skills provision would appear to be an area where policy
+could have an enormously beneficial impact. Phase 2 of the Inquiry will further analyse
+the deficiencies present in the current provision of human capital and advance policy
+recommendations in this field that can ultimately contribute to higher and more
+inclusive economic growth for the UK.
+28 R Costa et al, Investing in People: The Case for Human Capital Tax Credits, Centre for Economic Performance, 2018.29 Employment Training: Evidence Review. What Works Centre for Local Economic Growth, 2016.30 See: F Barrera-Osorio, A Kugler & M Silliman, Hard and soft skills in vocational training: Experimental evidence from Colombia,
+NBER WP 27548, 2020, and: P Aghion et al., The innovation premium to soft skills in low-skilled occupations, 2019.
+[Page #23]
+The UK is on the brink of a decade of huge economic change –
+from the Covid-19 recovery, to exiting the EU and transitioning
+towards a Net Zero future. The Economy 2030 Inquiry will examine
+this decisive decade for Britain, and set out a plan for how we can
+successfully navigate it.
+The Inquiry is a collaboration between the Resolution Foundation
+and the Centre for Economic Performance at the London School
+of Economics. It is funded by the Nuffield Foundation.
+For more information on The Economy 2030 Inquiry, visit economy2030.resolutionfoundation.org.
+For more information on this report, contact:
+Nye Cominetti Senior Economist
+nye.cominetti@resolutionfoundation.org

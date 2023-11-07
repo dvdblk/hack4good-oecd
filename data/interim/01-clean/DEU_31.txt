@@ -1,0 +1,876 @@
+[Page #0]
+Einsatz von Künstlicher Intelligenz in der Deutschen Wirtschaft
+ Stand der KI-Nutzung im Jahr 2019
+bmwi.de
+[Page #1]
+Impressum
+Herausgeber Bundesministerium für Wirtschaft und Energie (BMWi)Öffentlichkeitsarbeit11019 Berlinwww.bmwi.de
+RedaktionZEW – Leibniz-Zentrum für Europäische Wirtschaftsforschung(Dr. Christian Rammer [verantwortlicher Autor], Prof. Dr. Irene Bertschek, Dr. Bettina Schuck) und Institut der deutschen Wirtschaft (Dr. Vera Demary, Dr. Henry Goecke), im Auftrag des Bundesministeriums für Wirtschaft und Energie
+StandMärz 2020
+Gestaltung ZEW Mannheim
+Bildnachweis© iStock.com/Kirill Smyslov
+Diese und weitere Broschüren erhalten Sie bei:Bundesministerium für Wirtschaft und EnergieReferat ÖffentlichkeitsarbeitE-Mail: publikationen@bundesregierung.dewww.bmwi.de
+Zentraler Bestellservice:Telefon: 030 182722721Bestellfax: 030 18102722721
+Diese Publikation wird vom Bundesministerium für Wirtschaft und Energie im Rahmen der Öffentlichkeitsarbeit herausgegeben. Die Publi-kation wird kostenlos abgegeben und ist nicht zum Verkauf bestimmt. Sie darf weder von Parteien noch von Wahlwerbern oder Wahlhelfern während eines Wahlkampfes zum Zwecke der Wahlwerbung verwendet werden. Dies gilt für Bundestags-, Landtags- und Kommunalwahlen sowie für Wahlen zum Europäischen Parlament.
+[Page #2]
+Inhaltsverzeichnis
+Das Wichtigste in Kürze ________________________________________________________________________ 1
+1. Einleitung _________________________________________________________________________________ 2
+2. KI-Einsatz in Unternehmen ________________________________________________________________ 3
+2.1. Umfang des KI-Einsatzes ________________________________________________________________ 3
+2.2.
+Eingesetzte Verfahren und Einsatzgebiete _______________________________________________ 12
+2.3. Bedeutung des KI-Einsatzes und Umsatz mit KI-basierten Produkten ___________________ 15
+3. Entwicklungskapazitäten, Hardware und Daten für KI ____________________________________ 19
+3.1.
+Entwicklungskapazitäten für KI ________________________________________________________ 19
+3.2. Hardware für KI ________________________________________________________________________ 20
+3.3. Daten für KI ____________________________________________________________________________ 22
+4. Fachkräftebedarf _________________________________________________________________________ 25
+4.1. Offenen Stellen im Bereich KI __________________________________________________________ 25
+4.2. Besetzung von offenen KI-Stellen _______________________________________________________ 28
+4.3. Geforderte Kenntnisse für die Besetzung offener KI-Stellen _____________________________ 30
+5. Anhang ___________________________________________________________________________________ 33
+5.1. Datenbasis _____________________________________________________________________________ 33
+5.2. Branchengruppen ______________________________________________________________________ 35
+5.3.
+Fragebogen der Zusatzbefragung _______________________________________________________ 36
+[Page #3]
+1 DAS WICHTIGSTE IN KÜRZE
+Das Wichtigste in Kürze
+Dieser Bericht gibt einen statistisch repräsentativen Überblick zum aktuellen Stand des Einsatzes von Künstlicher Intelligenz (KI) in den Unternehmen in Deutschland im Jahr 2019. Datengrundlage ist eine Sonderauswertung der Deutschen Innovationserhebung des Jahres 2019 sowie einer Zusatzbefragung von KI einsetzenden Unternehmen. KI wurde dabei sehr allgemein als „Technik der Informationsverarbeitung zur eigenständigen Lösung von Problemen durch Computer“ definiert. Die Hauptergebnisse sind:
+•
+Im Jahr 2019 haben rund 17.500 Unternehmen im Berichtskreis der Innovationserhebung (produzierendes Gewerbe und überwiegend unternehmensorientierte Dienstleistungen) KI in Produkten, Dienstleistungen oder internen Prozessen eingesetzt. Das sind 5,8 % aller Unternehmen im Berichtskreis.
+• Die Ausgaben für die Entwicklung, Einführung und Pflege von KI-Verfahren beliefen sich im Jahr 2019 auf rund 4,8 Milliarden Euro. Das sind rund 270 Tausend Euro je Unternehmen mit KI-Einsatz. Drei Viertel der KI-Ausgaben sind interne laufende Aufwendungen (insbesondere für Beschäftigte). In den KI einsetzenden Unternehmen waren im Jahr 2019 rund 50.000 Personen hauptsächlich zu KI tätig. Weitere ca. 89.000 Personen befassten sich zu einem kleineren Teil ihrer Arbeitszeit mit KI. Die ca. 139.000 zu KI tätigen Personen entsprechen 0,84 % aller Beschäftigten im Berichtskreis.
+•
+• 4,4 % aller Unternehmen im Berichtskreis setzen KI in Produkten oder Dienstleistungen ein und erzielten
+damit 2019 einen Umsatz von knapp 60 Milliarden Euro. Das entspricht 1,1 % des Umsatzes aller Unternehmen und 7,7 % des Umsatzes der KI einsetzenden Unternehmen.
+• Nur für einen kleinen Teil der KI einsetzenden Unternehmen (12 %) ist KI essenziell für die Geschäftstätigkeit. Dies bedeutet, dass ca. 2.100 Unternehmen ein stark auf KI basierendes Geschäftsmodell verfolgen.
+• Nur 16 % der KI einsetzenden Unternehmen haben die KI-Anwendungen selbst entwickelt. In 24 %
+erfolgte die Entwicklung sowohl durch das Unternehmen selbst als auch durch Dritte. 60 % griffen auf KI-Entwicklungen durch Dritte zurück.
+• Zwei Fünftel der im Jahr 2019 KI einsetzenden Unternehmen nutzen KI bereits seit mehr als 5 Jahren.
+Dem steht ein gutes Viertel der aktuell KI einsetzenden Unternehmen gegenüber, die KI erstmals in 2018 oder 2019 im Unternehmen eingesetzt haben.
+• Das am weitesten verbreitete KI-Verfahren ist maschinelles Lernen und maschinelles Beweisen (55 % der KI einsetzenden Unternehmen). Verfahren der Bild- oder Tonerkennung sowie wissensbasierte Systeme werden jeweils von knapp jedem zweiten KI einsetzenden Unternehmen genutzt, Sprach- oder Textverstehen dagegen nur von weniger als einem Drittel. Hauptanwendungsgebiete für KI sind Produkte und Dienstleistungen sowie die Automatisierung von Prozessen.
+• Rund ein Drittel der KI einsetzenden Unternehmen nutzt für seine KI-Anwendungen ausschließlich
+interne Hardware, ein gutes Drittel sowohl interne als auch externe Hardware, und knapp ein Drittel greift ausschließlich auf externe Hardwarelösungen (Cloud-Dienste) zurück.
+• 30 % der KI einsetzenden Unternehmen haben im Jahr 2019 zusätzliche Beschäftigte für KI gesucht.
+Insgesamt waren in diesen Unternehmen 22.500 KI-Stellen offen. 47 % der Stellen konnten wie geplant besetzt werden, 11 % nur verspätet oder nicht mit den gewünschten Beschäftigten. 43 % der Stellen blieben unbesetzt.
+• Die von Bewerbenden für diese offenen KI-Stellen geforderten Kenntnisse betrafen fast durchweg
+Softwareprogrammierung. Zusätzlich waren für drei Viertel der Unternehmen mit offenen KI-Stellen Kenntnisse im Datenbankmanagement oder in Mathematik wichtig.
+[Page #4]
+ EINLEITUNG 2
+1. Einleitung
+Künstliche Intelligenz (KI) gilt heute als eine der entscheidenden Schlüsseltechnologien. Mit der teilweise sprunghaften Verbesserung von KI-Verfahren und der gleichzeitig zunehmenden Verfügbarkeit von Daten erweitern sich die Einsatzmöglichkeiten von KI. Das rasche, effiziente und effektive Aufgreifen dieser Einsatzmöglichkeiten ist ein entscheidender Faktor, um die Innovationskraft und Wettbewerbsfähigkeit der deutschen Wirtschaft zu erhalten und zu stärken.
+Im November 2018 wurde die Strategie Künstliche Intelligenz der Bundesregierung verabschiedet. Die Bundesregierung setzt damit einen Rahmen für eine ganzheitliche politische Gestaltung der weiteren Entwicklung und Anwendung Künstlicher Intelligenz in Deutschland. Eine der Maßnahmen der KI-Strategie beinhaltet die Ermittlung der Durchdringung von KI in Deutschland in regelmäßigem Abstand. Mit der vorliegenden Studie zum Stand der KI-Nutzung in Deutschland in 2019 wird mit der Umsetzung dieser Maßnahme begonnen.
+Diese Studie gibt einen Überblick zum aktuellen Stand der Nutzung von KI in den Unternehmen in Deutschland. Anhand statistischer Indikatoren zeigt sie auf, in welchen Branchen der deutschen Wirtschaft in welchem Umfang und mit welcher Zielrichtung KI im Jahr 2019 eingesetzt wurde.
+Dabei stehen folgende Indikatoren im Zentrum der Untersuchung:
+- Unternehmen mit KI-Einsatz - - Aufwendungen für KI (interne und externe Kosten) - Anzahl der Beschäftigten, die zu KI tätig sind - Eingesetzte KI-Verfahren - KI-Einsatz nach Anwendungsgebieten und Funktionsbereichen - Bedeutung des KI-Einsatzes für die Geschäftstätigkeit - Einsatz von KI in Produkten und Dienstleistungen und deren Umsatzanteil - KI-Einsatz auf Basis unternehmenseigener Hardware oder Cloud-Diensten - Art der Daten, die mit KI-Methoden analysiert werden - Entwicklung der KI-Verfahren durch das Unternehmen selbst oder durch Dritte - Offene Stellen und deren Besetzung im Bereich KI - Vorausgesetztes Qualifikationsniveau der offenen Stellen im Bereich KI
+Jahr des erstmaligen Einsatzes von KI
+Datengrundlage ist eine repräsentative Sonderauswertung der Deutschen Innovationserhebung des Jahres 2019 sowie einer Zusatzbefragung von KI einsetzenden Unternehmen, die von November 2019 bis Januar 2020 stattfand. In der Befragung wurde KI definiert als „Technik der Informationsverarbeitung zur eigenständigen Lösung von Problemen durch Computer“.
+Alle in diesem Bericht dargestellten Zahlenwerte sind hochgerechnet auf die Grundgesamtheit der Unternehmen im Berichtskreis der Deutschen Innovationserhebung. Die Nettostichprobe der KI einsetzenden Unternehmen in der Deutschen Innovationserhebung umfasst 567 Unternehmen, die Nettostichprobe der Zusatzbefragung umfasst 368 Unternehmen. Weitere Informationen zur Befragung und zur Datenaufbereitung befinden sich im Anhang.
+[Page #5]
+3 KI-EINSATZ IN UNTERNEHMEN
+2. KI-Einsatz in Unternehmen
+2.1. Umfang des KI-Einsatzes
+Im Jahr 2019 setzten rund 17.500 Unternehmen in Deutschland im Berichtskreis der Innovationserhebung (siehe Anhang) Verfahren der Künstlichen Intelligenz in ihrem Unternehmen ein. Dies entspricht einem Anteil von 5,8 %. In der IKT-Branche lag dieser Anteilswert mit 17,8 % erheblich höher. Keine der anderen Branchengruppen1 erreicht diesen Wert. Dies liegt daran, dass die IKT-Branche nicht nur Nutzer von KI für eigene Produkte und Prozesse ist, sondern KI-Lösungen für andere Branchen entwickelt und implementiert. Denn viele KI-Nutzer verfügen nicht über eigene Entwicklungskapazitäten für KI, sondern greifen auf externe KI-Entwickler zurück (vgl. Abschnitt 3.1).
+Abb. 2-1: Indikatoren zur Verbreitung des Einsatzes von KI in der deutschen Wirtschaft 2019 im Branchenvergleich
+Anteil der Unternehmen mit KI-Einsatz in % aller Unternehmen
+Anteil der Ausgaben für KI in % des Umsatzes aller Unternehmen
+Anteil der hauptsächlich zu KI tätigen Personen in % der Beschäftigten in allen Unternehmen
+1,51
+IKT
+17,8
+0,56
+0,28
+Finanzdienstleist.
+12,2
+0,04
+0,88
+Untern.nahe Dienstl.
+0,29
+11,1
+0,35
+Elektrot./Maschin.b.
+0,17
+6,8
+0,10
+Fahrzeugbau
+0,16
+5,1
+0,08
+0,03
+Chemie/Ph., Gr.st.
+4,6
+0,08
+0,01
+Ver-/Entsorg., Bg.b.
+3,6
+0,12
+0,04
+Sonst. Verarb. Gew.
+3,3
+0,10
+0,12
+Sonst. Dienstleist.
+2,5
+0,05
+0,06
+Verkehr, Logistik
+1,5
+0,05
+0,01
+Großhandel
+1,0
+0,31
+0,09
+Gesamtwirtschaft
+5,8
+0,0
+0,5
+1,5in % aller Beschäftigten
+1,0
+2,0
+0,0
+0,2
+0,4
+0,6
+in % aller Unternehmen
+in % des Umsatzes
+Anmerkung: höhere statistische Ungenauigkeit der Angaben zum Anteil der KI-Ausgaben am Umsatz und zum Anteil der hauptsächlich zu KI tätigen Personen. Quelle: Deutsche Innovationserhebung 2019, Zusatzbefragung KI 2019/2020. Berechnungen des ZEW.
+Eine hohe Verbreitung von KI ist außerdem in den Finanzdienstleistungen (12,2 % der Unternehmen) und in den unternehmensnahen Dienstleistungen (u.a. Steuer- und Unternehmensberatung, Ingenieurbüros,
+1 Die Branchengruppen sind im Anhang (Abschnitt 5.2) definiert.
+[Page #6]
+ KI-EINSATZ IN UNTERNEHMEN 4
+Werbung) mit gut 11 % zu beobachten. In den Industriebranchen weisen die Elektrotechnik und der Maschinenbau mit 6,8 % den höchsten Anteil von Unternehmen mit KI-Einsatz auf.
+Die IKT-Branche weist auch das höchste Ausgabenniveau für KI unter allen Branchengruppen auf. Im Jahr 2019 gaben die IKT-Unternehmen 0,56 % ihres Umsatzes für die Entwicklung, Einführung und Pflege von KI-Verfahren aus. In der Gesamtwirtschaft lag diese Quote bei nur 0,09 %. Relative hohe Umsatzanteile werden für KI außerdem in den Branchengruppen unternehmensnahe Dienstleistungen (0,29 %) und Elektrotechnik/Maschinenbau (0,17 %) bereitgestellt. Von allen Beschäftigten in den Unternehmen waren 2019 etwa 0,3 % hauptsächlich mit der Entwicklung, Einführung und Pflege von KI-Verfahren befasst. Das sind rund 50.000 Personen.2 Wiederum zeigt sich der höchste Anteilswert in der IKT-Branche (1,51 %), gefolgt von den unternehmensnahen Dienstleistungen (0,88 %) und der Branche Elektrotechnik/Maschinenbau (0,35 %). Zusätzlich zu den hauptsächlich zu KI tätigen Personen kommen noch ca. 89.000, die nur einen kleineren Teil ihrer Arbeitszeit zu KI tätig sind.
+2 Zur Einordnung dieser Zahl: Mitte 2018 gab es laut Bundesagentur für Arbeit in Deutschland rund 224.000 sozialversicherungspflichtig beschäftigte Softwareentwicklerinnen und -entwickler (Bundesagentur für Arbeit (2019): IT-Fachleute, Berichte: Blickpunkt Arbeitsmarkt, April 2019). Diese Zahl schließt auch Beschäftigte außerhalb des Berichtskreises der Innovationserhebung ein (wie z.B. Beschäftigte in Unternehmen mit weniger als 5 Beschäftigten sowie im Baugewerbe, im Einzelhandel, im Gastgewerbe, in der Immobilienwirtschaft, in den Bereichen Gesundheit und Unterricht, in der öffentlichen Verwaltung sowie in persönlichen Dienstleistungen), sodass von nicht mehr als 175.000 sozialversicherungspflichtig beschäftigten Softwareentwicklerinnen und -entwicklern im Berichtskreis der Innovationserhebung auszugehen ist. Softwareentwicklerinnen und -entwickler dürften wiederum die mit Abstand wichtigste Berufsgruppe im Bereich der hauptsächlich zu KI tätigen Personen sein, da Programmierkenntnisse eine Art Grundvoraussetzung für die Anstellung von KI-Fachkräften sind (vgl. Abschnitt 4.3).
+[Page #7]
+5 KI-EINSATZ IN UNTERNEHMEN
+Die Nutzung von KI in den Unternehmen der deutschen Wirtschaft hat nicht erst in den jüngsten Jahren begonnen. 20 % der KI einsetzenden Unternehmen haben KI erstmals vor dem Jahr 2010 genutzt. Weitere 20 % haben KI erstmals in der ersten Hälfte der 2010er Jahre eingesetzt. Danach hat sich die Verbreitung von KI deutlich beschleunigt. Von den Unternehmen, die 2019 KI eingesetzt haben, hat jedes dritte den Einstieg in KI bereits in den Jahren 2016-2017 vorgenommen. 27 % der KI einsetzenden Unternehmen sind 2018 oder 2019 in diese Technologie eingestiegen.
+Abb. 2-2: Jahr des erstmaligen Einsatzes von KI in Unternehmen der deutschen Wirtschaft
+vor 2010
+zwischen 2010 und 2015
+2016/17
+2018/19*
+Finanzdienstleist.
+Chemie/Ph., Gr.st.
+Elektrot./Maschin.b.
+IKT
+Großhandel
+Verkehr, Logistik
+Ver-/Entsorg., Bg.b.
+Sonst. Verarb. Gew.
+Untern.nahe Dienstl.
+Sonst. Dienstleist.
+Fahrzeugbau
+Gesamtwirtschaft
+in % aller KI einsetzenden Unternehmen
+* 2019: Einführung bis zum Befragungszeitpunkt, der zwischen März und August 2019 lag. Quelle: Deutsche Innovationserhebung 2019, Zusatzbefragung KI 2019/2020. Berechnungen des ZEW.
+[Page #8]
+ KI-EINSATZ IN UNTERNEHMEN 6
+Um die Größenordnung der Ausgaben für KI und der Anzahl der hauptsächlich zu KI tätigen Personen besser einordnen zu können, kann ein Vergleich mit der Höhe der Innovationsausgaben der Unternehmen und zur Anzahl der im Bereich FuE und Innovation Beschäftigten gezogen werden. Dabei ist zu beachten, dass es sich nicht bei allen KI-Ausgaben um Innovationsausgaben handeln muss. So zählen die Ausgaben für die Wartung, Adaptierung oder Anpassung von KI-Verfahren nur dann als Innovationsausgaben, wenn sie im Kontext der Entwicklung oder Einführung neuer oder verbesserter Produkte oder Prozesse getätigt wurden. Ebenso müssen nicht alle hauptsächlich zu KI tätigen Personen zur Gruppe der FuE- und Innovationsbeschäftigten zählen.
+Die KI-Ausgaben des Jahres 2019 entsprachen 2,7 % der gesamten Innovationsausgaben (inkl. sämtlicher FuE-Ausgaben) der deutschen Wirtschaft, die für 2019 geplant waren. Den höchsten Anteilswert weisen die sonstigen Dienstleistungen (20 %) auf. Diese Branchengruppe weist auch einen sehr hohen Wert bei der Relation von hauptsächlich zu KI tätigen Personen und FuE-/Innovationsbeschäftigten auf (23 %). In dieser Branche scheint das Innovationsgeschehen relativ stark von KI-Anwendungen bestimmt zu sein. Zu beachten ist allerdings, dass in dieser Branchengruppe die Innovationsaktivitäten insgesamt nur ein bescheidenes Niveau erreichen (knapp 1 Mrd. Euro) und auch kaum Forschung und Entwicklung betrieben wird. In der Chemie-, Pharma- und Grundstoffindustrie spielt KI für das FuE- und Innovationsgeschehen mit einem Wert von 0,6 % eine vergleichsweise geringe Rolle.
+Abb. 2-3: Relation zwischen KI-Aktivitäten und FuE-Aktivitäten
+KI-Ausgaben 2019 in % der FuE- und anderen Innovationsausgaben 2019*
+Hauptsächlich zu KI tätigen Personen 2019 in % der zu FuE/Innovation Beschäftigten 2018**
+Sonst. Dienstleist.
+20,0
+22,9
+Untern.nahe Dienstl.
+6,7
+14,0
+IKT
+4,9
+9,8
+Finanzdienstleist.
+4,2
+11,3
+Elektrot./Maschin.b.
+2,5
+3,9
+Verkehr, Logistik
+2,4
+10,3
+Großhandel
+2,4
+5,2
+Sonst. Verarb. Gew.
+2,1
+5,9
+Fahrzeugbau
+1,5
+0,8
+Ver-/Entsorg., Bg.b.
+1,4
+11,5
+Chemie/Ph., Gr.st.
+0,6
+1,2
+Gesamtwirtschaft
+2,7
+6,6
+10in % der Innovationsausgaben
+in % der zu FuE/Innovation Beschäftigten
+* FuE- und andere Innovationsausgaben 2019 auf Basis der Planzahlen der Unternehmen vom Frühjahr/Sommer 2019. Anmerkung: höhere statistische Ungenauigkeit der Angaben. ** Keine Angaben zur Anzahl der zu FuE/Innovation Beschäftigten für 2019 verfügbar. Quelle: Deutsche Innovationserhebung 2019, Zusatzbefragung KI 2019/2020. Berechnungen des ZEW.
+Die gesamten Ausgaben für die Entwicklung, Einführung und Pflege von KI-Verfahren in den Unternehmen der deutschen Wirtschaft beliefen sich im Jahr 2019 auf rund 4,8 Mrd. €. Der größte Anteil in Höhe von 31 % entfiel mit 1,5 Mrd. € auf die IKT-Branche. Hohe KI-Ausgaben tätigten außerdem der Fahrzeugbau (0,84 Mrd.
+[Page #9]
+7 KI-EINSATZ IN UNTERNEHMEN
+€), die Elektrotechnik und der Maschinenbau (0,68 Mrd. €) und die unternehmensnahen Dienstleistungen (0,65 Mrd. €). Auf die Branchen des produzierenden Gewerbes (ohne IKT-Hardwareherstellung) entfielen 41 % der gesamten KI-Ausgaben der deutschen Wirtschaft (im Berichtskreis der Innovationserhebung), auf Dienstleistungsbranchen (ohne IKT-Dienstleistungen) entfielen 27 %. Die IKT-Branche dominiert ausgabenseitig die KI-Aktivitäten der deutschen Wirtschaft deutlich.
+Abb. 2-4: Verteilung der KI-Ausgaben der deutschen Wirtschaft 2019 nach Branchengruppen (in Mrd. €)
+Chemie/Pharma, Grundstoffe; 0,14
+Ver- und Entsorgung, Bergbau; 0,07
+Verkehr und Logistik; 0,16
+Großhandel; 0,07
+Sonstige Dienstleistungen; 0,19
+IKT; 1,50
+Finanzdienstleistungen; 0,24
+Sonstiges Verarbeitendes Gewerbe; 0,26
+Unternehmensnahe Dienstleistungen; 0,65
+Elektrotechnik, Maschinenbau; 0,68
+Fahrzeugbau; 0,84
+Anmerkung: höhere statistische Ungenauigkeit der Angaben. Quelle: Deutsche Innovationserhebung 2019, Zusatzbefragung KI 2019/2020. Berechnungen des ZEW.
+[Page #10]
+ KI-EINSATZ IN UNTERNEHMEN 8
+Der größte Teil der KI-Ausgaben (76 %) entfällt auf interne laufende Aufwendungen, die im Wesentlichen Personalaufwendungen umfassen. In der IKT-Branche ist dieser Anteil besonders hoch (88 %), im Gegenzug sind die externen Aufwendungen mit 2 % sehr gering. Dies zeigt, dass die IKT-Branche in Bezug auf die Entwicklung, Einführung und Pflege von KI-Verfahren ganz überwiegend auf interne Ressourcen zurückgreifen kann. Dahinter steht vor allem das eigene Humankapital der Unternehmen. In allen anderen Branchengruppen liegt der Anteil externer KI-Ausgaben bei 10 bis 12 %. Investitionen, d.h. Ausgaben für Sachanlagegüter (Hardware, Maschinen, zugekaufte und bilanziell aktivierte Software) machen im Durchschnitt der deutschen Wirtschaft 15 % der gesamten KI-Ausgaben aus. Besonders hoch ist dieser Anteil in den Branchen des verarbeitenden Gewerbes, insbesondere in der Elektrotechnik und im Maschinenbau (22 %).
+Abb. 2-5: Zusammensetzung der KI-Ausgaben der deutschen Wirtschaft 2019 nach Branchengruppen (in %)
+interne laufende Aufwendungen
+Investitionen
+externe Aufwendungen
+IKT
+Sonst. Dienstleist.
+Untern.nahe Dienstl.
+Fahrzeugbau
+Ver-/Entsorg., Bg.b.
+Großhandel
+Verkehr, Logistik
+Finanzdienstleist.
+Chemie/Ph., Gr.st.
+Sonst. Verarb. Gew.
+Elektrot./Maschin.b.
+Gesamtwirtschaft
+in % der gesamten KI-Ausgaben
+Anmerkung: höhere statistische Ungenauigkeit der Angaben. Quelle: Deutsche Innovationserhebung 2019, Zusatzbefragung KI 2019/2020. Berechnungen des ZEW.
+[Page #11]
+9 KI-EINSATZ IN UNTERNEHMEN
+Im Jahr 2019 waren in den KI-aktiven Unternehmen der deutschen Wirtschaft etwa 50.000 Personen hauptsächlich mit KI-Aktivitäten befasst.3 Weitere rund 89.000 Personen waren nur einen kleineren Teil ihrer Arbeitszeit zu KI tätig. Am höchsten ist der Anteil der Beschäftigten mit KI-Tätigkeiten in der IKT-Branche (4,0 %, inkl. der nur in geringem Umfang KI-Tätigen). Hoch ist dieser Anteilswert auch in den unternehmensnahen Dienstleistungen (2,7 %), da hier ein relativ hoher Anteil von Beschäftigten nur in geringem Umfang KI-Tätigkeiten ausführt. Weitere Branchengruppen mit einem vergleichsweise hohen Beschäftigtenanteil im KI-Bereich sind Elektrotechnik/Maschinenbau (0,8 %) und die Finanzdienstleistungen (0,7 %). In den anderen Branchengruppen entfällt auf KI-Beschäftigte nur ein sehr kleiner Anteilswert.
+Abb. 2-6: Anteil der im Bereich KI tätigen Beschäftigten in der deutschen Wirtschaft 2019 nach Branchengruppen (in % aller Beschäftigten)
+hauptsächlich zu KI tätig
+nur in geringem Umfang zu KI tätig
+IKT
+1,51
+2,47
+Untern.nahe Dienstl.
+0,88
+1,85
+Elektrot./Maschin.b.
+0,35
+0,46
+Finanzdienstleist.
+0,28
+0,40
+Fahrzeugbau
+Sonst. Verarb. Gew.
+Chemie/Ph., Gr.st.
+Ver-/Entsorg., Bg.b.
+Sonst. Dienstleist.
+Verkehr, Logistik
+Großhandel
+Gesamtwirtschaft
+0,31
+0,54
+0,0
+0,5
+1,0
+1,5
+2,5in % der gesamten Beschäftigung
+2,0
+3,0
+3,5
+4,0
+Anmerkung: höhere statistische Ungenauigkeit der Angaben. Quelle: Deutsche Innovationserhebung 2019, Zusatzbefragung KI 2019/2020. Berechnungen des ZEW.
+3 Eine Trennung nach Art der Tätigkeit (z.B. Entwicklung oder Anwendung) wurde nicht erfasst.
+[Page #12]
+ KI-EINSATZ IN UNTERNEHMEN 10
+Von den rund 139.000 Personen, die hauptsächlich oder in geringem Umfang in den Unternehmen der deutschen Wirtschaft im Jahr 2019 zu KI gearbeitet haben, waren 34 % und damit rund 47.000 in der IKT-Branche tätig. Ein fast ähnlich hoher Anteil entfiel auf die große Branche der unternehmensnahen Dienstleistungen (32 %, ca. 45.000). Dort sind insbesondere in Ingenieurbüros und im Bereich der FuE-Dienstleistungen viele KI-Beschäftigte anzutreffen. Die große Industriebranchengruppe Elektrotechnik/Maschinenbau beschäftigte rund 10 % der im Bereich KI tätigen Personen (ca. 13.000).
+Abb. 2-7: Verteilung der im Bereich KI tätigen Beschäftigten in der deutschen Wirtschaft 2019 nach Branchengruppen (in 1.000 Personen)
+Großhandel; 2,1
+Chemie/Pharma, Grundstoffe; 3,0
+Verkehr und Logistik; 3,2
+Ver- und Entsorgung, Bergbau; 1,4
+Fahrzeugbau; 3,9
+Sonstige Dienstleistungen; 5,5
+IKT; 47,4
+Finanzdienstleistungen; 6,0
+Sonstiges Verarbeitendes Gewerbe; 8,8
+Elektrotechnik, Maschinenbau; 13,3
+Unternehmensnahe Dienstleistungen; 44,9
+Summe aus hauptsächlich zu KI tätigen Personen und Personen, die nur einen geringen Teil ihrer Arbeitszeit mit KI befasst sind. Anmerkung: höhere statistische Ungenauigkeit der Angaben. Quelle: Deutsche Innovationserhebung 2019, Zusatzbefragung KI 2019/2020. Berechnungen des ZEW.
+[Page #13]
+11 KI-EINSATZ IN UNTERNEHMEN
+Betrachtet man die durchschnittlichen KI-Ausgaben je Unternehmen mit KI-Einsatz sowie die Anzahl der im Bereich KI tätigen Beschäftigten je Unternehmen mit KI-Einsatz, so zeigen sich sehr große Branchenunterschiede, die in erster Linie widerspiegeln, ob die KI-Aktivitäten in einer Branche stark auf wenige große Unternehmen konzentriert sind oder sich auf viele kleine und mittlere Unternehmen verteilen. Bei durchschnittlichen KI-Ausgaben je KI einsetzendem Unternehmen von 276 Tsd. € im Jahr 2019 weist der Fahrzeugbau einen mehr als 25 Mal so hohen Wert (über 7 Mio. €) auf. In den unternehmensnahen Dienstleistungen liegt dieser Wert dagegen unter 100 Tsd. €. Ähnlich ist das Bild in Bezug auf die KI-Beschäftigten je Unternehmen mit KI-Einsatz. Im Fahrzeugbau beschäftigt ein KI einsetzendes Unternehmen im Mittel 32 Personen hauptsächlich oder in geringerem Arbeitszeitumfang im Bereich KI, im sonstigen verarbeitenden Gewerbe sind es dagegen nur gut 4 Personen. Im Mittel aller KI einsetzenden Unternehmen in Deutschland im Jahr 2019 waren 8 Personen in diesem Bereich überwiegend oder teilweise tätig.
+Abb. 2-8: KI-Ausgaben und im Bereich KI tätige Beschäftigte je KI einsetzendem Unternehmen 2019
+KI-Ausgaben je Unternehmen mit KI-Einsatz
+Anzahl im Bereich KI tätige Beschäftigte je Unternehmen mit KI-Einsatz
+32,3
+Fahrzeugbau
+14,0
+Elektrot./Maschin.b.
+12,1
+IKT
+6,3
+Verkehr, Logistik
+7,1
+Finanzdienstleist.
+5,9
+Chemie/Ph., Gr.st.
+Ver-/Entsorg., Bg.b.
+5,2
+Sonst. Dienstleist.
+6,0
+Großhandel
+5,2
+Sonst. Verarb. Gew.
+4,3
+Untern.nahe Dienstl.
+6,4
+Gesamtwirtschaft
+8,0
+2.500
+7.500KI-Ausgaben je Unternehmen in 1.000 €
+5.000
+Anzahl Beschäftigte je Unternehmen
+Anmerkung: höhere statistische Ungenauigkeit der Angaben. Quelle: Deutsche Innovationserhebung 2019, Zusatzbefragung KI 2019/2020. Berechnungen des ZEW.
+[Page #14]
+ KI-EINSATZ IN UNTERNEHMEN 12
+2.2. Eingesetzte Verfahren und Einsatzgebiete
+Die am weitesten verbreiteten KI-Verfahren in der deutschen Wirtschaft im Jahr 2019 betrafen maschinelles Lernen und maschinelles Beweisen. 55 % der KI einsetzenden Unternehmen in Deutschland hatten solche Verfahren in Anwendung. KI-Verfahren zur Erkennung von Bild oder Ton waren in 49 % der Unternehmen mit KI-Einsatz anzutreffen. Ein fast ebenso weit verbreitetes KI-Verfahren (46 %) sind "wissensbasierte Systeme" (d.h. KI-basierte Verfahren zur Identifikation, Repräsentation und Verarbeitung von Wissen). Verfahren zum Sprach- oder Textverstehen wurden dagegen nur von 30 % der Unternehmen mit KI-Einsatz genutzt. Die IKT-Branche setzt häufiger KI-Verfahren im Bereich maschinelles Lernen/Beweisen und wissensbasierte Systeme ein, während Verfahren zum Sprach- oder Textverstehen nur in jedem vierten KI einsetzenden Unternehmen der IKT-Branche zur Anwendung kommen.
+Abb. 2-9: Eingesetzte KI-Verfahren in Unternehmen der deutschen Wirtschaft und der deutschen IKT-Branche 2019 (in %)
+Maschinelles Lernen/maschinelles Beweisen
+Bild- oder Tonerkennung
+Wissensbasierte Systeme
+IKT-Branche
+Sprach- oder Textverstehen
+Gesamtwirtschaft
+in % aller KI einsetzenden Unternehmen
+Quelle: Deutsche Innovationserhebung 2019, Zusatzbefragung KI 2019/2020. Berechnungen des ZEW.
+[Page #15]
+13 KI-EINSATZ IN UNTERNEHMEN
+KI wird in den Unternehmen etwa ebenso häufig in Produkten und Dienstleistungen (60 %) der KI einsetzenden Unternehmen wie für die Automatisierung von Prozessen genutzt (56 %). 34 % der KI einsetzenden Unternehmen analysieren mit KI Daten, 22 % kommunizieren und interagieren über KI mit ihren Kunden. In der IKT-Branche wird KI häufiger in Produkten und Dienstleistungen eingesetzt als im Durchschnitt aller KI einsetzenden Unternehmen in Deutschland, während KI zur Kommunikation und Interaktion mit der Kundschaft in der IKT-Branche seltener angewendet wird als in der Gesamtwirtschaft.
+Abb. 2-10: Anwendungsgebiete von KI-Verfahren in Unternehmen der deutschen Wirtschaft und der deutschen IKT-Branche 2019 (in %)
+Produkte, Dienstleistungen
+Automatisierung von Prozessen
+KI-Anwendung für Datenanalyse
+IKT-Branche
+Kundenkommunikation/-interaktion
+Gesamtwirtschaft
+andere Anwendungsgebiete
+in % aller KI einsetzenden Unternehmen
+Quelle: Deutsche Innovationserhebung 2019, Zusatzbefragung KI 2019/2020. Berechnungen des ZEW.
+[Page #16]
+ KI-EINSATZ IN UNTERNEHMEN 14
+Der KI-Einsatz erstreckt sich über unterschiedliche Funktionsbereiche der Unternehmen. Entsprechend der häufigen Anwendung von KI in Produkten oder Dienstleistungen liegt der Funktionsbereich Produktion/Dienstleistungserbringung sowohl in der IKT-Branche (57 %) als auch in der Gesamtwirtschaft (52 %) an der Spitze. Im Durchschnitt der Gesamtwirtschaft setzen 37 % der Unternehmen KI in der Administration ein. In den Funktionsbereichen FuE/Innovation sowie Informationstechnik setzen jeweils etwa 20 % der Unternehmen ihre KI-Anwendungen ein. Im Bereich FuE/Innovation kann es sich sowohl um die Nutzung von KI für FuE-Prozesse handeln, aber auch um Aktivitäten zur Entwicklung von KI-Lösungen. Relativ gering ist der KI-Einsatz in den Bereichen Marketing/Vertrieb (5 %) und Einkauf/Logistik (3 %).
+Abb. 2-11: Funktionsbereiche, in denen KI-Verfahren in Unternehmen der deutschen Wirtschaft und der deutschen IKT-Branche 2019 eingesetzt wurden (in %)
+Produktion,Dienstleistungserbringung
+Administration
+FuE, Innovation
+Informationstechnik
+IKT-Branche
+Vertrieb, Marketing
+Gesamtwirtschaft
+Einkauf/Logistik
+in % aller KI einsetzenden Unternehmen
+Quelle: Deutsche Innovationserhebung 2019, Zusatzbefragung KI 2019/2020. Berechnungen des ZEW.
+[Page #17]
+15 KI-EINSATZ IN UNTERNEHMEN
+2.3. Bedeutung des KI-Einsatzes und Umsatz mit KI-basierten Produkten
+Die Bedeutung von KI für die Geschäftstätigkeit wird von den meisten Unternehmen, die KI einsetzen (65 %), als wichtig eingestuft. Dies bedeutet, dass KI für diese Unternehmen deutliche Verbesserungen mit sich bringt, indem KI Geschäftsprozesse oder Produktionsaktivitäten schneller, genauer, flexibler, zuverlässiger oder kostengünstiger macht oder die Kapazitäten erhöht. 12 % der KI einsetzenden Unternehmen geben sogar an, dass KI essenziell für ihre Geschäftstätigkeit ist, d.h. ohne KI könnten die entsprechenden Aktivitäten gar nicht ausgeführt werden. Knapp ein Viertel stuft KI dagegen als weniger wichtig ein, d.h. KI könnte in diesen Unternehmen auch leicht und ohne wesentliche Einbußen durch andere Methoden ersetzt werden.
+Unter den KI einsetzenden Unternehmen in den sonstigen Dienstleistungsbranchen befinden sich die meisten Unternehmen, die KI als essenziell für ihre Geschäftstätigkeit einschätzen (20 %), gefolgt vom Großhandel (17 %). In diesen beiden Branchen, in denen nur ein sehr kleiner Anteil der Unternehmen KI einsetzt (vgl. Abb. 2-1), hat sich ein relativ hoher Anteil dieser Unternehmen auf KI-basierte Geschäftsmodelle spezialisiert. Hohe Werte von KI einsetzenden Unternehmen, für die KI essenziell ist, weist außerdem die IKT-Branche auf. Im Fahrzeugbau und in den Finanzdienstleistungen finden sich dagegen (fast) keine Unternehmen mit einem auf KI beruhenden Geschäftsmodell.
+Abb. 2-12: Bedeutung des Einsatzes von KI für die Geschäftstätigkeit der Unternehmen der deutschen Wirtschaft 2019 (in %)
+essenziell
+wichtig
+weniger wichtig
+Sonst. Dienstleist.
+Großhandel
+IKT
+Sonst. Verarb. Gew.
+Elektrot./Maschin.b.
+Chemie/Ph., Gr.st.
+Ver-/Entsorg., Bg.b.
+Untern.nahe Dienstl.
+Verkehr, Logistik
+Fahrzeugbau
+Finanzdienstleist.
+Gesamtwirtschaft
+in % aller KI einsetzenden Unternehmen
+Quelle: Deutsche Innovationserhebung 2019, Zusatzbefragung KI 2019/2020. Berechnungen des ZEW.
+[Page #18]
+ KI-EINSATZ IN UNTERNEHMEN 16
+Unternehmen haben verschiedene Möglichkeiten, KI in Produkte und Dienstleistungen zu integrieren. KI kann zum einen im Hintergrund laufen, etwa zur Unterstützung von Fahrassistenzsystemen in Kraftfahrzeugen oder in den Prozessen zur Herstellung und Verfügbarmachung der Produkte und Dienstleistungen. Zum anderen können KI-Verfahren direkt bei der Anwendung, oder Nutzung des Produktes, oder direkt bei der Erbringung der Dienstleistung zum Einsatz kommen. Die meisten der Unternehmen, die im Jahr 2019 KI eingesetzt haben, berichten Anwendungen und Einsatzformen im Bereich ihrer Produkte und Dienstleistungen (75 %). Dieser Anteilswert ist in der Chemie-, Pharma- und Grundstoffindustrie mit 46 % relativ niedrig und in den unternehmensnahen Dienstleistungen mit 84 % am höchsten.
+Bezogen auf alle Unternehmen der deutschen Wirtschaft setzten 2019 lediglich 4,4 % KI-Verfahren bei der Anwendung oder Nutzung des Produkts oder bei der Erbringung von Dienstleistungen ein. Am höchsten ist dieser Anteil mit knapp 15 % in der IKT-Branche. Dahinter folgen mit den unternehmensnahen Dienstleistern (9,4 %) und den Finanzdienstleistern (7,8 %) zwei Dienstleistungsbranchen. In den Industriebranchen bieten nur zwischen 2 und gut 4 % der Unternehmen Produkte oder Dienstleistungen mit KI-Anwendungen an.
+Abb. 2-13: Einsatz von KI in Produkten oder Dienstleistungen in Unternehmen der deutschen Wirtschaft 2019
+in % aller Unternehmen
+in % der KI einsetzenden Unternehmen
+IKT
+14,7
+Untern.nahe Dienstl.
+9,4
+Finanzdienstleist.
+7,8
+Elektrot./Maschin.b.
+4,4
+Fahrzeugbau
+3,1
+Chemie/Ph., Gr.st.
+2,1
+Sonst. Verarb. Gew.
+2,1
+Ver-/Entsorg., Bg.b.
+2,0
+1,2
+Sonst. Dienstleist.
+1,1
+Verkehr, Logistik
+Großhandel
+0,8
+Gesamtwirtschaft
+4,4
+6in % aller Unternehmen
+40in % der Unternehmen m. KI-Einsatz
+Quelle: Deutsche Innovationserhebung 2019, Zusatzbefragung KI 2019/2020. Berechnungen des ZEW.
+Angesichts des relativ geringen Anteils von Unternehmen mit KI-Anwendungen in Produkten oder Dienstleistungen, überrascht es auch nicht, dass auf solche Marktangebote im Jahr 2019 der deutschen Wirtschaft nur 1,1 % des gesamten Umsatzes entfielen. Relativ hohe Umsatzanteile durch Produkte und Dienstleistungen mit KI-Anwendungen erzielten neben der IKT-Branche (3,3 %) vor allem die Finanzdienstleistungen (3,0 %) und die unternehmensnahen Dienstleistungen (2,1 %). Dabei ist zu beachten, dass hierbei nur jene Produkte und Dienstleistungen einbezogen wurden, bei denen KI-Verfahren direkt bei der Anwendung oder Nutzung des Produktes oder direkt bei der Erbringung der Dienstleistung zum Einsatz kommen. Produkte und Dienstleistungen, bei denen KI im Hintergrund läuft (etwa zur Unterstützung von
+[Page #19]
+17 KI-EINSATZ IN UNTERNEHMEN
+Fahrerassistenzsystemen in Kraftfahrzeugen) oder in den Prozessen zur Herstellung und Verfügbarmachung der Produkte und Dienstleistungen genutzt wird, sind hierbei nicht eingerechnet.
+Bezieht man die Umsätze von Produkten und Dienstleistungen mit KI-Anwendungen nur auf den Umsatz der Unternehmen, die solche Produkte und Dienstleistungen absetzen, so zeigen sich natürlich erheblich höhere Werte. Im Mittel aller Unternehmen mit KI-Produkten/-Dienstleistungen tragen die KI-Anwendungen 7,7 % zum gesamten Umsatz dieser Unternehmen bei. Am höchsten ist der Anteil in den Finanzdienstleistungen (14 %), am niedrigsten im Fahrzeugbau (3 %).
+Abb. 2-14: Umsatzanteil von Produkten oder Dienstleistungen mit KI-Einsatz in Unternehmen der deutschen Wirtschaft 2019
+in % des Umsatzes aller Unternehmen
+in % des Umsatzes der Unternehmen mit KI-Einsatz in Produkten/Dienstleistungen
+11,7
+IKT
+3,3
+8,4
+Finanzdienstleist.
+3,0
+14,0
+Untern.nahe Dienstl.
+2,1
+6,9
+Elektrot./Maschin.b.
+1,3
+11,6
+Sonst. Verarb. Gew.
+0,9
+6,4
+Ver-/Entsorg., Bg.b.
+0,8
+4,8
+Chemie/Ph., Gr.st.
+0,7
+3,0
+Fahrzeugbau
+0,6
+0,5
+Verkehr, Logistik
+6,3
+0,5
+Sonst. Dienstleist.
+5,9
+Großhandel
+0,4
+8,1
+Gesamtwirtschaft
+1,1
+7,7
+0,0
+0,5
+1,0
+1,5
+2,0
+2,5
+3,0
+3,5
+in % des Umsatzesaller Unternehmen
+in % des Umsatzes der Unternehmen mit KI-Einsatz in Produkten/Dienstl..
+Anmerkung: höhere statistische Ungenauigkeit der Angaben. Quelle: Deutsche Innovationserhebung 2019, Zusatzbefragung KI 2019/2020. Berechnungen des ZEW.
+Insgesamt erzielten die Unternehmen der deutschen Wirtschaft im Jahr 2019 mit Produkten und Dienstleistungen mit direktem KI-Einsatz einen Umsatz von annähernd 60 Mrd. €. Den größten Beitrag leisteten dabei die Finanzdienstleistungen, wobei hier die Bruttozins- und -provisionserträge sowie die Bruttobeitragseinnahmen als Umsatzgröße herangezogen werden. Dahinter dürfte der Umstand stehen, dass insbesondere im Anlagebereich und bei Versicherungsprodukten häufig KI-Anwendungen zum Einsatz kommen. Die IKT-Branche erzielte 9,0 Mrd. € mit KI-basierten Marktangeboten.
+[Page #20]
+ KI-EINSATZ IN UNTERNEHMEN 18
+Abb. 2-15: Verteilung des Umsatzes von Produkten und Dienstleistungen mit KI-Einsatz in der deutschen Wirtschaft nach Branchengruppen 2019 (in Mrd. €)
+Sonstige Dienstleistungen; 0,8
+Verkehr und Logistik; 1,5
+Fahrzeugbau; 3,3
+Finanzdienstleistungen; 17,3
+Chemie/Pharma, …
+Großhandel; 4,3
+Ver- und Entsorgung, Bergbau; 4,5
+Unternehmensnahe Dienstleistungen; 4,8
+IKT; 9,0
+Elektrotechnik, Maschinenbau; 4,9
+Sonstiges Verarbeitendes Gewerbe; 6,0
+Anmerkung: höhere statistische Ungenauigkeit der Angaben. Quelle: Deutsche Innovationserhebung 2019, Zusatzbefragung KI 2019/2020. Berechnungen des ZEW.
+[Page #21]
+19 ENTWICKLUNGSKAPAZITÄTEN, HARDWARE UND DATEN FÜR KI
+3. Entwicklungskapazitäten, Hardware und
+Daten für KI
+3.1. Entwicklungskapazitäten für KI
+Mit 16 % hat nur ein kleiner Teil der Unternehmen, die KI einsetzen, die KI-Anwendungen vor allem selbst entwickelt. Weitere 24 % weisen sowohl selbst entwickelte wie von Dritten entwickelte KI-Anwendungen auf. Bei 60 % der Unternehmen wurden die eingesetzten KI-Anwendungen vor allem von Dritten entwickelt. Um welche Art von Unternehmen oder Einrichtungen es sich dabei handelt, wurde in der Erhebung nicht erfasst.
+Am höchsten ist der Anteil der Unternehmen mit interner KI-Entwicklung erwartungsgemäß in der IKT-Branche. Dort haben 31 % der Unternehmen die eingesetzte KI vor allem und 39 % zumindest teilweise selbst entwickelt. In den Branchen des verarbeitenden Gewerbes ist der Anteil der Unternehmen mit interner KI-Entwicklung ebenfalls überdurchschnittlich. Eine Ausnahme ist die Chemie-, Pharma- und Grundstoffindustrie, die ganz überwiegend auf extern entwickelte KI-Anwendungen setzt.
+Abb. 3-1: Entwickler der in Unternehmen der deutschen Wirtschaft 2019 eingesetzten KI-Verfahren
+vor allem selbst entwickelt
+sowohl selbst als auch von Dritten
+vor allem von Dritten entwickelt
+IKT
+Sonst. Verarb. Gew.
+Elektrot./Maschin.b.
+Großhandel
+Fahrzeugbau
+Sonst. Dienstleist.
+Ver-/Entsorg., Bg.b.
+Finanzdienstleist.
+Chemie/Ph., Gr.st.
+Untern.nahe Dienstl.
+Verkehr, Logistik
+Gesamtwirtschaft
+in % aller KI einsetzenden Unternehmen
+Quelle: Deutsche Innovationserhebung 2019, Zusatzbefragung KI 2019/2020. Berechnungen des ZEW.
+[Page #22]
+ ENTWICKLUNGSKAPAZITÄTEN, HARDWARE UND DATEN FÜR KI 20
+3.2. Hardware für KI
+Die Unternehmen greifen für den Einsatz von KI sowohl auf unternehmensinterne Hardware als auch auf externe Hardware zurück. In 34 % der KI einsetzenden Unternehmen laufen KI-Anwendungen ausschließlich auf interner Hardware, während 30 % ausschließlich externe Hardware, d.h. insbesondere Cloud-Dienste nutzen. 36 % kombinieren interne und externe Hardware beim KI-Einsatz.
+Am niedrigsten ist der Anteil der Unternehmen, die ausschließlich externe Hardware für KI nutzen, in der IKT-Branche (16 %) sowie in der Branche Elektrotechnik/Maschinenbau (20 %). Am höchsten ist er in der Chemie-, Pharma- und Grundstoffindustrie (45 %) und in den unternehmensnahen Dienstleistungen (39 %).
+Abb. 3-2: Nutzung von interner und externer Hardware für KI in Unternehmen der deutschen Wirtschaft 2019
+nur interne Hardware
+interne und externe Hardware
+nur externe Hardware
+IKT
+Elektrot./Maschin.b.
+Fahrzeugbau
+Ver-/Entsorg., Bg.b.
+Sonst. Dienstleist.
+Sonst. Verarb. Gew.
+Großhandel
+Finanzdienstleist.
+Verkehr, Logistik
+Untern.nahe Dienstl.
+Chemie/Ph., Gr.st.
+Gesamtwirtschaft
+in % aller KI einsetzenden Unternehmen
+Quelle: Deutsche Innovationserhebung 2019, Zusatzbefragung KI 2019/2020. Berechnungen des ZEW.
+[Page #23]
+21 ENTWICKLUNGSKAPAZITÄTEN, HARDWARE UND DATEN FÜR KI
+Unternehmen, die für KI auf externe Hardware zurückgreifen, setzen ganz überwiegend (94 %) auf Hardware, die sich in Europa befindet. 6 % greifen auf Hardware mit Standort in den USA zurück, 5 % konnten keine Angaben zum Standort der KI-Hardware machen. Die Unternehmen der IKT-Branche nutzen häufiger KI-Hardware, die sich außerhalb Europas befindet.
+Der Standort der KI-Hardware ist insbesondere vor dem Hintergrund des Datenschutzes und anderer Rechtsfragen sowie in Bezug auf die Datensicherheit (Cybersicherheit) relevant.
+Abb. 3-3: Standort der externen Hardware für KI in Unternehmen der deutschen Wirtschaft 2019
+externe KI-Hardware in Europa
+externe KI-Hardware in USA
+externe KI-Hardware mit unbekanntem Standort
+IKT-Branche
+Gesamtwirtschaft
+externe KI-Hardware in anderer Region
+20in % aller Unternehmen mit externer Hardware für KI
+Mehrfachnennungen möglich. Quelle: Deutsche Innovationserhebung 2019, Zusatzbefragung KI 2019/2020. Berechnungen des ZEW.
+[Page #24]
+ ENTWICKLUNGSKAPAZITÄTEN, HARDWARE UND DATEN FÜR KI 22
+3.3. Daten für KI
+Die Nutzung von Daten ist für die KI-Anwendungen und -Verfahren essenziell. Dabei spielt die Frage, ob es sich um unternehmensinterne (d.h. im Unternehmen generierte) oder um externe Daten handelt, eine wichtige Rolle.4 Denn davon hängen Verfügbarkeit und Qualität der Daten ebenso wie Fragen des Datenschutzes und der Datensicherheit wesentlich ab. Von den KI einsetzenden Unternehmen nutzen etwa gleich viele interne und externe Daten. 32 % der KI einsetzenden Unternehmen greifen für ihre KI-Anwendungen ausschließlich auf intern generierte Daten (z.B. Maschinendaten und andere Prozessdaten, Kundendaten) zurück. Unter den KI einsetzenden Unternehmen nutzen 31 % ausschließlich externe Daten, 37 % setzen sowohl interne wie externe Daten ein. In den Branchen des verarbeitenden Gewerbes sowie in den Finanzdienstleistungen ist die ausschließliche Nutzung von internen Daten häufiger anzutreffen als in den meisten Dienstleistungsbranchen. Am stärksten nur auf externe Daten greifen die IKT-Branche und die unternehmensnahen Dienstleister zurück. Dahinter dürften häufig ihnen von den Kunden zur Verfügung gestellte Daten stehen, die für KI-Anwendungen bei diesen Kunden genutzt werden.
+Abb. 3-4: Nutzung von internen und externen Daten für KI in Unternehmen der deutschen Wirtschaft 2019
+nur interne Daten
+interne und externe Daten
+nur externe Daten
+Fahrzeugbau
+Finanzdienstleist.
+Sonst. Verarb. Gew.
+Chemie/Ph., Gr.st.
+Verkehr, Logistik
+Großhandel
+Ver-/Entsorg., Bg.b.
+Sonst. Dienstleist.
+Elektrot./Maschin.b.
+IKT
+Untern.nahe Dienstl.
+Gesamtwirtschaft
+in % aller KI einsetzenden Unternehmen
+Quelle: Deutsche Innovationserhebung 2019, Zusatzbefragung KI 2019/2020. Berechnungen des ZEW.
+Bei den für KI-Anwendungen genutzten externen Daten handelt es sich ganz überwiegend um Daten, die den KI einsetzenden Unternehmen kostenfrei zur Verfügung stehen. Dies dürfte insbesondere für die angesprochene Bereitstellung von Daten durch die Kundschaft für die Entwicklung und Ausführung von KI-Anwendungen bei dieser Kundschaft zutreffen. Dementsprechend ist in der IKT-Branche der Anteil der
+4 Der Aspekt der Datenqualität sowie der gegebenenfalls fehlende Zugang zu externen Daten wurden im Rahmen der vorliegenden Erhebung nicht erfasst.
+[Page #25]
+23 ENTWICKLUNGSKAPAZITÄTEN, HARDWARE UND DATEN FÜR KI
+Unternehmen mit externer KI-Datennutzung, die diese Daten kostenfrei nutzen können, besonders hoch. Immerhin 34 % der Unternehmen mit externen KI-Daten haben für die Datennutzung zu bezahlen.
+Abb. 3-5: Nutzung kostenfreier und bepreister externer Daten für KI in Unternehmen der deutschen Wirtschaft 2019
+externe KI-Daten kostenfrei
+IKT-Branche
+für externe KI-Daten bezahlt
+Gesamtwirtschaft
+20in % aller Unternehmen mit externen Daten für KI
+Mehrfachnennungen möglich. Quelle: Deutsche Innovationserhebung 2019, Zusatzbefragung KI 2019/2020. Berechnungen des ZEW.
+[Page #26]
+ ENTWICKLUNGSKAPAZITÄTEN, HARDWARE UND DATEN FÜR KI 24
+Die Hälfte der KI einsetzenden Unternehmen greift für die KI-Anwendungen auch auf personenbezogene Daten zurück. Am höchsten ist dieser Anteil in den Finanzdienstleistungen, wo etwa drei Viertel der KI einsetzenden Unternehmen auch personenbezogene Daten im Rahmen von KI verarbeiten. Der geringste Anteil von Unternehmen, die im Rahmen von KI-Lösungen personenbezogene Daten nutzen, findet sich in der Elektrotechnik und im Maschinenbau (17 %) sowie im Fahrzeugbau (24 %).
+Abb. 3-6: Nutzung personenbezogener und nicht personenbezogener Daten für KI in Unternehmen der deutschen Wirtschaft 2019
+auch personenbezogen
+nur nicht personenbezogen
+Finanzdienstleist.
+Untern.nahe Dienstl.
+Sonst. Dienstleist.
+Verkehr, Logistik
+IKT
+Großhandel
+Sonst. Verarb. Gew.
+Chemie/Ph., Gr.st.
+Ver-/Entsorg., Bg.b.
+Fahrzeugbau
+Elektrot./Maschin.b.
+Gesamtwirtschaft
+in % aller KI einsetzenden Unternehmen
+Quelle: Deutsche Innovationserhebung 2019, Zusatzbefragung KI 2019/2020. Berechnungen des ZEW.
+[Page #27]
+25 FACHKRÄFTEBEDARF
+4. Fachkräftebedarf
+4.1. Offene Stellen im Bereich KI
+Im Jahr 2019 hatten 30 % der Unternehmen der deutschen Wirtschaft, die KI im Unternehmen eingesetzt haben, Stellen im Bereich KI zu besetzen. Diese "offenen Stellen" umfassen sowohl Stellen, die im Jahr 2019 erfolgreich besetzt werden konnten, als auch Stellen, die nur mit Schwierigkeiten oder gar nicht besetzt werden konnten. Offene Stellen schließen sowohl neu geschaffene Stellen als auch nachzubesetzende Stellen aufgrund des Ausscheidens oder des Aufgabenwechsels von Beschäftigten ein. Offene KI-Stellen können sowohl Stellen im Bereich der Entwicklung von KI als auch im Bereich unterschiedlicher KI-Anwendungen betreffen.
+Abb. 4-1: Unternehmen der deutschen Wirtschaft mit offenen Stellen im Bereich KI im Jahr 2019
+IKT
+Elektrot./Maschin.b.
+Verkehr, Logistik
+Großhandel
+Ver-/Entsorg., Bg.b.
+Chemie/Ph., Gr.st.
+Fahrzeugbau
+Sonst. Dienstleist.
+Finanzdienstleist.
+Sonst. Verarb. Gew.
+Untern.nahe Dienstl.
+Gesamtwirtschaft
+in % aller KI einsetzenden Unternehmen
+Quelle: Deutsche Innovationserhebung 2019, Zusatzbefragung KI 2019/2020. Berechnungen des ZEW.
+Am höchsten ist der Anteil der KI einsetzenden Unternehmen mit offenen Stellen im Jahr 2019 in der IKT-Branche (60 %). In der Elektrotechnik und im Maschinenbau hatte jedes zweite KI einsetzende Unternehmen offene KI-Stellen. Niedrig ist dagegen der Anteil der KI einsetzenden Unternehmen mit offenen KI-Stellen in einigen Branchen, in denen KI bereits relativ intensiv genutzt wird, wie in den unternehmensnahen Dienstleistungen (nur 16 %), im sonstigen verarbeitenden Gewerbe (18 %) und in den Finanzdienstleistungen (21 %). Hier scheinen die meisten Unternehmen im Jahr 2019 entweder keine starke Ausweitung ihrer KI-Aktivitäten vorgenommen zu haben oder sie konnten diese Ausweitung mit den bereits vorhandenen Beschäftigten umsetzen. Dies ist insofern nicht unwahrscheinlich, als dass viele Unternehmen angaben, dass eine große Zahl von Beschäftigten nur in geringem Umfang zu KI-Aktivitäten arbeitet. Hier sind somit Potenziale für eine unternehmensinterne Ausweitung der KI-Kapazitäten vorhanden.
+[Page #28]
+ FACHKRÄFTEBEDARF 26
+Insgesamt waren im Jahr 2019 in den KI einsetzenden Unternehmen rund 22.500 Stellen im Bereich KI zu besetzen. Dies entspricht 0,14 % aller Beschäftigten in diesen Unternehmen, aber 45 % aller hauptsächlich zu KI tätigen Beschäftigten. Die hohe Relation zwischen offenen Stellen und der Anzahl zu KI hauptsächlich tätigen Beschäftigten zeigt das hohe Expansionstempo im Bereich der KI im Jahr 2019 an. Am höchsten war der Anteil der offenen KI-Stellen an der Gesamtbeschäftigung in der IKT-Branche (0,75 %), gefolgt von den unternehmensnahen Dienstleistungen (0,21 %) und der Branchengruppe Elektrotechnik/Maschinenbau (0,16 %). Bezogen auf die bereits zu KI hauptsächlich tätigen Beschäftigten war die Zahl der offenen Stellen im Fahrzeugbau, in der Chemie-, Pharma- und Grundstoffindustrie und im Großhandel am höchsten. Dies deutet an, dass in diesen Branchen im Jahr 2019 eine starke Ausweitung der KI-Aktivitäten in den bereits KI einsetzenden Unternehmen vorgesehen war.
+Abb. 4-2: Anzahl offener Stellen im Bereich KI in Unternehmen der deutschen Wirtschaft im Jahr 2019 in Relation zu allen Beschäftigten und den hauptsächlich zu KI tätigen Beschäftigten
+IKT
+0,75
+Untern.nahe Dienstl.
+0,21
+Elektrot./Maschin.b.
+0,16
+Finanzdienstleist.
+0,14
+Fahrzeugbau
+0,10
+Sonst. Dienstleist.
+0,07
+Chemie/Ph., Gr.st.
+0,06
+Ver- und Entsorgung
+0,06
+Verkehr, Logistik
+0,06
+Sonst. Verarb. Gew.
+0,04
+Großhandel
+0,04
+Gesamtwirtschaft
+0,14
+0,2
+0,0
+0,4
+0,6
+0,8
+in % der Beschäftigten
+in % der hauptsächlich KI-Beschäftigten
+Anmerkung: höhere statistische Ungenauigkeit der Angaben. Quelle: Deutsche Innovationserhebung 2019, Zusatzbefragung KI 2019/2020. Berechnungen des ZEW.
+[Page #29]
+27 FACHKRÄFTEBEDARF
+Von den rund 22.500 offenen KI-Stellen im Jahr 2019 entfielen annähernd 40 % (d.h. 8.900) auf die IKT-Branche und 15 % (3.400) auf die unternehmensnahen Dienstleistungen. Im Bereich der Elektrotechnik und des Maschinenbaus wurden knapp 12 % aller offenen KI-Stellen registriert.
+Abb. 4-3: Verteilung der offenen Stellen im Bereich KI in Unternehmen der deutschen Wirtschaft im Jahr 2019 nach Branchengruppen (in 1.000 Stellen)
+Großhandel; 0,6
+Ver- und Entsorgung, Bergbau; 0,3
+Chemie/Pharma, Grundstoffe; 0,7
+Fahrzeugbau; 1,0
+Verkehr und Logistik; 1,0
+Finanzdienstleistungen; 1,2
+IKT; 8,9
+Sonstiges Verarbeitendes Gewerbe; 1,3
+Sonstige Dienstleistungen; 1,5
+Unternehmensnahe Dienstleistungen; 3,4
+Elektrotechnik, Maschinenbau; 2,6
+Anmerkung: höhere statistische Ungenauigkeit der Angaben. Quelle: Deutsche Innovationserhebung 2019, Zusatzbefragung KI 2019/2020. Berechnungen des ZEW.
+[Page #30]
+ FACHKRÄFTEBEDARF 28
+4.2. Besetzung von offenen KI-Stellen
+Fast jede zweite offene Stelle im Bereich KI im Jahr 2019 konnte von den Unternehmen wie geplant besetzt werden (47 %). 11 % der offenen Stellen konnten zwar besetzt werden, aber nur verspätet oder nicht mit den gewünschten Beschäftigten. 43 % der offenen Stellen konnten gar nicht besetzt werden.
+Die Unterschiede zwischen den Branchengruppen sind in Bezug auf die Besetzung offener KI-Stellen relativ gering. Der höchste Anteil von wie geplant besetzten offenen Stellen findet sich in der Elektrotechnik und im Maschinenbau (59 %), die niedrigsten Anteilswerte (mit 42 %) in den Finanzdienstleistungen, im Großhandel und in der Chemie-, Pharma- und Grundstoffindustrie. Die Branchengruppen, die den höchsten Anteil der offenen KI-Stellen in 2019 gar nicht besetzen konnten, sind die sonstigen Dienstleistungen und der Fahrzeugbau (47 %).
+Abb. 4-4: Besetzung der offenen Stellen im Bereich KI in Unternehmen der deutschen Wirtschaft im Jahr 2019
+wie geplant besetzt
+verspätet/nicht adäquat besetzt
+gar nicht besetzt
+Elektrot./Maschin.b.
+Fahrzeugbau
+IKT
+Ver-/Entsorg., Bg.b.
+Sonst. Verarb. Gew.
+Sonst. Dienstleist.
+Untern.nahe Dienstl.
+Verkehr, Logistik
+Finanzdienstleist.
+Chemie/Ph., Gr.st.
+Großhandel
+Gesamtwirtschaft
+in % der offenen Stellen im Bereich KI
+Anmerkung: höhere statistische Ungenauigkeit der Angaben. Quelle: Deutsche Innovationserhebung 2019, Zusatzbefragung KI 2019/2020. Berechnungen des ZEW.
+[Page #31]
+29 FACHKRÄFTEBEDARF
+Insgesamt konnten rund 9.500 offene KI-Stellen im Jahr 2019 gar nicht besetzt werden. 41 % dieser Stellen (d.h. fast 4.000) waren in Unternehmen der IKT-Branche, 14 % (gut 1.300) in Unternehmen der unternehmensnahen Dienstleistungen und 10 % (annähernd 1.000) in Unternehmen der Elektrotechnik und des Maschinenbaus.
+Abb. 4-5: Verteilung der nicht besetzten offenen Stellen im Bereich KI in Unternehmen der deutschen Wirtschaft im Jahr 2019 nach Branchengruppen (in 1.000 Stellen)
+Großhandel; 0,3
+Chemie/Pharma, Grundstoffe; 0,3
+Ver- und Entsorgung, Bergbau; 0,1
+Verkehr und Logistik; 0,5
+Fahrzeugbau; 0,5
+Sonstiges Verarbeitendes Gewerbe; 0,5
+IKT; 3,9
+Finanzdienstleistungen; 0,5
+Sonstige Dienstleistungen; 0,7
+Elektrotechnik, Maschinenbau; 1,0
+Unternehmensnahe Dienstleistungen; 1,3
+Anmerkung: höhere statistische Ungenauigkeit der Angaben. Quelle: Deutsche Innovationserhebung 2019, Zusatzbefragung KI 2019/2020. Berechnungen des ZEW.
+[Page #32]
+ FACHKRÄFTEBEDARF 30
+4.3. Geforderte Kenntnisse für die Besetzung offener KI-Stellen
+In Bezug auf die Kenntnisse, die die Unternehmen für die Besetzung offener KI-Stellen voraussetzen, ist Softwareprogrammierung mit Abstand am wichtigsten. 70 % der Unternehmen mit offenen KI-Stellen nannten diese Kenntnisse als sehr wichtig, weitere 26 % als wichtig und lediglich 1 % als unwichtig. Programmierkenntnisse sind somit für KI-Stellen quasi eine Grundvoraussetzung.
+Die anderen Anforderungen sind insofern als eine Art "Zusatzqualifikation" zu interpretieren. Hier wird Datenbankmanagement von 43 % der Unternehmen mit offenen KI-Stellen als sehr wichtig genannt. Mathematikkenntnisse werden zwar nur von 31 % als sehr wichtig, aber von 45 % als wichtig eingestuft, sodass diese formale Fertigkeit als zweitwichtigste Qualifikationsanforderung angesehen werden kann. 59 % der Unternehmen mit offenen KI-Stellen nennen branchenspezifische Kenntnisse als wichtige oder sehr wichtige Qualifikationsanforderung. Kenntnisse zu Maschinenbau, Elektro- oder Verfahrenstechnik, die insbesondere für KI-Anwendungen im Kontext von Prozessautomatisierung und Industrie 4.0 von besonderer Bedeutung sind, werden nur von 36 % als wichtig oder sehr wichtig angeführt. Dies spiegelt den hohen Anteil von Dienstleistungsunternehmen unter den Unternehmen mit offenen Stellen wider, für die andere KI-Anwendungen im Vordergrund stehen.
+Abb. 4-6: Geforderte Kenntnisse an die offenen Stellen im Bereich KI in Unternehmen der deutschen Wirtschaft 2019
+sehr wichtig
+wichtig
+weniger wichtig
+unwichtig
+Softwareprogrammierung
+Datenbankmanagement
+Mathematik
+Branchenkenntnisse
+Maschinenbau, Elektro-/Verfahrenstechnik
+in % aller Unternehmen mit offenen Stellen im Bereich KI
+Quelle: Deutsche Innovationserhebung 2019, Zusatzbefragung KI 2019/2020. Berechnungen des ZEW.
+[Page #33]
+31 FACHKRÄFTEBEDARF
+Kenntnisse in Softwareprogrammierung werden in fast allen Branchen von mehr als der Hälfte der Unternehmen mit offenen KI-Stellen als eine sehr wichtige Voraussetzung genannt, die die Bewerber mitbringen sollen. Kenntnisse in Datenbankmanagement werden von Unternehmen aus der Branchengruppe Chemie/Pharma/Grundstoffe am häufigsten als sehr wichtig angeführt. Neben der IKT-Branche werden diese Kenntnisse auch bei den sonstigen Dienstleistern und im Fahrzeugbau von mehr als der Hälfte der Unternehmen als sehr wichtig genannt.
+Abb. 4-7: Unternehmen der deutschen Wirtschaft, für die Softwareprogrammierungs- und Datenbankkenntnisse sehr wichtige Voraussetzungen für die Besetzung von offenen Stellen im Bereich KI im Jahr 2019 waren
+Softwareprogrammierung
+Datenbankmanagement
+IKT
+Fahrzeugbau
+Ver-/Entsorg., Bg.b.
+Verkehr, Logistik
+Großhandel
+Sonst. Verarb. Gew.
+Elektrot./Maschin.b.
+Untern.n. Dienstl.
+Finanzdienstleist.
+Chemie/Ph., Gr.st.
+Sonst. Dienstleist.
+Gesamtwirtschaft
+in % der Unternehmen mit offenen KI-Stellen
+in % d. Unt. m. offenen KI-Stellen
+Quelle: Deutsche Innovationserhebung 2019, Zusatzbefragung KI 2019/2020. Berechnungen des ZEW.
+[Page #34]
+ FACHKRÄFTEBEDARF 32
+Mathematik-Kenntnisse werden in den meisten Branchen von einem Fünftel bis einem Drittel der Unternehmen mit offenen KI-Stellen als sehr wichtige Qualifikationsanforderung vorausgesetzt. Am häufigsten werden diese Kenntnisse im Fahrzeugbau und in den unternehmensnahen Dienstleistungen nachgefragt. Branchenspezifische Kenntnisse sind insbesondere in den sonstigen Dienstleistungen bei vielen Unternehmen mit offenen KI-Stellen eine sehr wichtige Voraussetzung. Dies dürfte primär Kenntnisse zu den Kundenbranchen der Unternehmen betreffen, da diese Dienstleister KI-Anwendungen häufig im Zusammenhang mit Kundenprojekten verfolgen. Ingenieurwissenschaftliche Kenntnisse im Bereich Maschinenbau, Elektro- und Verfahrenstechnik sind insbesondere für Unternehmen aus der Branchengruppe Elektrotechnik/Maschinenbau sowie aus dem sonstigen verarbeitenden Gewerbe häufiger von sehr großer Bedeutung. In der IKT-Branche spielen solche Kenntnisse dagegen nur für sehr wenige Unternehmen eine wichtige Rolle, wenn es um die vorausgesetzten Kenntnisse für die Besetzung von KI-Stellen geht.
+Abb. 4-8: Unternehmen der deutschen Wirtschaft, für die Mathematik-, branchenspezifische oder Maschinenbau-/Elektrotechnik-/Verfahrenstechnikkenntnisse sehr wichtige Anforderung zur Besetzung von offenen Stellen im Bereich KI im Jahr 2019 waren
+Mathematik
+Branchen- kenntnisse
+Maschinenbau, Elektro-/ Verfahrenstechnik
+IKT
+Fahrzeugbau
+Ver-/Entsorg., Bg.b.
+Verkehr, Logistik
+Großhandel
+Sonst. Verarb. Gew.
+Elektrot./Maschin.b.
+Untern.n. Dienstl.
+Finanzdienstleist.
+Chemie/Ph., Gr.st.
+Sonst. Dienstleist.
+Gesamtwirtschaft
+in % d. Unt. m. off. KI-St.
+in % d. Unt. m. off. KI-Stellen
+in % d. Unt. m. off. KI-St.
+Quelle: Deutsche Innovationserhebung 2019, Zusatzbefragung KI 2019/2020. Berechnungen des ZEW.
+[Page #35]
+33 ANHANG
+5. Anhang
+5.1. Datenbasis
+Die in dieser Studie dargestellten Angaben zum Einsatz von Künstlicher Intelligenz in der deutschen Wirtschaft beruhen auf einer Sonderauswertung der Deutschen Innovationserhebung des Jahres 2019 sowie einer Zusatzbefragung jener Unternehmen, die in dieser Erhebung angegeben haben, KI im Jahr 2019 eingesetzt zu haben. Die Angaben aus der Innovationserhebung und der Zusatzbefragung wurden mit Hilfe von Unternehmens-, Beschäftigten- und Umsatzhochrechnungsfaktoren auf die Grundgesamtheit der Unternehmen im Berichtskreis der Innovationserhebung hochgerechnet. Der Berichtskreis umfasst Unternehmen mit 5 oder mehr Beschäftigten in der produzierenden Industrie (WZ 5-39) und in überwiegend unternehmensorientierten Dienstleistungen (WZ 46, 49-53, 58-66, 69, 70.2, 71-74, 78-82). Alle Angaben beziehen sich damit auf diesen Ausschnitt der deutschen Wirtschaft.
+Die Deutsche Innovationserhebung ist eine repräsentative Erhebung, die auf einer geschichteten Zufallsstichprobe mit disproportionalen Ziehungswahrscheinlichkeiten beruht. An der Erhebung des Jahres 2019 beteiligten sich 8.821 Unternehmen. Die Deutsche Innovationserhebung ist Teil des europaweiten Community Innovation Surveys (CIS) der Europäischen Kommission und der deutsche Beitrag zur in EU_VO 995/2012 geregelten europäischen Innovationsstatistik.
+Der Fragebogen der Deutschen Innovationserhebung 2019 enthielt einen kurzen Fragenblock zum Einsatz von KI im Unternehmen, der in nachstehender Abbildung abgedruckt ist.
+Abb. 5-1: Fragenblock zu KI in der Deutschen Innovationserhebung 2019
+567 Unternehmen, die in der Deutschen Innovationserhebung angegeben hatten, im Jahr 2019 KI im Unternehmen eingesetzt zu haben, wurden in die Stichprobe für die Zusatzbefragung aufgenommen. Die Zusatzbefragung fand von Mitte November 2019 bis Mitte Januar 2020 in Form einer telefonischen Befragung (computer-assistiertes Telefoninterview - CATI) statt und wurde vom Institut für angewandte
+[Page #36]
+ ANHANG 34
+Sozialwissenschaft (infas) durchgeführt, einem Projektbeteiligten im Konsortium der Deutschen Innovationserhebung. Angesprochene in den Unternehmen waren die Personen, die den Fragebogen der Innovationserhebung beantwortet haben. Allerdings wurde eingangs zum Telefoninterview erfragt, ob es zum Thema KI eigens zuständige Person im Unternehmen gibt und gegebenenfalls das Interview mit dieser Person geführt.
+Von den 567 Unternehmen haben 368 (65 %) verwertbare Angaben in der Zusatzbefragung gemacht. Für die 199 Unternehmen der Stichprobe für die Zusatzbefragung, die keine verwertbaren Angaben gemacht haben, wurden die Angaben anhand von branchen- und größenklassenspezifischen Mittelwerten imputiert. Die Angaben der KI einsetzenden Unternehmen wurden auf die Grundgesamtheit der Unternehmen in Deutschland mit KI-Einsatz im Jahr 2019 im Berichtskreis der Innovationserhebung hochgerechnet. Diese Grundgesamtheit wurde aus der Haupterhebung der Innovationserhebung anhand der Angaben zu Frage 12.4 (vgl. Abb. 5-1) geschätzt und beläuft sich auf rund 17.500 Unternehmen. Der durchschnittliche Hochrechnungsfaktor beträgt 31. Die Imputationen sowie die Hochrechnung der Angaben bedingt eine statistische Ungenauigkeit, die umso höher ist, je seltener das betrachtete Merkmal auftritt und je höher die Streuung der Angaben der Unternehmen ist. Besonders hoch ist die statistische Ungenauigkeit für quantitative Indikatoren wie Ausgaben, Beschäftigtenzahl und Umsätze.
+Die Erfassung des Einsatzes von KI in Unternehmen der deutschen Wirtschaft im Rahmen der Innovationserhebung hat den Vorteil, dass - im Gegensatz zu einer Spezialbefragung zu dem Thema - eine Verzerrung bezüglich der Teilnahme von KI-aktiven und nicht KI-aktiven Unternehmen ausgeschlossen werden kann. Die hochgerechneten Ergebnisse geben - bei einem gewissen statistischen Hochrechnungsfehler - ein repräsentatives Gesamtbild der Nutzung von KI in der deutschen Wirtschaft. In einer Spezialbefragung zum Thema KI ist es dagegen sehr wahrscheinlich, dass KI-aktive Unternehmen überdurchschnittlich häufig teilnehmen werden, während nicht KI-aktive Unternehmen sehr häufig von einer Teilnahme absehen, da das Thema sie nicht betrifft. Für Spezialbefragungen müssten somit Nichtteilnehmer-Korrekturverfahren herangezogen werden, das zusätzliche Informationen zum KI-Einsatz in nicht teilnehmenden Unternehmen voraussetzt.
+[Page #37]
+35 ANHANG
+5.2. Branchengruppen
+Die Ergebnisse sind nach elf Branchengruppen gegliedert, die auf Basis der Abteilungen der Wirtschaftszweigsystematik (WZ) 2008 abgegrenzt sind:
+Tabelle 5.1: Branchengruppen
+Kurzname
+Langname
+WZ-Abteilungen
+Informations- und Kommunikations-technologien
+26, 61 bis 63
+(Herstellung von Datenverarbeitungsgeräten, elektronischen und optischen Erzeugnissen, Telekommunikation, Erbringung von Dienstleistungen der Informationstechnologie, Informationsdienstleistungen)
+IKT
+Chemie-, Pharma- und Grundstoff-industrie
+19 bis 23
+(Mineralölverarbeitung, Herstellung von chemischen und pharmazeutischen Erzeugnissen, Gummi- und Kunststoffwaren, Glas und Glaswaren sowie Keramik, Verarbeitung von Steinen und Erden)
+Chemie/ Ph., Gr.st.
+Elektrotechnik und Maschinenbau
+27, 28
+(Herstellung von elektrischen Ausrüstungen, Maschinenbau)
+Elektrot./ Maschin.b.
+Fahrzeugbau
+29, 30
+(Herstellung von Kraftwagen und Kraftwagenteilen, sonstiger Fahrzeugbau)
+Fahrzeug-bau
+Sonst. Verarb. Gew.
+Sonstiges Verarbeitendes Gewerbe
+10 bis 18, 24, 25, 31 bis 33
+(Herstellung von Nahrungs- und Futtermitteln, Getränken, Tabakwaren, Textilien, Bekleidung, Leder, Lederwaren, Schuhen, Holzwaren, Papier und Papierwaren, Druckerzeugnissen, Metallen und Metallwaren, Möbeln sowie sonstigen Waren, Reparatur und Installation von Maschinen und Ausrüstungen)
+Ver-/ Entsorg., Bg.b.
+Ver- und Entsorgung, Bergbau
+5 bis 9, 35 bis 39
+(Bergbau, Gewinnung von Steinen und Erden, Energie- und Wasserversorgung, Abwasser- und Abfallentsorgung)
+Großhandel
+Großhandel
+46
+(Großhandel, ohne Handel mit Kraftfahrzeugen)
+Verkehr, Logistik
+Verkehr und Logistik
+49 bis 53
+Landverkehr, Schifffahrt, Luftfahrt, Lagerei, Erbringung sonstiger Dienstleistungen für den Verkehr)
+Untern.nahe Dienstl.
+Unternehmensnahe Dienstleistungen
+58 bis 60, 69, 70.2, 71 bis 74
+(Verlagswesen, Filmherstellung, Tonstudios, Kinos, Rundfunkveranstalter, Rechts- und Steuerberatung, Wirtschaftsprüfung, Public-Relations- und Unternehmensberatung, Architektur- und Ingenieurbüros; technische, physikalische und chemische Untersuchung, Forschung und Entwicklung, Werbung und Marktforschung, sonstige freiberufliche, wissenschaftliche und technische Tätigkeiten)
+Finanz-dienstleist.
+Finanzdienst-leistungen
+64 bis 66
+(Erbringung von Finanzdienstleistungen, Versicherungen, mit Finanz- und Versicherungsdienstleistungen verbundene Tätigkeiten)
+Sonst. Dienstleist.
+Sonstige Dienstleistungen
+78 bis 82
+(Vermittlung und Überlassung von Arbeitskräften, Reisebüros und Reiseveranstalter, Wach- und Sicherheitsdienste, Detekteien, Gebäudebetreuung, Garten- und Landschaftsbau, Erbringung von sonstigen wirtschaftlichen Dienstleistungen für Unternehmen und Privatpersonen)
+[Page #38]
+ ANHANG 36
+5.3. Fragebogen der Zusatzbefragung
+Im Folgenden ist der Fragebogen der Zusatzbefragung zum Einsatz von KI dargestellt. Der Fragebogen wurde als computergestützte Telefonbefragung (CATI) umgesetzt, d.h. die Fragen wurden für das Telefoninterview noch um Einleitungen und gegebenenfalls Erläuterungen und Interviewhinweise ergänzt.
+[Page #39]
+37 ANHANG
+[Page #40]
+ ANHANG 38
+[Page #41]
+39 ANHANG
+[Page #42]
+bmwi.de
