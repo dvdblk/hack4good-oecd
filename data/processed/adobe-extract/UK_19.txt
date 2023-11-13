@@ -1,0 +1,272 @@
+Essential Digital Skills Methodology
+Sample
+Fieldwork dates
+Fieldwork methodology
+Caveats to changing framework
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+UK Representivity and Population Estimates
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/summary
+https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/annual midyearpopulationestimates/mid2020
+oflabourmarketstatistics
+Impairment classification
+Ethnicity classification
+Employment classification
+Internet access question
+Impact of higher cost of living question
+A new question was asked to participants in the 2022 survey to understand how they perceive that the ongoing cost of living crisis in the UK has impacted their use of the internet and other online activities:
+Given the increasing cost of living in the UK driven by higher prices on goods and services such as food, energy and fuel, which of the following apply to you?
+1. I will have to give up internet or mobile data to be able to afford my other bills
+2. I will have to look for cheaper internet or mobile data plans to be able to afford my other bills
+3. I have already taken steps to reduce costs associated with internet or mobile data usage to allow me to continue to afford my other bills
+4. I will have to make more use of public Wi-Fi hotspots to save my mobile data
+5. I will need to rely more heavily on libraries or community centres for device usage or free Wi-Fi
+6. I will not be able to afford to start using an internet or mobile data plan of my own
+7. The rising cost of living has no impact on my ability to go online
+In the report, "NET: The rising cost-of-living will impact my ability to go online" is a combination of codes 1-6.
+Essential Digital Skills 2022 Tasks
+The Foundation Level
+•
+•
+•
+•
+•
+•
+•
+•
+EDS for Life
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+EDS for Work
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+• You can be careful with what you share online as you know that online activity produces a permanent record that can be accessed by others (e.g. publicly shared photos, forums, personal information or opinions)
+Please contact us at (<mailto:digitalskillsinclusion@lloydsbanking.com>)digitalskillsinclusion@lloydsbanking.com for more details on the Essential Digital Skills 2022 survey.
+Essential Digital Skills Survey Unweighted Sample Size
+Sensory (vision or hearing) n=476
+Physical n=748
+Learning or memory n=541
+Mental health n=440
+Impairment (net) n=1362
+No impairment n=2682
+Digitally Disengaged (0 tasks for
+Foundation)
+n=llO
+On the cusp (6-7 Foundation Level
+tasks) n=370
+On the cusp of EDS for Life (22-25
+tasks) n=1233
+Can do 1-15 Life tasks n=309
+Cannot do any 26 Life tasks n=119
+Can do all 26 Life tasks n=2029
+Unemployed group n=531
+UK Labour Force group n=2981
+Foundation and Life EDS total:
+n=4,099
+Work EDS total n=2,891
+Foundation and Life EDS by
+region:
+East Midlands n=271
+East England n=366
+London n=488
+North East: n=141
+North West n=436
+South East n=552
+South West n=305
+West Midlands n=324
+Yorkshire and the Humber n=323
+Scotland n=467
+Walesn=248
+England n=3206
+Northern Ireland n=178
+Work EDS by region:
+East Midlands n=207
+East England n=266
+London n=409
+North East n=102
+North West n=326
+South East n=388
+South West n=203
+West Midlands n=253
+Yorkshire and the Humber n=224
+Scotland n=318
+Walesn=145
+England n=2378
+Northern Ireland n=140
+Essential Digital Skills Population Estimates Confidence Intervals Data within EDS 2022 ReQort -based on ONS 2020 mid-Łear stats for the UK 18+
+﻿Reference  ,Percentage  results  ,Estimated  Grossed Figure  (millions)  ,Lower  Confidence  Interval  (millions)  ,,Upper  Confidence  Interval  (millions)  I  
+The Foundation Level (8 Foundation tasks)  ,80%  ,42.7  ,,41.8  ,43.1  
+Without The Foundation Level (0-7 Foundation  tasks)  ,20%  ,10.2  ,,9.8  ,11.1  
+No Foundation (0 Foundation tasks)  ,4%  ,2.4  ,,2.1  ,2.7  
+Those on the cusp (6-7 Foundation tasks)  ,9%  ,4.8  ,,4.5  ,5.5  
+Partial Foundation Level (1-7 Foundation tasks)  ,15%  ,7.8  ,,7.5  ,8.6  
+I can turn on the device and enter any account  login information as required  ,92%  ,48.4  ,,48.0  ,48.9  
+"I can use the available controls on my device (e.g.  mouse, keyboard, touchscreen, trackpad)  ",93%  ,49.0  ,,48.6  ,49.5  
+"I can use the different settings on my device to  make it easier to use (e.g. adjust font size, volume  settings, brightness of screen, voice activation or  screen readers)  ",90%  ,47.6  ,,47.1  ,48.0  
+"I can find and open different applications  /programmes/platforms on my devices (e.g  opening a web browser, messaging applications)  ",90%  ,47.9  ,,47.4  ,48.3  
+"I can set up connection to a Wi-Fi network on my  devices (e.g when at home, work, out in public or  visiting family and friends)  ",87%  ,46.1  ,,45.6  ,46.7  
+"I can open an internet browser to find and use  websites (e.g Safari, Google Chrome, Mozilla  Firefox, Microsoft Edge)  ",92%  ,48.6  ,,48.2  ,49.0  
+I can keep my login information and passwords for  a device and any accounts secure (e.g not shared  with anyone or written down or left prominently  near a device)  ,90%  ,47.6  ,,47.1  ,48.0  
+I can update and change my password when  prompted to do so  ,91%  ,47.9  ,,47.4  ,48.4  
+I cannot turn on the device and enter any account login information as required  ,8%  ,4.5  ,,4.0  ,4.9  
+"I cannot use the available controls on my device  (e.g mouse, keyboard, touchscreen, trackpad)  ",7%  ,3.9  ,,3.4  ,4.3  
+"I cannot use the different settings on my device to  make it easier to use (e.g adjust font size, volume  settings, brightness of screen, voice activation or  screen readers)  ",10%  ,5.3  ,,4.9  ,5.8  
+"I cannot find and open different applications  /programmes/platforms on my devices (e.g.  opening a web browser, messaging applications)  ",10%  ,5.0  ,,4.6  ,5.5  
+"I cannot set up connection to a Wi-Fi network on my devices (e.g. when at home, work, out in public  or visiting family and friends)  ",13%  ,6.7  ,,6.2  ,7.2  
+"I cannot open an internet browser to find and use  websites (e.g. Safari, Google Chrome, Mozilla  Firefox, Microsoft Edge)  ",8%  ,4.3  ,,3.9  ,4.7  
+I cannot keep my login information and passwords  for a device and any accounts secure (e.g. not  shared with anyone or written down or left  prominently near a device)  ,10%  ,5.3  ,,4.8  ,5.8  
+I cannot update and change my password when  prompted to do so  ,9%  ,5.0  ,,4.5  ,5.5  
+
+﻿Digitally Disengaged (0 Foundation tasks)  ,4%  ,2.4  ,2.1  ,2.7  
+Those on the cusp (6-7 Foundation tasks tasks)  ,9%  ,4.8  ,4.5  ,5.5  
+Life EDS (5 Life skills)  ,88%  ,46.5  ,46.0  ,47.1  
+Without Life EDS (0-4 Life skills)  ,12%  ,6.4  ,5.8  ,6.8  
+Zero Life Skills  ,5%  ,2.7  ,2.2  ,3.0  
+Partial Life Skills (1-4 Life skills)  ,7%  ,3.7  ,3.3  ,4.1  
+Those who cannot do any 26 Life Tasks  ,5%  ,2.7  ,2.2  ,3.0  
+Those who can do all 26 Life Tasks  ,47%  ,25.1  ,24.2  ,25.8  
+Work EDS (5 Work skills)  ,78%  ,31.6  ,30.8  ,31.8  
+Without Work EDS (0-4 Work skills)  ,22%  ,8.6  ,8.4  ,9.4  
+Zero Work Skills  ,8%  ,3.2  ,3.0  ,3.6  
+Partial Work Skills (1-4 Work skills)  ,14%  ,5.4  ,5.1  ,6.1  
+Those not employed and have the Foundation  Level  ,78%  ,6.0  ,5.7  ,6.2  
+Those not employed and do not have the  Foundation Level  ,22%  ,1.6  ,1.4  ,1.9  
+UK Average and have the Foundation Level  ,80%  ,42.7  ,41.8  ,43.1  
+UK Average and do not have the Foundation Level  ,20%  ,10.2  ,9.8  ,11.1  
+Those employed and have the Foundation Level  ,90%  ,29.7  ,29.1  ,29.9  
+Those employed and do not have the Foundation  Level  ,10%  ,2.9  ,2.7  ,3.5  
+Those not employed and have Life EDS  ,86%  ,6.5  ,6.3  ,6.8  
+Those not employed and do not have Life EDS  ,14%  ,1.1  ,0.8  ,1.3  
+UK Average and have Life EDS  ,88%  ,46.5  ,46.0  ,47.1  
+UK Average and do not have Life EDS  ,12%  ,6.4  ,5.8  ,6.8  
+Those employed and have Life EDS  ,95%  ,30.9  ,30.5  ,31.1  
+Those employed and do not have Life EDS  ,5%  ,1.7  ,1.5  ,2.1  
+Those not employed and have Work EDS  ,60%  ,4.6  ,4.2  ,4.9  
+Those not employed and do not have Work EDS  ,40%  ,3.0  ,2.7  ,3.4  
+Those employed and have Work EDS  ,82%  ,27.0  ,25.8  ,27.8  
+Those employed and do not have Work EDS  ,18%  ,5.6  ,4.7  ,6.8  
+Those not employed and do not have the  Foundation Level  ,22%  ,1.6  ,1.4  ,1.9  
+
+﻿Those not employed and cannot do any  Foundation tasks  ,4%  ,0.3  ,0.2  ,0.4  
+Those not employed and do not have Life EDS  ,14%  ,1.1  ,0.8  ,1.3  
+Those not employed and can do all 20 Work Tasks  ,33%  ,2.5  ,2.2  ,2.8  
+Those not employed and cannot do any Work  Tasks  ,20%  ,1.6  ,1.3  ,1.8  
+
+Data within EDS 2022 Ai;mendix -based on ONS 2020 mid-11ear stats for the UK 18+
+﻿Reference  ,Percentage  results  ,Estimated  Grossed Figure  (millions)  ,Lower  Confidence  Interval  ,Upper  Confidence  Interval  I  
+Has Communicating Skill (Life)  ,94%  ,49.5  ,49.2  ,49.9  
+Has Handling Information and Content Skill (Life)  ,93%  ,49.3  ,49.0  ,49.8  
+Has Transacting Skill (Life)  ,92%  ,48.5  ,48.1  ,48.9  
+Has Problem Solving Skill (Life)  ,90%  ,47.4  ,47.0  ,48.0  
+Has Being Safe and Legal Online Skill (Life)  ,94%  ,49.6  ,49.3  ,50.0  
+Does not have Communicating Skill (Life)  ,6%  ,3.4  ,3.0  ,3.7  
+Does not have Handling Information and Content Skill  (Life)  ,7%  ,3.5  ,3.0  ,3.9  
+Does not have Transacting Skill (Life)  ,8%  ,4.4  ,4.0  ,4.8  
+Does not have Problem Solving Skill (Life)  ,10%  ,5.5  ,4.9  ,5.9  
+Does not have Being Safe and Legal Online Skill (Life)  ,6%  ,3.3  ,2.9  ,3.6  
+"I can set up accounts which help me communicate  online (e.g. email, social media, forums)  ",85%  ,45.2  ,44.6  ,45.7  
+"I can communicate with others digitally using email or other messaging applications (e.g. WhatsApp or  Messenger, direct messaging on social media such as  lnstagram, Facebook etc)  ",91%  ,48.3  ,47.9  ,48.8  
+"I can use software to create, write or edit documents  (e.g. Microsoft Word/ Google docs/ Pages for a  CV/letter)  ",80%  ,42.3  ,41.7  ,43.0  
+"I can share files or links with others by attaching to an  email, uploading to a website or an application (e.g.  proof of address/ identity, sharing an image, or link via  WhatsApp)  ",85%  ,44.7  ,44.2  ,45.4  
+"I can make and receive video calls (e.g. Facetime, Zoom,  Facebook Portal or WhatsApp call)  ",86%  ,45.7  ,45.2  ,46.2  
+"I can post messages, photographs, videos or biogs on  social media platforms (e.g. Facebook, lnstagram, Tik  Tok, Twitter or Snapchat)  ",80%  ,42.2  ,41.6  ,42.9  
+"I can recognise what information or content online may,  or may not, be trustworthy (e.g. fact checked  information, ""fake news"" or assess the trustworthiness of a company based on customer reviews)  ",85%  ,44.9  ,44.2  ,45.3  
+"I can use search engines to find information I'm looking  for (e.g. search for news, the weather, train times)  ",92%  ,48.4  ,47.9  ,48.9  
+"I can store and back up photos, messages, documents or  other information (e.g. iCloud, Google Drive, Dropbox,  OneDrive, desktop or storage drive)  ",82%  ,43.4  ,42.6  ,43.9  
+
+﻿"I can use the cloud to access content from different  devices (e.g. smartphone, tablet, laptop and desktop)  ",72%  ,38.2  ,37.4  ,38.9  
+"I can use the internet to stream or download  entertainment content (e.g. films, TV series, music, games or books through services like You Tube, Spotify,  Netflix, BBC iPlayer)  ",85%  ,44.9  ,44.2  ,45.3  
+"I can set up an account online that enables me to buy  goods or services (e.g. Amazon, eBay, supermarkets or  other retailers)  ",87%  ,46.0  ,45.4  ,46.4  
+"I can fill in forms online to access the services I need (e.g.  Voting registration, ordering repeat prescriptions,  booking doctor appointments, booking train tickets or  beauty appointments)  ",86%  ,45.6  ,45.0  ,46.2  
+"I can buy goods/services online using online payments  (e.g. Debit/ credit card, PayPal, Apple Pay, Google Pay,  Worldpay)  ",87%  ,46.2  ,45.6  ,46.7  
+"I can manage my money and transactions online (e.g.  View balance or transfer funds via internet or transfer  funds via internet or mobile banking app, manage  spending through PayPal account, manage payments  on finance plan)  ",84%  ,44.8  ,44.0  ,45.2  
+"I can use the internet to find information that helps me  solve problems (e.g. by using search engines, web chat,  FAQs and forums)  ",88%  ,46.2  ,45.8  ,46.8  
+"I can use the internet to improve my skills and ability to  do new things (e.g. using online tutorials, learning  platforms and how-to guides)  ",82%  ,43.6  ,43.0  ,44.2  
+"I can act with caution online and understand that there  are risks and threats involved in carrying out activities  online (e.g. use anti-virus software, classify and share  information securely or avoid certain types of websites such as piracy websites)  ",89%  ,47.0  ,46.4  ,47.5  
+"I can set privacy and marketing settings for websites and  my accounts (e.g. managing social media privacy  settings, managing cookie settings, updating contact  preferences)  ",78%  ,41.6  ,40.8  ,42.1  
+"I can follow data protection guidelines online (e.g.  following data storage and retention guidelines, not sharing or using other people's data or media such as  movies or music without their consent)  ",85%  ,44.8  ,44.1  ,45.3  
+"I can respond to requests for authentication for online  accounts (e.g. resetting my password when I've  forgotten it, two factor authentication, using a remote  access key or an authenticator app)  ",85%  ,45.2  ,44.6  ,45.7  
+I can identify secure websites (e.g. by looking for the  padlock and 'https' in the address bar)  ,83%  ,43.9  ,43.4  ,44.5  
+"I can recognise suspicious links and know that clicking  on these links or downloading unfamiliar attachments is  a risk (e.g. spam/ phishing emails, texts, pop ups)  ",89%  ,47.0  ,46.4  ,47.5  
+"I can update my device software/ operating systems  when necessary to prevent viruses and other risks (e.g.  enabling automatic updates, or installing when  prompted to do so)  ",85%  ,44.9  ,44.2  ,45.4  
+"I can identify secure Wi-Fi networks to connect to (e.g.  Wi-Fi networks where a unique password is required,  trusted source or padlock next to Wi-Fi network)  ",83%  ,43.8  ,43.0  ,44.3  
+"I can be careful with what I share online as I know that  online activity produces a permanent record that can be  accessed by others (e.g. publicly shared photos, forums, personal information or opinions)  ",89%  ,47.0  ,46.5  ,47.5  
+"I cannot set up accounts which help me communicate  online (e.g. email, social media, forums)  ",15%  ,7.7  ,7.2  ,8.3  
+
+﻿"I cannot communicate with others digitally using email  or other messaging applications (e.g. WhatsApp or Messenger, direct messaging on social media such as  lnstagram, Facebook etc)  ",,9%  ,,4.6  ,,4.0  ,5.0  
+"I cannot use software to create, write or edit documents  (e.g. Microsoft Word/ Google docs/ Pages for a  CV/letter)  ",,20%  ,,10.5  ,,9.9  ,11.2  
+"I cannot share files or links with others by attaching to an  email, uploading to a website or an application (e.g.  proof of address/ identity, sharing an image, or link via  WhatsApp)  ",15%  ,,8.1  ,,7.5  ,,8.7  
+"I cannot make and receive video calls (e.g. Facetime,  Zoom, Facebook Portal or WhatsApp call)  ",14%  ,,7.1  ,,6.7  ,,7.7  
+"I cannot post messages, photographs, videos or biogs on  social media platforms (e.g. Facebook, lnstagram, Tik  Tok, Twitter or Snapchat)  ",20%  ,,10.7  ,,10.0  ,,11.3  
+"I cannot recognise what information or content online  may, or may not, be trustworthy (e.g. fact checked  information, ""fake news"" or assess the trustworthiness of  a company based on customer reviews)  ",15%  ,,8.0  ,,7.6  ,,8.7  
+"I cannot use search engines to find information I'm  looking for (e.g. search for news, the weather, train  times)  ",9%  ,,4.5  ,,4.0  ,,4.9  
+"I cannot store and back up photos, messages,  documents or other information (e.g. iCloud, Google  Drive, Dropbox, OneDrive, desktop or storage drive)  ",18%  ,,9.5  ,,9.0  ,,10.3  
+"I cannot use the cloud to access content from different  devices (e.g. smartphone, tablet, laptop and desktop)  ",28%  ,,14.7  ,,14.0  ,,15.4  
+"I cannot use the internet to stream or download  entertainment content (e.g. films, TV series, music,  games or books through services like You Tube, Spotify,  Netflix, BBC iPlayer)  ",15%  ,,8.0  ,,7.6  ,,8.7  
+"I cannot set up an account online that enables me to buy  goods or services (e.g. Amazon, eBay, supermarkets or  other retailers)  ",13%  ,,6.9  ,,6.4  ,,7.5  
+"I cannot fill in forms online to access the services I need  (e.g. Voting registration, ordering repeat prescriptions,  booking doctor appointments, booking train tickets or beauty appointments)  ",14%  ,,7.3  ,,6.7  ,,7.9  
+"I cannot buy goods/services online using online  payments (e.g. Debit/ credit card, PayPal, Apple Pay,  Google Pay, Worldpay)  ",13%  ,,6.7  ,,6.2  ,,7.3  
+"I cannot manage my money and transactions online  (e.g. View balance or transfer funds via internet or  transfer funds via internet or mobile banking app,  manage spending through PayPal account, manage  payments on finance plan)  ",16%  ,,8.1  ,,7.7  ,,8.9  
+"I cannot use the internet to find information that helps  me solve problems (e.g. by using search engines, web  chat, FAQs and forums)  ",12%  ,,6.7  ,,6.1  ,,7.1  
+"I cannot use the internet to improve my skills and ability  to do new things (e.g. using online tutorials, learning  platforms and how-to guides)  ",18%  ,,9.3  ,,8.7  ,,9.9  
+"I cannot act with caution online and understand that  there are risks and threats involved in carrying out  activities online (e.g. use anti-virus software, classify and  share information securely or avoid certain types of  websites such as piracy websites)  ",11%  ,,5.9  ,,5.4  ,,6.4  
+"I cannot set privacy and marketing settings for websites  and my accounts (e.g. managing social media privacy  settings, managing cookie settings, updating contact  preferences)  ",22%  ,,11.3  ,,10.7  ,,12.1  
+
+﻿"I cannot follow data protection guidelines online (e.g.  following data storage and retention guidelines, not  sharing or using other people's data or media such as  movies or music without their consent)  ",16%  ,8.1  ,7.6  ,8.8  
+"I cannot respond to requests for authentication for  online accounts (e.g. resetting my password when I've forgotten it, two factor authentication, using a remote  access key or an authenticator app)  ",15%  ,7.7  ,7.1  ,8.3  
+I cannot identify secure websites (e.g. by looking for the padlock and 'https' in the address bar)  ,17%  ,8.9  ,8.4  ,9.5  
+"I cannot recognise suspicious links and know that  clicking on these links or downloading unfamiliar  attachments is a risk (e.g. spam/ phishing emails, texts,  pop ups)  ",11%  ,5.9  ,5.4  ,6.5  
+"I cannot update my device software/ operating systems when necessary to prevent viruses and other risks (e.g.  enabling automatic updates, or installing when  prompted to do so)  ",15%  ,8  ,7.5  ,8.7  
+"I cannot identify secure Wi-Fi networks to connect to  (e.g. Wi-Fi networks where a unique password is  required, trusted source or padlock next to Wi-Fi  network)  ",17%  ,9.1  ,8.6  ,9.9  
+"I cannot be careful with what I share online as I know  that online activity produces a permanent record that  can be accessed by others (e.g. publicly shared photos,  forums, personal information or opinions)  ",11%  ,5.9  ,5.4  ,6.4  
+

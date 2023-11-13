@@ -1,0 +1,376 @@
+Skills Foresighting – Automotive Industrial Digitisation Case Study
+John Lanham, Paul Shakspeare (HVMC), Neill Goodliffe (Enginuity)
+December 2020
+Summary
+This paper presents the process and outputs of a skills foresighting project undertaken by HVM Catapult and Enginuity with the support of the Gatsby Foundation. The objective of the project was to identify the future competencies required in the workforce as industrial digitisation technologies are adopted in automotive manufacturing.
+The foresight concept arose from a recommendation in the report produced by an international study of the roles of Centres of Innovation and their training networks carried out by HVM Catapult with others in 2018/19. An initial proof of concept activity during the autumn of 2019 focused on aerospace composites technology and a second foresight project was undertaken in the spring of 2020 addressing industrial digitisation for aerospace and automotive manufacturing. (Copies of the reports on both projects can be obtained from HVMC by contacting workforce@hvm.catapult.org.uk). Following the second, cross sector, study this project was undertaken to refine insight into the industrial digitisation competencies required in automotive manufacturing with a particular focus on production and shop floor activities.
+The initial step of the project drew upon the expertise of researchers at the Institute of Digital Engineering1 to identify the industrial digitisation technology and capabilities required in an automotive manufacturing organisation. The next step utilised expertise from employers in the Automotive Council Skills Working Group to prioritise technology capabilities and align them to role groups in the future workforce. Additionally, an expert group from education (HE, FE and industry) defined the individual competencies required in the future workforce to deliver the required organisational capabilities. The future workforce competency sets generated were then mapped and evaluated with reference to relevant standards from the Institute for Apprenticeships and Technical Education (IFATE).
+All the steps in the foresight process were undertaken using on-line/virtual meetings which necessitated the adaptation of existing face-to-face workshop activities and the trialing of a number of software packages including on-line whiteboards, web-based polling and spreadsheets to capture and share information. The project commenced at the end of August 2020 and the employer and educator workshops took place in September and October. Mapping and gap analysis took place in November using the previous manual methods and a pilot Artificial Intelligence/Natural Language Processing (NLP) model. Project review, evaluation and reporting was undertaken in December 2020.
+The future competency sets developed for all role groups confirm the need for the following key competencies: digital literacy, competency with tools and systems to manipulate and analyse large data sets; programing and use of automated / robotic systems, reconfigure production cells/systems; product / process monitoring using embedded/integrated sensors, Industrial Internet of Things; digital work instruction tools and AR/VR systems for production operators/support; secure access, storage and exchange of digital data.
+The mapping and gap analysis step using a range of existing IFATE standards again highlighted that many of the current engineering and manufacturing standards lack digital elements and correspondingly existing digital standards lack specific manufacturing competencies.
+Contents
+1. Introduction – Industrial Digitisation for UK Automotive Manufacturing
+2. The foresighting process – the logic and steps of foresighting
+3. Analysis of future skills needs for industrial digitisation
+4. Recommendations for action on education and training for industrial digitisation
+5. Process review, comments and next steps
+6. Annex 1 – Summary of outcomes from this Foresight cycle.
+1. Introduction –
+In common with other sectors and industries the UK automotive sector has identified the deployment of “digital” technologies as both a priority challenge and key enabler to ensure competitiveness. The Society of Motor Manufacturers and Traders (SMMT) and KPMG report, Digitalisation of the UK Auto Industry2 (<>), outlines the challenges of adopting digital working practices, but also illustrates some of the benefits that can be achieved through sector wide digital working. The benefits of effective digitisation are shown in the graphic of Figure 1.
+Figure 1- SMMT Report Digitalisation of the UK Auto Industry2
+The SMMT/KPMG report highlights significant implications for upskilling and retraining the workforce. The biggest barrier, identified by employers interviewed for the report, was cited as equipping their workforce with the necessary knowledge and skills – nearly 50% cite lack of necessary knowledge and skills -Figure 2.
+Figure 2 Implementation Barrier(<>)s
+The automotive sector digitisation initiative links with other UK activities including the Made Smarter3 and Industrial Strategy Challenges4 which are focused on national, cross sector adoption of Industrial Digitisation and Industry 4.05 technologies. The SMMT/KPMG report, and other studies, breakdown the broad heading of ‘digitalisation’ into a range of technologies, both hardware and software and these are summarised in Figure 3.
+Figure 3 - Automotive Digitalisation Technologie(<>)s
+Details of the data produced by the project are in Annex 1 with the key findings and outcomes summarised in section 3 and 4.
+2. The Foresighting Process
+Why Foresight ? - Manufacturing the Future Workforce Report
+Working with the Gatsby Foundation, TWI and NPL, the High Value Manufacturing Catapult (HVMC) published in January 2020 the report of an international study of good practice in Centres of Innovation when working with their education and training networks 6 . The report concludes that systematic changes are required to ensure the UK develops a skilled workforce able to meet the demands of a dynamic and challenging global manufacturing marketplace.
+A major recommendation is to implement the ‘Skills Value Chain’ (SVC). The SVC aligns the skills development of the future workforce with the needs and opportunities of emerging and more productive technologies. By involving technology, education and employer groups in a coherent and connected way the SVC delivers value for all stakeholders.
+The SVC (<>)(Figure 4) approach links technology strategy to future workforce requirements, highlighting where new standards, qualifications and upskilling courses are required for the current workforce using modular training and learning-through-work approaches. It also captures the essential step of investing in those that will teach new content and scale-up provision as demand grows and technology diffusion occurs.
+Skills Value Chain (SVC)
+Figure 4 - Skills Value Chain
+What is the Foresighting Process
+establish need) Curate (and create resources) Define roles, occupations and standards Develop modular curriculum and content Convene (to establish need) Foresight future workforce capability Define roles, occupations and standards
+The initial step of the SVC approach involves foresighting future workforce requirements by identifying the ‘future state’ competencies necessary to enableCurate (and create resources) Deliver (and diffuse) industry to adopt and exploit emerging technology capabilities, such as industrialDeliver (and diffuse)Develop Set-up Deliver digitisation. These future workforce competencies can then be evaluated against theassurance, early stage curriculum validation and trainingcooperating cooperating validation and training known ‘current state’ and subsequent recommendations for timely action to prevent future skills shortages can be made. The process uses a framework of structured discussions, workshops, analysis and evaluation to propose changes to standards and qualifications as well as future education and training provision at all levels.
+Using a common language, taxonomy and syntax
+A key feature of foresighting is the use of standardised vocabulary, definitions, language and syntax. As part of the international study tour in 2018 the project team met staff at the Digital Manufacturing and Design Innovation Institute in the US, now MxD, who had developed a taxonomy for digital manufacturing7 . The taxonomy provides both a reference framework and structured terminology. The value of the reference framework is that it draws upon best practice, reflects leading edge developments and so provides a guide or template for businesses engaging in digital manufacturing by highlighting facets that need to be considered – such as cyber security, clear digital leadership and safe sharing of data with supply chain partners. Additionally, the value of a structured terminology is that it provides a common vocabulary that can be used within a sector and across sectors, expressing sector specific terms with a consistent language and meaning. The foresighting process has built upon the DMDII approach and developed a set of definitions, language and syntax that is consistent but also flexible to cater for varying sectors and industries.
+Foresighting Process Steps
+Foresighting uses a systematic approach that is robust, scalable and can be applied across a wide range of manufacturing areas, and sectors and industries. An overview of the steps in this project is shown in (<>)Figure 5.
+Arising from the insights of the international study tour a key feature of the foresight process is the use of expert groups at each stage of the process.
+Specialist Technologists - drawn from industry and academia, who will identify technology priorities based on their insight and understanding of emerging and priority technology developments relevant to their industry and sector.
+Expert Educators - academics, at FE and HE level, who will identify the consequent educational priorities arising from the technology priorities based on their understanding of the knowledge, skills and behaviours that will need to be developed in an individual to enable them to fulfil the roles defined by the expert technologists.
+Expert Employers - drawn from relevant sector employers and employers’ groups to verify that the role groups and competence sets produced are fit-for-purpose across a range of employers in the supply chain – primes, tier 1, OEMs and SMEs.
+For this industrial digitisation project, the participants, by group, were –
+Specialist Technologists - from Institute of Digital Engineering, Loughborough University
+Expert Educators - 32 educators from HE, FE and employers
+Expert Employers - 18 employers from automotive sector.
+Details of the organisations/employers represented can be found in Annex 1.4
+Steps in the Industrial Digitisation for Automotive Manufacturing Foresighting Project
+STEP-1 What are the workforce trends and drivers and what are the Industry Challenges related to the emerging technology area? Are these clearly captured and agreed in strategies and roadmaps? Technology/ Industry Led 
+STEP-2  ,What Capabilities are needed by Organisations to successfully address these challenges in the future? Using the strategies as a guide to structured discussions that define capability requirements within supply chains based on common underlying cross-sector descriptions.  ,Technology/ Industry Led 
+STEP-3  ,Capability Validation & Prioritisation – Which capabilities are priority? How should the future capabilities be aligned with current and new roles? Working with employers and sector groups Capabilities are ranked and clustered.  ,Training/ Education Led 
+STEP-4 ,"What Competencies does the Workforce need to enable organisational capability in the future? Using the capability requirements, ‘Expert Educators’ assisted by technologists and industry, identify future competencies at all levels of an organisation.  ",Employer Led 
+STEP-5 ,Gap Analysis of Current Provision compared with future needs is used to propose action to be taken by Employers and Stakeholders. Future competency sets are evaluated against existing standards to identify changes required to meet future workforce requirements.  ,Training/ Education Led 
+STEP-6 ,"Validation, Prioritisation and Promotion of recommendations for action. The final step in the process closes the loop back to industry, employers and sector groups to ensure alignment of workforce proposals with technology strategies. Feedback is also provided to Educators to inform revision and updating of qualifications and programmes of study.  ",Employers & Educators 
+,Figure 5 : Foresight Process Steps  ,
+
+3. Future Skills Needs for Industrial Digitisation
+(This is a summary of findings – See Annex 1 for further details)
+STEP-1 What are the workforce trends and drivers and what are the Industry Challenges related to the emerging technology area?
+The underlying challenge facing the UK automotive sector, as with many other sectors, is agility - the ability to adapt and change rapidly to meet emerging challenges. There are many pressures facing the sector including zero-emission solutions, autonomous vehicles, reducing the lifecycle cost of products, servitisation and reducing the net environmental impact (measured by CO2 and other metrics) of products and manufacturing methods. Many of these pressures interrelate and require systems, tools, methods and crucially, a workforce, that can integrate data and information from a diverse range of sources – customers, in-service data, legislation, regulatory bodies and production systems; quickly and adaptively. Digitisation is a key enabling strategy that is critical for the future of the sector.
+STEP-2
+What Capabilities are needed by Organisations to successfully address these challenges in the future?
+For UK automotive manufacturing the key capabilities identified by the SMMT/KPMGreport are –
+− digitally based replications of physical systems that use embedded sensor systems to provide real time data
+− predictive analysis using AI/machine learning techniques that can interpret large dynamic data sets
+− embedded VR/AR solutions that allow for intuitive interaction between digital and physical worlds
+− agile production technologies that can produce directly from digital models, such as additive manufacturing
+− cyber secure data systems using Blockchain and other technologies to allow data and IP to be safely shared across the supply chain
+STEP-3
+Capability Validation & Prioritisation – Which capabilities are priority ? How should the future capabilities be aligned with current and new roles ?
+Insight from national, sector road mapping and strategic planning was provided by researchers at IDE. This material identified a number of application areas, or scenarios, to provide context for the implementation of the capabilities listed above. These were –
+Collaborative Robotics
+Vision System
+Internet of Things
+Predictive Maintenance
+Autonomous Logistics
+Connected Inventory
+Additive Manufacturing Technologies
+Machine Learning
+These scenarios were used with employers from the Automotive Skills Council to determine and prioritise specific capabilities required in three manufacturing workforce role groups:
+Technical Operator
+Junior Engineer
+Senior Engineer
+Incorporating feedback and experience from a previous Foresight project in the spring of 2020 three role groups are used in foresighting align to the Engineering Council descriptors for Engineering Technician, Incorporate Engineer and Chartered Engineer 8 . Additionally, a four-level rating is used to differentiate between the proficiency required in a role group for each capability. For example – Cyber awareness is a capability that may be required across all role groups within and organisation, but at varying levels of proficiency reflecting roles and responsibilities.
+The priority capabilities identified by the employer group were – (the full set of capabilities with employer allocations can be found in Annex 1.3)
+For Technical Operators (Level 2/3) –
+• Use CAM tools to support digital manufacturing
+• Understand and apply digital ethics for handling and use of sensitive data
+• Use reconfigurable, flexible and distributed manufacturing and assembly solutions
+• Use relevant data science and data management tools and techniques to support process monitoring
+For Junior Engineers (Level 3/4) –
+• Implement CAM tools to support digital manufacturing
+• Implement digital work instruction systems that integrate with wider enterprise management system
+• Deploy digital ethics for handling and use of sensitive data
+• Implement reconfigurable, flexible and distributed manufacturing and assembly solutions
+• Implement relevant data science and data management tools and techniques to support process monitoring
+For Senior Engineers (Level 6/7) –
+• Design CAM tools to support digital manufacturing
+• Design digital work instruction systems that integrate with wider enterprise management system
+• Define and devise digital ethics for handling and use of sensitive data
+• Design reconfigurable, flexible and distributed manufacturing and assembly solutions
+• Design relevant data science and data management tools and techniques to support process monitoring
+STEP-4
+What Competencies does the Workforce need to enable organisational capability in the future?
+These capabilities and priorities were then used by Educators to determine the individual competencies required critical to the successful deployment of industrial digitisation. The corresponding priority competencies for the three role groups are -
+For Technical Operators (Level 2/3) –
+• Basic loading and editing of programmes for machine tools/automated equipment
+• Follow digital work instructions, work instruction editing/updating, capture/upload process data/KPI
+• Use reporting structure to assist in editing/up-keep of work instructions for continuous purposes
+• Use organisational policies and procedures on sensitive data, data breech policies and practices
+• Maintain data security in line with organisational policies and guidelines, report data breaches in line with organisational policies and guidelines
+• Understand modular manufacturing machines/systems, role of production planning and use of assembly tools
+• Assist with set-up and dismantling of assembly lines, monitor and maintain material flows, monitor and document line/process performance
+• Familiar with types of product/process data, sources of data - internal, external, open data sets, public and private, data formats and their importance for analysis
+For Junior Engineers (Level 3/4) –
+• Trained in using computer aided manufacturing software and tools, can make minor edits where appropriate, provide feed-back for continuous improvement activities
+• Understand relevant customer and legislative requirements, interpret and apply these to Work-Instructions
+• Works in a manner that reflects data policies and procedures within the organisation and ensure their implementation for sensitive data and effective security practices
+• Find, present, communicate and disseminate outputs effectively and with high impact through creative storytelling, tailoring the message for the audience, visualise data to tell compelling and actionable narratives, use appropriate data tools and presentation methods, make recommendations to decision makers that contribute towards the achievement of organisation goals
+• Understands the principles of modular production machines/systems, undertakes design of reconfigurable and flexible manufacturing solutions
+• Apply principles of simulation, control and optimisation of production processes and undertake regular performance reviews using a range of relevant data sets and data sources
+• Undertake production system design using simulation tools/data, combining material and information flows with appropriate control and optimisation protocols, automate manual tasks and minimise non-value adding activities
+• Computer vision and natural language processing, awareness of the computing and organisational resource constraints and trade-offs involved in selecting models, algorithms and tools, development standards, including programming practice, testing, source control
+For Senior Engineers (Level 6/7) –
+• Expert knowledge of CAM software and interface, export modes etc. manipulation of CAM tools and software, access and manipulate CAM software and files, file transfer and integrity
+• Fully understands customer and legislative requirements, interpret and apply these to Work-Instructions / shop floor working practices, company champion for relevant audits, ensure stakeholder compliance with work-instructions
+• Champions data governance, data security, and communications and applied to improve the organisation’s processes, operations and outputs
+• Understand how data and analysis may exhibit biases and prejudice, understand the ethics and how compliance affect data, and the impact of international regulations (including the General Data Protection Regulation)
+• Develop and maintain collaborative relationships at strategic and operational levels, using methods of organisational empathy (human, organisation and technical) and build relationships through active listening and trust development
+• Expert on process control and monitoring techniques and how to collate and interpret feedback data
+• Monitor market trends and customer behaviour and appropriate investment decision; develop manufacturing system architecture to enable flexible configurations, agile response
+• Maintain and currency on data systems and emerging technologies, apply statistical analysis and utilise organisational software platforms to make data driven decisions
+• Perform data engineering: create and handle datasets for analysis. Use tools and techniques to source, access, explore, profile, pipeline, combine, transform and store data, and apply governance (quality control, security, privacy) to data
+4. Recommendations for Action on Training Standards
+The insight gained from foresight process was then used to identify and prioritise recommendations for changes in the education and training of the future workforce.
+STEP-5
+Gap Analysis of Current Provision compared with future needs is used to propose action to be taken by Employers and Stakeholders.
+The future competence sets developed were mapped using 25 standards from the IFATE Engineering and Manufacturing and the Digital routeways. The results indicated that existing standards do not align closely with the future competency sets. The highest coverage was for the Level 3 Engineering Technician which was evaluated to cover ~50% of the future competences required. The lowest coverage, ~ 5%, was for the Software Development Technician against the same future competence set. The engineering standards lack a coverage of digital topics as listed above, and correspondingly the digital standards do not cover core manufacturing competences. A summary of the mapping can be found in Annex 1.2.
+Additionally, as part of this project an Artificial Intelligence / Machine Learning, model was developed by Data Scientists at Enginuity to undertake the preliminary map and gap analysis step. The model built used data from a previous Foresight project in the spring of 2020 with additional data produced by this project. (<>)Figure 6 shows steps in the approach taken to develop and apply an AI/ML model for map and gap analysis.
+Manual data creation •HMVC generate the Foresighting XLS Manual XLS standardisation •Transform the XLS in an useable for analysis •Spell check Ingestion •CSV conversion •Data structure definition •Data type definition Data Normalisation •Transform to data types •Transform to data structures Text Analysis •Text is analysed at part of speech level •Vocabulary are generated
+Figure 6: Enginuity Data Pipeline Process - Source Enginuity-HVMC internal report
+Evaluation of the outcomes from this pilot use of an AI/ML approach has identified a number of refinements for future foresight cycles including the development of a structured syntax for expressing knowledge and skills statements, inclusion of additional data fields in the machine learning model and revising the map and gap process step to adopt a hybrid, expert / machine model, approach.
+Following the map and gap evaluation activity the following upskilling gaps were identified for each role group / level.
+Technical Operators Level 2/3 –
+• Interpret and communicate data from metrology/inspection systems using digital tools/methods
+• Use digital production and process simulation/modelling tools for workflow and process improvement activities
+• Use and interrogate digital data from sensor systems for WIP/inventory tracking and monitoring
+• Use digital reporting and management tools for in-company process monitoring, supply chain partner monitoring
+Junior Engineer - Level 4 –
+• Use digital production and process simulation/modelling tools for workflow and process optimisation activities
+• Editing of machine control software and systems, safe working practices for software/controller systems
+• Support Augmented Reality/Virtual Reality systems used for work instructions/operator guidance
+• Knowledge and use of connected equipment / sensor systems to collect and manipulate production data
+Level 5 – there were no relevant standards that could be used for mapping at Level 5
+Senior Engineer Level 6 –
+• Design and implement integrated production/process/inventory monitoring and control systems
+• Implement data intensive, mathematical models of product, manufacturing processes and maintenance systems for improvement/optimisation
+• Develop and implement digital work instruction / operator guidance tools and systems
+• Undertake environmental / lifecycle evaluation of production
+Senior Engineer Level 7 -
+• Specify tools and techniques to collect, access, explore, profile, pipeline, combine, transform and store data, and apply relevant data governance (quality control, security, privacy)
+• Identify and deploy at organisation level appropriate programming languages and AI tools for data manipulation, analysis, visualisation, and system integration
+• Lead organisation wide process development/revisions to reflect regulatory, statutory requirements – eg GDPR, environmental impact
+• Develop and maintain collaborative relationships at strategic and operational levels, using methods of organisational empathy (human, organisation and technical)
+These competencies are not in the existing standards used for mapping and define the upskilling required for the current workforce, trained using existing standards and qualifications, to meet the future requirements identified.
+Additionally, this information can be used by groups reviewing standards, qualifications and existing provision to inform and guide discussion and decisions about topics that need to be included in the future.
+STEP-6
+Validation, Prioritisation and Promotion of recommendations for action.
+At each step in the Foresight process, feedback is obtained as part of the workshop activities covering the outcomes, information generated and overall workshop format/method. Additionally, the outcomes have been shared with the Automotive Skills Council, related Trailblazer group and vocational awarding organisations.
+The feedback received confirms that –
+The findings and conclusions align with sector, employer and education, expectations
+The structured approach that directly links a technology challenge, organisational capability and subsequent individual competence is seen as, effective, valuable and informative
+The use of a common language, syntax and method for classifying manufacturing organisations, role groups, proficiency and competencies is welcome as this enables a consistent approach and also sharing of information across sectors
+5. Review and Evaluation of the Process
+Next Steps
+Refining the Foresight process and Developing improved digital tools
+Project Partners
+This project has demonstrated that the foresight process:
+• is a viable approach that links technology priorities to future workforce competencies,
+• provides information for the review of existing standards or proposals for new standards,
+• can be used to identify the upskilling required to prepare the existing workforce for the future,
+• can be undertaken using on-line and web-based meetings,
+• offers benefits and value to participants and stakeholders.
+The outcomes of the project confirm that the foresight process is effective in linking technology strategies to workforce development priorities. The systematic approach establishes a clear evidential link between a technology capability and the consequent individual workforce competencies required. Additionally, the workshop approach integrates input from a number of expert groups in structured manner and provides participating groups with insight that is richer than at present.
+Mapping of the future competency sets against existing reference points; for example apprenticeship standards, provides a mechanism to inform review of these reference points and future requirements. In this project mapping was undertaken using IFATE standards but other references, for example qualification and programme specifications could be used. Additionally, gap analysis provides insight about the topics and priorities required for upskilling the current workforce to meet the needs of future technologies.
+The DMDII taxonomy was utilised to capture and express the capability statements with technologists and also to guide the educators in developing the corresponding competence statements. Further work is required on the structure, content and use of the taxonomy, but the experience in this project, and feedback from participants, confirms its value and benefit. At the start of the project the expertise of IDE was used to develop and extend the coverage of the taxonomy and this work will be extended in further foresight projects. The DMDII model has a strong focus on capabilities required for designing and setting up digital manufacturing, but
+does not address a range of operational capabilities – for example Total Quality/ Continuous Improvement. Additionally, the DMDII capabilities do not cover specific manufacturing / production technologies – for example additive layer manufacturing or a specific composite technology such as resin transfer moulding.
+The use of ‘scenarios’ i.e. technology demonstrators and applications has been identified as mechanism that can provide participants with the required focus and context in which to deliberate. Given the broad scope of industrial digitisation this is a key feature and will be integrated into the foresight process.
+Necessity, in early 2020, forced the transition to an on-line approach for the workshops and discussion sessions. Whilst this created additional challenges, the solutions developed have proved to be effective in enabling the foresight process to become more efficient. On-line working does place greater IT demands on data capture/manipulation tools, requires face-to-face workshops to be divided into shorter on-line sessions and experience indicates that groups of 6-8 are best for securing engagement and contribution. The on-line approach offers greater flexibility for scheduling and requires participants to commit 1-2 hours for a session rather than a half-day plus travel as was the norm before the pandemic. On-line workshops will continue to be used post pandemic for this reason. A critical enabler for the future is the development of a suite of IT tools that would provide faster processing of data and a more consistent approach to mapping and evaluation.
+Notwithstanding the caveats arising from the developmental nature of the processes, recommendations from this project will be provided to employer groups for consideration during standards review and to support the development of future standards, qualifications and provision in relevant manufacturing and digital cross cutting subjects.
+Foresighting offers benefits for each of the participant groups -
+For Technologists – The foresight process can provide intelligence about the overall organisation capabilities required to ensure successful adoption and deployment of a technology strategy.
+For Educators – The foresight process and wider Skill Value Chain approach provides intelligence about the topics, qualifications and upskilling requirements for education ahead of the deployment of a technology strategy.
+For Employers – the foresight process provides intelligence about the impact on the workforce, both new recruits and upskilling, as a consequence of the deployment of a technology strategy.
+In summary the refinements and further improvements identified include:
+• improvement of the foresight process to capture the learning and experience of this project,
+• a suite of digital tools based on bespoke and existing packages to support on-line participation, manipulation and analysis of the data collected and created through the foresight process,
+• the use of scenarios to provide context and focus for participants at each stage of the process,
+• further development of the use of a UK specific capability taxonomy and supporting tools,
+• further work with other sectors and groups on industrial digitisation workforce requirements.
+work-force@hvm.catapult.org.uk
+For a further and extended discussion on the foresight process, skills value chain or specific issues on industrial digitisation please contact
+Annex 1.1 – DMDII Taxonomy – main headings
+Figure 7 : DMDII Taxonomy Headings from Partners in Connection report – Digital Manufacturing and Design Job Roles Taxonomy. The Digital Manufacturing and Design Innovation Institute and Manpower Group – 2017.
+Using this taxonomy it is possible to both guide the terms used to define a capability and additionally through the taxonomy structure enable capabilities to be clustered and grouped. Using extracts of the DMDII work, a simple look-up table was created in Excel which enables the user to determine the taxonomy definition for an identified capability. (<>)Figure 8 demonstrates how a capability – Assembly Simulation – is classified using the taxonomy hierarchy.
+Figure 8 : Example Taxonomy statement
+Annex 1.2 – Summary of key capabilities required.
+AI and Data Science tools and techniques to automate non-value-adding activities.
+Augmented Reality/Virtual Reality assembly tools to support virtual verification and validation of production/assembly.
+Automated material handling systems to reduce manual intervention.
+CAM tools to support digital manufacturing.
+Design and implement discrete event simulation and process simulation to support and guide production decision making.
+Digital Lifecycle Analysis tools and Knowledge Management systems that deliver sustainable product and production processes.
+Digital metrology solutions and in process verification to minimise physical intervention.
+Digital quality assurance tools and solutions for product and process improvement
+Digital supply chain management - supplier capability analysis, supply chain logistics and inventory management, supply chain resilience monitoring – digital supplier dashboards.
+Digital verification and validation methodologies for production processes.
+Digital work instruction systems that integrate with wider enterprise management system.
+Enterprise management system such as ERP, MES and PLM.
+Enterprise-wide data science and data management governance and tools to manage information and exploit benefits from data generated.
+Establish distributed control architectures that enable seamless machine integration, communication and control.
+Implement clear digital leadership approaches at the appropriate levels to champion and establish digitalisation – digital ethics for handling and use of sensitive data, digital intellectual property management and risk management methodology that ensure business continuity.
+Integrated asset monitoring and management systems to ensure effective utilisation of resources, facilities and material.
+Integrated sensors and data systems for safety and reliability evaluations of production systems.
+Integrated, reconfigurable, flexible and distributed manufacturing and assembly solutions.
+Rapid programming of autonomous robotics systems and safe working practices for integrated autonomous production systems.
+Relevant cyber security protocols for hardware, software and connected systems that provide secure working and enable digitalisation progress.
+Simulation based process modelling tools to monitor, control and support manufacturing and processing systems.
+Annex 1.3 – Employer assignment of capabilities to role groups.
+Key – Role Groups – TO- Technical Operator(EngTech), JE- Junior Engineer(IEng), SE - Senior Engineer (CEng)
+Proficiency – A-Awareness, U-Understands, P-Practioner, E-Expert
+Ref No  ,"Organisational Capability Statement - capability required by a business, department or team within a company.  ",TO  ,JE  ,SE  
+1  ,Design & Implement automated material handling systems to reduce manual intervention  ,U  ,P  ,E  
+2  ,Use automated material handling systems  ,P  ,P  ,U  
+3  ,Maintain and update automated material handling systems  ,P  ,E  ,U  
+4  ,Design and Implement rapid programming of autonomous robotics systems  ,U  ,P  ,E  
+5  ,Maintain programming of autonomous robotics systems  ,U  ,E  ,E  
+6  ,Use CAM tools to support digital manufacturing  ,U  ,P  ,E  
+7  ,Design & Implement appropriate CAM tools to support digital manufacturing  ,U  ,P  ,E  
+8  ,Design & Implement (AR/VR) assembly tools to support virtual verification and validation of production/assembly.  ,U  ,P  ,E  
+9  ,Use digital (AR/VR) assembly tools for virtual verification and validation of production/assembly.  ,P  ,P  ,U  
+10  ,Maintain and support digital (AR/VR) assembly tools.  ,P  ,E  ,U  
+11  ,Design & Implement digital work instruction systems that integrate with wider enterprise management system.  ,U  ,E  ,E  
+12  ,Use digital work instructions systems  ,P  ,E  ,U  
+13  ,Maintain update/revise digitally based work instructions  ,U  ,P  ,E  
+14  ,Define & Devise H&S requirements for automated processes and systems  ,U  ,P  ,E  
+15  ,"Design & Implement relevant systems to simulate, monitor, control and support manufacturing & processing systems  ",U  ,P  ,E  
+16  ,"Use relevant systems to simulate, monitor, control and support manufacturing & processing systems  ",P  ,E  ,U  
+17  ,"Design & Implement reconfigurable, flexible & distributed manufacturing and assembly solutions.  ",U  ,P  ,E  
+18  ,"Use reconfigurable, flexible & distributed manufacturing and assembly solutions.  ",P  ,E  ,U  
+19  ,"Maintain reconfigurable, flexible & distributed manufacturing and assembly solutions.  ",U  ,P  ,U  
+20  ,Use simulation-based process modelling tools  ,U  ,P  ,E  
+21  ,Design & Implement suitable AI techniques to harvest data and automate NVA activities  ,U  ,P  ,E  
+22  ,Design & Implement asset monitoring and management protocols to ensure effective utilisation  ,U  ,P  ,E  
+23  ,Use asset management monitoring and management protocols to ensure effective utilisation  ,P  ,E  ,U  
+24  ,Define & Devise data science and data management principles to manage information and exploit benefits from data generated.  ,U  ,P  ,E  
+25  ,Design & Implement relevant data science and data management tools and techniques to support process monitoring  ,U  ,P  ,E  
+26  ,Use defined data science and data management tools as part of process monitoring  ,P  ,P  ,E  
+27  ,Define & Devise digital ethics for handling and use of sensitive data.  ,U  ,P  ,P  
+28  ,Design & Implement clear digital leadership approaches at the appropriate levels to champion and establish digitalisation  ,U  ,P  ,E  
+29  ,"Design & Implement distributed control architecture to ensure seamless machine integration, communication and control  ",U  ,P  ,E  
+30  ,Use enterprise-wide data governance strategy to avoid ambiguity  ,U  ,U  ,E  
+31  ,"Define & Devise enterprise management system and implementing appropriate systems and protocols such as ERP, MES and PLM  ",U  ,U  ,E  
+32  ,Use enterprise strategy and risk management methodology to ensure business continuity  ,U  ,P  ,E  
+33  ,Use integrated hardware and software manufacturing cells / systems  ,P  ,E  ,E  
+34  ,Maintain integrated hardware and software manufacturing cells / systems  ,P  ,E  ,U  
+35  ,Use IP Management strategies as a result of digitalisation  ,U  ,P  ,E  
+36  ,Design & Implement Lifecycle Analysis to support more sustainable production processes  ,U  ,P  ,E  
+37  ,Use Lifecycle Analysis tools to improve sustainability of production  ,U  ,P  ,E  
+38  ,Design & Implement appropriate Product Lifecycle & Domain Knowledge Management approaches across design & manufacture.  ,U  ,P  ,E  
+39  ,"Design & Implement security protocols at the right level for hardware, software and cyber without restricting digitalisation progress  ",U  ,U  ,E  
+40  ,Use defined security protocols on hardware and software systems to maximise digitisation and maintain required cyber security.  ,U  ,P  ,P  
+41  ,Design & Implement discrete event simulation and process simulation to support and guide production decision making.  ,U  ,P  ,E  
+42  ,Use digital supplier capability analysis tools  ,U  ,P  ,E  
+43  ,Design & Implement defined digital supplier visibility tools.  ,U  ,P  ,E  
+44  ,Use digital processes and tools to ensure supply chain resilience  ,U  ,P  ,E  
+45  ,Use digital tools and techniques for supply chain optimisation  ,U  ,P  ,E  
+46  ,Use robust and intelligent fleet management systems  ,U  ,P  ,E  
+47  ,"Use smart and automated inventory tracking, integrated with verticals within business units.  ",U  ,P  ,E  
+48  ,Use sensors and protocols for material in-transit sensing  ,U  ,P  ,E  
+49  ,Define & Devise the required architecture and hardware/software integration for material in-transit tracking  ,U  ,U  ,E  
+50  ,Design & Implement connected equipment protocols to ensure seamless production capabilities  ,U  ,U  ,E  
+51  ,Use connected equipment solutions to integrate production capabilities  ,U  ,P  ,E  
+52  ,Maintain and support connected equipment systems  ,P  ,E  ,U  
+53  ,Design & Implement digital metrology protocols and in process verifications to minimise physical intervention.  ,U  ,P  ,E  
+54  ,Use digital metrology protocols and in process verification tools and techniques.  ,P  ,E  ,E  
+55  ,Maintain digital metrology protocols and in process verifications tools/systems  ,E  ,P  ,U  
+56  ,Design & Implement digital quality assurance tools and solutions  ,U  ,P  ,E  
+57  ,Use digital quality assurance tools and solutions for product & Process improvement  ,P  ,E  ,U  
+58  ,"Design & Implement Integrated sensors and appropriate management protocols for data, safety and reliability  ",U  ,P  ,E  
+59  ,Use integrated sensors and data to undertake safety and reliability evaluations of production systems  ,P  ,E  ,U  
+60  ,Design & Implement digital verification and validation methodologies for production processes  ,U  ,P  ,E  
+61  ,Use digital verification and validation methodologies on production processes  ,P  ,E  ,U  
+
+Glossary / Definitions
+Organisational Capability Statements – the capability required in a company/business has been expressed using following descriptors;
+Define & Devise - create new solutions / systems to address new and emerging issues/challenges. Original solutions to new problems – ie create an in-company production system design optimisation tool that uses of AI/Data Science techniques.
+Design & Implement - using defined processes /tools create and implement solutions in support of manufacturing / production activities. Using established / existing tools and techniques design and implement a production system solution – ie introduce a new product variant into an existing production system/cell.
+Use – Operate and utilise existing tools/workflows/systems on a day to day basis - ie production cell team.
+Maintain - Support existing / installed systems and solutions.
+Proficiency – these are used to aid differentiation of the depth/breadth required – for example Cyber Security measures. A Senior Engineer responsible for the company network, maintaining the firewall etc would be expected to be an Expert and have greater level of proficiency than other role groups. The Technical Operator role group may require an understanding of the threats/issues and know which company procedures to use. In other situations, it is logical that the Operator is the expert –using materials handling equipment and other role groups may only require Understanding.
+Awareness - Basic knowledge, terminology, relevance to sector, industry and company, sufficient comprehension to know where to seek further information/details if necessary, to address a specific issue – eg SPC – aware that it is a process used to monitor ongoing quality of a product and/or service, would know where to find more details on company intranet.
+Understands – Understands what the implications/consequences/impact is for their role/function, know what key actions are required and in what context, e.g. understands need for robust login/passwords and renews login/password details in accordance with company policies and practice.
+Practioner – Is able to apply and use independently a tool, system or process – for example CAD for the design and testing of parts as part of a manufacturing engineering workflow.
+Expert – specialised user, with detailed knowledge of process, system or tool. Role requires them to support others, will identify improvements required for a process, system or tool and either commission others to implement improvements, or could implement improvements personally/directly.
+Annex 1.4 – Mapping Summary - % alignment between existing standards and future competence sets.
+Level 3  ,Coverage by Std of future set  ,Level 4  ,Coverage by Std of future set  
+Engineering Technician -  ST0457  ,53%  ,AUTOMATION & CONTROLS ENGINEERING TECHNICIAN - ST0662  ,45%  
+Maintenance & Operations Technician - ST0154  ,46%  ,Engineering Manufacture Technician - ST0841  ,29%  
+Engineering design and draughtsperson - ST0164  ,34%  ,Data Analyst - ST0118  ,22%  
+Digital Support Technician -  ST0120  ,31%  ,Process Leader - ST0695  ,16%  
+Engineering Fitter - ST0432  ,26%  ,Software Developer -  ST0116  ,9%  
+Metal fabricator - ST0607  ,21%  ,Cyber Intrusion Analyst -  ST0114  ,5%  
+IT Solutions Technician -  ST0505  ,14%  ,,
+Software Development Technician - ST0128  ,3%  ,,
+
+Level 6  ,Coverage by Std of future set  ,Level 7  ,Coverage by Std of future set  
+Control / Technical Support Engineer (Degree) -ST0023  ,31%  ,Process automation engineer - ST0407  ,45%  
+Manufacturing Engineer - ST0025  ,28%  ,Post graduate engineer -  ST0456  ,38%  
+Aerospace Software Engineer -ST0013  ,27%  ,Systems Engineer - ST0107  ,36%  
+Aerospace Engineer -ST0010  ,22%  ,Digital Technology Solutions Specialist (Integrated Degree) - ST0482  ,34%  
+Data Scientist -ST0585  ,20%  ,ARTIFICIAL INTELLIGENCE (AI) DATA SPECIALIST - ST0763  ,33%  
+Digital Technology Solns Professional (Integrated Degree) -ST0119  ,13%  ,,
+Cyber security technical professional (integrated degree) -ST0409  ,12%  ,,
+
+workforce@hvm.catapult.org.uk
+A full listing of the Future Competence Sets can be provided on request – please contact
+Annex 1.5 – Summary of Upskilling Gaps –
+Technical Operators Level 2/3 –
+• Interpret and communicate data from metrology/inspection systems using digital tools/methods.
+• Use digital production and process simulation/modelling tools for workflow and process improvement activities.
+• Use and interrogate digital data from sensor systems for WIP/inventory tracking and monitoring.
+• Use digital reporting and management tools for in-company process monitoring, supply chain partner monitoring.
+Junior Engineer - Level 4 –
+• Use digital production and process simulation/modelling tools for workflow and process optimisation activities.
+• Editing of machine control software and systems, safe working practices for software/controller systems.
+• Support Augmented Reality/Virtual Reality systems used for work instructions/operator guidance.
+• Knowledge and use of connected equipment / sensor systems to collect and manipulate production data.
+Level 5 – there were no relevant standards that could be used for mapping at Level 5
+Senior Engineer Level 6 –
+• Design and implement integrated production/process/inventory monitoring and control systems.
+• Implement data intensive, mathematical models of product, manufacturing processes and maintenance systems for improvement/optimisation.
+• Develop and implement digital work instruction / operator guidance tools and systems.
+• Undertake environmental / lifecycle evaluation of production.
+Senior Engineer Level 7 -
+• Specify tools and techniques to collect, access, explore, profile, pipeline, combine, transform and store data, and apply relevant data governance (quality control, security, privacy).
+• Identify and deploy at organisation level appropriate programming languages and AI tools for data manipulation, analysis, visualisation, and system integration.
+• Lead organisation wide process development / revisions to reflect regulatory, statutory requirements – e.g. GDPR, environmental impact.
+• Develop and maintain collaborative relationships at strategic and operational levels, using methods of organisational empathy (human, organisation and technical).
+Annex 1.6 – Participating Organisations
+Technologists
+IDE
+Educators
+Brunel University
+Birmingham City University
+New College Durham
+Solihull College
+Weston College
+Warwick Manufacturing Group
+University of Birmingham
+University of Bristol
+University of Hertfordshire
+University of the West of England
+Warrington & Vale College
+York St Johns University
+National Physical Laboratory
+Pearson Education
+EAL
+Employers
+BMW
+Ford
+Jaguar-LandRover
+National Composites Centre
+Nissan UK
+ZF Automotive
