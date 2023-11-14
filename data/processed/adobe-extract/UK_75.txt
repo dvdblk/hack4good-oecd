@@ -1,0 +1,56 @@
+Home
+(<https://www.gov.uk/government/publications/understanding-the-uk-ai-labour-market-2020>)Understanding the UK AI labour market: 2020
+Department for
+Digital, Culture,
+Media & Sport
+Oce for Articial
+Intelligence
+Research and analysis
+9 key ndings from Understanding the UK AI labour market: 2020 Report
+Published 18 May 2021
+© Crown copyright 2021
+licence/version/3
+This publication is licensed under the terms of the Open Government Licence v3.0 except where (<https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3>)otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government- or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: (<mailto:psi@nationalarchives.gov.uk>)psi@nationalarchives.gov.uk.
+Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+This publication is available at https://www.gov.uk/government/publications/understanding-the-uk-ai-labour-market-2020/9-key-findings-from-understanding-the-uk-ai-labour-market-2020-report
+1. Skills shortages
+Firms reported shortages of candidates in the labour market with AI and data science skills
+A third (35%) of firms said that existing employees lacking technical skills had prevented them from meeting their business goals, and 49% said that job applicants lacking technical skills had done the same.
+2. Skills gap
+Firms reported skills gaps among their existing employees working with AI or data science.
+Technical skills gaps were reported in: understanding of AI concepts and algorithms (55%), programming skills and languages (52%), software and systems engineering (52%), and user experience (51%).
+In the survey, two-thirds of firms (67%) expected that the demand for AI skills in their organisation was likely to increase in the next 12 months.
+3. Recruitment
+Firms reported finding it hard to fill all their AI and data science job vacancies
+Two-thirds of surveyed firms had tried to recruit in the last two years. Of those who had tried to recruit, word of mouth or industry networks was the most common channel (42%), and one in five (22%) had partnered with a university.
+Among those that had vacancies in the last 2 years, 69% said that at least one vacancy was hard to fill. This was higher than in the cyber sector (57%). The bulk of hard-to-fill vacancies were among middle-management and other senior roles, which required 3 or more years of experience.
+4. Job postings
+2020 had the highest number to date of online job vacancies related to AI and data science
+2020 was the highest year to date for the number of online job vacancies related to AI and Data Science, with an increase of 16% from 2019 levels.
+The job postings search identified 110,495 postings in AI and Data science from January to December 2020.
+The annual number of job postings had more than doubled since 2014. More than half of these job posts were in London and the South East. London was a major hotspot for AI and data science roles, with 36,715 roles identified. This was followed by Cambridge (5,453), Manchester (3,619), Bristol (2,505), Edinburgh (2,365), Oxford (2,311) and Birmingham (2,095).
+The mean advertised salary was £54,800 for an AI and data science related job posting (with a median value of £50,000).
+5. Barriers to filling vacancies
+Skills shortages were most often the reason AI and data science vacancies were hard to fill
+Barriers to filling vacancies included: applicants lacking technical skills and knowledge (65%), work experience (40%), and industry knowledge (25%).
+6. Diversity
+There was a lack of gender balance in AI and data science teams
+Over half (53%) did not employ any females in AI roles. Overall, a quarter (24%) of the surveyed firms workforce was female, but this was greater than in the cyber sector (16%).
+Two in five (40%) firms did not employ any staff from an ethnic minority background in AI roles; 27% of the surveyed firms workforce was from an ethnic minority group.
+A similar proportion (41%) did not employ any non-UK nationals in AI roles; 28% of the surveyed firms’ workforce were non-UK nationals.
+7. Qualifications
+Many AI and data science professionals had postgraduate qualifications
+99% reported that at least some of their staff in AI roles held a university qualification, 77% a Master’s degree, and 54% a PhD.
+Interestingly, 95% of AI and Data Science job postings do not include a certification, which suggests there are very limited requests among employers for formal certifications compared to other professions.
+8. Pathways into working in AI
+Few AI and data science employees had entered at Apprentice level
+Career pathways into AI roles were diverse and lacked a clear structure.
+Surveyed firms were unlikely to hire staff through an internship (11%) or as an apprentice (3%).
+9. Training
+A majority of firms had AI and data science employees who had been trained in the last year, though much of this was informal
+Three in five surveyed firms (62%) reported that employees in AI roles had undertaken internal or external training in the last 12 months to improve their knowledge and skills.
+Only a quarter of firms reported offered training on ethics in AI (24%).
+Back to top
+v3.0
+(<https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/>)All content is available under the Open Government Licence , except where otherwise stated
+(<https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/>)© Crown copyright

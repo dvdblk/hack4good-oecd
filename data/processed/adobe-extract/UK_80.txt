@@ -1,0 +1,64 @@
+IBM Study: Skills Shortage Stalls UK’s AI Adoption as Europe Accelerates
+•
+33% of UK companies surveyed have accelerated their use of AI in the past two years compared with the European average of 49%, citing a skills shortage as the top barrier
+•
+58% of UK businesses are already using AI to help achieve their ESG goals or plan to do so
+•
+71% of UK businesses say being able to explain how AI makes decisions is important, but most have not taken steps to ensure their AI is trustworthy or responsible
+May 18, 2022
+
+
+
+London, 18th May 2022 – A global study from IBM (NYSE: IBM) has revealed UK businesses are not progressing their use of artificial intelligence (AI) at the same pace as other major European nations. Around a third of UK respondents said their company had accelerated their rollout of AI in the past two years, compared with a European average of 49%. More than a third (36%) of UK companies surveyed had also stalled their AI investment in that period, versus 27% across Europe.
+The data revealed that Italian and Spanish businesses are leaping ahead of their neighbours in leveraging AI, with 57% and 56% respectively saying they have increased their use of AI in the past two years. Other European economies surveyed include France (49%) and Germany (46%).
+The findings from the IBM Global AI Adoption Index, conducted by Morning Consult in April 2022, reveal that a shortage of skills is the top barrier to UK businesses leveraging AI. The skills gap was cited by 38% of UK respondents as the key inhibitor to AI adoption, compared with 28% across Europe and only 24% in France.
+A different (<https://uk.newsroom.ibm.com/2022-04-25-Europes-Tech-Sector-Significantly-Disadvantaged-by-an-AI-Skills-Shortage-Reveals-New-IBM-Research>)IBM study conducted earlier this year revealed the most sought-after, but hard to find, AI skills for UK employers include problem-solving, software engineering and knowledge of programming languages.
+However, data from the AI Adoption Index suggests a significant proportion of UK companies are planning to use AI applications to address the shortage of labour and skills. Just over 40% plan to use AI to retrain their workforce – the second highest priority for AI investment after research & development – while 59% plan to use AI automation tools to reduce manual or repetitive tasks.
+The findings also indicate the UK could be catching up with its neighbours as businesses emerge from the pandemic. The UK narrowly had the highest proportion of companies that were exploring using AI (47%). A majority (85%) of UK respondents also said their companies either have some kind of AI strategy or are developing one – only slightly behind the Europe average of 89%.
+The findings come as the UK government pursues its National AI Strategy, launched in September 2021, which aims to nurture the country’s AI ecosystem and transition to an AI-enabled economy. The UK is ranked third globally for private investment into AI companies and home to a third of Europe’s total AI businesses.(<applewebdata://4A6CF071-E9B8-46B0-9E86-3E4748F3541F#_ftn1>)[1]
+Commenting on the data, Ebru Binboga, Director of Data, AI & Automation, IBM UK & Ireland said: “Nearly three-quarters of UK businesses surveyed in the IBM Global AI Adoption Index said they are either exploring the use of AI or are actively deploying it in their operations. There is clear recognition of the value AI can bring to organisations as they look to address a range of priorities and unlock growth.
+“The findings reveal that companies in the UK, and around the world, are investing in AI capabilities to help them overcome challenges such as skills and labour shortages and accelerate innovation. We’re also seeing a large proportion of UK businesses looking to AI to help them meet ambitious sustainability targets, highlighting the important role AI is playing both for organisations and society at large.”
+Other key findings from the study include:
+Addressing sustainability goals with AI
+58% of UK companies surveyed are either executing (31%) or planning to apply AI (27%) to help meet their environmental, social and governance (ESG) goals.
+The importance of trustworthy AI
+71% of UK companies surveyed said that being able to explain how their AI arrived at decisions is important for their business.
+82% of UK respondents believe consumers are more likely to choose the services of a company that offers transparency and an ethical framework for how its data and AI models are built, managed and used.
+However, the findings suggest a majority of UK businesses have not taken key steps to ensure their AI is trustworthy and responsible, such as reducing bias (71%), tracking performance variations/model drift (72%), and making sure they can explain AI-powered decisions (64%).
+Supporting the workforce
+UK companies say AI is helping them address labour and skills shortages by automating repetitive and manual tasks (59%), supporting learning and training (45%), and improving recruitment and HR processes (42%).
+Top use cases for AI in business
+UK businesses are using AI for a wide range of purposes. The most cited in the study include business analytics or intelligence (29%); automation of key IT processes (25%) or business processes (24%); supporting marketing & sales (23%); and fraud detection (22%).
+For the full findings of the IBM Global AI Adoption Index 2022, visit (<https://www.ibm.com/watson/resources/ai-adoption>)www.ibm.com/watson/resources/ai-adoption .
+IBM Contact
+Gregor Hastings
+UKI External Relations
+Gregor.Hastings@IBM.com
+ENDS
+Notes to Editors Survey Methodology
+The polling was conducted online through Morning Consult’s proprietary network of online providers in April 2022. All respondents were required to have significant insight or input into their firm’s IT decision-making.
+REPRESENTATIVE SAMPLE OF 7,502 BUSINESS DECISION-MAKERS
+500 in each country (United States, China, India, UAE, South Korea, Australia, Singapore, Canada, UK, Italy, Spain, France, Germany)
+1000 in Latin America ((Brazil, Mexico, Colombia, Argentina, Chile, Peru)
+Conducted online through MC’s proprietary network of online providers
+RESPONDENTS REPRESENTED A MIX OF SMALL AND LARGE FIRMS
+32% of respondents came from firms with more than 1,000 employees
+27% of respondents came from firms with between 251 and 1,000 employees
+20% came from firms with 51-250 employees
+21% came from smaller businesses (50 employees or less)
+RESPONDENTS REPRESENTED A MIX OF SENIORITY
+One-quarter of the sample was at a VP level or above (including C-suite executives)
+The remainder represented a mix of directors and senior manager-level employees with close knowledge or authority in their firm’s IT/AI practices
+(<applewebdata://4A6CF071-E9B8-46B0-9E86-3E4748F3541F#_ftnref1>)[1] (<https://www.gov.uk/government/news/new-ten-year-plan-to-make-britain-a-global-ai-superpower>)https://www.gov.uk/government/news/new-ten-year-plan-to-make-britain-a-global-ai-superpower
+(<https://uk.newsroom.ibm.com/subscribe>)Subscribe to email
+Release Categories
+(<https://uk.newsroom.ibm.com/announcements?category=775>)AI (<https://uk.newsroom.ibm.com/announcements?category=777>)Good Tech
+Latest News
+Sep 20, 2023
+(<https://uk.newsroom.ibm.com/2023-09-20-IBM-Brings-New-Capabilities-to-its-Sustainability-Software-to-Help-Organisations-Accurately-and-Efficiently-Operationalise-Scope-3-Greenhouse-Gas-Emissions-Insights>)IBM Brings New Capabilities to its Sustainability Software to Help Organisations Accurately and Efciently Operationalise Scope 3 Greenhouse Gas Emissions Insights
+Sep 13, 2023
+(<https://uk.newsroom.ibm.com/2023-09-15-IBM-Announced-as-Sponsor-of-2023-U-N-Climate-Change-Conference-COP28>)IBM Announced as Sponsor of 2023 U.N. Climate Change Conference (COP28)
+Aug 17, 2023
+(<https://uk.newsroom.ibm.com/2023-08-18-IBM-Consulting-Collaborates-with-Microsoft-to-Help-Companies-Accelerate-Adoption-of-Generative-AI>)IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI
+(<https://uk.newsroom.ibm.com/subscribe>)Subscribe to email
+Additional Assets

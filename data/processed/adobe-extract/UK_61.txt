@@ -1,0 +1,1822 @@
+ESS 2019: Developing the skills pipeline
+Research report
+September 2020
+Authors: Mark Winterbotham, Genna Kik and Jessica Huntley Hewitt
+Contents
+List of figures 4
+List of tables 5
+Executive Summary 6
+Introduction 6
+New labour market entrants 6
+The existing workforce 7
+Nurturing the skills pipeline: placements and work inspiration 7
+Nurturing the skills pipeline: T Levels (England only) 9
+1. Introduction and background 10
+Background to the Employer Skills Survey 10
+Policy background 10
+Methodological overview 12
+Sampling 12
+Questionnaire 13
+Fieldwork 13
+Weighting 13
+Report coverage 13
+Reporting conventions 14
+2. New labour market entrants 15
+Recruitment of education leavers 15
+Preparedness of education leavers 17
+Recruitment and preparedness of education leavers by local area within England 19
+Skills lacking among education leavers 23
+3. The existing workforce 25
+Recruitment of older workers 26
+Preparedness of older workers for their job role 28
+Under-utilisation 28
+4. Nurturing the skills pipeline: placements and work inspiration 31
+Work placements 32
+﻿Work placement volumetrics  ,36  
+Duration of placements  ,38  
+Whether any work placements were paid  ,40  
+Extent to which work placements result in employment  ,42  
+Work inspiration  ,44  
+Encouraging more employers to offer work placements / work inspiration  ,46  
+"Overlap between work placements, work inspiration, and value of work when recruiting  ", experience  48  
+Barriers to offering work experience opportunities  ,50  
+5. Nurturing the Skills Pipeline: T Levels (England only)  ,53  
+Interest in offering T Level placements  ,53  
+Perceived ease of providing T Level placements  ,56  
+Attitude towards T Level placements by local area  ,57  
+6. Conclusions  ,59  
+Appendix A: Supplementary tables  ,61  
+Appendix B: Definitions for categories  ,104  
+Appendix C: Industry coding  ,105  
+Appendix D: Sampling Error and Statistical Confidence (summary)  ,108  
+
+List of figures
+Figure 2-1 Preparedness of education leavers for work, by country and in comparison
+with 2016 and 2014 18
+Figure 3-1 Proportion of recruiting employers recruiting older workers aged 50+ by size
+and sector 27
+Figure 3-2 Incidence and density of staff who are both over-qualified and over-skilled by
+country 30
+Figure 4-1 Type of work placements provided in the last 12 months 33
+Figure 4-2 Work placements by sector 36
+Figure 4-3 Mean number of work placements offered in the last 12 months for each
+placement type 37
+Figure 4-4 Length of placements offered by type of placement 39
+Figure 4-5 Payment for work placements by type of placement 41
+Figure 4-6 Whether employers recruited anyone to a permanent paid role after being on
+placement in the last 12 months 43
+Figure 4-7 Proportion of establishments offering work inspiration activities in the last 12
+months, by country, sector and size 45
+Figure 4-8 Reasons for offering work placements in the last 12 months 47
+Figure 4-9 Extent to which work experience is regarded as critical or significant in
+candidates, against proportion offering work placements or inspiration, by sector 50
+Figure 4-10 Most common reasons for not offering work experience opportunities in the
+last 12 months 51
+Figure 5-1 Interest in providing T Level placements 55
+Figure 5-2 Perceived difficulty of providing T Level placements 57
+List of tables
+Table 2-1 Recruitment of education leavers in the last 2-3 years by country, compared
+with 2014 and 2016 16
+Table 2-2 Proportion of employers recruiting of education leavers by LEP21
+Table 2-3 Proportion of employers saying education leaver recruits were well prepared,
+by LEP 23
+Table 4-1 Grouped work placement offering in the last 12 months, by country 34
+Table 4-2 Grouped work placement offering in the last 12 months, by size34
+Table 4-3 Mean number of work placements offered in the last 12 months for each
+placement type over time37
+Table 4-4 Broad motivations for offering work placements, by sector48
+Executive Summary
+Introduction
+The Employer Skills Survey (ESS) has run biennially since 2011, providing a vital source of intelligence on the skills issues employers face. ESS traditionally has an inward-looking focus assessing the current skills position and skills needs of employers. It has sat alongside the Employer Perspectives Survey, which is primarily outward-looking, covering provision engagement with the wider skills system. In ESS 2019, the two surveys were, in effect, merged, by incorporating EPS questions as modules.1 (<>)In total, 81,013 respondents across England, Northern Ireland and Wales responded to the survey. The Recruitment and Upskilling module was asked of 16,031 respondents and the Education Leavers, Work Experience and Inspiration and T-Levels module was asked of 16,059 respondents across England, Northern Ireland and Wales.
+This report focuses on the recruitment of both new entrants to the labour market and older workers, and their preparedness for work, as well as the extent to which workers’ skills are not being fully utilised, and ways in which employers can help to develop the skills pipeline by offering opportunities such as work inspiration or work placements.
+New labour market entrants
+Three in ten employers (30%) had recruited an education leaver in the last 2 to 3 years, in line with 2016 and 2014 (both 31%). Establishments had most commonly recruited school leavers in the last 2-3 years (16%), with recruitment of school leavers aged 17 or 18 (12%) more common than recruitment of school leavers aged 16 (9%). One in seven employers (14%) had recruited a university leaver, and 12% had recruited an FE college leaver.
+Likelihood to have recruited an education leaver in the last 2 to 3 years increased with employer size, from 17% among establishments with 2 to 4 employees to 87% of establishments with 250 or more employees, reflecting the fact that that larger employers were more likely to recruit overall. By sector, recruitment of education leavers was most common in Education (48%) and Hotels and Restaurants (43%, up from 36% in 2016).
+More than half of employers that had recruited any education leavers in the last 2-3 years felt that these recruits were prepared for their job role, with the proportion rising in line with the level of educational achievement. Although school leavers continued to be
+regarded as less prepared than college or university leavers, there were increases in the proportions of employers feeling their school leavers were prepared for work for both 16-year-old school leavers (56%, up from 51% in 2016) and 17-18-year-old school leavers (64%, up from 58% in 2016, and 60% in 2014). However, there was a small but significant decrease in the proportion of employers describing university leavers as prepared for their job role (78%, down from 80% in 2016).
+The existing workforce
+Around one in three (31%) of all recruiting employers (equivalent to 14% of all employers) had recruited someone aged 50 or over in the 12 months prior to being surveyed, the same proportion as in 2016, maintaining an increase from 29% in 2014. As in previous years, recruiting employers in Northern Ireland were less likely to have recruited an older worker (25%) than those in England (31%) and Wales (33%).
+Also in line with previous years, likeliness to have recruited an older worker aged 50 or more increased with the size of establishment, rising from less than a quarter of those with fewer than five employees (23%) to three-quarters (75%) of those with 100 or more employees. By sector, recruiting employers most commonly took on workers aged 50 plus in Public Administration (60%), Transport and Storage (53%, an increase on 44% in 2016) and Health and Social Work (47%).
+The vast majority of those recruiting older recruits found them well prepared for their job role (95%), while just 3% felt they were poorly prepared. Older recruits were slightly less well regarded in the Financial Services sector, with 88% of employers saying they were well prepared, and 10% saying they were poorly prepared.
+Turning to the existing workforce more broadly, around a third (34%) of establishments reported that they had at least one employee with both qualifications and skills more advanced than required for their current job role, equating to 2.2 million workers, or 8% of the workforce, having under-utilised skills. Both the incidence and density of under-utilised staff had decreased slightly since 2017, when a third (34%) of establishments reported under-utilised skills, affecting 2.3 million staff (8.6% of the workforce), although both proportions remained higher than those reported in 2015. At a sectoral level, as in previous years, density of skills under-use was greatest in the Hotels and Restaurants (14%) and Arts and Other Services (12%) sectors.
+Nurturing the skills pipeline: placements and work inspiration
+Just over a third (35%) of employers provided work placements in the 12 months prior to the survey, down from 38% in 2016. Levels of each broad type of placement declined, with 27% offering placements for individuals in education, down from 30% in 2016; 12%
+offering broad adult placements, down from 15% in 2016; and 6% offering paid or unpaid internships, down from 7% in 2016.
+The overall decrease in work placements was driven by decreases in England and Northern Ireland, with the latter seeing the most substantial drop: the proportion of employers in Northern Ireland offering any work placement fell from nearly half (48%) in 2016 to just over a third (36%) in 2019.
+As one would expect, likelihood to provide work placements increased with the size of establishment, from just under a quarter (24%) of those with 2 to 4 employees to close to eight in ten (79%) establishments with 100 or more staff. The decrease in the proportion of employers offering placements since 2016 was driven by smaller businesses, with the proportion of establishments with 2 to 4 staff offering any placements falling from 28% in 2016 to 24% in 2019, and the proportion of establishments with 5 to 24 employees falling from 45% to 43%.
+Typical durations of placements varied widely, with periods of less than a week most common for school placements (54%), work trials for new recruits (40%) and graduate programmes (35%). Generally, the length of education placements increased with the level of education, with 84% of university placements and 75% of college placements lasting for two weeks or more, compared with 45% of placements for people at school.
+The majority of employers offering each type of placement indicated that the placements were all unpaid, aside from placements with a more direct benefit to the employer: placements aimed at potential new recruits (paid by 82% of employers) and internships (paid by 62% of employers). Among education placements, placements for younger students were more likely to be unpaid, with 79% of employers offering school placements saying none were paid, compared with 64% of those offering placements for college students, and 52% of those offering placements for people at university.
+Across all placement types, three in ten employers (30%) offering placements had taken on an individual into a permanent or long-term role, illustrating that the majority are not using work placements with a view to offering long-term employment.2 (<>)This figure is a decrease since 2016 (33%) and represents a return to the level seen in 2014 (31%).
+Separate to offering work placements, one in nine employers (11%) had also engaged with educational institutions to offer work inspiration activities in the 12 months preceding the survey, up from one in ten (10%) in 2016.
+Among employers that had provided work placements or work inspiration activities, two-thirds (67%) said they did so for altruistic reasons, just over a third (35%) mentioned a
+benefit to their own business, and only a small proportion (8%) stated that they had offered placements due to circumstantial reasons.
+Among employers that had neither offered a work placement in the last 12 months nor provided work inspiration activities to students, the main reason given for this lack of engagement was that the business had no suitable roles (36%), followed by not having the time or resource to manage placements (21%) and placements not being suitable due to the size of the establishment (11%). A further 11% stated that they had not been approached by anyone.
+Nurturing the skills pipeline: T Levels (England only)
+Just over a third (36%) of employers expressed some level of interest in providing industry placements to T Levels students, although only 8% were very interested. Unsurprisingly, employers already offering any education placements were more likely to be interested in offering T Levels (56%), as were those that already offered work inspiration activities (60%). Interest in providing T Level placements was also higher among establishments with current or recent skills issues: over three-fifths (64%) of employers with skill-shortage vacancies said they were interested, compared with 35% of those with no skill-shortage vacancies, while over half (54%) of employers with Skills Gaps in their current workforce were interested, compared with a third (33%) of those with no Skills Gaps.
+A third (33%) of employers felt it would be very or fairly easy to offer T Levels placements, while three-fifths (61%) believed it would be difficult, with a third (34%) feeling it would be very difficult. There was clear correlation between employers’ interest in offering T Level placements and the level of difficulty they perceived would be involved. While the majority (71%) of those who thought offering placements would be easy also said they would be interested in offering placements, less than a fifth (18%) of employers who felt offering placements would be difficult had said they would be interested in doing so.
+As well as having higher levels of interest in offering T Level placements, employers that were already providing education placements or work inspiration activities were more likely to feel offering T Level placements would be very or fairly easy: around half of those offering education placements (50%) and those offering work inspiration activities (49%) felt it would be easy, rising to 57% among employers offering both.
+1. Introduction and background
+Background to the Employer Skills Survey
+Since 2011, the Employer Skills Survey (ESS) has been conducted biennially, providing a vital source of intelligence on skills challenges faced by employers, both in terms of those faced when recruiting and those relating to employees in their current workforce. The survey also explores the relationship between skills issues and training activity. The 2019 survey marks a change from previous waves of ESS, by, in effect, merging the content of ESS with that of the Employer Perspectives Survey (EPS), which traditionally has had a more outward-looking focus, covering employer engagement with the wider skills system3 (<>).
+To integrate the two surveys, EPS questions were run as separate modules within the survey, with each module answered by a random subgroup of respondents. This approach meant that EPS measures were covered without adding considerable length to the survey, and at the same time enabled sufficient sample sizes to be achieved for detailed analysis of these measures. The Recruitment and Upskilling module was asked of 16,031 respondents and the Education Leavers, Work Experience and Inspiration and T-Levels module was asked of 16,059 respondents across England, Northern Ireland and Wales (a full breakdown is provided in Tables A.1.5 and A.1.9. in Appendix A).
+A separate ‘core’ report covers the key inward-looking ESS measures including recruitment and skill-shortage vacancies; their internal skills challenges; and key aspects of training and workforce development. We report modular measures in separate thematic reports. This report specifically explores recruitment of both new entrants to the labour market and older workers, and their preparedness for work, as well as the extent to which workers’ skills are not being fully utilised, and ways in which employers can help to develop the skills pipeline by offering opportunities such as work inspiration or work placements. The other thematic reports explore training and workforce development; apprenticeships; and current and future skills needs of employers.
+Policy background
+The period immediately prior to the fieldwork period for ESS 2019 was marked by continued economic growth,4 (<>)and high levels of job creation, with the employment rate at the end of the second quarter of 2019 at 76.1%, at that time the joint highest since
+records began.5 (<>)Another key characterisation of the UK economy during this period was its productivity gap relative to international competitors (Taylor, M., 2017). According to the most recent ONS estimates, the UK had the lowest productivity rate of all G7 countries except Italy.6 (<>)In the second quarter of 2019 output per hour fell by 0.5%, the largest quarterly fall in productivity in five years.7 (<>)
+Workplace skills as a driver of economic growth, and productivity growth specifically, remain central to government policy. As we enter a period of economic and labour market uncertainty, ensuring the workforce has the right skills will be more important than ever to aid recovery. While skills are recognised as a key contributor to productivity growth, it is widely held that (prior to the Covid-19 pandemic) the UK had a skills deficit.
+The accompanying Skills Needs report addresses the skills challenge faced by the UK by looking at skills levels in the workplace and among applicants to vacancies, and the likely future skills needs of employers; while reports on Training and Workforce Development, and Apprenticeships, explore how employers can develop the skills within their existing workforce and make use of the Apprenticeships route to address their skills needs.
+In this report, we consider the pipeline of skills available to employers, and how they can help develop this pipeline. New entrants to the labour market from education are an obvious pool for employers to draw on, so it is key that these education leavers are given the opportunity to develop the skills that employers need. The government has previously recognised that quality work placements and work inspiration are essential in preparing young people for the workplace: the Careers Strategy in 2017 set out the aim of regular employer encounters for all secondary school pupils,8 (<>)and the new T Level qualification, announced following the review of technical education by Lord Sainsbury, will include industrial placements as a major component.9 (<>)However, with two-thirds of the UK workforce having already left full-time education,10 (<>)older workers are another key strand of the skills pipeline available to employers; in ‘Fuller working lives: a partnership approach’, the government sets out the need to provide support for those in the workforce aged 50 and over, stating: “The increase in the proportion of the population aged 50 years and over highlights the important role that older workers play in the current
+and future labour market and the growing need to enable older workers to remain in and to return to the workforce.”11 (<>)
+Methodological overview
+This section briefly summarises the key features of the methodology for ESS 2019, further detail of which can be found in the published technical report on the gov.uk website. As in previous iterations of ESS, the survey was carried out in two parts, both of which were conducted by telephone: a core survey of establishments and a follow-up survey looking at the investment employers had made in providing training to employees in the previous 12 months (the “Investment in Training Survey”).12 (<>)
+Sampling
+The population covered by the survey comprised employers in England, Northern Ireland and Wales at the establishment level (rather than at an organisational level)13 (<>)with at least two staff on the payroll. Sole traders with a single person on the payroll were excluded.
+The survey covered all sectors of the economy (the commercial, public, and charitable spheres). The profile of this population was established through Office for National Statistics (ONS) data from the March 2018 Inter-Departmental Business Register (IDBR), the most up to date business population figures available at the time of the survey.
+The sample of establishments was primarily sourced from the commercial data supplier Market Location. This was supplemented by records supplied directly through the IDBR to improve coverage of establishments in specific sectors and parts of sectors that are underrepresented in Market Location’s database.
+Quotas for the main survey were set by size within sector separately for Wales, Northern Ireland and eight English regions, while in one region, the West Midlands, a slightly different approach was adopted. In this region a Random Probability Sampling method was trialled, with no quotas and instead interviews were attempted with all sample records loaded.
+Questionnaire
+ESS 2019 was designed to merge the ESS and EPS surveys to provide greater efficiency and to enhance the potential for cross analysis. The surveys were required to be combined in such a way that interview length stayed below 25 minutes: a longer survey would have impacted on response rates and the quality of information provided. To avoid an excessively long questionnaire the merger of two surveys required more extensive modularisation of the questionnaire than undertaken previously.
+Questions that were included in the merged questionnaire were designed to be as consistent as possible with previous versions of the same question in order to ensure comparability over time.
+Fieldwork
+Fieldwork for the core survey was undertaken between May and December 2019 and involved 81,013 interviews. Fieldwork was conducted by three research agencies (IFF Research, BMG Research and Ipsos MORI). An overall response rate of 41% was achieved for the core survey.
+Weighting
+Findings from the core survey have been weighted and grossed up to accurately represent the total population of establishments in England, Northern Ireland and Wales with at least two people on their payroll, calculated using the March 2019 IDBR population statistics. This has been done on a size, sector and geographic basis. Separate weights were generated which allow findings to be presented (a) based on the number of workplaces reporting a particular experience, and (b) based on the number of employees and/or job roles affected by different challenges. For questions that were modularised (i.e. only asked of a random selected sample of respondents), modular versions of the workplace and employee weights were created.
+Report coverage
+This report covers:
+• New labour market entrants, including the incidence of employers taking on education leavers in the last 2 to 3 years, education leavers’ preparedness for work and in what ways they are poorly prepared;
+• The existing workforce, covering recruitments of older workers and their preparedness for work, and under-utilisation of existing staff; and
+• Nurturing the skills pipeline, looking at:
+•
+Employers’ engagement with work placements, the volume and duration of work placements, whether placements were paid, and whether placements led to permanent paid employment;
+•
+Employers’ engagement with work inspiration activities, including reasons for offering such placements, and, among those not offering any placements, barriers to doing so; and
+•
+Employers’ interest in offering placements for T-Levels students and perceptions of how difficult offering such placements would be.
+Reporting conventions
+The terms “establishment”, “employer” and “workplace” are used interchangeably throughout this report to avoid excessive repetition.
+Throughout the report unweighted base figures are shown on tables and charts to give an indication of the statistical reliability of the figures.
+In tables, “zero” is denoted as a dash (“-“); and an asterisk is used (“*”) if the figure is larger than zero but less than 0.5%.
+Throughout the report, figures with a base size of fewer than 30 establishments are not reported (a double asterisk, “**”, is displayed instead), and figures with a base size of 30 to 49 are italicised and should be treated with caution.
+The scale and scope of data collected in ESS 2019 means that it is a valuable research resource supporting detailed and complex statistical analysis of the inter-relationships between employer characteristics and their practices and experiences. The findings presented in this report reflect a descriptive exploration of the data. All differences referred to in the text are statistically significant at the 95% level of confidence. Significance testing on employer measures use the unweighted respondent base, while employment measures, and density measures such as the proportion of the workforce with skills gaps and skills-shortage vacancy density, have been calculated on the basis of the unweighted employment (or vacancy) base. Further statistical information can be found in Appendix D.
+2. New labour market entrants
+New labour market entrants are people entering the workforce straight from education, either from school, FE college or university. In this chapter we examine recruitment of education leavers, and employers’ perceptions of their preparedness for work, and the skills they lack. Although apprenticeships are one key route from education into the workforce, the recruitment and preparedness of apprentices are not included here, but instead covered in the separate Apprenticeships Thematic Report.
+Much policy around the recruitment of education leavers is centred around the provision of work placements and work inspiration activities, which are dealt with later in this report. In the Careers Strategy published in 2017,14 (<>)the Government also set out the ambition of ensuring that careers guidance in secondary schools and colleges meet the eight benchmarks of good career guidance developed by the Gatsby Charitable Foundation. The Careers & Enterprise Company’s State of the Nation 2019 report, drawing on data from nearly 4,000 schools and college completing a self-assessment tool, found that schools and colleges had achieved a mean average of 3.2 of the 8 benchmarks, an increase of over 50% since 2017. Progress had been made against every benchmark, and particularly ‘Encounters with employers and employees’, ‘Linking curriculum learning to careers,’ and establishing ‘A stable careers programme.’ They estimate at least 2 million young people are now receiving an encounter with an employer every year.15 (<>)
+Recruitment of education leavers
+Employers were asked whether they had employed anyone leaving education in the last 2-3 years. Overall, three in ten (30%) had recruited an education leaver in this period, in line with 2016 and 2014 (both 31%).
+Establishments had most commonly recruited school leavers in the last 2-3 years (16%), with recruitment of school leavers aged 17 or 18 (12%) more common than recruitment of school leavers aged 16 (9%). One in seven employers (14%) had recruited a university leaver, and 12% had recruited an FE college leaver.
+(<>)Table 2-1 shows recruitment from each stage of education by country. There were no changes in the proportions recruiting any type of education leaver between 2014 and 2019, with proportions similar between England, Northern Ireland and Wales.
+Table 2-1 Recruitment of education leavers in the last 2-3 years by country, compared with 2014 and 2016
+﻿,England  ,,,Northern Ireland  ,,,Wales  
+Column percentages  ,201416  ,201617  ,2019  ,2014  ,2016  ,2019  ,2014  ,2016  ,2019  
+Unweighted base  ,"10,032  ","10,015  ","13,365  ","2,005  ","2,007  ","1,011  ","2,007  ","1,997  ","1,683  "
+,%  ,%  ,%  ,%  ,%  ,%  ,%  ,%  ,%  
+Recruited any education leaver  ,31  ,31  ,31  ,28  ,29  ,29  ,31  ,31  ,30  
+Recruited any school leaver  ,16  ,17  ,16  ,14  ,15  ,16  ,17  ,17  ,16  
+16-year-old school leaver  ,10  ,10  ,9  ,8  ,10  ,10  ,10  ,11  ,10  
+17-18-year-old school leaver  ,11  ,12  ,12  ,11  ,11  ,11  ,12  ,13  ,12  
+Recruited college leaver  ,11  ,12  ,12  ,9  ,9  ,11  ,11  ,12  ,12  
+Recruited HEI leaver  ,14  ,14  ,14  ,14  ,14  ,12  ,13  ,15  ,13  
+
+Source: IFF Research, Employer Skills Survey 2019
+Likelihood to have recruited an education leaver in the last 2 to 3 years increased with employer size, rising from 17% among establishments with 2 to 4 employees to 87% of establishments with 250 or more employees, with a similar pattern true for each type of education leaver. This reflects the fact that that larger employers were more likely to recruit at all, as discussed in the core ESS report. Among specifically employers that had recruited in the last 12 months, larger employers were still more likely to have taken on an education leaver in the last 2-3 years than smaller employers, although the difference was less stark: just under a third (64%) of recruiting employers with fewer than 50 employees had taken on an education leaver (with similar proportions in each size band within that group), compared to three-quarters or more of recruiting employers with 50 to 99 staff (74%), 100 to 249 staff (78%) and 250 or more staff (90%).
+Education leavers were most commonly recruited by employers in the Education sector (48%) and Hotels and Restaurants sector (43%); the latter proportion was an increase on 36% in 2016, driven by larger proportions recruiting school leavers (32%, up from 24% in 2016) and college leavers (23%, up from 17% in 2016). There was a fall in the proportion of Information and Communications employers recruiting any education leavers (27%,
+down from 34% in 2016), with decreases in the proportions recruiting college leavers (from 11% to 6%) and university leavers (from 24% to 18%).
+Table A.2.1 in Appendix A shows the recruitment of education leavers by size and sector.
+A larger proportion of public sector employers had recruited an education leaver in the previous 2-3 years (40%) compared with private sector (31%) or third sector (25%) employers. Public sector employers were particularly more likely to recruit university leavers (31%) compared with the third sector (16%) and private sector (13%).
+Preparedness of education leavers
+A key issue for employers, education providers and policymakers is whether individuals leaving education to join the workplace are deemed to be well-prepared for their job role. (<>)Figure 2-1 shows perceived levels of preparedness of each type of education leaver.
+Overall, more than half of employers that had recruited any education leavers in the last 2-3 years felt that these recruits were prepared for their job role, with the proportion rising in line with the level of educational achievement, from 56% of those that had recruited 16-year-old school leaver to 78% of those that had recruited university leavers.
+Although school leavers continued to be regarded as less prepared than college or university leavers, there were increases in the proportions of employers feeling their school leavers were prepared for work for both 16-year-old school leavers (56%, up from 51% in 2016) and 17-18-year-old school leavers (64%, up from 58% in 2016, and 60% in 2014).
+At the same time, there was no change in the perceived preparedness of FE college leavers, and a decrease in the proportion of employers describing their university leavers as prepared (78%, down from 80% in 2016).
+Figure 2-1 Preparedness of education leavers for work, by country and in comparison with 2016 and 2014
+ALL England NI Wales Base: All establishments that have recruited each type of education leaver in the previous 2-3 years 16-year-old school leavers 17-18 year-old school leavers 17-18 year-old FE leavers University /HE leavers (296) (164) (2,988) (2,528) (2,554) (167) (300) (3,021) (3,467) (204) (326) (2,937) (1,761) (128) (225) England NI Wales England NI Wales ALL England NI Wales ALL Very poorly prepared PREPARED 2016 52% 49% 44% 13% 17% 12% 13% 21% 22% 14% 21% 24% 26% 25% 24% 28% 23% 34% 28% 2% 2% 2% 5% 11% 5% 5% 6% 9% 2% 6% 10% 15% 3% 10% 56% 56% 57% 56% 56% 48% 56% 57% 54% 49% 50% 54% 45% 50% 48% 45% 23% 20% 29% 23% 12% 12% 22% 12% 10% 8% 16% 10% 11% 8% 13% 11% Poorly prepared Well prepared Very well prepared 58% 60% 52% 68% 76% 63% 80% 82% 81% Source: IFF Research, Employer Skills Survey 2019 ALL 51% 58% 68% 80% 56% 61% 58% 65% 65% 56% 69% 78% 60% 78% 85% 76% 56% 64% 69% 78% 2019 (2,114) 2014 52% 57% 59% 60% 68% 60% 72% 79% 75% 81% 83% 82% 53% 60% 72% 81%
+The overall increase in the proportion of employers stating that their 16-year-old school leavers were prepared reflected increases in each country, however this was particularly notable in Northern Ireland and Wales, with increases of 12 and 14 percentage points respectively, compared to an increase of 4 percentage points in England.
+Employers in Northern Ireland were more likely to think college leavers were very well or well prepared (78%) compared with those in England and Wales (69% and 60% respectively). Employers in Northern Ireland were also more likely to think university leavers were prepared (85%, compared with 78% in England and 76% in Wales).
+There was no difference by size in recruiting employers’ perceptions of 16-year-old school leavers’ preparedness for work, however smaller establishments were more likely than larger establishments to view older education leavers as being poorly prepared for their job role:
+• School leavers aged 17 to 18 were felt to be poorly prepared by just under a third (32%) of establishments with fewer than 25 employees, compared with a quarter (25%) of establishments with more than 25 employees;
+• College leavers were felt to be poorly prepared by a three in ten (30%) employers with fewer than 25 staff, compared with 18% of employers with 25 or more staff; and
+• University leavers were found to be poorly prepared by 19% of establishments with between fewer than 25 employees, compared with 8% of establishments with 25 or more employees.
+Employers in the Education sector that had recruited an education leaver were more likely to feel that education leavers aged 17 and over were prepared for their job role compared with other sectors, with more than three-quarters reporting that 17-18-year-old school leavers (78%), FE college leavers (80%) and university leavers (88%) were well or very well prepared.
+Recruitment and preparedness of education leavers by local area within England
+A key benefit of the large sample size of the ESS survey is that skills needs can be examined at a Local Enterprise Partnership (LEP) level in England. By considering this local data it is possible to identify specific areas of the country where greater or smaller proportions of employers have recruited education leavers, and in which parts of the country education leavers were perceived as being more or less well prepared for work. This section illustrates the type of local level data available and some of the variations in education leavers entering the workforce around the country. The detailed data tables published alongside the ESS reports can be used to do more in-depth analysis of specific areas.
+Recruitment of education leavers overall was fairly even across the local areas, with figures ranging from 23% to 35% against an average of 30% across England. (<>)Table 2-2 below shows the recruitment of employers recruiting education leavers within each LEP, as well as the proportions recruiting each type of education leaver: school, college and university. The top 10 LEPs in each column are highlighted green, while the bottom 10 are highlighted red.
+Table 2-2 Proportion of employers recruiting of education leavers by LEP
+﻿LEP  ,Base  ,Any educa-tion leaver  ,School leavers  ,College leaver  ,University leaver  
+Gloucestershire  ,194  ,35%  ,18%  ,16%  ,15%  
+Liverpool City Region  ,254  ,35%  ,23%  ,15%  ,18%  
+Solent  ,257  ,34%  ,19%  ,15%  ,10%  
+Enterprise M3  ,345  ,34%  ,17%  ,12%  ,17%  
+Leeds City Region  ,768  ,33%  ,16%  ,15%  ,17%  
+Greater Lincolnshire  ,313  ,33%  ,17%  ,15%  ,14%  
+Cheshire and Warrington  ,241  ,33%  ,21%  ,14%  ,14%  
+Greater Birmingham and Solihull  ,384  ,33%  ,17%  ,13%  ,17%  
+London  ,"1,935  ",33%  ,12%  ,9%  ,22%  
+Black Country  ,204  ,32%  ,16%  ,17%  ,12%  
+Swindon and Wiltshire  ,159  ,32%  ,18%  ,17%  ,9%  
+South East  ,863  ,32%  ,16%  ,16%  ,14%  
+Sheffield City Region  ,443  ,32%  ,20%  ,13%  ,10%  
+Coventry and Warwickshire  ,210  ,31%  ,21%  ,15%  ,14%  
+Thames Valley Berkshire  ,174  ,31%  ,17%  ,13%  ,19%  
+Stoke-on-Trent and Stafford-shire  ,252  ,31%  ,19%  ,13%  ,9%  
+Heart of the South West  ,507  ,31%  ,21%  ,11%  ,10%  
+Coast to Capital  ,399  ,30%  ,17%  ,15%  ,13%  
+Dorset  ,195  ,30%  ,16%  ,13%  ,15%  
+The Marches  ,216  ,30%  ,14%  ,12%  ,10%  
+North Eastern  ,751  ,30%  ,19%  ,11%  ,11%  
+Greater Manchester  ,477  ,29%  ,16%  ,15%  ,12%  
+South East Midlands  ,488  ,29%  ,17%  ,12%  ,12%  
+West of England  ,284  ,29%  ,17%  ,11%  ,15%  
+"Derby, Derbyshire, Nottingham and Nottinghamshire  ",546  ,29%  ,17%  ,10%  ,10%  
+Tees Valley  ,261  ,28%  ,15%  ,13%  ,14%  
+Greater Cambridge Greater Pe-terborough  ,471  ,28%  ,16%  ,12%  ,11%  
+Leicester and Leicestershire  ,270  ,28%  ,16%  ,12%  ,11%  
+Humber  ,221  ,28%  ,17%  ,12%  ,8%  
+Oxfordshire  ,164  ,28%  ,14%  ,9%  ,15%  
+Worcestershire  ,149  ,27%  ,14%  ,12%  ,14%  
+"York, North Yorkshire and East Riding  ",401  ,27%  ,15%  ,10%  ,10%  
+Cornwall and Isles of Scilly  ,190  ,27%  ,18%  ,10%  ,8%  
+New Anglia  ,524  ,26%  ,14%  ,13%  ,9%  
+Hertfordshire  ,255  ,26%  ,14%  ,7%  ,11%  
+Lancashire  ,364  ,25%  ,16%  ,12%  ,12%  
+Cumbria  ,211  ,25%  ,18%  ,11%  ,8%  
+Buckinghamshire Thames Val-ley  ,132  ,23%  ,12%  ,8%  ,12%  
+
+This shows the variation not just between LEPs, but also within LEPs across the different types of education leavers; for example, while Gloucestershire and Liverpool City Region are both in the top 10 overall for each individual type of education leaver, Solent is one of the top 10 recruiters of school and college leavers, and is in the top 10 overall, but in the bottom 10 LEPs for recruiting university leavers. Conversely, Cumbria and Cornwall and the Isles of Scilly are in the bottom 10 when it comes to recruiting college and university leavers but are two of the top 10 LEPs for recruiting school leavers.
+Turning to preparedness, (<>)Table 2-3 shows the proportion of employers within each LEP saying that the education leavers they recruited were prepared or well prepared for their role, for each type of education leaver. The top 5 LEPs in each column are highlighted green, while the bottom 5 are highlighted red; the table overall is ranked by the mean proportion saying recruits were prepared across all education types.
+Table 2-3 Proportion of employers saying education leaver recruits were well prepared, by LEP
+﻿LEP  ,16-year-old school leavers  ,17-18-year-old school leavers  ,College leavers  ,University leavers  
+Cheshire and Warrington  ,**  ,70%  ,**  ,90%  
+Tees Valley  ,**  ,**  ,77%  ,79%  
+Thames Valley Berkshire  ,**  ,**  ,**  ,76%  
+"York, North Yorkshire and East Riding  ",68%  ,75%  ,81%  ,77%  
+West of England  ,**  ,57%  ,81%  ,87%  
+Lancashire  ,**  ,64%  ,79%  ,81%  
+South East Midlands  ,72%  ,68%  ,72%  ,76%  
+North Eastern  ,66%  ,77%  ,68%  ,74%  
+Leeds City Region  ,63%  ,73%  ,75%  ,71%  
+Enterprise M3  ,52%  ,62%  ,79%  ,88%  
+Greater Birmingham and Solihull  ,63%  ,64%  ,64%  ,88%  
+Greater Lincolnshire  ,**  ,71%  ,69%  ,63%  
+London  ,55%  ,62%  ,67%  ,81%  
+Leicester and Leicestershire  ,**  ,55%  ,**  ,77%  
+Solent  ,**  ,63%  ,69%  ,**  
+Sheffield City Region  ,46%  ,66%  ,69%  ,82%  
+"Derby, Derbyshire, Nottingham and Nottinghamshire  ",56%  ,62%  ,64%  ,78%  
+South East  ,56%  ,62%  ,73%  ,68%  
+Greater Cambridge Greater Peterbor-ough  ,50%  ,66%  ,59%  ,83%  
+Liverpool City Region  ,**  ,50%  ,60%  ,83%  
+Heart of the South West  ,43%  ,54%  ,70%  ,79%  
+New Anglia  ,48%  ,64%  ,57%  ,77%  
+Coast to Capital  ,57%  ,62%  ,53%  ,68%  
+Greater Manchester  ,39%  ,58%  ,63%  ,77%  
+
+For base sizes see Table A.2.3 in Annex A.
+Any figures with a base below 50 are shown as ‘**’. LEPs with a base below 50 for each measure not shown.
+Skills lacking among education leavers
+Employers that reported any of their education leaver recruits being poorly prepared were asked which skills these recruits were lacking; here we present the numbers mentioning a lack of each skill as a proportion of all employers that had recruited education leavers over the previous 2 to 3 years, to give a sense of the scale of the skills issue among education leavers entering the workplace as a whole. Among employers that had recruited education leavers over the last 2 to 3 years, the skill most commonly found lacking among recruits was a lack of working world or life experience, or lack of maturity. However, the proportion mentioning this has broadly decreased over time, with levels falling between 2014 and 2019 among recruiters of 16-year-old school leavers (from 25% to 22%), and 17 or 18-year-old school leavers (from 20% to 17%), and university leavers
+(from 10% to 8%). The proportion of employers mentioning that 17 to 18-year-old college leavers lacked working world or life experience decreased since 2016 (from 16% to 14%), representing a return to 2014 levels.
+Employers in Northern Ireland were less likely to feel that college leavers lacked work or life experience (6%) compared with those in England (14%) and Wales (15%).
+The second most common skill lacking was a poor attitude or lack of motivation. The proportions reporting a lack of this skill among school and college leavers had decreased since 2016, although for 16-year-old school leavers and for FE college leavers this was a return to levels seen in 2014. However, the proportion of employers mentioning this issue for 17-18-year-old school leavers (15%) was significantly lower than the proportions in both 2016 (22%) and 2014 (20%).
+Employers in Northern Ireland were less likely to mention a poor attitude or lack of motivation being an issue for 16-year-old school leavers (11%, compared with 20% in England and 23% in Wales) and for college leavers (8% compared with 13% in England and 17% in Wales).
+Issues related to a poor education, or lack of numeracy, literacy or other skills or competencies were mentioned by 15% of employers that had recruited a 16 year-old school leaver, 12% of those that had recruited a 17 to 18 year-old school leaver, 11% of those that had recruited an FE college leaver, and 6% of those that had recruited a university leaver. There was no change over time in the proportion of employers reporting these issues for 16-year-old school leavers; the proportions of employers mentioning these issues for older education leavers had all dropped since 2016, however, in each case this brought the level back in line with 2014, suggesting proportions are remaining broadly consistent over time.
+Regarding specific types of skills or competencies lacking, for each level of education leaver below university, recruiting employers were more likely to mention a lack of soft or personal skills rather than a lack of technical skills. Among college leavers particularly, employers in Wales were more likely to mention a lack of technical skills (9%) compared with those in England (5%) and Northern Ireland (2%), and more likely to mention a poor education (5%) compared with England (2%) and Northern Ireland (0%).
+See Table A.2.4a in Annex A for a full breakdown of skills lacking for each level of education leaver by nation, size and sector.
+3. The existing workforce
+In this chapter we move on to consider the pipeline of skills available to employers in the existing workforce, including the recruitment of older workers aged over 50 and their preparedness for work, and the extent to which employers are underutilising the skills of existing workers (of all ages) in their establishments. Clearly part of the picture on the skills pipeline from the existing workforce is the extent to which current employees are fully proficient, and their upskilling requirements. As these topics are covered extensively in the ESS Skills Needs thematic report we do not cover them here.
+As two-thirds of the UK workforce have already left full-time education,18 (<>)making best use of skills within the current workforce is of critical importance, and policy attention needs to be paid to the existing workforce as well as new entrants.
+Within the current workforce, older workers aged 50 and over are an increasingly important source of skills and labour, and form part of the talent pipeline that employers can tap into. With rises in retirement age, there are currently over 10 million workers aged 50 and over in the UK, approaching a third of the total workforce.19 (<>)Previous evidence suggests that older workers are less likely to receive training than younger workers, but report higher job satisfaction and wellbeing; furthermore, the proportion of older workers employed does not affect the performance of private sector businesses.20 (<>)
+The 50 plus age group within the workforce faces a number of challenges: as the UK population ages, increasing numbers of older workers have caring responsibilities for parents, children and grandchildren, with informal care most likely to be provided by people aged in their 50s and 60s.21 (<>)There is also considerable risk to the employment of older workers in the context of the Covid-19 pandemic, with previous research having shown that older workers were more likely to experience higher unemployment and underemployment rates than younger workers in the wake of the MERS outbreak.22 (<>)The ESS 2019 / EPS series provides a helpful pre-Covid baseline upon which future changes
+in the employment and preparedness of older workers in the labour market can be tracked.
+Prior to the Covid-19 pandemic, several policy initiatives had been put in place directed at the employment of older people. The Government’s Fuller Working Lives Strategy was launched in 2017 and set out recommendations on supporting older workers, including expansions of the right to flexible working, opportunities for work placements and reforms to the adult skills system.23 (<>)The government appointed the Business in the Community age partnership as Business Champion for Older Workers, to lead the government’s work in supporting employers to hire and retrain older workers.24 (<>)
+The Government also announced the National Retraining Scheme in 2018, which aims to help adults retrain into better jobs. The scheme is targeted at those aged 24 and over in work, without degree-level qualifications, and paid below a certain threshold. Currently in a pilot phase, the ultimate goal is for the scheme to provide careers advice and guidance, functional skills training, training courses involving online and blended learning to enable flexible access, and in-work vocational training.25 (<>)
+Recruitment of older workers
+Around one in three (31%) of all recruiting employers had recruited someone aged 50 or over in the 12 months prior to being surveyed. This was the same proportion as in 2016, maintaining an increase from 29% in 2014, and equivalent to 14% of all employers.
+A smaller proportion of recruiting in employers in Northern Ireland had taken on someone aged 50 or over (25%) compared with those in England (31%) and Wales (33%), as was the case in both 2016 and 2014.
+Likeliness to have recruited an older worker aged 50 or more increased with the size of establishment, rising from less than a quarter of those with fewer than five employees (23%) to three-quarters (75%) of those with 100 or more employees; again, this is the same pattern as in previous years.
+Figure 3-1 Proportion of recruiting employers recruiting older workers aged 50+ by size and sector
+31% 33% 25% 21% 27% 18% 23% 29% 29% 30% 25% 40% 38% 52% 44% 56% 23% 25% 25% 25% 28% 29% 31% 32% 37% 38% 47% 53% 60% Hotels & Restaurants Business Services Information & Comms Primary Sector & Utilities Arts & Other Services Construction Wholesale & Retail Financial Services Manufacturing Education Health & Social Work Transport & Storage Public admin. 2019 2016 23% 23% 27% 27% 44% 41% 57% 53% 69% 72% 80% 82% 2-4 5-24 25-49 50-99 100-249 250+ Base: All establishments who had recruited in the last year: 2019 Module D (10,001); 2016 (9,031). See Table A.3.1 in Appendix A for subgroup base sizes 31% of recruiting employers recruited older workers (50+) (in line with 2016)
+Recruiting older workers was most common among employers in Public Administration (60%), Transport and Storage (53%, an increase on 44% in 2016) and Health and Social Work (47%).
+Third sector and public sector establishments were more likely to have recruited an older worker (46% and 45% respectively had done so), compared with private sector establishments (29%), as was the case in 2016 and 2014.
+Overall, employers taking on recruits aged 50 or over valued work experience more highly than academic qualifications: those that had recruited anyone aged 50 and over were less likely to look for recruits to have particular academic qualifications (43%) and less likely to look for recruits to have Maths and English GCSE to at least level 2 (52%) compared with those that had only recruited individuals aged below 50 (47% and 55% respectively).
+Preparedness of older workers for their job role
+The vast majority of employers recruiting older recruits found them well prepared for their job role (95%), and more than half (57%) said they were very well prepared. Just 3% of those that had recruited an older worker felt they were poorly or very poorly prepared.
+While the vast majority of businesses of all sizes found their older recruits to be prepared, the proportion finding them to be very well prepared decreased with size, falling from 60% of businesses with 2 to 4 employees, to 46% of those with 100 or more employees.
+Employers in Financial Services were less likely than other sectors to feel that their older recruits were prepared (88%), and more likely to find them poorly or very poorly prepared (10%).
+Under-utilisation
+In this part of the chapter we turn to consider the existing workforce more broadly and the extent to which employers are under-utilising their current staff. Under-utilisation occurs when employees have both qualifications and skills more advanced than required for their current job, meaning, in essence, that these skills are available but not being utilised by employers. This differs from under-employment, which describes people in the workforce who are employed, but for fewer hours than they would like to work, or, taking jobs that are below the level of their training or economic needs; underemployment is not measured in this survey.
+Historical LFS data shows that as labour demand strengthens, underemployment and unemployment both tend to decrease. In the post-Covid period, we can expect the reverse, with ONS noting that “Underemployment is expected to increase on a large scale, and wages and working hours are expected to adjust downwards significantly.”26 (<>)The International Labour Organisation (ILO) identified that two key impacts of the virus on the world of work will be to the quantity of jobs, and the quality of jobs.27 (<>)In this context, we might therefore also expect that skills underutilisation will also increase.
+At a time of low unemployment there were still 2.3 million workers with underutilised skills. In the current context, a new set of challenges arises:
+• Maximising skills use to aide recovery - will the number of employees with underutilised skills increase, and how do we make best use of the skills of the current workforce to aide recovery after Covid-19?
+• Skills degradation – with unemployment rising, and likely to increase still further, how do we ensure that the skills of the workforce do not deteriorate through a lack of suitable job opportunities – either through underemployment or through not working at all.
+The Centre on Skills, Knowledge and Organisational Performance (SKOPE) noted in 2016 that policy has tended to focus on boosting the supply of skills rather than the utilisation of skills within the existing workforce, leading to “a major gap in terms of the institutional capacity, programmatic designs and expertise that might be deployed to address the improvement of skills utilisation.”28 (<>)Finding ways to ensure that all workers are able to use their skills effectively could be beneficial for employers in the wake of the Covid-19 pandemic, particularly as skills underutilisation has previously been found to be detrimental to firm performance.29 (<>)In ESS 2019, under-use of skills was measured by asking employers how many staff, if any, had both qualifications and skills more advanced than required for their current job role. Such under-utilisation suggests there are pockets of latent skills in the labour market that are lying un-used and could be better deployed by employers. However, it is worth bearing in mind that the survey can only capture what employers are aware of and report.
+Around a third (34%) of establishments reported that at least one employee had both qualifications and skills more advanced than required for their current job role. In volume terms, 2.2 million workers, or 8% of the workforce, have under-utilised skills.
+As illustrated in (<>)Figure 3-2, both incidence and density of under-utilised staff have decreased slightly since 2017, when a third (34%) of establishments reported under-utilised skills and 2.3 million staff were reported to have both qualifications and skills at a more advanced level than required from their job role (8.6% of the workforce). However, despite this decrease, the proportion of establishments reporting under-utilised skills and the proportion of the workforce with under-utilised skills remained higher than the levels reported in 2015.
+Figure 3-2 Incidence and density of staff who are both over-qualified and over-skilled by country
+30% 35% 34% 30% 34% 34% 28% 37% 35% 34% 36% 34% 7.1% 8.6% 8.0% 7.0% 8.5% 8.0% 7.8% 9.4% 9.7% 7.5% 9.5% 8.1% UK England N. Ireland Wales Base: All establishments (2019: All: 31,088; England: 26,707; NI: 2,003; Wales: 3,378) 2015 % of establishments reporting skills under-use2019 % of staff reported as being both over-qualified and over-skilled 2017 2017 2019 2015 2017 2019 2015 2017 2019 2015 2017 2019 2015 Source: IFF Research, Employer Skills Survey 2019
+There were no differences in the proportions of employers with underutilised staff between countries, a change from 2017 when employers in England were less likely to have any underutilised staff than those in Northern Ireland and Wales.
+As in 2015 and 2017, the proportion of staff under-utilised is considerably higher among establishments with 2 to 4 employees, where 20% of staff are considered both over-skilled and over-qualified. This proportion falls to 10% among establishments with 5 to 24 employees and 6% for those with 25 or more employees. Fewer formal opportunities for career progression in smaller establishments, as well as the more ‘hands-on’ roles that senior staff often take on in small businesses may contribute to this variation by establishment size.
+At a sectoral level, as in previous years, density of skills under-use was greatest in the Hotels and Restaurants (14%) and Arts and Other Services (12%) sectors. These sectors are typically characterised by large numbers of highly qualified graduates working in roles with lower skills requirements.
+See Tables A.3.2 and A.3.3 in Annex A for a full breakdown of employers with underuti-lised staff, and the proportion of staff reported as underutilised, by nation, size and sector.
+4. Nurturing the skills pipeline: placements and work inspiration
+This chapter considers levers that can be used to nurture the skills pipeline, focusing on work placements, work inspiration opportunities and T-Levels. Training and the use of apprenticeships are clearly also ways the skills pipeline can be developed; however, these are covered in more detail the accompanying Training and Apprenticeships thematic reports and are therefore not discussed here.
+Earlier in this report saw that the skill most commonly found lacking among recruits leaving education was a lack of working world or life experience; although the proportion of employers finding this skill lacking in education leavers has decreased since 2016, it was still cited as an issue by up to a fifth of employers recruiting school leavers, suggesting scope to further improve the work-readiness of this age group in particular.
+The opportunity for people to develop skills in the workplace will take on a renewed importance in the post-Covid period, and particularly those leaving education. In its preliminary assessment of the possible impacts of the Covid pandemic, the ILO notes that “Young persons, already facing higher rates of unemployment and underemployment, are more vulnerable to falling labour demand, as witnessed during the global financial crisis.”30 (<>)The Government’s Careers Strategy, published at the end of 2017, had previously set out the aim of schools offering every young person at least one encounter with employers in each of the seven years of secondary schooling.31 (<>)
+In 2016 the review of technical education chaired by Lord Sainsbury recommended that work experience needed to become a more integral and comprehensive element of technical courses: “We believe these students need a radical shift in emphasis from short-duration work experience to structured work placements lasting much longer and with an employer in an industry relevant to the student’s study programme.”32 (<>)In response, the Post-16 Skills Plan accepted the recommendations of the review, and announced a new technical option to sit alongside the traditional academic option of A-Levels, which would include an industry placement. This new option, T Levels, is discussed in the following chapter; here we will look at other forms of education work
+placements and work inspiration offered by employers, as well as work placements offered to adults.
+In the accompanying Skills Needs report, we saw that the factor that employers most commonly identified as being of significant or critical importance when recruiting new staff generally was relevant work experience (63%), something that was particularly important among employers with any skill-shortage vacancies (79%). This demonstrates how crucial it is to ensure that those entering the labour market or moving within it are given the opportunities to develop their skills within the workplace. Reflecting this, as part of the response to employment challenges in the wake of Covid-19, the government has announced a new Kickstart Scheme, which will fund 6-month work placements aimed at those aged 16-24 on Universal Credit.33 (<>)
+Work placements
+Previous research has evidenced the positive impact on employment that work placements afford young people,34 (<>)and the unemployed;35 (<>)even among graduates, those with more work experience achieve better degrees, are less likely to be unemployed, and more likely to have a higher wage.36 (<>)Work experience can help challenge social and financial barriers to the workplace, but they need to be open to a wide spectrum of society to achieve this goal.
+Despite government interventions to encourage businesses to offer work placements,37 (<>)the proportion of UK establishments providing work placements in the last 12 months has decreased since 2016 (35% down from 38%). Levels of each broad type of placement declined, with 27% offering placements for individuals in education (either school, college or university), down from 30% in 2016; 12% offering adult placements (commonly work trials or placements aimed at the unemployed), down from 15% in 2016; and 6% offering paid or unpaid internships, down from 7% in 2016. These are broad categorisations of a series of more specific types of work placements read out to employers in the survey, as (<>)Figure 4-1 illustrates.
+Figure 4-1 Type of work placements provided in the last 12 months
+19% 12% 10% 10% 3% 1% <1% 6% <1% Placements for people at school Placements for people at FE or 6th form college Placements for people at university Work trials for potential new recruits Placements targeted at the unemployed Voluntary work (unprompted) Special needs or Disability programme (unprompted) Internships, either paid or unpaid Graduate programme (unprompted) 12% Adult placements 27% Education placements 6% Internships Base: All establishments (module C) (16,059)Source: IFF Research, Employer Skills Survey 2019
+The overall decrease in work placements was driven by decreases in England and Northern Ireland, with the latter seeing the most substantial drop: the proportion of employers in Northern Ireland offering any work placement fell from nearly half (48%) in 2016 to just over a third (36%) in 2019. The proportion offering adult placements decreased by six percentage points (from 16% to 10%) and the proportion offering education placements in Northern Ireland decreased by nine percentage points (from 41% in 2016 to 32% in 2019). Despite this drop, employers in Northern Ireland remained more likely to offer any education placements than those in England and Wales (each 27%).
+Employers in Northern Ireland were the least likely to offer any adult work placements (10%) and employers in Wales were most likely (15%), compared with 12% in England.
+Table 4-1 Grouped work placement offering in the last 12 months, by country
+﻿,England  ,,NI  ,,Wales  
+,2016  ,2019  ,2016  ,2019  ,2016  ,2019  
+Base  ,10015  ,13365  ,2007  ,1011  ,1997  ,1683  
+,%  ,%  ,%  ,%  ,%  ,%  
+Any work placement  ,38  ,35  ,48  ,36  ,39  ,36  
+Education placements  ,29  ,27  ,41  ,32  ,29  ,27  
+Adult place-ments  ,15  ,12  ,16  ,10  ,15  ,15  
+Internships  ,7  ,6  ,7  ,6  ,8  ,5  
+
+Base: All establishments
+As one would expect, larger establishments were more likely to offer work placements: close to eight in ten (79%) establishments with 100 or more staff had offered work placements in the last 12 months, compared with 24% of establishments with 2 to 4 staff. Indeed, nearly two in five large establishments (38%) offered more than one type of these grouped placements.
+In addition, the reduction in the proportion of employers offering placements since 2016 was driven by smaller businesses, with the proportion of establishments with 2 to 4 staff offering any placements falling from 28% in 2016 to 24% in 2019, and the proportion of establishments with 5 to 24 employees falling from 45% to 43%. Most of these decreases were due to a drop in education placements, although the smallest establishments also saw a decrease in adult placements (from 11% in 2016 to 7% in 2019).
+Table 4-2 Grouped work placement offering in the last 12 months, by size
+﻿Row %s  ,Base  ,,EDUCATION PLACEMENT  ,ADULT PLACEMENT  ,INTERNSHIP  ,TOTAL  
+Total  ,"16,059  ",%  ,27  ,12  ,6  ,35  
+2-4  ,"4,083  ",%  ,19  ,7  ,4  ,24  
+5-24  ,"7,990  ",%  ,32  ,17  ,7  ,43  
+25-49  ,"2,143  ",%  ,52  ,24  ,12  ,64  
+50-99  ,"1,006  ",%  ,60  ,24  ,17  ,69  
+100-249  ,643  ,%  ,66  ,29  ,24  ,78  
+250+  ,194  ,%  ,80  ,33  ,39  ,84  
+100+  ,837  ,%  ,70  ,30  ,28  ,79  
+
+Base: All establishments (module C)
+There was also considerable variation at a sectoral level. As in 2016, employers in the ‘non-market services’ sectors were much more likely to have offered a work placement in the last 12 months, driven by their offering of placements to individuals in education, as (<>)Figure 4-2 illustrates.
+There were some differences to the overall UK trend at a sector level, again mirroring the 2016 results: placements for students in education were the most common form of work placement employers offered, with the exception of establishments in Hotels and Restaurants, for whom adult work placements were most common form (25%). Meanwhile, those in Financial Services were more than twice as likely to offer internships (13%) as they were adult placements (5%). Internships were also slightly more common than adult placements in the Information and Communications sector (9% and 7% respectively).
+Construction and Transport and Storage employers were least likely to offer any type of work placement (23% and 24% respectively); we explore reasons for this later in the chapter, although employers in Construction were much more likely to offer apprenticeships than average, as shown in the accompanying Apprenticeships report. Tables A.4.1 and A.4.2 in Appendix A show the proportion of employers offering specific and grouped work placements in the last 12 months, by country, size and sector.
+Figure 4-2 Work placements by sector
+27% 71% 49% 39% 38% 28% 15% 24% 23% 24% 24% 21% 15% 16% 12% 16% 23% 16% 11% 8%25% 12% 13% 7% 5% 6% 10% 8% 6% 11% 8% 7% 8% 9% 3% 4% 6% 9% 13% 3% 5% 3% ANY EDUCATION PLACEMENT ANY BROAD ADULT PLACEMENT ANY INTERNSHIP ANY PLACEMENT: 35% 77% 58% 46% 43% 35% 34% 32% 31% 30% 29% 23%24% Base: All establishments (16,050): Education (1,005), Health & Social Work (1,656), Arts & Other (1,114), Public Admin. (162), Business Services (3,026), Hotels & Restaurants (1,471), Wholesale & Retail (3,485), Manufacturing (1,181), Information & Comms (510), Financial Services (306), Primary Sector & Utilities. (660), Transport & Storage (428), Construction (1,055),Source: IFF Research, Employer Skills Survey 2019 25%
+Work placement volumetrics
+Employers were asked how many people they had had on placement in the previous 12 months, for up to three of the types of placement they offered.
+For most placement types employers had between 2 and 3 people on placement in the 12 months preceding the survey. However, the average number of people taken on adult placements were generally higher, with employers having an average of 4.5 people on work trials for new recruits and 4.6 on placements for the unemployed. The highest average number taken on placements was for voluntary work (7.9), although the number of employers offering this placement type was very low, therefore at an overall level the number of people on such placements will also be low. The high numbers taken on per employer for such voluntary placements could suggest that these employers are using volunteers to supplement their workforce, as opposed to simply offering experience.
+Figure 4-3 Mean number of work placements offered in the last 12 months for each placement type
+2.5 2.5 2.9 4.5 4.6 7.9 2.2 2.7 3.1 0 1 2 3 4 5 6 7 8 9 0 50000 100000 150000 200000 250000 300000 350000 400000 Placements for people at school Placements for people at college Placements for people at university Work trials for new recruits Placements for the unemployed Voluntary work Special needs / disability Internships, paid or unpaid Graduate programme Total employers with placements (a) Mean number of placements (b) Total employers with placementsMean number of placements Source: IFF Research, UK Employer Skills Survey 2019 Education placements Broad adult placements Internships (a) Base: All establishments (module C) (16,059) (3,732) (2,695) (2,158) (1,991) (664) (116) (61) (81)(1,133) (b) Base: All establishments providing each placement type, and asked as part of the 3 followed up (in brackets above)
+Many of the placement types have seen a decrease in the average number of people on placements, alongside the decreases in the proportion of employers offering placements. Average numbers on education placements have reduced since 2014, as shown in (<>)Table (<>)4-3, with an average of 2.5 people per employer on school placements and college placements, down from 3.4 and 2.8 respectively in 2014.
+Table 4-3 Mean number of work placements offered in the last 12 months for each placement type over time
+﻿,2014  ,,2016  ,,2019  
+,Base  ,Mean  ,Base  ,Mean  ,Base  ,Mean  
+Placements for people at school  ,"4,049  ",3.4  ,"3,961  ",2.9  ,"3,732  ",2.5  
+Placements for people at college  ,"2,737  ",2.8  ,"2,676  ",2.6  ,"2,695  ",2.5  
+Placements for people at university  ,"2,586  ",3.1  ,"2,460  ",3  ,"2,158  ",2.9  
+"Internships, paid or un-paid  ","1,238  ",2.1  ,"1,386  ",2.3  ,"1,133  ",2.7  
+Placements for the un-employed  ,"1,279  ",4.8  ,"1,081  ",4.5  ,664  ,4.6  
+Work trials for new re-cruits  ,"1,594  ",4.1  ,"1,814  ",3.7  ,"1,991  ",4.5  
+Voluntary work  ,NA  ,NA  ,134  ,10.1  ,116  ,7.9  
+Special needs / disa-bility  ,NA  ,NA  ,77  ,2.9  ,61  ,2.2  
+Graduate programme  ,NA  ,NA  ,60  ,3.2  ,81  ,3.1  
+
+Duration of placements
+Employers that had taken anyone on to a work placement were asked how long such placements typically lasted, for up to three types of placement (if more than three types of placement were offered, three were randomly selected for follow up).
+Durations varied widely, with periods of less than a week most common for school placements (54%), work trials for new recruits (40%) and graduate programmes (35%). Generally, the length of education placements increased with the level of education, with 84% of university placements and 75% of college placements lasting for two weeks or more, compared with 45% of placements for people at school. A study carried out for DfE following the publication of the Post-16 Skills Plan noted that the requirement for longer placements as part of the new T Levels route will present a challenge where many employers have been used to offering much shorter placements.38 (<>)
+Voluntary work placements had some of the longest reported durations, with a third (34%) of employers saying these typically lasted for more than six months, followed by placements for people with special needs or disabilities (29%), though it should be noted
+that a fairly high proportion of employers were unable to give a typical duration for these placement types (18% and 33% respectively).
+Figure 4-4 Length of placements offered by type of placement
+54% 22% 12% 40% 8% 9% 3% 9% 35% 31% 22% 17% 13% 15% 5% 5% 14% 8% 4% 10% 12% 12% 12% 4% 6% 11% 11% 5% 17% 27% 17% 23% 18% 16% 26% 18% 7% 11% 5% 12% 12% 8% 12% 7% 3% 17% 17% 6% 14% 34% 29% 23% 7% 5% 4% 6% 17% 18% 33% 6% 13% Placements for people at school Placements for people at collegePlacements for people at universityPlacements for potential newrecruits Work experience for the unemployedVoluntary work Special needs / disability programme Internships, either paid or unpaidGraduateprogramme Don't know Over 6 months 4-6 months 2-3 months Around a month 2-3 weeks A week or less Data labels for figures below 3% not shown (3,732) (2,695) (2,158) (1,991) (664) (116) (60) (81)(1,133) Base: all providing each type of placement (up to 3 followed up): Source: IFF Research, Employer Skills Survey 2019 Education placements Broad adult placements Internships
+Employers in Northern Ireland were more likely to offer very short placements of a week or less (60%) compared with employers in England (54%) and Wales (50%). However, they were also more likely to offer much longer placements, with 8% offering placements of six months or more, compared with 4% in Wales and 3% in England. Similarly, a greater proportion of employers in Northern Ireland offered placements of six months or more for people at college (30%) and for people at university (32%) compared with England (17% for each) and Wales (20% and 12% respectively).
+There was no clear pattern in terms of establishment size with regards to the duration of placements offered to people from school or college, however the smallest establishments with 2 to 4 employees were more likely to only have people from university on short placements of a week or less (18%) than those with 5 or more employees (9%).
+By sector, establishments in Health and Social Work were more likely than other sectors to offer placements lasting at least two weeks to both people from school (61%) and people from college (82%). Education employers were also more likely than average to have people from college on placements for two weeks or more (82%).
+See Tables A.4.3a – A.4.3i in Annex A for a full breakdown of length of placement for each placement type by nation, size and sector.
+Whether any work placements were paid
+Establishments that had placements of any type lasting 2 to 3 weeks or more were asked whether all individuals on those placements were paid whilst working, whether some were paid, or whether none were paid.
+Very few employers (between 1% and 5%) stated that some but not all of their placements were paid, as shown in (<>)Figure 4-5. Aside from placements aimed at potential new recruits and internships, the majority of employers offering each type of placement indicated that the placements were all unpaid. Almost all employers offering voluntary work placements (92%) said these were unpaid, as might be inferred from the name, while around three-fifths of employers offering placements for people with special needs or disabilities (63%) and work experience for the unemployed (59%) said all the placements were unpaid. As seen in the previous section, these types of placements also tended to be of longer durations, therefore care must be taken that such placements are providing value to those undertaking them, rather than simply being a source of unpaid labour for employers.
+Among education placements, placements for younger students were more likely to be unpaid, with 79% of employers offering school placements saying none were paid, compared with 64% of those offering placements for college students, and 52% of those offering placements for people at university.
+Employers were more likely to pay those undertaking placements when the placement was more directly of benefit to the employer, such as forming part of the recruitment of new staff, or where those on placement might take on a more substantial role within the business, such as an internship. Placements acting as work trials for new recruits were all paid by the majority (82%) of employers offering them, while just over three-fifths (62%) of employers providing internships and just under three-fifths (57%) of employers providing graduate programmes said these were all paid.
+Figure 4-5 Payment for work placements by type of placement
+17% 31% 42% 82% 35% 6% 23% 62% 57% 2% 3% 3% 2% 3% 1% 4% 5% 3%79% 64% 52% 15% 59% 92% 63% 30% 40% 2% 2% 3% 1% 3% 9% 3% People at school People at collegePeople atuniversityPotential newrecruits Work experiencefor unemployedVoluntary work Special needs /disabilityprogramme Internships, either paid or unpaidGraduateprogramme Don't know None were paid Some were paid All were paid Data labels for figures below 1% not shown (1,721) (2,081) (1,856) (1,048) (508) (90) (47) (51)(984) Base: all providing placements lasting 2-3 weeks or more (up to 3 followed up): Source: IFF Research, Employer Skills Survey 2019 Education placements Broad adult placements Internships
+Nearly half (47%) of employers in England paid at least some people on placements from university, compared with just under two-fifths (38%) in Wales and less than a third (30%) in Northern Ireland. By size, the very largest establishments with 250 employees or more were more likely to have any paid placements for people at university (64%), compared with all other size bands (45%).
+By sector, employers in Education and Health and Social Work were less likely to have paid education placements: the vast majority reported that no school placements were paid (94% and 92% respectively), around eight in ten reported that no college placements were paid (90% and 86% respectively), and upwards of three-quarters reported that no university placements were paid (84% and 75% respectively). In these sectors it is common for formal work experience to form a part of most courses to study, which may have an impact on these figures. Employers in Arts and Other Services were also more likely to report not paying people on placements from school (84%) and people on placements from university (72%).
+Construction employers were more likely to have paid people on placements from school (36%), as were those in Hotels and Restaurants (34%) and Information and Communications (31%). The majority of Hotels and Restaurants employers also had paid placements for people at university (91%), followed by employers in Financial Services (86%) and Manufacturing (75%).
+See Table A.4.4a in Annex A for a full breakdown of the proportion of employers paying people on placements for each placement type by nation, size and sector.
+Extent to which work placements result in employment
+Employers were also asked whether any work placement they had offered in the last 12 months had resulted in them taking on an individual into a permanent or long-term paid role. Across all placements, three in ten employers (30%) offering placements had taken on an individual into a permanent or long-term role, illustrating that the majority are not using work placements with a view to offering long-term employment.39 (<>)This figure is a decrease since 2016 (33%) and represents a return to the level seen in 2014 (31%).
+The likelihood of a placement resulting in a permanent or long-term role varied considerably between types of placement, as shown in (<>)Figure 4-6. For example, six in ten establishments (59%) had taken on an individual permanently following a work trial, double the proportion of the next most common placement leading to employment, work experience for the unemployed (30%). Education placements were less likely to lead to a permanent role, in particular placements for people at school (9%); around a fifth of employers had offered a permanent role as a result of placements for people at college (20%) or at university (21%).
+Figure 4-6 Whether employers recruited anyone to a permanent paid role after being on placement in the last 12 months
+9% 20% 21% 59% 30% 18% 19% 24% 12% 90% 78% 77% 38% 63% 76% 52% 73% 80% 1% 2% 2% 3% 7% 5% 29% 3% 8% People atschoolPeople atcollegePeople atuniversityPotential newrecruitsWork experience forunemployedVoluntary work Special needs / disabilityprogrammeInternships,either paid orunpaidGraduateprogramme Don't know No Yes (3,732) (2,695) (2,158) (1,991) (664) (116) (60) (81)(1,133) Source: IFF Research, Employer Skills Survey 2019 Education placements Broad adult placements Internships Base: all providing each type of placement (up to 3 followed up):
+Employers offering placements in Wales were more likely to have recruited someone into a permanent or long term role from a work placement (35%) than employers in England (30%), while those in Northern Ireland were less likely to have done so than both England and Wales (22%). In terms of specific placement types, employers in Wales were particularly more likely to have offered a permanent role to someone from a school placement (14%) compared with England (9%) and Northern Ireland (8%).
+Likelihood for any work placement to have resulted in a permanent or long term role increased with the size of establishment, from 17% of establishments offering placements with 2 to 4 employees, to 59% of establishments with 250 or more staff, with the same pattern holding for each individual placement type.
+By sector, work placements leading to a permanent role was notably more common in Hotels and Restaurants, where nearly three-fifths (58%) of employers offering placements had recruited someone as the result of a work placement; this was followed by the Manufacturing sector, where just under two-fifths (39%) had done so, compared to an average of 27% across all other sectors.
+See Table A.4.5a in Annex A for a full breakdown of the proportion of employers that had taken on individuals into a permanent or long-term paid role following their placement for each placement type by nation, size and sector.
+Employers that offered placements were more likely to recruited someone to a permanent or long term role as a result of a work placement if they also had skill-shortage vacancies in the preceding 12 months (42%) compared with those that did not have any skill-shortage vacancies (29%). Although this could be partly a factor of establishment size (as larger establishments were more likely to have both skill-shortage vacancies and work placements resulting in permanent or long term roles), within each size band employers with skill-shortage vacancies were significantly more likely to have recruited someone from a placement, aside from the smallest size band (those with 2 to 4 employees) and the largest (those with 250 or more employees).
+For example, among establishments offering placements with 5 to 24 employees, 41% of those reporting skill-shortage vacancies had placements resulting in permanent or long term roles, compared with 34% of those with no skill-shortage vacancies; and among establishments with 50 to 99 employees, 58% of those reporting any skill-shortage vacancies recruited someone into a permanent role from a placement, compared with 45% of those with no skill-shortage vacancies. This could suggest that employers experiencing skill-shortage vacancies may find work placements an effective way to source (or to teach) the skills they are looking for.
+Work inspiration
+Separate to offering work placements, businesses can also provide advice and support to students about the workplace and their industry. These might involve one-to-one mentoring support for students, visiting institutions to talk with students about careers or holding site visits for students to visit the establishment and develop a better understanding of the working world. This report refers to such activities as ‘work inspiration’.
+One in nine employers (11%) had engaged with educational institutions to offer work inspiration activities in the 12 months preceding the survey, up from one in ten (10%) in 2016. This overall increase was driven by an increase among employers in England and Wales (from 10% to 11%), while the proportion of employers in Northern Ireland offering work inspiration activities remained the same as 2016, at 13%.
+Engagement with work inspiration activities increased with business size, ranging from just 7% of those with fewer than 5 employees, to nearly half (47%) of those with 100 or more employees; this may be due to larger businesses having the necessary physical space and resources to offer inspiration activities.
+Three in ten establishments in Public Administration (30%) and Education (30%) provided work inspiration activities in the last 12 months, although these sectors represent only a small minority of businesses in the population (1% and 3% respectively).
+Although the private sector makes up the majority of establishments in England, Northern Ireland and Wales, only one in eleven (9%) had offered any work inspiration activities in the 12 months preceding the survey. In contrast, public sector establishments had the highest level of engagement with work inspiration activities (28%), followed by the third sector (23%).
+Figure 4-7 Proportion of establishments offering work inspiration activities in the last 12 months, by country, sector and size
+30% 30% 19% 16% 13% 12% 9% 9% 8% 8% 8% 6% 6% Public Admin.Education Health & SocialWork Arts & OtherBusinessServicesFinancialServicesManufacturingInformation &Comms Primary Sector &UtilitiesWholesale &RetailHotels &RestaurantsConstructionTransport &Storage 7% 12% 22% 30% 41% 64% 2 to 4 5 to 24 25 to 49 50 to 99 100-249 250+ Base: All establishments: England (13,365), Northern Ireland (1,011), Wales (1,683) ALL: 11% of employers had offered work inspiration 11% 11% 13% Base: All establishments (Module C) (16,059) Base: All establishments: 2-4 (4,083), 5-24 (7,990), 25-49 (2,143), 50-99 (1,006) 100-249 (643), 250+ (194) Base: All establishments: Public Admin. (162), Education (1,005), Health & Social Work (1,656), Arts & Other (1,114), Business Services (3,026), Financial Services (306), Manufacturing (1,181), Information & Comms (510), Primary Sector & Utilities (660), Wholesale & Retail (3,485), Hotels & Restaurants (1,471), Construction (1,055), Transport & Storage (428) Source: IFF Research, Employer Skills Survey 2019
+There was considerable crossover between those employers offering work placements and those providing work inspiration activities in the last 12 months: only 4% of UK establishments provided work inspiration activities without also offering work placements. Taking this further, just under two-fifths (39% of all establishments therefore provided some form of work experience to individuals outside of their business. This is a decrease from 41% in 2016, driven by the decrease in employers offering work placements. Reflecting their lack of engagement in both work placements and work inspiration,
+Construction employers were considerably less likely than any other sector to provide such work experience opportunities (26%; the next lowest were Transport and Storage, at 27%, and Primary Sector and Utilities, at 28%).
+Encouraging more employers to offer work placements / work inspiration
+All establishments that had individuals undertaking work placements in the last 12 months were asked on an unprompted basis why they had decided to offer them.
+Two-thirds of employers (67%) said they offered work placements for altruistic reasons, primarily to give people experience (47%) and for the business to ‘do their bit’ and uphold relations with the local community (26%).
+Just over a third (35%) mentioned a benefit to their own business, most commonly that offering placements would help with recruitment or act as a trial period (27%).
+Only a small proportion (8%) stated that they had offered placements due to circumstantial reasons, such as having been approached by a student or educational institution (5%) or doing a favour for a family member or friend (3%).
+These proportions were all broadly in line with previous years.
+Employers in Northern Ireland were more likely to give altruistic reasons (76%), and within this more likely to say they offered placements to give people experience (58%) and that it was part of a Corporate Social Responsibility policy (12%, compared with 9% overall). At the same time, fewer employers in Northern Ireland mentioned company benefits as a reason (23%), and in particular using placements to help with recruitment (15%). Conversely, it was more common for employers in Wales to mention company benefits (43%), with a third (34%) using placements to help with recruitment or as a trial period.
+Figure 4-8 Reasons for offering work placements in the last 12 months
+47% 26% 9% 2% 27% 4% 3% 2% 5% 3% Gives them experience Doing our 'bit' / uphold relations with the local community Part of formal Corporate Social Responsibility policy Existing links with educational institutions Helps with recruitment / as a trial Helps with the workload Raises our profile in the recruitment market Beneficial to the company (e.g. fresh ideas/up to date skills etc.) Approached by student or educational institution Favour for family member or friend Company benefit 67% Altruistic Circumstantial Base: All establishments who have offered placements in the last 12 months (Module C) (7,328)Source: IFF Research, Employer Skills Survey 2019 35% 8%
+The smallest establishments, with fewer than 5 employees, were more likely to have offered placements for circumstantial reasons (11%, compared with 7% of those with 5 or more employees), and less likely to mention any company benefit (31%, compared with 37% of those with 5 or more employees). While there was no clear pattern by size for mentioning altruistic reasons in general, establishments with 100 or more employees were more likely to mention moral reasons specifically (31%, compared with 26% overall), and the very largest, with 250 or more employees, were more likely to mention social responsibility (17%, compared with 9% overall).
+By sector, altruistic reasons were mentioned by a larger proportion of employers in Public Administration (86%), Education (81%), and Health and Social Work (77%). Company benefits were cited as a reason more commonly in Hotels and Restaurants (55%), Transport and Storage (44%) and Manufacturing (43%); within this, using placements to help with recruitment was particularly prevalent in Hotels and Restaurants (51%) and, to a lesser extent, Manufacturing (37%).
+Primary Sector and Utilities employers were more likely to have offered placements for circumstantial reasons (17%).
+Table 4-4 Broad motivations for offering work placements, by sector
+﻿,Base  ,,,ALTRUISM  ,,,DIRECT BENEFIT  ,,,CIRCUMSTANTIAL  
+Sector  ,2014  ,2016  ,2019  ,2014  ,2016  ,2019  ,2014  ,2016  ,2019  ,2014  ,2016  ,2019  
+,,,,%  ,%  ,%  ,%  ,%  ,%  ,%  ,%  ,%  
+Overall  ,6983  ,6936  ,7328  ,71  ,68  ,67  ,38  ,40  ,35  ,10  ,12  ,8  
+Primary Sector & Utilities  ,219  ,244  ,206  ,76  ,54  ,61  ,31  ,37  ,29  ,17  ,24  ,17  
+Manufacturing  ,435  ,418  ,474  ,64  ,63  ,57  ,41  ,40  ,43  ,15  ,14  ,10  
+Construction  ,358  ,319  ,330  ,57  ,55  ,63  ,40  ,47  ,33  ,16  ,15  ,10  
+Wholesale & Retail  ,1157  ,1263  ,1255  ,71  ,70  ,64  ,37  ,37  ,32  ,10  ,11  ,9  
+Hotels & Restaurants  ,621  ,667  ,654  ,57  ,55  ,46  ,51  ,52  ,55  ,4  ,8  ,6  
+Transport & Storage  ,151  ,141  ,151  ,71  ,47  ,51  ,43  ,36  ,44  ,4  ,26  ,13  
+Info & Comms  ,269  ,267  ,211  ,67  ,69  ,68  ,45  ,42  ,39  ,11  ,14  ,7  
+Financial Services  ,148  ,138  ,111  ,69  ,59  ,62  ,27  ,37  ,39  ,17  ,20  ,9  
+Business Services  ,977  ,1138  ,1355  ,72  ,69  ,70  ,36  ,39  ,32  ,10  ,13  ,9  
+Public Admin.  ,203  ,160  ,69  ,84  ,78  ,86  ,28  ,33  ,19  ,6  ,9  ,4  
+Education  ,819  ,702  ,885  ,86  ,85  ,81  ,30  ,29  ,28  ,7  ,9  ,4  
+Health & Social Work  ,1102  ,1014  ,1039  ,78  ,79  ,77  ,38  ,42  ,31  ,6  ,6  ,4  
+Arts & Other  ,524  ,465  ,588  ,71  ,75  ,74  ,33  ,41  ,32  ,12  ,9  ,8  
+
+Base: All establishments offering placements in last 12 months (module C)
+Overlap between work placements, work inspiration, and value of work experience when recruiting
+As mentioned in the introduction to this chapter, when employers were asked for factors they look for when recruiting new staff, the factor that employers most commonly identified as being of significant or critical importance when recruiting new staff was relevant work experience (63%). As this question was only asked of employers in Module D, while questions on offering work placements and work inspiration activities were only asked of employers in Module C, it is not possible to directly compare employers’ approaches to placements relative to the importance they placed on recruits having relevant work experience; however, it is possible to compare responses between the modules at a sectoral level, to identify possible mismatches between desire for candidates to have work experience, and willingness or ability to offer work experience opportunities that would allow candidates to develop these skills.
+As shown in (<>)Figure 4-9, overall, and in the majority of individual sectors, the proportion of employers stating relevant work experience was critical or significant in candidates was considerably higher than the proportion offering any kind of work experience opportunities, including work placements or work inspiration activities.
+Some sectors appear more well matched: for example, over three-quarters (77%) of Education employers felt that work experience was a critical or significant factor, and an even greater proportion (84%) offered some kind of work experience. Similarly, in Health and Social Care, just under two-thirds (64%) of employers stated they valued relevant work experience, while a very similar proportion (62%) offered work experience opportunities.
+Sectors with more of a disparity between the value placed on work experience, and the proportion offering work experience opportunities, include Primary Sector and Utilities, which had the second highest proportion (70%) of employers rating work experience as critical or significant during recruitment, but one of the lowest levels of offering any work experience opportunities (28%); similarly, three-fifths (61%) of employers in Construction felt having relevant work experience was a key factor for candidates, but only a quarter (26%) stated that they offered any work placements or work inspiration activities.
+Figure 4-9 Extent to which work experience is regarded as critical or significant in candidates, against proportion offering work placements or inspiration, by sector
+63% 77%70% 67% 66% 65% 64% 64% 62% 61% 61% 58% 58% 53% 39% 84% 28% 34% 39% 51% 62% 50% 33% 36% 26% 35% 27% 37% Work experience critical/significant in candidates (Module D) Offer any placements or inspiration (Module C) Source: IFF Research, Employer Skills Survey 2019 (16,050)Mod C: Mod D: (16,031) (1,005) (993) (660) (567) (510) (482) (3,026) (3,090) (1,114) (1,110) (1,656) (1,605) (162) (169) (1,181) (1,257) (306) (320) (1,055) (1,013) (3,485) (3,366) (428) (488) (1,471) (1,571) Base: All establishments (module C); all establishments (module D)
+Barriers to offering work experience opportunities
+Understanding the barriers that employers face regarding their provision of work experience opportunities allows any interventions that seek to encourage such provision to be better targeted and focussed. All employers that had neither offered a work placement in the last 12 months nor provided work inspiration activities to students were asked – unprompted – their reasons for this lack of engagement.
+In many cases, a lack of engagement was attributed to the nature of the business. Over a third (36%) of employers that had not offered work placements or work inspiration activities said that there were no suitable roles in their business, while one in nine (11%) said that work experience opportunities were not suitable due to the size of the business. The time needed to facilitate such opportunities was also a concern, with a fifth (21%) of employers saying that they did not have the time or resource to manage it. Some businesses also demonstrated a passive approach to offering experience opportunities, with one in nine (11%) stating they had not done so as they had not been approached by
+anyone, and 5% saying they had never considered it. (<>)Figure 4-10 shows the most common reasons for not offering work experience opportunities.
+Figure 4-10 Most common reasons for not offering work experience opportunities in the last 12 months
+36% 21% 11% 11% 5% 5% 5% 5% 5% 4% 4% 3% 2% 2% 2% 36% 22% 12% 11% 5% 4% 9% 6% 0% 5% 4% 4% 2% 3% 3% No suitable roles Do not have time / resource to manage No one has approached us Not suitable due to size of the establishment Never thought about it No need (unspec.) Recruitment freeze Does not offer us any business benefits Financial cost of delivering placements Regulatory requirements Company policy / Head Office decision Recruit experienced staff through other avenues Bad experience in the past Don't have the work to offer them Age restrictions 2019 2016 Source: IFF Research, Employer Skills Survey 2019 Base: All establishments who have not offered any placements or work inspiration activities in the last 12 months (Module C) 2019 (8,064); 2016 (6,594) *Responses below 2% not shown
+Overall, the reasons given by employers for not offering work experience opportunities in the last 12 months were broadly similar to 2016, although there was a notable drop in the proportion mentioning a recruitment freeze (5%, down from 9% in 2016). Conversely, the financial cost of delivering placements was mentioned by 5% of employers in 2019, having not made the list at all in 2016.
+By country, employers in Wales were more likely to say they had no suitable roles (40%) compared with employers in England (35%) and Northern Ireland (33%). Employers in England were more likely to say they did not have the time or resource to manage placements (21%) than those in Wales (18%) and Northern Ireland (15%), but less likely to say that no one had approached them (11%), compared with Northern Ireland (16%) and Wales (19%).
+The smallest establishments, with between 2 and 4 employees, were understandably more likely to cite barriers related to structural issues, including not having any suitable
+roles (38%, compared with 31% of establishments with 5 or more staff), not having the time or resource to manage it (23%, compared with 18% of those with 5 or more staff) and that placements are not suitable due to the size of the establishment (13%, compared with 7% of those with 5 or more staff). A lack of awareness, which includes not having been approached by anyone, never having thought of it, or not knowing how to organise placements or work experience, was less commonly a barrier for establishments with fewer than 5 staff (15%) compared with those with 5 or more staff (18%).
+As noted in previous sections of this chapter, employers in Construction were typically less likely to both offer work placements or provide work inspiration activities. In line with other businesses, Construction employers most commonly mentioned not having suitable roles (36%) and not having the time or resource to manage such a process (18%, down from 27% in 2016). However, as in 2016, they were more likely than average to mention facing regulatory requirements (8% compared with 5%). Transport and Storage employers were also less likely to have offered work placements or work inspiration activities; as with Construction, the top reasons given by these employers were not having suitable roles (40%) and not having the time or resource to manage it (18%), in line with the average. They were more likely than average to mention age restrictions (6% compared with 2%), which would certainly be a factor with job roles involving driving and operating machinery.
+Table A.4.8 in Appendix A contains the most common reasons for a lack of engagement by country, size and sector.
+5. Nurturing the Skills Pipeline: T Levels (England only)
+T Levels are a new technical qualification due to be introduced in September 2020. Designed to sit as one of three options for students at level 3 (alongside A Levels and Apprenticeships), courses will last for two years and include a work placement of at least 315 hours, or approximately 45 days.
+As mentioned in the previous chapter, the independent review of technical education carried out by Lord Sainsbury in 2016 recommended a new technical route including industry placements, a recommendation accepted by the Government in the Post-16 Skills Plan, where the new technical route, now known as T Levels, was announced.
+The Post-16 Skills Plan, published in 2017, placed a lot of emphasis on the growing economy: “We face a major challenge: the pressing need for more highly skilled people, trained effectively, to grow the economy and raise productivity, and ensure prosperity and security for individuals.”40 (<>)As discussed previously, in light of the Covid-19 pandemic and the resulting economic shock, the challenge may shift towards young people needing more ways to prove themselves and find routes into employment in an increasingly competitive environment; as with other work placement and experience opportunities, the industry placement component of T Levels is likely to be a crucial element of this. Indeed, the importance of T Levels in the current climate has been underlined by a new commitment from the Government, announced in July 2020, to make payments available for employers taking on T Level students.41 (<>)
+Although ultimately students will be able to undertake T Levels in subject areas covering most sectors, for the initial launch in September 2020 only three T Level courses have been approved: design, surveying and planning for construction; digital production, design and development; and education and childcare. A further seven courses are planned from Autumn 2021, within the Construction, Digital and Health and Science routes. In Autumn 2022, T Levels within Business and Administration, Engineering and Manufacturing and Legal, Finance and Accounting are currently due to follow.
+Interest in offering T Level placements
+Employers in England were given some information on T Levels as an introduction, informing them that T Levels are a new technical education qualification for 16 to 19 year
+olds, which will include a compulsory industry placement lasting at least 45 days in an industry directly relevant to their course. It was explained that students are likely to undertake this placement in the second year of their course and will also have undergone preparation to ensure they are ready to go on the placement. The timing and structure of the placement will be flexible to meet employer’s needs, and payment of students would be at the employer’s discretion.
+Based on this information, establishments were asked to rate how interested they would be in providing work placements to T Level students. Just over a third (36%) of employers stated some level of interest in providing such placements, although only 8% stated that they were very interested. Unsurprisingly, employers already offering any education placements were more likely to be interested in offering T Levels (56%), as were those that already offered work inspiration activities (60%). Among employers already offering both education placements and work inspiration activities, seven in ten (70%) said they would be interested in offering T Levels. There was also correlation between employers having taken on education leavers within the last two to three years, and interest in providing placements to T Level student; looking only at employers that had not offered any educational placements, interest in offering T Levels placements was higher among those that had recruited an education leaver (40%) than among those that had not (22%).
+Interest increased with the size of establishment, with 30% of those with 2 to 4 employees expressing interest rising to more than half of those with 25 or more employees, although this levels off once establishments pass 50 employees, as shown in (<>)Figure 5-1.
+Figure 5-1 Interest in providing T Level placements
+Not interested 16% 18% 19% 23% 20% 22% 20% 24% 20% 26% 25% 27% 19% 18% 19% 21% 22% 21% 19% 24% 33% 31% 31% 39% 34% 37% 43% 38% 38% 38% 49% 13% 15% 18% 27% 44% 45% 36% 28% 31% 25% 28% 26% 28% 28% 28% 25% 24% 22% 41% 44% 38% 33% 23% 12% 12% 12% 9% 13% 8% 8% 6% 6% 5% 8% 5% 3% 14% 12% 12% 8% 7% Education Health & Social Work Hotels & Restaurants Arts & Other Services Public admin. Information & Comms Wholesale & Retail Business Services Construction Primary Sector & Utilities Manufacturing Financial Services Transport & Storage 100+ 50 to 99 25 to 49 5 to 24 2 to 4 Source: IFF Research, Employer Skills Survey 2019 30% 41% Interested 51% 56% 55% 25% 29% 33% 32% 33% 34% 34% 36% 38% 40% 40% 48% 57% 65% 50% 39% 34% 31% 68% 64% 63% 64% 63% 60% 54% 60% 51% 54% 52% 42% 35% (3,364) (6,613) (1,813) (846) (729) (360) (257) (980) (500) (872) (2,669) (2,883) (466) (130) (912) (1,193) (1,321) (822) Base: All establishments in England (Module C)
+As mentioned previously, T Levels are not yet available across all industries, with only a small number approved for delivery in September 2020; therefore, this should be taken into account when analysing interest in T Levels by sector, where lower interest might be expected among employers who may not be eligible to offer placements for several years. Higher levels of interest were reported by employers in Education (57%), Health and Social Work (48%), Hotels and Restaurants (40%) and Arts and Other Services (40%). Employers in Transport and Storage were less likely to be interested (25%). The higher levels of interest in Education and Health and Social Work could be linked to the fact that courses in Education and Childcare and Health and Science will be among the first T Levels to launch in September 2020; although the third T Level to launch at that time, which sits in the Construction route but also covers some occupations within Business Services, would not seem to have generated a similar higher level of interest among relevant employers. Previous qualitative research into employer reactions to T Levels found lower levels of interest in offering T Level placements in industries which already had more traditional apprenticeship routes, such as Construction and
+Manufacturing, as they could not see the benefit of the T Level route over existing qualifications.42 (<>)
+There were higher levels of interest in providing work placements to T Level students among third sector and public sector establishments (each 46%) than private sector establishments (35%).
+Interest in providing T Level placements was also higher among establishments with current or recent skills issues: over three-fifths (64%) of employers with skill-shortage vacancies said they were interested, compared with 35% of those with no skill-shortage vacancies, while over half (54%) of employers with skills gaps in their current workforce were interested, compared with a third (33%) of those with no skills gaps.
+Perceived ease of providing T Level placements
+Employers were also asked how easy they thought it would be to provide work placements to T Level students, bearing in mind their site’s capacity. A third (33%) felt it would be very or fairly easy, while three-fifths (61%) believed it would be difficult, with a third (34%) feeling it would be very difficult.
+There was clear correlation between employers’ interest in offering T Level placements and the level of difficulty they perceived would be involved. While the majority (71%) of those that thought offering placements would be easy also said they would be interested in offering placements, less than a fifth (18%) of employers that felt offering placements would be difficult had said they would be interested in doing so.
+As well as having higher levels of interest in offering T Level placements, employers that were already providing education placements or work inspiration activities were more likely to feel offering T Level placements would be very or fairly easy: around half of those offering education placements (50%) and those offering work inspiration activities (49%) felt it would be easy, rising to 57% among employers offering both.
+Small businesses were more likely to think it would be difficult to provide T Level placements, with 67% of those with 2 to 4 employees stating it would be fairly or very difficult, compared with 57% of those with 5 to 24 employees, and 47% among those with 25 or more employees; within the latter group, there was little difference in levels of interest between size bands, as shown in (<>)Figure 5-2.
+Figure 5-2 Perceived difficulty of providing T Level placements
+Base: All establishments in England (Module C) Difficult 24% 29% 26% 28% 27% 27% 25% 31% 25% 27% 34% 30% 24% 32% 31% 30% 30% 25% 18% 26% 30% 29% 30% 36% 39% 35% 39% 39% 35% 41% 47% 14% 14% 19% 27% 42% 40% 30% 30% 29% 30% 27% 28% 26% 24% 24% 22% 22% 19% 39% 39% 36% 31% 23% 8% 9% 8% 9% 6% 5% 4% 5% 7% 5% 4% 3% 3% 5% 9% 8% 6% 6% Education Health & Social Work Hotels & Restaurants Arts & Other Services Wholesale & Retail Financial Services Information & Comms Manufacturing Construction Business Services Primary Sector & Utilities Public admin. Transport & Storage 100+ 50 to 99 25 to 49 5 to 24 2 to 4 Source: IFF Research, Employer Skills Survey 2019 29% 37% Easy 44% 48% 45% 22% 24% 26% 30% 30% 31% 32% 32% 36% 38% 38% 39% 49% 67% 57% 49% 45% 46% 71% 71% 70% 66% 64% 66% 64% 63% 57% 57% 55% 55% 42% (3,364) (6,613) (1,813) (846) (729) (360) (130) (500) (2,669) (872) (980) (466) (257) (2,883) (912) (1,193) (1,321) (822)
+Employers in the Education sector were markedly more likely to feel it would be easy to offer T Level placements (49%), in line with their high level of interest in doing so, followed by employers in Health and Social Work (39%), Hotels and Restaurants (38%) and Arts and Other Services (38%). As well as being the sector least interested in offering T Level placements, Transport and Storage employers were the least likely to think it would be easy (22%); this could be linked to age restrictions preventing younger people from undertaking some jobs in the sector, for example requirements to hold a driving licence.
+Private sector employers were less likely to think that providing T Level placements would be easy (33%) than third sector (38%) and public sector (37%) employers.
+Attitude towards T Level placements by local area
+On a local level, against an overall average of 36% of employers reporting any interest in offering T Level placements, figures by LEP ranged from 28% to 47%.
+Two LEPs stood out as having particularly high levels of interest, with approaching half of all employers saying they would be very or quite interested in offering T Level placements in Buckinghamshire Thames Valley (47%) and Cornwall and Isles of Scilly (45%). Buckinghamshire Thames Valley also had one of the highest proportions of employers thinking that it would be very or fairly easy to provide T Level placements (39%), alongside Liverpool City Region and West of England (each 40%), and Cumbria (39%).
+Interest in providing T Level placements was lowest in Greater Birmingham and Solihull (28%), Sheffield City Region (30%), North Eastern (30%) and Derby, Derbyshire, Nottingham and Nottinghamshire (30%). Among this group, North Eastern and Sheffield City Region were also the two LEPs with the lowest proportion of employers thinking that offering T Level placements would be easy (each 29%). Earlier in this report, we saw that employers in the Sheffield City Region LEP were among the most likely to have recruited school leavers, while also being among the least likely to find them well prepared for the job role; encouraging greater engagement with programmes such as T-Levels among these employers could help to improve the general preparedness for work among young education leavers in the area.
+Annex table A.5.3 shows the proportion of employers within each LEP that were interested in providing T Level placements, and the proportion that believed it would very or fairly easy to provide such placements.
+6. Conclusions
+Fieldwork for the Employer Skills Survey (ESS) 2019 took place at a time of economic growth of the UK economy: ONS data shows that at the second quarter of 2019, when ESS 2019 fieldwork began, job creation was at its highest level since records began (an employment rate of 76.1%).  Despite this, UK productivity was behind most other G7 countries and in the second quarter of 2019 output per hour fell by 0.5%, the largest quarterly fall in productivity in five years.  Developing the skills and proficiency of the workforce is seen as a key route through which these productivity issues may be addressed.
+In the wake of the Covid-19 pandemic, both the labour market and the pipeline of skills available to employers are likely to look very different. Young people and those not in work may face additional challenges in trying to enter the workforce, while for employers it will be more important than ever to ensure that productivity is maximised; while this will involve workforce development and training, as discussed in the accompanying ESS thematic reports, the pipeline of skills available employers will also be critical.
+Between 2014 and 2019, a period of rising employment, the proportion of employers that had recruited an education leaver stayed consistent at just under a third. The sectors recruiting the highest proportions of education leavers at the time of the survey (Education and Hotels and Restaurants) are likely to be among the hardest hit by the pandemic, raising important questions about entry routes into employment for young people leaving education in the future.
+The preparedness of education leavers for work is likely to be a critical factor when it comes to this group successfully gaining entry to the workforce. There have been important gains in employers’ perceptions of how prepared school leavers are for work, which could reflect the improvements in careers guidance reported by the Careers & Enterprise Company in 2019;43 (<>)but going forward it will be necessary to ensure that careers and employability preparation in schools builds on this success, while also adapting to reflect likely changes to the labour market in the upcoming months and years.
+At the same time, although the majority of employers did continue to view their recruits from university as prepared for their role, a small but significant decrease in those rating university leavers as prepared for work is a possible cause for concern.
+Most employers that had recruited older workers found them prepared for their role, suggesting this group could be a valuable source of skills for employers to draw on. However, as those aged 50+ could be at a greater risk of unemployment due to the
+Covid-19 crisis, there is likely to be an even greater need for support and retraining for older workers, including providing opportunities for work placements; government’s National Retraining Scheme may help those in low paid work, but consideration needs to be given if larger numbers of this age group find themselves unemployed due to the economic climate.
+The number of workers whose skills were not being fully utilised prior to the pandemic stood at 2.2 million, and, although this was a slight decrease since 2017, we would now expect this to increase again, alongside rises in unemployment and underemployment; The two sectors with the highest density of skills under-use, Hotels and Restaurants and Arts and Other Services, have both been heavily impacted by the Covid-19 lockdown. As underutilisation of skills has previously been found to have a detrimental effect on business performance, policy needs to consider how businesses can optimize skills within their workforce, as well as the pipeline of skills into the labour market.
+With work placements an important tool to ensure that education leavers are better prepared for the workplace, it will be essential that, despite very challenging times, businesses are able to increase the volume of placements on offer, as well as increasing the duration of placements to ensure maximum benefit for participants. Government policy was already geared towards increasing the number and quality of work placements for young people, particularly with the introduction of T Levels; however, for young people looking to enter the workforce at a time where unemployment is increasing rapidly, access to good quality work experience and work inspiration is likely to be even more vital, as recognized by the announcement of the Kickstart Scheme. However, with older workers also likely to be adversely affected by the pandemic, and with large numbers of unemployed people looking for routes back into work, policymakers should also look for ways to support employers in offering a wide range of good-quality placements, particularly as the proportions offering work placements for those in education, for adults and for graduates had all decreased since 2016.
+ESS provides a snapshot of the skills pipeline available to employers in the second half of 2019. The outbreak of the Covid-19 pandemic in 2020 has clearly provided a significant shock to the economy and is likely to have lasting and significant effects on employers and their skills needs. While this makes extrapolating ESS 2019 results to the post-Covid-19 situation challenging, the ESS 2019 results provide an important baseline to assess the post-Covid economy and labour market as we enter a new decade.
+Appendix A: Supplementary tables
+Chapter 1: Introduction
+Table A.1.1 Unweighted base sizes (i.e. number of completed interviews) for all establishments, by country, size and sector (2015 – 2019)
+﻿,2015  ,2017  ,2019  
+Total  ,"85,175  ","81,413  ","81,013  "
+Country  
+England  ,"75,129  ","71,527  ","70,217  "
+Northern Ireland  ,"4,019  ","3,973  ","4,023  "
+Wales  ,"6,027  ","5,913  ","6,773  "
+Size  
+2 to 4  ,"19,263  ","16,137  ","20,183  "
+5 to 24  ,"46,565  ","43,798  ","40,611  "
+25 to 49  ,"10,728  ","11,500  ","10,795  "
+50 to 99  ,"5,346  ","5,974  ","5,377  "
+100 to 249  ,"2,440  ","3,018  ","3,122  "
+250+  ,833  ,986  ,925  
+Sector  
+Primary Sector & Utilities  ,"4,248  ","4,460  ","2,952  "
+Manufacturing  ,"6,450  ","6,169  ","6,234  "
+Construction  ,"6,895  ","6,422  ","5,249  "
+Wholesale & Retail  ,"15,188  ","13,581  ","17,503  "
+Hotels & Restaurants  ,"8,338  ","7,898  ","7,594  "
+Transport & Storage  ,"4,357  ","3,746  ","2,330  "
+Information & Communications  ,"3,996  ","3,721  ","2,511  "
+Financial Services  ,"2,322  ","2,471  ","1,577  "
+Business Services  ,"12,380  ","12,875  ","15,490  "
+Public Administration  ,845  ,"1,004  ",840  
+Education  ,"5,177  ","5,146  ","5,012  "
+Health & Social Work  ,"7,962  ","7,379  ","8,092  "
+Arts & Other Services  ,"6,927  ","6,541  ","5,629  "
+
+Source: Employer Skills Survey (2019)
+Table A.1.2 Unweighted base sizes (i.e. number of completed interviews) for establishments in England, by size and sector (2015 - 2019)
+﻿,2015  ,2017  ,2019  
+England total  ,"75,129  ","71,527  ","70,217  "
+Size  
+2 to 4  ,"16,346  ","13,371  ","17,286  "
+5 to 24  ,"41,013  ","38,447  ","35,102  "
+25 to 49  ,"9,860  ","10,571  ","9,510  "
+50 to 99  ,"4,882  ","5,461  ","4,710  "
+100 to 249  ,"2,263  ","2,757  ","2,781  "
+250+  ,765  ,920  ,828  
+Sector  
+Primary Sector & Utilities  ,"3,649  ","3,761  ","2,394  "
+Manufacturing  ,"5,703  ","5,498  ","5,391  "
+Construction  ,"6,334  ","5,622  ","4,531  "
+Wholesale & Retail  ,"13,126  ","11,841  ","15,131  "
+Hotels & Restaurants  ,"7,274  ","6,917  ","6,486  "
+Transport & Storage  ,"3,797  ","3,317  ","2,047  "
+Information & Communications  ,"3,741  ","3,436  ","2,305  "
+Financial Services  ,"2,121  ","2,195  ","1,387  "
+Business Services  ,"11,158  ","11,582  ","14,040  "
+Public Administration  ,721  ,859  ,683  
+Education  ,"4,549  ","4,516  ","4,190  "
+Health & Social Work  ,"6,963  ","6,315  ","6,828  "
+Arts & Other Services  ,"5,993  ","5,668  ","4,804  "
+
+Source: Employer Skills Survey (2019)
+Table A.1.3 Unweighted base sizes (i.e. number of completed interviews) for establishments in Northern Ireland, by size and sector (2015 - 2019)
+﻿,2015  ,2017  ,2019  
+Northern Ireland total  ,"4,019  ","3,973  ","4,023  "
+Size  
+2 to 4  ,"1,168  ","1,097  ",984  
+5 to 24  ,"2,236  ","2,182  ","2,102  "
+25 to 49  ,321  ,368  ,485  
+50 to 99  ,191  ,220  ,285  
+100 to 249  ,72  ,88  ,124  
+250+  ,31  ,18  ,43  
+Sector  
+Primary Sector & Utilities  ,122  ,188  ,194  
+Manufacturing  ,330  ,252  ,377  
+Construction  ,246  ,319  ,317  
+Wholesale & Retail  ,859  ,782  ,930  
+Hotels & Restaurants  ,415  ,384  ,311  
+Transport & Storage  ,201  ,155  ,112  
+Information & Communications  ,88  ,117  ,65  
+Financial Services  ,93  ,122  ,81  
+Business Services  ,507  ,499  ,462  
+Public Administration  ,49  ,54  ,48  
+Education  ,267  ,255  ,359  
+Health & Social Work  ,382  ,461  ,439  
+Arts & Other Services  ,460  ,385  ,328  
+
+Source: Employer Skills Survey (2019)
+﻿,2015  ,2017  ,2019  
+Wales total  ,"6,027  ","5,913  ","6,773  "
+Size  
+2 to 4  ,"1,749  ","1,669  ","1,193  "
+5 to 24  ,"3,316  ","3,169  ","3,407  "
+25 to 49  ,547  ,561  ,800  
+50 to 99  ,273  ,293  ,382  
+100 to 249  ,105  ,173  ,217  
+250+  ,37  ,48  ,54  
+Sector  
+Primary Sector & Utilities  ,477  ,511  ,364  
+Manufacturing  ,417  ,419  ,466  
+Construction  ,405  ,481  ,401  
+Wholesale & Retail  ,"1,203  ",958  ,"1,442  "
+Hotels & Restaurants  ,649  ,597  ,797  
+Transport & Storage  ,359  ,274  ,171  
+Information & Communications  ,167  ,168  ,141  
+Financial Services  ,108  ,154  ,109  
+Business Services  ,715  ,794  ,988  
+Public Administration  ,75  ,91  ,109  
+Education  ,361  ,375  ,463  
+Health & Social Work  ,617  ,603  ,825  
+Arts & Other Services  ,474  ,488  ,497  
+
+Source: Employer Skills Survey (2019)
+﻿,2014  ,2016  ,2019  
+Total  ,"14,044  ","14,019  ","16,059  "
+Country  
+England  ,"10,032  ","10,015  ","13,365  "
+Northern Ireland  ,"2,005  ","2,007  ","1,011  "
+Wales  ,"2,007  ","1,997  ","1,683  "
+Size  
+2 to 4  ,"3,344  ","3,293  ","4,083  "
+5 to 24  ,"6,438  ","6,714  ","7,990  "
+25 to 49  ,"1,911  ","1,818  ","2,143  "
+50 to 99  ,"1,029  ",961  ,"1,006  "
+100 to 249  ,889  ,836  ,643  
+250+  ,433  ,397  ,194  
+Sector  
+Primary Sector & Utilities  ,669  ,609  ,660  
+Manufacturing  ,"1,011  ",878  ,"1,181  "
+Construction  ,"1,202  ",960  ,"1,055  "
+Wholesale & Retail  ,"2,755  ","3,086  ","3,485  "
+Hotels & Restaurants  ,"1,234  ","1,344  ","1,471  "
+Transport & Storage  ,432  ,382  ,428  
+Information & Communications  ,516  ,528  ,510  
+Financial Services  ,419  ,304  ,306  
+Business Services  ,"2,000  ","2,412  ","3,026  "
+Public Administration  ,342  ,294  ,162  
+Education  ,936  ,818  ,"1,005  "
+Health & Social Work  ,"1,567  ","1,560  ","1,656  "
+Arts & Other Services  ,961  ,844  ,"1,114  "
+
+Source: Employer Skills Survey (2019)
+﻿,2014  ,2016  ,2019  
+England total  ,"10,032  ","10,015  ","13,365  "
+Size  
+2 to 4  ,"2,317  ","2,261  ","3,364  "
+5 to 24  ,"4,580  ","4,814  ","6,613  "
+25 to 49  ,"1,336  ","1,339  ","1,813  "
+50 to 99  ,740  ,670  ,846  
+100 to 249  ,707  ,628  ,553  
+250+  ,352  ,303  ,176  
+Sector  
+Primary Sector & Utilities  ,440  ,375  ,500  
+Manufacturing  ,738  ,612  ,980  
+Construction  ,902  ,656  ,872  
+Wholesale & Retail  ,"1,875  ","2,072  ","2,883  "
+Hotels & Restaurants  ,854  ,991  ,"1,193  "
+Transport & Storage  ,328  ,267  ,360  
+Information & Communications  ,383  ,445  ,466  
+Financial Services  ,313  ,220  ,257  
+Business Services  ,"1,568  ","1,934  ","2,669  "
+Public Administration  ,214  ,209  ,130  
+Education  ,667  ,572  ,822  
+Health & Social Work  ,"1,070  ","1,066  ","1,321  "
+Arts & Other Services  ,680  ,596  ,912  
+
+Source: Employer Skills Survey (2019)
+﻿,2014  ,2016  ,2019  
+Northern Ireland total  ,"2,005  ","2,007  ","1,011  "
+Size  
+2 to 4  ,524  ,521  ,267  
+5 to 24  ,940  ,958  ,513  
+25 to 49  ,260  ,245  ,116  
+50 to 99  ,155  ,151  ,69  
+100 to 249  ,86  ,87  ,37  
+250+  ,40  ,45  ,9  
+Sector  
+Primary Sector & Utilities  ,96  ,120  ,50  
+Manufacturing  ,139  ,124  ,95  
+Construction  ,148  ,161  ,72  
+Wholesale & Retail  ,449  ,531  ,236  
+Hotels & Restaurants  ,173  ,131  ,73  
+Transport & Storage  ,53  ,56  ,27  
+Information & Communications  ,63  ,40  ,14  
+Financial Services  ,56  ,46  ,21  
+Business Services  ,202  ,246  ,122  
+Public Administration  ,68  ,34  ,12  
+Education  ,153  ,139  ,89  
+Health & Social Work  ,258  ,252  ,113  
+Arts & Other Services  ,147  ,127  ,87  
+
+Source: Employer Skills Survey (2019)
+﻿,2014  ,2016  ,2019  
+Wales total  ,"2,007  ","1,997  ","1,683  "
+Size  
+2 to 4  ,503  ,511  ,452  
+5 to 24  ,918  ,942  ,864  
+25 to 49  ,315  ,234  ,214  
+50 to 99  ,134  ,140  ,91  
+100 to 249  ,96  ,121  ,53  
+250+  ,41  ,49  ,9  
+Sector  
+Primary Sector & Utilities  ,133  ,114  ,110  
+Manufacturing  ,134  ,142  ,106  
+Construction  ,152  ,143  ,111  
+Wholesale & Retail  ,431  ,483  ,366  
+Hotels & Restaurants  ,207  ,222  ,205  
+Transport & Storage  ,51  ,59  ,41  
+Information & Communications  ,70  ,43  ,30  
+Financial Services  ,50  ,38  ,28  
+Business Services  ,230  ,232  ,235  
+Public Administration  ,60  ,51  ,20  
+Education  ,116  ,107  ,94  
+Health & Social Work  ,239  ,242  ,222  
+Arts & Other Services  ,134  ,121  ,115  
+
+Source: Employer Skills Survey (2019)
+﻿,2014  ,2016  ,2019  
+Total  ,"14,044  ","14,019  ","16,031  "
+Country  
+England  ,"10,032  ","10,015  ","13,352  "
+Northern Ireland  ,"2,005  ","2,007  ","1,001  "
+Wales  ,"2,007  ","1,997  ","1,678  "
+Size  
+2 to 4  ,"3,344  ","3,293  ","4,059  "
+5 to 24  ,"6,438  ","6,714  ","8,068  "
+25 to 49  ,"1,911  ","1,818  ","2,039  "
+50 to 99  ,"1,029  ",961  ,"1,046  "
+100 to 249  ,889  ,836  ,640  
+250+  ,433  ,397  ,179  
+Sector  
+Primary Sector & Utilities  ,669  ,609  ,567  
+Manufacturing  ,"1,011  ",878  ,"1,257  "
+Construction  ,"1,202  ",960  ,"1,013  "
+Wholesale & Retail  ,"2,755  ","3,086  ","3,366  "
+Hotels & Restaurants  ,"1,234  ","1,344  ","1,571  "
+Transport & Storage  ,432  ,382  ,488  
+Information & Communications  ,516  ,528  ,482  
+Financial Services  ,419  ,304  ,320  
+Business Services  ,"2,000  ","2,412  ","3,090  "
+Public Administration  ,342  ,294  ,169  
+Education  ,936  ,818  ,993  
+Health & Social Work  ,"1,567  ","1,560  ","1,605  "
+Arts & Other Services  ,961  ,844  ,"1,110  "
+
+Source: Employer Skills Survey (2019)
+﻿,2014  ,2016  ,2019  
+England total  ,"10,032  ","10,015  ","13,352  "
+Size  
+2 to 4  ,"2,317  ","2,261  ","3,322  "
+5 to 24  ,"4,580  ","4,814  ","6,697  "
+25 to 49  ,"1,336  ","1,339  ","1,733  "
+50 to 99  ,740  ,670  ,890  
+100 to 249  ,707  ,628  ,555  
+250+  ,352  ,303  ,155  
+Sector  
+Primary Sector & Utilities  ,440  ,375  ,423  
+Manufacturing  ,738  ,612  ,"1,041  "
+Construction  ,902  ,656  ,848  
+Wholesale & Retail  ,"1,875  ","2,072  ","2,792  "
+Hotels & Restaurants  ,854  ,991  ,"1,297  "
+Transport & Storage  ,328  ,267  ,420  
+Information & Communications  ,383  ,445  ,429  
+Financial Services  ,313  ,220  ,265  
+Business Services  ,"1,568  ","1,934  ","2,738  "
+Public Administration  ,214  ,209  ,127  
+Education  ,667  ,572  ,783  
+Health & Social Work  ,"1,070  ","1,066  ","1,281  "
+Arts & Other Services  ,680  ,596  ,908  
+
+Source: Employer Skills Survey (2019)
+﻿,2014  ,2016  ,2019  
+Northern Ireland total  ,"2,005  ","2,007  ","1,001  "
+Size  
+2 to 4  ,524  ,521  ,228  
+5 to 24  ,940  ,958  ,558  
+25 to 49  ,260  ,245  ,111  
+50 to 99  ,155  ,151  ,66  
+100 to 249  ,86  ,87  ,28  
+250+  ,40  ,45  ,10  
+Sector  
+Primary Sector & Utilities  ,96  ,120  ,48  
+Manufacturing  ,139  ,124  ,102  
+Construction  ,148  ,161  ,68  
+Wholesale & Retail  ,449  ,531  ,233  
+Hotels & Restaurants  ,173  ,131  ,78  
+Transport & Storage  ,53  ,56  ,27  
+Information & Communications  ,63  ,40  ,13  
+Financial Services  ,56  ,46  ,25  
+Business Services  ,202  ,246  ,107  
+Public Administration  ,68  ,34  ,11  
+Education  ,153  ,139  ,85  
+Health & Social Work  ,258  ,252  ,130  
+Arts & Other Services  ,147  ,127  ,74  
+
+Source: Employer Skills Survey (2019)
+﻿,2014  ,2016  ,2019  
+Wales total  ,"2,007  ","1,997  ","1,678  "
+Size  
+2 to 4  ,503  ,511  ,509  
+5 to 24  ,918  ,942  ,813  
+25 to 49  ,315  ,234  ,195  
+50 to 99  ,134  ,140  ,90  
+100 to 249  ,96  ,121  ,57  
+250+  ,41  ,49  ,14  
+Sector  
+Primary Sector & Utilities  ,133  ,114  ,96  
+Manufacturing  ,134  ,142  ,114  
+Construction  ,152  ,143  ,97  
+Wholesale & Retail  ,431  ,483  ,341  
+Hotels & Restaurants  ,207  ,222  ,196  
+Transport & Storage  ,51  ,59  ,41  
+Information & Communications  ,70  ,43  ,40  
+Financial Services  ,50  ,38  ,30  
+Business Services  ,230  ,232  ,245  
+Public Administration  ,60  ,51  ,31  
+Education  ,116  ,107  ,125  
+Health & Social Work  ,239  ,242  ,194  
+Arts & Other Services  ,134  ,121  ,128  
+
+Source: Employer Skills Survey (2019)
+Chapter 2: New labour market entrants
+Table A.2.1 Recruitment of education leavers by size and sector (2016 comparison)
+﻿Row percentages  ,Unwtd Base (2016)  ,(2019)  Unwtd Base  ,,Any school leaver  ,,College leaver  ,,HEI leaver  ,,ANY EDUCATION LEAVER  
+,,,,2016  ,2019  ,2016  ,2019  ,2016  ,2019  ,2016  ,2019  
+Total  ,"14,019  ","16,059  ",%  ,17  ,16  ,12  ,12  ,14  ,14  ,31  ,30  
+Size  
+2 to 4  ,"3,293  ","4,083  ",%  ,10  ,8  ,6  ,5  ,7  ,6  ,19  ,17  
+5 to 24  ,"6,714  ","7,990  ",%  ,21  ,22  ,15  ,17  ,17  ,18  ,39  ,41  
+25 to 49  ,"1,818  ","2,143  ",%  ,34  ,36  ,29  ,31  ,32  ,36  ,58  ,63  
+50 to 99  ,961  ,"1,006  ",%  ,36  ,40  ,31  ,35  ,42  ,47  ,64  ,71  
+100 to 249  ,836  ,643  ,%  ,40  ,47  ,36  ,44  ,50  ,59  ,68  ,76  
+250+  ,397  ,194  ,%  ,46  ,65  ,48  ,66  ,72  ,73  ,81  ,87  
+Sector  
+Primary Sector & Utilities  ,609  ,660  ,%  ,14  ,13  ,9  ,9  ,6  ,5  ,25  ,23  
+Manufacturing  ,878  ,"1,181  ",%  ,16  ,16  ,9  ,12  ,10  ,11  ,27  ,29  
+Construction  ,960  ,"1,055  ",%  ,19  ,18  ,10  ,10  ,6  ,6  ,28  ,28  
+Wholesale & Retail  ,"3,086  ","3,485  ",%  ,22  ,20  ,15  ,14  ,12  ,12  ,33  ,31  
+Hotels & Restaurants  ,"1,344  ","1,471  ",%  ,24  ,32  ,17  ,23  ,17  ,19  ,36  ,43  
+Transport & Storage  ,382  ,428  ,%  ,11  ,8  ,7  ,7  ,5  ,6  ,17  ,16  
+Information & Communications  ,528  ,510  ,%  ,11  ,8  ,11  ,6  ,24  ,18  ,34  ,27  
+Financial Services  ,304  ,306  ,%  ,6  ,12  ,10  ,10  ,16  ,19  ,24  ,30  
+Business Services  ,"2,412  ","3,026  ",%  ,12  ,10  ,8  ,9  ,17  ,16  ,29  ,27  
+Public Admin.  ,294  ,162  ,%  ,15  ,12  ,12  ,16  ,16  ,23  ,27  ,30  
+Education  ,818  ,"1,005  ",%  ,18  ,18  ,20  ,15  ,34  ,36  ,51  ,48  
+Health & Social Work  ,"1,560  ","1,656  ",%  ,13  ,14  ,13  ,16  ,16  ,17  ,30  ,32  
+Arts & Other  ,884  ,"1,114  ",%  ,21  ,19  ,14  ,15  ,13  ,11  ,35  ,33  
+
+Base: all establishments in Module C
+Table A.2.2 Proportion of poorly prepared education leavers in England, NI and Wales who lack specific skills
+﻿,16-year-old school leavers ,17-18-year-oldsrecruited to their first job from school ,17-18-year-oldsrecruited to their first job from college ,University or higher education leavers  
+Column percentages  ,"2,114  ","2,988  ","3,021  ","3,467  "
+,%  ,%  ,%  ,%  
+Lack of working world / life experience or maturity  ,22  ,17  ,14  ,8  
+Poor attitude / personality or lack of motivation  ,20  ,15  ,13  ,6  
+Lack required personal skills or competencies  ,9  ,7  ,6  ,3  
+Lack required technical skills or competencies  ,6  ,5  ,5  ,3  
+Lack of common sense  ,8  ,6  ,4  ,2  
+Literacy / numeracy skills  ,3  ,3  ,2  ,1  
+Poor education  ,3  ,2  ,2  ,1  
+
+Base: all establishments in England, NI and Wales that have recruited each type of education leaver (Module C)
+Table A.2.3 Base sizes for table 2.3: Proportion of employers saying education leavers they recruited were well prepared, by LEP
+﻿LEP  ,16-year-old school leavers  ,17-18-year-old school leavers  ,College leavers  ,University leavers  
+Cheshire and Warrington  ,43  ,53  ,48  ,51  
+Tees Valley  ,38  ,44  ,52  ,54  
+Thames Valley Berkshire  ,18  ,36  ,34  ,51  
+"York, North Yorkshire and East Riding  ",58  ,70  ,72  ,59  
+West of England  ,39  ,65  ,60  ,81  
+Lancashire  ,46  ,65  ,69  ,74  
+South East Midlands  ,74  ,102  ,108  ,101  
+North Eastern  ,107  ,151  ,140  ,148  
+Leeds City Region  ,111  ,153  ,166  ,187  
+Enterprise M3  ,55  ,65  ,74  ,92  
+Greater Birmingham and Solihull  ,51  ,76  ,81  ,100  
+Greater Lincolnshire  ,39  ,70  ,62  ,64  
+London  ,128  ,275  ,275  ,601  
+Leicester and Leicestershire  ,37  ,50  ,49  ,52  
+Solent  ,43  ,52  ,57  ,47  
+Sheffield City Region  ,79  ,91  ,88  ,74  
+"Derby, Derbyshire, Nottingham and Nottinghamshire  ",74  ,107  ,100  ,85  
+South East  ,109  ,170  ,185  ,185  
+Greater Cambridge Greater Peterborough  ,53  ,86  ,87  ,84  
+Liverpool City Region  ,47  ,62  ,51  ,64  
+Heart of the South West  ,94  ,109  ,101  ,86  
+New Anglia  ,70  ,93  ,101  ,86  
+Coast to Capital  ,50  ,69  ,83  ,82  
+Greater Manchester  ,62  ,97  ,106  ,96  
+
+Base: All establishments that have recruited each type of education leavers in last 2-3 years (Module C)
+Table A.2.4a Skills lacking for 16-year old school leavers by nation, size and sector
+﻿,Unwtd Base  ,,Lack of working world / life experience or maturity  ,Poor attitude or lack of motivation ,Lack required personal skills or competencies  ,Lack required technical skills or competencies  ,Lack of common sense  ,Literacy / numeracy skills  ,Poor education  
+Total  ,"2,114  ",%  ,22  ,20  ,9  ,6  ,8  ,3  ,3  
+Country  
+England  ,"1,761  ",%  ,23  ,20  ,8  ,6  ,8  ,3  ,3  
+Northern Ireland  ,128  ,%  ,16  ,11  ,7  ,9  ,14  ,1  ,*  
+Wales  ,225  ,%  ,24  ,23  ,10  ,5  ,10  ,3  ,4  
+Size  
+2 to 4  ,190  ,%  ,22  ,20  ,9  ,9  ,11  ,4  ,4  
+5 to 24  ,"1,028  ",%  ,23  ,20  ,9  ,5  ,8  ,3  ,3  
+25 to 49  ,427  ,%  ,25  ,18  ,6  ,4  ,7  ,2  ,2  
+50 to 99  ,211  ,%  ,20  ,21  ,7  ,4  ,7  ,2  ,1  
+100 to 249  ,181  ,%  ,22  ,16  ,4  ,4  ,6  ,2  ,0  
+250+  ,77  ,%  ,18  ,18  ,5  ,4  ,2  ,*  ,*  
+Sector  
+Primary Sector & Utilities  ,64  ,%  ,16  ,5  ,7  ,1  ,6  ,5  ,2  
+Manufacturing  ,155  ,%  ,32  ,28  ,7  ,9  ,12  ,6  ,5  
+Construction  ,179  ,%  ,21  ,16  ,7  ,10  ,8  ,3  ,4  
+Wholesale & Retail  ,561  ,%  ,23  ,19  ,9  ,5  ,7  ,2  ,2  
+Hotels & Restaurants  ,449  ,%  ,24  ,21  ,9  ,5  ,11  ,3  ,1  
+Transport & Storage  ,33  ,%  ,29  ,19  ,9  ,7  ,3  ,3  ,3  
+Information & Communications  ,30  ,%  ,26  ,8  ,2  ,6  ,3  ,6  ,3  
+Financial Services  ,12  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Business Services  ,204  ,%  ,23  ,23  ,9  ,4  ,9  ,3  ,2  
+Public Admin.  ,8  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Education  ,100  ,%  ,23  ,19  ,7  ,5  ,11  ,6  ,6  
+Health & Social Work  ,127  ,%  ,22  ,23  ,9  ,8  ,9  ,4  ,8  
+Arts & Other  ,192  ,%  ,19  ,25  ,10  ,6  ,7  ,1  ,2  
+
+Base: All establishments that recruited 16-year olds to first job from school in last 2-3 years (Module C)
+Table A.2.4b Skills lacking for 17-18-year old school leavers by nation, size and sector
+﻿,Unwtd Base  ,,Lack of working world / life experience or maturity  ,Poor attitude or lack of motivation ,Lack required personal skills or competencies  ,Lack required technical skills or competencies  ,Lack of common sense  ,Literacy / numeracy skills  ,Poor education  
+Total  ,"2,988  ",%  ,17  ,15  ,7  ,5  ,6  ,3  ,2  
+Country  
+England  ,"2,528  ",%  ,17  ,15  ,7  ,5  ,6  ,3  ,2  
+Northern Ireland  ,164  ,%  ,12  ,10  ,2  ,6  ,12  ,1  ,1  
+Wales  ,296  ,%  ,20  ,18  ,9  ,5  ,9  ,2  ,4  
+Size  
+2 to 4  ,175  ,%  ,18  ,14  ,9  ,8  ,9  ,5  ,3  
+5 to 24  ,"1,381  ",%  ,18  ,17  ,7  ,4  ,6  ,3  ,2  
+25 to 49  ,667  ,%  ,17  ,12  ,6  ,4  ,5  ,2  ,2  
+50 to 99  ,350  ,%  ,14  ,13  ,5  ,2  ,5  ,1  ,*  
+100 to 249  ,290  ,%  ,15  ,13  ,3  ,3  ,5  ,2  ,1  
+250+  ,125  ,%  ,12  ,11  ,2  ,2  ,2  ,*  ,*  
+Sector  
+Primary Sector & Utilities  ,69  ,%  ,28  ,20  ,7  ,7  ,17  ,6  ,1  
+Manufacturing  ,189  ,%  ,21  ,17  ,6  ,8  ,7  ,3  ,4  
+Construction  ,181  ,%  ,13  ,16  ,6  ,9  ,10  ,3  ,4  
+Wholesale & Retail  ,748  ,%  ,16  ,14  ,6  ,4  ,5  ,2  ,1  
+Hotels & Restaurants  ,581  ,%  ,15  ,15  ,7  ,3  ,6  ,3  ,1  
+Transport & Storage  ,52  ,%  ,27  ,19  ,8  ,9  ,7  ,8  ,6  
+Information & Communications  ,49  ,%  ,9  ,7  ,2  ,3  ,3  ,1  ,2  
+Financial Services  ,39  ,%  ,24  ,12  ,8  ,2  ,4  ,8  ,3  
+Business Services  ,389  ,%  ,17  ,12  ,9  ,6  ,5  ,3  ,1  
+Public Admin.  ,16  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Education  ,174  ,%  ,12  ,10  ,3  ,1  ,3  ,0  ,0  
+Health & Social Work  ,287  ,%  ,21  ,17  ,7  ,4  ,7  ,5  ,4  
+Arts & Other  ,214  ,%  ,21  ,22  ,9  ,2  ,6  ,1  ,3  
+
+Base: All establishments that recruited 17-18-year olds to first job from school in last 2-3 years (Module C)
+Table A.2.4c Skills lacking for 17-18-year old college leavers by nation, size and sector
+﻿,Unwtd Base  ,,Lack of working world / life experience or maturity  ,Poor attitude or lack of motivation ,Lack required personal skills or competencies  ,Lack required technical skills or competencies  ,Lack of common sense  ,Literacy / numeracy skills  ,Poor education  
+Total  ,"3,021  ",%  ,14  ,13  ,6  ,5  ,4  ,2  ,2  
+Country  
+England  ,"2,554  ",%  ,14  ,13  ,6  ,5  ,4  ,2  ,2  
+Northern Ireland  ,167  ,%  ,6  ,8  ,8  ,2  ,3  ,1  ,0  
+Wales  ,300  ,%  ,15  ,17  ,5  ,9  ,5  ,1  ,5  
+Size  
+2 to 4  ,203  ,%  ,15  ,17  ,10  ,10  ,5  ,2  ,4  
+5 to 24  ,"1,385  ",%  ,15  ,14  ,5  ,5  ,5  ,2  ,2  
+25 to 49  ,656  ,%  ,14  ,11  ,4  ,3  ,3  ,1  ,1  
+50 to 99  ,353  ,%  ,9  ,8  ,3  ,1  ,3  ,*  ,0  
+100 to 249  ,292  ,%  ,10  ,9  ,4  ,1  ,3  ,1  ,0  
+250+  ,132  ,%  ,9  ,9  ,2  ,2  ,1  ,0  ,0  
+Sector  
+Primary Sector & Utilities  ,82  ,%  ,9  ,11  ,6  ,8  ,3  ,1  ,1  
+Manufacturing  ,211  ,%  ,19  ,18  ,6  ,7  ,3  ,2  ,4  
+Construction  ,164  ,%  ,18  ,17  ,5  ,6  ,6  ,2  ,6  
+Wholesale & Retail  ,694  ,%  ,13  ,11  ,5  ,4  ,4  ,1  ,1  
+Hotels & Restaurants  ,519  ,%  ,12  ,13  ,5  ,4  ,3  ,1  ,2  
+Transport & Storage  ,58  ,%  ,24  ,13  ,7  ,1  ,5  ,4  ,2  
+Information & Communications  ,58  ,%  ,9  ,12  ,2  ,3  ,4  ,1  ,0  
+Financial Services  ,35  ,%  ,15  ,10  ,1  ,7  ,10  ,12  ,5  
+Business Services  ,417  ,%  ,15  ,15  ,7  ,7  ,4  ,3  ,2  
+Public Admin.  ,24  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Education  ,191  ,%  ,12  ,7  ,7  ,1  ,3  ,0  ,1  
+Health & Social Work  ,347  ,%  ,17  ,14  ,6  ,5  ,6  ,2  ,2  
+Arts & Other  ,221  ,%  ,12  ,16  ,6  ,7  ,5  ,1  ,3  
+
+Base: All establishments that recruited 17-18-year olds to first job from college in last 2-3 years (Module C)
+Table A.2.4d Skills lacking for higher education leavers by nation, size and sector
+﻿,Unwtd Base  ,,Lack of working world / life experience or maturity  ,Poor attitude or lack of motivation ,Lack required personal skills or competencies  ,Lack required technical skills or competencies  ,Lack of common sense  ,Literacy / numeracy skills  ,Poor education  
+Total  ,"3,467  ",%  ,8  ,6  ,3  ,3  ,2  ,1  ,1  
+Country  
+England  ,"2,937  ",%  ,8  ,6  ,3  ,3  ,2  ,*  ,1  
+Northern Ireland  ,204  ,%  ,6  ,4  ,1  ,2  ,4  ,0  ,0  
+Wales  ,326  ,%  ,10  ,7  ,4  ,2  ,2  ,2  ,2  
+Size  
+2 to 4  ,222  ,%  ,10  ,6  ,4  ,3  ,4  ,1  ,1  
+5 to 24  ,"1,471  ",%  ,10  ,7  ,4  ,4  ,2  ,1  ,1  
+25 to 49  ,755  ,%  ,6  ,3  ,2  ,3  ,1  ,*  ,*  
+50 to 99  ,478  ,%  ,5  ,3  ,1  ,1  ,1  ,0  ,0  
+100 to 249  ,394  ,%  ,5  ,5  ,*  ,1  ,1  ,0  ,*  
+250+  ,147  ,%  ,4  ,2  ,0  ,0  ,0  ,0  ,0  
+Sector  
+Primary Sector & Utilities  ,57  ,%  ,20  ,10  ,6  ,*  ,1  ,0  ,0  
+Manufacturing  ,191  ,%  ,11  ,11  ,3  ,4  ,4  ,1  ,1  
+Construction  ,101  ,%  ,15  ,2  ,2  ,3  ,4  ,2  ,1  
+Wholesale & Retail  ,570  ,%  ,8  ,7  ,4  ,3  ,2  ,*  ,1  
+Hotels & Restaurants  ,450  ,%  ,6  ,6  ,2  ,3  ,2  ,1  ,1  
+Transport & Storage  ,42  ,%  ,8  ,6  ,0  ,4  ,0  ,0  ,0  
+Information & Communications  ,143  ,%  ,7  ,2  ,3  ,2  ,2  ,1  ,1  
+Financial Services  ,75  ,%  ,7  ,1  ,0  ,5  ,*  ,0  ,0  
+Business Services  ,769  ,%  ,10  ,6  ,6  ,3  ,2  ,1  ,*  
+Public Admin.  ,34  ,%  ,7  ,6  ,0  ,4  ,0  ,0  ,0  
+Education  ,487  ,%  ,6  ,3  ,2  ,1  ,2  ,0  ,*  
+Health & Social Work  ,349  ,%  ,8  ,5  ,2  ,3  ,2  ,1  ,2  
+Arts & Other  ,199  ,%  ,5  ,10  ,1  ,5  ,1  ,0  ,0  
+
+Base: All establishments that recruited higher education leavers to first job in last 2-3 years (Module C)
+Chapter 3: The existing workforce
+Table A.3.1. Proportion of establishments that recruited an older worker
+﻿Row percentages  ,Unwtd Base (2014)  ,Unwtd Base (2016)  ,Unwtd Base (2019)  ,,RECRUITED OLDER WORKER  
+,,,,,2014  ,2016  ,2019  
+Total  ,"8,506  ","9,031  ","10,001  ",%  ,29  ,31  ,31  
+Country  
+England  ,"6,328  ","6,664  ","8,416  ",%  ,29  ,31  ,31  
+Northern Ireland  ,"1,014  ","1,131  ",568  ,%  ,22  ,25  ,25  
+Wales  ,"1,164  ","1,236  ","1,017  ",%  ,27  ,29  ,33  
+Size  
+2 to 4  ,773  ,856  ,918  ,%  ,21  ,23  ,23  
+5 to 24  ,"3,901  ","4,477  ","5,415  ",%  ,24  ,27  ,27  
+25 to 49  ,"1,622  ","1,622  ","1,863  ",%  ,39  ,44  ,41  
+50 to 99  ,947  ,898  ,"1,004  ",%  ,54  ,57  ,53  
+100-249  ,849  ,796  ,626  ,%  ,65  ,69  ,72  
+250+  ,414  ,382  ,175  ,%  ,83  ,80  ,82  
+Sector  
+Primary Sector & Utilities  ,218  ,284  ,225  ,%  ,19  ,23  ,25  
+Manufacturing  ,635  ,564  ,751  ,%  ,35  ,40  ,37  
+Construction  ,478  ,479  ,481  ,%  ,29  ,29  ,29  
+Wholesale & Retail  ,"1,634  ","1,877  ","1,987  ",%  ,25  ,30  ,31  
+Hotels & Restaurants  ,938  ,"1,080  ","1,258  ",%  ,22  ,21  ,23  
+Transport & storage  ,222  ,235  ,312  ,%  ,42  ,44  ,53  
+Information & Comms  ,324  ,332  ,254  ,%  ,30  ,18  ,25  
+Financial Services  ,214  ,170  ,203  ,%  ,20  ,25  ,32  
+Business Services  ,"1,186  ","1,479  ","1,732  ",%  ,25  ,27  ,25  
+Public Admin.  ,239  ,212  ,108  ,%  ,52  ,56  ,60  
+Education  ,735  ,630  ,801  ,%  ,38  ,38  ,38  
+Health & Social Work  ,"1,160  ","1,193  ","1,237  ",%  ,40  ,52  ,47  
+Arts & Other  ,523  ,496  ,652  ,%  ,29  ,29  ,28  
+
+A.3.2 Proportion of employers with underutilised staff by country, size and sector
+﻿,% of establishments (all Module B and Module D)  
+,Unweighted base  ,%  
+Total  ,"32,088  ",34  
+Country  
+England  ,"26,707  ",34  
+Northern Ireland  ,"2,003  ",35  
+Wales  ,"3,378  ",34  
+Size  
+2 to 4  ,"8,016  ",34  
+5 to 24  ,"16,156  ",34  
+25 to 49  ,"4,147  ",38  
+50 to 99  ,"2,163  ",38  
+100-249  ,"1,263  ",35  
+250+  ,343  ,32  
+Sector  
+Primary Sector & Utilities  ,"1,135  ",29  
+Manufacturing  ,"2,529  ",26  
+Construction  ,"2,084  ",32  
+Wholesale & Retail  ,"6,795  ",35  
+Hotels & Restaurants  ,"3,130  ",47  
+Transport & Storage  ,965  ,32  
+Information & Communications  ,955  ,28  
+Financial Services  ,649  ,36  
+Business Services  ,"6,097  ",29  
+Public Admin.  ,330  ,49  
+Education  ,"2,001  ",42  
+Health & Social Work  ,"3,179  ",41  
+Arts & Other Services  ,"2,239  ",37  
+
+A.3.3 Proportion of staff reported as being both over-qualified and over-skilled, by country, size and sector
+﻿,% over-qualified and over-skilled  
+,Unweighted base  ,%  
+Total  ,"32,088  ",8.0  
+Country  
+England  ,"26,707  ",8.0  
+Northern Ireland  ,"2,003  ",9.7  
+Wales  ,"3,378  ",8.1  
+Size  
+2 to 4  ,"8,016  ",19.7  
+5 to 24  ,"16,156  ",10.3  
+25 to 49  ,"4,147  ",8.0  
+50 to 99  ,"2,163  ",6.4  
+100-249  ,"1,263  ",5.4  
+250+  ,343  ,4.2  
+Sector  
+Primary Sector & Utilities  ,"1,135  ",8.4  
+Manufacturing  ,"2,529  ",4.0  
+Construction  ,"2,084  ",11.3  
+Wholesale & Retail  ,"6,795  ",8.7  
+Hotels & Restaurants  ,"3,130  ",14.4  
+Transport & Storage  ,965  ,6.3  
+Information & Communications  ,955  ,6.6  
+Financial Services  ,649  ,4.4  
+Business Services  ,"6,097  ",7.0  
+Public Admin.  ,330  ,11.7  
+Education  ,"2,001  ",6.2  
+Health & Social Work  ,"3,179  ",6.7  
+Arts & Other Services  ,"2,239  ",12.4  
+
+Chapter 4: Nurturing the skills pipeline: work placements
+Table A.4.1 Proportion of establishments offering specific types of work experience placements in the last 12 months
+﻿Row percentages  ,Unwtd Base:  ,,Placements for people at school  ,Placements for people at college  ,Placements for people at university  ,Work trials for potential new recruits  ,Placements targeted at giving work experience to the unemployed ,"Internships, either paid or unpaid  ",ANY TYPE OF WORK PLACEMENT  
+Total  ,"16,059  ",%  ,19  ,12  ,10  ,10  ,3  ,6  ,35  
+Country  
+England  ,"13,365  ",%  ,19  ,12  ,9  ,10  ,3  ,6  ,35  
+Northern Ireland  ,"1,011  ",%  ,24  ,16  ,12  ,5  ,5  ,5  ,36  
+Wales  ,"1,683  ",%  ,17  ,13  ,10  ,11  ,5  ,4  ,36  
+Size  
+2 to 4  ,"4,083  ",%  ,13  ,8  ,5  ,5  ,2  ,3  ,24  
+5 to 24  ,"7,990  ",%  ,22  ,14  ,11  ,14  ,4  ,6  ,43  
+25 to 49  ,"2,143  ",%  ,37  ,28  ,23  ,20  ,5  ,12  ,64  
+50 to 99  ,"1,006  ",%  ,43  ,35  ,32  ,19  ,8  ,16  ,69  
+100 to 149  ,643  ,%  ,43  ,35  ,41  ,22  ,11  ,22  ,78  
+250+  ,194  ,%  ,66  ,52  ,47  ,20  ,18  ,38  ,84  
+Sector  
+Primary Sector & Utilities  ,660  ,%  ,12  ,11  ,7  ,5  ,1  ,2  ,25  
+Manufacturing  ,"1,181  ",%  ,16  ,10  ,6  ,12  ,3  ,5  ,31  
+Construction  ,"1,055  ",%  ,10  ,7  ,3  ,8  ,1  ,3  ,23  
+Wholesale & Retail  ,"3,485  ",%  ,19  ,9  ,5  ,9  ,4  ,3  ,32  
+Hotels & Restaurants  ,"1,471  ",%  ,9  ,8  ,5  ,24  ,3  ,3  ,34  
+Transport & Storage  ,428  ,%  ,12  ,5  ,3  ,8  ,2  ,5  ,24  
+Information & Communications  ,510  ,%  ,17  ,9  ,9  ,6  ,1  ,9  ,30  
+Financial Services  ,306  ,%  ,13  ,4  ,13  ,4  ,*  ,13  ,29  
+Business Services  ,"3,026  ",%  ,20  ,10  ,11  ,7  ,2  ,8  ,35  
+Public admin.  ,162  ,%  ,27  ,14  ,21  ,5  ,8  ,8  ,43  
+Education  ,"1,005  ",%  ,55  ,49  ,42  ,11  ,4  ,10  ,77  
+Health & Social Work  ,"1,656  ",%  ,29  ,29  ,25  ,13  ,12  ,8  ,58  
+Arts & Other Services  ,"1,114  ",%  ,28  ,21  ,10  ,10  ,6  ,7  ,46  
+
+Table A.4.2 Proportion of establishments offering specific work experience placements in the last 12 months (2014 and 2016 comparison)
+﻿Row percentages  ,Unwtd  (2014)  Base  ,Unwtd  (2016)  Base  ,Unwtd (2019)  Base  ,,Any internships  ,,,Any adult work placements  ,,,Any education placements  ,,,Any type of work placement  
+,,,,,2014  ,2016  ,2019  ,2014  ,2016  ,2019  ,2014  ,2016  ,2019  ,2014  ,2016  ,2019  
+Total  ,"14,044  ","14,019  ","16,059  ",%  ,7  ,7  ,6  ,14  ,15  ,12  ,30  ,30  ,27  ,38  ,38  ,35  
+Country  
+England  ,"10,032  ","10,015  ","13,365  ",%  ,7  ,7  ,6  ,13  ,15  ,12  ,29  ,29  ,27  ,38  ,38  ,35  
+Northern Ireland  ,"2,005  ","2,007  ","1,011  ",%  ,8  ,7  ,6  ,21  ,16  ,10  ,40  ,41  ,32  ,48  ,48  ,36  
+Wales  ,"2,007  ","1,997  ","1,683  ",%  ,4  ,8  ,5  ,17  ,15  ,15  ,31  ,29  ,27  ,39  ,39  ,36  
+Size  
+2 to 4  ,"3,344  ","3,293  ","4,083  ",%  ,4  ,4  ,4  ,10  ,11  ,7  ,22  ,22  ,19  ,29  ,28  ,24  
+5 to 24  ,"6,438  ","6,714  ","7,990  ",%  ,8  ,7  ,7  ,16  ,18  ,17  ,32  ,34  ,32  ,44  ,45  ,43  
+25 to 49  ,"1,911  ","1,818  ","2,143  ",%  ,13  ,12  ,12  ,24  ,25  ,24  ,51  ,48  ,52  ,63  ,61  ,64  
+50 to 99  ,"1,029  ",961  ,"1,006  ",%  ,16  ,18  ,17  ,24  ,25  ,24  ,60  ,63  ,60  ,70  ,72  ,69  
+100 to 249  ,889  ,836  ,643  ,%  ,24  ,26  ,24  ,26  ,25  ,29  ,70  ,67  ,66  ,79  ,74  ,78  
+250+  ,433  ,397  ,194  ,%  ,38  ,45  ,39  ,23  ,27  ,33  ,76  ,78  ,80  ,80  ,85  ,84  
+Sector  
+Primary Sector & Utilities  ,669  ,609  ,660  ,%  ,3  ,5  ,3  ,5  ,11  ,6  ,23  ,25  ,21  ,26  ,33  ,25  
+Manufacturing  ,"1,011  ",878  ,"1,181  ",%  ,3  ,6  ,6  ,10  ,10  ,13  ,19  ,26  ,23  ,26  ,32  ,31  
+Construction  ,"1,202  ",960  ,"1,055  ",%  ,2  ,2  ,3  ,8  ,11  ,8  ,14  ,14  ,16  ,21  ,22  ,23  
+Wholesale & Retail  ,"2,755  ","3,086  ","3,485  ",%  ,5  ,4  ,4  ,14  ,14  ,12  ,26  ,27  ,24  ,36  ,35  ,32  
+Hotels & Restaurants  ,"1,234  ","1,344  ","1,471  ",%  ,4  ,5  ,3  ,24  ,25  ,25  ,20  ,22  ,15  ,39  ,38  ,34  
+Transport & Storage  ,432  ,382  ,428  ,%  ,2  ,4  ,5  ,13  ,11  ,10  ,19  ,14  ,15  ,29  ,24  ,24  
+Information & Communications  ,516  ,528  ,510  ,,14  ,11  ,9  ,11  ,10  ,7  ,34  ,32  ,24  ,43  ,37  ,30  
+Financial Services  ,419  ,304  ,306  ,%  ,8  ,14  ,13  ,6  ,6  ,5  ,28  ,28  ,24  ,32  ,36  ,29  
+Business Services  ,"2,000  ","2,412  ","3,026  ",%  ,10  ,8  ,9  ,10  ,11  ,8  ,30  ,29  ,28  ,38  ,36  ,35  
+Public Admin.  ,342  ,294  ,162  ,%  ,11  ,10  ,8  ,20  ,15  ,11  ,46  ,36  ,38  ,55  ,45  ,43  
+Education  ,936  ,818  ,"1,005  ",%  ,15  ,13  ,11  ,25  ,24  ,16  ,77  ,74  ,71  ,81  ,78  ,77  
+Health & Social Work  ,"1,567  ","1,560  ","1,656  ",%  ,10  ,9  ,8  ,23  ,27  ,23  ,50  ,49  ,49  ,61  ,60  ,58  
+Arts & Other  ,961  ,844  ,"1,114  ",%  ,8  ,9  ,7  ,18  ,21  ,16  ,39  ,40  ,39  ,48  ,49  ,46  
+
+Base: All establishments (Module C)
+Table A.4.3a Length of placements for people at school by country, size and sector
+﻿,Unwtd Base (2019)  ,,A week or less  ,Two to Three weeks  ,Around a month  ,Two to three months  ,Four to six months  ,Seven to twelve months  ,Over a year  
+Total  ,"3,732  ",%  ,54  ,31  ,4  ,5  ,2  ,2  ,1  
+Country  
+England  ,"3,113  ",%  ,54  ,32  ,4  ,5  ,2  ,1  ,1  
+Northern Ireland  ,264  ,%  ,60  ,15  ,3  ,6  ,2  ,3  ,5  
+Wales  ,355  ,%  ,50  ,26  ,6  ,10  ,2  ,4  ,1  
+Size  
+2 to 4  ,533  ,%  ,55  ,28  ,4  ,6  ,3  ,1  ,2  
+5 to 24  ,"1,744  ",%  ,54  ,33  ,3  ,4  ,2  ,2  ,1  
+25 to 49  ,717  ,%  ,54  ,30  ,4  ,6  ,2  ,2  ,2  
+50 to 99  ,404  ,%  ,46  ,34  ,4  ,8  ,2  ,3  ,1  
+100 to 249  ,238  ,%  ,54  ,32  ,6  ,4  ,1  ,2  ,*  
+250+  ,96  ,%  ,44  ,44  ,3  ,3  ,*  ,0  ,0  
+Sector  
+Primary Sector & Utilities  ,95  ,%  ,43  ,35  ,7  ,9  ,1  ,1  ,0  
+Manufacturing  ,237  ,%  ,53  ,39  ,2  ,4  ,0  ,1  ,1  
+Construction  ,154  ,%  ,55  ,29  ,3  ,4  ,3  ,*  ,5  
+Wholesale & Retail  ,694  ,%  ,49  ,34  ,3  ,6  ,3  ,1  ,2  
+Hotels & Restaurants  ,169  ,%  ,61  ,26  ,5  ,3  ,1  ,1  ,1  
+Transport & Storage  ,72  ,%  ,50  ,36  ,1  ,7  ,0  ,5  ,0  
+Information & Communications  ,115  ,%  ,60  ,25  ,3  ,5  ,6  ,*  ,2  
+Financial Services  ,48  ,%  ,46  ,54  ,0  ,0  ,0  ,0  ,0  
+Business Services  ,736  ,%  ,62  ,29  ,3  ,2  ,1  ,1  ,1  
+Public Admin.  ,38  ,%  ,69  ,19  ,0  ,2  ,3  ,2  ,3  
+Education  ,589  ,%  ,53  ,26  ,3  ,8  ,3  ,3  ,1  
+Health & Social Work  ,451  ,%  ,38  ,29  ,8  ,15  ,6  ,2  ,1  
+Arts & Other  ,334  ,%  ,53  ,31  ,3  ,4  ,3  ,2  ,2  
+
+Table A.4.3b Length of placements for people at college by country, size and sector
+﻿,Unwtd Base (2019)  ,,A week or less  ,Two to Three weeks  ,Around a month  ,Two to three months  ,Four to six months  ,Seven to twelve months  ,Over a year  
+Total  ,"2,695  ",%  ,22  ,22  ,10  ,17  ,7  ,8  ,9  
+Country  
+England  ,"2,209  ",%  ,22  ,22  ,10  ,17  ,7  ,8  ,9  
+Northern Ireland  ,215  ,%  ,19  ,14  ,8  ,18  ,8  ,19  ,11  
+Wales  ,271  ,%  ,16  ,17  ,14  ,17  ,10  ,10  ,10  
+Size  
+2 to 4  ,310  ,%  ,26  ,21  ,11  ,14  ,8  ,6  ,8  
+5 to 24  ,"1,149  ",%  ,21  ,21  ,9  ,16  ,7  ,9  ,11  
+25 to 49  ,589  ,%  ,16  ,21  ,10  ,21  ,7  ,13  ,8  
+50 to 99  ,355  ,%  ,14  ,25  ,10  ,23  ,9  ,8  ,7  
+100 to 249  ,207  ,%  ,20  ,27  ,16  ,19  ,3  ,6  ,5  
+250+  ,85  ,%  ,22  ,30  ,11  ,11  ,7  ,5  ,5  
+Sector  
+Primary Sector & Utilities  ,82  ,%  ,10  ,20  ,18  ,12  ,8  ,10  ,13  
+Manufacturing  ,151  ,%  ,19  ,24  ,12  ,12  ,5  ,6  ,16  
+Construction  ,114  ,%  ,24  ,17  ,10  ,13  ,9  ,5  ,17  
+Wholesale & Retail  ,356  ,%  ,22  ,26  ,11  ,16  ,7  ,5  ,8  
+Hotels & Restaurants  ,148  ,%  ,26  ,18  ,11  ,16  ,3  ,6  ,8  
+Transport & Storage  ,34  ,%  ,20  ,28  ,2  ,11  ,4  ,12  ,17  
+Information & Communications  ,62  ,%  ,25  ,30  ,11  ,17  ,6  ,2  ,8  
+Financial Services  ,16  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Business Services  ,414  ,%  ,34  ,28  ,7  ,11  ,4  ,6  ,8  
+Public Admin.  ,20  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Education  ,552  ,%  ,10  ,15  ,9  ,26  ,12  ,18  ,6  
+Health & Social Work  ,493  ,%  ,13  ,21  ,11  ,23  ,12  ,10  ,5  
+Arts & Other  ,253  ,%  ,23  ,13  ,13  ,18  ,6  ,8  ,15  
+
+Table A.4.3c Length of placements for people at university by country, size and sector
+﻿,Unwtd Base (2019)  ,,A week or less  ,Two to Three weeks  ,Around a month  ,Two to three months  ,Four to six months  ,Seven to twelve months  ,Over a year  
+Total  ,"2,158  ",%  ,12  ,17  ,12  ,27  ,11  ,10  ,7  
+Country  
+England  ,"1,758  ",%  ,12  ,17  ,12  ,27  ,11  ,10  ,7  
+Northern Ireland  ,168  ,%  ,13  ,16  ,5  ,17  ,13  ,20  ,11  
+Wales  ,232  ,%  ,12  ,15  ,11  ,32  ,9  ,7  ,5  
+Size  
+2 to 4  ,195  ,%  ,18  ,21  ,14  ,22  ,11  ,2  ,7  
+5 to 24  ,866  ,%  ,11  ,18  ,11  ,27  ,10  ,10  ,8  
+25 to 49  ,475  ,%  ,9  ,14  ,9  ,29  ,13  ,15  ,7  
+50 to 99  ,304  ,%  ,4  ,10  ,13  ,32  ,12  ,19  ,5  
+100 to 249  ,241  ,%  ,6  ,8  ,8  ,36  ,11  ,17  ,6  
+250+  ,77  ,%  ,2  ,14  ,11  ,18  ,12  ,27  ,8  
+Sector  
+Primary Sector & Utilities  ,57  ,%  ,10  ,55  ,15  ,12  ,2  ,2  ,2  
+Manufacturing  ,97  ,%  ,10  ,17  ,7  ,24  ,8  ,18  ,8  
+Construction  ,46  ,%  ,2  ,28  ,21  ,20  ,4  ,12  ,7  
+Wholesale & Retail  ,184  ,%  ,18  ,19  ,13  ,19  ,10  ,9  ,6  
+Hotels & Restaurants  ,72  ,%  ,1  ,3  ,5  ,30  ,19  ,13  ,13  
+Transport & Storage  ,19  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Information & Communications  ,76  ,%  ,20  ,13  ,17  ,15  ,16  ,14  ,4  
+Financial Services  ,43  ,%  ,6  ,15  ,10  ,38  ,10  ,11  ,4  
+Business Services  ,466  ,%  ,17  ,21  ,11  ,24  ,9  ,8  ,6  
+Public Admin.  ,27  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Education  ,525  ,%  ,3  ,5  ,9  ,43  ,15  ,13  ,7  
+Health & Social Work  ,413  ,%  ,9  ,12  ,13  ,29  ,13  ,12  ,9  
+Arts & Other  ,133  ,%  ,13  ,17  ,14  ,24  ,12  ,4  ,12  
+
+Table A.4.3d Length of placements for potential new recruits by country, size and sector
+﻿,Unwtd Base (2019)  ,,A week or less  ,Two to Three weeks  ,Around a month  ,Two to three months  ,Four to six months  ,Seven to twelve months  ,Over a year  
+Total  ,"1,991  ",%  ,40  ,13  ,12  ,17  ,5  ,4  ,3  
+Country  
+England  ,"1,675  ",%  ,39  ,13  ,12  ,17  ,5  ,4  ,3  
+Northern Ireland  ,78  ,%  ,43  ,8  ,9  ,22  ,9  ,1  ,1  
+Wales  ,238  ,%  ,44  ,9  ,9  ,19  ,7  ,4  ,2  
+Size  
+2 to 4  ,200  ,%  ,30  ,16  ,17  ,14  ,5  ,5  ,4  
+5 to 24  ,"1,048  ",%  ,44  ,12  ,10  ,18  ,6  ,3  ,2  
+25 to 49  ,399  ,%  ,44  ,11  ,7  ,22  ,6  ,3  ,2  
+50 to 99  ,182  ,%  ,45  ,10  ,9  ,21  ,5  ,2  ,4  
+100 to 249  ,131  ,%  ,35  ,11  ,12  ,23  ,6  ,2  ,1  
+250+  ,31  ,%  ,41  ,11  ,0  ,19  ,9  ,0  ,3  
+Sector  
+Primary Sector & Utilities  ,56  ,%  ,26  ,22  ,20  ,15  ,4  ,1  ,0  
+Manufacturing  ,170  ,%  ,31  ,14  ,16  ,24  ,5  ,2  ,1  
+Construction  ,112  ,%  ,25  ,15  ,16  ,20  ,8  ,*  ,8  
+Wholesale & Retail  ,362  ,%  ,34  ,11  ,13  ,22  ,7  ,4  ,1  
+Hotels & Restaurants  ,458  ,%  ,64  ,12  ,5  ,6  ,2  ,3  ,3  
+Transport & Storage  ,51  ,%  ,25  ,9  ,16  ,21  ,6  ,16  ,3  
+Information & Communications  ,35  ,%  ,21  ,19  ,12  ,33  ,8  ,3  ,2  
+Financial Services  ,15  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Business Services  ,284  ,%  ,32  ,15  ,13  ,21  ,4  ,6  ,1  
+Public Admin.  ,6  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Education  ,98  ,%  ,41  ,12  ,10  ,18  ,3  ,2  ,8  
+Health & Social Work  ,215  ,%  ,33  ,7  ,13  ,18  ,14  ,2  ,3  
+Arts & Other  ,129  ,%  ,40  ,15  ,13  ,15  ,5  ,4  ,2  
+
+Table A.4.3e Length of placements for the unemployed by country, size and sector
+﻿,Unwtd Base (2019)  ,,A week or less  ,Two to Three weeks  ,Around a month  ,Two to three months  ,Four to six months  ,Seven to twelve months  ,Over a year  
+Total  ,664  ,%  ,8  ,15  ,12  ,23  ,12  ,4  ,9  
+Country  
+England  ,490  ,%  ,8  ,17  ,12  ,22  ,10  ,4  ,9  
+Northern Ireland  ,62  ,%  ,3  ,6  ,11  ,24  ,20  ,12  ,6  
+Wales  ,112  ,%  ,8  ,3  ,5  ,35  ,21  ,6  ,11  
+Size  
+2 to 4  ,96  ,%  ,3  ,10  ,11  ,24  ,15  ,3  ,12  
+5 to 24  ,294  ,%  ,11  ,16  ,13  ,21  ,11  ,6  ,9  
+25 to 49  ,113  ,%  ,13  ,16  ,13  ,26  ,10  ,7  ,10  
+50 to 99  ,73  ,%  ,9  ,17  ,7  ,28  ,12  ,7  ,7  
+100 to 249  ,61  ,%  ,7  ,34  ,14  ,23  ,3  ,3  ,0  
+250+  ,27  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Sector  
+Primary Sector & Utilities  ,10  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Manufacturing  ,36  ,%  ,12  ,15  ,14  ,24  ,8  ,2  ,2  
+Construction  ,22  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Wholesale & Retail  ,149  ,%  ,6  ,10  ,14  ,30  ,12  ,3  ,7  
+Hotels & Restaurants  ,61  ,%  ,21  ,19  ,13  ,5  ,5  ,0  ,4  
+Transport & Storage  ,12  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Information & Communications  ,7  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Financial Services  ,3  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Business Services  ,76  ,%  ,18  ,16  ,8  ,12  ,12  ,5  ,11  
+Public Admin.  ,12  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Education  ,43  ,%  ,7  ,6  ,9  ,17  ,6  ,17  ,33  
+Health & Social Work  ,159  ,%  ,3  ,11  ,13  ,30  ,15  ,3  ,10  
+Arts & Other  ,74  ,%  ,4  ,25  ,5  ,25  ,18  ,5  ,8  
+
+Table A.4.3f Length of placements for voluntary work by country, size and sector
+﻿,Unwtd Base (2019)  ,,A week or less  ,Two to Three weeks  ,Around a month  ,Two to three months  ,Four to six months  ,Seven to twelve months  ,Over a year  
+Total  ,116  ,%  ,9  ,5  ,4  ,18  ,12  ,10  ,24  
+Country  
+England  ,87  ,%  ,10  ,5  ,4  ,20  ,10  ,10  ,22  
+Northern Ireland  ,14  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Wales  ,15  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Size  
+2 to 4  ,19  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+5 to 24  ,45  ,%  ,5  ,3  ,6  ,29  ,13  ,11  ,9  
+25 to 49  ,28  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+50 to 99  ,14  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+100 to 249  ,7  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+250+  ,3  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Sector  
+Primary Sector & Utilities  ,1  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Manufacturing  ,2  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Construction  ,0  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Wholesale & Retail  ,7  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Hotels & Restaurants  ,6  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Transport & Storage  ,0  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Information & Communications  ,1  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Financial Services  ,0  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Business Services  ,6  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Public Admin.  ,2  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Education  ,26  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Health & Social Work  ,38  ,%  ,0  ,5  ,6  ,18  ,10  ,9  ,40  
+Arts & Other  ,27  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+
+Table A.4.3g Length of placements for people with special needs or disabilities by country, size and sector
+﻿,Unwtd Base (2019)  ,,A week or less  ,Two to Three weeks  ,Around a month  ,Two to three months  ,Four to six months  ,Seven to twelve months  ,Over a year  
+Total  ,60  ,%  ,3  ,5  ,6  ,16  ,8  ,10  ,19  
+Country  
+England  ,43  ,%  ,3  ,5  ,6  ,17  ,5  ,9  ,19  
+Northern Ireland  ,8  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Wales  ,9  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Size  
+2 to 4  ,6  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+5 to 24  ,23  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+25 to 49  ,16  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+50 to 99  ,4  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+100 to 249  ,8  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+250+  ,3  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Sector  
+Primary Sector & Utilities  ,0  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Manufacturing  ,2  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Construction  ,1  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Wholesale & Retail  ,16  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Hotels & Restaurants  ,6  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Transport & Storage  ,0  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Information & Communications  ,0  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Financial Services  ,0  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Business Services  ,8  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Public Admin.  ,2  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Education  ,3  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Health & Social Work  ,12  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Arts & Other  ,10  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+
+Table A.4.3h Length of placements for internships by country, size and sector
+﻿,Unwtd Base (2019)  ,,A week or less  ,Two to Three weeks  ,Around a month  ,Two to three months  ,Four to six months  ,Seven to twelve months  ,Over a year  
+Total  ,"1,133  ",%  ,9  ,14  ,11  ,26  ,12  ,14  ,8  
+Country  
+England  ,963  ,%  ,9  ,14  ,11  ,26  ,11  ,15  ,8  
+Northern Ireland  ,78  ,%  ,9  ,10  ,7  ,15  ,18  ,19  ,14  
+Wales  ,92  ,%  ,0  ,11  ,9  ,35  ,19  ,9  ,10  
+Size  
+2 to 4  ,127  ,%  ,18  ,18  ,13  ,23  ,9  ,6  ,9  
+5 to 24  ,472  ,%  ,5  ,14  ,11  ,26  ,14  ,15  ,8  
+25 to 49  ,225  ,%  ,5  ,11  ,9  ,24  ,14  ,20  ,9  
+50 to 99  ,135  ,%  ,1  ,7  ,6  ,31  ,16  ,24  ,8  
+100 to 249  ,113  ,%  ,3  ,4  ,9  ,33  ,12  ,26  ,6  
+250+  ,61  ,%  ,4  ,14  ,11  ,26  ,5  ,23  ,1  
+Sector  
+Primary Sector & Utilities  ,24  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Manufacturing  ,79  ,%  ,7  ,14  ,6  ,22  ,10  ,23  ,8  
+Construction  ,39  ,%  ,9  ,5  ,17  ,35  ,4  ,6  ,22  
+Wholesale & Retail  ,126  ,%  ,13  ,9  ,12  ,20  ,10  ,19  ,9  
+Hotels & Restaurants  ,67  ,%  ,4  ,8  ,5  ,31  ,17  ,17  ,7  
+Transport & Storage  ,24  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Information & Communications  ,64  ,%  ,2  ,25  ,10  ,15  ,26  ,20  ,2  
+Financial Services  ,47  ,%  ,12  ,9  ,15  ,40  ,9  ,11  ,1  
+Business Services  ,324  ,%  ,10  ,15  ,12  ,29  ,11  ,13  ,6  
+Public Admin.  ,11  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Education  ,106  ,%  ,2  ,3  ,8  ,25  ,10  ,23  ,19  
+Health & Social Work  ,127  ,%  ,5  ,16  ,10  ,22  ,14  ,12  ,6  
+Arts & Other  ,95  ,%  ,10  ,9  ,7  ,18  ,14  ,16  ,20  
+
+Table A.4.3i Length of placements for graduate programmes by country, size and sector
+﻿,Unwtd Base (2019)  ,,A week or less  ,Two to Three weeks  ,Around a month  ,Two to three months  ,Four to six months  ,Seven to twelve months  ,Over a year  
+Total  ,81  ,%  ,35  ,8  ,11  ,18  ,7  ,5  ,2  
+Country  
+England  ,65  ,%  ,35  ,10  ,12  ,14  ,8  ,5  ,2  
+Northern Ireland  ,7  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Wales  ,9  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Size  
+2 to 4  ,10  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+5 to 24  ,35  ,%  ,31  ,9  ,16  ,8  ,13  ,10  ,4  
+25 to 49  ,17  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+50 to 99  ,6  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+100 to 249  ,9  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+250+  ,4  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Sector  
+Primary Sector & Utilities  ,3  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Manufacturing  ,4  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Construction  ,2  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Wholesale & Retail  ,12  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Hotels & Restaurants  ,5  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Transport & Storage  ,2  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Information & Communications  ,0  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Financial Services  ,3  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Business Services  ,16  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Public Admin.  ,0  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Education  ,7  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Health & Social Work  ,20  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Arts & Other  ,7  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+
+Table A.4.4a Payment of placements by country, size and sector
+﻿,People at school ,People at college ,People atuniversity ,Internships ,Unemployedpeople ,Potential new recruits ,Voluntary work  ,Special needs or disabilities ,Graduate programmes  
+Unwtd Base  ,"1,721  ","2,081  ","1,856  ",984  ,508  ,"1,048  ",90  ,47  ,51  
+,%  ,%  ,%  ,%  ,%  ,%  ,%  ,%  ,%  
+Total  ,19  ,34  ,46  ,67  ,38  ,84  ,8  ,27  ,60  
+Country  
+England  ,19  ,34  ,47  ,67  ,38  ,84  ,9  ,25  ,58  
+Northern Ireland  ,24  ,35  ,30  ,60  ,30  ,78  ,**  ,**  ,**  
+Wales  ,17  ,40  ,38  ,65  ,48  ,80  ,**  ,**  ,**  
+Size  
+2 to 4  ,17  ,31  ,46  ,58  ,19  ,80  ,**  ,**  ,**  
+5 to 24  ,22  ,38  ,48  ,67  ,51  ,87  ,2  ,**  ,**  
+25 to 49  ,15  ,32  ,41  ,71  ,47  ,82  ,**  ,**  ,**  
+50 to 99  ,20  ,30  ,37  ,81  ,58  ,83  ,**  ,**  ,**  
+100 to 249  ,16  ,33  ,46  ,79  ,40  ,76  ,**  ,**  ,**  
+250+  ,17  ,32  ,64  ,77  ,**  ,**  ,**  ,**  ,**  
+Sector  
+Primary Sector & Utilities  ,29  ,56  ,49  ,**  ,**  ,90  ,**  ,**  ,**  
+Manufacturing  ,26  ,65  ,75  ,85  ,**  ,91  ,**  ,**  ,**  
+Construction  ,36  ,61  ,65  ,72  ,**  ,88  ,**  ,**  ,**  
+Wholesale & Retail  ,17  ,36  ,52  ,62  ,43  ,82  ,**  ,**  ,**  
+Hotels & Restaurants  ,34  ,52  ,91  ,75  ,58  ,91  ,**  ,**  ,**  
+Transport & Storage  ,20  ,**  ,**  ,**  ,**  ,84  ,**  ,**  ,**  
+Information & Communications  ,31  ,39  ,68  ,62  ,**  ,**  ,**  ,**  ,**  
+Financial Services  ,**  ,**  ,86  ,89  ,**  ,**  ,**  ,**  ,**  
+Business Services  ,22  ,45  ,62  ,75  ,59  ,90  ,**  ,**  ,**  
+Public Admin.  ,**  ,**  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Education  ,5  ,9  ,14  ,59  ,49  ,70  ,**  ,**  ,**  
+Health & Social Work  ,8  ,11  ,21  ,41  ,18  ,61  ,2  ,**  ,**  
+Arts & Other  ,16  ,34  ,28  ,51  ,23  ,75  ,**  ,**  ,**  
+
+Base: All establishments with placements for each type of placement in the last 12 months and asked as part of the three followed up (Module C)
+Table A.4.4b Unweighted base sizes for table above (Table A.4.4a).
+﻿,People at school ,People at college ,People atuniversity ,Internships ,Unemployedpeople ,Potential new recruits ,Voluntary work  ,Special needs or disabilities ,Graduate programmes  
+Total  ,"1,721  ","2,081  ","1,856  ",984  ,508  ,"1,048  ",90  ,47  ,51  
+Country  
+England  ,"1,457  ","1,694  ","1,525  ",834  ,369  ,883  ,67  ,33  ,41  
+Northern Ireland  ,92  ,168  ,136  ,65  ,48  ,42  ,11  ,6  ,5  
+Wales  ,172  ,219  ,195  ,85  ,91  ,123  ,12  ,8  ,5  
+Size  
+2 to 4  ,239  ,221  ,149  ,98  ,74  ,122  ,14  ,2  ,3  
+5 to 24  ,787  ,869  ,732  ,415  ,221  ,542  ,33  ,21  ,22  
+25 to 49  ,323  ,479  ,418  ,195  ,92  ,209  ,23  ,14  ,12  
+50 to 99  ,210  ,290  ,277  ,124  ,57  ,93  ,13  ,3  ,5  
+100 to 249  ,111  ,160  ,209  ,102  ,44  ,68  ,6  ,6  ,6  
+250+  ,51  ,62  ,71  ,50  ,20  ,14  ,1  ,1  ,3  
+Sector  
+Primary Sector & Utilities  ,49  ,65  ,51  ,18  ,7  ,36  ,0  ,0  ,2  
+Manufacturing  ,112  ,114  ,84  ,68  ,25  ,105  ,1  ,2  ,4  
+Construction  ,78  ,86  ,41  ,35  ,19  ,83  ,0  ,1  ,0  
+Wholesale & Retail  ,336  ,258  ,131  ,105  ,116  ,205  ,5  ,14  ,10  
+Hotels & Restaurants  ,71  ,113  ,61  ,59  ,39  ,142  ,4  ,6  ,3  
+Transport & Storage  ,36  ,26  ,17  ,22  ,9  ,36  ,0  ,0  ,2  
+Information & Communications  ,43  ,46  ,63  ,62  ,7  ,25  ,1  ,0  ,0  
+Financial Services  ,21  ,11  ,38  ,42  ,3  ,9  ,0  ,0  ,2  
+Business Services  ,282  ,273  ,390  ,291  ,49  ,164  ,4  ,4  ,5  
+Public Admin.  ,11  ,8  ,20  ,10  ,11  ,4  ,1  ,2  ,0  
+Education  ,267  ,477  ,485  ,91  ,37  ,52  ,21  ,2  ,5  
+Health & Social Work  ,273  ,417  ,362  ,99  ,124  ,125  ,35  ,10  ,14  
+Arts & Other  ,142  ,187  ,113  ,82  ,62  ,62  ,18  ,6  ,4  
+
+Base: All establishments with placements for each type pf placement in the last 12 months and asked as part of the three followed up (Module C)
+Table A.4.5a Proportion of employers that have taken on individuals into a permanent or long-term paid role following their placement in the last 12 months
+﻿,People at school ,People at college ,People atuniversity ,Internships ,Unemployedpeople ,Potential new recruits ,Voluntary work  ,Special needs or disabilities ,Graduate programmes  
+,%  ,%  ,%  ,%  ,%  ,%  ,%  ,%  ,%  
+Total  ,9  ,20  ,21  ,24  ,30  ,59  ,18  ,19  ,12  
+Country  
+England  ,9  ,19  ,21  ,24  ,29  ,59  ,16  ,19  ,12  
+Northern Ireland  ,8  ,14  ,18  ,17  ,29  ,49  ,**  ,**  ,**  
+Wales  ,14  ,24  ,19  ,31  ,38  ,61  ,**  ,**  ,**  
+Size  
+2 to 4  ,4  ,11  ,9  ,13  ,15  ,42  ,**  ,**  ,**  
+5 to 24  ,10  ,21  ,19  ,25  ,33  ,64  ,18  ,**  ,14  
+25 to 49  ,15  ,27  ,25  ,31  ,43  ,73  ,**  ,**  ,**  
+50 to 99  ,19  ,25  ,32  ,29  ,59  ,75  ,**  ,**  ,**  
+100 to 249  ,26  ,29  ,44  ,45  ,44  ,65  ,**  ,**  ,**  
+250+  ,31  ,40  ,51  ,40  ,**  ,75  ,**  ,**  ,**  
+Sector  
+Primary Sector & Utilities  ,6  ,25  ,8  ,**  ,**  ,64  ,**  ,**  ,**  
+Manufacturing  ,13  ,30  ,23  ,26  ,36  ,60  ,**  ,**  ,**  
+Construction  ,12  ,24  ,22  ,36  ,**  ,50  ,**  ,**  ,**  
+Wholesale & Retail  ,9  ,14  ,15  ,9  ,32  ,60  ,**  ,**  ,**  
+Hotels & Restaurants  ,22  ,25  ,24  ,31  ,41  ,69  ,**  ,**  ,**  
+Transport & Storage  ,7  ,10  ,**  ,**  ,**  ,58  ,**  ,**  ,**  
+Information & Communications  ,6  ,22  ,25  ,24  ,**  ,58  ,**  ,**  ,**  
+Financial Services  ,7  ,**  ,17  ,31  ,**  ,**  ,**  ,**  ,**  
+Business Services  ,8  ,23  ,25  ,27  ,38  ,58  ,**  ,**  ,**  
+Public Admin.  ,9  ,**  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Education  ,9  ,17  ,25  ,24  ,44  ,39  ,**  ,**  ,**  
+Health & Social Work  ,10  ,17  ,17  ,21  ,20  ,57  ,13  ,**  ,**  
+Arts & Other  ,9  ,16  ,17  ,19  ,22  ,49  ,**  ,**  ,**  
+
+Table A.4.5b Unweighted base sizes for previous table (A.4.5a)
+﻿,People at school ,People at college ,People atuniversity ,Internships ,Unemployedpeople ,Potential new recruits ,Voluntary work  ,Special needs or disabilities ,Graduate programmes  
+Total  ,"3,732  ","2,695  ","2,158  ","1,133  ",664  ,"1,991  ",116  ,60  ,81  
+Country  
+England  ,"3,113  ","2,209  ","1,758  ",963  ,490  ,"1,675  ",87  ,43  ,65  
+Northern Ireland  ,264  ,215  ,168  ,78  ,62  ,78  ,14  ,8  ,7  
+Wales  ,355  ,271  ,232  ,92  ,112  ,238  ,15  ,9  ,9  
+Size  
+2 to 4  ,533  ,310  ,195  ,127  ,96  ,200  ,19  ,6  ,10  
+5 to 24  ,"1,744  ","1,149  ",866  ,472  ,294  ,"1,048  ",45  ,23  ,35  
+25 to 49  ,717  ,589  ,475  ,225  ,113  ,399  ,28  ,16  ,17  
+50 to 99  ,404  ,355  ,304  ,135  ,73  ,182  ,14  ,4  ,6  
+100 to 249  ,238  ,207  ,241  ,113  ,61  ,131  ,7  ,8  ,9  
+250+  ,96  ,85  ,77  ,61  ,27  ,31  ,3  ,3  ,4  
+Sector  
+Primary Sector & Utilities  ,95  ,82  ,57  ,24  ,10  ,56  ,1  ,0  ,3  
+Manufacturing  ,237  ,151  ,97  ,79  ,36  ,170  ,2  ,2  ,4  
+Construction  ,154  ,114  ,46  ,39  ,22  ,112  ,0  ,1  ,2  
+Wholesale & Retail  ,694  ,356  ,184  ,126  ,149  ,362  ,7  ,16  ,12  
+Hotels & Restaurants  ,169  ,148  ,72  ,67  ,61  ,458  ,6  ,6  ,5  
+Transport & Storage  ,72  ,34  ,19  ,24  ,12  ,51  ,0  ,0  ,2  
+Information & Communications  ,115  ,62  ,76  ,64  ,7  ,35  ,1  ,0  ,0  
+Financial Services  ,48  ,16  ,43  ,47  ,3  ,15  ,0  ,0  ,3  
+Business Services  ,736  ,414  ,466  ,324  ,76  ,284  ,6  ,8  ,16  
+Public Admin.  ,38  ,20  ,27  ,11  ,12  ,6  ,2  ,2  ,0  
+Education  ,589  ,552  ,525  ,106  ,43  ,98  ,26  ,3  ,7  
+Health & Social Work  ,451  ,493  ,413  ,127  ,159  ,215  ,38  ,12  ,20  
+Arts & Other  ,334  ,253  ,133  ,95  ,74  ,129  ,27  ,10  ,7  
+
+Base: all establishments with placements within each type of placement (module C)
+Table A.4.6 Bases showing unweighted numbers of establishments offering grouped work placements in last 12 months
+﻿,Any Education Placements  ,Any Adult Placements  ,Any internships  ,All work placements  
+Total  ,"5,840  ","2,640  ","1,279  ","7,328  "
+Country  
+England  ,"4,821  ","2,167  ","1,093  ","6,066  "
+Northern Ireland  ,433  ,133  ,80  ,487  
+Wales  ,586  ,340  ,106  ,775  
+Size  
+2 to 4  ,798  ,293  ,141  ,"1,009  "
+5 to 24  ,"2,691  ","1,334  ",526  ,"3,542  "
+25 to 49  ,"1,139  ",510  ,255  ,"1,402  "
+50 to 99  ,626  ,247  ,160  ,716  
+100 to 149  ,429  ,193  ,127  ,496  
+250+  ,157  ,63  ,70  ,163  
+Sector  
+Primary Sector & Utilities  ,169  ,71  ,26  ,206  
+Manufacturing  ,359  ,203  ,93  ,474  
+Construction  ,253  ,128  ,42  ,330  
+Wholesale & Retail  ,949  ,499  ,147  ,"1,255  "
+Hotels & Restaurants  ,309  ,494  ,75  ,654  
+Transport & Storage  ,98  ,63  ,26  ,151  
+Information & Communications  ,180  ,43  ,66  ,211  
+Financial Services  ,87  ,21  ,49  ,111  
+Business Services  ,112  ,370  ,359  ,"1,355  "
+Public Admin.  ,60  ,16  ,13  ,69  
+Education  ,847  ,153  ,131  ,885  
+Health & Social Work  ,901  ,374  ,147  ,"1,039  "
+Arts & Other  ,507  ,205  ,105  ,588  
+
+Table A.4.7 Most common reasons for offering work placements in the last 12 months
+﻿Row percentages  ,Unwtd base  ,%  ,Gives them experience  ,Helps us with recruitment/Use it as a trial period  ,Moral reasons/ Benefits for young people/ Doing our bit  ,Part of formal Social responsibility policy  ,Approached by student or educational institution  ,Help with the workload  
+Total  ,"7,328  ",%  ,47  ,27  ,26  ,9  ,5  ,4  
+Country  
+England  ,"6,066  ",%  ,46  ,27  ,26  ,9  ,5  ,4  
+Northern Ireland  ,487  ,%  ,58  ,15  ,24  ,12  ,6  ,1  
+Wales  ,775  ,%  ,49  ,34  ,26  ,10  ,4  ,5  
+Size  
+2 to 4  ,"1,009  ",%  ,48  ,23  ,26  ,8  ,6  ,5  
+5 to 24  ,"3,542  ",%  ,45  ,29  ,25  ,9  ,4  ,4  
+25 to 49  ,"1,402  ",%  ,48  ,29  ,26  ,11  ,4  ,2  
+50 to 99  ,716  ,%  ,50  ,32  ,25  ,10  ,3  ,4  
+100 to 249  ,496  ,%  ,48  ,32  ,30  ,11  ,4  ,2  
+250+  ,163  ,%  ,46  ,36  ,32  ,17  ,4  ,1  
+Sector  
+Primary Sector & Utilities  ,206  ,%  ,41  ,22  ,21  ,10  ,8  ,8  
+Manufacturing  ,474  ,%  ,36  ,37  ,26  ,7  ,4  ,4  
+Construction  ,330  ,%  ,47  ,29  ,22  ,6  ,1  ,2  
+Wholesale & Retail  ,"1,255  ",%  ,42  ,26  ,26  ,11  ,5  ,4  
+Hotels & Restaurants  ,654  ,%  ,36  ,51  ,13  ,7  ,5  ,2  
+Transport & Storage  ,151  ,%  ,36  ,32  ,17  ,3  ,7  ,10  
+Information & Communications  ,211  ,%  ,44  ,25  ,29  ,10  ,4  ,6  
+Financial Services  ,111  ,%  ,45  ,27  ,23  ,6  ,4  ,8  
+Business Services  ,"1,355  ",%  ,49  ,23  ,29  ,8  ,6  ,4  
+Public Admin.  ,69  ,%  ,52  ,16  ,37  ,23  ,4  ,2  
+Education  ,885  ,%  ,56  ,19  ,33  ,11  ,4  ,3  
+Health & Social Work  ,"1,039  ",%  ,58  ,21  ,26  ,9  ,3  ,3  
+Arts & Other  ,588  ,%  ,53  ,24  ,28  ,9  ,5  ,4  
+
+Base: all establishments offering work placements in the last 12 months (Module C)
+Table A.4.8 Most common reasons for not offering work-related experiences in the last 12 months
+﻿Row percentages  ,Unwtd base  ,%  ,Have no suitable roles  ,Do not have the time or resource to manage it  ,No one has approached them  ,They are not suitable due to the size of the establishment ,Never thoughtabout it  ,No need(unspecified) ,Recruitment freeze  ,Does not offer any business benefits  
+Total  ,"8,064  ",%  ,36  ,21  ,11  ,11  ,5  ,5  ,5  ,5  
+Country  
+England  ,"6,745  ",%  ,35  ,21  ,11  ,11  ,5  ,6  ,5  ,5  
+Northern Ireland  ,479  ,%  ,33  ,15  ,16  ,11  ,6  ,6  ,7  ,3  
+Wales  ,840  ,%  ,40  ,18  ,19  ,9  ,5  ,2  ,6  ,4  
+Size  
+2 to 4  ,"2,930  ",%  ,38  ,23  ,10  ,13  ,5  ,6  ,6  ,6  
+5 to 24  ,"4,119  ",%  ,32  ,19  ,13  ,7  ,6  ,4  ,5  ,4  
+25 to 49  ,646  ,%  ,25  ,15  ,11  ,3  ,8  ,2  ,4  ,4  
+50 to 99  ,237  ,%  ,30  ,10  ,12  ,1  ,3  ,3  ,3  ,1  
+100 to 249  ,116  ,%  ,25  ,13  ,12  ,1  ,8  ,2  ,*  ,4  
+250+  ,16  ,%  ,**  ,**  ,**  ,**  ,**  ,**  ,**  ,**  
+Sector  
+Primary Sector & Utilities  ,426  ,%  ,40  ,15  ,10  ,8  ,8  ,6  ,5  ,5  
+Manufacturing  ,673  ,%  ,33  ,26  ,13  ,10  ,7  ,6  ,6  ,6  
+Construction  ,688  ,%  ,36  ,18  ,11  ,10  ,4  ,6  ,5  ,5  
+Wholesale & Retail  ,"2,113  ",%  ,32  ,19  ,12  ,9  ,6  ,4  ,5  ,5  
+Hotels & Restaurants  ,760  ,%  ,40  ,13  ,14  ,8  ,7  ,5  ,6  ,5  
+Transport & Storage  ,264  ,%  ,40  ,18  ,10  ,8  ,7  ,7  ,4  ,5  
+Information & Communications  ,283  ,%  ,38  ,35  ,6  ,17  ,3  ,6  ,3  ,5  
+Financial Services  ,175  ,%  ,31  ,25  ,9  ,17  ,4  ,12  ,7  ,6  
+Business Services  ,"1,534  ",%  ,34  ,27  ,10  ,15  ,6  ,5  ,7  ,6  
+Public Admin.  ,79  ,%  ,40  ,15  ,10  ,7  ,4  ,1  ,4  ,3  
+Education  ,75  ,%  ,46  ,22  ,12  ,21  ,1  ,7  ,8  ,2  
+Health & Social Work  ,532  ,%  ,34  ,19  ,15  ,6  ,3  ,2  ,3  ,3  
+Arts & Other  ,462  ,%  ,41  ,19  ,12  ,9  ,5  ,6  ,4  ,4  
+
+Chapter 5: Nurturing the skills pipeline: T Levels (England only)
+A.5.1. Interest in providing T Levels by size and sector
+﻿,,,Interest in providing work placements to T-Levels students  
+,Unweighted base  ,,Very interested  ,Quite interested  ,Not very interested  ,Not at all interested  ,Neither interested nor uninterested  ,Don’ t know  ,VERY INTERESTED / QUITE INTERESTED ,NOT VERY INTERESTED / NOT ALL INTERESTED  
+Total  ,"13,665  ",%  ,8  ,28  ,21  ,35  ,2  ,5  ,36  ,57  
+Size  
+2 to 4  ,"3,364  ",%  ,7  ,23  ,21  ,44  ,2  ,3  ,30  ,65  
+5 to 24  ,"6,613  ",%  ,8  ,33  ,22  ,27  ,2  ,7  ,41  ,50  
+25 to 49  ,"1,813  ",%  ,12  ,38  ,21  ,18  ,2  ,8  ,51  ,39  
+50 to 99  ,846  ,%  ,12  ,44  ,19  ,15  ,3  ,8  ,56  ,34  
+100-249  ,553  ,%  ,12  ,40  ,21  ,15  ,1  ,12  ,52  ,35  
+250+  ,176  ,%  ,18  ,43  ,12  ,9  ,2  ,16  ,61  ,21  
+Sector  
+Primary Sector & Utilities  ,500  ,%  ,5  ,28  ,26  ,38  ,1  ,2  ,32  ,64  
+Manufacturing  ,980  ,%  ,8  ,25  ,25  ,38  ,1  ,2  ,33  ,63  
+Construction  ,872  ,%  ,6  ,28  ,20  ,43  ,1  ,2  ,33  ,63  
+Wholesale & Retail  ,"2,883  ",%  ,8  ,26  ,20  ,34  ,2  ,10  ,34  ,54  
+Hotels & Restaurants  ,"1,193  ",%  ,12  ,28  ,19  ,33  ,2  ,6  ,40  ,52  
+Transport & Storage  ,360  ,%  ,3  ,22  ,19  ,49  ,3  ,3  ,25  ,68  
+Information & Communications  ,466  ,%  ,8  ,28  ,22  ,39  ,1  ,3  ,36  ,60  
+Financial Services  ,257  ,%  ,5  ,24  ,27  ,38  ,2  ,6  ,29  ,64  
+Business Services  ,"2,669  ",%  ,6  ,28  ,24  ,37  ,2  ,4  ,34  ,60  
+Public Admin.  ,130  ,%  ,13  ,25  ,20  ,31  ,4  ,7  ,38  ,51  
+Education  ,822  ,%  ,12  ,45  ,16  ,19  ,2  ,6  ,57  ,35  
+Health & Social Work  ,"1,321  ",%  ,12  ,36  ,18  ,24  ,2  ,8  ,48  ,42  
+Arts & Other  ,912  ,%  ,9  ,31  ,23  ,31  ,2  ,4  ,40  ,54  
+
+A.5.2. Perceived ease of providing T Levels by size and sector
+﻿,,,Interest in providing work placements to T-Levels students  
+,Unweighted base  ,,Very easy  ,Quite easy  ,fairly difficult  ,Not very difficult  ,Neither easy nor difficult  ,Don’ t know  ,VERY EASY / FAIRLY EASY ,FAIRLY DIFFICULT / VERY DIFFICULT  
+Total  ,"13,665  ",%  ,6  ,27  ,27  ,34  ,2  ,4  ,33  ,61  
+Size  
+2 to 4  ,"3,364  ",%  ,6  ,23  ,25  ,42  ,2  ,3  ,29  ,67  
+5 to 24  ,"6,613  ",%  ,6  ,31  ,30  ,27  ,2  ,4  ,37  ,57  
+25 to 49  ,"1,813  ",%  ,8  ,36  ,30  ,19  ,2  ,6  ,44  ,49  
+50 to 99  ,846  ,%  ,9  ,39  ,31  ,14  ,2  ,4  ,48  ,45  
+100-249  ,553  ,%  ,5  ,39  ,33  ,15  ,2  ,6  ,44  ,48  
+250+  ,176  ,%  ,7  ,40  ,30  ,11  ,3  ,9  ,47  ,41  
+Sector  
+Primary Sector & Utilities  ,500  ,%  ,4  ,22  ,34  ,35  ,2  ,3  ,26  ,70  
+Manufacturing  ,980  ,%  ,5  ,26  ,31  ,35  ,1  ,2  ,31  ,66  
+Construction  ,872  ,%  ,7  ,24  ,25  ,39  ,2  ,3  ,30  ,64  
+Wholesale & Retail  ,"2,883  ",%  ,6  ,30  ,27  ,30  ,2  ,6  ,36  ,57  
+Hotels & Restaurants  ,"1,193  ",%  ,8  ,30  ,26  ,30  ,2  ,5  ,38  ,55  
+Transport & Storage  ,360  ,%  ,3  ,19  ,24  ,47  ,2  ,4  ,22  ,71  
+Information & Communications  ,466  ,%  ,4  ,28  ,25  ,39  ,2  ,2  ,32  ,64  
+Financial Services  ,257  ,%  ,5  ,27  ,27  ,36  ,2  ,3  ,32  ,63  
+Business Services  ,"2,669  ",%  ,5  ,24  ,27  ,39  ,2  ,2  ,30  ,66  
+Public Admin.  ,130  ,%  ,3  ,22  ,30  ,41  ,1  ,4  ,24  ,71  
+Education  ,882  ,%  ,8  ,40  ,24  ,18  ,3  ,6  ,49  ,42  
+Health & Social Work  ,"1,321  ",%  ,9  ,30  ,29  ,26  ,2  ,4  ,39  ,55  
+Arts & Other Services  ,912  ,%  ,9  ,29  ,28  ,29  ,2  ,3  ,38  ,57  
+
+A.5.3. Proportion of employers interested in providing T Levels and proportion perceiving T Levels placements would be easy to provide by LEP
+﻿,,,Interest in / ease of providing work placements to T-Levels students  
+,Unwtd base  ,,Very / quite Interested  ,Very / fairly easy  
+Total  ,"13,365  ",%  ,36  ,33  
+LEP  
+Black Country  ,204  ,%  ,32  ,33  
+Buckinghamshire Thames Valley  ,132  ,%  ,47  ,39  
+Cheshire & Warrington  ,241  ,%  ,43  ,36  
+Coast to Capital  ,399  ,%  ,36  ,34  
+Cornwall & Isles of Scilly  ,190  ,%  ,45  ,37  
+Coventry & Warwickshire  ,210  ,%  ,41  ,34  
+Cumbria  ,211  ,%  ,40  ,39  
+"Derby, Derbyshire, Nottingham & Nottinghamshire  ",546  ,%  ,30  ,31  
+Dorset  ,195  ,%  ,36  ,34  
+Enterprise M3  ,345  ,%  ,36  ,30  
+Gloucestershire  ,194  ,%  ,39  ,37  
+Greater Birmingham & Solihull  ,384  ,%  ,28  ,31  
+Greater Cambridge Greater Peterborough  ,471  ,%  ,42  ,36  
+Greater Lincolnshire  ,313  ,%  ,37  ,34  
+Greater Manchester  ,477  ,%  ,38  ,34  
+Heart of the South West  ,507  ,%  ,41  ,38  
+Hertfordshire  ,255  ,%  ,37  ,30  
+Humber  ,221  ,%  ,34  ,31  
+Lancashire  ,364  ,%  ,36  ,38  
+Leeds City Region  ,768  ,%  ,37  ,32  
+Leicester & Leicestershire  ,270  ,%  ,39  ,33  
+Liverpool City Region  ,254  ,%  ,41  ,40  
+London  ,"1,935  ",%  ,33  ,31  
+New Anglia  ,524  ,%  ,34  ,32  
+North Eastern  ,751  ,%  ,30  ,29  
+Oxfordshire  ,164  ,%  ,39  ,34  
+Sheffield City Region  ,443  ,%  ,30  ,29  
+Solent  ,257  ,%  ,42  ,32  
+South East  ,863  ,%  ,40  ,36  
+South East Midlands  ,488  ,%  ,39  ,33  
+Stoke-on-Trent & Staffordshire  ,252  ,%  ,34  ,34  
+Swindon & Wiltshire  ,159  ,%  ,35  ,33  
+Tees Valley  ,261  ,%  ,33  ,35  
+Thames Valley & Berkshire  ,174  ,%  ,40  ,34  
+The Marches  ,216  ,%  ,35  ,30  
+West of England  ,284  ,%  ,39  ,40  
+Worcestershire  ,149  ,%  ,33  ,30  
+"York, North Yorkshire & East Riding  ",401  ,%  ,38  ,32  
+
+Appendix B: Definitions for categories
+Table B.1 Grouped work placement definitions
+﻿Education placements  ,Adult placements  ,Internships  
+Placements for people at school  ,Work trails for potential new recruits  ,"Internships, either paid or unpaid  "
+Placements for people at FE or 6th form college  ,Placements targeted at the unemployed  ,Graduate programme (unprompted)  
+Placements for people at university  ,Voluntary work (unprompted)  ,
+,Special needs or disability programme (unprompted)  ,
+
+Table B.2 Grouped reasons for offering work placements
+﻿Altruistic  ,Company benefit  ,Circumstantial  
+Gives them experience  ,Helps with recruitment / as a trial  ,Approached by student or educational institution  
+Doing our ‘but’ / uphold relations with the local community  ,Helps with the workload  ,Favour for family member or friend  
+Part of formal Corporate Social Responsibility policy  ,Raises our profile in the recruitment market  ,
+Existing links with educational institutions  ,Beneficial to the company (e.g. fresh ideas / up to date skills etc.)  ,
+
+Appendix C: Industry coding
+Each establishment was allocated to one of 13 sectors, based on their Standard Industrial Classification (SIC). SIC 2007 was used to classify establishments using the following method. Using the four-digit Standard Industrial Classification (SIC) supplied for each record from the Market Location or IDBR database, a description of business activity was read out to each respondent. If they agreed that this description matched the main activity undertaken at the establishment, then the SIC on Market Location’s database or IDBR was assumed to be correct. If, however, the respondent felt the description did not correspond to their main business activity at the site (around a fifth of cases), a verbatim response was collected to find out what they do. At the analysis stage this was coded to a four-digit SIC which was then used as the basis for allocation into sector.
+The table below shows the 13 sectors and their corresponding SIC 2007 definitions.44 (<>)
+﻿Sector  ,SIC 2007  
+Primary Sector and Utilities  ,"A - Agriculture, forestry and fishing (01-03) Including farming, hunting and other related service activities, forestry and logging, fishing and aquaculture  B - Mining and quarrying (05-09) Including mining of coal, metals, sand/stone/clay, and extraction of crude petroleum and natural gas  D - Electricity, gas, steam and air conditioning supply (35)  E - Water supply, sewerage, waste management and remediation activities (36-39) Including electric power generation, transmission and distribution, manufacture of gas and distribution of gaseous fuels, steam and air conditioning supply, water collection, treatment and supply, sewerage and waste collection  "
+Manufacturing  ,"C - Manufacturing (10-33) Including manufacture of food and beverage, textiles, chemicals and chemical products, basic pharmaceutical products, other mineral products, manufacture of metals and metal products, machinery, computer and electronic products and equipment, motor vehicles and other transport equipment, furniture, and repair and installation of machinery and equipment  "
+Construction  ,F - Construction (41-43)  
+,"Including the construction of buildings, civil engineering (constructing roads, railways and other utility projects), demolition, and specialised activities such as electrical installation, roofing and scaffold erection  "
+Wholesale and Retail  ,"G - Wholesale and retail trade; repair of motor vehicles and motor cycles (45-47) Including sale, maintenance and repair of motor vehicles, parts and accessories, non-vehicle wholesale (for example agriculture, food, household goods), and the retail trade of all products whether in stores, stalls, markets, mail order or online  "
+Hotels and Restaurants  ,"I - Accommodation and food service activities (55-56) Including hotels, campsites, youth hostels, holiday centres, villages and other short stay accommodation, restaurants and takeaways, event catering and licensed clubs, pubs and bars  "
+Transport and Storage  ,"H - Transport and storage (49-53) Including land, water and air transport (passenger and freight), warehousing and support activities for transportation, postal and courier activities,  "
+Information and Communications  ,"J - Information and communication (58-63) Including publishing (books, journals, newspapers etc. and software/computer games), television, film and music production, broadcasting, telecommunications, computer programming and consultancy, information service activities (e.g. data processing and hosting)  "
+Financial Services  ,"K - Financial and insurance activities (64-66) Including banks and building societies, activities of holding companies, trusts, funds and similar financial entities, credit granting, pensions, insurance and reinsurance  "
+Business services  ,"L - Real estate activities (68)  M - Professional, scientific and technical activities (69-75)  N - Administrative and support service activities (77-82) Including the buying, selling and renting of real estate, legal activities, accounting, bookkeeping and auditing, management consultancy, architectural and engineering activities, scientific research and development, advertising and market research, specialist design, photographic activities, translation and interpretation, veterinary activities, renting and leasing of tangible goods (motors, household, machinery), employment agencies, travel agencies and tour operations, security and investigation activities, office administration and business support  "
+Public Administration  ,"O - Public administration and defence; compulsory social security (84) Including administration of the State and economic and social policy of the community, provision of services to the community such as defence activities, foreign affairs, justice and judicial activities, fire service and compulsory social security activities  "
+Education  ,"P - Education (85) Including pre-primary, primary, secondary and higher education, other education (such as sports, driving schools, cultural education), educational support activities  "
+Health and Social Work  ,Q - Human health and social work activities (86-88)  
+,"Including Hospitals, medical and dental practices, residential care, social work activities  "
+"Arts, entertainment, recreation and other service activities  ","R - Arts, entertainment and recreation (90-93)  S - Other service activities (94-96) Including performing arts, libraries and museums, gambling and betting, sports facilities, amusement and recreation activities, activities of membership organisations (religious, political, trade union, professional), personal services (hairdressing, beauty, textile cleaning, well-being activities, funeral activities)  "
+NOT COVERED IN SURVEY  ,"T - Activities of households as employers; undifferentiated goods and services producing activities of households for own use (97-98)  U - Activities of extraterritorial organisations and bodies (99) Including households as employers of domestic personnel, private households producing goods for own use  "
+
+Appendix D: Sampling Error and Statistical Confidence (summary)
+Sampling errors for the survey results overall and for key sub-groups are presented in Table D.1. Figures have been based on a survey result of 50% (the ‘worst’ case in terms of statistical reliability) and have used a 95% confidence level. Where the table indicates that a survey result based on all respondents has a sampling error of ±0.34%, this should be interpreted as follows: ‘for a question asked of all respondents where the survey result is 50%, we are 95% confident that the true figure lies within the range 49.66% to 50.34%’. Significance testing on employer measures use the unweighted respondent base, while employment measures, and density measures such as the proportion of the workforce with skills gaps and skills-shortage vacancy density, have been calculated on the basis of the unweighted employment (or vacancy) base.
+As a note, the calculation of sampling error has taken into account the finite population correction factor to account for cases where we are measuring a significant portion of the population universe (i.e. even if two sample sizes are the same, the sampling error will be lower if in one case a far higher proportion of the population was covered).
+These confidence intervals are based on the assumptions of probability random sampling and a normal distribution of responses.
+Table D.1 Sampling error (at the 95% confidence level) associated with findings of 50%. Non-modular data.
+﻿,Population  ,Number of interviews  ,(Maximum) Sampling Error  
+Overall  ,"1,831,000  ","81,013  ",± 0.34  
+By country  
+England  ,"1,683,000  ","70,217  ",± 0.36  
+Northern Ireland  ,"59,000  ","4,023  ",± 1.49  
+Wales  ,"89,000  ","6,773  ",± 1.14  
+By size  
+2 to 4  ,"998,000  ","20,183  ",± 0.68  
+5 to 9  ,"381,000  ","20,012  ",± 0.67  
+10 to 24  ,"267,000  ","20,599  ",± 0.66  
+25 to 49  ,"98,000  ","10,795  ",± 0.89  
+50 to 99  ,"50,000  ","5,377  ",± 1.26  
+100 to 249  ,"27,000  ","3,122  ",± 1.65  
+250+  ,"11,000  ",925  ,± 3.09  
+By sector  
+Primary Sector & Utilities  ,"99,000  ","2,952  ",± 1.78  
+Manufacturing  ,"94,000  ","6,234  ",± 1.20  
+Construction  ,"179,000  ","5,249  ",± 1.33  
+Wholesale and Retail  ,"348,000  ","17,503  ",± 0.72  
+Hotels and Restaurants  ,"172,000  ","7,594  ",± 1.10  
+Transport and Storage  ,"62,000  ","2,330  ",± 1.99  
+Information and Communications  ,"91,000  ","2,511  ",± 1.93  
+Financial Services  ,"37,000  ","1,577  ",± 2.41  
+Business Services  ,"426,000  ","15,490  ",± 0.77  
+Public Administration  ,"15,000  ",840  ,± 3.29  
+Education  ,"55,000  ","5,012  ",± 1.32  
+Health and Social Work  ,"120,000  ","8,092  ",± 1.05  
+Arts and Other Services  ,"134,000  ","5,629  ",± 1.28  
+
+Source for population data is the ONS Inter-Departmental Register (IDBR). Populations have been rounded to the nearest 1,000.
+© Department for Education 2020
+Reference: DFERPPU 2018061/2
+ISBN: 978-1-83870-206-9
+employer.surveys@education.gov.uk
+www.education.gov.uk/contactus
+For any enquiries regarding this publication, contact us at: or
+www.gov.uk/government/publications
+This document is available for download at
