@@ -1,0 +1,269 @@
+[Page #0]
+Artificial intelligence in the United Kingdom: Prospects and challenges
+Briefing note Prepared for London Tech Week, June 2019, in collaboration with QuantumBlack and McKinsey & Company UK and IrelandJune 2019
+Advances in artificial intelligence (AI) technologies are pushing the frontier of what machines are capable of doing in the private, public, and social sectors.1 These technologies have already diffused into many businesses and sectors, and they have the potential to transform operations and business models, eventually powering higher productivity and growth across economies. No other country comes close to the United States and China, the world’s powers in the deployment of AI, but the United Kingdom is one of Europe’s leaders.2 In this briefing note, we build on previous research on AI globally and in Europe. We explore the prospective benefits to the economy and companies that could result from scaling up AI, and we outline the priorities for businesses in the United Kingdom that seek to reap those benefits. 
+The United Kingdom also leads in Europe for the density of AI startups launched in the areas of health and medical technology; indeed, the government is attempting to scale up the opportunity by launching a “grand challenge” for better medical research and for improved diagnosis, prevention, and treatment of diseases.5 
+Nevertheless, these are early days for AI adoption, and there are questions about how large the potential could be and what portion the country is likely to capture in economic gains and beyond. 
+Attempting to predict the economic gains available from AI, let alone trying to estimate its potential effects beyond GDP, is a highly speculative undertaking. On potential economic gains, adoption and diffusion will depend on many variables including technical feasibility, development costs, labour-market dynamics, talent capabilities, and even societal acceptance.6 With that caveat, MGI’s simulation of the global potential impact suggested that AI could add approximately an incremental 16 percent to global output by 2030.
+AI could be a significant driver of productivity and GDP growth for the UK economy McKinsey Global Institute (MGI) research has found that, despite transitional challenges that need to be managed, AI technologies can have a significant positive impact on productivity and economic growth and can offer broader benefits for society, such as improved longevity and health.3 The United Kingdom is already recognised as a leader in technology for health.4
+For the United Kingdom, the effects could be slightly larger because it is potentially more AI-ready compared with the global average—although we note that the country still has to scale up its AI effort based on its relative digital assets and competencies.
+1
+[Page #1]
+We estimate that the economy could see an uplift of about 22 percent of current GDP by 2030 (Exhibit 1).7 MGI identified several factors affecting AI-driven productivity growth and simulated the impact of AI on channels relating to the impact of AI adoption on the need for, and mix of, production factors that have a direct impact on the productivity of firms, and externalities linked to the adoption of AI and related to the broad economic environment and the transition to AI.
+Further, the size of the upside potential that is captured depends on how companies decide to prioritise investments, and on major shifts in broader skills and labour-market fluidity within the economy and across sectors. MGI has found that simply focusing on labour substitution and cost savings misses the additional benefits that can be reaped through innovation-led adoption of AI and using AI to complement human capabilities. Such a growth orientation can enable market expansion and higher wage growth, leading to increased overall demand.9 
+That improvement would be a welcome boost in the United Kingdom, given its weak recent record on productivity growth. Since the mid-2000s, the country has been one of the worst performers on productivity growth among advanced economies. From 2010 to 2015, productivity grew at only 0.2 percent a year, more than 90 percent below the average of 2.4 percent from 1970 to 2007.8 
+The journey to capturing AI’s benefits is a fast-paced competitive race in which those slow to move will lose outThe prospective benefits of AI to economies are likely to emerge only over time. However, it would be a mistake to conclude from the slow-burn impact of AI that there is no urgency to adopt. Evidence already exists that a performance gap is likely to open up between early and late adopters—both entire economies and individual firms.
+However, capturing the upside from AI adoption will take time. The impact may not necessarily be visible within the next five years because of lags and transition costs associated with deploying the relevant technologies and significant bottlenecks—including on technology talent—that can hold firms back from implementing AI-based solutions.
+Exhibit 1Exhibit 1AI could deliver a 22% boost to the UK economy by 2030.AI could deliver a 22% boost to the UK economy by 2030.Breakdown of economic impact, Cumulative boost vs today, % Breakdown of economic impact, Cumulative boost vs today, %
+Increase
+Decrease
+Total
+Augmentation
+4
+Substitution
+15
+Production channels
+Product and serviceinnovation and extension
+27
+Competition e ect
+-19
+Global data  ows and connectedness
+3
+Wealth creationand reinvestment
+6
+Gross impact
+36
+Externality channels 
+Transition and implementation costs
+-7
+-7
+Negative externalities
+Net impact
+22
+Note: Numbers are simulated  gures to provide directional perspectives rather than forecasts. Figures may not sum to 100% because of rounding.
+Source: McKinsey Global Institute analysis 
+2
+[Page #2]
+MGI research has found that leading countries in AI adoption, mostly developed economies and China, could capture an additional 20 to 25 percent in net economic benefits compared with today, which is between two and five times as much as the upside for weaker foundations for AI adoption. We note that the AI frontier does not stand still—there is no fixed point to aspire to reach, because the world’s AI leaders and others are constantly shifting their goals. The United Kingdom’s opportunity for a productivity and growth boost from AI could quickly shrink if it does not nurture the potential of the technologies. The AI gap between Europe and the frontier (represented by the United States) has already increased by 20 percent in the past three years.10 
+5.0 percentage points faster than are companies that have yet to adopt any AI technologies, and 3.5 percentage points faster than companies with only a partial diffusion of AI. If this pace were to continue for about the next ten years, the difference in labour productivity between fully AI-savvy companies and average European companies may become as large as 15 to 20 percent if companies also adjust their employment, according to their responses to the survey.13 
+The United Kingdom is in a stronger starting position to capture the AI dividend than Europe as a whole but still has challenges to tackleThe United Kingdom has taken some bold steps to prepare itself for the AI revolution with the support of government backed by parliament. An independent 2017 review commissioned by the UK government, the Hall-Pesenti Review, which was published in October 2017, recommended that the Alan Turing Institute become the national institute for AI and data science; that universities should reduce delays and barriers to commercialisation of intellectual property; and that there should be collective coordination and negotiation to improve access to low-cost computing capacity for AI research. The review also recommended setting up an AI council to promote the growth and coordination of the sector as well as a programme to support public-sector use of AI. 14 The House of Lords AI select committee welcomed government activism on AI and backed the key recommendations of the Hall-Pesenti Review.15 
+For companies, we are seeing fast movers win big and those that move slowly lose out: 
+ — Front-runners, defined as companies that fully absorb AI tools into their organisations over the next five to seven years, could increase economic value (economic output minus AI-related investments and transition costs) by about 120 percent by 2030—implying additional growth in cash generation of about 6 percent a year for the next 12 years, according to our simulation. 
+ — Laggards, who adopt AI late or not at all, could lose about 20 percent of cash flow compared with today based on our simulation. A McKinsey survey found that late and non-adopters of AI reduce their employment and investment more than other businesses.11 
+Looking at particular sectors, we find similar non-linear patterns.12 In professional services and retail, companies that do not deploy AI are reporting that cash flows generated from digital businesses are 15 to 20 percent lower than those of their AI-embracing peers. In financial services, the gap is 30 percent, and in high tech, a substantial 80 percent. Those figures may vary from country to country but are of a similar order of magnitude for the United Kingdom, according to our research.
+The United Kingdom’s strengths in the relative science and its policy leadership on AI are reflected in its position on AI capabilities. The ability to capture the full potential of AI varies significantly among sectors and countries, and the United Kingdom is currently ahead of the EU-28 pack on MGI’s AI Readiness Index. 
+The relative readiness of the United Kingdom is the result of its position on seven AI enablers. Three are AI-specific: research activities, startup investment, and automation potential. The other four are foundations for AI: digital absorption, innovation foundation, human capital, and information and communications technology (ICT) connectedness. In the MGI index that covers the United States and China—the world’s AI leaders—and the EU-28, the United Kingdom is in the top quartile and ranks high on most dimensions (Exhibit 2).
+McKinsey’s 2018 Digital Survey found that European companies that had already invested in an AI technology had been able to increase top-line growth 1.2 percentage points faster, and earnings before tax and interest 2.0 percentage points quicker, than companies that had yet to invest in AI. Furthermore, European companies that are already fully invested in all AI technologies—a small sample—are increasing their top line 
+3
+[Page #3]
+Exhibit 2The United Kingdom is in the top quartile of countries on AI readiness.Exhibit 2%The United Kingdom is in the top quartile of countries on AI readiness.%
+Top 25% rank in AI Readiness Index
+Above average (next 25%)
+Below average (but not in bottom 25%)
+Bottom 25%
+AI related
+Enabler
+AIresearch activities
+ICT connectness
+AI readiness
+AI startup investment
+Automation potential
+Digital absorption
+Innovation foundation
+Human capital
+United States
+China
+Canada
+Germany
+Japan
+Netherlands
+Sweden
+United Kingdom
+Australia
+Austria
+Belgium
+Denmark
+Finland
+France
+Ireland
+South Korea
+Czech Republic
+Estonia
+India
+Italy
+Lithuania
+Poland
+Portugal
+Spain
+Brazil
+Bulgaria
+Croatia
+Greece
+Hungary
+Latvia
+Romania
+Slovenia
+Source: McKinsey Global Institute analysis 
+4
+[Page #4]
+The fact that the United Kingdom has strong AI foundations compared with other European countries on AI readiness does not mean its work is complete. The MGI index value for AI in 2018 was only 60 percent of its potential, demonstrating scope to do much better. The evidence on the United Kingdom’s readiness to seize the potential of AI therefore presents the following three important  paradoxes: 
+Nevertheless, as of 2017, the adoption of big data, smart robotics, deep learning, and AI tools by UK firms lagged behind that of US and European firms, according to the 2018 McKinsey Digital Survey (Exhibit 3).16
+Investment in AI is higher than other advanced economies’ but lower than that of the world’s AI leaders. The United Kingdom’s investment in AI is relatively low compared with the United States and China, which invest 50 times and eight times more than the United Kingdom, respectively. Despite slightly higher investment, the United Kingdom also lags behind several countries, namely France, Germany, Japan, and South Korea, on AI patents.
+The United Kingdom has impressive pockets of innovation but is failing to scale to business more broadlyThe United Kingdom has buoyant startups, but adoption by firms is slow. Several firms at the cutting edge of AI were founded in the United Kingdom. Prominent examples include DeepMind, founded in 2010 and acquired by Google in 2014 for $500 million, and SwiftKey, founded in 2008 and acquired by Microsoft in 2016 for $250 million. Natural language processing specialist VocalIQ was bought by Apple, and Magic Pony by Twitter. Many other UK startups are showing promise. The United Kingdom invests more than any of its European counterparts in AI through venture capital, private equity, and M&A, and it is both active and innovative in harvesting new ideas. For example, Entrepreneur First is a talent and idea incubator that, since its founding in 2011, has invested in 1,000-plus people, helping them to create more than 200 companies worth a combined $1.5 billion.
+The United Kingdom has a significant pool of AI talent, but work remains to be doneThe United Kingdom has a large pool of AI talent and has proved successful in attracting people with needed skills from other countries. The country has the second-largest number of professional software developers in Europe—15 percent of the total. London is the largest tech hub in Europe, with more than 350,000 developers. Moreover, when US developers move to Europe to take up opportunities—and their interest in moving to Europe is increasing—they tend to opt for the United Kingdom.
+Exhibit 3Exhibit 3UK AI diffusion lags behind that of Europe and the United States.UK AI diffusion lags behind that of Europe and the United States.Share of companies adopting technologies at scale, %Share of companies adopting technologies at scale, %
+United Kingdom (120 firms)
+Europe (excluding United Kingdom) (520 firms)
+United States(350 firms)
+Big data
+30
+36
+38
+Smart robotics
+23
+18
+24
+Advanced neuronal algorithms
+15
+14
+12
+21
+8
+18
+AI tools
+Source: McKinsey Digital Survey 2018; McKinsey Global Institute analysis 
+5
+[Page #5]
+Although Europe has a large pool of developers, many more are coming from the United States, and 16 percent of these are coming to the United Kingdom.17 This could suggest that if the United Kingdom leaves the European Union in the wake of the 2016 referendum on membership, it may continue to attract talent. 
+establishing MSc conversion courses for non-STEM students to work in AI by 2020.22 More than £400 million has been committed to research support in AI. 
+These initiatives are welcome, but more can be done. Consider China’s efforts to promote the development of AI. The government aims to create a domestic AI market of one trillion renminbi (£115 billion) by 2020 and become a world-leading AI centre by 2030. The private sector is pushing actively for AI, too. Three of China’s internet giants—Alibaba, Baidu, and Tencent—as well as iFlytek, a voice recognition specialist, have joined a “national team” to develop AI in areas such as autonomous vehicles, smart cities, and medical imaging. China is developing homegrown talent. According to the Ministry of Education, 35 universities have received approval to set up four-year undergraduate AI-related majors. Chinese universities are promoting an “AI+X” interdisciplinary approach and will have put in place 100 majors that combine AI and other subjects by 2020.23 
+In 2017, 20 universities were offering more than 30 graduate programmes in AI. The number of PhD enrolments almost doubled to just under 400 between 2013 and 2015.18 Another strength in the United Kingdom is that it has more science, technology, engineering, and maths (STEM) graduates than any other country in Europe—more than 60 percent more than either Germany or France, according to UNESCO data. 
+Nevertheless, like most countries, the United Kingdom faces a shortage of people with advanced technological skills as demand for those skills is expected to increase significantly (Exhibit 4). Jobs profiles characterised by repetitive tasks and activities requiring low digital skills may decline from about 40 percent to near 30 percent of total employment by 2030, but nonrepetitive activities and those requiring high digital skills could rise from about 40 percent to more than 50 percent. MGI has simulated that around 13 percent of the total wage bill could shift to categories requiring nonrepetitive and high digital skills.19 A report by employment website Indeed, which has assessed job postings since 2015, found a very large rise in demand for people with skills in AI and machine learning. In 2018, the number of AI roles advertised in the United Kingdom was 1,300 out of every one million, double the share in Canada and 20 percent more than in the United States.20 Europe is already experiencing a shortage of the advanced skills it would need to capture the growth potential of AI while preserving jobs. According to data from the OECD’s skills database, the United Kingdom and other European countries have significant shortages in advanced cognitive and technology skills. 
+The United Kingdom has strong academic foundations but is struggling to turn those into business and commercial success The United Kingdom’s startup ecosystem is supported by a number of top AI centres in universities including Cambridge and Oxford, and technology clusters in, for instance, Brighton, London, and Reading. Venture capital funds in Cambridge (Cambridge Innovation Capital and Cambridge Enterprise) and Oxford (Oxford Sciences Innovations and Oxford Technology and Innovations Fund) have been active investors in AI startups. In November 2018, the University of Oxford announced that it would receive more than £17.5 million in government and industry funding to develop AI healthcare applications. UK Research and Innovation is investing £10 million in the National Consortium of Intelligent Medical Imaging.24 Oxford University researchers have also received funding from the Industrial Strategy Challenge Fund of UK Research and Innovation to explore how AI could help make insurance, law, and finance more efficient and globally competitive.25 A small number of research institutes are now focusing on AI, including the Alan Turing Institute in London and Cambridge-based Leverhulme Centre for the Future of Intelligence, which brings together three UK universities—Cambridge, Imperial College, and Oxford—with the Leverhulme Trust and the University of California at Berkeley. However, their number is far smaller than the comparable figure for China, for instance.
+The centrepiece of the government’s support for the sector is a £1 billion package to support the development of AI in both academia and business. A new AI Council will establish 20 AI Centres of Doctoral Training in UK universities from October 2019. At the same time, industry-funded AI and machine learning MSc sources will be established in universities that already have a strong track record in AI research. For example, McKinsey & Company and QuantumBlack together with Amazon and Rolls-Royce’s R2 Data Labs are supporting a new AI master’s programme due to launch in 2019.21 Another plan calls for 
+6
+[Page #6]
+Exhibit 4Exhibit 4The United Kingdom has a skills shortage in advanced cognitive The United Kingdom has a skills shortage in advanced cognitive skills, as do several other skills, as do several other European countries.European countries.Net demand in %, ie, positive numbers imply skills shortageNet demand in %, ie, positive numbers imply skills shortage
+Advanced cognitive/technology skills
+Social and emotionalknowledge
+Basic production andprocessing knowledge
+Sweden
+Finland
+Germany
+Denmark
+3.5
+2.1
+2.0
+1.7
+1.7
+1.6
+1.0
+1.0
+-0.1
+-0.2
+-0.3
+-0.6
+United Kingdom
+Italy
+Austria
+France
+1.8
+1.7
+1.6
+1.5
+1.5
+1.3
+0.7
+0.6
+0.4
+-0.3
+-0.4
+-0.5
+Belgium
+Greece
+Hungary
+1.7
+1.2
+0.6
+0.2
+0.2
+-0.1
+-0.1
+-0.9
+-1.2
+Source: OECD skills database; McKinsey Global Institute analysis
+This research ecosystem has helped bolster the United Kingdom’s ranking in research. Today, it ranks third worldwide in the number of published research papers, according to Scimago. However, it lags behind the United States, for instance, in patents issued. In a report on AI, the Select Committee on Artificial Intelligence of the House of Lords noted that the United Kingdom has struggled to turn research into business and commercial success, including in the case of AI, and recommended that universities use “clear, accessible and where possible common policies and practices for licensing IP and forming spin-out companies”.26 
+in the power of the technologies and understand what they can achieve. This could encourage even greater investment in AI capabilities by the government that will then filter down to the private sector—helping to create a virtuous circle. We highlight three specific areas in which UK companies should act.
+Push beyond experimentation to deliver impact from AI at scaleMany organisations are facing the challenge of “experimentation fatigue” in their AI efforts. They have invested time and money, but AI has not moved beyond the proof-of-concept stage, and therefore businesses are not seeing returns on their investment. In cases where AI adoption has been a success, we observe four key characteristics: 
+Organisations in the United Kingdom can play a part in the solutions to scaling AI successfully The paradoxical challenges to scaling AI that we see in the macro UK landscape are reflected at the company level. If organisations unlock their own productivity and scale through AI, while at the same time developing a burgeoning ecosystem of talent and partnerships to sustain them over the long term, the UK economy will be the ultimate beneficiary. If companies are successful at scaling up AI and reaping productivity benefits, this will give the government tangible reasons to believe 
+1.  Aligned C-suite vision. To deliver scale, 
+companies must be prepared to make big, bold decisions at the C-suite level to maximise AI’s potential throughout their business. The effort requires the right mindset and leadership at the senior level. Recent research showed that in more than 60 percent of companies that had successfully scaled AI, executives had aligned on a clear analytics vision, compared with 28 percent of their peers.27
+7
+[Page #7]
+2.  Clear identification of business problems to solve across the value chain. Companies that have started to have an impact in AI diffusion have owners who have personally identified business problems to solve and, at the same time, have sponsored change and driven it throughout the business. In successful companies, the business and technical teams have agreed on the critical business problem, or the use case to solve, before any application of data science begins. The breakthrough to scaling has come when the technologies have been implemented across the entire business value chain. Adopting point solutions and failing to connect each use case to a broader strategy is likely to miss the potential of a larger shift in the company’s operating model. 
+Invest in both new and existing talentOrganisations attempting to achieve scale are often held back by a lack of talent in both numbers and skills. The C-suite needs to champion recruiting based on a deep understanding of what talent is needed and when, together with a clear and acute focus on retention. Competition for talent is already fierce, and workers with the right skills know they will always have options and be in demand. Offering anchor hires a pathway of career-long continued learning is one aspect of a value proposition that could retain and motivate talented people to stay long-term.
+Valuable hires should also be offered interesting and meaningful work, provided with the right tools to do their jobs effectively, and enabled to establish connections within a community that can learn and grow together. 
+3.  Investment in change management. 
+Data analytics is a team sport, and that team includes change and process managers. Technical experts are often acting alone in silos, disconnected from the main business. When this happens, the models developed seldom meet business and user needs, and are not supported by the interventions required to deliver business change. In particular, no holistic business case and plan are prepared that include explicit actions on change management. Ultimately, while the models themselves may be good, their impact is likely to be minimal.
+Regular company-wide training and interdepartmental learning are critical to ensuring that many different new types of talent can work together in a seamless way, adopting new protocols and enabling smart and fast development at scale. Cross-company collaboration could also create innovative pathways to compete for the best talent. 
+Crucially, companies should not confine their efforts to whom to hire now. It is just as critical to look to the future and to the networks and associations companies can create for themselves that will bear fruit in five, ten, or 20 years. 
+It is also not sufficient to hire data scientists to conduct experiments and then leave them without partners in the business. When this happens, companies often miss one of the most critical emerging roles—a translator. As the name suggests, the translator is someone who can speak the language of the business problem and the technical solution, who fully understands the business issue in question and ensures that it is accurately turned into a mathematical solution, and who is then responsible for translating the answer back into value for the business. 
+4.  Rollout of a replicable protocol. Given the interdisciplinary nature of teams and the potential for use cases across the value chain, it is critical that teams are adopting similar processes and ways of working. Companies should invest in designing a protocol that becomes the boilerplate for running AI projects, which includes activities, deliverables, and risk mitigation strategies for each team. This ensures that best practices and lessons are disseminated smoothly and become the foundation for generating scale. 
+Companies often assume that people with this combination of capabilities have to be hired from outside, but the best translators often come from within the organisation. Existing employees often make better translators than new hires because they have an important quality that is hard to teach: knowledge of a business domain where analytics will be applied. Ideally, translators will have spent time working in business operations before starting translator training.
+8
+[Page #8]
+Translators act as advocates for change and are proficient in change management thanks to their established deep connections within the organisation. As well as knowing how to use the tech solution once it has been built, they are vocal in advocating it to colleagues and demonstrating its positives on the ground.28
+A third priority in long-term planning is to create a feedback loop so that future projects in academia are informed by the challenges faced by the business. One option is for companies to offer sponsorship and support to students while they are in education to provide them with the opportunity to experiment and learn in context. 
+Forge links between cutting-edge research and commercial success to drive innovationFor companies already achieving their goal of implementing AI at scale, the next question is how to stay ahead, continuing to push boundaries and encouraging continuous learning. Investing in partnerships and collaborations with government, other private-sector businesses, and research leaders is key. Companies need to establish connections with academic institutions (including through sponsorship) to improve their incoming talent funnel. The establishment of a continuous and regular pipeline fuelled by the workers with the newest skills and experience can ensure that the knowledge they bring can be applied in the company, informing and inspiring the wider team and organisation. 
+  
+The future of AI in the United Kingdom is yet to be written. Diffusion and adoption are still at relatively early stages, but there is already evidence on the ground of the transformational change—both within organisations and in the economy as a whole—that these technologies can bring. A concerted, joined-up, and forward-looking effort from businesses, academia, and the government can ensure that the United Kingdom maintains and builds on its leading-edge capabilities, and successfully diffuses AI and its benefits across business.
+It is also important to encourage and ensure R&D projects in collaboration with academic institutions, and to challenge academia and tech companies alike to apply cutting-edge techniques in a live business environment. Such programmes can provide access to the latest academic research as it is filed and to lab experimentation that can be evaluated rapidly and then adopted. 
+Authors: Jacques Bughin is a director of the McKinsey Global Institute and senior partner of McKinsey & Company based in Brussels. Louise Herring is a McKinsey partner in London. Helen Mayhew is chief operating officer of QuantumBlack, a McKinsey company. Jeongmin Seong is an MGI senior fellow in Shanghai. Tera Allas is a senior fellow with the McKinsey Center for Government.
+9
+[Page #9]
+Further MGI reading
+The age of analytics: Competing in a data-driven world, December 2016.
+AI adoption advances, but foundational barriers remain, McKinsey & Company, November 2018.
+Artificial intelligence: The next digital frontier?, June 2017.
+Big data: The next frontier for innovation, competition, and productivity, May 2011.
+Digital Europe: Pushing the frontier, capturing the benefits, June 2016.
+A future that works: Automation, employment, and productivity, January 2017.
+Jobs lost, jobs gained: Workforce transitions in a time of automation, December 2017.
+Notes from the AI frontier: Applying AI for social good, December 2018.
+Notes from the AI frontier: Insights from hundreds of use cases, April 2018.
+Notes from the AI frontier: Modeling the impact of AI on the world economy, September 2018.
+Notes from the AI frontier: Tackling Europe’s gap in digital and AI, February 2019.
+Skill shift: Automation and the future of the workforce, May 2018.
+Solving the United Kingdom’s productivity puzzle in a digital age, September 2018. 
+Tech for good: Technology for smoother transitions and a better life, May 2019.
+10
+[Page #10]
+Endnotes
+1 
+In researching adoption and diffusion of the AI family of technologies, MGI analysis has focused on five broad categories: computer vision, natural language, virtual assistants, robotic process automation, and advanced machine learning. For an overview of AI technologies and use cases, see The age of analytics: Competing in a data-driven world, December 2016; What’s now and next in analytics, AI, and automation, McKinsey Global Institute, May 2017; and Notes from the AI frontier: Insights from hundreds of use cases, McKinsey Global Institute, April 2018.
+2  Notes from the AI frontier: Tackling Europe’s gap in digital and AI, McKinsey Global Institute, February 2019.3  The potential benefits and downsides of AI go beyond pure economic metrics such as productivity and GDP growth. See, for instance, 
+Tech for good: Smoothing disruption, improving well-being, McKinsey Global Institute, May 2019.4  Paul Drayson, Britain needs to step up to win the global AI healthcare race, City A.M., January 7, 2019.5  AI and data grand challenge, UK Department for Business, Energy and Industrial Strategy, businessandindustry.co.uk/industrial-
+strategy/ai-and-data-grand-challenge/.
+6  Jobs lost, jobs gained: Workforce transitions in a time of automation, McKinsey Global Institute, December 2017.7  Notes from the AI frontier: Modeling the impact of AI on the world economy, McKinsey Global Institute, September 2018. Also see Notes from the AI frontier: Tackling Europe’s gap in digital and AI, February 2019. MGI found that if the EU-28 (including the United Kingdom) were, on average, to develop and diffuse AI according to its current digital and AI capabilities, the region could add around €2.7 trillion, or 19 percent, to its economic output by 2030. If they—as a group—were to catch up with the United States, the GDP benefit could be as much as €3.6 trillion.
+8  Solving the United Kingdom’s productivity puzzle in a digital age, McKinsey Global Institute, September 2018. 9  Tech for good: Smoothing disruption, improving well-being, McKinsey Global Institute, May 2019.10  Notes from the AI frontier: Tackling Europe’s gap in digital and AI, McKinsey Global Institute, February 2019.11  Artificial intelligence: The next digital frontier?, McKinsey Global Institute, June 2017.12  Jacques Bughin, “The power laws of Enterprise 2.0”, in Encyclopedia of E-Business Development and Management in the Global 
+Economy, In Lee, ed., Hershey, PA: IGI Global, 2010; Jacques Bughin and James Manyika, “Bubble or paradigm change? Assessing the global diffusion of ‘Enterprise 2.0’”, in Knowledge Management: Research & Application, Alex Koohang, Keith Harman, and Johannes Britz, eds., Santa Rosa, CA: Informing Science Press, 2008.
+13  These data are based on preliminary results from the OECD MultiProd project results in April 2016 and were reported by the European Commission. See Science, research, and innovation performance of the EU report, Directorate-General for Research and Innovation, European Commission, 2016; and Notes from the AI frontier: Tackling Europe’s gap in digital and AI, McKinsey Global Institute, February 2019.
+14  Wendy Hall and Jérôme Pesenti, Growing the artificial intelligence industry in the UK, UK Department for Digital, Culture, Media & Sport and Department for Business, Energy & Industrial Strategy, 2017, gov.uk/government/publications/growing-the-artificial-intelligence-industry-in-the-uk.
+15  AI in the UK: Ready, willing and able? Report of Session 2017–19, Select Committee on Artificial Intelligence, House of Lords,  
+April 16, 2018.
+16  AI is top of mind for executives around the world, but the technologies are still in the early stages of use by businesses. MGI’s simulation, which modelled trends in adoption and used early adopters and their performance as a leading indicator of how businesses may adopt and absorb AI into workflows, suggested that, on average, 70 percent of companies may adopt at least one type of AI technology by 2030, but less than half of large companies are likely to be using the full range across their organisations by that date. See Notes from the AI frontier: Modeling the impact of AI on the world economy, McKinsey Global Institute, September 2018. For the results of the survey, see AI adoption advances, but foundational barriers remain, McKinsey & Company, November 2018.
+17  The state of European tech 2017, Atomico, https://2017.stateofeuropeantech.com/.18  Wendy Hall and Jérôme Pesenti, Growing the artificial intelligence industry in the UK, UK Department for Digital, Culture, Media & Sport and Department for Business, Energy & Industrial Strategy, 2017, gov.uk/government/publications/growing-the-artificial-intelligence-industry-in-the-uk.
+19  Notes from the AI frontier: Modeling the impact of AI on the world economy, McKinsey Global Institute, September 2018; and Skill shift: Automation and the future of the workforce, McKinsey Global Institute, May 2018. Also see Daron Acemoglu and Pascual Restrepo, Low-skill and high-skill automation, NBER working paper number 24119, December 2017; and Vincenzo Spiezia, Measuring the demand for skills in the digital economy, OECD, 2016.
+20  Clare McDonald, “UK demand for AI professionals has almost tripled in three years”, Computer Weekly, March 16, 2018.21  Huge boost to UK’s data capability as big business backs world-first AI talent scheme and chair of data ethics and innovation centre is 
+confirmed, press release, UK Department for Digital, Culture, Media & Sport, June 13, 2018.
+22  Wendy Hall, “In 2019, despite everything, the UK’s AI strategy will bear fruit”, Wired, December 27, 2018.23  Notes from the AI frontier: Modeling the impact of AI on the world economy, McKinsey Global Institute, September 2018.24  Oxford secures £17.5 million to lead national AI healthcare programmes, University of Oxford, November 6, 2018.25  Using artificial intelligence to improve legal services, UK Research and Innovation, ukri.org/innovation/industrial-strategy-challenge-
+fund/next-generation-services/using-artificial-intelligence-to-improve-the-justice-system/.
+26  AI in the UK: Ready, willing and able? Report of Session 2017–19, Select Committee on Artificial Intelligence, House of Lords,  
+April 16, 2018.
+27  Breaking away: The secrets to scaling analytics, McKinsey & Company, May 2018.28  Louise Herring, Helen Mayhew, Akanksha Midha, and Ankur Puri, “How to train someone to translate business problems into analytics 
+questions”, Harvard Business Review, February 11, 2019.
+11
+[Page #11]
+McKinsey Global Institute June 2019 Copyright © McKinsey & Company Designed by the McKinsey Global Institute
+www.mckinsey.com
+  @McKinsey_MGI   McKinseyGlobalInstitute

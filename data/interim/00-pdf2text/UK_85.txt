@@ -1,0 +1,1087 @@
+[Page #0]
+Green Jobs and the Green Economy in York 
+A report prepared for  
+York City Council 
+By 
+Peter Dickinson, Jeisson Cardenas Rubio 
+and Chris Warhurst 
+December 2022 
+Warwick Institute for Employment Research 
+University of Warwick  
+Contact details 
+Peter Dickinson 
+Warwick Institute for Employment Research  
+University of Warwick  
+Coventry CV4 7AL 
+T:  024 7652 4420 
+E: p.dickinson@warwick.ac.uk 
+https://warwick.ac.uk/fac/soc/ier
+[Page #1]
+Table of contents 
+Table of contents ................................................................................................................... i 
+List of Tables ........................................................................................................................ iii 
+Lists of figures ....................................................................................................................... iii 
+Acknowledgments ................................................................................................................. iv 
+Glossary................................................................................................................................ v 
+1. 
+Introduction .................................................................................................................... 1 
+2.  Methodology .................................................................................................................. 3 
+Introduction ............................................................................................................. 3 
+  Some of the challenges measuring green jobs ........................................................ 3 
+  Challenges in capturing green skills ........................................................................ 4 
+  The GreenSOC – an inclusive definition of green jobs ............................................ 5 
+  The data used to support the GreenSOC ................................................................ 6 
+  Summary ................................................................................................................ 8 
+3.  The extent of green jobs in York .................................................................................... 9 
+Introduction ............................................................................................................. 9 
+  The extent of green jobs in York using the purist definition ..................................... 9 
+  The extent of green jobs using the inclusive definition .......................................... 10 
+  Green jobs by sector ............................................................................................. 15 
+  Green jobs by priority sector ................................................................................. 17 
+3.3.  Summary .............................................................................................................. 19 
+4.  The skills and knowledge of green jobs in York ............................................................ 20 
+Introduction ........................................................................................................... 20 
+  Green skills ........................................................................................................... 20 
+  Green knowledge .................................................................................................. 22 
+  Summary .............................................................................................................. 24 
+5.  Demand for green jobs in York ..................................................................................... 25 
+Introduction ........................................................................................................... 25 
+  York TTWA green job vacancy postings ............................................................... 25 
+  Employers’ green job hiring criteria ....................................................................... 31 
+  Employer demand for purist green job skills .......................................................... 34 
+  Priority sectors ...................................................................................................... 35 
+  Summary .............................................................................................................. 36 
+6.  Conclusion, discussion and suggested actions ............................................................ 37 
+i 
+[Page #2]
+Introduction ........................................................................................................... 37 
+  Summary overview of green jobs and skills in York ............................................... 37 
+  Green jobs going forward in the transition to net zero? ......................................... 38 
+  Actions that City of York Council and its partners can take ................................... 40 
+  Final thoughts ....................................................................................................... 42 
+ii 
+[Page #3]
+List of Tables 
+Table 1: York TTWA sectoral size of green jobs by SIC, 2019 (purist definition) ................................. 10 
+Table 2: Top ten skills required by green jobs in broad occupation types (SOC 1-digit), York TTWA and York City 2022 ....................................................................................................................................... 21 
+Table 3: Top ten skills required in green jobs by the three green job types, York TTWA and York City 2022 ...................................................................................................................................................... 22 
+Table 4: Top ten knowledge requirements required by green jobs in broad occupation, York TTWA and York City 2022 ....................................................................................................................................... 23 
+Table 5: Top ten knowledge requirements required by green jobs by green job type,  York TTWA and York City 2022 ....................................................................................................................................... 24 
+Table 6: Green and non-green job postings in York TTWA (2021) ...................................................... 25 
+Table 7: Green job vacancy postings by sector in York TTWA (2021) ................................................. 28 
+Table 8: Top 20 green job vacancy postings by green job type, York TTWA (2021) ........................... 30 
+Table 9: Top 20 skills in most demand in green and non-green job postings in York TTWA (2021) ... 33 
+Table 10: Purist green skills terms in green job postings in York TTWA (February 2019-June 2022) . 34 
+Table 11: Rail sector job postings in York TTWA (2021) ...................................................................... 36 
+Lists of figures  
+Figure 1: York TTWA employment by specific green sector, 2019......................................................... 9 
+Figure 2: York TTWA and York City employment by broad occupation (no.) 2022 .............................. 11 
+Figure 3: York TTWA and York City employment by broad occupation (%), 2022............................... 12 
+Figure 4: York TTWA and York City green job type (%), 2022 ............................................................. 13 
+Figure 5: Detailed green occupations with at least 2% of green jobs, York TTWA 2022 ..................... 14 
+Figure 6: Detailed green occupations with at least 2% of green jobs, York City 2022 ......................... 15 
+Figure 7: Green and non-green jobs by sector (%), York TTWA 2022 ................................................. 16 
+Figure 8: Green and non-green jobs by sector percentage distribution, York TTWA 2022 .................. 17 
+Figure 9: Green jobs in the rail sector by occupation, York TTWA 2019 .............................................. 18 
+Figure 10: Green jobs in the bioeconomy sector by occupation, York TTWA 2019 ............................. 18 
+Figure 11: Percentage of green job vacancy postings by green job type in York TTWA (2021) .......... 26 
+Figure 12: Percentage of job vacancy postings for green job occupations by broad occupation in York TTWA (2021) ......................................................................................................................................... 27 
+Figure 13: Total job postings for green jobs in York TTWA (Feb 2019-June 2022) ............................. 29 
+Figure 14: Total green and non-green job postings, York TTWA (Feb 2019-June 2022) .................... 29 
+Figure 15: Whether prior experience is stated in job postings, York TTWA (2021) .............................. 31 
+Figure 16: Purist green skill terms used in job postings, York TTWA (Feb 2019-June 2022) .............. 35 
+iii 
+[Page #4]
+Acknowledgments 
+The IER team would like to thank the participants at City of York Council for their feedback on the draft of this report and likewise Dr Pauline Anderson of the University of Strathclyde for her inputs as critical reader into this final version of the report. 
+iv 
+[Page #5]
+Glossary 
+APS 
+Annual Population Survey 
+BRES 
+Business Register and Employment Survey 
+CASCOT  Computer Assisted Structured Coding Tool 
+CYC 
+City of York Council 
+FTE 
+Full-time equivalent 
+IER 
+Institute for Employment Research, Warwick University 
+ISCO 
+International Stanard Occupational Classification 
+LAD 
+Local Authority District 
+LCREE 
+Low Carbon and the Renewable Energy Economy 
+LGA 
+Local Government Association 
+nec 
+Not elsewhere classified 
+ONS 
+Office for National Statistics 
+O*NET 
+US Occupational Information Network 
+pp 
+Percentage point 
+SIC 
+Standard Industrial Classification 
+SOC  
+Standard Occupational Classification 
+TTWA 
+Travel to Work Area 
+v 
+[Page #6]
+1. 
+Introduction 
+This report focuses on green jobs and green skills in York.  Analysis covers both residents and people who work in the city.  Its purpose is to inform the Council in its decision-making to support the growth of a greener economy.  Its main objective is to provide City of York Council with better understanding of York’s green economy so that the Council can best support its development and understand the key economic opportunities it brings to York and its wider region. 
+The  context  is  the  Council’s’  Climate  Change  Strategy1  to  create  new  employment  and investment opportunities, provide additional labour market information to support the net zero ambition in the 10-year Skill Plan2 and support the next generation of jobs and skills as part of York’s Economic Strategy.3 
+The policy aims require evaluation of green jobs.  Until recently there was little agreement on how to define and measure ‘green jobs’.  In the past a ‘purist’ approach was used that centred on industries with economic activities directly focused on producing environmental and climate change related goods and services, e.g., wind turbines.  Now, a consensus has emerged that a broader, more inclusive definition is needed that incorporates recognition that some jobs are ‘greening’ because of the transition to net zero, e.g., lawyers.4  This approach is one accepted by  the  UK  Government,  which  now  appreciates  that  evaluation  of  green  jobs  should encompass new ‘green’ industries, i.e. those directly related to green products as well as those existing industries where jobs are ‘greening’ because of net zero ambitions.   
+In undertaking the analysis of York, we use a robust definition of green jobs based on the new GreenSOC developed by IER and that is based on the broader, more inclusive approach to definition.  To this end, the GreenSOC distinguishes three types of green-related occupations:  
+1)  new and emerging green occupations;  
+2)  green enhanced skills and knowledge occupations; and,  
+3)  green increased demand occupations.  
+This broader typology is used to evaluate the green economy of York.  For the purposes of this report, York is defined by the boundaries of the City of York Council and the city’s travel to  work  area  (TTWA),  which  covers  the  local  authority  districts  of  Hambleton,  Harrogate, Ryedale, Selby and York.5     
+1 https://www.york.gov.uk/big-conversation-2/10YearStrategies/2  
+2 https://www.york.gov.uk/YorkSkillsPlan  
+3 https://www.york.gov.uk/EconomicStrategy#:~:text=York%27s%20Economic%20Strategy%202022%20to,and%20maintaining%20our%20skills%20advantage 
+4  Sofroniou,  N.  &  Anderson,  P.  (2021).  The  green  factor:  Unpacking  green  job  growth.  International Labour Review, 160(1), 21-41 
+5 The exclusion of Leeds authority district in this TTWA was made on the basis that it’s inclusion would significantly affect the estimates of job numbers and job types due to the size and sectoral make-up of the Leeds economy.   
+1 
+[Page #7]
+Using  the  GreenSOC,  the  analysis  examines  which  industries  in  York  are  most  and  least developing their net zero ambitions in terms of the number of green jobs.  It also reveals the skills  (and  knowledge)  inherent  of  these jobs.    The  analysis  also  examines  the  recent  and current demand from employers for green jobs and again extrapolates data on their skills and knowledge requirements.  The analysis provides insights that generate better understanding of the extent and demand for green jobs in York and actions for the Council to maximise its effort to support the transition to net zero.  
+The remainder of this report is structured as follows: 
+•  The next section, Section 2, outlines the methodology adopted in the analysis of green jobs and skills in York.  It provides information on both the definition and its rationale. It also outlines the data used to undertake the analysis. 
+•  Section 3 presents analysis of the current extent of green jobs in York.  It offers data on  these  jobs  using  both  the  purist  and  inclusive  definitions  to  show  how  different calculations provide very different results.  
+•  Section 4 presents analysis of recent and current demand for green jobs evidenced by job  vacancy  postings  made  by  employers.    Where  data  allows,  it  highlights developments in two priority sectors for York: rail and the bioeconomy. 
+•  Section 5 focuses on the skills and knowledge inherent in both current green jobs and those jobs being advertised to be filled.  It also makes comparisons between the skills and knowledge of green and non-green jobs. 
+•  The final section, the conclusion with actions, summarises the findings for York and indicates potential future labour market developments in the UK relevant to green jobs. It also suggests a number of actions that might be pursued by the Council to support its net zero ambitions in terms of promoting green jobs and green skills. 
+It should be  noted  that analysis  using  the GreenSOC  is  only  as  robust as its  underpinning data,  and  that  data  still  has  limitations  in  the  UK.    Nonetheless,  the  information  from  the analysis makes a significant contribution to  helping the Council better understand and best support its greener economic development and the opportunities this greening as part of the net zero transition might bring to York and its wider region.   
+2 
+[Page #8]
+2.  Methodology 
+Introduction 
+This section outlines the methodology used to analyse green jobs and skills in York.  It starts with a brief discussion of the challenges in measuring green jobs.  It then outlines the definition adopted for this analysis and the supportive data used.  
+  Some of the challenges measuring green jobs6 
+Despite widespread calls from government about a green industrial revolution - as part of the new zero transition, as well as broader economic development aspirations - such calls do not include a definition of those green jobs.  Evaluation of green job growth nationally and locally is therefore hampered.  
+In measuring green jobs, an important distinction needs to be recognised between ‘product’ and ‘production process’.  Businesses are concerned with production processes that create a product – that is, a good or service.  This distinction has shaped attempts to measure green jobs. 
+2.2.1.  Products approach 
+The UK’s Standard Industry Classification (SIC) is a classification of the principal economic activity of a production unit, usually a business.  To date, this approach has been commonly used  to  classify  green  jobs.    The  task  is  to  identify  a  ‘green  sector’  or  ‘green  economy’ consisting of a selection of industries that have a high proportion of businesses focused on producing environmental goods and services.  To estimate the number of green jobs, some researchers added up the number of employees within the selected industries or sector.  This narrow or ‘purist’ approach is used by the UK Office for National Statistics (ONS) in its annual Low Carbon and Renewable Energy (LCREE) Survey.  The LCREE Survey is sent out only to those  businesses  in  industries  likely  to  have  low  carbon  and  renewable  energy  economic activity and asks them about the extent of their activities in the low carbon sector.  This survey is the basis for estimates of green jobs used by the Local Government Association (LGA).   
+However,  this  narrow,  ‘purist’  approach  can  create  ‘false  positives’  as  current  industrial classification  schemes,  such  as  SIC,  are  not  able  to  sufficiently  distinguish  between businesses  producing  green  and  non-green  products.7    Moreover,  what  this  products-to-industries/sector  approach  fails  to  acknowledge  is  that  there  can  be  jobs  within  traditional, non-green  industries,  such  as  legal  services,  that  also  produce  goods  or  services  that contribute to net zero.  In this respect, to return to the LCREE example, it is telling that the LCREE  Survey  was  not  sent  to  businesses  in  all  industries  and  therefore  it  is  not  able  to deduce if other businesses also contain green jobs.  Such jobs thus escape detection and so are not counted, potentially giving ‘false negatives’ in the number of jobs classified as green.  
+6  This  section  draws  on  Cardenas  Rubio,  J.,  Warhurst,  C.  and  Anderson,  P.  (2022)  Green  Jobs  in Scotland: analysis, https://www.skillsdevelopmentscotland.co.uk/media/49807/green-jobs-in-scotland-report_final-1.pdf 
+definition,  measurement 
+approach 
+inclusive 
+and 
+An 
+to 
+7 Peters, D.J., Eathington, L. & Swenson, D. (2011). An exploration of green job policies, theoretical underpinnings,  measurement  approaches,  and  job  growth  expectations.  Staff  General  Research Papers 32787, Department of Economics, Iowa State University  
+3 
+[Page #9]
+2.2.2.  Production approach 
+A second approach focuses on the production process.  This focus is important.  Ideally, all production processes in whatever industry, whether part of a supposed green sector or not, should contribute to net zero aims.  It might be that the production process used in businesses making green products is not itself green.  Conversely, there can be production processes in traditional,  non-green  industries  that  are  environmentally  friendly.    Indeed,  traditional industries, such as steel manufacturing, also need to change and are being encouraged to change with the push to net zero.  Not including ‘greening’ jobs in these traditional industries, as they support the transition to net zero, will result in another form of ‘false negative’ in the estimation of the extent of green jobs. 
+2.2.3.  Products and production processes matter 
+There cannot be a simple binary divide between, on the one hand, new, green industries and on the other hand, traditional, non-green industries.  All industries need to contribute to net zero targets and the green agenda must be mainstreamed in all economic activity.8  As such the production processes, not just the products, of the new green industries must comply with net zero aims.  Likewise, the production processes of traditional non-green industries must also change to become more environmentally friendly through the use of renewable energy and/or energy efficiency for example.  
+  Challenges in capturing green skills 
+All jobs comprise a bundle of tasks underpinned by skills and knowledge for their competent execution.  The transition to net zero is altering demand for jobs and thereby skills.  Measuring green jobs can also capture and anticipate changing skill and knowledge requirements in jobs. 
+2.3.1.  The importance of skills and knowledge 
+A first problem is that skills and knowledge are sometimes conflated, in part because being skilled  at  work  involves  ‘knowledgeable  practice’.9    However,  skills  and  knowledge  are conceptually  and practically  distinct.    Knowing  what  needs to be  done  (knowledge)  can  be different from knowing how to do it (skill).  Both the skills and knowledge needed of green jobs needs to be understood. 
+2.3.2.  Recognising what types of skills are demanded 
+A second problem is that ‘skill’ is a very loose term.  It can refer to achieved skills acquired through formal education and training and usually codified in a qualification.  It can also refer to ascribed skill, which is people’s capacities and capabilities that are socially categorised as a skill e.g., ‘teamworking’ or ‘communication’ skills.  Traditionally, these skills are less easy to quantify and are often called ‘soft’ skills.10  Employers typically want both types of skills from 
+8 This expectation is manifest in the UK Government’s criteria that businesses tendering for major UK Government contracts should have carbon reduction plans, see Procurement Policy Note 06/21: Taking account  of  Carbon  Reduction  Plans  in  the  procurement  of  major  government  contracts  -  GOV.UK (www.gov.uk) 
+9 Thompson (1989). The Nature of Work, Basingstoke: Macmillan. 
+10  Warhurst,  C.,  Tilly,  C.,  &  Gatta,  M.  (2017).  A  new  social  construction  of  skill.  In  C.  Warhurst,  K. Mayhew, D. Finegold & J. Buchanan (eds), The Oxford Handbook of Skills and Training. Oxford, Oxford University Press. 
+4 
+[Page #10]
+their employees.  If achieved skills can be captured through qualifications, ascribed skills can now be more easily captured through data-scraping web-based adverts.  
+  The GreenSOC – an inclusive definition of green jobs 
+The GreenSOC was developed by IER in conjunction with colleagues at Strathclyde University to address these challenges.  It has been used in analyses of the green economy in Scotland, Liverpool City Region, and Sheffield City Region. 
+This approach draws on work undertaken by the US Bureau of Labor Statistics and is based on O*NET, which is a well-resourced classification of occupations that identifies occupations’ tasks, skill sets and knowledge use. 
+The GreenSOC uses three green jobs categories:  
+•  Green New and Emerging Occupations:  these are occupations that have unique requirements  for  working  in  or  on  the  decarbonisation  of  goods,  processes  and services, such as electric vehicle power unit designers.  These jobs are closest to the definition used by LCREE;   
+•  Green Enhanced Skills and Knowledge Occupations:  occupations that currently exist but require a change in their competencies and/or context for working in or on the decarbonisation  of  goods,  processes  and  services  e.g.,  maintenance  of  electric vehicles (EVs);   
+•  Green  Increased  Demand  Occupations:  those  occupations  whose  demand  is increased  due  to the  decarbonisation  of goods, processes and services,  but  do  not entail significant changes to their competencies or context e.g., example electric power line installers.   
+This approach to defining green jobs is thus broad.  It envelops what are regarded as purist green jobs but also include jobs that are contributing to the greening of the economy.  ‘Green’ occupations are identified depending on whether they are undertaking tasks in:11 
+•  businesses  that  produce  goods  or  provide  services  that  benefit  the  environment  or 
+conserve natural resources; and/or, 
+•  which workers' duties involve making their establishment's production processes more 
+environmentally friendly or use fewer natural resources. 
+The GreenSOC makes three adaptations to the work of the US Bureau of Labor Statistics: 
+1.  O*NET is US-focused and therefore not necessarily sensitive to non-US labour market contexts.  Some tasks’ skills and knowledge vary for the same occupation in different countries due to differing regulatory regimes, and training and education systems.  For this  reason,  UK  expert  input  was  used  as  part  of  our  previous  work  for  Skills Development Scotland to sense check a range of UK-based occupations.12  
+2.  The  O*NET  categorisation  of  green  occupations  focuses  only  on  the  skills  of  those occupations.  Knowledge too needs to be included.  Making this addition helps explain why any particular job is classified as green, greening or otherwise. 
+11 US Bureau of Labor Statistics https://www.bls.gov/green/home.htm  
+12 Cardenas Rubio e al. (2022) op cit. 
+5 
+[Page #11]
+3.  Whilst  data  gathering  for  O*NET  in  the  US  is  well-resourced  compared  to  similar classification  systems  in  the  UK  and  elsewhere, its  classification update can  still  be limited.  Using web-scraped job vacancy data can help deliver more effective, timely understanding of changes to jobs.  
+This triple adaption provides a new GreenSOC that is more inclusive, more responsive and more sensitive to UK circumstances.  It includes a broader range of jobs (such as electricians, facilities  managers  and  accountants)  who  might  be  involved  in  the  establishment,  product manufacture, management, maintenance and financing of, for example, the electrical power network  to  which  all  different  types  of  energy  generation  –  green  and  non-green  -  are connected.  It covers those jobs directly related to preserving or restoring the environment and a broad range of jobs that support the transition to a greener economy.    
+  The data used to support the GreenSOC 
+To support use of the GreenSOC, a number of different datasets are used. 
+2.5.1.  Analysis of the extent of green jobs in York City and its TTWA 
+To assess the extent of green jobs in York and its TTWA, first using a purist approach, it draws on the methodology of the LCREE Survey.  The survey asks respondents to report their activity (including employment and turnover) in 17 LCREE sectors.  The ONS LCREE survey provides numbers of jobs (full-time equivalent [FTE]) by SIC for the 17 green sectors for the UK.  We have taken this national distribution of green jobs for each SIC and applied it to the numbers employed in the York TTWA in 2019 (which is the methodology used by the LGA).  
+Our inclusive approach provides employment data for York City and TTWA including: broad and 4-digit occupation; green job; and skills and knowledge.  This approach ‘translates’ O*NET for  the  UK.    O*NET  is  a  database  of  923  occupations  and  their  underpinning  skills  and knowledge.  As O*NET is a US system it uses a different Standard Occupation Classification (SOC)  system  which  needs  to  be  converted  into  the  UK  SOC.13    IER  has  developed  a conversion system which translates US SOC into the UK SOC classification.  Whilst there is generally a lot of similarity between the two, occasional differences do arise which affect the conversion, especially where the three green occupation types are concerned.  For example, the  UK  SOC  1161  Managers  and  directors  in  transport  and  distribution  equates  to  three O*NET occupations (because O*NET is more detailed): Hydroelectric production managers (which  is  a  green  new  and  emerging  occupation);  Logistics  managers  (which  is  a  green increased  demand  occupation);  and  Storage  and  distribution  managers  (which  is  a  green enhanced  skills  and  knowledge  occupation).    Therefore,  in  the  following  sections,  some occupations may have more than one green classification associated with them.   
+13 SOC gives every occupation in the UK a descriptor and number. The SOC system also disaggregates the same occupation by level, adding a number as the disaggregation drills down.  So Professionals are Group 2.  Within Professionals, the Science, Research, Engineering and Technology Professionals are sub-group 21.  Within 21, Engineering Professionals are 212.  Within 212, Mechanical Engineers are 2122. The use of this last, ‘4-digit’ level is common in analyses of occupations and their skills, and helpful in classifying green jobs. 
+6 
+[Page #12]
+Employment data for the York  TTWA  and  York City residents  is  not  available at the  4-digit SOC level from the UK Annual Population Survey (APS).14  This unavailability is because the APS  is  a  survey  and  does  not  have  sufficient  responses  to  enable  detailed  occupational analysis.    Moreover,  the  level  of  detail  required  was  not  available  for  the  YNYLEP  area because its sample size was also too small.  This lack of detail can lead to an over-estimation of the number of green jobs.  Aggregating several years of the APS was explored but did not resolve the issue.  In discussion with ONS and York City Council, it was decided to use the closest available geographic area that provided sufficient detail at the 4-digit SOC level.  This was an aggregation of the YNYLEP and Leeds City Region and combining three year’s (2018-2020) APS data.  This distribution was then applied to the numbers working in the York TTWA area in 2022, and the number of York City residents in employment also in 2022.   
+The analysis also covers green jobs by sector, including two of York’s priority sectors - rail and the bioeconomy.  The analysis is based on the employment distribution by sector as provided by Business Register and Employment Survey (BRES) data.15  Because BRES statistics are workplace based (and not residency) the analysis applies only to the York TTWA.   
+2.5.2.  Analysis of demand for green jobs in York 
+To capture the demand for green jobs, we primarily  use  the  inclusive  definition  and  this  is applied to online job vacancies in the York TTWA.  A purist analysis is also presented based on green terms used within job adverts.   
+Since February 2019, IER has been developing a large job vacancy posting database from the main UK job portals.  In job vacancy posting websites, employers provide details of those jobs, such as job title, wage, and experience and skills requirements.  
+Using web scraping techniques developed by IER, information is automatically collected from the  main  UK  job  portals.    IER  then  cleans  and  standardises  this  information  to  ensure  its consistency.  As information is downloaded, the job postings are coded for statistical analysis using a number of variables e.g., experience required, wage offered, geographical area, sector and job titles.  This data provides an up to date, as well as a time series, analysis of demand for occupations as well as the skills required by recruiting employers, and wages.  IER utilises the  Computer  Assisted  Structured  Coding  Tool  (CASCOT)  to  identify  occupational  groups. CASCOT  facilitates  the  classification  of  a  large  amount  of  job  titles  information  into  the International Standard Classification of Occupations (ISCO) 08 classification.  With the ISCO 08 variable, postings are the classified into green job type.  The designation of green and non-green jobs is based on the O*NET classification (see above). 
+It should be noted, however, that vacancies advertised through internet job portals are more reflective of certain types of jobs.  Job portal vacancies better represent certain types of jobs, for example, formal (as opposed to casual) jobs and those in urban labour markets.  They are also less representative of jobs that are recruited by informal means (such as word of mouth) and in geographical areas where internet access is poor.  
+14 The APS is the four quarter aggregation of the Labour Force Survey (LFS).  The LFS is a quarterly survey of the UK population that has been undertaken for three decades.  It captures a range of data about people’s employment (as well as other information).  Even though it is a large survey (36,000 respondents) analysis of sub regional labour markets can be problematic due to sampling error.   
+15  BRES  is  an  annual  survey  of  employers  (85,000)  undertaken  by  ONS  and  provides  employment estimates at detailed geographical and industrial levels.   
+7 
+[Page #13]
+  Summary 
+Definitions  of  green  jobs  vary  and  influence  how  green  jobs  are  measured.    The  purist definition  of  green  jobs  is  narrow  in  scope,  typically  focusing  on  those  sectors  and  their occupations at the forefront of net zero emissions growth e.g., low carbon energy production and carbon capture.  However, this definition can distort attempts to capture the number of greens jobs that are involved in the net zero transition.  A broader, inclusive definition enables capture of the same types of jobs included in the purist definition but extend to recognise that some other jobs are greening, and other jobs show greater demand because of the transition to net zero and support that transition.  It is this latter definition that is now gaining acceptance and  used  in  the  York  analysis.    To  support  the  analysis  a  number  of  datasets  are  used, including: ONS’s LCREE Survey, APS and BRES, and IER’s web-scraped job vacancy data.   
+8 
+[Page #14]
+3.  The extent of green jobs in York 
+Introduction 
+This section presents data on the extent of green jobs in York. It mainly presents data based on the broader, more inclusive, GreenSOC diminution of green jobs. It starts, however, with data  based  on  the  narrower,  purist,  definition  of  green  jobs  as  exemplified  by  the  LCREE method.16  
+ The extent of green jobs in York using the purist definition 
+Using the LCREE method, the shows the number of jobs by specific green sectors and the relative  size  of  employment  by  SIC.    It  is  estimated  that  in  2019  there  were  1809  people working in green sectors in York TTWA17.  Figure 1 shows the distribution by specific green sector.   
+Figure 1: York TTWA employment by specific green sector, 2019 
+Source: Warwick IER.  ONS LCREE estimates accessed June 2022; BRES 2019 employment data accessed June 2022 
+The largest number of people (878) work in the other energy efficiency products18 sector which accounts for about half of all green sector jobs using this definition (49%).  The other most 
+16 ONS (2020). Low Carbon and Renewable Energy Economy (LCREE) Survey QMI.   
+17 Nationally, 16,900 (8%) work in the nuclear industry but jobs in this industry are not applicable to the York TTWA and have been excluded from the calculation.   
+18 This sector  involves the design, development, manufacture, specialised consultancy services and installation of energy efficient products.  It includes: double glazing, insulation, energy efficient building materials or technologies, sustainable building and architecture activities amongst other activities.  
+9 
+[Page #15]
+significant  green  sectors  are:   energy  efficient  lighting (268 or  15%);  low emission  vehicles and infrastructure (196 or 11%); and energy monitoring, saving or control systems (91 or 5%).  Therefore, at present, employment in these purist green sectors is very low level.   
+Table 1 shows that as a proportion of total employment in York TTWA, the number of green sector jobs (as defined by LCREE) is very small.  In 2019, green sector jobs accounted for only  1%  of  total  employment.    Only  in  the  utilities  –  power  sector  does  green  sector employment  account  for  at  least  one  in  20  jobs  within  the  sector  (5%).    The  other  largest sectors  are  construction  (4%)  and  manufacturing  (3%).    In  all  other  sectors  green  sector employment represents 1% or fewer workers.19   
+Table 1: York TTWA sectoral size of green jobs by SIC, 2019 (purist definition) 
+SIC20 
+No. of green jobs  Green jobs as % of 
+sector 
+A Agriculture, forestry and fishing 
+- 
+- 
+B Mining and quarrying 
+- 
+- 
+C Manufacturing 
+735 
+3% 
+D Utilities - power 
+68 
+5% 
+E Utilities - water and waste 
+14 
+1% 
+F Construction 
+661 
+4% 
+G Wholesale, retail and repair 
+78 
+0% 
+H Transportation and storage 
+- 
+- 
+J Information and communication  
+7 
+0% 
+L Real estate activities 
+9 
+0% 
+M Professional/scientific/technical 
+191 
+1% 
+N Admin. and support services 
+18 
+0% 
+P Education 
+2 
+0% 
+S Other activities 
+3 
+0% 
+All 
+1809 
+1% 
+Source: ONS LCREE estimates accessed June 2022; BRES employment data accessed June 2022 
+Again,  using  the  purist  definition,  and  based  on  the  Local  Government  Association employment  projections,  the  number  of  green  jobs  in  in  the  York  TTWA  is  forecast  to  be around 9000 in 2030 and almost 25,000 in 2050.  Based on current employment levels, this latter figure would equate to about one in ten jobs in 2050 (12%).   
+  The extent of green jobs using the inclusive definition 
+19 Five sectors did not have any green sector jobs according to the LCREE survey: I Accommodation and food service activities; K Financial and insurance activities; O Public administration and defence; compulsory social security; Q Human health and social work activities; and, R Arts, entertainment and recreation.   
+20 BRES data in three sectors is not included because of low numbers: agriculture, forestry and fishing; mining and quarrying; and other activities.   
+10 
+[Page #16]
+This section provides an estimate of the extent of green jobs based on the inclusive definition using the new GreenSOC.  It includes the three types of green jobs: green new and emerging occupations;  green  enhanced  skills  and  knowledge;  and  green  increased  demand occupations.  In 2022 there were just over 310,000 people employed in the York TTWA area and in York City about 110,000 residents were in employment.  The data shows that 28% of York TTWA employees (88,000) and one quarter (24%) of York City residents (26,000) were working in green jobs broadly defined.  These figures also indicate that in both areas around three quarters of people were working in non-green jobs.   
+Figure  2  shows  that  in  2022,  most  people  working  in  these  broad  occupation  groups  were working in non-green jobs.  People working in green jobs were most likely to be in associate professional and technical, skilled trades, professional and managerial occupations.  Together these four broad occupations accounted for around 70% of all green jobs in York TTWA and York City.   
+Figure 2: York TTWA and York City employment by broad occupation (no.) 2022  
+Source: Warwick IER analysis of ONS APS occupation data applied to O*NET green job classification 
+11 
+[Page #17]
+Figure 3 shows the proportion of each broad occupation group that are green jobs.  Over half of skilled trade jobs are green jobs in both areas (56% York TTWA and 59% York City).  More than  two  in  five  of associate  professional  and  technical  jobs (46%  and  44%), and  a  similar proportion of process, plant and machine operatives (45% in both areas) are green jobs.   
+The distribution of green jobs by occupation is similar for both areas.  The most significant difference is in managerial occupations, in which green jobs account for around one third of employees in York TTWA and around one in ten in York City.  This difference is likely to be because  managers  in  the  York  TTWA  area  are  more  likely  to  be  managers  of  production processes (which are green jobs) whilst those living in York tend to be chief executives and senior officials (which are non-green jobs).   
+Very few people working in administrative and clerical, and caring, leisure and other service occupations are in green jobs.   
+Figure 3: York TTWA and York City employment by broad occupation (%), 2022 
+Source: Warwick IER analysis of ONS APS occupation data applied to O*NET green job classification 
+Figure 4 shows the percentage distribution of green jobs by type in York TTWA and York City in 2022.   
+Around  45%  of  green  jobs  are  green  increased  demand  in  both  areas.    Of  the  remainder, about one third in both areas are green enhanced skills and knowledge, and one in five are green new and emerging jobs.  
+The proportion of green job type, however, varies between the broad occupation group.  More than three quarters of administrative and clerical, caring, leisure and other service, sales and customer service, and elementary occupations are green increased demand.  However, the numbers of workers in green jobs in the first three of these occupations are very small.   
+Of the largest occupations numerically, more than 40% of professional and skilled trades are green  increased  demand  jobs.    Forty  per  cent  or  more  of  managerial,  and  associate professional, and more than half of process and operative jobs are green enhanced skills and knowledge.    Green  new  and  emerging  jobs  account  for  about  one  third  of  managerial, professional and skilled trade jobs.   
+12 
+[Page #18]
+Figure 4: York TTWA and York City green job type (%), 2022 
+Source: Warwick IER analysis of ONS APS occupation data applied to O*NET green job classification 
+3.3.1.  Analysis by detailed occupation using the broader definition 
+Using the 4-digit level of SOC, Figure 5 shows green occupations that account for 2% or more of  green  jobs  in  York  TTWA.    This  focus  reveals  that  there  are  19  specific  occupations accounting for just over half (55%) of all green jobs.  Most of these detailed occupations are green increased demand jobs.   
+The most sizeable green occupation is elementary storage (6% of green jobs), followed by sales accounts and business development managers (5%), production managers & directors 
+13 
+[Page #19]
+in manufacturing (4%), customer service occupations (4%), and large goods vehicle drivers (4%).   
+Figure 5: Detailed green occupations with at least 2% of green jobs, York TTWA 2022 
+Source: Warwick IER analysis of ONS APS occupation data applied to O*NET green job classification 
+Figure 6 shows the detailed green occupations that account for 2% or more of green jobs in York City.  As in York, TTWA, there are 19 occupations which together account for 55% of all green jobs using the broader definition.  These jobs are mostly green increased demand jobs.   
+Many of the most numerous green occupations are the same as in York TTWA i.e. elementary storage (10% of green jobs), followed by sales accounts and business development managers (5%), customer service occupations (4%),  and large goods vehicle drivers (3%), as well as carpenters and joiners (3%).   
+14 
+[Page #20]
+Figure 6: Detailed green occupations with at least 2% of green jobs, York City 2022 
+Source: Warwick IER analysis of ONS APS occupation data applied to O*NET green job classification 
+ Green jobs by sector 
+Using  the  broad  definition,  this  section  provides  the  distribution  of  green  jobs  by  sector, including two of CYC’s priority sectors - rail and the bioeconomy.  This section is based on the employment distribution by sector as provided by BRES data.  As this is workplace-based data the  analysis  is  only  undertaken  for  York  TTWA  because  BRES  does  not  provide  data  for residents.   
+Figure 7 shows the proportion of green and non-green jobs by sector in York TTWA in 2022.  Overall, green jobs accounted for 28% of all jobs in the York TTWA.  Green jobs accounted for  the  largest  proportion  of  all  jobs  in  agriculture,  forestry  and  fishing  (56%),  construction (45%), manufacturing (35%), and transport and communication (35%).   
+15 
+[Page #21]
+Figure 7: Green and non-green jobs by sector (%), York TTWA 2022 
+Source: Warwick IER analysis of ONS APS occupation, BRES 2019 data and O*NET green job classification 
+The  sectors  with the  most  jobs  are  in public  administration,  education  and  health  (22,000), distribution,  hotels  and  restaurants  (17,900),  and  banking  finance  and  insurance  (13,900).  Figure 8 presents the percentage distribution by sector of green and non-green jobs.   
+The  largest  proportion  of  green  jobs  are  in  the  public  administration,  education  and  health sector (27% of all green jobs), followed by distribution,  hotels  and (22%), banking, finance and insurance (17%).   
+restaurants 
+16 
+[Page #22]
+Figure 8: Green and non-green jobs by sector percentage distribution, York TTWA 2022 
+Source: Warwick IER analysis of ONS APS occupation, BRES 2019 data and O*NET green job classification 
+  Green jobs by priority sector 
+This section focuses on two of York City Council’s priority sectors: rail21 and the bioeconomy22.   
+In 2019, there were approximately 30,000 people working in the rail sector in the York TTWA.  Around one quarter (28%) were working in green jobs.  Figure 9 shows that most of these jobs were being undertaken by people working in skilled trades (28%), associate professional and technical  (23%),  process  and  operative  (17%)  and  managerial  occupations  (14%).    These occupations made up four out of five green jobs in the rail sector.   
+21 For a definition of the rail sector, see: Economic Growth Team (2022).  Great British Railway (GBR) Data Modelling.  York City Council.   
+22  The  definition  used  in  the  appendices  of  Holroyd,  McQuilkin,  C.  and  Chapman,  F,  (2017).    The Bioeconomy  in  the  North  of  England.    A  Science  and  Innovation  Audit  Report  sponsored  by  the Department for Business, Energy & Industrial Strategy.   
+17 
+[Page #23]
+Figure 9: Green jobs in the rail sector by occupation, York TTWA 2019 
+Source: Warwick IER analysis of ONS APS occupation, BRES 2019 data and O*NET green job classification 
+In  2022,  there  were  about  22,000  jobs  in  York  TTWA’s  bioeconomy  sector,  over  one  third (36%) were green jobs.  The largest occupations were process, plant and machine operatives (33%),  skilled  trades  (19%),  associate  professional  and  technical  (18%),  and  managerial (16%) occupations.  Together these occupations comprised 85% of jobs in the sector.   
+Figure 10: Green jobs in the bioeconomy sector by occupation, York TTWA 2019 
+Source: Warwick IER analysis of ONS APS occupation, BRES 2019 data and O*NET green job classification 
+18 
+[Page #24]
+Based on the narrow, purist definition of green jobs, there were 1,809 green jobs in the York TTWA in 2019.  The largest specific green sector was other energy efficiency products which accounted for almost half of all green sector jobs.  Only 1% of York TTWA jobs are green jobs in the purist sense.  Estimates suggest this figure could rise to 12% of all jobs by 2050.   
+By contract the broader, inclusive definition of green jobs shows that around one quarter of people were working in green jobs in York TTWA and York City in 2022.  People working in these green jobs were most likely to be in associate professional and technical, skilled trades, professional,  and  managerial  occupations.    Over  40%  of  people  in  both  areas  working  in skilled trade, associate professional and technical, and process, plant and machine operative occupations  were  working  in  green  jobs.  Very  few  people  working  in  administrative  and clerical, and caring, leisure and other service occupations are employed in green jobs.   
+Just under half of green jobs in both York TTWA and York City are green increased demand jobs, about one third in both areas are green enhanced skills and knowledge jobs, and one in five are green new and emerging jobs. However, differences vary significantly by occupation.   
+Analysis by sector shows that green jobs accounted for about half of jobs in agriculture, forestry and fishing, and construction, and about one third in manufacturing, and transport and communication.  However, the largest number of green jobs are in the public administration, education and health, and distribution, hotels and restaurants.  
+Data is also presented for two of CYCs priority sectors – rail and the bioeconomy.  In 2019, there  were  approximately  30,000  people  working  in  the  rail  sector  and  22,000  in  the bioeconomy sector in York TTWA.  Around one quarter of rail and one third of bioeconomy jobs were green.   
+19 
+[Page #25]
+4.  The skills and knowledge of green jobs in York 
+Introduction 
+This section examines the skills and knowledge inherent in green jobs.  O*NET, from which the  GreenSOC  is  developed,  provides  details  of  the  underpinning  skills  and  knowledge  for each 4-digit occupation.23  This section focuses on those occupational skills and knowledge for green jobs using the broader definition.  It draws on the occupation profile from the APS 2022.   
+As we have seen, around three quarters of green jobs will either be existing jobs for which demand will expand without affecting the core skills and knowledge of the job (green increased demand)  or  existing  occupations  whose  skills  and  knowledge  can  be  bolstered  (green enhanced skills and knowledge) to meet the needs of a net zero transition.  The implication is that most of the jobs, and most of the skills and knowledge, required for a sustainable future already exist.   
+Furthermore,  many  of  the  skills  and  knowledge  requirements  of  green  new  and  emerging occupations are those required in non-green jobs.  For example, the main skills required by a green focused job (such as a recycling and reclamation worker, and industrial ecologist) are very similar to those required by a similar process operative or industrial engineer in a non-green job.  Analysis of these two sets of occupations shows that of the top 20 skills required, 16 are exactly the same.   
+  Green skills 
+O*NET uses 35 categories of skills which cover functional (e.g., maths), transferable (such as problem solving) and technical (for example, engineering) skills24.  Within the O*NET system information on skills tends to focus on the first two (functional and transferable skills) whilst information on knowledge relates more to technical skills.   
+Table 2 shows the top ten skills required for green jobs by broad occupation.25  These are for all green occupations in York TTWA and York City in 2022.  The skills profiles are the same for both areas.   
+Table 2 shows that there are a number of skills that cut across all broad occupation groups:  active  listening,  judgment  and  decision  making,  reading  comprehension,  critical  thinking, speaking, and monitoring.  However, there are also a limited number of skills are specific to certain occupations such as: service orientation, systems analysis and troubleshooting.   
+23 For example, see https://www.onetonline.org/link/summary/47-2111.00  
+24 “The 35 O*NET skills cover performance applicable to a broad range of jobs in the world’s economy and are grouped into seven categories within the O*NET content model: content, process, social, complex problem solving, technical, systems, and resource management”.  https://www.onetcenter.org/dl_files/AOSkills_21.pdf  
+25  Administrative  and  secretarial,  and  caring,  leisure  and  other  service  occupations  have  not  been included because they have small numbers of green jobs.   
+20 
+[Page #26]
+Table 2: Top ten skills required by green jobs in broad occupation types (SOC 1-digit), York TTWA and York City 2022 
+Managers , direcrs and senior officials 
+Associate Prof essional& Technical Occupations 
+Professional Occupations 
+Skilled Trades 
+Reading Comprehension 
+Reading Comprehension 
+Critical Thinking 
+Speaking 
+Critical Thinking 
+Critical Thinking 
+Critical Thinking 
+Speaking 
+Monitoring 
+Active Listening 
+Active Listening 
+Active Listening 
+Active Listening 
+Judgment and Decision Making 
+Speaking 
+Monitoring 
+Reading Comprehension 
+Complex Problem Solving 
+Writing 
+Time Management 
+Coordination 
+Writing 
+Monitoring 
+Operations Monitoring 
+Judgment and Decision Making 
+Speaking 
+Complex Problem Solving 
+Quality Control Analysis 
+Complex Problem Solving 
+Systems Analysis 
+Judgment and Decision Making 
+Reading Comprehension 
+Time Management 
+Active Learning 
+Active Learning 
+Judgment and Decision Making 
+Writing 
+Monitoring 
+Time Management 
+Coordination 
+Sales and Customer Service Occupations 
+Process, Plant and Machine Operatives 
+Elementary occupations 
+All green occupations 
+Speaking 
+Operations Monitoring 
+Speaking 
+Critical Thinking 
+Social Perceptiveness 
+Critical Thinking 
+Active Listening 
+Active Listening 
+Active Listening 
+Operation and Control 
+Operation and Control 
+Reading Comprehension 
+Reading Comprehension 
+Monitoring 
+Coordination 
+Speaking 
+Service Orientation 
+Active Listening 
+Operations Monitoring 
+Monitoring 
+Coordination 
+Reading Comprehension 
+Monitoring 
+Judgment and Decision Making 
+Critical Thinking 
+Speaking 
+Critical Thinking 
+Complex Problem Solving 
+Persuasion 
+Quality Control Analysis 
+Time Management 
+Writing 
+Time Management 
+Judgment and Decision Making 
+Reading Comprehension 
+Time Management 
+Writing 
+Troubleshooting 
+Judgment and Decision Making 
+Active Learning 
+Source: Warwick IER analysis of ONS APS occupation data applied to O*NET green job classification 
+21 
+[Page #27]
+Some skills are inherent to many jobs (see Table 3). Of the eleven skills identified in Table 3, nine are common across all three green job types: speaking; monitoring; active learning; active listening;  reading  comprehension;  complex  problem  solving;  writing;  critical  thinking;  and judgment and decision making.   
+Not only are those skills most relevant to green jobs they are also most relevant to non-green jobs.  In fact there is only one skill difference.  Social perceptiveness is a key skill in non-green jobs (due to personal service and care, and sales occupations) and replaces active learning (more relevant for green jobs) as a top ten skill.   
+Table 3: Top ten skills required in green jobs by the three green job types, York TTWA and York City 2022 
+Green enhanced skills and knowledge 
+Green increased demand  Green new and emerging 
+Critical Thinking 
+Reading Comprehension 
+Active Listening 
+Active Listening 
+Critical Thinking 
+Reading Comprehension 
+Speaking 
+Active Listening 
+Speaking 
+Reading Comprehension 
+Speaking 
+Critical Thinking 
+Monitoring 
+Complex Problem Solving 
+Monitoring 
+Judgment and Decision Making 
+Judgment and Decision Making 
+Complex Problem Solving 
+Judgment and Decision Making 
+Complex Problem Solving  Writing 
+Writing 
+Monitoring 
+Writing 
+Active Learning 
+Active Learning 
+Coordination 
+Time Management 
+Time Management 
+Active Learning 
+Source: Warwick IER analysis of ONS APS occupation data applied to O*NET green job classification 
+  Green knowledge 
+O*NET uses a 33 categorisation of knowledge.  The knowledge requirements are the details which  most  correspond  to  technical  skills  e.g.,  engineering,  marketing  and  management.  Knowledge also includes English and maths as basic skills.   
+Table 4 shows the top ten knowledge requirements for green jobs by broad occupation.  These are for all green occupations in the two areas in 2022.  The profiles for York TTWA and York City are the same.  The top five knowledge types required by green jobs are: English language, mathematics,  engineering  and  technology,  computers  and  electronics,  and  customer  and personal service.   
+Table  4  also  shows  that  there  are  a  number  of  knowledge  requirements  that  cut  across  a number  of  occupations:    English  language,  mathematics,  administration  and  management, customer  and  personal  service,  and  education  and  training  are  required  in  most  broad occupations.   
+22 
+[Page #28]
+Table 4: Top ten knowledge requirements required by green jobs in broad occupation, York TTWA and York City 2022 
+Managers, diretcors and senior officials 
+Associate Prof & Tech Occupations 
+Professional Occupations 
+Skilled Trades 
+Administration and Management 
+English Language 
+English Language 
+Mechanical 
+English Language 
+Mathematics 
+Mathematics 
+Building and Construction 
+Mathematics 
+Engineering and Technology 
+Computers and Electronics 
+Customer and Personal Service 
+Customer and Personal Service 
+Computers and Electronics 
+Engineering and Technology 
+English Language 
+Production and Processing 
+Design 
+Customer and Personal Service 
+Mathematics 
+Personnel and Human Resources 
+Administration and Management 
+Mechanical 
+Design 
+Public Safety and Security 
+Physics 
+Education and Training 
+Engineering and Technology 
+Engineering and Technology 
+Customer and Personal Service 
+Administration and Management 
+Administration and Management 
+Computers and Electronics 
+Law and Government 
+Design 
+Education and Training 
+Economics and Accounting 
+Education and Training 
+Production and Processing 
+Public Safety and Security 
+Sales and Customer Service Occupations 
+Process, Plant and Machine Operatives 
+Elementary occupations 
+All green occupations 
+Customer and Personal Service 
+Mechanical 
+Customer and Personal Service 
+English Language 
+English Language 
+English Language 
+Public Safety and Security 
+Mathematics 
+Sales and Marketing 
+Production and Processing 
+Mechanical 
+Engineering and Technology 
+Administrative 
+Public Safety and Security 
+Administration and Management 
+Computers and Electronics 
+Administration and Management 
+Mathematics 
+Transportation 
+Customer and Personal Service 
+Mathematics 
+Education and Training 
+Education and Training 
+Administration and Management 
+Computers and Electronics 
+Computers and Electronics 
+English Language 
+Mechanical 
+Education and Training 
+Engineering and Technology 
+Production and Processing 
+Design 
+Law and Government 
+Chemistry 
+Mathematics 
+Education and Training 
+Mechanical 
+Physics 
+Building and Construction 
+Production and Processing 
+Source: Warwick IER analysis of ONS APS occupation data applied to O*NET green job classification 
+23 
+[Page #29]
+Table 5 shows the top ten knowledge requirements by green job type.  English language and mathematics are the main knowledge requirement in all green job categories.  As we noted above, skills and knowledge can be common across a range of jobs.  Of the twelve knowledge requirements identified in Table 5, eight are common across all green job types: mechanical; administration  and  management;  engineering  and  technology;  computers  and  electronics; customer and personal service; production and processing; design; as well as mathematics; and English language.  Physics, public safety and security, and education and training are the only knowledge requirements not common to all types of green jobs.   
+As  with  skills,  knowledge  requirements  necessary  for  green jobs  are  also  most  relevant  to non-green jobs.  Eight knowledge requirements are also required for non-green jobs.   
+Table  5:  Top  ten  knowledge  requirements  required  by  green  jobs  by  green  job  type,  York TTWA and York City 2022 
+Green enhanced skills and knowledge 
+Green increased demand  Green new and emerging 
+English Language 
+Mathematics 
+English Language 
+Mathematics 
+English Language 
+Mathematics 
+Engineering and Technology 
+Engineering and Technology 
+Engineering and Technology 
+Administration and Management 
+Computers and Electronics  Computers and Electronics 
+Customer and Personal Service 
+Design 
+Computers and Electronics 
+Administration and Management 
+Customer and Personal Service 
+Customer and Personal Service 
+Administration and Management 
+Mechanical 
+Mechanical 
+Design 
+Mechanical 
+Design 
+Education and Training 
+Physics 
+Education and Training 
+Public Safety and Security 
+Production and Processing 
+Public Safety and Security 
+Source: Warwick IER analysis of ONS APS occupation data applied to O*NET green job classification 
+  Summary 
+Many of the skills and knowledge requirements of green jobs are also those necessary in non-green jobs.  Therefore, as with occupations, most skill and knowledge requirements already exist  in  the  workforce.    For  example,  English  language,  mathematics,  administration  and management, active listening, judgment and decision making, critical thinking, customer and personal service, and monitoring.   
+24 
+[Page #30]
+5.  Demand for green jobs in York 
+Introduction 
+This section focuses on the demand for green jobs in the York TTWA area in 2021.  It is based on a broad definition of green jobs and an analysis of online job vacancy posting data collected by IER.   
+  York TTWA green job vacancy postings 
+Table 6 shows the number and proportion of job postings in York TTWA and the rest of the UK in 2021.  In York TTWA there were just under 10,000 postings (9,218) which represents 3% of the total number of jobs in the York TTWA area.   
+Around one third (35%) of all job postings were green jobs and 65% were non-green jobs26.   
+Table 6: Green and non-green job postings in York TTWA (2021) 
+York TTWA 
+No. 
+% 
+6,026 
+65% 
+Non-green 
+3,192 
+35% 
+Green 
+9,218 
+100% 
+Total postings 
+Source: IER-LMI 
+Figure  11  shows that  in York  TTWA  two  thirds  of the  9,218  green  job  postings  were  those classed as green enhanced skills and knowledge, just over one quarter were green increased demand (27%) and one in twenty green new and emerging (6%).   
+26  By  green  job  vacancies  we  mean  that  there  are  vacancies  in  those  jobs  which  have  a  green  job designation i.e. they are either green enhanced skills and knowledge, increased demand, or new and emerging 4-digit occupations.   
+25 
+[Page #31]
+Figure 11: Percentage of green job vacancy postings by green job type in York TTWA (2021) 
+Source: IER-LMI 
+Figure 12 shows the proportion of broad occupation job postings for green jobs.  For example, 42% of managerial postings in York TTWA were for green job.   
+Within York TTWA, green jobs account for more than a half of postings within the process, plant  and  machine  operative  (73%),  skilled  trades  (64%),  and  sales,  and  customer  service (52%) occupations.   
+There are very few green job  postings in administrative and secretarial, and caring, leisure and other service occupations because there are few occupations defined as green.   
+26 
+[Page #32]
+Figure  12:  Percentage  of  job  vacancy  postings  for  green  job  occupations  by  broad occupation in York TTWA (2021)27 
+Source: IER-LMI 
+Table 7 shows the proportion of green job  postings by sector (SIC) for York TTWA.  In the York TTWA, more than two in five postings in the following sectors were for green occupations: manufacturing  (51%);  information  and  communication  (45%);  administrative  and  support services (42%); utilities – power (41%); and wholesale and retail (40%).   
+27 The reason why there are sales occupations in this chart but not in the analysis of green jobs in the previous section is because of the different coding of occupations between the UK SOC and ISCO.  In the  former,  sales  jobs  such  as  brokers  and  sales  representatives  are  coded  in  the  associate professional  and  technical  occupation  group  whereas  the  ISCO  codes  them  within  the  sales  and customer service occupations group.   
+27 
+[Page #33]
+Table 7: Green job vacancy postings by sector in York TTWA (2021) 
+York TTWA 
+Sector (SIC) 
+Agriculture, forestry and fishing 
+27% 
+Mining And Quarrying 
+0% 
+Utilities - power 
+41% 
+Utilities - water 
+0% 
+Manufacturing 
+51% 
+Construction 
+7% 
+Wholesale, retail 
+40% 
+Transportation and storage 
+34% 
+Accommodation and food 
+23% 
+Information and communication 
+45% 
+Finance and insurance 
+29% 
+Real estate activities 
+37% 
+Professional, scientific and technical 
+35% 
+Administrative and support service 
+42% 
+Public administration and defence 
+38% 
+Education 
+39% 
+Human health and social work 
+10% 
+Arts, entertainment and recreation, and other 
+23% 
+Other services 
+25% 
+Source: IER-LMI 
+Figure 13 provides a time series of green job postings from February 2019 to December 2021.   
+The chart shows the large fall in job postings at the end of March 2020 which is likely to be due to the first lockdown.  It also shows the gradual (albeit uneven) recovery in job postings until July 2021.  Since then, the trend in York TTWA has been a levelling off in the number of green job vacancy postings.   
+28 
+[Page #34]
+Figure 13: Total job postings for green jobs in York TTWA (Feb 2019-June 2022) 
+Source: IER-LMI 
+Figure 14 shows green and non-green job postings from February 2019 to June 2022.  Prior to the pandemic there was an upward trend in the postings for green (all three types) and non-green  jobs  with  the  latter  more  pronounced.    Both  types  of  job  posting  were  affected  by COVID-19.  Since the low point in April 2020, both increased to the summer of 2021.  Then postings for green occupations flattened, whilst those for non-green occupations increased.   
+Figure 14: Total green and non-green job postings, York TTWA (Feb 2019-June 2022) 
+Source: IER-LMI 
+Table 8 shows the top 20 green occupations (4-digit SOC) for postings in York TTWA in 2021.  Fifteen of the top 20 green occupations are green enhanced skills and knowledge jobs.  The 
+29 
+[Page #35]
+remaining five occupations are green increased demand.  Warehouse operatives is the green occupation with the most postings (7%).  These 20 occupations account for 58% of all green job postings.   
+Table 8: Top 20 green job vacancy postings by green job type, York TTWA (2021) 
+Occupation (4-digit SOC) 
+% of green job vacancy postings 
+Total vacancy postings 
+Green job type 
+Warehouse operatives 
+Increased demand 
+7% 
+211 
+Customer service occupations n.e.c. 
+Increased demand 
+6% 
+200 
+Programmers and software development professionals 
+Enhanced skills and knowledge 
+5% 
+175 
+Higher education teaching professionals 
+Enhanced skills and knowledge 
+5% 
+145 
+Finance and investment analysts and advisers 
+Enhanced skills and knowledge 
+4% 
+118 
+Delivery drivers and couriers 
+Enhanced skills and knowledge 
+4% 
+115 
+Chartered and certified accountants 
+Enhanced skills and knowledge 
+4% 
+115 
+Primary education teaching professionals 
+Enhanced skills and knowledge 
+2% 
+79 
+Solicitors and lawyers 
+Enhanced skills and knowledge 
+2% 
+79 
+IT user support technicians 
+Increased demand 
+2% 
+74 
+Metal working production and maintenance fitters 
+Enhanced skills and knowledge 
+2% 
+64 
+Other vocational and industrial trainers  Enhanced skills and 
+2% 
+59 
+knowledge 
+Management consultants and business analysts 
+Enhanced skills and knowledge 
+2% 
+58 
+Market research interviewers 
+Increased demand 
+2% 
+58 
+Records clerks and assistants 
+Increased demand 
+2% 
+56 
+Financial and accounting technicians 
+Enhanced skills and knowledge 
+2% 
+52 
+IT business analysts, architects and systems designers 
+Enhanced skills and knowledge 
+2% 
+52 
+Managers and directors in retail and wholesale 
+Enhanced skills and knowledge 
+1% 
+47 
+Production managers and directors in manufacturing 
+Enhanced skills and knowledge 
+1% 
+46 
+Legal professionals n.e.c. 
+Enhanced skills and knowledge 
+1% 
+40 
+Source: IER-LMI 
+30 
+[Page #36]
+  Employers’ green job hiring criteria 
+This  section  uses  information  in  the  job  vacancy  posting  data  to  explore  employers’  hiring criteria.  Data is presented on work experience and skills requirements to better understand the detail of employer demands.  
+Figure  15  shows  whether  green  and  non-green  job  adverts  state  that  prior  experience  is required.28  Most job adverts in York TTWA– green and non-green – require job experience, around 70% in all cases, whilst very few job (2%-3%) state that no experience is necessary.  Just over one quarter (27%-31%) do not mention whether experience is required.  This data reinforces the point that, to a large extent, green jobs are similar to non-green jobs.   
+Figure 15: Whether prior experience is stated in job postings, York TTWA (2021) 
+Source: IER-LMI 
+28 The ‘No mention’ category indicates that there is no mention in the vacancy regarding job experience requirements. ‘Without experience’ means that the employer explicitly mentioned that no experience is required  to  apply  for  the  vacancy.  ‘Experience’  indicates  that  the  employer  explicitly  mentioned  that experience is required to apply for the vacancy.  
+31 
+[Page #37]
+Table 9 shows the top 20 skills sought in green and non-green job postings in York TTWA29.  Each skill is assigned (through ESCO) a category based on the nature of that skill, that is: cross-sector; sector-specific; or transferable.30   
+Half of the top 20 skills are common to green and non-green jobs: communication; customer service;  accounting;  work  as  a  team;  attention  to  detail;  lead  a  team;  manage  a  team; application process; personal development; and statistics.   
+The top five skills relevant to green jobs specifically were:  JavaScript; SQL; CSS; logistics; and quality standards.  Whereas the top five skills relevant to non-green jobs specifically were health and care related:  person centred care; physiotherapy; primary care; focus on service; manage a team; and, nutrition.  These skills reflect the nature of the occupations in the green and non-green designation.   
+Most of the green job posting skills are cross-sector (12 of the 20) as are those for non-green jobs (11 of the 20).  Green and non-green job postings are as likely to mention sector-specific skills (7 of the 20).  Very few job postings – green and non-green – require occupation-specific or transferable skills.   
+29  The skill categories  presented in this table are  based on the  ESCO classification (ESCO, 2017).  See, ESCO (2017) ESCO Handbook: European Skills, Competences, Qualifications and Occupations. Brussels: European Union.  ESCO is used, as opposed to O*NET, because the job postings analysis is part of LMI for All.   
+30 Cross-sector skills or knowledge are skills/knowledge that can be applied across a range of sectors, such as communication and team work. Sector specific skills/knowledge refers to skills/knowledge that is  specific  to  one  sector  but  are  relevant  for  more  than  one  occupation  within  a  sector,  such  as  a programming language.  Occupation specific skills/knowledge refers to skills/knowledge that is specific for one occupation across several sectors, for example, accountancy skills.  Transferable skills refer to those skills that are relevant to a broad range of occupations. This category includes social interaction, attitudes and values, critical and innovative thinking, among other skills (ESCO, 2017, p.6).   
+32 
+[Page #38]
+Table  9:  Top  20  skills  in  most  demand  in  green  and  non-green  job  postings  in  York TTWA (2021) 
+Green occupations 
+Non-green occupations 
+Frequency (no.) 
+Frequency (no.) 
+Skills 
+Skill type 
+Skills 
+Skill type 
+Communication 
+1459  Cross-sector  Communication 
+3466  Cross-sector 
+Customer service 
+Work as a team 
+822  Sector-specific 
+1667  Cross-sector 
+Personal development 
+Work as a team 
+795  Cross-sector 
+1105  Cross-sector 
+Customer service 
+Attention to detail 
+390  Cross-sector 
+1061  Sector-specific 
+Attention to detail 
+316  Cross-sector 
+868  Cross-sector 
+Accounting 
+274  Sector-specific  Accounting 
+420  Cross-sector 
+JavaScript 
+273  Sector-specific  Lead a team 
+418  Cross-sector 
+SQL 
+Person centred care 
+257  Sector-specific 
+294  Sector-specific 
+CSS 
+245  Cross-sector  Physiotherapy 
+288  Sector-specific 
+Logistics 
+245  Cross-sector  Primary care 
+283  Cross-sector 
+Lead a team 
+Focus on service 
+Quality standards 
+240  Cross-sector 
+279  Cross-sector 
+204  Cross-sector  Manage a team 
+274  Cross-sector 
+Manage a team Energy31 
+198  Cross-sector  Nutrition 
+261  Sector-specific 
+Occupation-specific 
+Application process 
+Occupation-specific 
+Application process 
+190 
+247 
+186  Sector-specific  Palliative care 
+235  Sector-specific 
+PHP 
+Work independently 
+SQL Server 
+176  Sector-specific 
+206 
+Transversal 
+Personal development 
+175  Cross-sector  Acute care 
+217  Sector-specific 
+Statistics 
+170  Cross-sector  Disability care 
+235  Sector-specific 
+Project management 
+161  Sector-specific  Psychology 
+234  Cross-sector 
+Financial management 
+160  Cross-sector  Statistics 
+209  Cross-sector 
+Source: IER-LMI 
+31 Knowledge on power capacity in the form of mechanical, electrical, heat, potential, or other energy from chemical or physical resources, which can be used to drive a physical system.   
+33 
+[Page #39]
+  Employer demand for purist green job skills 
+In this section we identify purist green job vacancy postings by identifying purist green skills terms specified in job vacancy requirements, for example: recycle, renewable energy, green manufacturing etc.32   
+Table 10 shows that these purist green skills terms are not mentioned frequently in job adverts.  There are only 350 mentions of such skills in all of the job vacancy postings between February 2019 and June 2022.  Furthermore, none of these purist green skills would make it into the top 20 green job skills (see Table 9 above).   
+Three  skills  terms  -  environmental  protection/processes;  recycle;  and  renewable  energy  – account  for  more  than  half  (55%)  of  purist  green  skills  terms  mentioned.    In  addition, decarbonisation/low  carbon  emissions,  solar  technologies  and  climate  change  together account for around one quarter (23%).   
+Table 10: Purist green skills terms in green job postings in York TTWA (February 2019-June 2022) 
+Skills terms (N=350) 
+% 
+Environmental protection/processes  
+26% 
+Recycle  
+17% 
+Renewable Energy (wind, turbine, wave, hydrogen, etc. power generation) 
+12% 
+Decarbonisation/ low carbon emissions  
+9% 
+Solar technologies  
+9% 
+Climate Change 
+5% 
+Public Transport Planning 
+3% 
+Segregation 
+3% 
+Cascading 
+2% 
+Waste Monitoring 
+2% 
+Biodiesel 
+2% 
+Materials Specification 
+2% 
+Hazardous Waste Management 
+2% 
+Leak Detection 
+2% 
+Green Manufacturing 
+1% 
+Water Management Systems 
+1% 
+Effluent Treatment 
+1% 
+Waste Audit 
+1% 
+Life Cycle Costing 
+1% 
+Source: IER-LMI 
+Figure 16 shows the number of jobs vacancy postings that use purist green skills terms over time. Only a small proportion of job postings, as with the purist definition of green sectors (see 
+32 Strietska-Ilina, O., Hofmann, C., Haro, M.D., & Jeon, S. (2012) Skills for green jobs: A global view. Geneva: International Labour Organisation. 
+34 
+[Page #40]
+Section 2), contain purist green skills terms (a peak of 4% of job postings in Q4 of 2021).  More recently, the number of job vacancy postings using green skill terms has fallen, again mirroring the decrease in postings for green occupations (see Figure 15).   
+Figure  16:  Purist  green  skill  terms  used  in  job  postings,  York  TTWA  (Feb  2019-June 2022) 
+Source: IER-LMI 
+  Priority sectors 
+The job vacancy posting analysis also focused on two of CYC’s priority sectors: rail and the bioeconomy. However, there were very few online job adverts for the bioeconomy sector and so this data has not been included.  It is possible that the small number of bioeconomy job vacancy postings reflects the fact that many bioeconomy subsectors (such as, agriculture, and food and drink manufacture) are less likely to use online recruitment methods.   
+The rail sector in York includes a range of subsectors: construction, maintenance and repair and operation of the rail network; engineering design and testing; head office, and business support activities; and ICT.  Table 11 shows that in 2021 there were just under one thousand (999) online job vacancy postings for rail sector jobs (11% of all postings).  Of these postings, two  out  of  five  were for  green  occupations  (39%)  which  is  marginally  higher  than for  other sectors.   
+Within green job postings in the rail sector, most were enhanced skills and knowledge jobs (56%).  However, compared to non-rail sectors, there was a larger proportion of postings for increased demand jobs (39%).   
+35 
+[Page #41]
+Table 11: Rail sector job postings in York TTWA (2021) 
+Rail sector 
+Other sectors 
+Total postings, of which: 
+11% 
+89% 
+Non-green 
+61% 
+64% 
+Green, of which: 
+39% 
+36% 
+-  Enhanced skills and knowledge 
+56% 
+71% 
+- 
+Increased demand 
+39% 
+23% 
+-  New and emerging 
+5% 
+6% 
+Source: IER-LMI 
+  Summary 
+The section uses an inclusive definition of green jobs.  On this basis around one third of York TTWA job postings are for green occupations.  Around two thirds of these postings were for green enhanced skills and knowledge occupations.  Very few (6%) were for new or emerging green occupations.   
+York TTWA has relatively high levels of job postings for occupations in skilled trades, customer service, and sales and customer service occupations.  And lower proportions in managerial and professional jobs.   
+Since  July  2021,  there  has been  a  levelling  off  in  green job  postings  in York  TTWA.   Non-green job vacancy postings in York TTWA have increased over this period.   
+The  large  majority  of  green  and  non-green  job  postings  require  people  with  previous experience.    Many  of  the  skills  sought  in  green and  non-green  job  postings  are  the  same.  However, green job postings are more likely to require specific software skills.  ‘Purist’ green skills  are  rarely  asked  for  (mentioned  in  3%  of  postings).    When  they  are:  environmental protection/processes; recycle; and renewable energy are the skills most called for.   
+Rail is one of CYC’s priority sectors.  In York TTWA, 11% of online job postings were for rail sector posts and, of these posts, two out of five were for green jobs, using the broad definition.  Within green job vacancy postings in the rail sector, most were for green enhanced skills and knowledge occupations.   
+36 
+[Page #42]
+6.  Conclusion, discussion and suggested actions 
+Introduction 
+This  section  offers  concluding  remarks  along  with  a  short discussion  of  the  future  of  green jobs based on new national employment projections.  Drawing on a range research, action points are offered for York to enhance its green jobs potential.  
+  Summary overview of green jobs and skills in York 
+For  a  number  of  years,  a  purist  definition  of  green  jobs  has  been  used.    This  definition  is proving  to  be  problematic  and  more  inclusive  definitions  are  gaining  policy  traction.    One broader definition has been developed by IER and adopted within the UK – the GreenSOC. This broader definition offers three types of green jobs, one of which aligns loosely with the purist definition.   
+On the purist definition, there are around 1,800 people working in green sector jobs in York TTWA, this figure represents 1% of the current workforce.  Analysis of job vacancy postings that  ask  for  purist  green  skill  terms  in  their  vacancy  adverts  suggests  that  2%  of  current vacancies ask for such skills.  This latter figure has fluctuated between 1% and 4% of total job vacancy postings in York over the past three years.   
+Employing the inclusive definition, our estimates suggest that there are 28% of people in the York TTWA, and one quarter of York City residents, who are currently working in green jobs.  These jobs are mostly green increased demand jobs, which comprise around 45% of green jobs in both areas or 12% of total employment.  The next largest green jobs category are green enhanced skills and knowledge jobs, which constitute around one third of green jobs or 9% of all jobs.  Finally, green new and emerging jobs (which is closest to the purist definition) account for about one in five green jobs or 6% of total jobs.  
+The nature of green jobs varies across broad occupational groups.   Green enhanced skills and knowledge jobs are most prevalent in plant and machine process operative occupations, associate professional and technical, and managerial occupations.  Green new and emerging are more significant in skilled trades, and professional occupations.  Green increased demand jobs are sizeable in most broad occupations.   
+Analysis of occupations at a more detailed level shows that many of these jobs are currently green  increased  demand,  and  in  occupations  that  concern  the  distribution,  logistics  and financing  of  the  green  economy  (i.e.  service  sector  jobs),  as  well  as  the  manufacture, installation and maintenance of green products.   
+The job vacancy postings data calculates that just over one third of vacancies are for green jobs, and that two thirds of these jobs are green enhanced skills and knowledge (23% of all job postings), one quarter are green increased demand jobs (9%), and 6% are green new and emerging jobs (2%).   
+Most green jobs, in both York TTWA and York City, are in skilled trades, associate professional and  technical,  and  plant  and  machine  process  operative  occupations.    The  job  vacancy postings  data  indicates  that  skilled  trades,  and  process,  plant  and  machine  operative occupations account for the largest proportion of green jobs in York TTWA.  Both the current employment  and  job  vacancy  postings  data  indicate  that  there  are  few  green  jobs  in administrative and secretarial, and caring, leisure and service occupations.   
+37 
+[Page #43]
+A  number  of  the  top  ten  green  detailed  occupations  in  the  employment  and  job  vacancy postings data are the same.  Green job postings tend to include more IT detailed occupations rather than skilled trades, especially in the construction sector.   
+Analysis of current employment and job vacancy postings by sector shows that it is the public administration, education and health, distribution, hotels and restaurants, and banking, finance and insurance sectors where most green jobs are located.  However, as a proportion of jobs within sectors, agriculture, forestry and fishing, construction, and transport and communication have the largest proportion of green jobs.   
+The skills and knowledge requirements of green jobs are very similar to non-green jobs.  This similarity  is  apparent  when  examining  the  skills  and  knowledge  of  specific  green  and  non-green  occupations  as  well  as  the  skills,  knowledge  and  skills  terms  in  broader  occupation groupings.    Analysis  of  the  skills,  knowledge  and  skills  terms  of  green  jobs  within  broad occupation groups shows that there are a number of skills and knowledge requirements that are the same across green and non-green jobs, as well as different types of green jobs.   
+The reasons for the similarities between green and non-green jobs is because a number of key functional, transferable and technical skills are necessary to perform most jobs.  It also reflects the fact that most green jobs are green increased demand jobs or green enhanced skills  and  knowledge  jobs  requiring  no  or  incremental  changes  respectively  in  the  tasks undertaken.   
+  Green jobs going forward in the transition to net zero? 
+Developments in the local economy will depend on the pace of transition to net zero.  Based on the purist definition (and forecasts used by the LGA), the number of green jobs in the York TTWA is estimated to more than quadruple by 2030, and have a six-fold increase by 2050.  However, this increase will still only account for 12% of the York TTWA workforce in 2050.   
+Using a more inclusive definition, the transition to net zero will see most job changes in existing occupations  (green  increased  demand)  that  will  require  no  change  in  their  skills  and knowledge requirements.  Most other green jobs (green enhanced skills and knowledge) will require changes but only to some of their skill and knowledge requirements.  Relatively few green  jobs  (green  new  and  emerging)  will  require  significantly  different  or  new  skills  and knowledge, and these jobs currently account for around 5% of the workforce in York TTWA and York City.   
+New national employment projections provided by IER with other colleagues based on broad occupation  groupings  provide  an  indication  of  the  direction  of  travel.33    These  projections suggest that employment levels are forecast to decline slightly in two broad occupation groups which account for a large number of green jobs: skilled trades, and process, plant and machine operatives (see Figure 19).  However, jobs are expected to increase in two occupations which account  for  a  large  number  of  green  jobs:  professional,  and  associate  professional  and technical occupations.   
+33  Wilson,  R.,  Bosworth,  D.,  Bosworth,  L.,  Cardenas-Rubio,  J.,  Day,  R.,  Patel,  S.,  Bui,  H.,  Lin,  X., Seymour, D., and Thoung, C., (2022). The Skills Imperative 2035: Occupational Outlook – Long-run employment prospects for the UK, Baseline Projections. Working Paper 2a. Slough: NFER. 
+38 
+[Page #44]
+Figure  17:  Employment  forecasts  by  broad  occupation,  UK  2020-2035,  percentage change 
+Source: IER Working Futures 
+Given  the  nature  of  most  green  jobs,  it  is  difficult  to  predict  at  which  point  net  zero  policy ambitions will impact occupations and sectors.  For example, within an occupation such as plumber (a green enhanced skills and knowledge job), only a proportion of people working in such jobs will be affected by the zero carbon transition, at least in the short- to medium term.  At the moment, some plumbers may be installing heat pumps all, some or none of their time.  The likelihood is that more plumbers, and for more of their time, will be involved in green tasks.  However, it is difficult to estimate how this shift will occur over the next five or ten years.   
+Monitoring job vacancy postings data and engagement with employers in sectors less likely to advertise  jobs  on-line  are  ways  of  monitoring  the  transition.    In  addition,  analysis  of  job vacancy postings data will allow the detailed monitoring of the emergence of new green jobs that do not currently exist (such as, greenhouse gas emissions report verifiers), as well as the green enhanced skills and knowledge requirements of existing occupations.   
+The growth in professional, and associate professional and technical occupations will require a higher-qualified workforce (at Level 4 and above) which is in keeping with trends in the UK over  the  last  two  decades.    However,  in  terms  of  employment  opportunities,  most  job opportunities will arise through replacement demand i.e. replacing workers as they leave the workforce (mostly due to retirement).  This dynamic will create the most job opportunities over the next 15 years.34  Therefore, whilst certain occupations may increase there will still be large numbers of job opportunities for people in occupations forecast to decline, such as the skilled trades.   
+34 Ibid.   
+39 
+[Page #45]
+Because most jobs affected by the transition to net zero already exist, the skills implications are  reduced.   Most  people  in  green jobs  will  not  need  to  acquire  new  skills,  at  least  in the short- to medium term.  For those workers who do, new or adapted skill acquisition is likely to involve  the  ‘bolt  on’  of  skills  that  can  be  acquired  through  learning  units/modules  or  micro credentials.  By contrast, about one in five green jobs and one in twenty of all jobs are green new and emerging and will require mostly green skills and knowledge.  New occupational and competency standards will be required for such jobs.  Some workers may be reluctant to reskill or upskill.  In order to ensure that training opportunities are engaged with by all will require new  provision  delivered  in  a  flexible  way  that  can  accommodate  large  volumes  of  working people, for example, through on the job and on-line provision.  It may also require financial and other incentives to encourage people and employers to engage.   
+  Actions that City of York Council and its partners can take 
+Drawing on a range of research outwith York, this section provides suggested actions for the City  of  York  Council  .    They  are  offered  without  full  knowledge  of  the  policy  context  within which the City of York Council operates, and the strategic and operational relationships with its  main  partners.    Furthermore,  all  of  these  actions  require,  to  a  greater  or  lesser  extent, resources, which may be challenging in the current financial climate.   
+Action 1: Establish a Green Skills Partnership 
+The transition to net zero is likely to pervade business practice, and many organisations are already working on greening and green jobs.  It would be sensible to work on this transition in a collaborative and coordinated way.  A Green Skills Partnership was established in London by Unionlearn in 2011.  Its purpose was to deliver green skills and support green jobs within the  construction,  retrofit,  horticulture,  and  waste  management  sectors.    The  partnership included: employers, trade unions, training providers, employment support providers, LADs, housing providers and Third Sector organisations.  The partnership met on a regular basis to coordinate  employment  and  skills  demand  and  supply  in  these  sectors  by  identifying employment, work experience, skills training and progression opportunities.  The partnership was successful in securing government funding for employment and skills support, providing work placements for unemployed people, apprenticeships and other training opportunities with employers, creating ‘green ambassadors’, and funding for PTLLS and Assessor training.  The Green Skills Partnership currently exists as a Community Interest Company.  A Green Skills Partnership does require funding to develop and operate, and it could be led by the City of York Council or by one or several of its partners.   
+Action 2: Create a Green Jobs Champion(s) 
+City  of  York  Council  has  numerous  roles  within  the  net  zero  agenda:  as  an  employer;  a provider and consumer of goods and services; as an anchor institution; and as a strategic lead and facilitator.  A Green Jobs Champion would be both an advocate of and advisor on change.  The champion could coordinate the council’s four roles to provide coherence in responding to and developing net zero agenda for the city and its surrounding areas. For example, with the council as a model employer, the champion would work with council departments to help these departments  understand  the  direction  of  travel  towards  a  net  zero  economy,  and  its implications  for  their  services,  budgets  and  staff.    The  champion  might  also  work  with  the council’s  procurement  teams  to  support  greener  supply  chains;  and  providing  a  green dimension to the council’s strategic role across a number of policy agendas, such as, digital, health, housing, transport and planning.   
+40 
+[Page #46]
+Furthermore, the council could promote the creation of Green Jobs Champions within other anchor institutions (such as local health service providers, and higher and further education institutions) as well as the YNYLEP, third sector organisations and local businesses to create a broad strategic and operational approach to developing, and responding to, the York green economy.   
+Action 3: Develop a green jobs audit/checklist for local businesses 
+The  audit/checklist  could  be  used  by  businesses  to  identify  the  employment  and  skills implications  of  responding  to  the  net  zero  transition,  for  example,  understanding  and accommodating net zero government policy and legislation.  It could be used by businesses to assess the extent to which new green jobs will need to be created, or which of their existing jobs are being ‘greened’.  This can then be used for them to assess what actions may need to be taken, such as, training and skills provision to develop green competencies in existing jobs.  Or how to recruit workers for new and emerging jobs.  This checklist could be linked to good and inclusive work practices to enhance recruitment (e.g. recruiting from a broader pool of workers) or retain existing workers (such as by providing flexible working arrangements).  Developing local  employer representative organisations, other anchor institutions, and local skills providers.   
+the  checklist  could  be  undertaken 
+in  association  with 
+Action  4:  Encourage  local  education  and  training  providers  to  develop  and  deliver  micro-credentials   
+Many green jobs are unlikely to require completely new skill and knowledge sets.  Most will need  to  enhance  their  existing  competencies.    Micro-credentials,  delivered  for  example through  a  short  course  or  training,  accredit  the  learning  outcomes  of  ‘bite  sized’  learning experiences.35  Such learning offers a flexible, targeted way to help people develop additional skills and knowledge, and can be delivered by local colleges, universities and private training providers  in the  York  area.    These  providers  should  be  encouraged  to develop  and deliver such provision, working in partnership with local businesses and public employment services.  Courses and training could be delivered to the existing workforce or delivered as ‘bolt-ons’, options or modules as part of larger training courses including apprenticeships and degrees. Work is being undertaken elsewhere in developing green skill micro-credentials which local providers could incorporate and build on so they are appropriate to local employers and the workforce.  
+Action 5: Develop and host a web based local LMI facility   
+Significant LMI exists in the UK36 which enables careers guidance professionals, for example, to  identify  local  job  opportunities  and  offer  advice  on  the  quality  of  those  jobs  and  access requirements.  York should consider developing a bespoke green jobs LMI for this purpose.  This action could be undertaken in partnership with YNYLEP and the Local Skills Improvement Plan.  Analysis of the green economy, jobs and skills is evolving all the time.  The employment analysis included in this report could be a basis for local LMI, explaining the types and levels of  green  jobs,  and  their  skills  and  knowledge  requirements  for  individuals,  businesses  and providers.  Web scraping of job vacancy postings provides an ongoing mechanism to identify 
+35 Lifelong Education Commission (2022).  The Role of Micro-credentials in Modular Learning.   
+36  See,  for  example,  Barnes,  S-A.,  Hogarth,  T.,  Cárdenas-Rubio,  J.,  Wright,  S.,  Hawthorne,  M., Bosworth, D., & Bosworth, L. (2021). Strategic, Accessible Labour Market Intelligence: Labour market demand and supply of skills, Glasgow: Skills Development Scotland. 
+41 
+[Page #47]
+local  labour  market  trends,  such  as  growth  in  the  number  of  green  new  and  emerging occupations,  developments  within  existing  jobs  such  as  the  enhanced  green  skills  and knowledge  occupations.    This  information  could  then  be  linked  to  local  skills  provision  and funding  opportunities.    Analysis  undertaken  elsewhere  suggests  that  green  jobs  are  not distributed  evenly  across  the  workforce,  in  particular  there  are  gender  imbalances.37  Therefore  green  job  growth  could  be  linked  to  inclusive  and  good  work  practices,  possibly utilising  support  resources  from  those  Mayoral  Combined  Authorities  (including  West Yorkshire) that have developed Good Work Charters.38  In this respect, City of York Council might also incorporate, within this local LMI, information on the quality of its green jobs, for example, using pay levels as a marker.  Local LMI could also be used to benchmark the quality of those jobs as well as labour market green jobs trends in York against other similar cities and the rest of the UK.   
+  Final thoughts 
+The net zero transition is likely to involve significant if often incremental changes to the labour market and jobs.  However, in terms of jobs and their underpinning skills and knowledge, much will look familiar.  Part of the role the City of York Council is to re-assure its own constituent parts,  its  partners  and  other  stakeholders  that  the  changes  are  manageable  and  can  be supported.   
+The actions in the previous section can be led by City of York Council.  However, all other organisations in York and its TTWA will be affected by the transition to net zero to a greater or lesser extent.  It makes sense to develop a collaborative and coordinated approach through partnership building across organisations and, working with these partners, mobilise the full range of policy levers to maximise a coherent response.  The City of York Council can have a facilitating role amongst its partners to ensure a collective and systematic response.  
+37 Cardenas Rubio, J., Warhurst, C. and Anderson, P. (2022) op. cit.   
+38 For example, see https://www.gmgoodemploymentcharter.co.uk/support/  
+42 

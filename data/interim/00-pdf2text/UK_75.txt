@@ -1,0 +1,85 @@
+[Page #0]
+14/10/2023, 16:24
+9 key ﬁndings from Understanding the UK AI labour market: 2020 Report - GOV.UK
+ GOV.UK
+Home
+Understanding the UK AI labour market: 2020
+Department forDigital, Culture,Media & Sport
+Oﬃce for ArtiﬁcialIntelligence
+Research and analysis9 key ﬁndings fromUnderstanding the UK AIlabour market: 2020 Report
+Published 18 May 2021
+https://www.gov.uk/government/publications/understanding-the-uk-ai-labour-market-2020/9-key-ﬁndings-from-understanding-the-uk-ai-labour-market-2020-re… 1/11
+[Page #1]
+14/10/2023, 16:24
+9 key ﬁndings from Understanding the UK AI labour market: 2020 Report - GOV.UK
+© Crown copyright 2021
+This publication is licensed under the terms of the Open Government Licence v3.0 except whereotherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3 or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU,or email: psi@nationalarchives.gov.uk.
+Where we have identiﬁed any third party copyright information you will need to obtain permission fromthe copyright holders concerned.
+This publication is available at https://www.gov.uk/government/publications/understanding-the-uk-ai-labour-market-2020/9-key-ﬁndings-from-understanding-the-uk-ai-labour-market-2020-report
+https://www.gov.uk/government/publications/understanding-the-uk-ai-labour-market-2020/9-key-ﬁndings-from-understanding-the-uk-ai-labour-market-2020-re… 2/11
+[Page #2]
+14/10/2023, 16:24
+9 key ﬁndings from Understanding the UK AI labour market: 2020 Report - GOV.UK
+1. Skills shortages
+Firms reported shortages of candidates in the labour market with AI and datascience skills
+A third (35%) of ﬁrms said that existing employees lacking technical skills hadprevented them from meeting their business goals, and 49% said that jobapplicants lacking technical skills had done the same.
+2. Skills gap
+Firms reported skills gaps among their existing employees working with AI ordata science.
+https://www.gov.uk/government/publications/understanding-the-uk-ai-labour-market-2020/9-key-ﬁndings-from-understanding-the-uk-ai-labour-market-2020-re… 3/11
+[Page #3]
+14/10/2023, 16:24
+9 key ﬁndings from Understanding the UK AI labour market: 2020 Report - GOV.UK
+Technical skills gaps were reported in: understanding of AI concepts andalgorithms (55%), programming skills and languages (52%), software andsystems engineering (52%), and user experience (51%).In the survey, two-thirds of ﬁrms (67%) expected that the demand for AI skills intheir organisation was likely to increase in the next 12 months.
+3. Recruitment
+Firms reported ﬁnding it hard to ﬁll all their AI and data science job vacancies
+https://www.gov.uk/government/publications/understanding-the-uk-ai-labour-market-2020/9-key-ﬁndings-from-understanding-the-uk-ai-labour-market-2020-re… 4/11
+[Page #4]
+14/10/2023, 16:24
+9 key ﬁndings from Understanding the UK AI labour market: 2020 Report - GOV.UK
+Two-thirds of surveyed ﬁrms had tried to recruit in the last two years. Of thosewho had tried to recruit, word of mouth or industry networks was the mostcommon channel (42%), and one in ﬁve (22%) had partnered with a university.Among those that had vacancies in the last 2 years, 69% said that at least onevacancy was hard to ﬁll. This was higher than in the cyber sector (57%). The bulkof hard-to-ﬁll vacancies were among middle-management and other senior roles,which required 3 or more years of experience.
+4. Job postings
+2020 had the highest number to date of online job vacancies related to AI anddata science
+https://www.gov.uk/government/publications/understanding-the-uk-ai-labour-market-2020/9-key-ﬁndings-from-understanding-the-uk-ai-labour-market-2020-re… 5/11
+[Page #5]
+14/10/2023, 16:24
+9 key ﬁndings from Understanding the UK AI labour market: 2020 Report - GOV.UK
+2020 was the highest year to date for the number of online job vacancies relatedto AI and Data Science, with an increase of 16% from 2019 levels.The job postings search identiﬁed 110,495 postings in AI and Data science fromJanuary to December 2020.The annual number of job postings had more than doubled since 2014. Morethan half of these job posts were in London and the South East. London was amajor hotspot for AI and data science roles, with 36,715 roles identiﬁed. This wasfollowed by Cambridge (5,453), Manchester (3,619), Bristol (2,505), Edinburgh(2,365), Oxford (2,311) and Birmingham (2,095).The mean advertised salary was £54,800 for an AI and data science related jobposting (with a median value of £50,000).
+5. Barriers to ﬁlling vacancies
+Skills shortages were most often the reason AI and data science vacancieswere hard to ﬁll
+https://www.gov.uk/government/publications/understanding-the-uk-ai-labour-market-2020/9-key-ﬁndings-from-understanding-the-uk-ai-labour-market-2020-re… 6/11
+[Page #6]
+14/10/2023, 16:24
+9 key ﬁndings from Understanding the UK AI labour market: 2020 Report - GOV.UK
+Barriers to ﬁlling vacancies included: applicants lacking technical skills andknowledge (65%), work experience (40%), and industry knowledge (25%).
+6. Diversity
+There was a lack of gender balance in AI and data science teams
+https://www.gov.uk/government/publications/understanding-the-uk-ai-labour-market-2020/9-key-ﬁndings-from-understanding-the-uk-ai-labour-market-2020-re… 7/11
+[Page #7]
+14/10/2023, 16:24
+9 key ﬁndings from Understanding the UK AI labour market: 2020 Report - GOV.UK
+Over half (53%) did not employ any females in AI roles. Overall, a quarter (24%)of the surveyed ﬁrms workforce was female, but this was greater than in thecyber sector (16%).Two in ﬁve (40%) ﬁrms did not employ any staff from an ethnic minoritybackground in AI roles; 27% of the surveyed ﬁrms workforce was from an ethnicminority group.A similar proportion (41%) did not employ any non-UK nationals in AI roles; 28%of the surveyed ﬁrms’ workforce were non-UK nationals.
+7. Qualiﬁcations
+Many AI and data science professionals had postgraduate qualiﬁcations
+https://www.gov.uk/government/publications/understanding-the-uk-ai-labour-market-2020/9-key-ﬁndings-from-understanding-the-uk-ai-labour-market-2020-re… 8/11
+[Page #8]
+14/10/2023, 16:24
+9 key ﬁndings from Understanding the UK AI labour market: 2020 Report - GOV.UK
+99% reported that at least some of their staff in AI roles held a universityqualiﬁcation, 77% a Master’s degree, and 54% a PhD.Interestingly, 95% of AI and Data Science job postings do not include acertiﬁcation, which suggests there are very limited requests among employers forformal certiﬁcations compared to other professions.
+8. Pathways into working in AI
+Few AI and data science employees had entered at Apprentice level
+https://www.gov.uk/government/publications/understanding-the-uk-ai-labour-market-2020/9-key-ﬁndings-from-understanding-the-uk-ai-labour-market-2020-re… 9/11
+[Page #9]
+14/10/2023, 16:24
+9 key ﬁndings from Understanding the UK AI labour market: 2020 Report - GOV.UK
+Career pathways into AI roles were diverse and lacked a clear structure.Surveyed ﬁrms were unlikely to hire staff through an internship (11%) or as anapprentice (3%).
+9. Training
+A majority of ﬁrms had AI and data science employees who had been trainedin the last year, though much of this was informal
+https://www.gov.uk/government/publications/understanding-the-uk-ai-labour-market-2020/9-key-ﬁndings-from-understanding-the-uk-ai-labour-market-2020-r… 10/11
+[Page #10]
+14/10/2023, 16:24
+9 key ﬁndings from Understanding the UK AI labour market: 2020 Report - GOV.UK
+Three in ﬁve surveyed ﬁrms (62%) reported that employees in AI roles hadundertaken internal or external training in the last 12 months to improve theirknowledge and skills.Only a quarter of ﬁrms reported offered training on ethics in AI (24%).
+Back to top
+All content is available under the Open Government Licencev3.0, except where otherwise stated
+© Crown copyright
+https://www.gov.uk/government/publications/understanding-the-uk-ai-labour-market-2020/9-key-ﬁndings-from-understanding-the-uk-ai-labour-market-2020-r… 11/11
