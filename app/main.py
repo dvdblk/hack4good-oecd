@@ -5,6 +5,7 @@ import streamlit as st
 from dotenv import load_dotenv
 
 from app.preprocessing.adobe.manager import AdobeExtractAPIManager
+from app.preprocessing.splitter import AdobeDocumentSplitter
 
 
 @st.cache_data
@@ -38,25 +39,37 @@ def init_state():
         )
 
 
+def query_llm(question, model):
+    from langchain.agents.agent_toolkits import (
+        create_conversational_retrieval_agent,
+        create_retriever_tool,
+    )
+    from langchain.chat_models import ChatOpenAI
+    from langchain.embeddings import OpenAIEmbeddings
+    from langchain.vectorstores import FAISS
+
+    vectorstore = FAISS.from_documents(
+        AdobeDocumentSplitter().document_to_chunks(st.session_state.current_document),
+        embedding=OpenAIEmbeddings(),
+    )
+    retriever = vectorstore.as_retriever()
+
+    tool = create_retriever_tool(
+        retriever,
+        "search_document",
+        "Searches and returns the most relevant parts of a document discussing economic policies, technologies and skills.",
+    )
+    tools = [tool]
+
+    llm = ChatOpenAI(model=model, temperature=0)
+    agent_executor = create_conversational_retrieval_agent(llm, tools, verbose=True)
+
+    result = agent_executor({"input": question})
+    st.write(result["output"])
+
+
 def main():
     st.set_page_config(page_title="Policy Explorer 🔎", page_icon="💼")
-
-    st.title("OECD Policy Doc Explorer 🔎")
-
-    analysis_tab, chat_tab = st.tabs(["📊 Analysis", "💬 Chat"])
-
-    with analysis_tab:
-        st.header("Analysis")
-
-    with chat_tab:
-        chat_input = st.text_input("Ask a question here")
-
-        chat_question_choice_pressed = st.button("Examples")
-
-        if chat_question_choice_pressed:
-            selected_question = st.selectbox(
-                "Select a question", ["What are the skills mentioned in this document?"]
-            )
 
     # Create a sidebar for docs manager
     with st.sidebar.expander("⚙️ LLModel options"):
@@ -67,12 +80,11 @@ def main():
             st.write("Models provided by OpenAI hosted on their servers and require an API key.")
 
             # TODO: scrape openai for latest models here or use a local list with a warning
-            oai_model = st.selectbox(
+            st.session_state.oai_model = st.selectbox(
                 "OpenAI Model",
                 [
                     "gpt-3.5-turbo-0613",
                     "gpt-3.5-turbo-1106",
-                    "gpt-4",
                     "gpt-4",
                     "gpt-4-1106-preview",
                 ],
@@ -90,8 +102,6 @@ def main():
                 # TODO: implement GET localhost/api/tags https://github.com/jmorganca/ollama/blob/main/docs/api.md#list-local-models to populate the list below
                 ["mistral:7b", "llama2"],
             )
-
-        print(oai_model, local_model)
 
     with st.sidebar.expander("📖 Documents", expanded=True):
         st.write(
@@ -116,10 +126,37 @@ def main():
                     document = st.session_state.adobe_extract_api_manager.get_document(
                         raw_pdf_documents[0].getvalue(), input_file_name=raw_pdf_documents[0].name
                     )
+                    st.session_state.current_document = document
                     plural = "s" if len(raw_pdf_documents) > 1 else ""
                     st.write(f"Done! Uploaded {len(raw_pdf_documents)} document{plural}.")
                     print(document.subsections, document.title)
                     displayPDF(raw_pdf_documents[0])
+
+    st.title("OECD Policy Doc Explorer 🔎")
+
+    analysis_tab, chat_tab = st.tabs(["📊 Analysis", "💬 Chat"])
+
+    with analysis_tab:
+        st.header("Analysis")
+
+        with st.container():
+            st.write("<Summarized document goes here>")
+
+        with st.container():
+            st.write("<Skills go here>")
+
+    with chat_tab:
+        chat_input = st.text_input("Ask a question here")
+
+        if chat_input:
+            query_llm(chat_input, st.session_state.oai_model)
+
+        chat_question_choice_pressed = st.button("Examples")
+
+        if chat_question_choice_pressed:
+            selected_question = st.selectbox(
+                "Select a question", ["What are the skills mentioned in this document?"]
+            )
 
 
 if __name__ == "__main__":
