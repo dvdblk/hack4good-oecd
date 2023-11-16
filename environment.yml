@@ -10,3 +10,8 @@ dependencies:
     - tqdm
     - torch
     - nougat-ocr
+    - streamlit
+    - langchain
+    - python-dotenv
+    - openai
+    - python-multipart

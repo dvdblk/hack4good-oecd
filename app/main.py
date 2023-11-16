@@ -1,10 +1,18 @@
+import base64
+import os
+
 import streamlit as st
 from dotenv import load_dotenv
-import base64
+
+from app.preprocessing.adobe.manager import AdobeExtractAPIManager
 
 
 @st.cache_data
 def displayPDF(uploaded_file):
+    """Display PDF file in Streamlit app."""
+    # FIXME: Data caching should work with page numbers e.g.: #page=4
+    # pdf_display = f'<iframe src="data:application/pdf;base64,{base64_pdf}#page=4" width="100%" height="320" type="application/pdf"></iframe>'
+
     # Read file as bytes:
     bytes_data = uploaded_file.getvalue()
 
@@ -18,39 +26,106 @@ def displayPDF(uploaded_file):
     st.markdown(pdf_display, unsafe_allow_html=True)
 
 
-if __name__ == "__main__":
-    # Load environment variables
-    load_dotenv()
-
-    st.set_page_config(page_title="OECD Policy Explorer 🔎", page_icon="💼")
-
-    st.header("Results")
-    chat_input = st.text_input("Ask a question here")
-
-    chat_question_choice_pressed = st.button("Examples")
-
-    if chat_question_choice_pressed:
-        selected_question = st.selectbox(
-            "Select a question", ["What are the skills mentioned in this document?"]
+def init_state():
+    """Initialize the state with reusable objects."""
+    # Initialize Adobe Extract API manager
+    if "adobe_extract_api_manager" not in st.session_state:
+        st.session_state["adobe_extract_api_manager"] = AdobeExtractAPIManager(
+            client_id=os.getenv("ADOBE_CLIENT_ID"),
+            client_secret=os.getenv("ADOBE_CLIENT_SECRET"),
+            # FIXME: Path selectable by user?
+            extract_dir_path="data/interim/000-adobe-extract",
         )
 
+
+def main():
+    st.set_page_config(page_title="Policy Explorer 🔎", page_icon="💼")
+
+    st.title("OECD Policy Doc Explorer 🔎")
+
+    analysis_tab, chat_tab = st.tabs(["📊 Analysis", "💬 Chat"])
+
+    with analysis_tab:
+        st.header("Analysis")
+
+    with chat_tab:
+        chat_input = st.text_input("Ask a question here")
+
+        chat_question_choice_pressed = st.button("Examples")
+
+        if chat_question_choice_pressed:
+            selected_question = st.selectbox(
+                "Select a question", ["What are the skills mentioned in this document?"]
+            )
+
     # Create a sidebar for docs manager
-    with st.sidebar:
-        st.subheader("PDF Documents")
+    with st.sidebar.expander("⚙️ LLModel options"):
+        st.write("Choose a model to use for the analysis.")
+        openai_models_tab, local_models_tab = st.tabs(["OpenAI", "Ollama (local)"])
+
+        with openai_models_tab:
+            st.write("Models provided by OpenAI hosted on their servers and require an API key.")
+
+            # TODO: scrape openai for latest models here or use a local list with a warning
+            oai_model = st.selectbox(
+                "OpenAI Model",
+                [
+                    "gpt-3.5-turbo-0613",
+                    "gpt-3.5-turbo-1106",
+                    "gpt-4",
+                    "gpt-4",
+                    "gpt-4-1106-preview",
+                ],
+                help="The model choice determines the quality of the answers and price.",
+            )
+            st.markdown(
+                "Please refer to the [OpenAI Models documentation](https://platform.openai.com/docs/models/) for more information."
+            )
+
+        with local_models_tab:
+            st.write("Models provided by Ollama that can run locally but require setup.")
+
+            local_model = st.selectbox(
+                "Ollama Model",
+                # TODO: implement GET localhost/api/tags https://github.com/jmorganca/ollama/blob/main/docs/api.md#list-local-models to populate the list below
+                ["mistral:7b", "llama2"],
+            )
+
+        print(oai_model, local_model)
+
+    with st.sidebar.expander("📖 Documents", expanded=True):
+        st.write(
+            "Here you can upload any policy document(s) in PDF format. To update the list simply remove or add more docs below and click on 'Upload PDF(s)'."
+        )
         # Store the uploaded PDF documents in a list
         raw_pdf_documents = st.file_uploader(
             "Upload your PDF document(s)",
             type="pdf",
             accept_multiple_files=True,
-            help="Here you can upload any policy document(s) in PDF format.",
+            help="Upload any document(s) in .pdf format. 🏛️",
         )
-        if st.button("Upload PDF(s)"):
+        if st.button("Process"):
             with st.spinner("Processing..."):
                 # TODO: Identify if the PDF documents are new (hash the first few and last pages + page count)
                 # TODO: Identify the language of the documents (load with pypdf2 and use langdetect)
 
-                # Call extract API here
-                st.write("Done!")
-                st.write("Here are the results:")
-                st.write(len(raw_pdf_documents))
-                displayPDF(raw_pdf_documents[0])
+                if not raw_pdf_documents:
+                    st.warning("Please select a PDF document first.")
+                else:
+                    # Call extract API here
+                    document = st.session_state.adobe_extract_api_manager.get_document(
+                        raw_pdf_documents[0].getvalue(), input_file_name=raw_pdf_documents[0].name
+                    )
+                    plural = "s" if len(raw_pdf_documents) > 1 else ""
+                    st.write(f"Done! Uploaded {len(raw_pdf_documents)} document{plural}.")
+                    print(document.subsections, document.title)
+                    displayPDF(raw_pdf_documents[0])
+
+
+if __name__ == "__main__":
+    # Load environment variables
+    load_dotenv()
+    # Initialize default state (instances etc.)
+    init_state()
+    # Run the app
+    main()
