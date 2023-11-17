@@ -1,0 +1,116 @@
+[Page #0]
+Aktionsplan Forschung für autonomes Fahren 
+Ein übergreifender Forschungsrahmen von BMBF, BMWi und BMVI 
+[Page #1]
+None
+[Page #2]
+1 
+Inhalt 
+1  Einleitung 
+3
+2  Leitlinien für die Forschung 
+4
+3  Ein gemeinsamer Rahmen für die Forschung zum autonomen Fahren 
+6
+4  Beispiele aktueller Forschungsthemen 
+8
+Impressum  
+11 
+[Page #3]
+None
+[Page #4]
+EINLEITUNG 
+3 
+1   Einleitung 
+Das autonome Fahren ist eine der vielversprechendsten neuen Technologien im Mobilitätsbereich. Es bietet nicht nur die Chance auf einen sichereren, umweltschonenderen und effizienteren Straßenverkehr, sondern kann auch eine bessere Teilhabe am mobilen Leben ermöglichen. 
+-kompetenzen einschließlich der Künstlichen Intel­ligenz (KI) auszubauen. Hierauf müssen alle Akteure gemeinsam hinarbeiten. Auch die Ideen, der Bedarf und die Bedenken der Bürgerinnen und Bürger sind dabei aufzunehmen, um diese bestmöglich im Interesse einer breiten gesellschaftlichen Akzeptanz zukünftiger Mobilitätskonzepte zu berücksichtigen. 
+Die Bundesregierung hat sich mit der Hightech-Strate­gie 2025 zum Ziel gesetzt, die großen Chancen digitaler Technologien und Systeminnovationen auch für eine intelligente, nachhaltige, barrierefreie und bezahlbare Mobilität und Logistik zu nutzen. 
+Das autonome Fahren im Straßenverkehr bietet die Chance, die Lebensqualität der Bürgerinnen und Bür­ger durch mehr Verkehrssicherheit, weniger Staus und damit verbundene geringere Emissionen sowie bessere Möglichkeiten zur Nutzung der Fahrzeit zu verbes­sern. Zudem ermöglicht es die soziale Teilhabe von Menschen, die nicht selbst fahren wollen oder können, sowie eine bessere Erschließung des ländlichen Raums und der „letzten Meile“ bis zur Haustür. 
+Wir – die die Forschung zum automatisierten Fahren fördernden Ressorts der Bundesregierung (BMWi, BMVI und BMBF) – haben uns angesichts der enormen Herausforderungen entschlossen, unsere Forschungs­aktivitäten zum automatisierten und vernetzten Fahren weiter zu bündeln und an folgenden Leitlinien auszurichten: 
+∙	  Das autonome Fahren muss sicher sein. 
+Mit der „Strategie automatisiertes und vernetztes Fahren“ (Strategie AVF) hat die Bundesregierung bereits 2015 den politischen Rahmen abgesteckt, um über Innovationen und durch die Einführung des AVF die Verkehrssicherheit zu erhöhen und die Mobilität bei verbesserter Verkehrseffizienz und verringerten Um­weltbelastungen zu fördern. 
+∙	  Das autonome Fahren muss effizient, nachhaltig 
+sauber, barrierefrei, bezahlbar und bestmöglich am Bedarf der Bürgerinnen und Bürger ausgerichtet sein. 
+∙	  Die Technologieführerschaft des Automobilstand­
+orts Deutschland soll auch beim autonomen Fahren langfristig gesichert werden. 
+Im automatisierten Modus kann ein Fahrzeug für begrenzte Zeit und in fest definierten Situationen selbst die Steuerung des Fahrbetriebs übernehmen und den Fahrer oder die Fahrerin so entlasten. Autonome Fahrzeuge, die dauerhaft die Fahraufgabe übernehmen können, werden weitere Vorteile in Sicherheit und Ef­fizienz erschließen und ganz neue Mobilitätslösungen möglich machen. 
+Der Automobilstandort Deutschland wird in der Entwicklung des autonomen Fahrens aber nur dann eine führende Rolle einnehmen können, wenn es ge­lingt, forschungsintensive Schlüsseltechnologien und 
+[Page #5]
+4 
+AKTIONSPLAN „FORSCHUNG FÜR AUTONOMES FAHREN“ 
+2  Leitlinien für die Forschung
+Das autonome Fahren muss sicher sein. 
+Das autonome Fahren muss effizi­ent, nachhaltig, sauber, barrierefrei, bezahlbar und am Bedarf der Bürge­rinnen und Bürger ausgerichtet sein. 
+Übergeordnetes Ziel bei der Gestaltung der zukünfti­gen straßengebundenen Mobilität ist eine vollständige Vermeidung tödlicher und auch schwerer Unfälle („Vision Zero“). Durch technische Innovationen und regulatorische Maßnahmen konnte die Zahl der Verkehrstoten in Deutschland seit 1970 zwar deutlich gesenkt werden, dennoch sterben jährlich noch immer ca. 3.300 Menschen im deutschen Straßenverkehr. Einer weiteren Reduzierung der Unfallzahlen stehen wachsende Herausforderungen, unter anderem durch ein steigendes Verkehrsaufkommen, entgegen. 
+Unser Mobilitätssystem steht durch veränderte gesell­schaftliche Bedarfe, Nutzungsmuster und Leitbilder vor einem Umbruch. Dem Wunsch nach neuen, flexibleren Mobilitätsangeboten stehen steigende Verkehrslas­ten im Individualverkehr und Herausforderungen hinsichtlich der Umweltbelastung gegenüber. Diese Problematik wird durch das zunehmende Güterver­kehrsaufkommen verstärkt, nicht zuletzt verursacht durch die wachsende Bedeutung des Onlinehandels. 
+Es ist zu erwarten, dass eine signifikante Reduzierung der Unfallopfer in Richtung der „Vision Zero“ mit Automatisierung und Vernetzung im Straßenverkehr erreicht werden kann. Die kontinuierliche Automati­sierung von Fahrfunktionen bis hin zum autonomen Fahren wird dazu beitragen Unfallursachen, die durch menschliches Fehlverhalten bedingt sind, zu vermei­den. Voraussetzung hierfür sind jedoch die absolute Zuverlässigkeit der Fahrzeuge, auch in komplexen Situationen, und eine möglichst vollständige Durch­dringung der Fahrzeugflotte mit den neuen Technolo­gien des automatisierten Fahrens. Die Zuverlässigkeit der technischen Systeme hängt dabei ganz wesentlich vom Zusammenspiel von Elektronik und Software ab. Fahrzeuge müssen zudem gegen mögliche Angriffe von außen geschützt sein, denn Verkehrssicherheit wird bei zunehmender Vernetzung auch eine Frage der IT-Sicherheit. Bei Automatisierungsgraden, bei denen noch eine Übergabe an den Fahrer erfolgt, muss sichergestellt werden, dass durch die Übergabe der Fahraufgabe zwischen Mensch und Technik keine zusätzlichen Risiken entstehen. Tests und Erprobung automatisierter und autonomer Fahrzeuge und hierfür zu etablierende Validierungsmethoden, gerade auch für Systeme, die sich Methoden der Künstlichen Intelligenz bedienen, sind entscheidende Voraussetzungen, um die Fahrzeugsicherheit zu gewährleisten. 
+Das Fahren in höheren Automatisierungsstufen bis hin zum autonomen Fahren in Verbindung mit neuen Fahrzeugkonzepten und einem verbesserten Verkehrs­management bietet große Chancen, diese Bedarfe wirksam zu decken. Begleitend zur Erforschung von Schlüsseltechnologien müssen jedoch immer auch gesellschaftliche und ethische Grundsatzfragen be­trachtet werden, um Zukunftsfähigkeit und Akzeptanz zu gewährleisten. Zukunftsfähigkeit heißt aber auch, dass die technischen Innovationen dazu beitragen, die Nachhaltigkeitsziele und insbesondere die Klima­schutzziele der Bundesregierung zu erreichen. Ziel­gruppengerechte und nutzerfreundliche Lösungen für die Mensch-Maschine-Interaktion können ergänzend Barrieren abbauen. Eine systemische Betrachtung der Mobilität zeigt geeignete Ansatzpunkte und Hinweise für erforderliche Rahmenbedingungen auf. 
+Dabei steht fest: Der technische Fortschritt im Dienste der Sicherheit, Nachhaltigkeit und Nutzerfreundlich­keit darf nicht im Widerspruch zur Bezahlbarkeit, Verfügbarkeit und gesellschaftlicher Akzeptanz stehen. 
+[Page #6]
+LEITLINIEN FÜR DIE FORSCHUNG 
+5 
+Die Technologieführerschaft des Automobilstandorts Deutschland soll auch beim autonomen Fahren lang­fristig gesichert werden. 
+Der Mobilitätsbereich gehört zu den forschungs- und innovationsstärksten Deutschlands und trägt maßgeb­lich zum Erhalt von Arbeitsplätzen und Wohlstand bei. Doch die Mobilität befindet sich in einem gravierenden Wandel – veränderte gesellschaftliche Bedarfe und Leitbilder, vor allem aber auch digitale Innovationen setzen etablierte Geschäftsmodelle unter Druck. Um die gute Position des Standortes Deutschland für eine intelligente, nachhaltige Mobilität zu erhalten und wei­ter auszubauen, ist es notwendig, neue Technologien im Bereich der Elektronik und Sensorik, der Software und der KI auf der Basis relevanter Forschungsergebnisse zu entwickeln. Es kommt darauf an, die Chancen und Potenziale der Digitalisierung im Dialog mit der Wirt­schaft, mit der Wissenschaft und der Politik zu nutzen und für die Anwendung umzusetzen. Wir wollen die technologische Souveränität Deutschlands in Schlüs­selbereichen entlang der Innovationskette stärken und so die Rolle Deutschlands als Leitanbieter des autono­men Fahrens langfristig sichern. 
+Die Innovationskraft und Wettbewerbsfähigkeit des Standortes Deutschland hängt auch wesentlich von der Qualifizierung und Ausbildung von Fachkräften ab. Hierbei müssen neue und interdisziplinäre Inhalte, die mit dem autonomen Fahren einhergehen, berücksich­tigt werden. Basis und Ausgangspunkt, um den stei­genden Bedarf an qualifizierten Fachkräften zu decken, sind starke Universitäten und Technische Hochschulen. 
+[Page #7]
+6 
+AKTIONSPLAN „FORSCHUNG FÜR AUTONOMES FAHREN“ 
+3  Ein gemeinsamer Rahmen für die Forschung zum autonomen Fahren
+Dieser Aktionsplan ist Chance und Instrument zu­gleich, um Kompetenzen und Mittel der relevanten Ressorts in der Forschungs- und Entwicklungsförde­rung so effizient wie möglich einzusetzen, Forschung über die gesamte Themenbreite zu fördern und ihre Ergebnisse mit den Anforderungen von Standardset­zung und gesetzlichen Maßnahmen zu verbinden. So wird die koordinierte Umsetzung der Strategie AVF der Bundesregierung gestärkt. 
+1. Die FuE-Förderung der Ressorts richtet sich an 
+den Leitlinien für die Forschung aus (Kapitel 2). Sie erstreckt sich einerseits auf Themen, die das Feld als Ganzes betreffen und nur durch einvernehmliche Zusammenarbeit einer Vielzahl von Akteuren voran­gebracht werden können. Andererseits fokussiert die FuE-Förderung auf risikoreiche neue Ansätze, die von Innovationsvorreitern getragen werden. Die FuE-Förderung wird auf den effektiven Transfer neuer Erkenntnisse und Ergebnisse aus der wissenschaftli­chen und industriellen Forschung in die Umsetzung und Nutzung in Deutschland ausgerichtet. Dazu zählt auch, auf Grundlage der erzielten Ergebnisse die in­ternationale Standardisierung aktiv voran zu bringen. 
+3.1  Aktuelle Forschungsschwer­punkte der Ressorts 
+2. Die Ressorts verständigen sich über Projekte mit 
+Für eine optimale Abdeckung aller Forschungsschwer­punkte beim autonomen Fahren sind die Maßnahmen der beteiligten Ressorts fokussiert auf die folgenden Themen: 
+besonderer strategischer und ressortübergreifender Bedeutung in der frühen Konzept- und Planungspha­se und intensivieren damit die Zusammenarbeit über die etablierten Abstimmungsprozeduren der Projekt­förderung hinaus. Eine frühzeitige Einbindung aller mit dem Thema befassten Ressorts bei geplanten Förderprogrammen und Richtlinien soll erfolgen. 
+BMBF: Elektronik und Sensorik, Künstliche Intelligenz und Softwaretechnologien, IT-Sicherheit inkl. Kommu­nikationssysteme, Technologien für die Mensch-Tech­nik-Interaktion, Nachhaltigkeitseffekte, gesellschaftli­che und kommunale Anforderungen 
+3. Die Ressorts berücksichtigen bei der nationalen Förderung auch relevante Förderaktivitäten auf europäischer Ebene und setzen sich im Europäischen Forschungsrahmenprogramm Horizont 2020 für eine effiziente und subsidiäre Arbeitsteilung ein. Die Res­sorts tauschen sich regelmäßig aus, um das autono­me Fahren angemessen im künftigen Europäischen Forschungsrahmenprogramm Horizont Europa zu verankern, und bringen eine deutsche Position in die europäische „Strategic Transport Research and Inno­vation Agenda (STRIA) Governance Group“ ein. 
+BMVI: Infrastruktur, Mensch-Maschine-Interaktion, Organisation des Straßenverkehrs/Verkehrsmanage­ment (auch unter Einsatz von KI), Kooperation und Vernetzung, Gesellschaftliche Aspekte, Erprobung im Straßenverkehr 
+BMWi: Systemische Aspekte des Transportmittels, Neue Hard- und Software-Architekturen, Sicherheit von Systemen des autonomen Fahrens, KI-Verfahren für hochautomatisiertes Fahren, Datenfusion und -verarbeitung, Testverfahren und Validierung 
+3.3  Weitere Programmgestaltung unter Einbeziehung aller Stakeholder 
+3.2  Eckpunkte der Zusammenarbeit der Ressorts 
+Um die zukünftige programmatische Gestaltung der Förderung der Ressorts auf eine möglichst breite Wis­sensbasis zu stellen, werden folgende Veranstaltungen zum engen Informationsaustausch mit Wissenschaft und Wirtschaft und zwischen den Ressorts genutzt: 
+Die Zusammenarbeit von BMBF, BMWi und BMVI in der Forschungs- und Entwicklungsförderung zum autonomen Fahren orientiert sich an den folgenden Eckpunkten: 
+[Page #8]
+EIN GEMEINSAMER RAHMEN FÜR DIE FORSCHUNG ZUM AUTONOMEN FAHREN 
+7 
+Ressortrunde Automatisiertes und vernetztes Fahren Grundsätzliche und übergreifende Fragen des autono­men Fahrens werden in der durch das BMVI geführten Ressortrunde Automatisiertes und vernetztes Fahren behandelt. Im Vordergrund stehen der Informations­austausch und die Abstimmung aller mit dem Thema befassten Ressorts. Die Ressortrunde bietet auch die Gelegenheit, sich über die Planungen zur Forschungs­förderung im Bereich autonomes Fahren der verschie­denen Häuser auszutauschen. 
+Forschungskooperation. Neben der deutsch-japani­schen Forschungskooperation zum autonomen Fahren bestehen Kooperationen zum automatisierten und ver­netzten Fahren mit Frankreich, Luxemburg, und China. Diese umfassen Testfelder, Erprobung und Standards. Zudem findet neben der Zusammenarbeit auf EU-Ebene (Hochrangiger Strukturdialog) auch ein enger Austausch im Rahmen der G7-Verkehrsminister statt. 
+Runder Tisch Automatisiertes Fahren Der vom BMVI eingerichtete Runde Tisch ermöglicht als fachpolitisches Gremium einen engen Austausch von Wirtschaft, Wissenschaft, Verbänden und Verwal­tung und bündelt erforderliches Know-how so, dass ein breiter Konsens zu allen relevanten Aspekten der Fahrzeugautomatisierung hergestellt werden kann. 
+Dialogforum Forschung für das automatisierte und vernetzte Fahren Um den Fachdialog bei der Ausgestaltung des Aktions­plans „Forschung für autonomes Fahren“ zu intensivie­ren, wird das „Dialogforum Forschung für das automa­tisierte und vernetzte Fahren“, das alternierend durch BMWi, BMBF und BMVI einberufen wird, eingerichtet. Das Dialogforum führt Expertinnen und Experten aus Wissenschaft und Wirtschaft sowie Vertreterinnen und Vertreter der Ressorts regelmäßig zur Identifikation und Beratung von relevanten FuE-Themen zusammen. 
+Nationale Plattform Mobilität der Zukunft Darüber hinaus findet ein Austausch mit Vertretern aus Wissenschaft und Wirtschaft sowie weiteren Akteuren in der Nationalen Plattform „Zukunft der Mobilität“ (NPM) statt. Ziel der NPM ist die Entwicklung von verkehrsträgerübergreifenden Lösungsansätzen für eine nachhaltige, bezahlbare und klimafreundliche Mobilität. In der Arbeitsgruppe 3 werden die Themen Digitalisierung, autonomes Fahren und neue Mobili­tätskonzepte behandelt. 
+Tagung „Forschung und Technologie für automati­siertes und vernetztes Fahren“ Das zentrale Austauschforum für alle Akteure in der Forschung zum autonomen Fahren ist die Tagung „For­schung und Technologien für automatisiertes und ver­netztes Fahren“, die jährlich gemeinsam von BMBF und BMWi und perspektivisch mit vom BMVI organisiert wird. Sie dient dazu, den aktuellen Stand der Forschung und Entwicklung in Deutschland zu präsentieren, und soll die Vernetzung aller Akteure unterstützen. 
+Plattform Lernende Systeme Im Rahmen der „Plattform Lernende Systeme“ werden die Chancen, Herausforderungen und Rahmenbe­dingungen für die Entwicklung und den verantwor­tungsvollen Einsatz Lernender Systeme behandelt. Ein Schwerpunkt ist der Einsatz von Verfahren der Künst­lichen Intelligenz (KI) in der Mobilität bzw. das auto­nome Fahren im Kontext einer Gesamtbetrachtung der Mobilität. 
+3.4  Austausch mit anderen Gremien 
+Zahlreiche weitere Aktivitäten der Ressorts im Umfeld des autonomen Fahrens ermöglichen einen Abgleich und eine kontinuierliche Weiterentwicklung der In­halte des Forschungsrahmens, sowie die Präsentation dieser Entwicklung in einem weiteren Rahmen. 
+Internationale Forschungskooperationen Ein wichtiges Element für die Förderung des autono­men Fahrens ist die europäische und internationale 
+[Page #9]
+8 
+AKTIONSPLAN „FORSCHUNG FÜR AUTONOMES FAHREN“ 
+4  Beispiele aktueller Forschungsthemen
+Jahren auch den neuen Schwerpunkt im Programm bilden. 
+Das BMBF fördert die Forschung zum autonomen Fahren seit 2015 innerhalb einer „Forschungsagenda autonomes Fahren“. Gegenstand sind u.a. Sicherheits­technologien für das autonome Fahren, zuverlässige Elektronik und Sensorik, neue Technologien zur Kom­munikation mit schwächeren Verkehrsteilnehmern und für die IT-Sicherheit. Seit kurzem bilden Anwen­dungen der künstlichen Intelligenz einen weiteren Schwerpunkt der Förderung. 
+Die Programmsäule Innovative Fahrzeuge umfasst die Themen neuartige Fahrzeugkonzepte und -technologi­en sowie moderne Antriebstechnik, die dazu beitragen, einen wirtschaftlichen, energieeffizienten, schadstoff­armen und leisen Verkehr zu befördern. 
+PEGASUS und IMAGinE Das Forschungsprojekt PEGASUS z. B. soll die Grundlagen für die Entwicklung von Testmetho­den für hochautomatisiertes Fahren speziell auf Autobahnen bis Tempo 130 Kilometer pro Stunde schaffen (Laufzeit 01/2016 – 06/2019, 16,3 Mio. Euro Förderung). Im Großverbundprojekt IMAGinE (Intelligente Manöver Automatisierung – kooperati­ve Gefahrenvermeidung in Echtzeit) sollen innovati­ve Assistenzsysteme für das „kooperative Fahren der Zukunft“ entwickelt werden (10 Partner, Laufzeit 09/2016 – 08/2020, 17,9 Mio. Euro Förderung). 
+UNICARagil Im BMBF-geförderten Projekt UNICARagil werden, ausgehend von neuesten Ergebnissen der For­schung zum autonomen Fahren und der Elektro­mobilität, unter Federführung wissenschaftlicher Einrichtungen vollständig fahrerlose elektrische Fahrzeuge höchster Automatisierungsstufe entwi­ckelt. Die technischen Innovationen liegen unter anderem in einer diensteorientierten elektrisch-/ elektronischen Architektur, hochintegrierten Sen­sorelementen und einem modularen Aufbau von Energieversorgung und Leistungselektronik. Das Projekt vereint sieben Universitäten und sechs Un­ternehmen an zehn Standorten. Das BMBF fördert UNICARagil mit rund 26,0 Mio. € (Projektlaufzeit: 02/2018 – 01/2022). 
+Das BMVI hat 2016 ein Forschungsprogramm zur Automatisierung und Vernetzung im Straßenverkehr (AVF) veröffentlicht. Im Rahmen des Programmes werden verkehrs- und gesellschaftspolitische Themen erforscht. In 2019 wurde eine neue Förderrichtlinie veröffentlicht, die insbesondere auf anwendungsnahe Forschungsvorhaben zur Weiterentwicklung der Mobi­lität und des verkehrlichen Gesamtsystems auch unter Nutzung von Methoden der Künstlichen Intelligenz in städtischen und in ländlichen Gebieten zielt. 
+Das BMWi Förderprogramm „Neue Fahrzeug- und Systemtechnologien“ (NFST) adressiert mit seinen beiden Programmsäulen „Automatisiertes Fahren“ und „Innovative Fahrzeuge“ zwei große Herausforde­rungen der Automobilindustrie: Digitalisierung sowie neue Antriebe und Fahrzeugkonzepte. Die Projekte sind als Kooperationen von Autobauern, Zulieferern und Forschungsinstitutionen angelegt, die vorwettbe­werbliche, anwendungsnahe Ergebnisse liefern. Dabei sind über Jahrzehnte hinweg aufeinander aufbauende Leuchtturmprojekte gefördert worden, die regelmä­ßig zu erfolgreichen Marktinnovationen beigetragen haben. Momentaner Schwerpunkt der Förderung sind Methoden und Verfahren zur Absicherung (Sicherheit) der neu entwickelten Funktionen. Höhere Automatisie­rungsgrade (bis hin zum autonomen Fahren) erfordern aber zwingend komplexe Systeme aus dem Bereich der künstlichen Intelligenz. Daher wird KI in den nächsten 
+PROVIDENTIA Ziel des vom BMVI im Rahmen des AVF-For­schungsprogrammes geförderten Projekts PROVI­DENTIA ist es, der Fahrerin bzw. dem Fahrer und bei einem hochautomatisierten Fahrzeug dem Fahr­zeug selbst, einen möglichst umfassenden Blick auf die vorausliegende Strecke zu ermöglichen. Der Vo­rausblick soll zuverlässig, situationsangepasst und auch unter widrigen Umweltverhältnissen funktio­nieren, wobei Informationsüberfrachtung vermie­
+[Page #10]
+BEISPIELE AKTUELLER FORSCHUNGSTHEMEN 
+9 
+den wird. Er soll bei Tag und Nacht und auch bei widrigen Umweltverhältnissen möglich sein. Das komplexe Abbild der Umwelt, das dem Vorausblick zugrunde liegt, wird mit Hilfe von Sensorik an der Fahrbahn (z. B. Kameras, Radar) und mit Sensorik in den vernetzten Fahrzeugen (z. B. Kameras, Lidar) erzeugt und über das verbindende Mobilfunknetz kommuniziert. In Rechnersystemen der Infrastruk­tur (Backend) wird durch Datenfusionsverfahren ein möglichst genauer und jederzeit aktueller „digitaler Zwilling“ erzeugt. Aus diesem sind alle für das Fahr­zeug relevanten Informationen ableitbar. Dadurch wird eine Visualisierung in manuell geführten und in teilautomatisierten Fahrzeugen ermöglicht. Für die Steuerung hochautomatisierter Fahrzeuge liefern diese Informationen einen wesentlichen Bei­trag. Das Vorhaben wird auf dem Digitalen Testfeld Autobahn umgesetzt. Projektlaufzeit: 12/2016 – 06/2019; BMVI-Förderanteil: 6,09 Mio €. 
+[Page #11]
+None
+[Page #12]
+Impressum 
+Diese Publikation wird als Fachinformation des Bundesministeri­ums für Bildung und Forschung, des Bundesministerium für Wirtschaft und Energie sowie des Bundesministerium für Verkehr und digitale Infrastruktur kostenlos herausgegeben. Sie ist nicht zum Verkauf bestimmt und darf nicht zur Wahlwer­bung politischer Parteien oder Gruppen eingesetzt werden. 
+Herausgeber Bundesministerium für Bildung und Forschung (BMBF) Referat Elektronik und autonomes Fahren 53175 Bonn 
+Bundesministerium für Wirtschaft und Energie (BMWi) Referat Digitalisierung, Industrie 4.0 11019 Berlin 
+Bundesministerium für Verkehr und digitale Infrastruktur (BMVI) Referat Automatisiertes Fahren, Intelligente Verkehrssysteme 10115 Berlin 
+Stand Juli 2019 
+Gestaltung VDI/VDE-IT, Berlin 
+Bildnachweis iStock/metamorworks (Titel) 
+Text BMBF, BMWi und BMVI 
+[Page #13]
+bmbf.de bmwi.de bmvi.de 

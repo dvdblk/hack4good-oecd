@@ -1,0 +1,518 @@
+[Page #0]
+R&D People and Culture Strategy People at the heart of R&D 
+July 2021 
+[Page #1]
+© Crown copyright 2021 
+This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3 or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: psi@nationalarchives.gsi.gov.uk.  
+Where we have identified any third-party copyright information you will need to obtain permission from the copyright holders concerned. 
+Any enquiries regarding this publication should be sent to us at:  researchpeopleandculture@beis.gov.uk
+[Page #2]
+Contents 
+Foreword by the Science Minister  ______________________________________________  4 
+Executive Summary _________________________________________________________  5 
+Government commitments __________________________________________________  5 
+Introduction  ______________________________________________________________  10 
+Our Vision and Approach ____________________________________________________  14 
+Goals  _________________________________________________________________  14 
+Making our vision a reality  _________________________________________________  14 
+People  __________________________________________________________________  16 
+Culture __________________________________________________________________  22 
+Talent ___________________________________________________________________  31 
+Building our understanding___________________________________________________  35 
+Making it a reality __________________________________________________________  36 
+Our approach to implementation  ____________________________________________  36 
+. 
+3 
+[Page #3]
+R&D People and Culture Strategy 
+Foreword by the Science Minister 
+Hello! I am delighted to be launching this very important People and Culture Strategy. It has been wonderful to talk to so many talented people from across the breadth of the Research and Development (R&D) sector over the last few months as we have been developing our plans. 
+As the UK Science Minister, I am privileged to see first-hand how it takes a brilliant and diverse mix of people from all walks of life to build the world-class research and innovation teams we have in the UK. This has fuelled my desire for everyone working in R&D to be able to enjoy a fulfilling and sustainable career and for our research culture to be as inclusive and supportive as possible. 
+When the government published its R&D Roadmap last year, we set out our bold and ambitious vision to make the UK a global science superpower, which is supported by our commitment to the fastest ever increase in public funding in R&D over the coming years. Since then, our appreciation of the vital importance of science and innovation has only grown. With the publication of our Innovation Strategy, we are articulating an exciting and bold vision to put R&D at the forefront of our future as a nation - improving our health and wellbeing, increasing our prosperity, and achieving shared goals such as reducing our net carbon footprint to zero. 
+Most important to me, however, is that we recognise that people are at the heart of great R&D. I am so passionate about the talent, drive and creativity of the many people and teams doing inspirational things every day in R&D. From researching and manufacturing vaccines across the UK, to building our resilience against climate change, and everything in between. 
+As your minister, I have heard loud and clear that there are long-standing issues surrounding people and culture within our R&D sector, and I know that the pandemic has brought these into sharp relief. That is why, as we build back better, I want this to be the moment that we build on the great work being done by so many incredible people and institutions to create the lasting change we all want to see. 
+This is not a change that we can achieve with the flick of a switch or by government action alone. It will take a concerted and sustained effort from all of us: government, funders, industry, academia and everyone as individuals. I really believe we can and must all buy into a whole sector vision for change, and I am pleased that government is leading the way with clear commitments. 
+It is why I am delighted that we are publishing this R&D People and Culture Strategy. It sets out this vision and it is our call to action; now let’s make it a reality. 
+Amanda Solloway MP  
+Minister for Science, Research and Innovation 
+4 
+[Page #4]
+R&D People and Culture Strategy 
+Executive Summary 
+The UK is already a global leader in R&D and is exceptionally well placed to build on this position. This government will oversee the fastest ever increase in public funding for research and development over the coming years, to cement our position as a global science superpower. This will put science, research and innovation at the centre of our prosperity, our health and wellbeing, our mission to achieve net zero, and our place in the world.  
+People are at the core of R&D, so there is nothing more important than how we attract, develop, and retain enough people within research and innovation to meet this ambition. We need to unleash a new wave of talent: attracting, developing and retaining diverse people with the right skills, working in an environment that nurtures and gets the best out of everyone.   
+Through this strategy we will set out actions that will bring the best out of people and enable talent and ideas to flow freely between academia, business and other sectors. We will ensure that everyone’s contribution is valued, and the UK has an outstanding research culture that truly supports discovery, diversity and innovation, and offers varied and diverse careers that bring excitement and recognition. 
+This R&D People and Culture Strategy is a call to action. It sets out, for the first time, a whole sector vision, backed by clear government commitments. It builds on all the work already being done by people and institutions across the sector to make the UK a truly great place for research and innovation, and invites the sector to work with us to drive lasting change. 
+Government commitments 
+This strategy sets out how we will lead the charge with an ambitious set of initial actions in our three priority areas: 
+•  People 
+•  Culture 
+•  Talent 
+People: Redefining what it means to work in R&D in the 21st Century  
+To match our ambitions for R&D we estimate the R&D sector will need at least an additional 150,000 by 2030 to sustain the UK’s target of 2.4% research and development intensity1. This means attracting and retaining people of all ages and at all career stages into R&D roles. 
+1 Includes researchers and technicians across public, industrial and all other sectors. This is contingent on the UK’s target to spend 2.4% of GDP on R&D by 2027.  
+5 
+[Page #5]
+R&D People and Culture Strategy 
+Career paths and routes into R&D careers need to be broadened and made more stable as part of this, and barriers to mobility across the sector and disciplines need to be removed – particularly for those wanting to return to academia. Leaders at all levels need to have the right skills to support their teams in developing their careers, and to lead them through major transitions and transformations. 
+Outcomes 
+•  Attracting enough people with the right skills, across all roles  
+•  Dynamic, varied and sustainable career paths  
+•  Great leadership skills at all levels 
+In the short term, we will:  
+•  develop a New Deal for post-graduate research students, starting later this year with a 
+cross-sectoral consultation led by UK Research and Innovation (UKRI).  
+•  conduct a review of youth engagement and its impacts to encourage more, and more 
+diverse, young people into research and innovation careers.  
+•  provide support for flexible, cross-sector training programmes to encourage more movement & collaboration between academia, industry and the third sector.  
+•  better support interdisciplinary approaches, and design a pilot to help researchers 
+acquire skills and knowledge beyond their own discipline.  
+•  ask UKRI to undertake a review of how they use expert peer review. This will examine 
+the incentives, strengths and weaknesses of the current approach to identify improvements which would positively impact on the culture of, and people working in, R&D. 
+• 
+initiate a review of the impacts of the approach to funding under the full economic cost regime for research grants, with a focus on the pressures it may create for research organisations. 
+•  ensure leadership and management skills are actively developed and supported in 
+talent programmes and in grant holders’ terms. 
+•  support the UK National Academies to set up a ‘Young Academy’, and an 
+interdisciplinary forum for early career researchers.   
+In the longer term: We need to work across the sector to identify where there are skills gaps, anticipate future needs, and ensure we have the workforce to match the UK’s R&D ambitions. As part of this we will look to understand and address the impacts of short-term contracts, which particularly impact on the careers and progression of women and those from disadvantaged backgrounds in research. We will work with the whole sector to grow and diversify the workforce, better support interdisciplinarity and broaden career paths and entry routes (including apprenticeships), thus increasing mobility across the sector and fostering leadership. 
+6 
+[Page #6]
+R&D People and Culture Strategy 
+Culture: Co-creating a vision of the culture we want to see in the sector 
+While the culture of research in the UK has many strengths, this strategy recognises the issues that have been raised and examined in recent years. Several organisations have produced reports on this including by the Royal Society2, the Wellcome Trust3, the Russell Group4 and the Nuffield Council for Bioethics5. Commitments have already been made by government to improve incentives and review important aspects of the funding system. Across the whole sector, there is a strong business case for increasing the diversity of people and ideas and for working in partnership to drive progress based on what works. 
+Outcomes 
+•  A positive, inclusive and respectful culture 
+•  Recognition and reward of all the people and activities that lead to excellent 
+research and innovation 
+•  Bullying and harassment is no longer an issue in the sector  
+•  People feel confident to engage with and contribute to research and innovation 
+•  Frameworks, assessment and incentives at an institutional level that encourage 
+positive behaviours and support an inclusive culture 
+In the short term, we will: 
+•  create a Good Practice Exchange to develop, test, evaluate and highlight ideas to 
+improve culture sourced from the community, bringing together people from across the sector to work creatively. This will look at interventions across talent, bullying and harassment, diversity and inclusion, recruitment, leadership and beyond.   
+•  drive adoption of the ‘Résumé for Researchers’ narrative CV which broadens the range 
+of experiences and accomplishments that are recognised.  
+•  encourage the recently established Forum for Tackling Bullying and Harassment to 
+develop sector-wide definitions for all forms of bullying; and to establish clear guidelines to inform future policy and action. 
+•  develop an ambitious new approach to supporting public engagement with research and 
+innovation, through stakeholder engagement and evidence and insight gathering.  
+•  pilot experimental approaches to public dialogue and community-led research and 
+innovation.   
+2 The Royal Society: The research and technical workforce in the UK (2021) 3 Wellcome Trust: What researchers think about the culture they work in (2020) 4 Russell Group: Realising Our Potential: Backing Talent and Strengthening UK Research Culture and Environment (2021) 5 The Culture of Scientific Research in the UK: www.nuffieldbioethics.org/publications/the-culture-of-scientific-research (2014) 
+7 
+[Page #7]
+R&D People and Culture Strategy 
+•  work closely with the current review of Bureaucracy in R&D led by Professor Adam 
+Tickell, to ensure changes to systems and processes encourage the positive culture we want to see.  
+•  ensure that the Future Research Assessment Programme builds on the ambitions and 
+actions set out in this strategy.   
+•  support Open Access policy, incentivising best practice as part of the wider open 
+research ambition.    
+In the long term: We will create lasting change by working with the sector to embed a culture that welcomes and values difference, brings people from various backgrounds with various lived experiences into the research and innovation system and increase its accessibility. We will support development of a more inclusive and welcoming research culture through a review of existing concordats and accreditations to ensure that they drive positive change while minimising bureaucracy. 
+Talent: Renewing the UK’s position as a global leader in R&D by attracting, retaining and developing talented people  
+The UK must retain and extend its position as a collaborator and destination of choice with a strong and compelling offer to both international and domestic talent – including those at the top of their field. The UK research base is well recognised for its strong collaborative nature as shown by international comparisons where the UK ranked second on the percentage of international co-authored papers6. As global competition for talent intensifies, we recognise that there are areas of research and career stages where support can be improved.   
+Outcomes 
+•  People from all backgrounds are inspired into careers in research and innovation 
+by the UK’s talent offer  
+•  The UK will be the most exciting place in the world for top research and 
+innovation talent 
+In the short term, we will: 
+• 
+review our funding offer to globally mobile talent, to retain, attract and support the very best researchers, innovators and their teams, opening up opportunities for talented people to pursue ambitious, long-term goals in the UK.  
+•  work with funders and the research and innovation community to co-design a joined-up talent offer, open to the diversity of people and across all career stages, connecting sectors, disciplines and working cultures.  
+6 International Comparison of the UK Research Base 2019, GOV.UK, 10 July 2019 
+8 
+[Page #8]
+R&D People and Culture Strategy 
+•  work with the Office for Talent to launch an online service to attract highly skilled, 
+international talent, providing key information on the UK offer and making it easier to come to the UK.  
+•  drive reforms to improve high skilled migration routes for innovators and entrepreneurs and top talent looking to build careers in the UK, including expansion of the UKRI short-term mobility scheme. 
+•  strengthen the evidence base on the barriers associated with moving to the UK and 
+their impact on researchers, their teams and their families, and their career decisions.  
+In the longer term: We will need to fully identify and better define where there might be gaps in the UK’s talent offer so that we can develop appropriate programmes, including a New Deal for postgraduate research students to attract and retain talented people within the sector and support the flow of people and ideas across the R&D system.    
+9 
+[Page #9]
+R&D People and Culture Strategy 
+Introduction 
+Research and innovation are key to the future prosperity of the UK. Just as the discoveries of the past have led to the technologies that support us in our lives today, so the research currently being undertaken will bring us solutions to the challenges we face now and in the future. But to maintain this progress we need to ensure that our businesses and research institutions have the people and skills they need. 
+Much of what we need for the future is already in place – we have many brilliant researchers across the UK, doing brilliant work in brilliant organisations. We have 100,000 doctoral students, 76,000 technicians and over 16,000 research delivery staff in the NHS, representing a growing and highly skilled R&D workforce that produces world-leading research outputs and innovations across the breadth of science. We are also improving our immigration system to provide better routes for highly skilled individuals and their teams to come to the UK. 
+But we also know that there is more to do. We know that some disciplines and sectors consistently report that they struggle to find the people and skills they need. To build on our position as a global leader in R&D, we estimate a need for at least an additional 150,000 people in the UK R&D workforce by 2030. We know the earlier stages of research careers can be precarious, particularly for women and those from disadvantaged backgrounds, and we can do more to support our talented people to thrive. We know that career paths and incentives can feel narrow, failing to acknowledge the full range of people and activity needed for great, high-quality research and innovation. And we know that other countries are competing actively for research talent. 
+The pandemic has been the greatest disruption to our lives and livelihoods for a generation. It has had a huge impact on researchers and their work. We have heard from the sector that this is not a moment to stand still - there is a strong appetite for change which this strategy aims to address. In the course of developing the strategy, stakeholder engagement supported by evidence gathering has helped to crystallise a core set of challenges that we will tackle: 
+From (status quo) 
+To (outcomes we want to achieve) 
+People  
+Skills shortages in particular disciplines, sectors, places and roles, for example research managers or technicians.  
+Attracting enough people with the right skills, across all roles. Skills gaps filled. Future needs anticipated. A full pipeline bringing in the research and innovation workers of the future. 
+10 
+[Page #10]
+R&D People and Culture Strategy 
+Narrow career paths in R&D encourage fierce competition. Low awareness of the variety of career opportunities, precarity at early career stages and difficulty in securing long-term roles & moving between sectors, roles and disciplines. 
+Dynamic, varied and sustainable career paths that allow movement across the system – especially between academia and other sectors, including business, the third sector and public sector. 
+There is a variable quality of leadership practice and models of leadership that need to change to bring about wider culture change and enable the sector to get the best out of everyone.   
+Great leadership skills at all levels, making the sector fit for the challenges it faces and enabling a positive and inclusive culture.  
+Culture  
+There is a positive, inclusive and respectful culture that attracts a diversity of people to work and thrive in R&D in the UK and encourages them to stay. 
+A research culture which is not seen as open and inclusive puts off and drives out talent, preventing individuals from producing their very best work. 
+Everyone working in research is encouraged to excel by clear recognition and reward of all the people and activities that lead to excellent research and innovation. 
+Incentives, particularly in academia, that value too narrow a range of contributions, drive undue pressures and undermine research in both its culture and its outputs. 
+Issues with various forms of bullying and harassment, particularly in academia. 
+Bullying and harassment is no longer an issue in the sector because of a strong focus on prevention and tackling the root causes of these behaviours. 
+The sector works with wider society to make sure people feel confident to engage with and contribute to research and innovation. 
+Research, to a large extent, being perceived as an activity separate from the rest of society. This hampers development of an open and collaborative culture. 
+A complex array of frameworks, assessment processes and incentives which have some unintended consequences, lead to unnecessary bureaucracy and hamper positive culture change.  
+Frameworks, assessment and incentives at an institutional level that encourage positive behaviours and support an inclusive culture. 
+11 
+[Page #11]
+R&D People and Culture Strategy 
+Talent  
+Gaps in the UK’s talent offer at different career stages results in a failure to develop and support people with potential throughout their careers and creates a risk that we might lose them from the R&D sector in the UK for good. 
+People from all backgrounds are inspired into careers in research and innovation by the UK’s talent offer that supports them through all career stages. 
+The UK has a strong offer to globally mobile talent, but many nations are centring their recovery on R&D. We need to adapt to increased competition for top global talent. 
+The UK will be the most exciting place in the world for top research and innovation talent to pursue a career, collaborate and enjoy an excellent quality of life. 
+The R&D People and Culture Strategy 
+The R&D Roadmap, published last year, aimed to further strengthen science, research and innovation across the UK, including inspiring and enabling talented people and teams. This R&D People and Culture Strategy fulfils a key commitment of the Roadmap. It builds on the lessons of the last year and will take bold steps to work with change leaders across the sector to instigate long-term change and to make it happen.   
+The strategy both sets out initial actions to address the challenges the sector is facing and charts a long-term direction to help the sector in creating the workforce and working culture it needs. 
+We recognise that as part of this we need more join-up and close collaboration across all parts of the sector: from academia to businesses, charities and others. We currently have more data, and government has more levers, in relation to researchers working in academia. However, we want to drive and support positive change for the whole sector, and want to build the evidence base and involve everyone in making our vision a reality. 
+Government cannot do this alone. Success will depend on the engagement and support of people and organisations across all parts of the sector to achieve the change we all want to see. This builds on the work that many across the sector are already doing where there are fantastic examples of good practice, including work on Research Culture strategies at universities such as Glasgow, Cambridge and Queen’s University Belfast.   
+To maximise its impact, the strategy will need to work across the UK government and the devolved administrations, with businesses, academia, charities and wider society. As such, the strategy supports and works in tandem with wider government activity and recognises devolved responsibilities for R&D policy and wider skills and education policies. Government is also publishing an Innovation Strategy, which examines the UK’s talent needs to support the government’s innovation vision to 2035.   
+12 
+[Page #12]
+R&D People and Culture Strategy 
+This document is a call to action for the sector. It sets out a vision, backed by clear government commitments and builds on the work already being carried out by individuals and institutions across R&D. Together, through this strategy, we will make the UK a truly great place for research and innovation. 
+13 
+[Page #13]
+R&D People and Culture Strategy 
+Our vision and approach 
+The vision for the strategy is: 
+a more inclusive, dynamic, productive and sustainable UK R&D sector in which a diversity of people and ideas can thrive.  
+Goals 
+In order to deliver this vision, action is needed in three key areas: 
+•  People: Redefining what it means to work in R&D in the 21st Century – valuing all the roles that make it a success and ensuring the UK has the capability and capacity it needs.  
+•  Culture: Co-creating a vision of the culture we want to see within the sector - working together to make lasting change happen so that researchers and innovators with diverse backgrounds and ways of thinking can thrive and do their best work here.  
+•  Talent: Renewing the UK’s position as a global leader in R&D in attracting, retaining and developing talented people, making sure careers in UK R&D are attractive to talented individuals and teams both domestically and internationally.  
+Making our vision a reality 
+The strategy charts a long-term course for the sector and making progress will require people, institutions, businesses, funders, representative bodies, charities and government across the UK to work together.   
+As a starting point, the strategy sets out a plan for government action as part of a first tier of interventions. However, alongside this we need much wider recognition of key issues and a willingness on the part of all leaders in the sector to work together to build momentum and drive lasting change. 
+14 
+[Page #14]
+R&D People and Culture Strategy 
+In the next three chapters we set out the detail of the strategy, explaining more about the issues we need to tackle and the initial actions we intend to take. These commitments cannot on their own deliver the long-term change set out in the strategy’s vision and goals. On many issues, we recognise that there is already a consensus within the sector on the need for change. There are also many examples of good practice to build on where institutions, groups and individuals have sought to drive progress. This strategy is an invitation to everyone in the sector to commit to further action and drive lasting change. 
+15 
+[Page #15]
+R&D People and Culture Strategy 
+People  
+Redefining what it means to work in R&D in the 21st Century – valuing all the roles that make it a success and ensuring the UK has the capability and capacity it needs. 
+To realise our science superpower ambitions and to maximise the social and economic benefits of our investment in R&D across all parts of the UK, we need a sector that is able to attract, retain and grow a workforce with the right skills and in the right numbers.  
+There is constantly growing demand for R&D skills, both in the UK and in competitor economies. Between 2008 and 2018 the number of researchers and technicians in the UK increased by 100,000. But to match our ambitions we need more. We estimate the R&D sector will need at least an additional 150,000 by 2030 to sustain the UK’s target of 2.4% research intensity7. 
+To do this we must work together to diversify and widen routes into R&D and inspire people from all backgrounds to consider careers in the sector. But we must also ensure that people want to stay in R&D by creating a positive working environment. We must address precarity, particularly for women and people from disadvantaged backgrounds, make sure careers are rewarding and offer long-term prospects for people at every stage of their careers and lives. We must also take account of all the roles and contributions which make R&D successful, and better support innovative and interdisciplinary approaches.  
+Finally, we have to ensure we enable everyone to achieve their potential. Great leadership at all levels is key to unlocking this potential.   
+In order to achieve our goals for People, therefore, we must tackle the issues of: 
+•  Skills shortages 
+•  Narrow career paths in R&D 
+•  Variable quality of leadership practice 
+Attracting enough people with the right skills, across all roles 
+From (status quo) 
+To (outcomes we want to achieve)  
+Skills shortages in particular disciplines, sectors, places and roles, for example research managers or technicians.  
+Attracting enough people with the right skills, across all roles. Skills gaps filled. Future needs anticipated. A full pipeline bringing in the research and innovation workers of the future  
+7 Includes researchers and technicians across public, industrial and all other sectors. This is contingent on the UK’s 2.4% spending target. 
+16 
+[Page #16]
+R&D People and Culture Strategy 
+The need for R&D workers is growing faster than the UK workforce as a whole. There are identified skills shortages in several sectors and places as well as in particular roles, for example technicians and engineers. A report by the Industrial Strategy Council highlighted that demand for highly skilled labour will increase as R&D and innovation become critical in a future tech-led economy.8 As well as this, there is increasing need to enable people and ideas to move between business, academia and other parts of the system.   
+We need to do more to address current skills gaps in good time, anticipate future needs in both business and academia, and ensure we are building the workforce the UK needs. This will require long-term, joined-up planning across the whole of the system including academia and further education, business, government and third sector, informed by good evidence. We will build on existing work and expertise. For example, the recent Catapult Review9 recommended a formal role for Catapult Centres in understanding and addressing future skills needs.  
+In the longer term, this means continuing to encourage a greater number and wider diversity of young people from all parts of UK to consider careers in research and innovation. We will also need to review career structures and enhance the attractiveness of the offer at different career stages for different roles and for people of all ages. This will take account of the impact of technological changes which drive the demand for different skills.  
+Government will work with UKRI, Devolved Administrations, our publicly funded research institutions, the National Academies, employers and sector bodies to ensure that training at all levels meets the needs of everyone in our R&D workforce, including technical and postgraduate routes.  
+In the short term, we will:  
+•  develop a New Deal for post-graduate research students, starting later this year 
+with a cross-sectoral consultation led by UKRI.  
+Postgraduate training has an essential role to play across the system and we will build on the good work across the sector to continuously improve and ensure the right capabilities are developed. This year, with UKRI, we will begin long-term work on a New Deal for postgraduate research students. Through cross-sectoral consultation we will consider how these students are supported and developed both practically and financially. This work will address the issues that contribute to precarity in early careers, and prepare students for rewarding careers across the whole economy. The support provided through the New Deal should also enable a more diverse range of potential students to consider careers in research. 
+•  conduct a review of youth engagement and its impacts to encourage more, and 
+more diverse, young people into research and innovation careers.  
+There are many inspiration programmes that encourage young people to study relevant subjects and consider careers in research and innovation. As well as those managed by UKRI, 
+8 UK Skills Mismatch in 2030, Industrial Strategy Council, October 2019 9 https://www.gov.uk/government/publications/catapult-network-review-2021-how-the-uks-catapults-can-strengthen-research-and-development-capacity 
+17 
+[Page #17]
+R&D People and Culture Strategy 
+there are programmes run by the Scottish Government10, commercial providers and research-intensive businesses. Employers across the UK are important partners too, for example, through the Defence STEM Youth Engagement Strategy, the Ministry of Defence has over 1000 STEM Ambassadors and provides a wide range of STEM activities working with strategic partners including STEM Learning. There are also initiatives to learn from such as Tomorrow's Engineers Code managed by Engineering UK that helps ensure these programmes contribute to a sustained and rich STEM journey for all young people. In the first instance, UKRI will review its core STEM Inspiration programmes including STEM Ambassadors and the CREST awards, to ensure they reflect the most effective approaches. 
+Dynamic, varied and sustainable career paths 
+From (status quo) 
+To (outcomes we want to achieve) 
+Narrow career paths in R&D encourage fierce competition. Low awareness of the variety of career opportunities, precarity at early career stages and difficulty in securing long-term roles and in moving between sectors, roles and disciplines. 
+Dynamic, varied and sustainable career paths that allow movement across the system – especially between academia and other sectors, including business, the third sector and public sector. 
+Across the nations and regions of the UK we have significant strengths in all disciplines, and in all parts of the sector. However, there is scope to widen entry routes into and improve the circulation of people and ideas across the R&D system. In particular, it can be difficult to return to academia after spending time in business, or on a career break. The perception that there is no way back discourages movement out of academia and impedes the exchange of knowledge and good practice. Also, it may not always be clear that changing discipline, or working across disciplines, is possible and welcomed.  
+We need to ensure that assessment and incentives take into account everything that contributes to excellent research and innovation, in industry as well as academia. These incentives must also encourage positive behaviours to build the inclusive culture we are aiming for. As part of this strategy, we will encourage greater use of narrative CVs, in particular the Résumé for Researchers (set out in more detail in the Culture chapter). This will help to diversify career pathways, particularly in academia where there is too often a focus on the individuals who lead research teams. We recognise the impact of and are building on the existing schemes offering placements in business as part of career development and training. 
+The UK’s research organisations, particularly universities and research institutes, have been highly effective in utilising diverse funding streams. But the demands of different funders and 
+10 https://www.scdi.org.uk/yesc/ 
+18 
+[Page #18]
+R&D People and Culture Strategy 
+the need to continually compete for funding has increased the burden of bureaucracy on researchers. We need to better understand how the structure of funding for UK research affects its sustainability and resilience to shocks and how it influences the culture and behaviours of the people working in it.  
+The constant competition for funding also increases precarity, particularly at early career stages, and increases the difficulty of securing long-term roles. This precarity in the early stages of their career, particularly in academia, is often exacerbated by team structures and the short-term contracts that typify post-doctoral research roles. This working environment can put off many - particularly women and those from less advantaged backgrounds - from pursuing long-term careers in research. This impacts on the retention of key staff and on the wellbeing and diversity of people in the sector. People may be driven to consider other careers to increase financial security and enjoy a more stable family life. 
+While the structure of research funding may have a significant role in this, we must address all factors that contribute to this situation, funding, university employment practices and wider working environment.  
+In the short term, we will: 
+•  Provide support for flexible, cross-sector training programmes to encourage 
+more movement & collaboration between academia, industry and the third sector.  
+These programmes take diverse approaches to combine research and innovation in a real-world environment providing the skills and understanding to work across sectors, encouraging a greater flow of people between academia, industry and the third sector. This builds on a wider set of activities across the sector including programmes such as the Royal Academy of Engineering’s Industrial Fellowships, Royal Society’s Industry Fellowships and the Academy of Medical Science’s Future Leaders in Innovation, Enterprise and Research (FLIER) programme which encourages collaboration across academia, industry, the NHS and policy organisations. 
+This aligns with our wider focus on increasing support for entrepreneurial skills, especially in the academic sector. In the longer term, we will work with the sector to develop a range of measures to ensure people with brilliant innovations can better understand how to get investment, networks of contacts, scaling support, and other key business skills.   
+•  Better support interdisciplinary approaches, and design a pilot to help researchers acquire skills and knowledge beyond their own discipline.  
+UKRI and other funders are increasingly making use of grant calls – open calls or challenge themed – where interdisciplinary proposals are vital. We want to encourage employers and funders to go further to support researchers who want to take their skills and experience into new areas. We will encourage funders to ensure criteria for grants are supportive of interdisciplinary and intersectoral research and researchers moving between fields. Beyond that, there are already a number of approaches that could be used including flexible seed funding, support for ‘sandpit’ or network events, discipline hopping schemes, and flexible, cross-sector training programmes. As a next step, we will design a pilot to help researchers 
+19 
+[Page #19]
+R&D People and Culture Strategy 
+acquire skills and knowledge beyond their own discipline, so that they can drive new and innovative interdisciplinary approaches.  
+•  ask UKRI to undertake a review of how they use expert peer review. This will 
+examine the incentives, strengths and weaknesses of the current approach to identify improvements which would positively impact on the culture of, and people working in, R&D. 
+UKRI will review its approach to peer review, building the evidence on the ways researchers experience the process as applicants, reviewers and assessors. They will ensure their process and systems are easy to work with and minimise unnecessary bureaucracy. UKRI will do this by exploring the principles, policies and processes underpinning peer review. This is with the aim of ensuring they remain fit for purpose and support the highest quality projects and ideas.    
+• 
+initiate a review of the impacts of the approach to funding under the full economic cost regime for research grants, with a focus on the pressures it may create for research organisations. 
+We will improve our understanding of how the current approach to funding impacts on financial sustainability and decision making in research organisations. We will look at full economic cost alongside work on other sustainability considerations, including UKRI’s ongoing responsibility to advise Ministers on the balance of funding through the dual support system. The financial sustainability of research organisations is an important underpinning to the success of this strategy. It can enable greater stability of employment and greater flexibility in terms of opportunities available to develop research careers.   
+Great leadership skills at all levels 
+From (status quo) 
+To (outcomes we want to achieve) 
+There is a variable quality of leadership practice and models of leadership that need to change to bring about wider culture change and enable the sector to get the best out of everyone.  
+Great leadership skills at all levels, making the sector fit for the challenges it faces and enabling a positive and inclusive culture. 
+People are often promoted to leadership roles because of their expertise and reputation within their field. Less consideration is given to the skills and behaviours needed for leadership of people and teams. People look to leaders for a response to challenges, crisis points and in major transformations, and these require new approaches and new capabilities. This is an issue on which there is progress but there are also too many examples of poor leadership practice throughout the sector, particularly in academia. Leadership shapes culture and drives the overall effectiveness of teams. As well as ensuring progress towards research goals, good 
+20 
+[Page #20]
+R&D People and Culture Strategy 
+leaders support their teams in developing their careers and expertise, and in maintaining their mental health and wellbeing.   
+One survey of UK academic research leaders found that only around a quarter feel fully confident in managing performance (22%) or providing career advice (29%). Just over half (52%) say they would benefit from training or support in managing performance, showing that a large proportion of R&D managers acknowledge the need for upskilling.11 
+Government will ask UKRI to clearly set out their support for leadership development through its programmes and invite other funders to do the same, building on existing good practice such as NIHR’s Future Focussed Leadership Programme. We will ensure technical and non-academic roles are included in this, to nurture a diverse set of leaders and role models. We also need to encourage R&D employers to value and invest in leadership and management development. In addition, we want to give talented researchers, particularly early career researchers, a stronger voice in the way in which UK research, science and innovation is led.  
+In the short term, we will: 
+•  ensure leadership and management skills are actively developed and supported 
+in talent programmes and in grant holders’ terms. 
+We will encourage funders including UKRI to be explicit that leadership and management skills development costs can be claimed in applications for talent programmes and in grant holders’ terms. We will look to integrate an equivalent expectation into grant assessment processes and work with UK funding bodies to recognise the importance of leadership and management skills in the next national research assessment exercise. 
+•  Support the UK National Academies to set up a UK ‘Young Academy’ and 
+interdisciplinary forum for early career researchers.   
+This forum will give talented early career researchers a stronger voice in the way in which UK science is led, and on issues where science has an important contribution to make. It complements existing platforms such as UKRI’s Early Career Researchers Forum and the British Academy early career network.  Alongside this, we will look to go further in how talented early career researchers can interact with and advise government on science, research and innovation policy, and bring new perspectives.   
+11 ‘Principal Investigators and Research Leaders Survey’, Vitae. 
+21 
+[Page #21]
+R&D People and Culture Strategy 
+Culture  
+Co-creating a vision of the culture we want to see within the sector - working together to make lasting change happen so that researchers and innovators with diverse backgrounds and ways of thinking can thrive and do their best work here 
+The cultures of research in the UK, particularly in academia, need to be more inclusive and supportive and show that everyone’s contributions are valued. We need to build on the many aspects of culture where the UK is already strong, such as the long tradition of academic freedom, and together create better cultures across the sector as this will improve R&D careers and outcomes12.  
+Assessment frameworks help shape the culture of research institutions. We need to ensure that they encourage positive research cultures. The frameworks and incentives in the R&D system are seen by many as a key contributing factor to the current concerns about research culture in the UK.    
+Other major areas of concern include diversity and inclusion across the whole sector and bullying and harassment, which has been noted as a significant problem by many academic researchers. Of the factors explored in a 2019 survey, incidents of bullying and harassment were rated as having the most negative influence on research integrity13.  
+We need to tackle these issues to attract and retain a diverse research community, where people can freely pursue their research agenda, where everyone can reach their potential and R&D is a great place to work. This means addressing the cultures and practices which inhibit diversity of thought and drive talented people away from careers in the sector. We will need to improve working cultures overall, to create supportive environments for all. We will consider ways of increasing feedback loops between staff and employers, and encouraging more transparency around academic satisfaction and working cultures. 
+More broadly, we need to tackle the perception that research is the concern only of professional researchers. This is a significant impediment to creating a research culture open to the views of, and collaboration with, the wider public. Seeing R&D as a shared endeavour across society is vital for the health of the sector and can only be really achieved if we act not only for people but with them.  
+To achieve our goals for Culture, therefore, we must tackle the issues of: 
+•  A research culture which is not seen as open and inclusive  
+• 
+Incentives, particularly in academia, that value too narrow a range of contributions 
+•  Bullying and harassment 
+12 ERC: Diversity in Innovation Teams  13 Research Integrity – A Landscape Review, Vitae 2020 
+22 
+[Page #22]
+R&D People and Culture Strategy 
+•  Research, to a large extent, being perceived as an activity separate from the rest 
+of society 
+•  A complex array of frameworks, assessment processes and incentives which have some unintended consequences, lead to unnecessary bureaucracy and hamper positive culture change 
+A positive, inclusive and respectful culture that attracts a diversity of people 
+From (status quo) 
+To (outcomes we want to achieve) 
+There is a positive, inclusive and respectful culture that attracts a diversity of people to work and thrive in R&D in the UK and encourages them to stay. 
+A research culture which is not seen as open and inclusive puts off and drives out talent, preventing individuals from producing their very best work. 
+There is a widespread view that research culture needs to improve. In the last few years, the Royal Society14, the Wellcome Trust15, the Russell Group16  and the Nuffield Council for Bioethics17 amongst others have brought the sector together to examine and recommend approaches to improve academic research culture.   
+While the overall gender gap is slowly narrowing (the proportion of research roles filled by women has increased from 20% to 22% over 5 years18), much faster progress is needed, and significant gender and other inequality remains. For example, only 27% of professor contracts are held by women19. Only 22% of data and AI professionals in the UK are women, and this drops to a mere 8% of researchers who contribute to the pre-eminent machine learning conferences20. In industry overall 22% of researchers are women21. 
+Whilst 3% of higher education researchers are black and 3% of UKRI’s awards to co-investigator in 2018-19 were from Black ethnic groups, which is the same as the UK population overall22, there is much more to do.  Of all professors earning over £61,618, only 0.7% are black23 and 1% of applicants for UKRI’s fellowship programmes were from Black ethnic 
+14 The Royal Society: The research and technical workforce in the UK (2021) 15 Wellcome Trust: What researchers think about the culture they work in (2020) 16 Russell Group: Realising Our Potential: Backing Talent and Strengthening UK Research Culture and Environment (2021) 17 https://www.nuffieldbioethics.org/publications/the-culture-of-scientific-research (2014) 18 The Royal Society: The research and technical workforce in the UK (2021) 19 HESA 20 Turing Institute: Where are the women? Mapping the gender job gap in AI 21 European Commission: Total R&D personnel by sectors of performance, occupation and sex 22 HESA 23 HESA 
+23 
+[Page #23]
+R&D People and Culture Strategy 
+minority groups in 2018-19. Less than 1% of UKRI’s awards to Principal Investigators were from Black ethnic groups in 2018-1924.  
+UKRI grant applicants and awardees with disabilities make up 1-3% of total applicants and awardees for research grants and fellowships over the period 2014-15 and 2018-1925, which is lower than the HESA estimate of university staff with disabilities26 and labour market share27. 
+We recognise that further action is needed to shift the dial on diversity and inclusion, and truly address the underlying causes. As well as taking immediate action, we need to work together across the sector to grow the evidence on what works. The root causes and their effects need teasing apart to ensure what we do is well targeted. This approach will help translate good intentions into targeted, meaningful action across the sector to make the greatest impact. Fostering better research cultures will help address concerns about a lack of diversity in the sector. But further analysis and action will also be needed to address the specific issues facing people with different characteristics.   
+In the short term, we will: 
+•  create a Good Practice Exchange to develop, test, evaluate and highlight ideas to improve culture sourced from the community, bringing together people from across the sector to work creatively. This will look at interventions across talent, bullying and harassment, diversity and inclusion, recruitment, leadership and beyond.   
+This exchange will be a cross-sector partnership, building on the current momentum in the sector and catalysing further activity to improve culture. It will be supported by UKRI and take inspiration from the Forum for Tackling Bullying and Harassment. Wider in scope and ambition, it will bring together key players across the whole sector and from all parts of the UK to provide a focal point for joint projects and action, and the scaling up of good practice. Its work will be based on an evidence building “what works” approach drawing on expertise from across the sector such as that of the Research on Research Institute and the Glasgow Culture Lab.  
+24 In the last 5 years. UKRI: Diversity Data Collection – can this be updated to UKRI-15122020-DetailedEthnicityAnalysisOfFundingApplicantsAndAwardees2014-15to2018-19.pdf as this is the detailed ethnicity report  25 UKRI: Diversity data collection 26 HESA 2017/18 27 ONS Dataset A08: Labour market status of disabled people 
+24 
+[Page #24]
+R&D People and Culture Strategy 
+Recognition and reward of all the people and activities that lead to excellent research and innovation 
+From (status quo) 
+To (outcomes we want to achieve) 
+Everyone working in research is encouraged to excel by clear recognition and reward of all the people and activities that lead to excellent research and innovation.  
+Incentives, particularly in academia, that value too narrow a range of contributions, drive undue pressures and undermine research in both its culture and its outputs. 
+The way research and researchers are assessed in academia is a key driver of its research cultures, determining what is seen to be valued by the system. For individual researchers this is often described as “publish or perish” and emphasises the focus on publication record over other aspects of performance. This means that wider contributions are less recognised and valued and that without a strong publications record, career progress is limited. Researchers who have been out find it hard to get back in from industry, parental leave or a career break. 
+Researchers contribute through valuable activities beyond core research, such as a wide range of knowledge exchange activities and public engagement. For example, one survey found 49% of researchers gave public lectures and 36% worked with teachers and schools, plus a variety of other activities28.  
+We will ensure reward and recognition systems drive excellence, promote academic freedom, and align with our culture vision for diverse and inclusive environments. These incentives must recognise all the contributions required for excellent research and show that who and what is valued is changing. UKRI committed to using the Résumé for Researchers as part of government commitments to reducing bureaucracy announced in September 2020. Wider uptake across the sector will increase its impact. 
+In the short term, we will: 
+•  drive adoption of the ‘Résumé for Researchers’ narrative CV, which broadens the 
+range of experiences and accomplishments that are recognised.  
+The Résumé for Researchers, a narrative CV developed by the Royal Society and UKRI, will allow activities beyond publication record and grants won to be recorded and recognised. This will provide a more rounded picture of an individual’s career, their achievements and overall contribution to R&D. UKRI will be using the Résumé in its processes and will be supporting its use by organisations across the sector.  
+28 Factors affecting public engagement of researchers (Wellcome): Key findings 
+25 
+[Page #25]
+R&D People and Culture Strategy 
+Bullying and harassment is no longer an issue in the sector 
+From (status quo) 
+To (outcomes we want to achieve) 
+Issues with various forms of bullying and harassment, particularly in academia. 
+Bullying and harassment is no longer an issue in the sector because of a strong focus on prevention and tackling the root causes of these behaviours. 
+Although we do not have representative data on the prevalence across the whole of the R&D sector, we know that bullying and harassment levels are too high, and it has been reported as a key concern in academic research in particular.  
+An open survey of researchers29 conducted in 2019 by Wellcome indicated that most of the 4,000 participating researchers had witnessed bullying or harassment at some point in their career, while many had experienced it directly.30 Whilst not a direct comparison, a recent CIPD survey of the wider UK workforce showed 18% of employees observed harassment and 12% experienced it themselves at work between 2016 and 2019; an additional 18% observed bullying and 15% experienced this at work in this three year period31. 
+Lack of clarity in what can be reported, lack of confidence in employers and fear of possible consequences may all contribute to under-use of formal reporting processes. Workplace cultures and current structures and incentives may also be exacerbating these issues.  
+This behaviour has serious impacts on individuals, on organisations, on research integrity, and on productivity. We need to create an R&D system and culture where bullying and harassment, of any type, is unacceptable and successfully stamped out. We need a focus on prevention and creating supportive environments in which these behaviours can be tackled at root. We will also consider what signals government can send to emphasise this message. 
+This will be a theme to be addressed by the Good Practice Exchange. Through this we will build our understanding of behaviours and conditions at the individual, organisational and system level that lead to bullying and harassment. Using this knowledge, and examples of good practice where more progress has been achieved, we will enable the sector to better design, implement and evaluate interventions.  
+Whilst at all times protecting individuals who come forward, we must ensure that organisations in receipt of public funding are subject to appropriate remedial actions if they consistently do not meet expectations concerning bullying and harassment. There are existing frameworks 
+29 76% of the researchers choosing to complete this survey were based in the UK, and there was a broadly even split between junior and senior researchers 30 ‘What researchers think about research culture’, Wellcome; ‘Wellcome – Research Culture’, Shift Learning;  31 Managing conflict in the modern workplace, January 2020, CIPD 
+26 
+[Page #26]
+R&D People and Culture Strategy 
+used, for example, by Wellcome, Cancer Research UK32 and UKRI, but we will consider if further action is needed. 
+In the short term, we will: 
+•  encourage the recently established Forum for Tackling Bullying and Harassment to develop sector-wide definitions for all forms of bullying; and work to establish clear guidelines to inform future policy and action.  
+The Forum for Tackling Bullying and Harassment in Research and Innovation was launched in November 2020. It brings together funding, policy and regulatory organisations, both in the UK and internationally. With a focus on prevention, the forum aims to raise awareness across the sector on healthy research cultures. It shares and disseminates learning and good practice and is exploring the scope for collaboration, so funders’ policies and practices take a consistent approach.   
+People feel confident to engage with and contribute to research and innovation 
+From (status quo) 
+To (outcomes we want to achieve) 
+The sector works with wider society to make sure people feel confident to engage with and contribute to research and innovation 
+Research, to a large extent, being perceived as an activity separate from the rest of society. This hampers development of an open and collaborative culture. 
+Over the last twenty years the sector has made much progress in embedding community and public engagement in research. However, many people still think that R&D is for scientists and researchers and not for them. This view hampers progress towards a more open research culture that everyone can participate in, shape and benefit from. 
+We need to build on existing expertise, to ensure that the R&D system understands and responds to the aspirations and needs of UK citizens. This will require deep, ongoing engagement with the wider public and in particular under-served communities. The sector has many examples of excellent practice such as Glasgow Science Centre’s work with local communities on issues that affect them33, or the British Science Association’s Ideas Fund34, funded by Wellcome. This will support communities in four locations around the UK to work with researchers to develop and test new ideas to improve mental wellbeing. We must build on these so that public engagement becomes embedded across all disciplines. 
+32 https://www.cancerresearchuk.org/funding-for-researchers/applying-for-funding/policies-that-affect-your-grant/policy-on-dignity-at-work-in-research  33 https://www.glasgowsciencecentre.org/learn/community-learning-and-development 34 https://www.britishscienceassociation.org/the-ideas-fund 
+27 
+[Page #27]
+R&D People and Culture Strategy 
+In the short term, we will: 
+•  develop an ambitious new approach to supporting public engagement with 
+research and innovation, through stakeholder engagement and evidence and insight gathering.  
+To break down the barriers between research and innovation and wider society, we need a fundamental transformation in which researchers, policymakers and the public view research and innovation as a collective endeavor of the whole of society. We must engage widely to understand the perspectives and priorities of diverse communities, and co-create the opportunities that research and innovation offers to enrich lives locally, nationally and globally. We will work with the research and innovation community to develop ambitious new policies, ways of working and programmes to support this transformation. 
+•  pilot new approaches to public dialogue and community-led research and 
+innovation  
+For research and innovation to become a shared endeavour across society we need to create more open and inclusive practices that value the knowledge and experience of diverse communities. Alongside supporting Sciencewise35, an ongoing programme of public dialogue on emerging science and technology, we will pilot new ways to involve communities in the development of research and innovation programmes and strategy, with a particular focus on digital engagement. We will also build on the lessons learned from pilot projects on citizen science and local engagement to develop new approaches to empower and support local communities around the UK to explore questions that matter to them. 
+Frameworks, assessment and incentives at an institutional level that encourage positive behaviours 
+From (status quo) 
+To (outcomes we want to achieve) 
+A complex array of frameworks, assessment processes and incentives which have some unintended consequences, lead to unnecessary bureaucracy and hamper positive culture change. 
+Frameworks, assessment and incentives at an institutional level that encourage positive behaviours and support an inclusive culture. 
+The UK has a complex research ecosystem bringing together networks of funders and research organisations to create new knowledge and innovative products. Research organisations (including universities, research institutes and businesses) have been highly effective in navigating this system and taking advantage of varied funding streams.  
+35 https://sciencewise.org.uk/ 
+28 
+[Page #28]
+R&D People and Culture Strategy 
+Whilst they have benefitted from this diversity of funding, the demands of different funders and the need to continually compete for funding has increased pressures and the burden of bureaucracy on researchers. As discussed in previous sections, these pressures (coupled with the narrow focus on grant income and publication record in academic research) can lead organisations and individuals to underplay wider contributions. These pressures can also impact on researchers’ mental health. 
+We need an efficient and effective system that enables strategic decision-making, provides the right incentives and ensures that money flows to the best research and innovation with the least friction possible. We need to better understand how the current funding landscape affects research sustainability and how it influences the culture of research in academia. 
+This means reviewing how research is funded, and what is measured and valued, enhancing its efficiency while minimising unnecessary bureaucracy for researchers and institutions.  
+In the short term, we will: 
+•  work closely with the current review of Bureaucracy in R&D led by Professor Adam Tickell, to ensure changes to systems and processes encourage the positive culture we want to see  
+The frameworks and incentives within the research system help to shape the culture, values and behaviours within the sector. They also impose a bureaucratic burden on those working in the sector. Through the Review of Research Bureaucracy, we will look to ensure that these systems encourage the positive culture we want to see while minimising the bureaucratic overhead.  
+The overarching goal of the Review is to advise on a substantial reduction in unnecessary research bureaucracy in government and the wider sector, supporting our researchers to focus on research and related activities which contribute to a healthy research base. Our ambition is to reduce research bureaucracy so that only essential elements remain, resulting in a major improvement in the quality of the working lives of individuals and teams conducting research. 
+•  Ensure that the Future Research Assessment Programme builds on the ambitions 
+and actions set out in this strategy.  
+The Future Research Assessment Programme is a significant piece of work led by the four UK higher education funding bodies36 and in dialogue with the higher education sector. It aims to explore possible approaches to the assessment of UK higher education research performance.  The programme seeks to understand what a healthy, thriving research system looks like and how an assessment model can best form its foundation. We will work to ensure that alongside delivering excellent research and impact, the programme supports a positive research culture, while simplifying and reducing the administrative burden on the higher education sector. 
+36 Research England, Scottish Funding Council, Higher Education Funding Council for Wales, Department for the Economy, Northern Ireland 
+29 
+[Page #29]
+R&D People and Culture Strategy 
+•  support Open Access policy, incentivising best practice as part of the wider open 
+research ambition  
+UKRI will be publishing an updated open access policy later this summer, aimed at making the outputs of UKRI-funded research freely and immediately accessible. This is part of wider UKRI work to keep the UK at the forefront on research integrity through open research that is accessible, transparent, cooperative and reproducible which are integral to a healthy research culture and environment. 
+30 
+[Page #30]
+R&D People and Culture Strategy 
+Talent 
+Renewing the UK’s position as a global leader in R&D in attracting, retaining and developing talented people, making sure R&D careers in the UK are appealing to talented individuals and teams both domestically and internationally. 
+Across the world, as countries rebuild their economies following the pandemic, the competition for international talent is set to increase, while individual researchers may be more reluctant to move. The UK needs to address this competition for research and innovation talent, taking account of Covid 19 impacts on the UK’s R&D workforce and the changes arising from EU Exit. Both domestic and international talent are vital for the health of the whole UK system. We want to support and develop home grown talent in all parts of the UK and continue to attract individuals and teams from other countries who help to further strengthen UK R&D. This should include people at all career stages whether they are just starting out or are already at the top of their game. Having a strong talent offer that is attractive and supports a range of people to build successful careers in the UK is therefore vital.    
+The UK must renew its position as a collaborator of choice with a strong, compelling offer to both international and domestic talent. The UK research base is well recognised for its strong collaborative nature as shown by international comparisons where the UK ranked second on the percentage of international co-authored papers37. Our institutions have an excellent global reputation, and our strong traditions of academic freedom are well-known and valued. Through the coordinating role of the Office for Talent, work will continue to ensure we address any barriers and promote the UK as a top destination for talented people from around the world.  
+In order to achieve our goals for Talent, therefore, we must tackle the issues of: 
+• 
+failure to develop and support people with potential 
+• 
+increased competition for top global talent 
+People from all backgrounds are inspired into careers in research and innovation by the UK’s talent offer   
+From (status quo) 
+To (outcomes we want to achieve) 
+Gaps in the UK’s talent offer at different career stages results in a failure to develop and support people with potential throughout their careers and creates a risk that we might lose them from the R&D sector in the UK for good. 
+People from all backgrounds are inspired into careers in research and innovation by the UK’s talent offer that supports them through all career stages 
+37 International Comparison of the UK Research Base 2019, GOV.UK, 10 July 2019 
+31 
+[Page #31]
+R&D People and Culture Strategy 
+As competition for talent intensifies, we recognise that there are areas of research and career stages where support can be improved. Post-graduate research students face significant challenges, while the precarity of academic post-doctoral roles creates barriers to those needing greater financial security. The ESRC funded Fit for the Future38 (2020) report on research leadership in the social sciences also highlighted a lack of support for mid-career researchers.   
+We need to provide the right support to talented people throughout their careers, whether they are already in the UK or thinking about a move. This will ensure they consider the UK the best place for them to work and carry out ambitious and cutting-edge research. A great funding offer and an outstanding environment to work in will help us to attract and retain exceptionally talented, globally mobile researchers and innovators. Not just those who work in academia and publicly funded research laboratories and institutes but also in industry and the third sector.  
+In the short term, we will: 
+•  review our funding offer to globally mobile talent, to retain, attract and support 
+the very best researchers, innovators and their teams, opening up opportunities for talented people to pursue ambitious, long-term goals in the UK.  
+We have begun working with partners, including UKRI and the National Academies, to review our capacity to attract and develop the most outstanding research and innovation talent across all career stages. Attracting and retaining these highly sought-after individuals will add to the UK’s strength as a collaborative science superpower. These people bring reputational benefits to their host institutions and ask the bold and creative research questions that extend the frontiers of human knowledge. We are assessing whether there are gaps or shortfalls in our offer, and if so, how they can be addressed. As part of this we will explore whether we should change duration and types of support, including what the role of fellowships can play to deliver better support for talented people and their teams.  
+•  work with funders and the research and innovation community to co-design a 
+joined-up talent offer, open to the diversity of people and across all career stages, connecting sectors, disciplines and working cultures.  
+In addition to reviewing our offer to ‘top’ talent, we will work with partners to strengthen and update the full portfolio of talent programmes across all career stages, addressing recognised gaps. Awards through these programmes send important signals about the skills, experience and behaviours research leaders should be developing throughout their careers. Early career researcher networks, including those offered by British Academy with the Wolfson Foundation and by UKRI, seek to provide wider support for career development. They can also provide participants with opportunities to engage with and influence policy development, and we will look to involve them more actively in future.   
+38 https://esrc.ukri.org/research/future-of-social-science-insights-opportunities-and-expectations/fit-for-the-future-leadership-and-social-sciences/ 
+32 
+[Page #32]
+R&D People and Culture Strategy 
+The UK will be the most exciting place in the world for top research and innovation talent 
+From (status quo) 
+To (outcomes we want to achieve) 
+The UK has a strong offer to globally mobile talent but many nations are centring their recovery on R&D. We need to adapt to increased competition for top global talent. 
+The UK will be the most exciting place in the world for top research and innovation talent to pursue a career, collaborate and enjoy an excellent quality of life. 
+The international flow of workers in research and innovation is a key dimension of international networking and knowledge exchange. Over 70% of UK-based researchers have been involved in international collaboration39 and international mobility is the most important determinant of career progression after academic publications40. Research teams with a balanced mix of domestic and international researchers also tend to be more productive in terms of publication record41.  
+The UK currently presents a strong offer to globally mobile research and innovation talent, but many nations have a focus on R&D and innovation as part of their recovery. We need to make sure that the UK remains attractive and welcoming to the best talent from around the world. As part of this, we will continue to work with our European partners to ensure the success of the UK's association to Horizon Europe. We want every part of the UK to benefit from this opportunity. 
+We need to further encourage mobility (outward as well as inward) and address barriers to inward mobility in particular. The UK is seen as a great place to pursue a research career with an excellent quality of life, but it can be hard to identify funding or employment opportunities. Despite the overwhelmingly positive reception to the introduction of the Global Talent Visa in 2020, the visa system can still be seen as an obstacle with significant bureaucratic and cost barriers especially once family members are factored in42. These cost barriers can be particularly stark for early career researchers and technical professionals. 
+39  https://www.gov.uk/government/publications/performance-of-the-uk-research-base-international-comparison-2016 40 see Table 7 in: https://cdn1.euraxess.org/sites/default/files/policy_library/survey_on_researchers_in_european_higher_education_institutions.pdf  41 Hshiechen et al (2015) show an advantage in publications ad impact of smaller teams with diverse countries compared to larger teams with many national co-authors and fewer countries. https://advances.sciencemag.org/content/1/8/e1500211/tab-pdf 42 Research from the OECD shows that the presence of a visa alone can lead to 30% lower mobility, and the UK has been increasing administrative barriers to immigration of the high skilled compared to Compared to USA, Canada, Australia and New Zealand 
+33 
+[Page #33]
+R&D People and Culture Strategy 
+To direct our efforts and interventions, we also need better data on structural trends in mobility to assess the impact of different factors, such as changes to visa regimes or to the end of free movement of EU researchers. 
+In the short term, we will: 
+•  Work with the Office for Talent to launch an online service to attract highly skilled, 
+international talent, providing key information on the UK offer and making it easier to come to the UK.  
+To support top international research and innovation talent in deciding to make their careers in the UK, we will make the process as seamless as possible. We will develop an online service to provide them with a single source of information and guidance they need: from employment, funding and career opportunities, to navigating the route to the UK. 
+•  Drive reforms to improve high-skilled migration routes for innovators and entrepreneurs and top talent looking to build careers in the UK, including expansion of the UKRI short-term mobility scheme. 
+As announced in the Innovation Strategy, we are also progressing the plan for growth reforms to ensure the UK can attract and retain high-skilled, globally mobile talent, particularly in academia, science, research and technology from around the world. These include a High Potential route to make it as simple as possible for individuals who have demonstrated their potential through graduating from the top international universities to come to the UK, and a scale-up pathway to support UK scale-ups. Additionally, we will revitalise the Innovator route to allow talented innovators and entrepreneurs from overseas to come to the UK to start innovative businesses, creating jobs for UK workers and boosting growth. The new Global Business Mobility visa will also allow overseas businesses to transfer staff more quickly, allowing innovative companies to expand here, drawing on top talent from around the world.  
+We also plan to expand the UKRI short-term mobility scheme, welcoming international researchers who want to spend a short time in the UK. 
+•  Strengthen the evidence base on the barriers associated with moving to the UK and their impact on researchers, their teams and their families, and their career decisions. 
+Understanding how the visa regime impacts on users and how changes have affected their experience will be important for driving further improvements. In the R&D Roadmap, we committed to reviewing restrictions and costs and we will continue to develop evidence of the impact of the cost of moving to the UK on researchers, their teams and their families. We will also look at how people who work in private sector research and innovation and their employers use the immigration system, to understand how this can better meet their needs. 
+34 
+[Page #34]
+R&D People and Culture Strategy 
+Building our understanding  
+Alongside these actions, we will bolster our understanding to inform future and ongoing interventions, and measure success. As a minimum we will: 
+•  Create the first annual cross-sector survey of the R&D workforce. This will produce time series data on the activities, skills, careers, enablers, barriers, and impacts of the R&D workforce in the UK. BEIS will design this in partnership with R&D funders. This single source will increase the usefulness of existing datasets; improve the evaluation of this strategy; and enable better analysis and decision making for the wider R&D system.  This bespoke survey, covering the full R&D system including industry, academia, the third sector and publicly funded laboratories, will be an important tool to measure desired outcomes, informing the implementation of this strategy. 
+•  Gather greater insights from industry on the R&D workforce. This includes 
+qualitative and quantitative information, on issues such as skills gaps, and how research and innovation personnel in the private sector and their employers use the immigration system to understand how this can better meet their needs. 
+•  Publish evidence on international mobility to provide a comprehensive point of 
+reference for possible directions of policy, monitor trends and enhance understanding of the link between mobility and research productivity.  
+• 
+Increase the ability of government to forecast the R&D workforce supply and demand. For example, bringing together data sources such as the new R&D workforce survey, the UK Innovation Survey, Longitudinal Education Outcomes data and Job Advert data. BEIS commissioned the Warwick Institute for Employment Research to review the evidence and available data on the supply and demand for R&D occupations and R&D workforce pipeline. This report is being published alongside this strategy and provides a baseline for future work to define and understand the wider R&D workforce43. 
+43 The R&D Pipeline – supply and demand of R&D personnel; Warwick Institute for Employment Research; July 2021  
+35 
+[Page #35]
+R&D People and Culture Strategy 
+Making it a reality  
+This strategy is a call to action for the R&D sector, setting out for the first time a wide-ranging vision for the future. Implementation of this strategy in spirit needs to be taken forward by the UK government and the devolved administrations, with businesses, academia, charities and people across the sector. This is because many of the issues outlined in this strategy will only be successfully tackled if we all work together to address them. We invite and encourage institutions, businesses and the people who work in them and the wide range of other partners in the sector to work with us to drive change, making a difference in their own sphere of influence and thereby contributing to change across the sector. 
+Our approach to implementation  
+Working with our partners, we will drive and track progress against the initial government commitments set out in this strategy. 
+However, given the breadth of the sector, and the extent of the changes required, this publication can only be the first step. To deliver lasting change, we recognise that we need to build and maintain momentum around longer work programmes over multiple years. We will need to review how effective actions are and adapt to changing conditions. This will require:  
+•  Creation of a cross sector programme of actions, led by individuals & organisations 
+across the sector and underpinned by a common sense of purpose; 
+•  Sustainable work that can be taken forward by different players within the sector.  
+•  A transparent approach, based on meaningful engagement, to assess the sector’s 
+progress towards our shared outcomes. 
+•  Regular monitoring and review of evidence to measure progress. 
+To achieve this, we will ensure the outcomes of this strategy, and all government and UKRI policies to meet these, have robust evaluation embedded by design. The new annual cross-sector R&D workforce survey will deliver a key data asset for these evaluations and for ongoing strategic analysis. We will develop a logic model approach to identify key indicators of progress to inform policy within government and UKRI. 
+Delivery, governance, and oversight structures for implementation will need to bring together the main players in the R&D system, including BEIS, our delivery partners, sector bodies and representatives at all levels. BEIS will lead the way in bringing together the sector to deliver the strategy outcomes, working to maximise synergies and minimise bureaucracy. 
+Our intention is to do this where possible by using existing groups to drive delivery of strategy outcomes. Alongside publication of this strategy, we will invite those interested in contributing to this work to step forward and get involved. Recognising the leadership role and convening 
+36 
+[Page #36]
+R&D People and Culture Strategy 
+power of government, a Ministerial coordination group will champion the vision, oversee cross-cutting work and receive regular updates from those driving change in each area.   
+We will look to invite people from a range of roles working in the sector to sit on an independent advisory group to sense-check the direction of implementation and the impacts being seen within the sector. This group will be created through an open and transparent process. 
+37 
+[Page #37]
+R&D People and Culture Strategy 
+Acknowledgements   
+To ensure that this initial call to arms meets the needs of the sector and sets us on the pathway to create lasting change, we have engaged widely with all parts of the sector.  
+We will continue to do so as the strategy is delivered, but we would like to acknowledge the contributions of the hundreds of organisations and individuals who have helped to get us to this point.  
+These contributions have been through both meetings with Minister Solloway or BEIS and UKRI officials and through written evidence and analysis.  All of these have provided significant assistance in understanding and addressing the challenges the R&D sector faces. 
+We would particularly like to thank the members of the R&D People and Culture Strategy Steering Group for their sustained input over the course of the strategy’s development.
+38 
+[Page #38]
+This publication is available from: www.gov.uk/government/publications/research-and-development-rd-people-and-culture-strategy   
+If you need a version of this document in a more accessible format, please email enquiries@beis.gov.uk. Please tell us what format you need. It will help us if you say what assistive technology you use. 

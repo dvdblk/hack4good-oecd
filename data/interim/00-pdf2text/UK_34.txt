@@ -1,0 +1,725 @@
+[Page #0]
+Rethink manufacturing
+Designing a UK industrial strategy for the age of Industry 4.0
+[Page #1]
+Table of contents
+Foreword 
+ 1
+Executive summary 
+2
+Innovation and Industry 4.0 
+6
+Increasing productivity: workforce skills 
+10
+Responding to Brexit 
+14
+Developing a long-term industrial strategy 
+22
+How to prepare for 2019 
+26
+Priorities for the government and industry 
+28
+[Page #2]
+Foreword
+We are at a critical juncture for UK manufacturing. An array of recent developments, from political and macroeconomic events to the increasing pace of extraordinary technology developments, point to volatile and disruptive times ahead. It’s time for a rethink.
+The government’s recent industrial strategy green paper is a positive and welcome step in the right direction, yet it remains to be seen how this will play out in practical terms on the ground. If these challenges are not effectively addressed, manufacturing and associated industries are at risk of decline. Collaboration between sectors, as well as between industry, government and the education sector, will be critical.
+Industry 4.0 is poised to drive transformation across global manufacturing. Innovative technologies such as intelligent robotics, 3D-printing and artificial intelligence, combined with new approaches to data management, will help manufacturers and the supply chain save time, boost productivity, reduce waste and costs, and respond more effectively to consumer demand.
+It’s an ideal time, then, for KPMG to have commissioned this research among the UK’s leading manufacturing executives to understand how they anticipate the impact of Brexit on their organisations, and their highest priorities for a long-term and coherent industrial strategy from the UK Government.
+Stephen CooperPartner and Head of Industrial Manufacturing KPMG in the UK
+UK manufacturing has an opportunity to position itself as a globally attractive and competitive base for advanced manufacturing, producing the best-designed products that are competitively priced. For this to become a reality requires industry to work closely with government to advance the UK’s industrial digitalisation, bring the right skills into the industry, and take advantage of the opportunity offered by the UK’s exit from the European Union.
+Recommendations based on these findings will contribute to the dialogue between government, manufacturers and the education system. A focus on openness to foreign investment, access to talent, engagement with new markets, a positive regulatory and legal environment, and a coherent industrial strategy will drive the UK to new levels of competitiveness and ensure manufacturers are ready to capitalise on Industry 4.0. The future is made here.
+1
+[Page #3]
+Executive summary
+UK manufacturing is facing new horizons. Disruption is growing exponentially, driven by a multitude of factors, from technological innovation and evolving customer behaviour, to regulatory changes and a turbulent global landscape, all requiring businesses to innovate with ever-increasing speed. With the advent of the fourth industrial revolution, known as ‘Industry 4.0,’ the UK has an opportunity to position itself as a global centre of excellence for advanced manufacturing. 
+Our findings:
+Gearing up for Industry 4.0
+The majority of respondents to our survey agree that Industry 4.0 represents an unprecedented opportunity to revitalise UK manufacturing. Nevertheless, respondents seem less sure about how it will affect their business and whether they have a coherent strategy and the right talent and skills to capitalise on it.
+This is concerning, but not necessarily surprising. While Industry 4.0 may be much talked about, many manufacturers struggle to understand what it means for their business and how they should prepare for it in practical terms.
+At the same time, the UK’s decision to leave the European Union could have great impact on the sector’s future — particularly as it affects state aid rules, trade, regulation and the labour market, central to strategies for growth in this industry.
+KPMG’s recent report, The digitalisation of the UK automotive industry, highlighted the enormous economic benefit to the UK from industrial digitalisation. The results from this survey suggest that the UK Government will need to do far more to support UK manufacturers across the supply chain, to support the adoption of new technologies, help businesses improve levels of R&D and improve collaboration between business, education and academia. 
+The UK Government has promised a more joined-up industrial strategy to help meet these challenges; to address the competitiveness of the UK economy, by focusing on measures that will increase productivity and drive innovation-led growth. How much of this will translate into longer-term, concrete action, however, remains to be seen.
+This Rethink Manufacturing report from KPMG in the UK uses in-depth interviews and extensive survey data from leaders in UK manufacturing to explore what they want to see from a UK industrial strategy, and to assess the potential impact of Brexit on this sector’s future planning.
+Increasing productivity: workforce skills
+When it comes to raising productivity and improving the competitiveness of the UK’s manufacturing sector, 
+[Page #4]
+Gearing up for Industry 4.0
+Responding to Brexit
+The four key areas manufacturers are focusing on for the future
+Increasing productivity and workforce skills
+Long-term industrial strategy
+Manufacturers will need to consider the different skills they will need in a more automated future, and collaborate closely with government to ensure the national education system will deliver the skills required and that university funding is maintained post-Brexit. Manufacturers will also need to develop strategies for continuous upskilling or ‘lifelong learning’ of their workforce, in order to keep pace with innovation.
+the number one priority for manufacturers is boosting workforce skills. As the pace of technological change increases, manufacturers are suffering from an increasing gap between supply and demand for STEM (science, technology, engineering and maths) talent, which the government recognises in its recent industrial strategy green paper.
+The aerospace and automotive sectors have both led the way with sector-led strategies to target these skill gaps. The Aerospace Growth Partnership has created 500 new masters’ degrees in aerospace over several years. Likewise, the automotive industry has adopted a similar approach to attract more of the right skills into the industry. The Apprenticeship Levy also comes into play this year, which should help create another attractive path for entry into the manufacturing industry.
+Responding to Brexit
+The UK’s vote to leave the EU has been a game changer for UK manufacturing. When our survey was carried out in December 2016 and early January 2017, two thirds of manufacturing executives surveyed said that the uncertainty from Brexit would be bad for UK economic stability. 
+3
+[Page #5]
+A balance will need to be struck between the government’s focus on reinvigorating regions experiencing low productivity, and the preference for companies to base themselves around clusters where expertise and supply chains already exist.
+Nevertheless, don’t let a good crisis go to waste. Even uncertainty from an event like Brexit can be the catalyst for companies to transform in a positive way.
+Our research finds that companies are considering a number of measures to plan for this potentially radical change. For example, a third are considering relocating aspects of their plant or operations to another country in order to boost productivity or reduce costs, with China and India the most attractive destinations for relocation.
+A way to marry these competing priorities may be to increase coordinated focus on emerging ecosystems. For example, investment in the the next-generation ‘mobility ecosystem’, spanning car manufacturers, fleet managers, telecommunications, infrastructure, finance, insurance and cyber security. By focusing on four or five fields of play where the UK could build particular expertise, the government could play a valuable coordination role, supporting a series of big sector or cross-sector concerns, and providing strategic incentives.
+There is also a slight but notable increase in consideration of moving elements of the supply chain away from the UK. While this might seem counter-intuitive at a time when the low pound value is encouraging greater investment into the UK, businesses with interconnected pan-European supply chains may be planning for the possibility that the UK exits the EU Customs Union without an EU-UK Free Trade Agreement in place. For such businesses, tariffs and non-tariff barriers, e.g. delays in border clearance, could prove costly.
+What does UK manufacturing need from an industrial strategy?
+Likewise, the survey shows increased EU-based business development and marketing investment in order to remain close to customer demand in the EU. Strategies for dealing with cost increases show that over a third of manufacturers are planning to pass these onto the customer, while the majority plan to offset them, either by achieving cost savings elsewhere or accepting reduced profits.
+This reports highlights that there are some areas where UK industry is unsure about future developments, but there are also signs that the manufacturing sector is positive in the face of change and ready to harness the opportunity of remaking itself into a global centre of excellence for advanced manufacturing, with a clear roadmap to future success.
+Above all, there are key areas where the UK Government should focus its industrial strategy to support UK manufacturing; boosting skills; maintaining a competitive infrastructure and business regime relative to other OECD countries; incentivising investment in innovation and collaboration between industry, education and science; and most importantly, supporting the UK’s industrial digitalisation.
+A long-term industrial strategy
+Our survey shows huge support for an increased government focus on industrial policy, with nearly four out of five respondents saying this would benefit them.
+The sector-specific approach has found notable success in the aerospace and automotive sectors. For example, the Aerospace Growth Partnership, founded in 2010–11, has helped develop the right skills, supply chain capability and technology to help the UK aerospace sector maintain market share.
+Government support is vital, but industry itself must also step up by improving its own productivity through recruiting and developing new skills and preparing for Industry 4.0. Only through government, industry and the education sector coming together to rethink manufacturing will the UK manufacturing industry be able to seize new opportunities and sources of long term growth.
+But does the government have a good track record of picking winners when it comes to specific sectors? Respondents to our survey are wary of an industrial strategy that supports only sectors critical to the national economy, and would prefer the government to focus its efforts on cross-sector (horizontal) policies, such as financial support for R&D and boosting workforce skills.
+The conclusion of the report goes on to outline some immediate steps manufacturers should make in anticipation for Brexit in 2019, and longer-term strategic priorities that manufacturers and the UK Government should work on together.
+Likewise, regional development features second to last on the list of priorities where manufacturers would like government to focus, with the majority of respondents considering the government’s current approach to regional development disjointed and unclear. 
+[Page #6]
+Summary of priorities
+Gearing up the UK for Industry 4.0
+ –
+Increase financial support for R&D into emerging technologies
+ –
+Invest in emerging ecosystems, such as those around future mobility and healthcare
+ –
+Prioritise a competitive digital infrastructure
+ –
+Implement developing global digital standards
+ –
+Formulate a long-term plan for smart infrastructure
+Boosting productivity: the missing skills
+ – Develop a long-term talent strategy
+ –
+Integrate lifelong learning into business culture
+ – Collaborate between manufacturers, adjacent sectors, 
+government and academia to fill skills shortages
+ – Develop new technical accreditation and standards
+ – Undertake a comprehensive review of the National 
+Curriculum
+Preparing for Brexit
+ – Model scenario outcomes to plan ahead and mitigate risk
+ –
+Plan to move inventory/stock closer to markets
+ –
+Finance or re-finance to lock in lower cost of capital
+ –
+Keep close to your customers & prepare to support OEMs and exporters
+ – Maximise cash and de-risk by reducing costs and liabilities
+ – Understand the appetite of your market for price changes
+ – Mitigate supply chain risk
+A business regime that supports the manufacturing industry in the short and long term
+ – Reform business rates and consider bringing back the 
+Industrial Buildings Allowance
+ – Readjust tax credits and subsidies to incentivise 
+manufacturers
+ – Reduce tariffs on top products currently purchased customs duty free from EU Member States which may become dutiable after Brexit (e.g. cars, truck and associated parts)
+ – Accelerate international mutual recognition standards
+ –
+Focus on a stable corporate tax regime
+Rethink manufacturing - February 2017
+5
+[Page #7]
+Innovation & Industry 4.0
+Industry 4.0 is one of the biggest drivers of disruption in 21st Century manufacturing, referring to the integration of information technology and industrial production. It is poised to drive transformation across global manufacturing. Innovative technologies such as intelligent robotics, 3D-printing and artificial intelligence, combined with new approaches to data management, will help manufacturers and the supply chain save time, boost productivity, reduce waste and costs, and respond more effectively to consumer demand.
+What is the biggest change required to prepare for Industry 4.0?
+Comments from survey respondents:
+“More training is needed within the workplace to get everybody up to where we want to be.”
+According to Stephen Cooper, Head of Industrial Manufacturing at KPMG in the UK, “Industry 4.0 will bring about a far more connected infrastructure, blurring the lines between traditional sectors and requiring greater collaboration.” An autonomous, driverless vehicle, for example, will require the availability and interpretation of considerably more data, requiring the input of a range of different sectors to make it work and be usable. Predicting and preparing for this is far from easy.
+“Industry 4.0 will bring about a far more connected infrastructure, blurring the lines between traditional sectors and requiring greater collaboration.”
+“We would need to change the organisation’s culture.”
+Stephen Cooper, Head of Industrial Manufacturing, KPMG in the UK
+“Improve our skill base around the requirements of Industry 4.0.”
+[Page #8]
+Innovation & 
+Industry 4.0
+Perhaps this is why responses to our survey show more enthusiasm than preparedness for Industry 4.0. The majority (56%) think that Industry 4.0 represents an unprecedented opportunity to revitalise UK manufacturing. But respondents seem far less sure about how it will affect their business and whether they have a coherent Industry 4.0 strategy and the right talent and skills to capitalise on it.
+“The reality is that many manufacturing businesses are currently struggling with day-to-day business,” says Charlie Simpson, Partner with the Global Strategy Group at KPMG in the UK. “So while many companies will be talking about Industry 4.0 in principle, their intent to invest and build a business case for it is probably going to be patchy at best.”
+There are structural issues in UK manufacturing that don’t help. Simpson argues, for instance, that the UK, unlike Germany, lacks the volume of major players and smaller investors that can help drive the coordination and standardisation of technology required for Industry 4.0.
+Surprisingly, mid-size companies are more likely to believe they have a coherent strategy for Industry 4.0 (49%) than large companies (37%). Mid-size are also more likely to believe it will have a major impact on their business (54%) vs large companies (35%)*.
+Industry 4.0 presents an unprecedented opportunity to revitalise UK manufacturing
+22%
+34%
+38%
+5% 1%
+Industry 4.0 will have a major impact on my organisation’s business model
+12%
+28%
+44%
+11% 4%
+My organisation has a coherent strategy when it comes to Industry 4.0
+9%
+34%
+46%
+9% 2%
+We currently lack the talent and skills necessary to capitalise on Industry 4.0’s potential
+9%
+33%
+39%
+17%
+3%
+e
+e
+e
+e
+Strongly agree
+Somewhat agree
+Neither agree or disagree
+Somewhat disagree
+Strongly disagree
+*For the purposes of this report, small refers to annual revenues of £25 million to £4.99 billion, medium: £5 billion to £9.99 billion, large: £10 billion+
+7
+[Page #9]
+“The reality is that many manufacturing businesses are currently struggling with day-to-day business. While many companies will be talking about Industry 4.0 in principle, their intent to invest and build a business case for it is probably going to be patchy at best.”
+Charlie Simpson, Partner, Global Strategy Group, KPMG in the UK
+So what investments are UK manufacturers currently making into new technologies, and how is that expected to change over the next three years?
+Current investment
+Advanced robotics
+Internet of  Things
+Artificial Intelligence
+Augmented reality
+3D printing
+46% currently investing
+49% currently investing
+44% currently investing
+38% currently investing
+26% currently investing
+Artificial Intelligence
+Advanced robotics
+Advanced robotics
+Augmented reality
+3D printing
+37% will increase investment
+41% will increase investment
+40% will increase investment
+39% will increase investment
+28% will increase investment
+Over the next three years
+Brexit, and the impact it may have on the movement of labour, may encourage more investment into technologies that boost automation. According to Charlie Simpson, “Manufacturers may look to speed up their adoption of advanced robotics, to mitigate against the impact from reduced access to labour from abroad.” 
+The UK is very well positioned to benefit from the digitalisation of manufacturing. It represents a fertile testing ground for new concepts, with both big cities and rural areas, plus a consumer base that is willing to try out new products. As a result, the UK should act now to position itself as a global centre for advanced manufacturing, producing the best-designed products at a competitive price.
+[Page #10]
+Innovation is and will remain the bedrock of UK manufacturing:
+Expected changes to R&D activities in UK manufacturing organisations over the next three years:
+Somewhat disagree(1%)
+Strongly agree
+Neither agree ordisagree
+20%
+29%
+49%
+Somewhat agree
+All of this could generate substantial economic benefits for the UK. A recent survey KPMG conducted on behalf of the SMMT identified the cumulative benefit of automotive digitalisation at £74 billion by 2035.1 
+The UK currently trails other OECD countries on its investment into R&D, investing 1.7% of GDP into R&D, below the 2.4% OECD average and far behind the world’s leading manufacturing economies: China (2.1%), USA (2.79%), Japan (3.49%) and Germany (2.88%).
+Above all, manufacturers see innovation as the key differentiator for the UK as a manufacturing centre of excellence.
+For the UK to position itself as a future advanced manufacturing base, government will need to do more to boost R&D levels in the UK, and particularly its commercialisation, as highlighted in the government’s industrial strategy green paper. The 2016 Autumn Statement included a welcome increase in government investment of £4.7 billion by 2020-21. The key question will be how this additional R&D funding will be delivered to incentivise greater innovation in the UK.
+Establishing the UK’s position as a leader of manufacturing innovation in the age of Industry 4.0 will require greater investment than ever before into levels of R&D, commercialisation of R&D and the adoption of new technologies. Nearly half of respondents expect R&D activities in the UK to increase in the next three years.
+1 ‘The digitalisation of the UK automotive industry,’ KPMG in the UK, 2016
+9
+[Page #11]
+Increasing productivity: workforce skills
+Boosting productivity continues to be the holy grail for UK industry, with the typical UK worker almost a fifth less productive than the G7 average in terms of GDP per hour worked.
+Top three external factors that would most improve my organisation’s productivity:
+Better educated workforce
+54%
+More supportive government policy
+48%
+40%
+A better ecosystem of suppliers
+33%
+A better flow of fresh talent
+Having a better educated workforce was ranked as the highest priority for organisations in raising their productivity, our survey showed.
+29%
+Easier/better access to finance
+26%
+Increase in FDI into UK manufacturing
+2%
+Other
+Likewise, when asked what internal factors manufacturers should address to boost improvement, better workforce skills emerged as the highest priority.
+Top three internal factors that would most improve my organisation’s productivity:
+41%
+Better workforce skills
+34%
+Improved plant or production
+33%
+improved supply chain
+31%
+Investment in next generation
+29%
+Improved internal processes
+29%
+Better workforce retention
+24%
+smarter product development
+18%
+New skills in the leadership
+10%
+New manufacturing locations
+[Page #12]
+“Digital scientists, digital engineers, digital architects, cyber security engineers – none of those existed 20 years ago.”
+Stephen Cooper, Head of Industrial Manufacturing, KPMG in the UK
+Growth Partnership has created 500 new master’s degrees in aerospace, introducing them in tranches over a few years. It has also worked with the auto industry, which has a similarly developed approach to industrial strategy, to attract more of the right skills.
+As the pace of technological change accelerates in manufacturing organisations, the gap is expected to deepen between supply and demand for a workforce with the right skills, especially those with STEM qualifications.
+From the perspective of international manufacturers, the UK currently remains highly attractive for investment. KPMG’s Variables for Sustainable Growth Index shows that UK continues to perform well on a range of macroeconomic and infrastructural measures. Nevertheless, according to this report, the UK’s VSG score could fall if Brexit means less trade and reduced skills levels due to reduced EU migration.2
+Manufacturers will need to consider the different skills they might need in a more automated future. “Digital scientists, digital engineers, digital architects, cyber security engineers – none of those existed 20 years ago,” says Stephen Cooper, Head of Industrial Manufacturing, KPMG in the UK. 
+But is more innovative thinking required? “I think that’s the opportunity with the skills agenda within the new industrial strategy,” says Jeegar Kakkad, Chief Economist at Aerospace, Defence, Security & Space (ADS). “Are there ways in which we can think differently about how we attract students into engineering across the economy?’ That’s the challenge and opportunity of the new industrial strategy.”
+Manufacturers believe that the UK’s chief selling points are openness to FDI and ownership, as well as skills, proximity to other markets and a positive regulatory and legal environment.
+Industry is already working with government on a number of initiatives to improve access of talent into the industry. The Aerospace 
+“Are there ways in which we can think differently about how we attract students into engineering across the economy? That’s the challenge and opportunity of the new industrial strategy.”
+Jeegar Kakkad, Chief Economist, ADS
+2 Variables for sustained growth 2016 index, KPMG in the UK, 2017
+Rethink manufacturing - February 2017
+11
+[Page #13]
+Top three factors that make an international investor invest, or continue to invest, in the UK:
+Openness to foreign directInvestment and ownership
+46%
+43%
+Access to talent and skills
+Proximity to other marketsincluding Europe
+42%
+Positive regulatory andlegal environment
+41%
+Government incentives forbusinesses (e.g. Corporation Tax)
+36%
+Access to a strong manufacturing ecosystem
+30%
+28%
+Quality of infrastructure
+1%
+Other
+The aerospace sector, in particular, has focused on sustainable improvements to the UK supply chain in order to attract greater international investment. Its Supply Chain Competitiveness Charter, for example, commits 11 of the biggest aerospace companies to expanding opportunities in the UK for UK suppliers. Kakkad explains that this means that for all the investment the government puts in, there is a reciprocal commitment from industry to prove they can live up to it. He cites as an example Boeing, which is working with its UK suppliers to improve their understanding of the company and its tendering process.  
+Other aerospace supply chain initiatives include ‘Supply Chains for the 21st Century’, which helps companies with quick but sustainable productivity improvements, and ‘Sharing in Growth’, a far more intensive programme aimed at ensuring that the sector’s suppliers are “truly world class”. Kakkad hopes that such programmes might now translate into bringing together industries facing similar challenges — the automotive, rail and nuclear industries, for example — under a cross-sectoral framework aimed at improving UK supply chain productivity. 
+[Page #14]
+Rethink manufacturing - February 2017
+13
+[Page #15]
+Responding to Brexit 
+“Brexit will force a paradigm shift. It could be putting a new CEO in place, leading to a new strategy, or it might be taking a fresh pair of eyes to the whole process, breaking it down, mapping it out and implementing practical process improvement.”
+In the short-term, the game changer for UK manufacturing will prove to be Brexit. Theresa May said in her Lancaster House speech on 17 January that the UK would leave the Single Market and seek a new relationship with the Customs Union.
+Internet of Things and augmented reality. This also ties in with the post-Brexit business confidence we’ve seen from UK manufacturers in the monthly Markit/CIPS UK Manufacturing PMI figures.3 
+Meanwhile, larger companies (£10 billion or more in annual revenue) are generally more pessimistic, with 60% most likely to view a ‘hard’ Brexit as negative compared with 36% of small companies (with less than £5 billion in annual revenue), which may reflect the fact that smaller companies are less likely to export. 
+That suggests the UK is heading towards a ‘harder Brexit,’ and in our survey two thirds of manufacturing execs said that the uncertainty from Brexit would be bad for UK economic stability. However, change – and even uncertainty – appears to bring with it positives. Nick Harrison, Partner at KPMG in the UK, points out that an event like Brexit can spur companies to transform. “Brexit will force a paradigm shift,“ he says. “It could be putting a new CEO in place, leading to a new strategy, or it might be taking a fresh pair of eyes to the whole process, breaking it down, mapping it out and implementing practical process improvement.”
+45%
+Nick Harrison, Partner, KPMG in the UK
+Our research shows confidence, despite the uncertainty. Nearly half of respondents, for example, think R&D activities will increase in the next three years, as well as increased investment in Industry 4.0 technologies, including artificial intelligence, advanced robotics, the 
+of manufacturers believe that a ‘hard Brexit’ will have a negative impact on their organisation
+3 UK manufacturing kicks off 2017 on the right foot, KPMG in the UK, February 2017
+[Page #16]
+The impact of leaving the Customs Union on UK manufacturing by sector:
+10%
+11%
+9%
+14%
+10%
+21%
+11%
+17%
+13%
+Engineering &Industrial Products(including industrialand electronics)
+Aerospace& Defence
+34%
+Medical Devices
+27%
+24%
+34%
+34%
+29%
+4%
+15%
+8%
+9%
+Extremely positive impact
+36%
+19%
+Quite positive impact
+No impact
+27%
+Other
+Automotive
+23%
+Quite negative impact
+Extremely negative impact
+35%
+24%
+The impact of leaving the Customs Union on UK manufacturing by company size:
+Medium
+18%
+10%
+27%
+31%
+14%
+Small
+9% 18%
+37%
+19%
+18%
+Large
+5% 12%
+23%
+47%
+14%
+Rethink manufacturing - February 2017
+15
+[Page #17]
+The UK’s attractiveness as a destination for manufacturing FDI change if the country leaves the EU Customs Union:
+Expected change in imports from the following regions over the next three years:
+30%
+45%
+23%
+2%
+EU
+Rest of Europe
+26%
+58%
+11%
+5%
+North America
+27%
+48%
+12%
+13%
+18%
+47%
+12%
+22%
+South America
+21%
+41%
+12%
+25%
+Africa
+24%
+41%
+13%
+21%
+India
+36%
+38%
+9%
+18%
+China
+28%
+47%
+9%
+17%
+Asia-Pacific
+No Change
+Decrease
+Not Applicable
+Increase
+A significant number also think there will be no impact from Brexit. This correlates with further findings where respondents seem relatively optimistic about the UK’s attractiveness for FDI investment following a hard Brexit. The majority think there will either be no change in the UK’s attractiveness or it will improve (23% and 37%, respectively).
+Although the biggest decrease in imports is from the EU, it should also be held in context that a third expect imports from the EU to increase over the next three years.
+Government should therefore be investing quickly to ensure there is a focus on maintaining a frictionless border similar to the one currently in place, otherwise trade will be more expensive and less efficient as a result of non-tariff barriers. Moreover, any efficiencies achieved in the area of UK/EU trade could be leveraged by future FTA partnerships. We predict that trader accreditation systems like Authorised Economic Operator (AEO), which enable mutual product recognition, will become a default requirement.
+This positivity is perhaps surprising, given that respondents anticipate challenges in the next three years. Unsurprisingly, the biggest negative change to exports and imports is expected to be to and from the EU. Seventy five percent of respondents currently have manufacturing operations in other EU countries, as well as the UK.
+[Page #18]
+Expected change in exports to the following regions over the next three years:
+The EU is expected to see the biggest decrease in exports over the next three years by a large margin compared to other regions, with Asia-Pacific expected to see the biggest increase in exports. According to our respondents, price changes in products and services will be the most important factor driving these changes over the next three years.
+Many companies may be considering relocation as a means of maintaining a foothold in the EU post-Brexit.  The choice of location will be driven by a number of factors, including the specific industry sector requirements and the skills required.  Countries such as Germany and the Netherlands are frequently favoured.  Ireland has always been a strong choice and its popularity is growing - especially with those companies who are familiar with the UK as an investment location.
+Manufacturers’ focus after 2019:Overall, our research finds that manufacturers are considering a number of measures over the coming years in preparation for the UK’s exit from the EU.
+Partial relocation
+Although most have no immediate plans to leave the UK, a third are considering relocating some aspects of their plant or operations to another country in order to boost productivity or reduce costs.
+Manufacturers considering relocation out of the UK shown by company size:
+8%
+38%
+Yes
+7%
+40%
+No
+Don’t know
+Medium
+42%42%42%
+54%
+13% 26%
+Large
+Small
+53%
+60%
+17
+[Page #19]
+“European supply chains have evolved the way they have over decades, clustered around centres of expertise, technologies and investment structures, driven by free trade and the movement of labour. The risk we face is that elements of supply chains start to migrate away from the UK back towards the clusters of expertise that are accessible at greater scale in the EU.”
+Justin Benson, Director, KPMG in the UK
+46%
+Most attractive markets for relocating plants or operations:
+10%
+China
+10%
+India
+United States of America (USA)
+6%
+4%
+Czech Republic
+4%
+of smaller businesses say they’ll put more focus into developing business in the EU over the next three years
+Ireland
+3%
+Belgium
+3%
+Germany
+3%
+Netherlands
+[Page #20]
+Engineering and industrial product companies, large organisations and international investors are more likely to make the shift, with India and China unsurprisingly continuing to be the key markets for moving plants and/or operations.
+Moving supply chains away from the UK
+Over the next three years, the number of companies with 80–100% of their supply chain based in the UK will shrink from 21% to 18%.
+This may seem slight, but Justin Benson thinks this could be one of the most challenging issues facing companies that have integrated supply chains across Europe. “European supply chains have evolved the way they have over decades, clustered around centres of expertise, technologies and investment structures, with free movement of labour between them,” he says. “The risk we face is that elements of supply chains start to migrate away from the UK back towards the clusters of expertise that are accessible at greater scale in the EU.”
+While a shift away from the UK may seem counter-intuitive at a time when the pound’s lower value is encouraging UK investment, businesses with larger EU operations are already putting in place plans to mitigate against the risk for potential tariff and non-tariff barriers imposed in the post-Brexit era.
+More EU-based development and marketing
+At the same time, 40% of companies say they’ll be putting more focus into developing business and marketing in the EU in the next three years — a figure that rises to 46% among respondents from smaller companies. Nick Harrison, Partner at KPMG in the UK, thinks this may be down to companies reviewing their investment portfolios and deciding that, in the wake of the UK leaving the Single Market, they will need to remain close to customers. “Companies will be reviewing whether their footprint matches where the demand will come from in maybe the next five to 10 years of their business,” he says.
+Rethink manufacturing - February 2017
+19
+[Page #21]
+Impact of Brexit on manufacturers’ finances:
+3%
+16%
+2%
+19%
+18%
+9%
+12%
+10%
+41%
+We expectpressure on ouroperating margins toincrease over thenext three years
+Overall, weexpect our operation costs to increaseover the nextthree years
+We willneed to developbetter strategiesto hedge againstcurrency risk
+45%
+43%
+24%
+27%
+30%
+12%
+11%
+15%1%6%
+9%
+12%
+22%
+We are preparing for the impact of new indirect taxation onour business in thenext three years,such as VAT, tariffsand customstaxes
+40%
+We expectindirect taxation(e.g. tariffs, VAT,customs taxes) will havea significant impacton our bottomline in the nextthree years
+48%
+We currently rely heavily oninvestmentfrom abroad
+21%
+29%
+34%
+39%
+8%
+13%
+19%
+We are seekingalternative sources offinancing/investmentas a result of theBrexit vote
+40%
+20%
+[Page #22]
+“Manufacturers should be financing or re-financing their business to lock in lower cost of capital to mitigate longer lead times or payment periods.”
+Strategies to deal with higher costs
+Meanwhile, 39% of mid-sized manufacturers are looking for new sources of financing and investment following Brexit, compared to just 9% who say this from large companies. According to Justin Benson, Director, KPMG in the UK, manufacturers should already be working on their relationships with banks. “Manufacturers should be financing or re-financing their business to lock in lower cost of capital to mitigate longer lead times or payment periods.”
+If they are faced with rising costs, 35% of companies expect to pass these onto the customer. The majority (66%), however, plan to offset rises by either achieving cost savings elsewhere, or absorbing them and accepting that profitability will be reduced.
+The majority think the key impacts of Brexit will include a rise in operating costs (63% say this) and those associated, pressure on operating margins (62%) and a negative impact on the bottom line due to indirect taxation (63%) – including customs duties.
+40%
+Justin Benson, Director, KPMG in the UK
+It appears that smaller companies are more likely to be concerned by the impact of indirect taxation than larger organisations, and are also more likely to be preparing for this expected impact.
+of manufacturers are looking for new sources of financing and investment following Brexit
+21
+[Page #23]
+Developing a long-term industrial strategy
+“The aerospace sector’s strategy has meant that global companies such as GE Aviation and United Technologies have seen the UK as the best place in which to invest in R&D.”
+Overall, the results of our survey shows huge support for more government focus on industrial policy. Nearly four out of five respondents say this would benefit them. However, there are a wide range of approaches as to how government could go about delivering an industrial policy to support the growth strategy for UK manufacturing.
+Sector-specific support
+The sector-specific approach has found success in the aerospace and automotive sectors.
+The Aerospace Growth Partnership, for example, which was founded in 2010–11, has helped develop the right skills, supply chain capability and technology to help the sector maintain market share. And government and industry funding, to the tune of £4 billion, has been secured till 2026. “There is no other innovation pot in the UK that is set out for that long,” says Jeegar Kakkad, Chief Economist, ADS. The aerospace sector’s strategy has meant, he adds, that global companies such as GE Aviation and United Technologies have seen 
+According to the results of our survey, horizontal strategies are more popular than sector or place-based approaches: in a list of possible areas of focus for industrial strategy, the largest proportion favour financial support for R&D to increase competitiveness, followed by policies to boost workforce skills.
+Jeegar Kakkad, Chief Economist, ADS
+[Page #24]
+Manufacturers’ top priorities from the UK’s revised industrial strategy:
+Financially support R&D for emergingtechnologies, such as those directlyrelated to Industry 4.0
+27%
+43%
+1%
+4%
+24%
+23%
+42%
+3%
+6%
+26%
+Boost workforce skills
+Encourage public sectorprocurement to 'Buy British'
+22%
+34%
+6%
+10%
+28%
+Create stronger links between researchinstitutions and the private sector
+19%
+38%
+3%
+8%
+33%
+Initiatives that improve accessto finance for manufacturers
+15%
+45%
+2%
+7%
+31%
+Take a regional approachto industrial development
+14%
+40%
+15%
+9%
+33%
+Support only the sectors that arecritical to the national economy
+12%
+25%
+7%
+20%
+36%
+To some extent
+Neutral
+Not really
+Not at all
+To a great extent
+the UK as the best place in which to invest in R&D — prior to Brexit, at least. Perhaps as a result of this targeted strategy, the UK currently has the second-largest aerospace sector in the world. 
+Kakkad agrees that more could be done on cross-sectoral policies — in areas such as skills development, corporation tax, capital allowance, R&D tax credits, and a research and science base that is aligned to industrial innovation. “This is an opportunity to make sure that wider policies are actually pulling in the same direction and that there is a ‘whole government’ approach to industrial strategy,” he says. 
+prioritising connectivity for manufacturing hubs. Not only will this ensure that the UK is able to compete effectively on the global stage, but it will also allow smaller players to participate in the value chain, strengthening the manufacturing ecosystem.
+£4bn
+Cross-sector (horizontal) strategies
+However, when it comes to government policy, is there a successful track record for picking winners when it comes to specific sectors? Respondents to our survey are wary, and strongly prefer the government to focus its efforts on cross-sector (horizontal) policies, such as financial support for R&D and boosting workforce skills.
+Both Nick Harrison and Stephen Cooper highlight the importance of investing in common infrastructure — both physical, to improve product flows across territories and free up supply chains, and digital, specifically and most basically the improvement of high-speed broadband connectivity and investment in 5G technology, 
+of funding has been secured by the Aerospace Growth Partnership until 2026
+Rethink manufacturing - February 2017
+23
+[Page #25]
+How would you describe the UK Government’s current regional approach?
+Regional development
+places competing and not necessarily being strategic at a national level,” says Kakkad. “From my perspective, a national sector strategy sits on top of the place agenda, giving focus to it.” This may also explain why regional development features second to last on the list of priorities that respondents would like the government to focus on. 
+playing a valuable coordination role, supporting a series of major sector or cross-sector investments, building supportive ecosystems through tax, R&D, educational and other levers of support.”
+A regional or place-based approach to development is more complex. In January, the ‘Northern Powerhouse’ took centre stage once more, with the government reiterating its promise for £556 million in extra funding. A ‘Midlands Engine’ strategy is promised soon. 
+Building a globally leading, future mobility ecosystem in the UK will require the input of a range of different sectors, forming new clusters of excellence around the UK. Such ecosystems will require greater collaboration between sectors, and between sector and government.
+Nevertheless, almost three quarters of manufacturing executives responding to this survey (72%) are critical of the government’s current approach to regional development, deeming it disjointed and unclear.
+Developing the ecosystem
+According to Charlie Simpson, a way to marry these competing priorities would be to increase coordinated focus on emerging ecosystems. As an example, investment in the next-generation mobility ecosystem, spanning car manufacturers, fleet managers, telecommunications, finance, insurance and cyber security, aimed at the successful development of autonomous cars, electric cars and Mobility as a Service. “If the UK Government defines four or five fields of play where it wants the UK to build particular expertise,” he says, “then you could see it 
+72%
+A balance will need to be struck between the government’s focus on reinvigorating regions that have little industry and low productivity, and the preference for companies to base themselves around clusters where expertise and supply chains already exist. 
+“For a global sector such as aerospace, I don’t think any kind of region-first, or place-based approach would work, because then you get 
+of respondents are critial of the current approach to regional development
+[Page #26]
+“If the UK Government defines four or five fields of play where it wants the UK to build particular expertise, then you could see it playing a valuable coordination role, supporting a series of major sector or cross-sector investments, building supportive ecosystems through tax, R&D, educational and other levers of support.”
+Which UK region would you rate as the most attractive for your business as a new investment destination?
+19%
+London
+18%
+South East
+13%
+North West
+8%
+Wales
+8%
+Yorkshire & the Humber
+7%
+East Midlands
+6%
+South West
+6%
+West Midlands
+5%
+North East
+5%
+Scotland
+4%
+Northern Ireland
+Which of the following factors is most important in making an investment decision about a particular UK region?
+Strong presence of supplychain companies
+20%
+Reliable and resilientinfrastructureExisting manufacturingclusters
+18%
+16%
+International connections(ports, rail, airports etc.)Strong regional governmentor local council
+16%
+12%
+12%
+Good universities
+4%
+Low land prices
+2%
+Don't know
+Charlie Simpson, Partner, KPMG in the UK
+Rethink manufacturing - February 2017
+25
+[Page #27]
+How to prepare for 2019
+these delays as well as short-term increases in demand. 
+2. Plan to move inventory/stock closer to markets
+By October 2018, we expect to have a much clearer idea of where negotiations are heading, and the likelihood of a ‘cliff-edge Brexit’ versus a period of transition or phasing prior to a long-term agreement between the UK and the European Union.
+Organisations should consider inventories/stock surplus both in the UK and EU, moving more of a finished product closer to their markets and customers to avoid increased costs and delays of moving product across country boundaries, i.e. to avoid situations like ‘Operation Stack’. Organisations need to ask: “Do I need more or less space than I have now and where do I need to put it?”
+4. Keep close to your customers & prepare to support OEMs and exporters
+There is increased potential for OEMs to provide supplier finance to customers and suppliers as a result of these cash flow concerns, when banks may be reluctant to provide credit – so keep close to customers. UK centric supply chains should consider how to support customers who are exporters and exports of finished product, e.g. drink, food, and high-value consumer goods. 
+Therefore, there are some really practical things manufacturers need to do now to prepare for the point at which Britain exits the EU in 2019. 
+1. Model scenario outcomes to plan ahead and mitigate risk
+Changes to inventory management impacts working capital WIP, therefore outcomes, therefore this approach could have a draw on cash in the short term. 
+Many organisations have begun their scenario planning, and are now looking to build a clearer picture from their data to simulate alternative outcomes come 2019, with the objective of helping them make decisions about tasks they need to do now as well as in the longer term.
+5. Maximise cash and de-risk by reducing costs and liabilities
+Take advantage of low interest rates – refinance now to lock in lower cost of debt. Manufacturers should consider reducing the burden and inertia of some of higher cost areas now. For example, pensions. Put savings made through cost reduction to good use by investing in training and skills. 
+3. Finance or re-finance to lock in lower cost of capital
+Cash flow will slow down due to new processes, changes to indirect tax and delays at country borders. You therefore need to maintain close relationships with your banks to help you maintain financing to meet 
+Specifically, organisations need to determine how to mitigate a ‘cliff-edge’ Brexit, i.e. if the UK were to leave the EU Customs Union and Single Market with no deal in place. 
+[Page #28]
+Continue to de-risk and reduce draws on cash. Business, government and unions are starting to understand the benefits of discussing these issues now for all stakeholders, including employees, members, businesses and their shareholders. 
+6. Understand the appetite of your market for price changes now
+And finally, almost most importantly, anticipate the appetite of your customers for price increases. Start pricing negotiations now. Don’t waste a crisis. 
+7. Mitigate supply chain risk
+Manufacturing supply chains are often long, complex and span many geographies, lacking transparency. Manufacturers should take steps to review the susceptibility of suppliers to failure and the impact this would have on your manufacturing processes and other suppliers.
+Rethink manufacturing - February 2017
+27
+[Page #29]
+Priorities for the government & industry 
+This survey of the UK’s leading manufacturing executives has highlighted several key areas where the UK Government should focus its industrial strategy if the UK is to become a globally attractive and competitive base for advanced manufacturing.
+flexible regulatory and labour environment, and a large but self-contained geography. Thanks to these, UK plc has an opportunity to take a globally leading role in the development of the future mobility and transport ecosystem, with the UK a leading global test bed market for the development of electric vehicles, autonomous vehicles and Mobility as a Service. Active government promotion for the mobility and analogous ecosystems across healthcare, pharmaceuticals and life sciences, would provide a valuable boost for UK manufacturing.
+To become a reality, industry needs to work closely with government to digitalise industry, foster the right skills, and cushion any potentiall fallout from Brexit.
+The risk is that if these challenges are not effectively addressed, manufacturing and associated industries are at risk of decline, to the detriment of the UK’s wider economy. Collaboration between sectors, as well as between industry, government and the education sector, is going to be critical.
+ – A competitive digital infrastructure would allow 
+businesses to communicate and innovate across the whole of the UK. The government should prioritise national high-speed broadbound rollout and incentives to speed the introduction of 5G networks.
+Gearing up the UK for Industry 4.0
+ –
+Implementing global digital standards that apply across the manufacturing sector and adjacent industries will be critical to facilitating data sharing, particularly to support emerging ecosystems, such as those around the automotive industry and future mobility. The UK Government should influence standard setting wherever it can, such as at the UN, or in bi-lateral trade deals, but ultimately implement standards adopted by others (such as the EU).
+There is general consensus that Industry 4.0 represents an unprecedented opportunity for UK manufacturing, but equally, manufacturers remain unsure on how it will affect their own businesses and how to develop a coherent strategy to make it a reality.
+Previous KPMG reports have pointed to the overall benefits to the UK economy from digitalisation. However, these will not be realised unless the government works in close partnership with industry to ensure that the UK is ready for this transformation and that industry is equipped to deliver it.
+ – A long-term plan for smart infrastructure, 
+including roads, buildings and cities and the wider transportation system, will need to be developed by government in collaboration with industry. For example, smart roads will exchange information with connected vehicles to improve real-time decision making and more efficient road-use. What integration of systems will be required in future to enable an electric vehicle to charge itself while waiting at a traffic light? 
+ –
+Financial support for R&D into emerging technologies came out at the top of our respondents’ wish list for government action in industrial strategy. Clearly, there is appetite for embracing new technologies, with 56% of respondents saying that Industry 4.0 presents an unprecedented opportunity to revitalise UK manufacturing. Public-private investment funds could be the way to spur more action in this area – UK R&D investment in public and private funds is just 70% of the OECD average.
+Boosting productivity: the missing skills
+Our survey shows that manufacturing executives consider access to skills and a better educated workforce to be their top priority for boosting productivity. Boosting workforce skills is also the second-most important feature of any industrial policy for manufacturers, our survey shows.
+ –
+Explicit investment in emerging innovative ecosystems, particularly in mobility and healthcare: The UK offers a powerful combination of an innovative culture, consumers willing to adopt new services, decent infrastructure, a relatively 
+[Page #30]
+With the gap between supply and demand of STEM talent in manufacturing set to widen, both the government and industry need to act quickly to ensure that the manufacturing sector is equipped with the necessary skills to support future of manufacturing in the age of Industry 4.0.
+But government shouldn’t take this as a sign that no further action is needed to keep Britain competitive – as well as infrastructural investment, both legal and regulatory frameworks must be urgently revisited.
+ – Reform business rates: With no tax advantage for building a new factory, the abolition of the Industrial Buildings Allowance in 2011 and new business rates due to be introduced in April 2017, manufacturers may feel a levelling of the playing field is long overdue.  The EEF is campaigning to remove plant and machinery from Business Rates assessments; another option to consider would be bringing back the Industrial Buildings Allowance, and give manufacturing a much-needed incentive to invest strategically in new locations.
+ – Manufacturing organisations will need to develop a long-term talent strategy that identifies the new skills that they may need based on their future roadmap, and identify how they are going to fill these skills gaps, whether through retraining and upskilling of existing employees, or a recruitment strategy for new employees that places emphasis on digital skills, as well as traditional engineering skills.
+ –
+Lifelong learning will need to become core priority for industry’s long-term talent strategy. As new technologies are developed and adopted within industry, the manufacturing workforce will need access to continuing training and education; the alternative is ever-increasing workforce turnover. There are a number of strategies that manufacturers should consider using: a focus on cultural change to build lifelong learning into the company ethos; collaboration with educational institutions to deliver the right courses; and development objectives for employees that steer them towards the right skills. 
+ – Readjust tax credits and subsidies: There is 
+much the UK Government can do to support the manufacturing sector in the form of adjustments to tax credits and a restructuring of subsidies paid by manufacturers. For example, improvements could be made to the R&D tax credit regime in the UK.
+ – Reduce tariffs on top products currently 
+purchased customs duty free from EU Member States which may become dutiable after Brexit (e.g. cars, truck and associated parts): As the UK enters its negotiations for a post-Brexit relationship with the EU, manufacturers and industry bodies have pointed to the serious impact that trading under WTO terms would have on UK manufacturers. With such integrated supply chains, elimination of tariffs on parts and finished products in these sectors should be an early focus for EU/UK free trade agreement negotiations. 
+ – Manufacturers, adjacent sectors, government and the education system will need to collaborate to deliver a comprehensive focus on common skills shortages. As organisations across the economy become digitalised and face a rapidly increasing pace of innovation, they will be dependent on a workforce equipped with the right skills. Government should consider the best way to convene and bring the right voices to the table.
+ – Accelerate international mutual recognition standards: Accreditation systems, like the Authorised Economic Operator, could be turbo-boosted and digitalised to help the development of “virtual” clearance systems for both customs and regulatory purposes. This could include centralised clearance, self-assessment, and self-audit programmes, moving the authorities away from the friction of non-tariff barriers and supply chain transaction checking.
+ – New technical accreditation and standards could help the industry deliver clearer education pathways for entry into advanced manufacturing, and ensure that industry has access to graduates with the right skills when they begin employment.
+ –
+The government should undertake a comprehensive review of the National Curriculum to assess the prevalence of critical skills within the labour market, building upon existing commitments and the high-level plan set out in the government’s recent industrial strategy green paper. Reform will be required at all levels to ensure that children at the earliest stages of education are equipped with the right skills for entry into the workforce around 2030 and beyond. 
+ –
+Focus on a stable corporate tax regime: The corporate tax regime is a key lever for the government to encourage domestic and international investment.  The headline rate of tax has fallen dramatically over recent years and is the most competitive in the G20 (by 2020 it will have fallen to 17%). However, there are consistent calls for greater simplicity in the tax code and its administration, and increased stability in the medium to long term. By cutting red tape, discouraging “tinkering” with the legislation, and introducing targeted investment incentives (e.g. enterprise zones), the UK corporate tax code should retain its attractiveness to investors, which is the highest priority from a government industrial strategy.
+A business regime that supports the manufacturing industry in the short and long term
+Over a third (37%) of our survey respondents believe that the UK will become more attractive as an investment destination in the event that the UK exits the Single Market – with a further 23% saying there would be no change in attractiveness.
+29
+[Page #31]
+Contact us 
+To discuss the contents of this report further, please get in touch with a member of KPMG in the UK’s Industrial Manufacturing Steering Committee.
+Stephen CooperPartner and Head of Industrial Manufacturing KPMG in the UKM: +44 (0)7748 760273E: Stephen.Cooper@kpmg.co.uk
+John LeechPartner and Head of AutomotiveKPMG in the UK 
+Glynn BellamyPartner and Head of Aerospace KPMG in the UK 
+M: +44 (0)7977 073520E: John.Leech@kpmg.co.uk
+M: +44 (0)7766 442407E: Glynn.Bellamy@kpmg.co.uk
+Charlie SimpsonPartnerGlobal Strategy Group KPMG in the UKM: +44 (0)7500 857332E: Charlie.Simpson@kpmg.co.uk
+Nick HarrisonPartnerSupply Chain & OperationsKPMG in the UKM: +44 (0)7813 300542E: Nick.Harrison@kpmg.co.uk
+Simon JonssonPartnerTax KPMG in the UKM:+44 (0)7584 005865E: Simon.Jonsson@kpmg.co.uk
+Nicola CobbDirectorRisk ConsultingKPMG in the UKM: +44 (0)7818 016907E: Nicola.Cobb@kpmg.co.uk
+Justin BensonDirectorBrexit Lead for Manufacturing  KPMG in the UKM: +44 (0)7721 968988E: Justin.Benson@kpmg.co.uk
+Jason SmithPartner Supply Chain & ProcurementKPMG in the UKM: +44 (0)7789 397434E: Jason.Smith@kpmg.co.uk
+kpmg.com/uk
+The information contained herein is of a general nature and is not intended to address the circumstances of any particular individual or entity. Although we endeavour to provide accurate and timely information, there can be no guarantee that such information is accurate as of the date it is received or that it will continue to be accurate in the future. No one should act on such information without appropriate professional advice after a thorough examination of the particular situation.
+© 2017 KPMG LLP, a UK limited liability partnership and a member firm of the KPMG network of independent member firms affiliated with KPMG International Cooperative (“KPMG International”), a Swiss entity. All rights reserved. The KPMG name and logo are registered trademarks or trademarks of KPMG International.
+Document Classification: KPMG Public

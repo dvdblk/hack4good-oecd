@@ -1,0 +1,1063 @@
+[Page #0]
+Nationale Bioökonomiestrategie
+[Page #1]
+Impressum
+HerausgeberBundesministeriumfür Bildung und Forschung (BMBF)Referat Nachhaltiges Wirtschaften; Bioökonomie11055 Berlin
+Diese Publikation wird als Fachinformation des Bundesministe-riums für Bildung und Forschung und des Bundesministeriums für Ernährung und Landwirtschaft kostenlos herausgegeben. Sie ist nicht zum Verkauf bestimmt und darf nicht zur Wahlwerbung politischer Parteien oder Gruppen eingesetzt werden.
+Bundesministerium für Ernährung und Landwirtschaft (BMEL)Referat Bioökonomie, Stoffliche Biomassenutzung10117 Berlin
+StandMärz 2020
+TextBMBF und BMEL
+Redaktionelle UnterstützungPT Jülich
+GestaltungBiocom AG, Berlin
+DruckZarbock GmbH & Co. KG  
+BildnachweiseTitelbild und alle Illustrationen: Florian Sänger; S. 2: BMBF/Laurence Chaperon (Anja Karliczek), BPA_Steffen Kugler (Julia Klöckner); S. 7: Science RF/stock.adobe.com; S. 15: FZ Jülich; S. 24: Budimir Jevtic/stock.adobe.com; S. 28: Fraunhofer Gesellschaft; S. 31: Nestor/stock.adobe.com; S. 35: Cavan Images/stock.adobe.com; S. 43: Enrique del Barrio/stock.adobe.com; S. 44: Ungvar/Freepik.com; S. 46: Budimir Jevtic/stock.adobe.com; S. 50/51: pop_jop/istockphoto.com (Karte); S. 52: BMBF/Wissenschaftsjahr 2020; S. 57: sushytska/stock.adobe.com
+[Page #2]
+1
+Inhaltsverzeichnis
+Vorwort 
+3 
+Zusammenfassung
+4 
+6 
+Vorbemerkung   
+1  Bioökonomie für eine nachhaltige Zukunft
+8 
+2  Die Bioökonomiestrategie der Bundesregierung
+1214171718  19
+  Leitlinien der Bioökonomiestrategie
+2 1 2 2  Ziele und Umsetzung der Bioökonomiestrategie2 3   Bioökonomie als  Beitrag zu Nachhaltigkeit2 4  Globale Herausforderungen, ganzheitliche Lösungsansätze2 5  Bioökonomie als Entwicklungsstrategie
+3  Forschungsförderung für eine nachhaltige Bioökonomie
+2024262630303133  34
+3 1   Ausrichtung der Forschungsförderung3 2  Bausteine zur Umsetzung der Forschungsförderung
+3 2 1 3 2 2 Konvergierende Technologien und disziplinübergreifende Zusammenarbeit3 2 3 Grenzen und Potenziale3 2 4 Transfer in die Anwendung3 2 5 Bioökonomie und Gesellschaft3 2 6 Globale Forschungskooperationen
+Biologisches Wissen als Schlüssel der Bioökonomie
+4  Handlungsfelder zur Verbesserung der Rahmenbedingungen für eine nachhaltige Bioökonomie
+36  3941424244  4547 
+Minderung des Flächendrucks
+4 1  4 2  Nachhaltige Erzeugung und Bereitstellung biogener Rohstoffe4 3  Aufbau und Weiterentwicklung bioökonomischer Wertschöpfungsketten und -netze4 4   Markteinführung und Etablierung biobasierter Produkte, Verfahren und Dienstleistungen4 5  Nutzung des  Bioök onomie-Potenzials  für die Entwicklung ländlicher Räume4 6  Nutzung der Digitalisierung für die Bioökonomie4 7 Politische Kohärenz
+5  Übergreifende Instrumente
+48 505152535454 
+5 1   Einrichtung eines beratenden Gremiums unter breiter gesellschaftlicher Beteiligung5 2  Bund-Länder-Zusammenarbeit5 3 5 4  Kommunikation und Dialog5 5 Qualifikation und Fachkräfte5 6  Bioökonomie-Monitoring
+ Europäische und internationale Zusammenarbeit
+Schlussbetrachtung und Ausblick
+56 
+Glossar
+58 
+Endnoten
+62
+[Page #3]
+2 
+NATIONALE BIOÖKONOMIESTRATEGIE
+[Page #4]
+VORWORT 
+3
+Liebe Leserinnen und Leser,
+Forschungsstrategie Bioökonomie 2030 und der Nationa-len Politikstrategie zur Bioökonomie geschaffen  Auf  diesen Erfolgen baut die neue Bioökonomiestrategie auf 
+das Streben nach einer nachhaltigen Lebens- und Wirt-schaftsweise ist zu einem wichtigen Antrieb für Verände-rungen in Gesellschaft, Wirtschaft und Politik geworden  Allen ist klar, dass die nächsten Jahre entscheidend sein werden, um die Weichen für eine nachhaltige und wirt-schaftlich erfolgreiche Entwicklung zu stellen  Die Bun-desregierung hat deshalb zahlreiche Initiativen auf den Weg gebracht, um künftigen Herausforderungen innovativ begegnen zu können  Die Nationale Bioökonomiestrategie fügt sich in diese Aktivitäten ein  Eine biobasierte  Wirtschaft soll einen wesentlichen Beitrag dazu leisten,  die Ziele für eine nachhaltige Entwicklung der Agenda 2030 zu erreichen 
+Die Bioökonomie erstreckt sich über alle wirtschaftlichen Sektoren  Sie ist zentral für die globale Ernährungssiche-rung und stellt nachwachsende Rohstoffe für vielfälti-ge Anwendungsbereiche bereit  Zu ihrer interdisziplinären Werkzeugkiste gehören nicht nur biotechnologische Ver-fahren, sondern auch Konzepte aus den Ingenieurs- und Datenwissenschaften  Biobasierte Produkte für Indus- trie und Verbraucher sollen sich am Markt behaupten  Auf-grund ihrer natürlichen Eigenschaften sind diese Produk-te zudem in der Regel besonders dafür geeignet, in Stoff-kreisläufe integriert zu werden  Die Weiterentwicklung der Bioökonomie ist deshalb ein entscheidender Faktor ei-ner nachhaltigen Kreislaufwirtschaft  Sie ist zentral dafür, künftig effizienter zu wirtschaften und den Ressourcen-verbrauch zu verringern 
+Der Wandel hin zur Bioökonomie eröffnet gewaltige Chan-cen! In den kommenden Jahrzehnten wird sich die Art zu wirtschaften weltweit ändern, um diese auf eine nachhal-tigere Grundlage zu stellen  Wer hierfür Konzepte, Techno-logien und Verfahren liefert, wird auf den entsprechenden Märkten der Zukunft erfolgreich sein  Die Bioökonomie ist darüber hinaus ein Instrument zur Stärkung der länd-lichen Räume  Dort findet ein wesentlicher Teil der Wert-schöpfung statt  Mit der neuen Bioökonomiestrategie wol-len wir Deutschland als Land der Innovationen stärken und zu einem Vorreiter in der Entwicklung zukunftswei-sender Ansätze machen 
+Mit dieser Ausrichtung leistet die Nationale Bioökonomie-strategie einen wichtigen Beitrag, die Ziele für eine nach-haltige Entwicklung der Agenda 2030 zu erreichen  Rund ein Dutzend dieser „Sustainable Development Goals“ (SDGs), auf die sich die Staatengemeinschaft 2015 in New York verständigt hat, adressiert die Bioökonomie direkt  Damit stellen die SDGs den zentralen Bezugsrahmen für die deutsche Bioökonomiestrategie dar 
+Die Bioökonomie birgt große Potenziale  Dabei werden biologische Ressourcen, Prozesse und Systeme so erzeugt, erschlossen und genutzt, dass ein wesentlicher Beitrag ge-leistet wird, um uns von fossilen Rohstoffen wie Kohle, Erdöl und Erdgas unabhängig zu machen  Gleichzeitig er-möglichen wissenschaftliche und technologische Fort-schritte ganz neue bioökonomische Anwendungen, die über den Ersatz von klimaschädlichen fossilen Rohstoffen weit hinausgehen  Die Grundlagen für diese Fortschritte haben wir nicht zuletzt mit der Nationalen  
+Politik kann Wege aufzeigen und Weichen stellen  Der Wandel zu einer nachhaltigen Wirtschaftsweise wird aber nur mit einer breiten gesellschaftlichen Unterstützung  gelingen  Hierzu werden wir im Rahmen der neuen Strate-gie die Gesellschaft frühzeitig einbinden und den  Austausch mit all jenen suchen, die das Zukunftsthema  Bioökonomie mitgestalten wollen 
+Ihr Bundesministerium für Bildung und Forschung
+Ihr Bundesministerium für Ernährung und Landwirtschaft
+[Page #5]
+4 
+NATIONALE BIOÖKONOMIESTRATEGIE
+Zusammenfassung
+sellschaftlichen Ebenen und in allen wirtschaftlichen Sek-toren, die sich in sechs gemeinsamen strategischen Zielen zusammenfassen lassen: 
+Nachhaltigkeit und Klimaschutz sind die zentralen Themen des 21. Jahrhunderts. Die Menschheit ist an einem Punkt angekommen, an dem eine weitere Übernutzung von Res-sourcen die Biosphäre erheblich zu schädigen droht. Um die Lebensgrundlagen für Menschen, Tiere und Pflanzen zu er-halten, muss der Ressourcenverbrauch auf ein ökologisch verträgliches Maß reduziert werden. Gleichzeitig gilt es, einer wachsenden Weltbevölkerung wirtschaftlichen Wohlstand und das Recht auf Entwicklung zu ermöglichen.
+1 
+ Bioökonomische Lösungen für die Nachhaltigkeits-agenda entwickeln
+2    Potenziale der Bioökonomie innerhalb ökologischer 
+Grenzen erkennen und erschließen
+3   Biologisches Wissen erweitern und anwenden 4   Ressourcenbasis der Wirtschaft nachhaltig ausrichten5    Deutschland zum führenden Innovationsstandort der 
+Bioökonomie ausbauen
+Die Bioökonomie hat das Ziel, Ökonomie und Ökologie für ein nachhaltiges Wirtschaften zu verbinden  In der Defini-tion der Bundesregierung umfasst die Bioökonomie die Er-zeugung, Erschließung und Nutzung biologischer Ressour-cen, Prozesse und Systeme, um Produkte, Verfahren und Dienstleistungen in allen wirtschaftlichen Sektoren im Rahmen eines zukunftsfähigen Wirtschaftssystems bereit-zustellen  Bioökonomische Innovationen vereinen biolo-gisches Wissen mit technologischen Lösungen und nutzen die natürlichen Eigenschaften biogener Rohstoffe hin-sichtlich ihrer Kreislauffähigkeit, Erneuerbarkeit und An-passungsfähigkeit  Die Bioökonomie birgt das Potenzial, neuartige Produkte und Verfahren hervorzubringen, um Ressourcen zu schonen und Wohlstand zu schaffen 
+6    Gesellschaft einbinden, nationale und internationale 
+Kooperationen intensivieren
+Für die strategischen Ziele werden konkrete Umsetzungs-ziele in der Forschungsförderung, der Gestaltung von Rah-menbedingungen und bei übergreifenden Instrumenten festgelegt  Forschung ist der Schlüssel, um die Potenziale  der Bioökonomie zu erkennen und zu erschließen  Die Schwerpunkte der künftigen Forschungsförderung werden in den Bausteinen Biologisches Wissen als Schlüssel der Bioökonomie, Konvergierende Technologien und disziplin-übergreifende Zusammenarbeit, Grenzen und Potenziale, Transfer in die Anwendung, Bioökonomie und Gesellschaft sowie Globale Forschungskooperationen liegen 
+Mit der Nationalen Bioökonomiestrategie legt die Bundes-regierung die Leitlinien und Ziele ihrer Bioökonomie-Poli-tik fest und benennt Maßnahmen für deren Umsetzung  Die Strategie baut auf der „Nationalen Forschungsstrategie Bio-Ökonomie 2030“ und der „Nationalen Politikstrategie Bioöko-nomie“ auf und bündelt die politischen Aktivitäten in einem kohärenten Rahmen  Mit der Strategie werden die Voraus-setzungen geschaffen, um Deutschlands Vorreiterrolle in der Bioökonomie zu stärken und die Technologien und Arbeits-plätze von morgen zu entwickeln  Gleichzeitig bekennt sich die Bundesregierung mit der Strategie zu ihrer globalen Ver-antwortung in der international vernetzten Bioökonomie 
+Zur Verbesserung der Rahmenbedingungen für die Bio-ökonomie werden politische Handlungsfelder beschrieben, auf denen die Bundesregierung in den kommenden Jahren konkrete Maßnahmen ergreifen wird  Das betrifft die Min-derung des Flächendrucks, die Sicherstellung der nachhal-tigen Erzeugung und Bereitstellung biogener Rohstoffe, den Aufbau und die Weiterentwicklung bioökonomi-scher Wertschöpfungsketten und -netze, Instrumente zur Markteinführung und Etablierung biobasierter Produkte, Verfahren und Dienstleistungen, die Sicherstellung politi-scher Kohärenz, die Nutzung des Bioökonomie-Potenzials für die Entwicklung ländlicher Räume sowie die Nutzung der Digitalisierung für die Bioökonomie 
+Zwei übergeordnete Leitlinien flankieren die Ziele und Maßnahmen der Nationalen Bioökonomiestrategie  Die erste Leitlinie verweist auf biologisches Wissen und fort-schrittliche Technologien als Pfeiler eines zukunftsfähi-gen, nachhaltigen und klimaneutralen Wirtschaftssys-tems  Die zweite Leitlinie zielt auf die Rohstoffbasis der Wirtschaft, die durch biogene Ressourcen nachhaltig und kreislauforientiert ausgerichtet werden soll 
+Um der Bioökonomie als umfassendem Ansatz gerecht zu werden, setzt die Bundesregierung übergreifende Instru-mente zur Umsetzung der Strategie ein  Dazu gehören die Einrichtung eines Beratungsgremiums, die Zusammenarbeit des Bundes mit den Ländern, europäische und internationale Zusammenarbeit, Maßnahmen zur Kommunikation und für einen offenen Dialog mit gesellschaftlichen Gruppen, Maß-nahmen zur Förderung von Qualifikation und Fachkräften sowie die Etablierung eines Bioökonomie-Monitorings 
+Die Bioökonomiestrategie der Bundesregierung adressiert ein breites Spektrum an Zielen auf unterschiedlichen ge-
+[Page #6]
+ZUSAMMENFASSUNG 
+5
+Die Bioökonomiestrategie der Bundesregierung
+Politische Leitlinien und Ziele 
+Leitlinie 1Mit biologischem Wissen und verantwortungs­vollen Innovationen zu einer nachhaltigen, klimaneutralen Entwicklung
+Leitlinie 2Mit biogenen Rohstoffen zu einer nachhaltigen, kreislauforientierten Wirtschaft 
+Gemeinsame strategische Ziele für Forschungsförderung  und politische Rahmensetzung
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+Gesellschaft ein­binden, nationale und internationale Kooperationen intensivieren
+Deutschland zum führenden Inno­vationsstandort der Bioökonomie ausbauen
+Biologisches  Wissen erweitern und anwenden
+Ressourcenbasis der Wirtschaft nachhaltig aus­richten
+Potenziale der Bioökonomie innerhalb ökolo­gischer Grenzen erkennen und erschließen
+Bioökonomische Lösungen für die Nachhaltigkeits­agenda entwickeln
+Umsetzung
+Forschungsförderung
+Rahmenbedingungen
+Übergreifende Instrumente
+[Page #7]
+6 
+NATIONALE BIOÖKONOMIESTRATEGIE
+Vorbemerkung
+unter Berücksichtigung neuer Erkenntnisse und aktueller Entwicklungen bekennt sich die Bundesregierung zum Aus-bau einer biobasierten Wirtschaft und setzt neue Schwer-punkte, um die vielfältigen Potenziale der Bioökonomie im Sinne einer nachhaltigen Entwicklung konsequent zu er-schließen und Fehlentwicklungen zu vermeiden  
+Die Bundesregierung unterstützt den Wandel von einer weitgehend auf fossilen Rohstoffen basierenden Wirtschaft zu einer stärker auf erneuerbaren Ressourcen beruhenden, rohstoffeffizienteren und kreislauforientierten Wirtschaft  Bereits im Jahr 2010 hat sie sich mit der „Nationalen For-schungsstrategie BioÖkonomie 2030“1  zur Vision bekannt, eine an natürlichen Stoffkreisläufen orientierte, nachhalti-ge biobasierte Wirtschaft zu schaffen  Mit der im Jahr 2013 vorgelegten „Nationalen Politikstrategie Bioökonomie“2 wurden Ziele und Maßnahmen definiert, um diesen Struk-turwandel auch durch die Anpassung der Rahmenbedin-gungen zu unterstützen  
+Die neue Strategie ist das Ergebnis eines umfassenden Agenda-Prozesses, in den der Fortschrittsbericht zur Na-tionalen Politikstrategie Bioökonomie3 , die Evaluation der bisherigen Forschungsstrategie4, Empfehlungen des bis 2019 amtierenden Bioökonomierates der Bundesregie-rung5  sowie Erfahrungen mit Bioökonomiestrategien auf europäischer und internationaler Ebene Eingang gefun-den haben  Der Prozess umfasste Konferenzen, Workshops und Konsultationen, an denen Vertreterinnen und Vertre-ter aus Wirtschaft, Forschung, Politik und Zivilgesellschaft beteiligt waren  Dieser partizipative Ansatz soll fortgeführt werden, um auch in der Umsetzung der Strategie ein wei-tes Spektrum von Meinungen und Sichtweisen berück-sichtigen zu können  Dafür wird die Bundesregierung ein unabhängiges, breit aufgestelltes Beratungsgremium beru-fen, das unter Einbindung aller relevanten Gruppen einen Fahrplan mit konkreten Umsetzungsschritten entwirft, der kontinuierlich fortgeschrieben wird  
+Die Bundesregierung hält an ihrer Vision fest  Sie intensi-viert die Anstrengungen zur Umsetzung einer nachhalti-gen Bioökonomie, indem sie die bisherigen Maßnahmen bündelt, weitere Politikstrategien berücksichtigt und in der neuen Strategie zusammenführt  Dabei werden die ver-schiedenen Teilziele harmonisiert und die korrespondieren-den Maßnahmen noch enger miteinander verzahnt  Mit ih-rer Bioökonomiestrategie formuliert die Bundesregierung die Aufgaben für Politik und Forschung in den kommenden Jahren und benennt Herausforderungen für Wirtschaft und Gesellschaft auf dem Weg zu einer Bioökonomie  Aufbauend auf den seit dem Jahr 2010 unternommenen Schritten und 
+[Page #8]
+BIOÖKONOMIE FÜR EINE NACHHALTIGE ZUKUNFT 
+7
+[Page #9]
+8 
+NATIONALE BIOÖKONOMIESTRATEGIE
+1
+Bioökonomie für einenachhaltige Zukunft
+[Page #10]
+BIOÖKONOMIE FÜR EINE NACHHALTIGE ZUKUNFT 
+9
+Die Bioökonomie zielt darauf ab, mit neuen Lösungen zur Bewältigung der großen Herausforderungen des 21. Jahrhunderts beizutragen. Im Folgenden werden Definition und Zielsetzung der Bioökonomie erläutert.  
+[Page #11]
+10 
+NATIONALE BIOÖKONOMIESTRATEGIE
+Der Maßstab für den Nutzen und den Mehrwert bioba-sierter Produkte und Verfahren ist deren Beitrag zu einer nachhaltigen und klimaneutralen Wirtschaftsweise  An-gesichts des Überschreitens planetarer Belastungsgrenzen – insbesondere mit Blick auf den Verlust der Artenvielfalt, den Klimawandel, Störungen im Stickstoffkreislauf und den Verlust fruchtbarer Böden – wird gerade von der Bio-ökonomie ein Beitrag zu einem Umsteuern in Richtung ei-ner nachhaltigen Entwicklung erwartet 
+In der Definition der Bundesregierung umfasst die Bioöko-nomie die Erzeugung, Erschließung und Nutzung biolo-gischer Ressourcen, Prozesse und Systeme, um Produkte, Verfahren und Dienstleistungen in allen wirtschaftlichen Sektoren im Rahmen eines zukunftsfähigen Wirtschafts-systems bereitzustellen 
+Die Bioökonomie zielt darauf, Lösungen zur Bewältigung der großen Herausforderungen des 21  Jahrhunderts zu lie-fern  Sie thematisiert die Grundfragen der Welt von morgen:
+Die seit den 1980er Jahren geführte Diskussion um den Be-griff der Nachhaltigkeit hat gezeigt, dass sich die drei Di-mensionen von Nachhaltigkeit – ökonomisch, ökologisch und sozial – nicht gegeneinander aufrechnen lassen, son-dern voneinander abhängen  Eine an natürlichen Stoff-kreisläufen orientierte, die Leistungen von Ökosystemen zugleich nutzende wie schützende Art des Wirtschaftens muss gleichzeitig wettbewerbsfähig sein und Arbeitsplät-ze sichern  Die Bioökonomie versteht sich als Beitrag zur anhaltenden Diskussion um die konkrete Ausgestaltung nachhaltiger Entwicklung und orientiert sich dabei an den Nachhaltigkeitszielen der „Agenda 2030 für nachhaltige Entwicklung“ der Vereinten Nationen, wie im Folgenden (Abschnitt 2 3) näher dargelegt wird 
+ Wie können Ernährungs- und Ressourcensicherheit für eine steigende Weltbevölkerung sichergestellt und gleichzeitig Klima, Umwelt und biologische Vielfalt ge-schützt werden?
+• 
+ Wie können Ökologie und Ökonomie miteinander ver-bunden und die damit einhergehenden Chancen und Herausforderungen ausgewogen verteilt werden?
+• 
+ Wie kann unser Wirtschaftssystem so transformiert werden, dass es nachhaltig ist und künftigen Wohlstand sichert?
+• 
+ Wie kann die Bioökonomie möglichst schnell und wirk-sam zur Erfüllung der internationalen Klimaschutzziele des Übereinkommens von Paris beitragen?
+• 
+Grundpfeiler einer nachhaltigen Bioökonomie ist vor die-sem Hintergrund die verantwortungsvolle Erzeugung, Er-schließung und Nutzung biogener Roh- und Reststoffe  Dabei hat die Sicherung der weltweiten Ernährung stets Vorrang, und es müssen ethische Prinzipien und gesell-schaftlich anerkannte Ziele wie Umwelt-, Landschafts- und Tierschutz berücksichtigt werden  
+Mit dem Ausbau der Bioökonomie werden die Ressourcen-basis der Wirtschaft nachhaltig ausgerichtet und fossile Roh-stoffe ersetzt  Die Substitution dieser nur begrenzt verfüg-baren und klimaschädlichen Rohstoffe kann ein Schritt in Richtung Nachhaltigkeit sein, wenn die dafür benötigte Bio-masse unter Berücksichtigung ökologischer und ethischer Kriterien produziert und effizient eingesetzt wird  Biologi-sches Wissen und fortschrittliche Technologien ermöglichen es, neuartige und ressourcenschonende Verfahren und Pro-dukte zu entwickeln und dadurch Wertschöpfungsketten zu erweitern und miteinander zu vernetzen  Bioökonomische Innovationen vereinen biologisches Wissen mit technologi-schen Lösungen und stellen die natürlichen Eigenschaften biogener Rohstoffe hinsichtlich Kreislauffähigkeit, Erneuer-barkeit, CO2-Bilanz und Anpassungsfähigkeit in den Dienst eines nachhaltigen Wirtschaftens 
+Ausschlaggebend für die Zuordnung eines Produktes, ei-nes Verfahrens oder einer Dienstleistung zur Bioökonomie sind die eingesetzten biologischen Ressourcen  In der Bio-ökonomie werden Rohstoffe, die in der Land-, Forst- und Meereswirtschaft, in der Fischerei und Aquakultur oder der mikrobiellen Produktion erzeugt werden, sowie bioge-ne Rest- und Abfallstoffe genutzt  Zu den Ressourcen der Bioökonomie gehört darüber hinaus das Wissen über bio-logische Prozesse und Systeme für neue Anwendungen so-wie die Erschließung von Rohstoffquellen durch biologi-sche Verfahren 
+[Page #12]
+BIOÖKONOMIE FÜR EINE NACHHALTIGE ZUKUNFT 
+11
+Nachhaltige Wirtschaftklimaneutral & kreislauforientiert
+Biologisches Wissen & verantwortungs-  volle Innovationen
+Biogene Rohstoffe für eine nachhaltige Wirtschaft
+[Page #13]
+12 
+NATIONALE BIOÖKONOMIESTRATEGIE
+2
+Die Bioökonomiestrategie  der Bundesregierung
+[Page #14]
+DIE BIOÖKONOMIESTRATEGIE DER BUNDESREGIERUNG 
+13
+Die Bundesregierung setzt sich mit ihrer Bioökonomiestrategie für eine nachhal-tige Erschließung und Nutzung biolo-gischer Ressourcen sowie umwelt- und naturschonender Produktionsverfahren in allen Wirtschaftsbereichen ein  Das Kapitel beschreibt die Leitlinien, strate-gischen Ziele und Umsetzungsziele  
+[Page #15]
+14 
+NATIONALE BIOÖKONOMIESTRATEGIE
+nachfrage und politische Unsicherheiten, die sich im Markt widerspiegeln werden 
+Eine nachhaltige, biobasierte Wirtschaftsweise ist eine we-sentliche Grundlage für die Zukunft unserer Gesellschaft  Die Bundesregierung setzt sich mit ihrer Bioökonomiestrategie für eine nachhaltige Erschließung und Nutzung biologischer Ressourcen und umwelt- und naturschonende Produktions-verfahren in allen Wirtschaftsbereichen ein  Zukunftsfähi-ges Wirtschaften erfordert einen verantwortungsvollen Um-gang mit unseren natürlichen Ressourcen  Nur so können die Lebensgrundlagen für kommende Generationen bewahrt werden  Die Herausforderungen des 21  Jahrhunderts sind immens: Bis zum Ende dieses Jahrhunderts müssen voraus-sichtlich rund 11 Milliarden Menschen bei begrenzten Nutz-flächen ausreichend und gesund ernährt werden  Der Klima-wandel macht zunächst eine schnelle und deutliche Senkung der Treibhausgasemissionen und in einem zweiten Schritt Treibhausgasneutralität bis 2050 erforderlich  Der weltweit zunehmende Verlust an Naturräumen, Wäldern, landwirt-schaftlich nutzbaren Böden, Bodenfruchtbarkeit und Biodi-versität verlangt nach Gegenmaßnahmen  Hinzu kommen die Endlichkeit fossiler Rohstoffe, eine steigende Rohstoff-
+Obwohl diese Faktoren als Treiber in Richtung Nachhaltig-keit wirken, ist die Entwicklung einer gesellschaftlich ak-zeptierten Bioökonomie kein Selbstläufer, sondern bedarf vorausschauender Steuerung, Unterstützung und Regulie-rung  Dabei werden die Forschung, geeignete wirtschaft-liche und rechtliche Rahmenbedingungen, der Dialog mit und die Beteiligung von gesellschaftlichen Gruppen sowie internationale Kooperationen eine wichtige Rolle spielen  
+Die vorliegende Bioökonomiestrategie zeigt Maßnahmen und Wege auf, wie künftigen Herausforderungen begegnet werden kann und welche Prioritäten gesetzt werden sollen  Hierbei werden alle eventuell zusätzlichen Ausgaben, die sich aus der Bioökonomiestrategie ergeben, durch Prioritä-tensetzung aus vorhandenen Mitteln der zuständigen Ein-zelpläne gegenfinanziert und ohne zusätzliche Haushalts-belastungen umgesetzt 
+2.1 Leitlinien der Bioökonomiestrategie
+Damit sich diese vielversprechenden Perspektiven im Sin-ne einer nachhaltigen Entwicklung manifestieren, muss biologisches Wissen verknüpft werden mit der Forschung über die sozialen und ökologischen Systeme, in die die Bio-ökonomie eingebettet ist  Sozioökonomische Prozesse, wie Konkurrenz um knappe Ressourcen, Bevölkerungswachs-tum oder sich verändernde Wertvorstellungen, Lebenssti-le und Konsummuster, haben Folgen für den Wandel zu einer Bioökonomie, der diese seinerseits beeinflusst  Sol-che Wechselwirkungen müssen sowohl in der Forschung als auch bei der politischen Gestaltung des Transformati-onsprozesses bedacht werden  Das gilt besonders für Fra-gen, die ethische Grundsätze und gesellschaftliche Wer-te betreffen, beispielsweise wenn es um den Einsatz neuer Technologien, den Zugang zu Ressourcen, globale Vertei-lungsgerechtigkeit oder den Wert von Natur geht  Daher ist es wichtig, dass eine offene Diskussion mit breiter gesell-schaftlicher Beteiligung stattfindet, in der mögliche Ent-wicklungspfade der Bioökonomie beleuchtet werden, um Chancen und Herausforderungen abwägen und Prioritäten festlegen zu können 
+Zwei übergeordnete Leitlinien flankieren das Ziel, die Po-tenziale der Bioökonomie zu erschließen und im Sinne der Nachhaltigkeit und der Klimaziele zu nutzen  Sie dienen als Grundlage aller Maßnahmen zur Umsetzung der neuen Bioökonomiestrategie 
+Leitlinie 1:  Mit biologischem Wissen und  verantwortungsvollen Innovationen  zu einer nachhaltigen, klima­neutralen Entwicklung
+Die ständige Erweiterung biologischen Wissens eröffnet neue Möglichkeiten für Innovationen und nachhaltige Lösungen und treibt den Wandel zu einer biobasierten Wirtschaft vo-ran  Es gelingt zunehmend, neue biobasierte Technologien und Produkte zur Verfügung zu stellen  Die darauf gerichte-te Nachfrage wird zukünftig sowohl seitens der Industrie als auch bei Verbraucherinnen und Verbrauchern weiter steigen  Technologische Fortschritte, etwa durch die Digitalisierung und neue Verfahrenstechniken, ermöglichen es, das biologi-sche Wissen stetig auszubauen und für Innovationen zu nut-zen  Biologie und Technologie können dabei zu einer neuen, nachhaltigen Form des Produzierens verschmelzen  
+Bioökonomische Innovationen können einen wesentlichen Beitrag zu einer nachhaltigen Zukunft leisten  Dafür wird es allerdings nicht ausreichen, nur die Entwicklung bioba-sierter Produkte und Verfahren zu fördern  Entscheidend ist, dass die Bioökonomie gesellschaftlich erwünschte Leis-
+[Page #16]
+DIE BIOÖKONOMIESTRATEGIE DER BUNDESREGIERUNG 
+15
+entwicklungen im Rahmen ihrer Förderprogramme, um damit zu einer nachhaltigeren, effizienten und klimaneu-tralen Ressourcennutzung beizutragen  
+tungen erbringt  Dazu gehören ressourcen- und umwelt-schonende Lösungen, die einen nachhaltigeren Konsum befördern 
+Die Bioökonomie substituiert aber nicht nur fossile durch nachwachsende Rohstoffe  Sie ermöglicht auch die Ent-wicklung neuer Produkte und Verfahren in ganz verschie-denen Sektoren  Das volle Potenzial der Bioökonomie zu erschließen bedeutet, traditionelle Wertschöpfungsketten zu öffnen und zu erweitern oder gegebenenfalls zu erset-zen  Dem Leitgedanken der Kaskaden- und Kreislaufnut-zung folgend sollen Wertschöpfungsketten zu neuartigen und effizienten Wertschöpfungsnetzen verknüpft wer-den  Durch Verarbeitungsschritte vor Ort ergeben sich zu-kunftsweisende Entwicklungsperspektiven, insbesondere für ländliche Räume 
+Leitlinie 2:  Mit biogenen Rohstoffen zu  einer nachhaltigen, kreislauf­orientierten Wirtschaft
+Biogene Rohstoffe verfügen über Eigenschaften, die sie be-sonders wertvoll und vorteilhaft machen  Im Gegensatz zu fossilen Rohstoffen sind sie erneuerbar  Eine Begren-zung ergibt sich jedoch durch die Verfügbarkeit von für die Biomasseproduktion nötigen Flächen  Aufgrund ih-rer chemisch-physikalischen Beschaffenheit sind bioge-ne Rohstoffe in besonderer Weise geeignet, um in Kas-kaden oder Kreisläufen genutzt zu werden  Das schließt sowohl eine stoffliche Verwendung als auch die Kompos-tierung ein  Am Ende einer Nutzungskette kann Biomasse auch energetisch verwendet werden  Dabei wird im Prin-zip nicht mehr Kohlendioxid freigesetzt als während der Wachstumsphase der Atmosphäre entzogen wurde, auch wenn für eine exakte Bilanz die zusätzliche Konversions- und Transportenergie berücksichtigt werden muss  Bio-gene Ressourcen und biobasierte Produkte können somit eine klima- und ressourcenschonende Alternative zu fossi-len Rohstoffen und Erzeugnissen darstellen  Biogene Ma-terialien, wie beispielsweise Bau- und neue Werkstoffe für langlebige Industriegüter, entziehen und binden zudem für lange Zeiträume CO2 aus der Atmosphäre  Die Bundesre-gierung unterstützt entsprechende Produkt- und Prozess-
+Damit die Bioökonomie diese positiven Effekte mit Blick auf Klima, biologische Vielfalt, Umwelt und Wohlfahrt er-zielt, ist es unabdingbar, dass die zugrunde liegenden bio-genen Ressourcen nachhaltig erzeugt werden  Angesichts begrenzter Flächen kann die Produktion von Biomasse nicht beliebig ausgeweitet werden  Nötig sind nachhaltige Ertragssteigerungen auf den vorhandenen landwirtschaft-lichen Flächen sowie  ein möglichst effizienter und verant-wortungsbewusster Einsatz der so erzeugten Rohstoffe  In Betracht kommen darüber hinaus auch neue Produktions-systeme, in denen Biomasse beispielsweise in einer techni-schen Umgebung oder auch auf degradierten Flächen er-zeugt wird  Sofern Nutzungskonkurrenzen entstehen, hat die Ernährungssicherheit stets Priorität  Zugleich muss Biodiversität geschützt und die Ökosystemleistung des Waldes als Senke für Treibhausgase gestärkt werden 
+Das Algen Science Center am Forschungszentrum Jülich forscht an Algen als Basis für Treibstoffe in der Luftfahrtindustrie. 
+[Page #17]
+NATIONALE BIOÖKONOMIESTRATEGIE
+16 
+Ziele der BioökonomiestrategieGemeinsame strategische Ziele und zugehörige Umsetzungsziele  für die Forschungsförderung und die politische Rahmensetzung
+1
+Bioökonomische Lösungen für die Nachhaltigkeitsagenda entwickeln Bioökonomie an den Zielen für nachhaltige Entwicklung der Agenda 2030 der Vereinten Nationen (SDGs) ausrichten
+›  
+›  ›  ›  
+ Ernährung für eine nachwachsende Weltbevölkerung sichern Durch klimaneutrale Produktion zum Erreichen des 1,5 °C­Ziels beitragen Biodiversität schützen, erhalten und nutzen 
+    3
+2
+Potenziale der Bioökonomie  innerhalb ökologischer Grenzen erkennen und erschließen Produktionssysteme in ökosystemaren Zusammen­hängen verstehen Zielkonflikte und Wechselwirkungen erforschen Ökonomie und Ökologie in ganzheitlichen Ansätzen integrieren Umfassendes Monitoring etablieren, Biomasseströme messen und bewerten, vergleichende Nachhaltigkeits­bilanzierungen vornehmen
+Biologisches Wissen erweitern  und anwenden
+›  ›  
+ Biologische Systeme verstehen und modellierenN  euartige Produktionsorganismen für Agrarsystemeund Industrie entwickelnI  nnovative Verfahrenskonzepte für biobasierte  Produktionssysteme entwickeln und etablierenDigitalisierung,Miniaturisierung, Robotik, Automatisierung als konver­gierende Technologien für die Bioökonomie nutzenI  nterdisziplinäre Zusammenarbeit stärken Infrastruktur für Forschung und Technologietransfer ausbauen
+›  
+›  
+›  ›  
+›  
+ Künstliche Intelligenz, Nanotechnologie, 
+›  
+›  ›  
+5
+4
+Ressourcenbasis der Wirtschaft nachhaltig ausrichten Biogene Rohstoffe nachhaltig erzeugen und bereitstellen Landwirtschaftlich nutzbare Böden schützen und Bodenfruchtbarkeit erhalten Biogene Rohstoffe und Nebenerzeugnisse nutzen Abhängigkeit von fossilen Rohstoffen reduzieren Potenzial der Bioökonomie für die Entwicklung länd­licher Räume nutzen Neuartige Kreisläufe der Erzeugung, Verarbeitung und Verwertung biogener Ressourcen u. a. im urbanen Raum entwickeln
+Deutschland zum führenden  Innovationsstandort  der Bioökonomie ausbauen Transfer stärken und wirtschaftliches Potenzial der Bioökonomie für Geschäftsmodelle, Arbeitsplätze und Einkommensmöglichkeiten in allen wirtschaftlichen Sektoren nutzen Markteinführung biobasierter Produkte, entsprechen­der Verfahren und Dienstleistungen beschleunigen Neuartige Wertschöpfungsketten etablieren Start­ups, kleine, mittlere und mittelständische  Unternehmen fördern Cluster und Modellregionen fördern
+›  ›  
+›  
+›  ›  ›  
+›  
+›  
+›  ›  
+›  
+6
+Gesellschaft einbinden, nationale und internationale Kooperationen intensivieren›  ›  ›  › 
+ Breit aufgestelltes Beratungsgremium einrichten Dialog mit allen interessierten Gruppen der Gesellschaft führen Gesellschaftswissenschaften in der Bioökonomie­Forschung stärken Europäische und internationale Zusammenarbeit ausbauen
+[Page #18]
+DIE BIOÖKONOMIESTRATEGIE DER BUNDESREGIERUNG 
+17
+2.2  Ziele und Umsetzung  
+der Bioökonomiestrategie
+in den folgenden Kapiteln zur Forschungsförderung und zu den Rahmenbedingungen näher erläutert  Die Übersicht auf Seite 16 fasst die gemeinsamen strategischen Ziele und die entsprechenden Umsetzungsziele zusammen 
+Flankiert durch die beiden Leitlinien adressiert die Bioöko-nomiestrategie der Bundesregierung ein breites Spektrum an Zielen auf unterschiedlichen gesellschaftlichen Ebenen und in allen wirtschaftlichen Sektoren  Die Ziele werden im vorliegenden Kapitel im Zusammenhang dargelegt und 
+2.3  Bioökonomie als Beitrag zu Nachhaltigkeit
+zahlbare und saubere Energie“, SDG 8 „Menschenwürdige Arbeit und Wirtschaftswachstum“, SDG 9 „Industrie, Inno-vation und Infrastruktur“, SDG 11 „Nachhaltige Städte und Gemeinden“,  SDG 12 „Nachhaltige/r Konsum und Pro-duktion“, SDG 13 „Maßnahmen zum Klimaschutz“, SDG 14 „Leben unter Wasser“ sowie zu SDG 15 „Leben an Land“  
+Das übergeordnete Ziel der Nachhaltigkeit teilt die Bioöko-nomie mit anderen Initiativen, die jeweils spezifische As-pekte auf dem Weg zu mehr Nachhaltigkeit adressieren  Die Bundesregierung hat in den vergangenen Jahren di-verse Maßnahmen auf den Weg gebracht, um Nachhaltig-keit als Querschnittsaufgabe über Politikfelder und Wirt-schaftssektoren hinweg zu verankern  Mit der „Deutschen Nachhaltigkeitsstrategie“6 bekennt sich die Bundesregierung zur Förderung einer nachhaltigen Entwicklung als grundle-gendem Ziel und Maßstab ihres Regierungshandelns  In um-fassender Weise steckt sie klare Ziele für die politische Um-setzung der Nachhaltigkeitsagenda der Vereinten Nationen  Wichtige Aspekte werden auch in eigenen Programmen etwa zum Klimaschutz7, zu Ressourceneffizienz und Kreislaufwirt-schaft8, zur Nachhaltigkeitsforschung9 oder zur biologischen Vielfalt10 behandelt  Als übergreifende Innovationsstrategie definiert die „Hightech-Strategie 2025“11 ein eigenes Hand-lungsfeld und verschiedene Missionen zum Thema Nachhal-tigkeit  Die Nationale Bioökonomiestrategie der Bundesregie-rung steht in einer Reihe mit diesen Initiativen und fördert die Stärkung einer biobasierten Wirtschaft als wesentlichen Beitrag ihrer Politik für Nachhaltigkeit  
+Die Bedeutung der Bioökonomie für die Umsetzung der Nachhaltigkeitsziele wird als sehr hoch eingeschätzt  Das spiegelt sich unter anderem in zahlreichen politischen Ini-tiativen, die in letzter Zeit ergriffen wurden, wider  Einige Bundesländer in Deutschland haben in den letzten Jahren eigene Bioökonomiestrategien entwickelt  Seit dem Jahr 2012 gibt es zudem eine Bioökonomiestrategie in der Euro-päischen Union  Diese wurde im Jahr 2018 überarbeitet 13  Dabei wurden mit der stärkeren Betonung von Nachhal-tigkeit und Kreislauffähigkeit neue Schwerpunkte gesetzt, während die fünf Ziele der ursprünglichen Strategie – Er-nährung sichern, natürliche Ressourcen nachhaltig be-wirtschaften, Abhängigkeit von nicht-nachhaltigen Roh-stoffen verringern, Kampf gegen und Anpassung an den Klimawandel, Wettbewerbsfähigkeit steigern und Arbeits-plätze sichern und schaffen – bekräftigt wurden  Die deut-sche Bioökonomiestrategie greift diese Zielstellungen auf 
+Auch auf internationaler Ebene gewinnt das Thema Nach-haltigkeit zunehmend an Bedeutung  Es gibt verstärkte Be-mühungen, politische Maßnahmen abzustimmen und zu koordinieren  Mit der Verabschiedung der „Agenda 2030 für nachhaltige Entwicklung“12  im Jahr 2015 hat die in-ternationale Staatengemeinschaft im Rahmen der Verein-ten Nationen 17 Ziele für nachhaltige Entwicklung (Sus-tainable Development Goals – SDG) mit 169 Unterzielen festgelegt  Die Bioökonomie adressiert zahlreiche Teilas-pekte dieser umfassenden UN-Entwicklungsziele  Beson-ders hervorzuheben sind die erwarteten Beiträge zu SDG 2 „Kein Hunger“, SDG 3 „Gesundheit und Wohlergehen“, SDG 6 „Sauberes Wasser und Sanitäreinrichtungen“, SDG 7 „Be-
+Die zunehmende Bedeutung der Bioökonomie ist nicht auf Deutschland und Europa beschränkt  Mittlerweile gibt es weltweit rund 50 Staaten, die Bioökonomiestrategien ent-wickelt haben  Die Programme unterscheiden sich, abhän-gig von den national zur Verfügung stehenden biogenen Ressourcen sowie den politischen, sozialen und technolo-gischen Rahmenbedingungen  Sie verdeutlichen damit die große Spannbreite der Bioökonomie  Der Trend zeigt, dass immer mehr Länder große Hoffnungen in die Potenzia-le bioökonomischer Lösungen setzen  Er zeigt aber auch, dass die Entwicklung der Bioökonomie auf internationa-
+[Page #19]
+18 
+NATIONALE BIOÖKONOMIESTRATEGIE
+zungen  Die Zusammenarbeit – sowohl innerhalb Deutsch-lands und in der Europäischen Union als auch mit weiteren internationalen Partnern – wird die Bundesregierung in den kommenden Jahren intensivieren 
+le Kooperation angewiesen ist, um die übergreifenden Zie-le zu erreichen  Dabei ergeben sich vielfältige Chancen zum Austausch, zur bestmöglichen Verknüpfung bewähr-ter Praktiken und zur Koordination der gesamten Umset-
+UN-Nachhaltigkeitsziele mit Relevanz für die Bioökonomie
+6
+3
+Sauberes Wasser undSanitäreinrichtungen
+Gesundheit undWohlergehen
+2
+7
+Kein Hunger
+Bezahlbare und saubere Energie
+15
+8
+Leben an Land
+Menschen-würdige Arbeit und Wirtschafts-wachstum
+14
+9
+Industrie,Innovation undInfrastruktur
+Leben unter Wasser
+11
+13
+Massnahmenzum Klimaschutz
+Nachhaltige Städteund Gemeinden
+12
+Nachhaltiger Konsumund Produktion
+2.4  Globale Herausforderungen,  ganzheitliche Lösungsansätze
+me künftiger Generationen einschränken  Unser Wirt-schaftssystem muss nachhaltig und damit zukunftsfähig ausgerichtet werden 
+Unsere gegenwärtige Art und Weise zu produzieren und zu konsumieren stößt global an ihre Grenzen oder hat diese bereits überschritten  Die Konsumbedürfnisse einer wach-senden und immer anspruchsvoller werdenden Weltbe-völkerung werden sich ohne einen grundsätzlichen Kurs-wechsel auf Dauer nicht befriedigen lassen, ohne unsere Lebensgrundlagen zu zerstören  Das gilt umso mehr, als die Folgen des Klimawandels und der Übernutzung von Ressourcen zunehmend spürbar werden und die Spielräu-
+Das Ziel, Lösungen für die großen gesellschaftlichen He-rausforderungen zu erarbeiten und eine nachhaltigere Wirtschaftsweise zu fördern, erfordert einen ganzheitli-chen Blick  Gefragt sind nachhaltige Lösungen, die Alter-nativen zu bisherigen Produktionsformen und Konsum-
+[Page #20]
+DIE BIOÖKONOMIESTRATEGIE DER BUNDESREGIERUNG 
+19
+Basis wissenschaftlicher Erkenntnisse zu mindern  Im bes-ten Falle können Win-win-Situationen entstehen, indem Synergien geschaffen werden 
+mustern anbieten, indem sie systemische Zusammenhänge berücksichtigen  Dabei geht es sowohl um Wechselwirkun-gen zwischen biologischen Systemen und ihrer Umwelt als auch um die Rolle abiotischer Rohstoff- und Energiekom-ponenten  Unterschiedliche Perspektiven müssen verbun-den und Wechselwirkungen auf allen Ebenen beachtet werden  Das reicht von Organismen über Ökosysteme bis hin  zum planetaren Klimahaushalt 
+Dies beschränkt sich nicht auf den Kern der Bioökono-mie  Ihr ganzes Potenzial entfalten bioökonomische Lö-sungen und Technologien im Zusammenspiel mit anderen Zukunftstechnologien  Angetrieben von der Digitalisie-rung und Fortschritten in Technologiefeldern wie der Mik-roelektronik, der Nanotechnologie oder der Material- und Verfahrenstechnik eröffnen sich ganz neue Anwendungs-möglichkeiten, deren Reichweite noch nicht abzuschät-zen ist  Gleichzeitig ergeben sich durch den breiten Hori-zont der Bioökonomie und ihre Orientierung an aktuellen gesellschaftlichen Themen auch zahlreiche Anknüpfungs-punkte zu anderen Politik- und Forschungsfeldern  In der Bioökonomie werden Fragen adressiert, die auch für die Gesundheits- und Lebenswissenschaften, die Umwelt-ethik, die Klimaforschung, die Ökosystemwissenschaften, die Materialforschung, Ressourceneffizienz, erneuerbare Energien oder die Industrie 4 0 von Bedeutung sind 
+Besonders wichtig als Teil dieser ganzheitlichen Betrach-tung ist es, bei allen Maßnahmen neben den ökologischen Auswirkungen auch die sozialen und wirtschaftlichen Ef-fekte zu berücksichtigen  Das schließt Fragen nach der Zu-kunft unseres Wirtschaftssystems im Allgemeinen eben-so ein wie Fragen nach den Folgen von Digitalisierung und demographischer Entwicklung für den Arbeitsmarkt und künftige Beschäftigung im Besonderen  Angesichts der Komplexität der Herausforderungen und der Vielzahl von damit verbundenen Zielstellungen sind Zielkonflikte un-vermeidlich  Systemisches Denken und ganzheitliche An-sätze helfen dabei, solche Konflikte zu erkennen und auf 
+2.5 Bioökonomie als Entwicklungsstrategie
+lichen Raums und strukturschwacher Regionen  Wenn es gelingt, die im Rahmen eines innovativen Bioökonomie-Konzepts notwendigen weiteren Verarbeitungsstufen bio-gener Rohstoffe im näheren Einzugsbereich oder direkt am Ort der Rohstoffgewinnung anzusiedeln, wird sich dies positiv auf die Wertschöpfung und die Arbeitsplätze im ländlichen Raum auswirken  Auch können Rest- und Ab-fallstoffe im Sinne der Kreislaufwirtschaft ohne zusätzli-chen Transportaufwand in den landwirtschaftlichen Pro-duktionsprozess zurückgeführt und möglichst wieder als Ausgangsstoffe eingesetzt werden  Die energetische Nut-zung nachwachsender Rohstoffe kann in einigen Regio-nen, beispielsweise in abgelegenen ländlichen Räumen, die Energieversorgung sicherstellen, wenn andere erneuerba-re Energiequellen nicht sicher und bedarfsgerecht zur Ver-fügung stehen  Dies gilt nicht zuletzt auch für dezentrale Energieversorgungssysteme  
+Die Bioökonomie ist ein sektorenübergreifendes Wirt-schaftskonzept, das in den letzten Jahren immer mehr an Bedeutung gewonnen hat  Das lässt sich festmachen an ei-nem steigenden Anteil biobasierter Produkte und Verfah-ren an der Wertschöpfung  Zahlreiche weitere biobasierte Innovationen, die sich durch verbesserte Eigenschaften ge-genüber herkömmlichen fossilen Produkten auszeichnen, werden erdacht, entwickelt, erprobt oder schon eingesetzt  Anwendungsmöglichkeiten gibt es viele, beispielsweise im Bereich der technologieoffenen Züchtungsforschung, der Biopolymerforschung, in der enzymatischen Aufspal-tung pflanzlicher Rohstoffe, in der Entwicklung hochwer-tiger Inhaltsstoffe auf der Grundlage von Mikroalgen, im Bereich der ökologischen und konventionellen Landwirt-schaft, in der Herstellung von Plattformchemikalien, im Leichtbau mit biobasierten Verbundwerkstoffen, im Haus-bau mit innovativen Konstruktions- und Dämmstoffen aus nachwachsenden Materialien, in der Anwendung von biobasierten Geotextilien zur Erosionsprävention, in der Medizintechnik oder etwa im Bereich der Biopharmazeuti-ka und Wirkstoff-Forschung bis hin zur direkten Nutzung von CO2 aus industriellen Prozessen als Kohlenstoffquelle 
+Aufgrund des großen Innovationspotenzials, das bei einer Vielzahl von biogenen Rohstoffnutzungen in Verbindung mit dem Einsatz biotechnologischer Verfahren vorhanden ist, eröffnet die Förderung der Bioökonomie große Chan-cen für Deutschland, sich im internationalen Vergleich als Vorreiter und Innovationsstandort für die Wirtschafts-zweige und Arbeitsplätze von morgen zu positionieren 
+Da nachwachsende Rohstoffe überwiegend in ländlichen Regionen gewonnen werden, eignet sich die Bioökonomie auch als Modell zur nachhaltigen Entwicklung des länd-
+[Page #21]
+20 
+NATIONALE BIOÖKONOMIESTRATEGIE
+3
+2
+Forschungsförderung für  eine nachhaltige Bioökonomie
+[Page #22]
+21
+2
+Forschung und Entwicklung sind ein wichtiger Treiber, um das Potenzial der Bioökonomie für eine nachhaltige Wirt-schaft zu identifizieren, zu erschließen und zu nutzen  Das Kapitel fasst die im Rahmen der Bioökonomiestrategie geplanten Aktivitäten zur Forschungs-förderung zusammen 
+[Page #23]
+22 
+NATIONALE BIOÖKONOMIESTRATEGIE
+auch traditionellem Wissen mit der Nutzung und Weiter-entwicklung von Spitzentechnologien (Smart- und High-tech)  Um auch vollkommen neuartige Zukunftstech-nologien oder Sprunginnovationen zu generieren, muss Wissenschaft den Freiraum haben, auch ungewohnte Pfa-de einzuschlagen  Daher unterstützt die Bundesregierung noch stärker als bisher eine exzellente,  technologie- offene Forschung, schafft Anreize und Freiräume für ganz-heitliche Ansätze und intelligente Innovationsprozesse und setzt den Rahmen für eine verantwortungsbewusste Umsetzung unter Beachtung des Vorsorgeprinzips  
+Forschung ist ein wichtiger Schlüssel, um die Potenziale der Bioökonomie zu identifizieren, zu erschließen und zu nut-zen  Forschung zur Bioökonomie erstreckt sich auf die Er-zeugung, Erschließung und Nutzung biologischer Ressour-cen, Prozesse und Systeme, um die wissenschaftlichen und technischen Voraussetzungen dafür zu schaffen, nachhalti-ge Produkte, Verfahren und Dienstleistungen in allen wirt-schaftlichen Sektoren im Rahmen eines zukunftsfähigen Wirtschaftssystems bereitstellen zu können  Unter biologi-schen Ressourcen werden in der Bioökonomie dabei nicht nur biogene Rohstoffe wie Pflanzen, Algen, Pilze, Insekten, Mikroorganismen oder Biomoleküle, sondern insbesonde-re auch das Wissen über biologische und ökologische Pro-zesse und Systeme verstanden  Wichtig ist dabei auch, die Leistungsfähigkeit und Belastungsgrenzen dieser Systeme zu erfassen  Bioökonomische Forschungsansätze haben das Ziel, die Entfaltung der bioökonomischen Potenziale zu er-möglichen  Das Verständnis biologischer Systeme bildet die Grundlage für die Entwicklung innovativer Produkte und Verfahren  Damit diese im Sinne der Nachhaltigkeitsagen-da wirken, müssen sowohl bei der Herstellung der biogenen Rohstoffe als auch beim Einsatz biotechnologischer Verfah-ren übergreifende Zusammenhänge verstanden und damit verbundene Chancen und Risiken bedacht werden 
+Erst auf dieser Basis – dem ständig wachsenden Wissen so-wie technischen, gesellschaftlichen und systemischen In-novationen – kann das volle Potenzial der Bioökonomie erschlossen werden  Entscheidend für den Erfolg ist, fos-sile Rohstoffe nicht nur zu ersetzen, sondern insbesonde-re auch die Entwicklung neuartiger biobasierter Produkte und Verfahren voranzubringen und damit den Roh-stoff- und Energiebedarf insgesamt zu reduzieren  Maß-geschneiderte bioökonomische Innovationen mit hoher Wertschöpfung und neuartigen Eigenschaften und Funk-tionalitäten ermöglichen es, neue Geschäftsfelder für Zu-kunfts- beziehungsweise Wachstumsmärkte zu begründen  Mit dieser Ausrichtung bildet die Bioökonomiestrategie  einen wichtigen Pfeiler der von der Bundesregierung initi-ierten Agenda „Von der Biologie zur Innovation“ 
+Durch die Nationale Forschungsstrategie BioÖkonomie 2030 wurden in den letzten Jahren wesentliche Schritte auf dem Weg zu diesem Ziel zurückgelegt  Auf diesen Erfolgen und den gewonnenen Erkenntnissen baut die Forschungs-förderung der neuen Strategie auf  
+Die Forschung trägt so dazu bei, den notwendigen Trans-formationsprozess in Richtung eines nachhaltigen Wirt-schaftssystems voranzutreiben  Dies wird Auswirkungen auf die Art und Weise haben, wie in einer Volkswirtschaft produziert und gearbeitet wird  Diesen gesellschaftli-chen Wandel mit all seinen Konsequenzen zu begreifen, ist daher ein wichtiger Teil der Forschung zur Bioökono-mie  Dabei ist es unerlässlich, dass Forschungsförderung transparent ist und Formen der Partizipation einschließt, insbesondere wenn es um die Definition von Problemen und Wissenslücken, aber auch um die Entwicklung von Handlungsvorschlägen zu deren Beseitigung geht  Die For-schung schafft die Voraussetzungen dafür, den stattfinden-den Wandel zu einer Bioökonomie den gesellschaftlichen Anforderungen und den Nachhaltigkeitszielen entspre-chend zu gestalten 
+Das biologische Wissen soll kontinuierlich erweitert und noch mehr als bisher über alle biologischen Ebenen – von den grundlegenden molekularen Prinzipien bis hin zum komplexen Zusammenspiel in Ökosystemen – zusammen-gebracht werden  Von besonderer Wichtigkeit ist dabei, die Bioökonomie als integrativen Forschungsbereich zu ver-stehen, in dem interdisziplinäre Forschung und systemi-sche Lösungsansätze gestärkt und die Erkenntnisse über die Teilgebiete der Biowissenschaften hinaus mit anderen konvergierenden Wissenschafts- und Technologieberei-chen zusammengeführt werden 
+Ermöglicht wird dieser Wissensaufbau unter anderem durch eine Verknüpfung von bestehenden Verfahren und 
+[Page #24]
+FORSCHUNGSFÖRDERUNG FÜR EINE NACHHALTIGE BIOÖKONOMIE 
+23
+Überblick der Forschungslandschaft zur Bioökonomie in Deutschland
+Universitäten
+Fachhochschulen
+außeruniversitäre Forschung 
+Ressortforschung
+3
+Kiel
+2
+1
+Rostock2
+2
+2
+2
+Hamburg1
+3
+2
+2
+1
+1
+7Bremen
+6
+9
+4
+Berlin
+2
+9
+3
+4
+Hannover
+10
+Potsdam
+2
+Magdeburg2
+2
+2
+16
+8
+2
+1
+Göttingen
+11
+8
+9
+1
+Dresden
+Düsseldorf
+Leipzig
+Erfurt
+3
+2
+3
+2
+6
+15
+Köln
+3
+2
+5
+2
+5
+13
+Frankfurt a. M.
+2
+5
+4
+5
+Mainz
+Nürnberg
+2
+1
+4
+Heidelberg
+Saarbrücken
+8
+6
+8
+11
+Stuttgart
+10
+7
+9
+München
+16
+Freiburg
+Quelle: Forschungsumfrage Bioökonomie 2019, bioökonomie.de
+[Page #25]
+24 
+NATIONALE BIOÖKONOMIESTRATEGIE
+3.1 Ausrichtung der Forschungsförderung
+selwirkungen in Ökosystemen und mit der Umwelt  Für ein umfassendes Verständnis biologischer Systeme reicht es aber nicht aus, die verschiedenen Stufen einzeln zu betrach-ten  Erst durch das Zusammenspiel verschiedener Elemente und Ebenen bilden sich neue systemische Eigenschaften he-raus  Um das Verständnis für diese komplexen Zusammen-hänge weiter auszubauen, muss der Austausch zwischen den Biowissenschaften und konvergierenden Wissenschafts- und Technologiebereichen intensiviert werden  
+Die Forschungsförderung zur Bioökonomie folgt den ein-gangs dargelegten Leitlinien  Sie ist darauf gerichtet, die strategischen Ziele der Nationalen Bioökonomiestrategie zu erreichen  
+Durch Forschung biologisches  Wissen erweitern
+Das Fundament der Bioökonomie ist das Wissen über bio-logische Prinzipien, Systeme und Verfahren  Die Bun-desregierung will daher Forschung und Entwicklung konsequent vorantreiben und den kontinuierlichen Er-kenntnisgewinn in den Biowissenschaften weiter stärken  
+Durch biologisches Wissen  biobasierte Innovationen schaffen
+Der Ausbau und die intelligente Nutzung und Vernetzung des biologischen Wissens bildet die Basis für Invention und Innovation in der Bioökonomie  Erst mit einem tieferen 
+Das betrifft alle Ebenen biologischer Systeme, vom Molekül über ein- und vielzellige Organismen bis hin zu ihren Wech-
+[Page #26]
+FORSCHUNGSFÖRDERUNG FÜR EINE NACHHALTIGE BIOÖKONOMIE 
+25
+Durch Ressourcenschonung  Öko logie und Ökonomie verbinden
+Verständnis grundlegender Mechanismen des Lebens er-schließt sich das enorme Potenzial biologischen Wissens für bioökonomische Innovationen  Dazu muss die For-schung von den Grundlagen über anwendungsorientierte Ansätze bis hin zu Pilotanlagen und Demonstratoren tech-nologieoffen intensiviert werden  Kreative und mutige Ide-en sollen dabei besonderen Freiraum erhalten 
+Die Bioökonomie bietet die Chance, Ökologie und Ökono-mie miteinander zu verbinden  Um wirtschaftliche Pros-perität und Ressourcenverbrauch zu entkoppeln, müs-sen alle Ressourcen effizient und nachhaltig genutzt und Energie- und Stoffströme im Sinne einer Kreislaufwirt-schaft weitestgehend geschlossen werden  Den Ressour-cendruck zu mindern, ist ökonomisch profitabel und öko-logisch wertvoll 
+Fortschritte beispielsweise in der Nanotechnologie, den Informationstechnologien sowie den Kognitions-, Mate-rial- und Ingenieurwissenschaften führen zu neuen An-wendungsfeldern in der Bioökonomie, während neues bio-logisches Wissen im Gegenzug diese Wissenschafts- und Technologiezweige inspiriert  Die sich daraus ergebenden Synergien bergen das Potenzial für nachhaltige wettbe-werbsfähige Innovationen und die Entwicklung von neu-artigen Schlüssel- und Zukunftstechnologien mit hohem wirtschaftlichem Wert  Beispiele für bioökonomische In-novationen sind passgenaue biologische Prozesse in der in-dustriellen und landwirtschaftlichen Produktion, inno-vative Produkte mit neuartigen smarten Funktionalitäten sowie weitgehend geschlossene Stoffkreisläufe  
+Im Mittelpunkt bioökonomischer Forschung steht daher die ganzheitliche Betrachtung biobasierter Prozesse – von der Erzeugung des Rohstoffs über die Prozessierung und Konversion bis hin zum Produkt und dessen Verwendung nach der Nutzung  Die Rückgewinnung von Ressourcen wird ebenso adressiert wie die Wieder- oder Neuverwer-tung von Neben-, Rest- und Abfallströmen  Forschungs-ergebnisse sollen es ermöglichen, Wertschöpfungsketten über Sektoren hinweg zu möglichst ressourceneffizienten, ökologisch vorteilhaften und ertragreichen Wertschöp-fungsnetzen zu verknüpfen  
+Die Digitalisierung übernimmt auch bei der Generierung biobasierter Innovationen eine Schlüsselfunktion und ist damit für den gesamten Innovationsprozess von ent-scheidender Bedeutung  Erst durch sie wird es möglich, die enormen Datenmengen über biologische Systeme nicht nur zu erfassen, sondern intelligent zu vernetzen und da-mit die Innovationskraft integrierter Systeme zu nutzen 
+Ansätze zur Koppel- und Kaskadennutzung tragen da-zu bei, dass innovative Bereiche der Bioökonomie weiter mit bereits etablierten Wertschöpfungsketten zusammen-wachsen  Der Aufbau solcher Wertschöpfungsnetze kann auch den Anschluss zu neuen Wirtschaftszweigen herstel-len und so die Voraussetzung für eine nachhaltige Trans-formation zu einer leistungsstarken biobasierten Wirt-schaft schaffen 
+Durch biobasierte Innovationen natürliche Ressourcen schonen
+Durch bioökonomische Lösungen Nachhaltigkeit sichern
+Bei der Umsetzung von biobasierten Innovationen muss die Verfügbarkeit von natürlichen Ressourcen innerhalb ökologischer Grenzen berücksichtigt werden  Der Schutz und die nachhaltige und verantwortungsvolle Nutzung von Ökosystemen und ihren Leistungen für die Gesell-schaft, wie beispielsweise der Erhalt der Biodiversität, die Bereitstellung von sauberem Wasser und gesunden Böden sowie die Klimaregulation, sind unverzichtbar 
+Das übergeordnete Ziel bei der Entwicklung einer bio-basierten Wirtschaft ist Nachhaltigkeit  Die Komplexi-tät der Bioökonomie macht es erforderlich, bei der Suche nach tragfähigen Lösungen die Zusammenhänge zwi-schen technischen, ökologischen, ökonomischen und ge-sellschaftlichen Faktoren zu berücksichtigen  Sobald die Nachhaltigkeitsziele in konkrete Maßnahmen übersetzt werden, entstehen häufig Zielkonflikte innerhalb und zwi-schen diesen Dimensionen  Damit solche Zielkonflikte frühzeitig erkannt und negative Effekte verhindert wer-den können, muss bioökonomische Forschung inter- und transdisziplinär sein und globale Entwicklungen fest im Blick behalten  Ganzheitliche Sichtweisen erfordern die Einbeziehung sowohl natur- und technikwissenschaftli-cher als auch sozialwissenschaftlicher und ethischer Fra-gestellungen  Nur auf dieser Grundlage wird es gelingen, durch die Bioökonomie Nachhaltigkeit zu sichern 
+Ziel der Forschungsförderung ist es, den derzeit noch ho-hen Verbrauch nicht erneuerbarer Ressourcen, wie fossi-le Energieträger und mineralische Rohstoffe, bedeutend zu minimieren  Biogene Ressourcen müssen effizient und nachhaltig produziert und genutzt werden  Zielkonflik-te, etwa im Bereich der Land- und Ressourcennutzung, müssen dabei stets mitgedacht werden  Dies gilt sowohl für bioökonomische Innovationen in der Urproduktion (Land-, Forst-, Meereswirtschaft, Aquakultur) als auch in der Industrie  
+[Page #27]
+26 
+NATIONALE BIOÖKONOMIESTRATEGIE
+3.2  Bausteine zur Umsetzung der  
+Forschungsförderung
+ihre Regulation und weitere Wechselwirkungen zu vertie-fen und zu integrieren  Die Notwendigkeit, ein umfassen-des Systemverständnis zu entwickeln, betrifft alle Ebenen von elementaren biomolekularen Vorgängen bis hin zu ganzen Ökosystemen und globalen Kreisläufen  Erst  auf dieser Basis kann ein ganzheitliches Verständnis der vielfältigen und dynamischen Prozesse in biologischen Systemen und ihrer Interaktion mit der Umwelt  entwickelt werden 
+Die Ziele der Forschungsförderung zur Bioökonomie ad-ressieren komplexe Fragestellungen und Herausforderun-gen  Daraus ergibt sich die Notwendigkeit, in systemischen Ansätzen zu arbeiten, die verschiedene Wissenschafts-zweige und Wissensbereiche integrieren und zusammen-führen  Die bioökonomische Forschung umfasst dabei so-wohl Natur- und Technik- als auch Sozialwissenschaften und reicht von der Grundlagenforschung über angewand-te Forschung bis zur experimentellen Entwicklung  Zudem entwickeln sich das biologische Wissen und die für die Bio-ökonomie relevanten Spitzentechnologien nicht immer kontinuierlich in Form von inkrementellen Innovationen, sondern nicht selten auch sprunghaft in Form disruptiver Innovationen weiter  
+Die Darstellung des Bausteins „Biologisches Wissen als Schlüssel der Bioökonomie“ folgt dieser Logik von der  Erforschung grundlegender biologischer Prozesse bis hin zu planetaren Perspektiven 
+Die Struktur der Forschungsförderung muss diesen An-forderungen gerecht werden  Für die Umsetzung werden daher modulare Bausteine definiert, die die verschiede-nen Aspekte der Bioökonomie abdecken  Sie konkretisie-ren Forschungsschwerpunkte und schaffen konstrukti-ve Spielräume für Förderrichtlinien, mit denen spezifische Förderbedarfe in thematischer, methodischer oder kon-zeptioneller Hinsicht aufgegriffen werden  Sie ermöglichen es zudem, neue Erkenntnisse und aktuelle Entwicklun-gen aufzugreifen  Mit den ineinandergreifenden Baustei-nen können die forschungspolitischen Ziele flexibel umge-setzt werden 
+Biologische Systeme  verstehen und modellieren
+Systembiologische Ansätze und die Zusammenführung der in den verschiedenen Teilbereichen wie Genomik, Epi-genomik, Proteomik oder Metabolomik (englisch zusam-menfassend als „omics“ bezeichnet) gewonnenen Daten über neuartige bioinformatische Instrumente und geeig-nete Infrastrukturen sollen verstärkt gefördert werden  Modellierungs- und Simulationsansätze können auf die-ser Basis die zugrunde liegenden biologischen und öko-logischen Systeme abbilden und so in ihrer Komplexität zugänglich machen  Durch die Entwicklung neuer integ-rativer Ansätze soll das modulare Wissen aus den Omics-Bereichen auf den verschiedenen hierarchischen Ebenen biologischer Systeme vernetzt werden  Systemeigenschaf-ten, also Eigenschaften, die sich nicht aus den einzelnen System elementen heraus erklären oder ableiten lassen, werden auf diese Weise erfassbar  Das Ziel ist, die System-biologie nicht nur als Schlüssel für künftige Technologien  der Biowissenschaften, sondern auch der Bioökonomie insgesamt auszubauen 
+3.2.1  Biologisches Wissen als 
+Schlüssel der Bioökonomie
+Biologisches Wissen bildet die Grundlage für die Entwick-lung von Schlüsseltechnologien und ermöglicht passge-naue bioökonomische Innovationen sowohl für etablierte Industrien als auch für neue Einsatzfelder und Branchen  Biologisches Wissen schafft die Voraussetzungen für nach-haltige Lösungen der Zukunft  Nachhaltigkeit bedeu-tet, dass die Lösungen ökologisch tragfähig, wirtschaft-lich vorteilhaft und gesellschaftlich erwünscht sind  Um diesem umfassenden Nachhaltigkeitsanspruch gerecht zu werden, muss biologisches Wissen mit Wissen über öko-systemare, ökonomische und soziale Zusammenhänge ver-knüpft werden 
+Besondere Bedeutung kommt hier beispielsweise der Er-schließung des Epigenoms von Pflanzen, des Mikrobioms der pflanzlichen Wurzel oder der Stoffwechselnetzwer-ke von Mikroorganismen zu  Modelle, die imstande sind, verlässliche Aussagen darüber zu treffen, wie Regulations-mechanismen in lebenden Zellen und Wechselwirkungen zwischen biologischen Systemen und der Umwelt funk-tionieren, können auch relevante Erkenntnisse für neue nachhaltige Lösungen generieren 
+Eine zentrale Herausforderung der Forschung zur Bioöko-nomie besteht darin, das Wissen über biologische Prozesse, 
+[Page #28]
+FORSCHUNGSFÖRDERUNG FÜR EINE NACHHALTIGE BIOÖKONOMIE 
+27
+Bausteine der Forschungsförderung
+1
+2
+Biologisches Wissen als  Schlüssel der Bioökonomie› Biologische Systeme verstehen und modellieren›  Neuartige Produktionsorganismenfür Primärproduktion und Industrie
+Konvergierende Technologien und disziplinübergreifende  Zusammenarbeit› Inter­ und Transdisziplinarität fördern›  Nanotechnologie, Miniaturisierung,
+›  Innovative biotechnologische Verfahrens­ 
+Digitalisierung, Automatisierung und Künstliche Intelligenz für die Bioökonomienutzen
+konzepte für biobasierte Produktionssysteme
+› Biogene Ressourcen nachhaltig erzeugen
+4
+3
+Transfer in die Anwendung
+Grenzen und Potenziale
+› ›
+› Druck auf ökologische Grenzen mindern › Nachhaltige Potenziale erkennen und erschließen › Bioökonomie­Monitoring etablieren, Bioökonomie quantifizieren und bewerten
+Neue Wertschöpfungsnetze etablieren Start­ups sowie kleine, mittlere (KMU) und mittel­ständischen Unternehmen unterstützen Infrastrukturen für Forschung und Technologie­transfer stärkenNachwuchs und Qualifikation fördern
+›
+› 
+6
+5
+Globale Forschungskooperationen › Zusammenarbeit in Europa vorantreiben›  Kooperationen mit außereuro päischen Partnern 
+Bioökonomie und Gesellschaft› Wechselwirkungen und  Zielkonflikte erforschen› 
+V  ergleichende Nachhaltigkeitsbilanzen  und Zertifizierungssysteme entwickeln
+stärken
+Neuartige Produktionsorganismen für Primärproduktion und Industrie 
+Ertragsoptimierung, optimale Nährstoffnutzung, Resis-tenz oder Toleranz gegenüber Überschwemmungen, Hit-ze, Trockenheit oder Pflanzenkrankheiten/-schädlingen, Anpassung an die Bodenqualität sowie der Erhalt der ge-netischen Vielfalt sind wichtige Ziele der Züchtung für ei-ne nachhaltige Pflanzenproduktion  Neben Kulturpflanzen kommt aber auch Insekten, Pilzen, Mikroorganismen und aquatischen Lebensformen wie Algen zunehmend Bedeu-tung in der modernen Bioökonomie zu  Von der Bundes-regierung wird dies durch entsprechende Fördermaßnah-men unterstützt 
+Eine der Grundbedingungen der Bioökonomie ist die nachhaltige Erzeugung von biogenen Rohstoffen und Pro-dukten sowohl im Agrar- als auch im industriellen Bereich  Um diesem Anspruch gerecht zu werden und effizient und ressourcenschonend produzieren zu können, ist es eventu-ell notwendig, die Produktionsorganismen, also insbeson-dere Nutzpflanzen, aber zum Beispiel auch Insekten, Algen, Pilze oder Mikroorganismen, gezielt an die jeweiligen Um-welt-, Klima- und Produktionsbedingungen anzupassen  Dabei soll die Forschung methoden- und technologieoffen sein und in geschlossenen Systemen auch moderne mole-kularbiologische Ansätze mit einbeziehen  
+Die Erschließung neuer Organismen spielt eine wichti-ge Rolle in der industriellen Produktion und erweitert das Portfolio der klassischen Biotechnologie  Die Eigenschaf-ten von industriell genutzten Mikroorganismen, wie Bak-terien, Pilzen und Mikroalgen, können durch innovative 
+[Page #29]
+28 
+NATIONALE BIOÖKONOMIESTRATEGIE
+nologische Forschung darüber hinaus Möglichkeiten, künst-liche oder zellfreie Produktionssysteme für die Bioökonomie bereitzustellen  Solche Produktionssysteme erlauben zum Beispiel die Produktion von komplexen Antikörpern für spe-zifische medizinische Anwendungen oder von Wirkstoffen, die für Zellen toxisch sind  Artifizielle Produktionssysteme stellen daher Ansätze dar, die das Anwendungspotenzial bio-basierter Produktionsverfahren erheblich erweitern  
+Methoden des Metabolic Engineering oder der Syntheti-schen Biologie gezielt an spezifische Produktionsbedin-gungen angepasst werden  Neben der Entwicklung re-silienter und effizienter Produktionsstämme steht hier insbesondere auch eine Erweiterung des Produktspekt-rums im Fokus der Forschung  Forschungsansätze zur Ent-wicklung neuer Materialien und Produkte mit maßge-schneiderten, das heißt auf einen spezifischen Bedarf oder eine neue Funktion optimal zugeschnittenen Eigenschaf-ten, wie beispielsweise vollständig kreislauffähige Biopo-lymere, neuartige Biopharmazeutika gegen Antibiotika-resistenzen oder umweltverträgliche Chemikalien, sollen gefördert werden  Damit soll eine optimale Anpassung an die Anforderungen des Marktes und der Umwelt ermög-licht werden  Um das Potenzial der Vielfalt mikrobiel-ler Spezies und ihrer vielgestaltigen metabolischen Eigen-schaften nutzbar zu machen, sollen bislang nicht genutzte, aber für die industrielle Produktion geeignete Mikroorga-nismen identifiziert und zu Plattformorganismen für die Biotechnologie weiterentwickelt werden  
+Innovative biotechnologische  Verfahrenskonzepte für biobasierte Produktionssysteme 
+Im Sinne der Nachhaltigkeit müssen neben den für die bio-technologische Produktion verwendeten Organismen auch die Verfahren, in denen sie eingesetzt werden, ganzheit-lich ausgelegt oder auch gänzlich neu gedacht werden  Die Entwicklung innovativer, effizienter und modularer Bio-verfahrenskonzepte soll vorangetrieben werden, um so ei-ne flexible Anpassung an verschiedene Standorte, Rohstof-fe und Produkte zu ermöglichen  
+Neben der Verwendung von maßgeschneiderten Mikroorga-nismen in der industriellen Produktion eröffnet die biotech-
+Der Aufbau des Fraunhofer-Zentrums für chemisch-biotechnologische Prozesse in Leuna wurde vom BMBF und BMEL unterstützt.
+[Page #30]
+FORSCHUNGSFÖRDERUNG FÜR EINE NACHHALTIGE BIOÖKONOMIE 
+29
+muss selbst zur Wahrung dieser Ökosystemleistungen bei-tragen  Es ist erforderlich, Land- und Forstwirtschaft in ei-nem ganzheitlichen Sinn als agrarökologische Systeme zu betrachten und durch Forschung das Verständnis ökosys-temarer Zusammenhänge immer weiter auszubauen   Besonders gefragt sind ganzheitliche Sichtweisen, die  agrarische Produktionssysteme nicht nur nach ihrem  Ertrag, sondern auch nach ihren ökologischen Leistungen bewerten 
+Um Biomasse effizient aufschließen, aufbereiten und be-darfsgerecht für nachgelagerte Produktionsprozesse be-reitstellen zu können, sind erhebliche Forschungsan-strengungen notwendig  Neuartige biotechnologische Verfahren sind die Voraussetzung dafür, die Nutzung bio-gener Reststoffe weiter zu optimieren und Neben- und Reststoffströme in werthaltige Produkte zu überführen  Neue Konzepte zur Koppel- und Kaskadennutzung müssen hierzu entwickelt und Bioraffinerie-Konzepte ganzheitlich optimiert werden 
+Letztlich geht es aber nicht nur um den Agrar- und Forst-sektor  Große Teile terrestrischer und maritimer Ökosyste-me sind durch menschliches Eingreifen grundlegend ver-ändert worden  Es ist unverzichtbar, menschliche Eingriffe sowohl in spezifische Ökosysteme wie in globale Stoff- und Energiekreisläufe bei allen Überlegungen zu zukünftigen Technologien und Ressourcennutzungen zu berücksichti-gen  Die Bioökonomie kann ein entscheidender Hebel sein, um sowohl in der Produktion von biogenen Rohstoffen als auch in industriellen Produktionsprozessen zu mehr Nachhaltigkeit zu gelangen  Dazu gehört auch, über gänz-lich neue Formen der Erzeugung von biogenen Rohstoffen für stoffliche und energetische Zwecke nachzudenken 
+In geschlossenen Reaktionsprozessen können Abfallströ-me, die heute noch nicht stofflich verwertet werden oder nicht genutzte Wertschöpfungspotenziale aufweisen, als ökologisch und ökonomisch vorteilhafte Rohstoffquelle für die Industrie und den Agrarbereich dienen  Hierzu zäh-len sowohl organische Abfälle als auch kommunale oder industrielle Abwässer oder industrielle Abgase  Die direkte Nutzung beispielsweise von Kohlendioxid oder dem in der Industrie anfallenden Synthesegas als Kohlenstoffquelle in industriellen Bioprozessen kann zukünftig einen Beitrag dazu leisten, eine weitgehende Treibhausgasneutralität in der industriellen Produktion zu erreichen  Darüber hin-aus können wichtige Ressourcen wie seltene Metalle oder Phosphor durch maßgeschneiderte Biokatalysatoren rück-gewonnen und Kunststoffe in ihre Grundbausteine zerlegt werden  Die Entwicklung von innovativen Methoden und Verfahren zur effizienten Aufarbeitung und Kreislaufnut-zung dieser oft komplexen und toxischen Ausgangsstoffe soll gezielt vorangetrieben werden 
+Um die Land- und Forstwirtschaft innovativ und nach-haltig für die Zukunft aufzustellen, ist neben einer sub-stanziellen, breit ausgerichteten Grundlagenforschung zum Verständnis der zugrunde liegenden biologischen und (agrar-)ökologischen Systeme auch die Entwicklung geeig-neter, anwendungsorientierter Ansätze notwendig  Diese können auf Spitzen- und Schlüsseltechnologien beruhen, aber auch auf Konzepten, die vorhandene landwirtschaft-liche Techniken und ökologische Anforderungen neu zu-sammenbringen  
+Biogene Ressourcen  nachhaltig erzeugen 
+Die agrarische Produktion kann außerdem durch die Entwicklung geeigneter nachhaltiger Anbau- oder Pro-duktionssysteme, beispielsweise mit Hilfe neuartiger Smart-Farming-Ansätze, flexibel an regionale und stand-ortspezifische Bedingungen angepasst werden  Von zent-raler Bedeutung ist dabei, den Erhalt der Biodiversität und der Qualität von Böden und Wasser als Voraussetzung für Ökosystemleistungen anzuerkennen und in die Wertstel-lung biobasierter Produkte einzubeziehen  
+Die Land- und Forstwirtschaft ist ein zentraler Pfeiler ei-ner biobasierten Wirtschaft  Gleichzeitig ist sie gefordert, den Ressourcen- und Flächenbedarf sowie Treibhausgas-emissionen und den Verlust der biologischen Vielfalt zu re-duzieren, wie aktuell die Berichte des Weltklimarates und des Weltbiodiversitätsrates zeigen14   Außerdem steht sie selbst durch die Auswirkungen des Klimawandels sowie Zielkonflikte wie beispielsweise Flächennutzungskonkur-renzen vor weiteren großen Herausforderungen  
+Damit können die Weichen gestellt werden, um ressour-ceneffiziente, wettbewerbsfähige und gegenüber wechseln-den Klima- und Umweltbedingungen resiliente innovative und nachhaltige Agrar- und Waldsysteme zu erhalten, die kontinuierlich eine ausreichende Versorgung mit biogenen Ressourcen sicherstellen  Die Forschungsförderung unter-stützt insbesondere die Entwicklung von neuartigen kreis-lauforientierten und inputreduzierten Anbau- und Pro-duktionssystemen, auch im Bereich des Ökolandbaus  Dies 
+Landwirtschaft ist lebensnotwendig, und sie wird eine wei-ter wachsende Weltbevölkerung ernähren müssen  Aber die agrarische Produktion ist auch ein gewichtiger Fak-tor für die Veränderung der Umwelt durch den Menschen  Das betrifft Landnutzung, Biodiversität, Wasserhaushalt, Nährstoffkreisläufe und den globalen Klimahaushalt  Das Bewusstsein ist gewachsen, dass man den Agrarsektor selbst als ökologisches System betrachten muss  Agrarische Produktion ist auf Ökosystemleistungen angewiesen und 
+[Page #31]
+30 
+NATIONALE BIOÖKONOMIESTRATEGIE
+gischer Systeme gewonnen werden, die neue Dimensionen für die Nutzung des biologischen Wissens eröffnen  Vor-aussetzung für die effiziente und erfolgreiche Nutzung di-gitaler Daten ist dabei neben einer Harmonisierung der Daten auch die Unterstützung von effizienten Datenma-nagementsystemen, die Weiterentwicklung von Schnitt-stellenkonzepten sowie die Entwicklung und Nutzung von Standards 
+können regional angepasste agrarische, forstliche oder auch aquatische Produktionssysteme in der Fläche sein, die eine geschlossene Stoffstromführung anstreben  Für versiegelte Flächen in urbanen oder periurbanen Bereichen sind auch alternative Produktionsformen denkbar, wie beispielsweise (modulare) hochtechnisierte Produktions-systeme, die in kontrollierter Umgebung mit einem gerin-gen Flächen- und Energiebedarf und weitgehend geschlos-senen Kreislaufsystemen, wie beim Vertical Farming, funktionieren  
+Auch im Bereich der Simulation und Modellierung hat die Digitalisierung ein hohes Innovationspotenzial für die Bioökonomie  Modelle können nicht nur zur Beschreibung biologischer Prozesse und Systeme dienen, sondern sol-len vermehrt auch zur Folgenabschätzung, Voraussage und zum gezielten Design von effizienten und passgenauen bio-basierten Verfahren genutzt werden 
+Langfristig muss die Forschung vielfältige Anpassungs-strategien und Schlüsselinnovationen auf den Weg brin-gen, integrierte Lösungen identifizieren und Ressourcen bündeln, um damit Synergien zum Vorteil von Mensch und Umwelt zu schaffen und „Trade-offs“ zu reduzieren  Diese integrierten Lösungen vereinen technologische An-sätze mit standortangepassten Verfahren zu alternativen Konzepten im Sinne der Nachhaltigkeit  
+Für eine schnellere Entwicklung und eine bessere Über-wachung und Steuerung biotechnologischer Produkti-onsverfahren wird der technologische Fortschritt in den Bereichen Smart Sensorik, Künstliche Intelligenz, Auto-matisierung, Miniaturisierung und Parallelisierung von Verfahrensprozessen sowie Hochdurchsatzanalysen unter-stützt  Auch im Agrarbereich können entsprechende Tech-nologieentwicklungen verstärkt eingesetzt werden, um beispielsweise die Interaktion von Böden, Mikroorganis-men, Pflanzen und Umwelt zu analysieren oder um das Er-scheinungsbild von Organismen schnell, genau und zerstö-rungsfrei zu erfassen 
+3.2.2  Konvergierende Technologien 
+und disziplinübergreifende Zusammenarbeit
+Aussichtsreiche Ansatzpunkte für bioökonomische Inno-vationen finden sich besonders in systemischen sowie in inter- und transdisziplinären Ansätzen, die biologisches Wissen mit konvergierenden Technologien verbinden  Von großer Bedeutung für die Bioökonomie sind beispielsweise konvergierende Wissensgebiete und Technologien wie Na-notechnologie, Miniaturisierung, Digitalisierung, Automa-tisierung und Künstliche Intelligenz  
+3.2.3 Grenzen und Potenziale
+Der Mensch hat schon immer in die Natur eingegriffen und seine Umwelt verändert  Seit der Industrialisierung tut er das in einem immer stärkeren Ausmaß, sodass natürli-che Systeme aus dem Gleichgewicht geraten sind  Klima-wandel, Artenverlust und bedrohte Ökosysteme sind die Folgen  Die Fortsetzung, Ausweitung und Beschleunigung der derzeitigen Produktion und Verwertung von Rohstof-fen wird vor dem Hintergrund der Erkenntnisse der Be-richte des Weltklimarates und des Weltbiodiversitätsrates von 2019 zu weiteren Umweltschäden, Biodiversitätsver-lusten und zur Erhöhung der Treibhausgasemissionen führen  Die ökologischen Grenzen des Planeten werden zunehmend gefährdet und sind teilweise bereits über-schritten 
+Die Nutzung von Synergien und Schnittstellen zwischen den unterschiedlichen Fachdisziplinen soll gerade im Hin-blick auf die Erforschung und Entwicklung von Zukunfts-technologien weiter vorangetrieben werden  Für eine stärkere Vernetzung der Akteure und eine Etablierung dis-ziplinübergreifender Zusammenarbeit sind geeignete In-strumente, wie beispielsweise virtuelle interdisziplinäre Zentren oder neue multidisziplinäre und sektorenüber-greifende Förderkonzepte, zu entwickeln 
+Die Digitalisierung hat für die Generierung und die Nut-zung biologischen Wissens und bei der Vernetzung ver-schiedener Technologien eine wichtige Querschnittsfunk-tion  Mithilfe neuester Werkzeuge der Informatik und der Entwicklung computergestützter mathematischer Model-le können die in den modernen Biowissenschaften auf ver-schiedenen Skalierungsebenen rasant entstehenden gro-ßen Datenmengen intelligent ausgewertet werden  Damit können wertvolle Einsichten in die Funktionsweise biolo-
+Für die Bioökonomie bedeutet dies, dass sie einen Beitrag zur Einhaltung dieser Grenzen leisten muss  Von zentraler Bedeutung ist es daher, die Belastungsgrenzen der Ökosys-teme zu kennen, die für die Bioökonomie wichtig sind  Die Potenziale der Bioökonomie zu erkennen und zu erschlie-ßen, setzt voraus, ihre Umwelt zu verstehen  Um sicherzu-
+[Page #32]
+FORSCHUNGSFÖRDERUNG FÜR EINE NACHHALTIGE BIOÖKONOMIE 
+31
+stellen, dass die Bioökonomie innerhalb der ökologischen Grenzen agiert und den Ressourcendruck nicht weiter er-höht, muss Wissen über ökosystemare Effekte und plane-tare Kreisläufe erweitert und verknüpft werden  
+Quantifizierung der Bioökonomie
+Ein wichtiges Instrument zur nachhaltigen Gestaltung der Bioökonomie ist die Messung und Beurteilung der genauen ökonomischen, ökologischen und sozialen Effekte bioba-sierten Wirtschaftens  Es werden Daten und Berechnungs-methoden benötigt, um feststellen zu können, welche Treibhausgasemissionen und welcher Verbrauch von Ma-terial, Energie, Wasser und Flächen verschiedener Qualitä-ten mit bestimmten Produktionsformen einhergehen, ein-schließlich der Auswirkungen auf die Biodiversität durch intensivierte Nutzung  Eine wichtige Rolle spielt die Be-wertung der Verfügbarkeit von Biomasse – räumlich, zeit-lich und nach der ökologischen Bedeutung differenziert – auf der einen und des Bedarfs an Biomasse auf der ande-ren Seite  Zu berücksichtigen ist hierbei der Biomassebe-darf, der einer Nutzung entzogen ist, unter anderem für die CO2-Fixierung und für den Biodiversitätsschutz  Es ist da-her wichtig, Biomasseströme und -kreisläufe nachvollzie-hen und mit geeigneten Methoden abschätzen zu können 
+Nur durch eine ganzheitliche Betrachtung unter Ein-schluss möglicher Alternativen können bestmögliche Lö-sungen im Sinne einer umfassend verstandenen Nachhal-tigkeit gefunden werden  Bisher stehen die dafür nötigen Instrumente erst teilweise zur Verfügung  Mithilfe der For-schung sollen diese Lücken in den nächsten Jahren ge-schlossen werden  Dazu ist zunächst eine Indikatorent-wicklung notwendig, die es erlaubt, alle Dimensionen der Bioökonomie zu erfassen und mit entsprechenden Krite-rien zu hinterlegen  Bestehende und neu zu erschließende Daten müssen identifiziert und zusammengeführt werden  Nur wenn der Einsatz von Biomasse über den gesamten Le-benszyklus von der Produktion bis zur Wiederverwendung und die Anwendung bioökonomischer Verfahren mit all ihren Wirkungen und Rückkopplungseffekten gemessen oder präzise geschätzt werden können, ist eine ganzheit-liche Bilanzierung möglich  Auf dieser Basis können auch umfassende und belastbare Folgenabschätzungen zu tech-nischen, ökonomischen und ökologischen Entwicklungen in der Bioökonomie vorgenommen werden 
+soll es ermöglichen, die Entwicklung einer nachhaltigen Bioökonomie nachzuvollziehen  Es soll als Grundlage die-nen, die politische Steuerung und Priorisierung zu über-prüfen  
+3.2.4 Transfer in die Anwendung
+Es genügt nicht, biologisches Wissen zu erwerben und nachhaltige Technologien zu entwickeln  Nur wenn diese erfolgreich als Produkte und Prozesse in den Markt kom-men, werden ihre positiven Effekte für Umwelt und Gesell-schaft auch realisiert  Die Erfahrung zeigt: Nicht jede gu-te Idee setzt sich durch  Oftmals erscheinen die Risiken zu hoch oder es mangelt an Finanzierungsmöglichkeiten für die wesentlichen Schritte zwischen Idee und Marktein-führung  Die Bundesregierung will verhindern, dass aus-sichtsreiche, bioökonomische Innovationen an diesen Hür-den scheitern  Daher unterstützt sie erfolgversprechende 
+Um die wissenschaftlichen Voraussetzungen für eine sol-che Quantifizierung der Bioökonomie zu schaffen, wurde eine Pilotphase für ein umfassendes Monitoring gestartet  Diese Arbeiten sollen als übergreifendes Instrument der Bioökonomiestrategie fortgesetzt und ausgebaut werden (siehe auch Kapitel 5 6)  Das Monitoring der Bioökonomie 
+[Page #33]
+32 
+NATIONALE BIOÖKONOMIESTRATEGIE
+Förderung von Start­ups sowie  von kleinen, mittleren (KMU) und mittelständischen Unternehmen
+Innovationen bis hin zur Anwendung  Entscheidend ist, Schnittstellen zwischen Forschung und Anwendung zu schaffen und auszubauen und eine enge Verzahnung der Akteure im Innovationsprozess zu erreichen  Dazu werden Instrumente bereitgestellt, die die Validierung von For-schungsergebnissen für einen erfolgreichen Transfer in die Anwendung unterstützen  
+Start-ups und junge Unternehmen sind ebenso wie kleine, mittlere (KMU) und mittelständische Unternehmen wichti-ge Innovationstreiber und Innovationsträger für die Bioöko-nomie  Sie verfügen jedoch häufig über zu geringe Finanzie-rungsmöglichkeiten  Aufgrund der überdurchschnittlich langen Entwicklungszeiten und Innovationszyklen, die le-benswissenschaftliche Produktentwicklungen oft mit sich bringen, bedürfen sie einer gezielten Förderung, die über die Bedürfnisse in vielen anderen Branchen hinausgeht  Da-her werden entsprechende Maßnahmen zur Förderung von kleinen, mittleren und mittelständischen Unternehmen so-wie von Start-ups und Neugründungen weiterentwickelt  Das Zentrale Innovationsprogramm Mittelstand (ZIM) des Bundesministeriums für Wirtschaft und Energie ist eben-falls offen für Innovationen der Bioökonomie 
+Auch die unter Federführung des Bundesministeriums für Bildung und Forschung und des Bundesministeriums für Wirtschaft und Energie neu gegründete Agentur für Sprunginnovationen unterstützt bahnbrechende Ideen auf dem Weg in die Anwendung und steht auch für bioökono-mische Innovationen offen 
+Neue Wertschöpfungsnetze  etablieren
+Zentral für den Transfer in die Anwendung ist eine enge-re Vernetzung der Akteure sowohl zwischen Forschung und Wirtschaft als auch zwischen verschiedenen Wirt-schaftszweigen  Die Bundesregierung unterstützt eine frü-he und transparente Einbindung von Unternehmen und Wirtschaftsexpertise in den Forschungs- und Entwick-lungsprozess, denn diese gewährleistet eine ausreichende Orientierung an den Erfordernissen des Marktes  Ein ent-sprechendes Instrument sind Sondierungsphasen, wel-che dem eigentlichen Forschungsvorhaben vorgeschal-tet werden  Es ist davon auszugehen, dass der zunehmende Einsatz biobasierter Verfahren und Produkte bestehen-de Wertschöpfungsketten verändert  In diesem Zuge ent-stehen häufig neue Wertschöpfungsnetze, da durch die komplexen Stoffgemische von Biomasse neben dem ge-wünschten Produkt oftmals Stoffnebenströme entstehen, die ihrerseits als Rohstoff für einen anderen Prozess dienen können  Um sowohl die Effizienz als auch die Wertschöp-fung zu erhöhen, müssen alternative Nutzungswege für einzelne Bestandteile oder Nebenprodukte erforscht und erprobt werden  Das ist nur möglich, wenn Akteure zusam-menarbeiten und Expertise aus verschiedenen Disziplinen gebündelt wird  Dasselbe gilt für die Kreislaufwirtschaft  Idealerweise wird bereits beim Produktdesign berücksich-tigt, wie das Produkt nach Ende seines Nutzungszyklus weiterverarbeitet oder recycelt werden kann  Die Bundes-regierung unterstützt eine entsprechende Vernetzung zwi-schen den Produzenten und Nutzern in einem Wertschöp-fungsnetz beispielsweise durch die Förderung geeigneter Verbundprojekte oder die Etablierung von Clustern  
+Infrastrukturen für Forschung  und Technologietransfer
+Eine erfolgreiche Überführung wissenschaftlicher Er-kenntnisse in wettbewerbsfähige Produkte und Verfahren ist nur dann möglich, wenn die Anforderungen des Mark-tes und der Industrie, wie Rohstoffverfügbarkeit, techni-sche Voraussetzungen, regulatorische Herausforderungen oder kostenrelevante Faktoren, frühzeitig im Forschungs- und Entwicklungsprozess bedacht werden  Es ist daher von hoher Bedeutung, Infrastrukturen für die bioökonomische Forschung zu schaffen, die noch effizienter als bisher eine anwendungsorientierte Zusammenarbeit auch über Dis-ziplingrenzen hinweg ermöglichen  In den letzten Jahren konnten in dieser Hinsicht bereits wichtige Akzente ge-setzt werden  
+Zudem gilt es, Räume zu schaffen, die die gezielte Weiter-entwicklung von wissenschaftlichen Erkenntnissen zu markt- und wettbewerbsfähigen Anwendungen ermögli-chen  Demonstrations- und Reallabore bieten die Chan-ce, Innovationen integriert in bereits etablierten Prozessen zu testen  Um das hohe Investitionsrisiko bei der Markt-einführung biobasierter Produkte und Prozesse zu mini-mieren, sollte darüber hinaus die Möglichkeit geschaffen werden, Innovationen auch in größerem Maßstab in Pilot-anlagen zu testen  
+[Page #34]
+FORSCHUNGSFÖRDERUNG FÜR EINE NACHHALTIGE BIOÖKONOMIE 
+33
+Nachwuchs und Qualifikation
+men über die Funktionsweise von Ökosystemen bis hin zu planetaren Grenzen, die auch die aktuelle europäische Bio-ökonomiestrategie betont 
+Die komplexen und über Disziplingrenzen hinausgehen-den bioökonomischen Fragestellungen brauchen eine neue Qualität des systemischen Denkens und Handelns  Da-zu werden hochqualifizierte Spezialistinnen und Spezialis-ten benötigt, die über ihr Fachwissen hinaus die Fähigkeit zu inter- und transdisziplinärer Zusammenarbeit bereits in Ausbildung und Studium erwerben  Aber auch begleitend im Beruf müssen Weiterqualifizierungsmaßnahmen ange-boten werden  Unternehmerische Grundkenntnisse sollen früher als bisher vermittelt werden  Durch spezielle Preise und Fördermodule werden im Rahmen der Forschungsför-derung Anreize für eine bioökonomische Karriereplanung in Wissenschaft oder Industrie geschaffen  Weitere über-greifende Instrumente finden sich im Abschnitt 5 5 „Quali-fikation und Fachkräfte“ 
+Für ein solches Wissen ist die Interdisziplinarität der Bio-ökonomie-Forschung von großer Bedeutung  Dies betrifft sowohl die Natur- und Technikwissenschaften als auch die Sozial-, Politik- und Wirtschaftswissenschaften gleicher-maßen  Nur disziplinübergreifend können reale Probleme in ihrer Komplexität erfasst, Zusammenhänge und Ziel-konflikte analysiert und nachhaltige Lösungen gefunden werden, die den gesellschaftlichen Bedürfnissen und Er-wartungen entsprechen  
+Die Nachhaltigkeit der gefundenen Lösungen hängt dabei nicht zuletzt von Wechselwirkungen zwischen den tech-nischen Möglichkeiten und wirtschaftlichen, gesellschaft-lichen und ökologischen Faktoren ab  Zu diesen Wechsel-wirkungen gehören auch Zielkonflikte, etwa im Bereich der Land- und Ressourcennutzung  Bei der Bioökonomie-Forschung geht es um eine neue, technologieoffene Form von Forschung und Entwicklung  Neue Technologien, auch Biotechnologien, können die bestehende Konkurrenz zwi-schen Schutz-, Nutzungs- und Vermarktungsinteressen weiter verschärfen  Daher ist es notwendig, aus einer über-greifenden Perspektive der Frage nachzugehen, welche Chancen und Risiken die Entwicklung und Verbreitung neuer Technologien haben können  Hierbei sind auch The-men wie der Wert von Ökosystemleistungen und Natur, der Zugang zu Ressourcen, Verteilungsgerechtigkeit und Suffizienz wichtig  Damit verknüpft sind in vielen Län-dern der Erde ganz grundsätzliche Fragen zum Verhältnis von Menschenrechten, Demokratie und Naturschutz  Die-se Themengebiete enthalten eine starke ethische Kompo-nente  Ethische Prinzipien können dazu beitragen, Ziel-konflikte in der Bioökonomie zu erkennen und Lösungen aufzuzeigen  Im Kontext der globalen Herausforderungen (Ernährung sichern, Klimawandel bekämpfen, Biodiversi-tätsverlust stoppen, Naturräume schützen) stehen vor al-lem Land und Boden, biologische Vielfalt und Wasser im Fokus des weltweiten Wettlaufs um den Zugang zu natür-lichen Ressourcen  Je dynamischer der Ausbau der Bio-ökonomie verläuft, umso dringender müssen diese Fragen zum Gegenstand eigenständiger Forschung der Sozial-, Po-litik- und Wirtschaftswissenschaften gemacht werden, um zu nachhaltigen Lösungen zu gelangen 
+3.2.5 Bioökonomie und Gesellschaft
+Der Klimawandel, die demographische Entwicklung,  die Versorgung einer wachsenden Weltbevölkerung mit hoch-wertigen Nahrungsmitteln und Rohstoffen, die Begrenzt-heit der planetaren Ressourcen und der Schutz der Biosphä-re einschließlich der biologischen Vielfalt sind die großen gesellschaftlichen Herausforderungen unserer Zeit  Die Be-wältigung dieser Herausforderungen wird nicht allein tech-nisch gelingen, denn technologische Innovationen führen nicht immer zu den Lösungen, für die sie gedacht waren  Ein grundlegendes Verständnis für systemische Zusammen-hänge und den globalen Wandel ist deshalb Voraussetzung für Lösungsstrategien, in die technologische Innovationen sinnvoll und erfolgreich eingebettet sind  Um diese gesell-schaftlichen Transformationsprozesse und den sozio-tech-nischen Wandel zu verstehen, bedarf es vermehrter sozial-, politik- und wirtschaftswissenschaftlicher Forschung 
+Wechselwirkungen und  Zielkonflikte erforschen
+Mit der Bioökonomiestrategie übernimmt die Bundesre-gierung Verantwortung für eine nachhaltige Entwicklung  Bioökonomie muss zum Erreichen der übergreifenden po-litischen Ziele des Klimaschutzes und der nachhaltigen Entwicklung im Sinne der Agenda 2030 der Vereinten Na-tionen, zu denen sich die Bundesregierung verpflichtet hat, beitragen  Einzelne Ziele dürfen nicht auf Kosten anderer Ziele erreicht werden  Dies ist nur möglich, wenn wir un-ser Verständnis systemischer Zusammenhänge ständig er-weitern – von Stoffkreisläufen in einzelnen Anbausyste-
+Die Ergebnisse der Forschung sollen wichtige Beiträge zur Abschätzung der Potenziale der Bioökonomie, zu ihrer prak-tischen Ausgestaltung, zu ihren Folgewirkungen mit Blick auf verschiedene Aspekte der Nachhaltigkeit und damit auch hinsichtlich verfügbarer Handlungsoptionen liefern 
+[Page #35]
+34 
+NATIONALE BIOÖKONOMIESTRATEGIE
+Vergleichende Nachhaltigkeits­bilanzen und Zertifizierungssysteme
+den Austausch mit internationalen Expertinnen und Ex-perten auch jenseits der Forschung hat sich der Global Bio-economy Summit etabliert  Auf Initiative des 2012 bis 2019 amtierenden Bioökonomierates und gefördert von der Bundesregierung hat sich dieses hochrangig besetzte Gip-feltreffen zu einer Institution entwickelt, die wichtige Im-pulse für die Weiterentwicklung und Koordinierung  verschiedener Bioökonomie-Ansätze liefert  
+Um zu optimalen Lösungen zu kommen, müssen verglei-chende Nachhaltigkeitsbilanzen auf Basis umfassender Lebenszyklusanalysen erstellt werden, die zeigen, unter welchen Bedingungen biobasierte Produkte und entspre-chende Verfahren anderen Lösungen überlegen sind  Das schließt sowohl konventionell-fossile Alternativen ein als auch solche, die auf dem Einsatz anderer erneuerbarer Rohstoffe beruhen  Entsprechende Forschungsvorhaben liefern unverzichtbare Entscheidungsgrundlagen für die fortlaufende Weiterentwicklung der Bioökonomie 
+Zusammenarbeit in Europa
+Die Bundesregierung wird die Kooperation im Bereich For-schung, Entwicklung und Innovation zur Bioökonomie im europäischen Umfeld weiterführen und sich für ihre Stär-kung einsetzen  Der intensive Austausch mit EU-Staaten in entsprechenden Arbeitsgruppen – darunter dem Stan-ding Committee on Agricultural Research (SCAR) und der States Representative Group der Bio-Based Industries Joint Undertaking (BBI JU) – ist ein zentraler Pfeiler dieses En-gagements  Insgesamt wird die Bundesregierung die Ent-wicklung der Bioökonomie auf EU-Ebene im konstrukti-ven Dialog mit den Partnern aktiv begleiten und sich für eine erfolgreiche Umsetzung der europäischen Bioökono-miestrategie einsetzen  
+Die Entwicklung aussagekräftiger zusammenfassender In-dikatoren kann außerdem als Grundlage für mögliche Zer-tifizierungssysteme dienen, die den Zusatznutzen und die Nachhaltigkeit biobasierter Produkte verdeutlichen und dadurch ihre Marktposition stärken  Auf dieser Basis kön-nen auch politische Entscheidungen zur Steuerung der Biomasseproduktion getroffen werden  
+3.2.6  Globale Forschungs-kooperationen 
+Zusammenarbeit mit  außereuropäischen Partnern
+Der Wissensaustausch über Ländergrenzen hinweg setzt Synergieeffekte frei, sowohl für die beteiligten Koopera-tionspartner als auch für die Bioökonomie als Ganzes  Die Bundesregierung wird die Voraussetzungen weiter verbes-sern, um international voneinander zu lernen und mitein-ander zu forschen  Das Ziel ist, Nachhaltigkeit und Bioöko-nomie global zu denken und umzusetzen  Hiervon kann Deutschland als Wissenschafts-, Technologie- und Inno-vationsstandort profitieren  Eine Ausweitung und Versteti-gung der internationalen Zusammenarbeit trägt der globa-len Verantwortung Deutschlands Rechnung 
+Über die Grenzen Europas hinaus wird auch die Zusam-menarbeit mit außereuropäischen Kompetenzträgern wei-tergeführt und ausgebaut werden  Durch gezielte bilate-rale Forschungskooperationen mit ausgewählten Ländern werden Schwerpunkte gesetzt  Ebenso wird es internatio-nale Maßnahmen geben, die grundsätzlich offen sind für Kooperationen deutscher Partner mit Partnern aus ande-ren Nationen  Die Bundesregierung ist überzeugt, dass je-des Land und jede Region einen individuellen Beitrag zur globalen Bioökonomie leisten kann, durch eine eigene Mi-schung aus Rohstoffen, Technologien, Wissen und Ideen  Durch Kooperationen können der Aufbau einer biobasier-ten Wirtschaft unterstützt und die individuellen Ansätze bestmöglich miteinander verzahnt werden 
+Die Grundlagen für diese Kooperationen sind gelegt  Die Bundesregierung hat den Aufbau von transnationalen For-schungsnetzwerken in den letzten Jahren intensiv geför-dert und mit ihren Maßnahmen dazu beigetragen, dass deutsche Forschungseinrichtungen weltweit einen her-vorragenden Ruf genießen  Als einschlägige Plattform für 
+[Page #36]
+FORSCHUNGSFÖRDERUNG FÜR EINE NACHHALTIGE BIOÖKONOMIE 
+35
+[Page #37]
+4
+Handlungsfelder zur Verbesserung der Rahmenbedingungen für eine nachhaltige Bioökonomie
+[Page #38]
+37
+Die Bioökonomie berührt als Quer-schnittsthema alle Wirtschaftssektoren und kann daher nur durch die sinnvolle und kohärente Verknüpfung verschie-dener Politikbereiche adressiert werden  Im Folgenden werden die zentralen Handlungsfelder zur Verbesserung der politischen Rahmenbedingungen  dargestellt  
+[Page #39]
+38 
+NATIONALE BIOÖKONOMIESTRATEGIE
+Handlungsfelder für eine nachhaltige Bioökonomie zurVerbesserung der politischen Rahmenbedingungen
+1
+Minderung des Flächendrucks
+2
+Nachhaltige Erzeugung und Bereitstellung biogener Rohstoffe
+3
+Aufbau und Weiterentwicklung bioökonomischer Wertschöpfungsketten und ­netze
+4
+Markteinführung und Etablierung biobasierter Produkte, Verfahren und Dienstleistungen
+5
+Nutzung des Bioökonomie­Potenzials für die Entwicklung ländlicher Räume
+6
+Nutzung der Digitalisierung für die Bioökonomie
+Politische Kohärenz
+7
+Agrar­, Forst­, und  Fischereipolitik
+Klima­ und  Umweltpolitik
+Industriepolitik
+Energiepolitik
+gang zu einer Bioökonomie unterstützen und zur  Entschärfung der Ziel- und Nutzungskonflikte beitragen  
+Die Bioökonomie berührt als Querschnittsthema alle Wirt-schaftssektoren und kann daher nur durch die sinnvolle und kohärente Verknüpfung verschiedener Politikbereiche adressiert werden  Dazu gehören neben der bereits dargeleg-ten Forschungspolitik (Kapitel 3) beispielsweise die Indus-trie- und Energiepolitik, die Agrar-, Forst- und Fischerei-politik sowie die Klima-, Umwelt- und Naturschutzpolitik  Die Bioökonomiestrategie bringt verschiedene Politikfelder zusammen und zeichnet einen Pfad für die Bioökonomie-Politik in Deutschland vor  Ziel dieser Politik ist die Ausge-staltung förderlicher Rahmenbedingungen, die den Über-
+Die Politik gestaltet die Umsetzung der Bioökonomie durch ordnungsrechtliche Maßnahmen, Fördermaßnahmen, Kommunikation und Kooperationen  Die einzelnen Hand-lungsfelder sind so angelegt, dass sie die nachhaltige Ent-wicklung der Bioökonomie in Deutschland – definiert in den SDGs und in der Deutschen Nachhaltigkeitsstrategie – unterstützen und einen Beitrag entlang der Wertschöp-fungsketten in der Bioökonomie (von der Rohstofferzeu-
+[Page #40]
+HANDLUNGSFELDER ZUR VERBESSERUNG DER RAHMENBEDINGUNGEN FÜR EINE NACHHALTIGE BIOÖKONOMIE 
+39
+sollen die Chancen der Digitalisierung genutzt, Kooperatio-nen auf internationaler Ebene verstärkt und die Ausbildung und Lehre weiter unterstützt werden  
+gung über die Biomassenutzung, den Verarbeitungs- und Vermarktungsprozess, den Handel und den Verbraucher bis hin zur Nutzung von Rest- und Abfallstoffen) leisten  Dabei 
+4.1 Minderung des Flächendrucks
+Einen weiteren Ansatz der Bundesregierung zur Minde-rung des Flächendrucks stellt die Rekultivierung degra-dierter, ungenutzter oder nicht effizient genutzter Flächen dar  Beispiele hierfür sind die nachhaltige Bewirtschaftung von Bergbaufolgeflächen oder Grenzertragsstandorten in der Landwirtschaft, wobei die hohe Bedeutung von Brach-flächen oder extensiv genutzten Flächen für Umweltleis-tungen und Artenvielfalt zu beachten ist  Auch innerstäd-tische Flächen können für eine landwirtschaftliche oder gärtnerische Erzeugung (Urban Farming) genutzt werden  Nachhaltige Bewirtschaftung kann mit positiven Effekten, wie Vermeidung von Erosion und der Erhöhung der Biodi-versität, einhergehen 
+Die mit Blick auf die globale Bevölkerungsentwicklung und die weltweit wachsende Nachfrage nach Lebensmit-teln tierischer Herkunft zu erwartende verstärkte Nut-zung biogener Ressourcen impliziert eine größere Flächen-inanspruchnahme für deren Produktion, die theoretisch entweder über eine Ausdehnung von Produktionsflächen, eine Nutzungsintensivierung oder eine Kombination bei-der Maßnahmen erreicht werden kann  Außerdem können insbesondere eine effektive Verteilung erzeugter Lebens-mittel oder eine verringerte Produktion tierischer Lebens-mittel verbunden mit fleischärmerer Ernährung den Flä-chenbedarf mindern  Flächen werden aber auch für den Erhalt natürlicher Lebensräume und der Biodiversität  sowie für andere Nutzungen benötigt  Zu letzterem zählen insbesondere der Siedlungs- und Infrastrukturausbau, der Abbau von abiotischen Rohstoffen (Kohle, Sand, Kies etc), aber auch die Flächeninanspruchnahme durch  Erneuerbare-Energien-Anlagen  Selbst innerhalb der  Biomasseproduktion entsteht eine Flächennutzungs-konkurrenz mit Blick auf die Nutzung oder Verwertung der erzeugten Biomasse  
+Einen weiteren Baustein der Minderung des Flächendrucks stellt neben der Nutzung alter Industriestandorte für neue industrielle Nutzungen in der Bioökonomie die nachhalti-ge Steigerung der Produktivität land- und forstwirtschaft-lich genutzter Flächen dar, die mit der Wahrung von Biodi-versität und Landschaftsbildern einhergehen muss  Durch Züchtung und Precision Farming kann eine ökonomisch wie ökologisch nachhaltige Steigerung der Flächenpro-duktivität erreicht werden  Dies wirkt der Steigerung des Flächenbedarfs entgegen  Darüber hinaus können Züch-tungen durch Bereitstellung eines vielfältigen Arten- und Sortenspektrums sowie die Weiterentwicklung resilienter und ökologischer Anbausysteme zur Diversifizierung im landwirtschaftlichen Pflanzenbau beitragen, was sich posi-tiv auf die Agrarbiodiversität auswirken kann  Die Bundes-regierung wird ihre Aktivitäten im Bereich der Züchtung standort- und klimaangepasster, im Hinblick auf die Nähr-stoff- und Wassernutzung effizienter sowie gegenüber bio-tischem und abiotischem Stress resistenter beziehungswei-se toleranter Pflanzensorten sowie zur Weiterentwicklung von ökologischen Anbausystemen weiterführen und  auch mit Blick auf die Anpassung an den Klimawandel  ausbauen  
+Die zu erwartende weitere Zunahme der Flächennutzungs-konkurrenzen, auch im Hinblick auf Flächenansprüche zur Bereitstellung von Ökosystemleistungen (zum Beispiel Lebens- und Nahrungsflächen für Insekten oder Nieder-wild), stellt somit eine große Herausforderung dar  Sie kann gleichzeitig Chancen für verbesserte und ressourcenscho-nende Flächennutzungsformen eröffnen (zum Beispiel durch Paludikulturen)  Zur Entschärfung der Flächennut-zungskonkurrenzen setzt die Bioökonomie-Politik auf eine Kombination verschiedener Ansätze  Hierzu gehören Maß-nahmen, die der Steigerung der Ressourceneffizienz dienen, indem sie beispielsweise durch die Implementierung von In-frastrukturen und Prozessschritten für die Trennung und Rückgewinnung von Sekundärstoffen oder durch die An-wendung von Verfahren für die Koppel- und Kaskadennut-zung auf die allgemeine Reduzierung des Rohstoffeinsatzes abzielen  Darüber hinaus kann insbesondere der Einsatz  biogener Ressourcen, die mit keinem oder nur geringem  Flächenbedarf verbunden sind (zum Beispiel Abfall- und Reststoffnutzung) maßgeblich zur Minderung des Flächen-drucks führen  
+Auch die Maßnahmen von Bund und Ländern zur Redu-zierung der Flächeninanspruchnahme für Siedlungs- und Verkehrsflächen tragen dazu bei, den Druck auf die natür-liche Ressource Boden zu verringern  
+[Page #41]
+40 
+NATIONALE BIOÖKONOMIESTRATEGIE
+Ressourcen der Bioökonomie
+Pflanzenund Böden
+Tiere
+Mikroben
+Neben- und Reststoffe
+Wasser
+CO2
+Nachhaltige Nutzung
+Chemie
+Textil
+Lebensmittel
+Maschinenbau
+Pharma
+Bau
+Landwirtschaft
+Energie
+Autoindustrie
+Konsum
+[Page #42]
+HANDLUNGSFELDER ZUR VERBESSERUNG DER RAHMENBEDINGUNGEN FÜR EINE NACHHALTIGE BIOÖKONOMIE 
+41
+4.2  Nachhaltige Erzeugung und Bereitstellung 
+biogener Rohstoffe 
+den, ohne die Produktivität der deutschen Landwirtschaft zu beeinträchtigen  Die Vorgaben für die Düngung werden mit dieser Zielrichtung kontinuierlich an die Umwelter-fordernisse und die entsprechenden europäischen Rechts-grundlagen angepasst 
+Von landwirtschaftlichen Flächen, aus Wäldern und Was-serökosystemen werden die für eine Bioökonomie wich-tigsten biogenen Ressourcen bereitgestellt und durch bio-gene Rest- und Abfallstoffe ergänzt  Zur Erhaltung dieser natürlichen Lebensgrundlagen muss die Ressourcennut-zung im Einklang mit den Zielen des Umwelt-, Klima- und Naturschutzes sowie mit den sozio-ökonomischen Nach-haltigkeitszielen erfolgen 
+Die Forstwirtschaft ist ein weiteres Standbein der deut-schen Bioökonomie  Sie stellt einen Großteil der in Deutschland verwendeten biogenen Rohstoffe bereit  Ein wichtiges Instrument zur Anpassung an den Klimawan-del und zur Sicherung der Rohstoffversorgung ist –  neben dem Waldumbau hin zu klimaangepassten Mischwäldern mit standortgerechten Baumarten – die Forstpflanzen-züchtung  Ziel der Bundesregierung ist es, eine an die zu-künftigen Anforderungen angepasste, tragfähige Balan-ce zwischen den steigenden Ansprüchen an den Wald und seiner nachhaltigen Leistungsfähigkeit zu entwickeln  Denn das Ziel einer nachhaltigen Nutzung des Waldes  erfordert wirtschaftliche Leistungsfähigkeit, ökologische Verantwortung und soziale Gerechtigkeit  
+Dies erfordert weitere Anstrengungen, die sämtliche Fak-toren der Produktionssysteme unter standortspezifischen Anforderungen und Nachhaltigkeitsaspekten berück-sichtigen  Hier ist beispielsweise die Erhaltung gesunder und fruchtbarer Böden zu nennen  Ferner soll die effizien-te Nutzung von Rest- und Abfallstoffen aus der Land- und Forstwirtschaft, aus industrieller Produktion und von  privaten Haushalten weiter gesteigert werden 
+Ein wichtiges Instrument zur Ausgestaltung einer nach-haltigen Landwirtschaft ist die Gemeinsame Agrarpoli-tik der EU (GAP)  Durch die Reform der GAP sollte eine wesentlich stärker auf Nachhaltigkeit ausgerichtete Land-wirtschaft in Europa angestrebt werden 
+Zur langfristigen Sicherung land- und forstwirtschaftli-cher Produktion in Deutschland hat das Bundesministe-rium für Ernährung und Landwirtschaft (BMEL) in Zu-sammenarbeit mit den Bundesländern eine Agenda zur Anpassung von Land- und Forstwirtschaft sowie Fischerei und Aquakultur an den Klimawandel erarbeitet  Diese soll in den kommenden Aktionsplan zur Deutschen Anpas-sungsstrategie an den Klimawandel15  (DAS) integriert wer-den  Ziel ist es, Land- und Forstwirtschaft sowie Fischerei und Aquakultur so auf die erwarteten Klimaänderun-gen einzustellen, dass Risiken für Betriebe und Unterneh-men gemindert werden, ohne dabei die Umwelt zu beein-trächtigen 16  Die zukünftige Verfügbarkeit von biogenen Rohstoffen wird einerseits stark von den Veränderungen abhängen, die der Klimawandel in Bezug auf die Produk-tionsbedingungen (Niederschlagsmenge und -verteilung, Durchschnittstemperaturen, Witterungsextreme etc) mit sich bringt, sie wird andererseits aber auch von der  Anpassungsfähigkeit unserer Land- und Forstwirtschaft an die neuen Gegebenheiten bestimmt 
+Die nachhaltige Bereitstellung biogener Rohstoffe soll aber auch national im Rahmen fachspezifischer Aktivitäten weiter gestärkt werden, die über die EU-Förderungen  hinausgehen  Beispielsweise spielt der ökologische Land-bau eine wichtige Rolle im Rahmen einer nachhaltigen Produktion von landwirtschaftlichen Erzeugnissen für die Ernährung  So soll der Anteil der Ökolandbau-Fläche an der Agrarfläche in Deutschland bis zum Jahr 2030 auf 20 Prozent gesteigert werden, auch um die steigende Nach-frage nach Ökoprodukten umfassender zu bedienen und um die Bandbreite der Erwerbsmöglichkeiten für land-wirtschaftliche Betriebe zu erweitern 
+Darüber hinaus soll die Nachhaltigkeit der Landwirtschaft im Rahmen nationaler Aktionspläne oder Strategien kon-tinuierlich verbessert werden  So sollen beispielsweise die Risiken der Anwendung von Pflanzenschutzmitteln in der Landwirtschaft reduziert und das Tierwohl gesteigert wer-
+[Page #43]
+42 
+NATIONALE BIOÖKONOMIESTRATEGIE
+4.3  Aufbau und Weiterentwicklung bioökono-mischer Wertschöpfungsketten und -netze
+rische und technische Konzepte weiterentwickelt werden  Damit sollen Produktion, Lagerung und Erstverarbeitung nachwachsender Rohstoffe optimiert und somit eine effizi-entere Nutzung biogener Ressourcen erreicht werden  Dies kann sowohl die Erfassung von Sekundär- und Reststoffen als auch die Aufbereitung von land- und forstwirtschaft-lich produzierten Rohstoffen zu qualitativ höherwertigen und wirtschaftlich zu transportierenden Zwischenproduk-ten unter Berücksichtigung von Nachhaltigkeitsaspekten betreffen  
+Die Entwicklung innovativer biobasierter Produkte, Ver-fahren oder Dienstleistungen, die gegenüber fossilbasier-ten Lösungen über zusätzliche positive Eigenschaften verfügen, ist ein wesentlicher Treiber einer biobasierten Wirtschaft und soll daher weiterhin unterstützt werden 
+Oftmals kann die Entwicklung und Etablierung regiona-ler biogener Wertschöpfungsketten über die bessere Ver-netzung etablierter Akteure einzelner Wertschöpfungs-ketten erreicht werden  Diese Vernetzung soll daher auch in Zukunft weiterhin unterstützt werden  In der Vergan-genheit ist dies beispielsweise im Rahmen der Förderung von Bioökonomie-Clustern geschehen  Potenzial für inno-vative Wertschöpfungsketten sieht die Bundesregierung im verstärken Einsatz biogener Rohstoffe aus aquatischen Systemen wie beispielsweise Algen, Cyanobakterien oder Wasserpflanzen  Auch mit dem Ziel der Verbreiterung der Rohstoffbasis der Bioökonomie soll in Zukunft insbesondere der Einsatz aquatischer Ressourcen vorangetrieben werden  
+Die mit der Optimierung einhergehenden Verbesserungen können oftmals durch die sinnvolle Verknüpfung einzel-ner Wertschöpfungsketten zu Wertschöpfungsnetzen wei-ter verstärkt werden, sodass es zu positiven Synergieeffek-ten kommen kann  Unter Anwendung des Gedankens der Ressourceneffizienz und der Nachhaltigkeit sollte –  wo möglich und sinnvoll – eine Kaskaden- und Koppel-nutzung angestrebt werden  Zur Steigerung der Ressour-ceneffizienz sollen in Verbindung mit der Kaskadennut-zung verstärkt Anstrengungen unternommen werden, die verwendeten biogenen Rohstoffe so lange wie wirtschaft-lich und technisch möglich im Stoffkreislauf zu halten  Dabei soll zunächst die Verwendungsmöglichkeit mit der höchsten Wertschöpfung weiterverfolgt werden  Beson-deres Augenmerk liegt dabei auf der Erschließung neuer, wirtschaftlich attraktiver Nebenprodukte, die sich für  eine Koppelnutzung eignen  Dabei gilt es, die Prinzipien des Kreislaufwirtschaftsgesetzes zur Schonung der natür-lichen Ressourcen und die Sicherung der umweltverträgli-chen Bewirtschaftung von Abfällen zu berücksichtigen  
+Neben der Etablierung neuer Wertschöpfungsketten sol-len auch die bestehenden Wertschöpfungsketten der Bio-ökonomie optimiert werden, um den Rohstoffverbrauch zu verringern, Umwelt und Klima durch die Reduzie-rung der Inanspruchnahme nicht-regenerativer Rohstof-fe zu schonen und um die Wirtschaftlichkeit der gesamten Wertschöpfungskette zu verbessern  Die Bundesregierung setzt zu diesem Zweck in erster Linie auf die technologi-sche Weiterentwicklung bestehender sowie die Erprobung innovativer Produktionsverfahren  Auf betrieblicher Ebe-ne und in nachgelagerten Logistikketten sollen organisato-
+4.4  Markteinführung und Etablierung  
+biobasierter Produkte, Verfahren und Dienstleistungen
+forderung  Sie konkurrieren mit bereits am Markt etablier-ten Produkten, die über gewachsene Vermarktungswege, Bekanntheit und Infrastruktur verfügen  Obwohl die Be-reitschaft von Verbraucherinnen und Verbrauchern, bio-basierte Produkte zu kaufen, zuweilen so groß ist, dass sie 
+Gegenüber fossilbasierten Erzeugnissen verfügen bioba-sierte Alternativen häufig über Vorteile für Klima und Um-welt, Ressourceneffizienz und Nachhaltigkeit  Dennoch ist die Markteinführung und Etablierung innovativer Pro-dukte und Verfahren der Bioökonomie eine große Heraus-
+[Page #44]
+HANDLUNGSFELDER ZUR VERBESSERUNG DER RAHMENBEDINGUNGEN FÜR EINE NACHHALTIGE BIOÖKONOMIE 
+43
+[Page #45]
+44 
+NATIONALE BIOÖKONOMIESTRATEGIE
+Wertschöpfung und Ressourceneffizienz als mit dem  Klimaschutz eng verbundene Themen mit ein  
+bereit sind, höhere Marktpreise zu zahlen, reicht die initia-le Nachfrage nach biobasierten Produktalternativen häufig nicht aus, um diese wirtschaftlich produzieren zu können  
+Weitere wichtige Bestandteile, die die Marktetablierung biobasierter Produkte unterstützen, sind Information und Sensibilisierung von Verbraucherinnen und Verbrauchern über die konkreten Vor- und Nachteile dieser Produkte  Produktkennzeichnungen und gegebenenfalls Zertifizie-rungen schaffen Transparenz und stärken das Vertrauen in biobasierte Produkte  Auswahl und Bekanntmachung von guten Beispielen nachhaltiger biobasierter Rohstoff-verwendungen mit Leuchtturmcharakter tragen dazu bei, die Öffentlichkeit für diese Themen zu sensibilisieren und zusätzliche Anreize für den Einsatz nachwachsender Roh-stoffe zu schaffen  Auch in Zukunft wird die Bundesregie-rung daher Wettbewerbe wie den „HolzbauPlus-Wettbe-werb“ ausloben, mit dem das BMEL die Aufmerksamkeit auf besonders nachhaltige Gebäude mit einer ganzheitli-chen Materialwahl lenkt und in dessen Rahmen Projek-te mit Holz im Zusammenspiel mit weiteren nachwachsen-den Rohstoffen in Konstruktion, Dämmung und Ausbau prämiert werden 
+Durch die Einbeziehung von und den Dialog mit verschie-denen Akteuren einer biobasierten Wertschöpfungskette im Rahmen von bewährten Dialogprozessen wie Fachge-sprächen, Workshops, Plattformen und Tagungen können Maßnahmen entwickelt und umgesetzt werden, um den verstärkten Einsatz bestimmter biogener Rohstoffe zu för-dern  Ein Beispiel dafür ist die „Charta für Holz 2 0“17  des BMEL, die unter dem Motto „Klima schützen  Werte schaf-fen  Ressourcen effizient nutzen“ mit einem ganzheitlichen Ansatz auf eine stärkere Verwendung von Holz aus nach-haltiger Forstwirtschaft abzielt  Als Meilenstein im Klima-schutzplan 2050 schließt die Charta für Holz Aspekte der 
+Ein weiteres wichtiges Instrument zur Unterstützung der Marktetablierung biobasierter Produkte ist die öffentliche Beschaffung  Das Beschaffungsvolumen der öffentlichen Hand liegt nach Schätzungen bei mindestens 300 Milliar-den Euro im Jahr  Eine stärkere Ausrichtung der öffentli-chen Beschaffung auf biobasierte, nachhaltige Produkte kann die Etablierung solcher Produkte daher nachfragesei-tig unterstützen  Marktmacht und Vorbildfunktion der  öffentlichen Hand dienen dabei als Marktöffner 
+Die mit Mitteln des BMEL und der Landwirtschaftlichen Ren-tenbank durchgeführte „Deutsche Innovationspartnerschaft“ (DIP) ist ebenfalls ein Beispiel dafür, wie Produktentwicklun-gen erfolgreich zur Marktreife geführt werden können 
+4.5  Nutzung des Bioökonomie-Potenzials  für die Entwicklung ländlicher Räume 
+Regionale Bioökonomie-Potenziale unterscheiden sich je nach vorhandener Infrastruktur, verfügbaren Rohstoffen und den Kompetenzen der lokalen Akteure  Darüber hinaus finden die Weiterverarbeitung der biogenen Ressourcen und die damit verbundene Wertschöpfung bisher oftmals nicht an dem Ort ihrer Erzeugung statt  Stattdessen wird Biomas-se teilweise über weite Strecken transportiert, um diese (oft zentral in großen Anlagen) zu verarbeiten, was unter ande-
+Der Großteil der Biomasse in Deutschland wird in ländli-chen Räumen erzeugt beziehungsweise bereitgestellt und als Nahrungs- oder Futtermittel oder auch stofflich und energetisch verwendet  Ländliche Räume spielen daher  eine zentrale Rolle in der Bioökonomie  Der weitere Aus-bau der Bioökonomie in Deutschland birgt große Potenzia-le hinsichtlich Wertschöpfung, Arbeitsplätzen und damit  zusammenhängend Lebensqualität im ländlichen Raum  
+[Page #46]
+HANDLUNGSFELDER ZUR VERBESSERUNG DER RAHMENBEDINGUNGEN FÜR EINE NACHHALTIGE BIOÖKONOMIE 
+45
+Landwirtschaftliche Nutzfläche in Deutschland 2017
+2 % Brache & Stilllegung
+2 % Industriepflanzen
+14 % Energiepflanzen
+LandwirtschaftlicheNutzfläche im Vergleich zur Gesamtfläche16,7 Mio. ha (47%)
+22 % Nahrungsmittel
+60 % Futtermittel
+Quelle: FNR nach Statistischem Bundesamt, BMEL (2017)
+die Grundlage für neue Geschäftsideen in der Bioökonomie darstellen, ist das Vorhandensein qualifizierter Mitarbeite-rinnen und Mitarbeiter sowie moderner Infrastruktur und Nahversorgungsangebote vor Ort  Die Bundesregierung  arbeitet gemeinsam mit Ländern und kommunalen Spitzen-verbänden in der Kommission „Gleichwertige Lebensver-hältnisse“ an diesbezüglichen Fragen  Zur Identifikation von Regionen mit bisher ungenutztem Potenzial für die Entwick-lung bioökonomischer Wertschöpfungsketten soll eine  Potenzialanalyse durchgeführt werden  Die Ergebnisse der Studie sollen als Grundlage für die Identifikation regional-spezifischer Maßnahmen dienen und in die Entwicklung  regionaler Bioökonomiestrategien münden 
+rem mit transportbedingten CO2-Emissionen verbunden ist  Im Rahmen des Ausbaus der Bioökonomie soll unter Ein-bindung lokaler Akteure und regionaler Verwaltungen die Entwicklung regionaler Bioökonomie-Konzepte unter-stützt werden  Ein Fokus soll dabei insbesondere auf der lo-kalen Weiterverarbeitung biogener Rohstoffe zu höherwer-tigen Verarbeitungsstufen liegen  Dies kann dazu beitragen, Beschäftigung und Wertschöpfung in ländlichen Räumen zu schaffen und Transporte zu reduzieren  Auch die Unter-stützung regionaler, an örtliche Gegebenheiten angepasster Vermarktungsformen für biobasierte Produkte kann helfen, regionale Wertschöpfung zu generieren  Die Basis für inno-vative Produktions- und Dienstleistungsprozesse, die häufig 
+4.6  Nutzung der Digitalisierung für  
+die Bioökonomie
+schaftlichen Produktion zu großen Einsparungen an  Ressourcen wie Boden, Pflanzenschutzmitteln, Dünger und Energie führen  Dies führt zu Kostensenkungen und Effizienzsteigerungen und macht die Landwirtschaft so-mit konkurrenzfähiger und umweltfreundlicher  Großes Potenzial ergibt sich in diesem Zusammenhang durch den Einsatz von Sensortechnik, Big Data, schnellen Datenver-bindungen oder Robotik bei der Erzeugung und Verarbei-
+Aufgrund ihres hohen Innovationspotenzials eröffnet die stärkere Implementierung der Digitalisierung entlang der gesamten Bioökonomie-Wertschöpfungskette die Mög-lichkeit, Prozesse zu optimieren  Die Verbindung der Bio-ökonomie mit der Digitalisierung schafft aber auch neu-en Raum für innovative Geschäftsmodelle  Dies gilt für alle Bereiche der Produktion  Beispielsweise kann der Einsatz digitaler Innovationen im Bereich der land- und forstwirt-
+[Page #47]
+46 
+NATIONALE BIOÖKONOMIESTRATEGIE
+[Page #48]
+HANDLUNGSFELDER ZUR VERBESSERUNG DER RAHMENBEDINGUNGEN FÜR EINE NACHHALTIGE BIOÖKONOMIE 
+47
+fen, das Bewusstsein der Verbraucherinnen und Verbrau-cher für nachhaltig erzeugte Produkte zu schärfen und so Kaufentscheidungen zu beeinflussen  
+tung biogener Rohstoffe und im Rahmen der Präzisions-landwirtschaft  
+Es gilt zu eruieren, wie digitale Techniken beispielsweise in den grünen Berufen optimal zum Schutz der Umwelt, des Tierwohls, der Biodiversität und für eine nachhaltige Ent-wicklung sowie zur Verbesserung des Tierschutzes und zur Arbeitserleichterung eingesetzt werden können, und wel-che Arten innovativer Geschäftsmodelle zukunftsfähig sind  Dies soll beispielsweise im Rahmen von digitalen  Experimentierfeldern auf landwirtschaftlichen Betrieben erarbeitet werden  Das hierzu vorgesehene koordinierende Kompetenznetzwerk ist ein wichtiger erster Schritt 
+Grundlage der stärkeren Umsetzung digitaler Lösungen ist die Klärung offener Fragen in den Bereichen Datenschnitt-stellen, Open Data, Standardsetzungen, Kompatibilität und Datenplattformen sowie das Schaffen von Rechtssicher-heit  Grundsätzlich ist dabei auch zu klären, inwiefern die Digitalisierung durch den entstehenden Energiebedarf  Effizienzgewinne schmälert oder sogar überkompensiert (Reboundeffekt) und wie diese Problematik gelöst werden kann  Diese Fragen sollen insbesondere in ländlichen Räu-men in Pilotprojekten untersucht und gelöst werden 
+Darüber hinaus ist es möglich, dass digital bereitgestellte Informationen über nachhaltige Produktionsweisen hel-
+4.7 Politische Kohärenz
+Bauen, Energie, biologische Vielfalt, Abfallwirtschaft,  Ressourceneffizienz oder nachhaltige Finanzpolitik ein  Zu diesem Zweck wird die Abstimmung innerhalb der Bun-desregierung auch künftig in der interministeriellen  Arbeitsgruppe zur Bioökonomie (IMAG) weitergeführt  In der IMAG sollen die verschiedenen Aktivitäten der Bun-desregierung zur Umsetzung der Bioökonomiestrategie koordiniert werden 
+Die Rahmenbedingungen für den Wandel hin zu einer Bio-ökonomie werden stark durch Fachpolitiken auf regiona-ler, nationaler sowie internationaler Ebene geprägt  Diese variieren teilweise erheblich, was die Vermarktung markt-fähiger biobasierter Produkte oftmals behindert und gege-benenfalls einen rohstoffspezifischen Wettbewerbsnachteil generieren kann  Insbesondere im Falle innovativer bioba-sierter Produkte oder Verfahren, die bisherige Standardver-fahren ablösen könnten, werden eventuell vorkommende produktspezifische Vor- oder Nachteile in bestehenden  Regelungen oftmals nicht berücksichtigt, da diese Vor- oder Nachteile bisher nicht relevant oder bekannt sind  
+Darüber hinaus soll ein Gremium die Bundesregierung  beraten, das über eine breite Expertise zu allen Dimensionen der Bioökonomie verfügt und verschiedene Perspektiven vereint (siehe auch 5 1)  So sollen Synergieeffekte identifiziert und genutzt werden, um die Kohärenz politischer Entschei-dungen über verschiedene Verwaltungsebenen hinweg si-cherzustellen  Ferner soll der Austausch der Akteure auf ver-schiedenen Verwaltungsebenen (EU, Bund, Länder) wie auch mit Stakeholdern und Experten einzelner Branchen der Bio-ökonomie und mit Experten des Umwelt- und Naturschut-zes verstärkt werden  Im Rahmen dieses Austauschs soll bei-spielsweise auch analysiert werden, ob die Markteinführung innovativer biobasierter Lösungen durch regulatorische  Einschränkungen gehemmt ist und ob gegebenenfalls Dis-kriminierungen biobasierter Produkte oder Verfahren  bestehen, die sich mit ordnungspolitischen und technischen Anpassungen beheben lassen  Weiterhin sollen die Biomas-seströme und ihre Nutzungsarten bewertet und priorisiert werden 
+Neben regional unterschiedlichen rechtlichen Regelungen hinsichtlich Anbau und Verarbeitung biogener Rohstoffe oder des Inverkehrbringens, des Verzehrs oder des Einsatzes biobasierter Produkte für verschiedene Verwendungsberei-che variieren auch die Anforderungen an innovative bio-basierte Produkte hinsichtlich ihrer Zulassung oder ihrer Nachhaltigkeit je nach Region oder Verwendungspfad 
+Die Sicherstellung kohärenter politischer Rahmenbedin-gungen für den Wandel zu einer stärker biobasierten Wirt-schaft erfordert eine engere Verzahnung von Politik und Strategien insbesondere in den Bereichen, in denen bio-basierte Materialien erzeugt oder verarbeitet werden  Dies schließt sowohl die Land-, Forst- und Fischereiwirtschafts-politik als auch Regelungen in den Bereichen Umwelt, 
+[Page #49]
+48 
+NATIONALE BIOÖKONOMIESTRATEGIE
+5
+Übergreifende Instrumente
+[Page #50]
+ÜBERGREIFENDE INSTRUMENTE 
+4949
+Neben den Maßnahmen zur Forschungs-förderung und zur Verbesserung der Rahmenbedingungen plant die Bun-desregierung weitere Aktivitäten zur Umsetzung der Bioökonomiestrategie  
+[Page #51]
+50 
+NATIONALE BIOÖKONOMIESTRATEGIE
+5.1.  Einrichtung eines beratenden Gremiums 
+unter breiter gesellschaftlicher Beteiligung
+re auch Konflikte thematisiert werden, die bei der Umsetzung der mit der Bioökonomie verknüpften Nachhaltigkeitsziele auftreten können  Eine weitere Aufgabe des Gremiums wird es sein, in einem partizipativen Prozess Vorschläge und Empfeh-lungen für einen Umsetzungsplan der Nationalen Bioökono-miestrategie zu entwerfen und diese während der Laufzeit der Strategie kontinuierlich fortzuschreiben  Der Umsetzungsplan soll Empfehlungen für konkrete politische Maßnahmen ent-halten und dabei aktuelle Entwicklungen berücksichtigen  Die Bundesregierung wird sich mit den Stellungnahmen ausein-andersetzen und auf dieser Grundlage Schritte ergreifen, um die Ziele der Bioökonomiestrategie zu erreichen 
+Als Weiterentwicklung des in zwei Perioden von 2009 bis 2012 und 2012 bis 2019 amtierenden Bioökonomierates soll ein neues Gremium die Bundesregierung beraten, das über  eine breite Expertise zu allen Dimensionen der Bioökonomie verfügt  Das Beratungsgremium soll möglichst viele Perspek-tiven auf die Bioökonomie abdecken und neben Fachleuten aus Wissenschaft und Industrie auch Vertreterinnen und  Vertreter thematisch relevanter zivilgesellschaftlicher Orga-nisationen umfassen  Zu seinen Aufgaben zählen die Erar-beitung von Empfehlungen und Stellungnahmen sowie die Förderung der öffentlichen Debatten zur Bioökonomie  Un-ter breiter Beteiligung der Zivilgesellschaft sollen insbesonde-
+Länder mit politischen Aktivitäten  in der Bioökonomie*
+GL
+SE
+IS
+RU
+FO
+FI
+NO
+CA
+LV
+DK
+LT
+IE GB
+NL
+DE
+BE
+AT
+FR
+US
+ES
+PT
+IT
+JP
+KR
+CN
+MX
+IN
+ML
+TH
+SN
+NG
+CR
+LK
+C0
+MY
+UG
+KE
+ID
+TZ
+BR
+*Es werden in der Karte alle Länder farbig aufgeführt, die die Bioökonomie in politischen Programme adressieren – sei es als dedizierte Bioökonomiestrategie oder als Teil einer übergeordneten Maßnahme. (alle Länderkürzel siehe Seite 64)
+MZ
+MU
+PY
+NA
+AU
+ZA
+UY
+AR
+NZ
+Quelle: Bioökonomiestrategie
+[Page #52]
+ÜBERGREIFENDE INSTRUMENTE 
+51
+5.2 Bund-Länder-Zusammenarbeit
+sind verschiedene Cluster, Kompetenzzentren und Modell-regionen, die zum Thema Bioökonomie aufgesetzt wurden  Die Bundesregierung wird diese und weitere Maßnahmen im Rahmen einer Bund-Länder-Arbeitsgruppe abstimmen und koordinieren, um die weitere Entwicklung der Bioöko-nomie in Deutschland so effizient wie möglich zu gestalten 
+Die Bundesregierung begrüßt, dass auf Ebene der Bundes-länder eigenständige Bioökonomiestrategien entwickelt wurden, die auf die spezifischen Herausforderungen vor Ort eingehen und die Chancen der Bioökonomie ebenso für den ländlichen wie den urbanen Raum nutzen  Wichtig ist, dass alle Verwaltungsebenen in Austausch miteinander treten 
+Die Nationale Bioökonomiestrategie profitiert von den An-strengungen der Länder, eigene Strategien zu entwerfen, Förderinitiativen aufzulegen, landesspezifische Profile der Bioökonomie zu entwickeln sowie Cluster und regionale Netzwerke aufzubauen  Beispiele für erfolgreiche Initiativen 
+GL
+GL
+SE
+SE
+IS
+IS
+RU
+RU
+FOFI
+FO
+FI
+NO
+NO
+CA
+CA
+LVLT
+LVLTIE GB NLBE
+DK
+DK
+IE GB NLBE
+DE
+DE
+AT
+AT
+FR
+FR
+US
+US
+ES
+ES
+PT
+PT
+IT
+IT
+JP
+JP
+KR
+KR
+CN
+CN
+MX
+MX
+IN
+IN
+ML
+ML
+TH
+TH
+SN
+SN
+NG
+NG
+CR
+CR
+LK
+LK
+C0
+C0
+MY
+MY
+UG
+UG
+KE
+KE
+ID
+ID
+TZ
+TZ
+BR
+BR
+MZ
+MZ
+MU
+MU
+PY
+PY
+NA
+NA
+AU
+AU
+ZA
+ZA
+UY
+UY
+AR
+AR
+NZ
+NZ
+[Page #53]
+52 
+NATIONALE BIOÖKONOMIESTRATEGIE
+5.3  Europäische und internationale  
+Zusammenarbeit
+gierung wird dazu beitragen, die Bioökonomie und die mit ihrer Implementierung verbundenen Nutzungskonflikte im internationalen Kontext zu diskutieren, Akteure besser zu vernetzen, Erkenntnisse über Maßnahmen und Strategi-en auszutauschen und das Ziel der Etablierung einer nach-haltigen Bioökonomie mit strategisch wichtigen Partnern gemeinsam voranzubringen  Dafür werden bilaterale Kon-takte und Kooperationen sowie das Engagement in multila-teralen Prozessen oder Gremien intensiviert werden  
+Die Bioökonomie gewinnt weltweit an Bedeutung  Mehr als 50 Staaten haben zum Zeitpunkt des Erscheinens der vorliegenden Strategie eigene Bioökonomiestrategien auf-gelegt  Dabei ist ein breites Portfolio an Ansätzen und Kon-zepten entstanden, die regionale und nationale Besonder-heiten widerspiegeln  In der Bioökonomie ergeben sich Unterschiede schon durch die jeweiligen klimatischen und geografischen Bedingungen und die spezifische biologische Vielfalt  Dazu kommen Schwerpunkte in der Forschungs- und Industrielandschaft  Dies bedeutet für einzelne Regi-onen neue Entwicklungsmöglichkeiten und Optionen zur Spezialisierung  Erst im Zusammenspiel zwischen diesen Regionen ergibt sich die Effizienz des Gesamtsystems   Internationale Zusammenarbeit ist daher für das Gelingen einer nachhaltigen Bioökonomie unverzichtbar  Die ersten Schritte dazu wurden unternommen und die Bundesregie-rung hat den Aufbau dieser Zusammenarbeit in den ver-gangenen Jahren maßgeblich mit unterstützt 
+Die Kooperation zur Bioökonomie im europäischen Um-feld wird weitergeführt und gestärkt werden  Die Unter-stützung der Bioökonomie ist ein Ziel, das viele Mitglied-staaten der EU sowie die EU-Kommission im Rahmen dezidierter Strategien verfolgen  Die Bundesregierung wird sich aktiv für den Austausch zur Bioökonomie inner-halb der EU-Mitgliedstaaten sowie mit der EU-Kommis-sion einsetzen und gemeinsame Aktivitäten unterstützen und steuern  Die Bundesregierung wird die Entwicklung der Bioökonomie auf EU-Ebene im konstruktiven Dialog mit den Partnern aktiv begleiten  Zentraler Pfeiler dieses Dialogs ist der Austausch mit EU-Staaten in entsprechen-den Arbeitsgruppen  Darüber hinaus soll der Erfahrungs-
+Die internationale Zusammenarbeit – sowohl innerhalb der Europäischen Union als auch mit weiteren internationalen Partnern – wird im Rahmen der Umsetzung dieser Strate-gie weiter ausgebaut und intensiviert werden  Die Bundesre-
+Bioökonomie ist das Thema des Wissenschaftsjahres 2020. Zum Auftakt hat das BMBF biobasierte Produkte auf  
+der Grünen Woche gezeigt.
+[Page #54]
+ÜBERGREIFENDE INSTRUMENTE 
+53
+Bioökonomie, zur Lösung der damit verbundenen Zielkon-flikte und zur Verdeutlichung der Möglichkeiten hinsicht-lich Klima-, Umwelt- und Ressourcenschutz wird sich die Bundesregierung dafür einsetzen, dass das Thema Bioöko-nomie künftig stärkere Beachtung in internationalen Pro-zessen findet  Beispiele hierfür sind die G20- und G7-For-mate sowie die jährliche Vertragsstaatenkonferenz der UN-Klimarahmenkonvention (COP-Konferenzen)  Im  internationalen Austausch wird auch thematisiert werden, wie die Rohstoffbasis der Bioökonomie nachhaltig produ-ziert und bereitgestellt werden kann  Auch die Zusammen-arbeit mit der Ernährungs- und Landwirtschaftsorganisa-tion der Vereinten Nationen (FAO) soll intensiviert werden 
+austausch zwischen den Mitgliedstaaten durch die Ein-richtung einer informellen Gesprächsrunde zu nationalen Maßnahmen der Bioökonomie-Politik initiiert werden 
+Durch internationale Kooperationen über Europa hinaus sollen individuelle Ansätze zur Etablierung der Bioökono-mie bestmöglich miteinander verzahnt und ergänzt wer-den  Zudem sollen bilaterale Beziehungen dazu genutzt werden, das Ziel der Etablierung einer globalen Bioökono-mie auch in multilateralen Formaten voranzutreiben  
+Zur besseren internationalen Harmonisierung von Maß-nahmen und Strategien zur Förderung einer nachhaltigen 
+5.4 Kommunikation und Dialog
+hier einen wertvollen Beitrag, ebenso wie bürgerwissen-schaftliche Forschungsvorhaben  Erst eine gute Informati-onsbasis schafft die Voraussetzungen für eine informierte öffentliche Diskussion über die Bioökonomie 
+Die demographischen Entwicklungen und das weltweite wirtschaftliche Wachstum führen zu einer erhöhten Nach-frage nach begrenzt verfügbarem Land und Biomasse  Die menschlichen Aktivitäten haben Auswirkungen auf Um-welt, Natur und Biodiversität und sollten in ihrer Unter-schiedlichkeit dargestellt werden  Die Weltbevölkerung braucht eine gesunde und sichere Ernährung, Energie und Materialien, Arbeitsplätze, Wohnraum und Infrastruktur für Mobilität  Die Verbraucherinnen und Verbraucher ha-ben durch ihre Konsumentscheidungen Einfluss darauf, wie diese Bedürfnisse gedeckt, welche Lebensmittel konsumiert, welche Energieformen in Haushalten verwendet und  wel-che Produkte gekauft werden  Die Gesellschaft kann somit einen Beitrag zum Vorantreiben der Bioökonomie leisten   
+Mit Blick hierauf hat das Bundesministerium für Wirt-schaft und Energie Ende 2018 eine Dialogplattform  „Industrielle Bioökonomie“ mit Vertretern aus Industrie, Verbänden, Wissenschaft und Gesellschaft initiiert, bei der die Hindernisse und Probleme beim Umbau der Wirtschaft in eine nachhaltige biobasierte Wirtschaft diskutiert und gemeinsame Lösungsansätze entwickelt werden 
+Der offene Dialog zwischen Öffentlichkeit, Wissenschaft und Politik über die Gestaltung der Bioökonomie muss weitergeführt und intensiviert werden  Wie bei allen tief-greifenden Wandlungsprozessen gilt es, Impulse und  Bedenken frühzeitig aufzugreifen und eine sachgerech-te öffentliche Debatte zu unterstützen  Zur Einbeziehung zivilgesellschaftlicher Gruppen durch transparente Dia-log- und Partizipationsprozesse nutzt die Bundesregierung verschiedene Formate  Wichtig ist der Austausch mit allen interessierten gesellschaftlichen Gruppen – sowohl den  Pionieren und Befürwortern der Bioökonomie als auch mit denen, die verschiedenen Aspekten der Bioökonomie  kritisch gegenüberstehen  Ziel des Dialogs ist es, Fehlent-wicklungen früh zu entdecken und rechtzeitig entgegenzu-steuern 
+Bisher bleibt die Bioökonomie als Gesamtkonzept in der deutschen Öffentlichkeit allerdings weitgehend unbe-kannt  Einzelne Elemente, wie die Digitalisierung der Landwirtschaft, moderne Züchtungsverfahren oder An-wendungsfelder der Synthetischen Biologie, stoßen auf Vorbehalte  Andere Elemente, wie die Produktion medizi-nischer Wirkstoffe oder die Substitution gesundheits- oder umweltschädlicher Chemikalien durch unbedenkliche biologische Stoffe, werden hingegen positiv aufgenommen 
+Es ist wichtig, die gesellschaftlichen Anforderungen und Erwartungen an die Entwicklung der Bioökonomie zu be-rücksichtigen und wichtige Zukunftsthemen, aber auch mögliche Zielkonflikte und Risiken mit allen Beteilig-ten frühzeitig zu diskutieren und zu bewerten  Forschung muss offen und transparent sein  Die Ergebnisse staatlich geförderter Forschung sollen der Öffentlichkeit nach Mög-lichkeit unentgeltlich zur Verfügung stehen  Bildungsein-richtungen, wie Museen oder botanische Gärten, leisten 
+Das Infoportal zur Bioökonomie in Deutschland:bioökonomie.de
+[Page #55]
+54 
+NATIONALE BIOÖKONOMIESTRATEGIE
+5.5 Qualifikation und Fachkräfte
+reichs sind daher Schulungs-, Weiterbildungs- und Bera-tungsangebote zu nachhaltiger Produktion, neuen Techni-ken und digitalen Anwendungen von hoher Bedeutung 
+Die Bioökonomie erstreckt sich über alle wirtschaftli-chen Sektoren und zahlreiche wissenschaftliche Diszipli-nen  Durch die Verknüpfung unterschiedlicher Felder und Wissensgebiete entstehen neue Möglichkeiten, aber auch neue Anforderungen an berufliche Qualifikationen  Benö-tigt werden Fachkräfte mit interdisziplinärer Expertise an den Schnittstellen von Nachhaltigkeit, Produktionsprozes-sen, Märkten und Konsum  Sie sind die Voraussetzung für Innovation und Wachstum und leisten einen notwendigen Beitrag zur nachhaltigen Bioökonomie in Deutschland  
+Die erfolgreiche Entwicklung und Implementierung der Bioökonomie erfordert die Integration verschiedener For-schungsdisziplinen  Dafür gibt es bereits eine ganze Reihe gelungener Beispiele  Im Rahmen der Bioökonomiestrate-gie sollen weitere Kooperationsmodelle entwickelt und  implementiert werden, die die stärkere Vernetzung von Forschungseinrichtungen und Industrie fördern und so den Wissenstransfer in die Praxis und die Entwicklung  interdisziplinärer Berufsbilder unterstützen  
+Mit der Forschungsförderung zur Bioökonomie hat die Bun-desregierung den Wissensaufbau und die interdisziplinä-re Vernetzung in der Wissenschaft vorangetrieben  In über 2 000 Forschungsprojekten, die im Rahmen der Nationalen Forschungsstrategie Bioökonomie gefördert wurden, konn-ten viele junge Wissenschaftlerinnen und Wissenschaftler wertvolle Qualifikationen erwerben  Neben der Projektför-derung sollten auch neue Aus- und Weiterbildungsangebo-te sowie Studiengänge an Berufs- und Fachschulen, Fach-hochschulen und Hochschulen einschließlich Universitäten gezielt Inhalte der Bioökonomie anbieten  In gleicher Weise sind konvergierende Technologien in einer neu ausge- richteten bioökonomischen Ausbildung zu berücksichtigen  
+Eine wichtige Rolle spielt die Initiative „Bildung für nachhal-tige Entwicklung“ (BNE) der UNESCO  Diese sieht in „Hoch-wertiger Bildung“ (SDG 4) eine Schlüsselfunktion für die  Umsetzung aller übrigen 16 Nachhaltigkeitsziele  Denn durch Bildung für nachhaltige Entwicklung erwerben die Men-schen Gestaltungskompetenzen zur Förderung einer nach-haltigen Entwicklung unserer Gesellschaft  Um BNE struk-turell in allen Bildungsbereichen zu verankern, wurde daher 2017 der „Nationale Aktionsplan Bildung für nachhaltige Entwicklung“ von der Nationalen Plattform BNE verabschie-det18  Die Maßnahmen zur beruflichen Bildung für nachhal-tige Entwicklung berücksichtigen die Aspekte der Bioökono-mie sowohl in der Ausbildung als auch in der Weiterbildung des Bildungspersonals und des betrieblichen Managements 
+Einen Schwerpunkt soll die Nutzung digitaler Technologi-en in der Züchtung und in der Land- und Forstwirtschaft einnehmen  Für Fach- und Führungskräfte des Agrarbe-
+5.6 Bioökonomie-Monitoring
+Zu diesem Zweck hat die Bundesregierung 2016 ein umfas-sendes Bioökonomie-Monitoring initiiert  Das Monitoring ist nicht nur ein zentrales Instrument zur Begleitung und Bewertung der Strategie, sondern soll die Entwicklung  der Bioökonomie insgesamt abbilden und gesichertes  Wissen für praktische Zwecke bereitstellen  Die Arbeiten der laufenden Pilotphase sollen weitergeführt werden, um die Entwicklungstendenzen der Bioökonomie auch über längere Zeiträume zu überblicken und Abhängigkeiten und Wirkungen noch besser zu verstehen  Das Indikatoren-system wird deshalb im Austausch mit Expertinnen und Experten aus allen gesellschaftlichen Bereichen auf seine Relevanz überprüft und weiterentwickelt 
+Die Leitlinien und Ziele dieser Strategie zeigen, dass  Bioökonomie den übergreifenden Zielen der nachhaltigen Entwicklung und des Klimaschutzes ebenso verpflichtet ist wie einer zukunftsfähigen Wertschöpfung in der Indus-trie, einer Stärkung des ländlichen Raums und der Erhal-tung der biologischen Vielfalt  Dafür ist es wichtig, den richtigen Weg einzuschlagen  Den Transformationsprozess hin zu einer nachhaltigen, biobasierten und an natürlichen Kreisläufen orientierten Wirtschaftsweise zu beobachten, zu messen und bewertbar zu machen, ist eine wichtige  Voraussetzung, um nicht einzelne Ziele auf Kosten ande-rer zu erreichen und Prioritäten richtig setzen zu können  Hierfür sind verlässliche Daten, umfassende Bilanzen  und aussagekräftige Indikatoren erforderlich, die allen  beteiligten Akteuren Orientierung bieten können 
+[Page #56]
+ÜBERGREIFENDE INSTRUMENTE 
+55
+Ziele und Dimensionen der Bioökonomie
+Ökologische  Nachhaltigkeit
+Soziale  Nachhaltigkeit
+Aus­ und Fortbildung
+Beitrag zum Klimaschutz
+Erhalt/ Verbessung der Luftqualität
+Arbeits­bedingungen
+Ernährungs­ sicherung
+soziale  Integration
+Erhalt der Bodenfrucht­barkeit und ­funktion
+nachhaltiger Endkonsum
+Arbeitnehmer­rechte
+Vermeidung  von Flächen­degradation
+Entwicklung  des ländlichen Raumes
+Erhalt und Stärkung der Biodiversität
+nachhaltige Produkte
+Kooperations­orientierung
+Erhalt des Wasserhaus­halts und ­qualität
+nachhaltige Infrastrukturen
+Rechts­sicherheit
+Beschäftigung
+Wertschöpfung
+Wettbewerbsfähigkeit
+Innovation
+Ökonomische  Nachhaltigkeit
+Quelle: Projekt SYMOBIO, Egenolf; Bringezu 2019, eigene Darstellung19 
+[Page #57]
+56 
+NATIONALE BIOÖKONOMIESTRATEGIE
+Schlussbetrachtung und Ausblick
+schung und Innovation müssen sich in neuen Produktions-prozessen und marktfähigen Produkten niederschlagen  Neben Politik und Wissenschaft sind hierbei auch Unter-nehmen sowie Verbraucherinnen und Verbraucher als  wesentliche Akteure gefragt  Ohne deren Bereitschaft,  neue biobasierte Produkte zu entwickeln und anzunehmen, kann die Transformation zur Bioökonomie nicht gelingen  
+Mit der vorliegenden Bioökonomiestrategie stellt die Bun-desregierung die Weichen für die Politik der kommenden Jahre. Diese muss in Richtung einer ökonomisch, ökologisch und sozial nachhaltigen Entwicklung führen. Die Bioökono-mie wird dabei eine wichtige Rolle spielen. Deutschland als wirtschafts- und finanzstarkes Land hat eine besondere Ver-antwortung, den anstehenden Transformationsprozess ent-schlossen anzugehen. Dadurch ergibt sich die Möglichkeit, eine Vorreiterrolle bei der Entwicklung der technologischen und gesellschaftlichen Innovationen der nachhaltigen Welt von morgen einzunehmen.
+Die Bundesregierung wird ihre Fachkommunikation fort-setzen, um die Leistungen der Bioökonomie greifbarer zu machen  Zusätzlich wird der Dialog zwischen Bürgerinnen und Bürgern, Wissenschaft, Wirtschaft und Politik über die Gestaltung der Bioökonomie – deren Chancen und Nutzen, aber auch mögliche Risiken und Probleme –  offen weitergeführt und intensiviert  
+In der Bioökonomie-Forschung wird die Bundesregierung darauf achten, dass Forschungs- und Entwicklungspro-jekte technologieoffen und stärker interdisziplinär ausge-richtet werden  Nur so lassen sich die vielfältigen Wech-selwirkungen biologischer Systeme, bioökonomischer Prozessketten sowie deren Wirkungen auf Umwelt, Natur und Landschaft sowie Klima und Gesundheit besser ver-stehen, um auf dieser Grundlage Handlungsempfehlungen abzuleiten  Dies schließt verschiedene Wissenschaftsdis-ziplinen ebenso ein wie eine Reihe von Schlüsseltechnolo-gien aus den Bereichen der Biotechnologie, Nanotechno-logie, Digitalisierung, Automatisierung, Sensorik, Robotik und der Künstlichen Intelligenz  Dabei sollen sowohl Vor-haben der Grundlagenforschung und der experimentellen Entwicklung als auch anwendungsorientierte Forschungs- und Entwicklungsvorhaben weiter gefördert werden 
+Darüber hinaus will die Bundesregierung länderübergrei-fende Kooperationen zu bioökonomierelevanten Themen weiter ausbauen  Denn die Ausgestaltung einer nachhalti-gen Bioökonomie kann insbesondere angesichts globaler Märkte und Handelsbeziehungen nur im internationalen Kontext gelingen  
+Alle Maßnahmen, die die Bundesregierung in den kom-menden Jahren auf den unterschiedlichen Feldern der Bio-ökonomie – Forschung, Land-, Forst-, Fischereiwirtschaft und Aquakultur, Umwelt, Klima, Industrie – ergreifen wird, werden auf ihre Wirksamkeit kontrolliert werden  Aufgrund der dynamischen Entwicklungen in der Bioöko-nomie ist es notwendig, die Ausrichtung der Strategie stän-dig zu überprüfen und gegebenenfalls weiterzuentwickeln  Dies erfolgt insbesondere durch die Fortschreibung des Umsetzungsplans 
+Eine aktive Unterstützung einer nachhaltigen Bioökono-mie-Entwicklung erfordert dabei Maßnahmen, die über den Bereich von Forschung und Entwicklung hinausgehen  For-
+[Page #58]
+SCHLUSSBETRACHTUNG UND AUSBLICK 
+57
+[Page #59]
+58 
+NATIONALE BIOÖKONOMIESTRATEGIE
+Glossar
+abiotisch  |  die unbelebte Natur betreffend; Vorgänge, Stof-fe oder Umweltfaktoren, an denen Lebewesen nicht direkt beteiligt sind, z  B  Wasser, Licht, Gestein oder Metalle
+biobasiert  |  auf der Verwendung von Biomasse beruhend und/oder unter Nutzung biotechnologischer Verfahren er-zeugt oder verarbeitet
+Agrarökologie, agrarökologisch  |  Wissenschaftliches Teil-gebiet der Ökologie, das landwirtschaftliche Produktion als Teil von Ökosystemen (u  a  mit Blick auf Ökosystem-leistungen, Bodenfruchtbarkeit, Biodiversität) begreift und sich mit dem Verhältnis von Anbausystemen, Natur- und Ressourcenschutz befasst  Die Ernährungs- und Landwirt-schaftsorganisation der Vereinten Nationen (FAO) versteht darunter auch ein praktisches Konzept zur Transformation der Landwirtschaft in einkommensschwachen Ländern, das traditionelle kleinbäuerliche Anbauformen und lokales Wissen mit Erkenntnissen und Methoden moderner Wis-senschaft verbindet  Das Ziel ist, kleinbäuerlichen Betrie-ben ein Einkommen auf Basis lokaler Kreisläufe zu sichern und dabei weitgehend auf externen Input (synthetischer Dünger, Pestizide) zu verzichten 
+biogen, biogene Rohstoffe  |  Auf Biomasse beruhend  Bio-gene Rohstoffe oder Ressourcen bezeichnen jede Art von Biomasse, also sowohl eigens angebaute nachwachsen-de Rohstoffe als auch jede andere Art von Biomasse, ein-schließlich biotischer Rest- und Abfallstoffe 
+biologisch  |  das Leben, Lebewesen, organische Produkte und das Wissen darüber betreffend
+Biomasse  |  Im engeren Sinn die durch Photosynthese ge-bildete organische Substanz; im weiteren Sinn die Stoff-menge aller pflanzlichen und tierischen Lebewesen und ihrer organischen Produkte  Auch Rest- und Abfallstof-fe wie z  B  Bioabfälle aus Haushalten, der Tier- oder der Le-bens- und Futtermittelproduktion zählen dazu  Auch fos-sile Rohstoffe sind ursprünglich aus Biomasse entstanden; die Bioökonomie beruht jedoch ausschließlich auf der Nut-zung nicht fossiler Biomasse
+Agrarproduktion  |  Produktion von Biomasse für die Er-zeugung von Lebensmitteln oder für die stoffliche oder energetische Nutzung und industrielle Weiterverarbeitung zu anderen Produkten  Neben Zuchtpflanzen und -tieren kommt Insekten, Algen und weiteren marinen Lebensfor-men eine zunehmende Bedeutung in der modernen Agrar-produktion zu  
+Biopharmazeutika  |  mit Verfahren der Biotechnologie her-gestellte Wirkstoffe, z  B  Hormone, Nukleinsäuren oder Antikörper
+Biopolymere  |  Grundbausteine lebender Organismen, die aus mehreren Grundeinheiten aufgebaut sind  Beispiele für Biopolymere sind Proteine, Nukleinsäuren (DNA und RNA oder Mehrfachzucker (Polysaccharide))  Der Begriff beschreibt zudem technische Polymere, die biobasiert her-gestellt wurden und/oder biologisch abbaubar sind (bspw  Biokunststoffe) 
+Agrarsystem  |  Gesamtheit aller zur Agrarproduktion ge-hörenden Faktoren – biotische und abiotische Ressour-cen, Anbau- und Ernteverfahren, Einsatz von Technik und Energie, Umweltbedingungen, Beanspruchung von Öko-systemleistungen usw  – unter Einbeziehung aller vor- und nachgelagerten Wirtschaftsbereiche
+artifizielle Produktionssysteme  |  Produktionssysteme, die biologische Prinzipien nachahmen, um gewünschte Pro-dukte herzustellen  Im Vergleich zu klassischen biotech-nologischen Verfahren werden keine Mikroorganismen als Produktionseinheiten verwendet oder allenfalls einzelne Komponenten davon  
+Bioraffinerie  |  Raffinerie auf Basis von Biomasse  Eine Bio-raffinerie zeichnet sich durch ein integratives, multifunktio-nelles Gesamtkonzept aus, das Biomasse als vielfältige Roh-stoffquelle für die nachhaltige Erzeugung eines Spektrums unterschiedlicher Zwischen- und Endprodukte (Chemikalien, Werkstoffe, Bioenergie inkl  Biokraftstoffe) unter möglichst vollständiger Verwendung aller Rohstoffkomponenten nutzt 
+Big Data  |  Große, wenig oder nicht strukturierte Daten-mengen, die zu komplex oder zu heterogen sind oder sich zu schnell verändern, um sie mit herkömmlichen Methoden der Datenverarbeitung auswerten zu können  Big-Data-Techno-logien bezeichnen Verfahren, um aus solchen Datenmengen mit Hilfe von Algorithmen oder Künstlicher Intelligenz Infor-mationen zu gewinnen  Große Mengen digitaler Daten fallen z  B  bei der Sequenzierung des Erbguts von Organismen an  
+Biosphäre  |  Auch Biogeosphäre; bezeichnet den belebten Raum eines Planeten, oberhalb und unterhalb seiner Ober-fläche, also in der Atmosphäre, im Boden und unter Was-ser  Die Erde ist bislang der einzige bekannte Planet mit ei-ner Biosphäre  Die Sphäre mit nachgewiesenem Leben reicht im Fall der Erde von etwa 5 km unter bis etwa 60 km über der Erdoberfläche 
+[Page #60]
+GLOSSAR 
+59
+konvergierende Technologien  |  Der Begriff bezeichnet das Zusammenwachsen verschiedener Technologien bzw  Technologie- und Wissensbereiche  Vielfach sind daran Querschnittstechnologien wie Nano-, Bio- und Informati-onstechnologien und -wissenschaften sowie im Weiteren die Kognitionswissenschaften beteiligt  Weiter gefasste, in der vorliegenden Strategie gemeinte Konzepte schließen eine deutlich größere Zahl an Wissenschaften und Techno-logien ein 
+Biotechnologie  |  Interdisziplinäre und anwendungsorien-tierte Wissenschaft an der Schnittstelle von Biologie, Me-dizin, Chemie und Ingenieurwissenschaften  Die Biotech-nologie nutzt Organismen, Zellen oder Biomoleküle in technischen Anwendungen, um Produkte für unterschied-liche Branchen herzustellen oder neue Technologien zu entwickeln 
+biotisch  |  von Lebewesen ausgehend
+Koppelnutzung  |  Nutzung eines oder mehrerer Neben-produkte, um eine nachhaltige und möglichst effekti-ve Nutzung von Rohstoffen bei gleichzeitiger Steigerung der Wertschöpfung zu erreichen  Beispiele für eine Kop-pelnutzung sind die weitere Nutzung des in der Biodiesel-produktion anfallenden Nebenproduktes Glycerin oder die weitere Verwendung des in der Bioethanolproduktion an-fallenden Nebenproduktes Bagasse 
+Epigenomik   |  Lehre von der Gesamtheit der epigeneti-schen Modifikationen an der Erbsubstanz einer Zelle und deren systematische Analyse mit Hilfe modernster mole-kularbiologischer Techniken
+Epigenom  |  Gesamtheit chemischer Veränderungen der DNA eines Organismus, durch welche die Aktivität von Ge-nen in Abhängigkeit von Umgebungsbedingungen dyna-misch beeinflusst wird  Das Epigenom ist u  a  an der Ent-wicklung von Zellen und Geweben beteiligt  Epigenetische Änderungen beeinflussen nicht die DNA-Sequenz, können aber an Nachkommen vererbt werden 
+Kreislaufnutzung  |  Ressourcen und Güter werden über moderne Recyclingmethoden aufbereitet und wieder einer Verwertung zugeführt  Um einen möglichst hohen Wie-derverwendungsgrad zu erreichen, sollte eine Kreislauf-nutzung idealerweise bereits im Produktdesign mitberück-sichtigt werden  
+Genom-Editierung/Genome Editing  |  Sammelbegriff für molekularbiologische Werkzeuge (z  B  CRISPR/Cas), mit denen DNA im Genom von Organismen editiert, also ko-piert, verschoben oder entfernt werden kann
+Metabolic Engineering  |  Gezielte molekularbiologische Veränderung des Stoffwechsels von Organismen mit dem Ziel, die Produktionsrate gewünschter Verbindungen zu steigern oder die Bildung unerwünschter Nebenprodukte zu verhindern 
+Genomik  |  Genomik analysiert den Chromosomensatz,  also die Gesamtheit der DNA, einer Zelle bzw  eines Orga-nismus 
+Metabolomik  |  Forschungszweig, der den gesamten Stoff-wechsel mitsamt den Zwischenprodukten in Zellen und Organismen untersucht
+Innovation, inkrementelle und disruptive  |  Unter inkre-mentellen Innovationen versteht man den Prozess der stän-digen Optimierung einer Technologie, beispielsweise die Steigerung der Leistung und die Senkung des Verbrauchs von Verbrennungsmotoren  Disruptive Innovationen erset-zen eine Technologie durch eine andere, zum Teil mit Folgen für gesamte Sektoren oder Wertschöpfungsketten  Wann eine technische Erfindung zu einer disruptiven Innovati-on wird, ist schwer vorherzusehen  Disruptive Innovationen werden zuweilen auch als Sprunginnovationen bezeichnet 
+mikrobielle Produktion  |  Nutzung von Mikroorganismen für die biotechnologische Produktion
+Mikrobiom  |  Das Mikrobiom umfasst die Gesamtheit al-ler Mikroorganismen der Erde  Mikrobiome werden häu-fig aber auch im Kontext einzelner Organe, Organismen oder Ökosysteme diskutiert  Im engeren Sinne sind damit alle den Menschen oder andere Lebewesen besiedelnden Mikro organismen gemeint  
+Kaskadennutzung  |  Mehrfachnutzung von Biomasse über mehrere Stufen, um Rohstoffe oder daraus hergestell-te Produkte so lange wie möglich im Wirtschaftssystem zu nutzen  In der Regel umfasst eine Nutzungskaskade da-bei eine mehrfache stoffliche Nutzung mit abnehmen-der Wertschöpfung sowie eine abschließende energetische Nutzung oder eine Kompostierung des Rohstoffs 
+[Page #61]
+60 
+NATIONALE BIOÖKONOMIESTRATEGIE
+planetare Grenzen  |  Ökologische Grenzen, die sich dar-aus ergeben, dass die natürlichen Lebensräume und Res-sourcen auf der Erde endlich sind und bestimmte Zeiträu-me benötigen, um sich zu regenerieren  Welche Grenzen es gibt und wo diese genau verlaufen, ist noch Gegenstand in-tensiver Diskussionen  Dass die Menschheit mit ihrer Wirt-schaftsweise die Belastungsgrenzen der Erde und damit auch die eigenen Lebensgrundlagen zunehmend gefährdet, ist aber unumstritten 
+modulare Bioverfahrenskonzepte  |  Konzepte zur Entwick-lung neuartiger Verfahren für biotechnologische Produkti-onsprozesse  Die Konzepte sehen vor, Bioverfahren in ein-zelne Prozessschritte (Module) zu zerlegen, die, abhängig von der Zielsetzung und den Rahmenbedingungen, schnell und flexibel zu unterschiedlichen Produktionsrouten kom-biniert werden können  
+Nachhaltigkeit  |  Nachhaltigkeit wurde mit dem 1987 für die Vereinten Nationen erstellten Brundtland-Bericht zu einem politischen Leitbegriff  Er beschreibt das Ziel, die Bedürfnisse gegenwärtiger Generationen zu befriedigen, ohne dabei künftigen Generationen die Chance zu neh-men, ihre Bedürfnisse nach eigenen Vorstellungen zu be-friedigen  Nachhaltigkeit umfasst drei Säulen: ökonomi-sche, ökologische und soziale Nachhaltigkeit  Insbesondere um die Vereinbarkeit von ökonomischer und ökologischer Nachhaltigkeit gibt es anhaltende Debatten 
+Plattformorganismus  |  Mikroorganismus, der über mo-lekularbiologische Verfahren für die Verwendung in bio-technologischen Prozessen optimiert wurde  Plattformor-ganismen zeichnen sich darüber hinaus dadurch aus, dass die entsprechenden industriellen Bioprozesse etabliert sind und die Organismen für die Herstellung verschiedener Produkte eingesetzt werden können 
+Produktionsorganismen  |  Oberbegriff für Organismen wie Nutzpflanzen, Insekten, Algen, Pilze oder Mikroorganis-men, die zur Herstellung von Biomasse oder spezifischen Inhaltsstoffen genutzt werden 
+nachwachsende Rohstoffe  |  land- und forstwirtschaftliche Rohstoffe, die für eine stoffliche oder energetische Nut-zung eingesetzt werden
+Proteomik  |  Verschiedene Verfahren zur Analyse des voll-ständigen Proteoms einer Zelle, eines Gewebes oder ei-nes Organismus zu einem bestimmten Zeitpunkt  Im Ge-gensatz zur Genomik erfasst die Proteomik die tatsächlich vorhandenen Mengen aller Proteine 
+Ökologie, ökologisch  |  Teilbereich der Biologie, der sich mit den Wechselbeziehungen zwischen den Lebewesen und ihrer Umwelt befasst  Im Alltagsgebrauch bezeichnet „ökologisch“ auch den Einsatz für einen schonenden Um-gang des Menschen mit seiner natürlichen Umwelt 
+Smart Farming  |  Smart Farming bezeichnet den Einsatz moderner Informations- und Kommunikationstechnolo-gien (IKT) in der Landwirtschaft, um eine präzisere und ressourceneffizientere und damit produktivere und nach-haltigere Agrarproduktion zu erreichen 
+Ökosystemleistungen  |  Alle materiellen und nicht-mate-riellen Leistungen der Natur, von denen der Mensch profi-tiert  Zu den Ökosystemleistungen zählen z  B  die Biodiver-sität, Klimaregulation, gesunde Böden und sauberes Wasser 
+Omics-Technologien  |  Omics-Technologien sind Hoch-durchsatz-Methoden, mit denen sich z  B  die Gesamtheit der Gene (Genomik), der RNA (Transkriptomik), der Zwi-schenprodukte des Stoffwechsels, der Metaboliten (Metabo-lomik), der Proteine (Proteomik) oder Lipide (Lipidomik) ei-nes biologischen Systems erfassen lässt  Die hochaufgelösten molekularen Profile biologischer Systeme ermöglichen neue Einblicke in den Ablauf molekularbiologischer Prozesse  
+Smart- und Hightech  |  umfasst Technologien und Metho-den, die dem neusten technischen und wissenschaftlichen Stand entsprechen und als fortschrittlich und intelligent gelten
+Suffizienz  |  Konzept einer Ökonomie, die das Nötige in ausreichendem Maß, unter möglichst geringem Ener-gie- und Rohstoffverbrauch zur Verfügung stellt  Damit ist Suffizienz ein Gegenentwurf zu wachstumsorientier-ten Wirtschaftsmodellen und eine Erweiterung des Zie-les, Rohstoffe möglichst effizient zu nutzen  Suffizienz ist nicht durch technologische Fortschritte zu erreichen, son-dern setzt eine grundsätzliche Veränderung von Konsum-mustern voraus 
+organisch  |  zum belebten Teil der Natur gehörend
+Pflanzen-Phänotypisierung  |  Die Phänotypisierung ist ein Teilbereich der Pflanzenforschung, welche das Erschei-nungsbild von Pflanzen quantitativ analysiert und ver-misst  Dadurch soll es ermöglicht werden, Pflanzengenen bestimmte Merkmalsausprägungen zuzuordnen 
+[Page #62]
+GLOSSAR 
+61
+zellfreie Produktionsverfahren  |  Zellfreie Produktionsver-fahren stellen eine Alternative zur Produktion von biolo-gischen Komponenten wie z  B  Enzymen dar, die durch le-bende Zellen (z  B  Mikroorganismen) nicht oder nur sehr schlecht hergestellt werden können  Beispiele sind zellfreie Proteinbiosynthesen oder zellfreie biokatalytische Syste-me  
+Synthetische Biologie  |  Der Begriff umfasst im engeren Sinne das Neu-Design und die Konstruktion von neuarti-gen biologischen Bauteilen, Zellen, Organismen oder auch von zellfreien biologischen bzw  biochemischen Systemen (z  B  synthetische Genome, Minimalzellen, Einsatz nicht natürlicher Aminosäuren)  Im weiteren Sinne werden auch molekularbiologische Ansätze zum Re-Design bekannter Organismen unter diesem Begriff verstanden  Indem ver-mehrt computergestützte Design- und Modellierungspro-zesse genutzt werden, gehen diese Ansätze dabei über die klassischen gentechnischen Verfahren hinaus 
+Zielkonflikt  |  Zielkonflikte entstehen, wenn zwei oder mehr legitime Ziele verfolgt werden, deren gleichzeitige Erfüllung sich ausschließt oder deren Verfolgung zu kon-trären Effekten führt  Zielkonflikte können in einigen Fäl-len durch eine Hierarchisierung gelöst werden, die die kon-kurrierenden Ziele in eine Rangordnung bringt  So gilt für die Bioökonomie das Primat der Ernährungssicherung vor der industriellen Nutzung agrarischer Erzeugnisse  Viel-fach ist eine solche Hierarchisierung – beispielsweise zwi-schen agrarischer Ertragssteigerung und Schutz biologi-scher Vielfalt – jedoch nicht einfach möglich, weil alle Zielegleichermaßen legitim oder sogar unverzichtbar sind  Ein typisches Beispiel ist die Diskussion um den Begriff Nach-haltigkeit, der gleichermaßen ökologische, ökonomische und gesellschaftliche Ziele umfasst  Die Forschungsförde-rung im Rahmen der Bioökonomie orientiert sich daran, Zielkonflikte genau zu analysieren und durch intelligen-te Strategien und innovative Produktionsweisen zu ent-schärfen 
+Systembiologie  |  Die Systembiologie zielt darauf ab, zu ei-nem umfassenden Verständnis der dynamischen Interak-tionen zwischen den Komponenten eines biologischen Sys-tems zu gelangen  Ziel ist es, das Verhalten des Systems als Ganzes zu verstehen und vorhersagen zu können  Hierfür werden mathematische Konzepte auf biologische Systeme angewandt  
+systemisch  |  Systeme in ihrer Gesamtheit und ihre Wech-selwirkungen untereinander betrachtend, von den grund-legenden molekularen Prinzipien bis hin zum komplexen Zusammenspiel in Ökosystemen
+Wertschöpfungskette  |  Eine Wertschöpfungskette umfasst alle Stufen (Institutionen, Personen, Anlagen) des Trans-formationsprozesses, den ein Gut vom Rohstoff bis zum Endprodukt durchläuft 
+Zukunftstechnologien  |  neuartige Technologien, die ein hohes Innovationspotenzial aufweisen, sich aber zumeist noch auf der Ebene der Grundlagen- oder angewandten Forschung befinden
+Wertschöpfungsnetz  |  Verknüpfung von Wertschöpfungs-ketten, an deren Knotenpunkten Institutionen, Personen bzw  Produktionsverfahren über wechselseitige Stoff- und Informationsflüsse in Verbindung miteinander stehen  In der Bioökonomie tragen insbesondere Ansätze aus der Koppel- und Kaskadennutzung dazu bei, dass innovative Bereiche der Bioökonomie mit etablierten zu Wertschöp-fungsnetzen zusammenwachsen 
+[Page #63]
+62 
+NATIONALE BIOÖKONOMIESTRATEGIE
+Endnoten
+  B  undesministerium für Umwelt, Naturschutz und nukle-are Sicherheit (BMU) (2019): Klimaschutzprogramm 2030 der Bundesregierung zur Umsetzung des Klimaschutz-plans 2050  Online verfügbar unter https://www bmu de/fileadmin/Daten_BMU/Download_PDF/Klimaschutz/klimaschutzprogramm_2030_umsetzung_klimaschutz-plan pdf 
+1 
+ Bundesministerium für Bildung und Forschung (BMBF) (2010): Nationale Forschungsstrategie BioÖkonomie 2030  Unser Weg zu einer bio-basierten Wirtschaft   Berlin  Online verfügbar unter http://www bmbf de/pub/Nationale_Forschungsstrategie_Biooekonomie_ 2030 pdf 
+2 
+ Bundesministerium für Ernährung und Landwirtschaft (BMEL) (2014): Nationale Politikstrategie Bioökonomie  Nachwachsende Ressourcen und biotechnologische Ver-fahren als Basis für Ernährung, Industrie und Energie  Beschluss des Bundeskabinetts vom 17 7 2013  Berlin  Online verfügbar unter http://www bmel de/Shared-Docs/Downloads/Broschueren/BioOekonomiestrategie pdf?__blob=publicationFile 
+8 
+ Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit (BMUB) (2016): Deutsches Ressour-ceneffizienzprogramm II  Programm zur nachhaltigen Nutzung und zum Schutz der natürlichen Ressourcen  Online verfügbar unter:  https://www bmu de/filead-min/Daten_BMU/Pools/Broschueren/progress_ii_ broschuere_bf pdf 
+9 
+ Bundesministerium für Bildung und Forschung (BMBF) (2016): Forschung für Nachhaltige Entwicklung  Online verfügbar unter: http://www fona de/mediathek/pdf/bmbf_fona3_2016_deutsch_barrierefrei pdf 
+3 
+ Bundesministerium für Ernährung und Landwirtschaft (BMEL) (2016): Fortschrittsbericht zur Nationalen Po-litikstrategie Bioökonomie  Berlin  Online verfügbar unter https://www bmel de/SharedDocs/Downloads/Broschueren/fortschrittsbericht-biooekonomie pdf?__blob=publicationFile  
+10  Bundesministerium für Umwelt, Naturschutz, Bau und 
+Reaktorsicherheit (BMUB) (2007): Nationale Strategie zur biologischen Vielfalt  Kabinettsbeschluss vom 7  Novem-ber 2007  Berlin  Online verfügbar unter https://www bmu de/fileadmin/Daten_BMU/Pools/Broschueren/nati-onale_strategie_biologische_vielfalt_2015_bf pdf 
+4 
+ Fraunhofer ISI (2017): Evaluation der Nationalen For-schungsstrategie BioÖkonomie 2030  Abschlussbericht  Fraunhofer Institut für System- und Innovationsfor-schung ISI  Karlsruhe  Online verfügbar unter http://publica fraunhofer de/documents/N-445498 html 
+11  Bundesregierung (2018): Forschung und Innovation 
+für die Menschen  Die Hightech-Strategie 2025  Hrsg  v  Bundesministerium für Bildung und Forschung (BMBF)  Berlin  Online verfügbar unter https://www hightech-strategie de/files/HTS2025 pdf 
+5 
+ Bioökonomierat (BÖR) (2018): Thesen zur Gestaltung der Bioökonomiepolitik 2018  Online verfügbar unter http://biooekonomierat de/fileadmin/Publikationen/empfehlungen/BO___Thesenpapier_final pdf   Weitere Stellungnahmen finden sich unter:  https://biooekonomierat de/publikationen 
+12  Generalversammlung der Vereinten Nationen (2015): 
+Transformation unserer Welt: die Agenda 2030 für nach-haltige Entwicklung  Online verfügbar unter www un org/Depts/german/gv-70/band1/ar70001 pdf 
+6 
+ Bundesregierung (2018): Deutsche Nachhaltigkeitsstrate-gie  Aktualisierung 2018  Online verfügbar unter: https://www bundesregierung de/resource/blob/975274/1546450/65089964ed4a2ab07ca8a4919e09e0af/2018-11-07-aktu-alisierung-dns-2018-data pdf 
+13  European Commission (2018): A sustainable Bioeconomy for Europe: strengthening the connection between eco-nomy, society and the environment  Updated Bioecono-my Strategy  Online verfügbar unter: https://ec europa eu/research/bioeconomy/pdf/ec_bioeconomy_strate-gy_2018 pdf 
+7 
+ Bundesministerium für Umwelt, Naturschutz und nuk-leare Sicherheit (BMU) (2016): Klimaschutzplan 2050  Kli-ma-schutzpolitische Grundsätze und Ziele der Bundesre-gierung  Online verfügbar unter: https://www bmu de/fileadmin/Daten_BMU/Download_PDF/Klimaschutz/klimaschutzplan_2050_bf pdf;
+[Page #64]
+ENDNOTEN 
+63
+19 Egenolf, Vincent; Bringezu, Stefan (2019): Conceptuali-
+14  Intergovernmental Panel on Climate Change (IPCC) (2019): Climate Change and Land  An IPCC special re-port on climate change, desertification, land degradation, sustainable land management, food security, and green-house gas fluxes in terrestrial ecosystems (SRCCL)  Onlineverfügbar unter https://www ipcc ch/srccl-report-down-load-page/ 
+zation of an Indicator System for Assessing the Sustaina-bility of the Bioeconomy  In: Sustainability 11 (2)  DOI: 10 3390/su11020443 
+ Intergovernmental Platform on Biodiversity and Eco-system Services (IPBES) (2019): Report of the Plena-ry of the Inter-governmental Science-Policy Platform on Biodiversity and Ecosystem Services on the work of its seventh session  Paris  Online verfügbar unter: htt-ps://www ipbes net/system/tdf/ipbes_7_10_add 1_en_1 pdf?file=1&type=node&id=35329 
+15  Bundesregierung (2008): Deutsche Anpassungsstrate-
+gie an den Klimawandel  Vom Bundeskabinett am 17  De-zember 2008 beschlossen  Langfassung  Berlin  Online verfügbar unter https://www bmu de/fileadmin/bmu-import/files/pdfs/allgemein/application/pdf/das_ge-samt_bf pdf 
+16  Bundesministerium für Ernährung und Landwirtschaft (BMEL) (2019): Agenda: Anpassung von Land- und Forst-wirtschaft sowie Fischerei und Aquakultur an den Kli-mawandel  Berlin  Online verfügbar unter https://www bmel de/SharedDocs/Downloads/Landwirtschaft/AMK-12-04-19-Agenda-Anpassung-Klimawandel pdf?__blob=publicationFile 
+17  Bundesministerium für Ernährung und Landwirtschaft (2017): Klima schützen  Werte schaffen  Ressourcen effizi-ent nutzen – Charta für Holz 2 0  Hrsg  v  Bundesministe-rium für Ernährung und Landwirtschaft (BMEL)  Berlin  Online verfügbar unter https://www bmel de/Shared-Docs/Downloads/Broschueren/ChartaHolz pdf?__blob=publicationFile
+18  Nationale Plattform Bildung für nachhaltige Entwick-lung (Hrsg ) (2017): Nationaler Aktionsplan Bildung für nachhaltige Entwicklung (BNE)  Der deutsche Beitrag zum UNESCO-Weltaktionsprogramm  Bundesministeri-um für Bildung und Forschung (BMBF)  Berlin (UNESCO-Weltaktionsprogramm Bildung für nachhaltige Entwick-lung)  Online verfügbar unter https://www bmbf de/files/Nationaler_Aktionsplan_Bildung_f%c3%bcr_nachhalti-ge_Entwicklung pdf 
+[Page #65]
+64 
+NATIONALE BIOÖKONOMIESTRATEGIE
+Länderkürzel
+AR AT AU BE BR CA CN CO CR DE DK ES FI FO FR GB GL ID IE IN IS IT JP KE KR LK LT LV ML MU MX MY MZ NA NL NO  NZ PT PY RU SE SN TH TZ UG US UY ZA 
+ArgentinienÖsterreichAustralienBelgienBrasilienKanadaChinaKolumbienCosta RicaDeutschlandDänemarkSpanienFinnlandFäröer InselnFrankreichGroßbritannienGrönlandIndonesienIrlandIndienIslandItalienJapanKeniaSüdkoreaSri LankaLitauenLettlandMaliMauritiusMexikoMalaysiaMosambikNamibiaNiederlandeNorwegenNeuseelandPortugalParaguayRusslandSchwedenSenegalThailandTansaniaUgandaVereinigte StaatenUruguaySüdafrika
+Die Länderkürzel werden in der Weltkarte auf den Seiten 50–51 verwendet 
+[Page #66]
+Impressum
+HerausgeberBundesministeriumfür Bildung und Forschung (BMBF)Referat Nachhaltiges Wirtschaften; Bioökonomie11055 Berlin
+Diese Publikation wird als Fachinformation des Bundesministe-riums für Bildung und Forschung und des Bundesministeriums für Ernährung und Landwirtschaft kostenlos herausgegeben. Sie ist nicht zum Verkauf bestimmt und darf nicht zur Wahlwerbung politischer Parteien oder Gruppen eingesetzt werden.
+Bundesministerium für Ernährung und Landwirtschaft (BMEL)Referat Bioökonomie, Stoffliche Biomassenutzung10117 Berlin
+StandMärz 2020
+TextBMBF und BMEL
+Redaktionelle UnterstützungPT Jülich
+GestaltungBiocom AG, Berlin
+DruckZarbock GmbH & Co. KG  
+BildnachweiseTitelbild und alle Illustrationen: Florian Sänger; S. 2: BMBF/Laurence Chaperon (Anja Karliczek), BPA_Steffen Kugler (Julia Klöckner); S. 7: Science RF/stock.adobe.com; S. 15: FZ Jülich; S. 24: Budimir Jevtic/stock.adobe.com; S. 28: Fraunhofer Gesellschaft; S. 31: Nestor/stock.adobe.com; S. 35: Cavan Images/stock.adobe.com; S. 43: Enrique del Barrio/stock.adobe.com; S. 44: Ungvar/Freepik.com; S. 46: Budimir Jevtic/stock.adobe.com; S. 50/51: pop_jop/istockphoto.com (Karte); S. 52: BMBF/Wissenschaftsjahr 2020; S. 57: sushytska/stock.adobe.com
+[Page #67]
+Nationale Bioökonomiestrategie
+bundesregierung.de
+   |  
+ bmbf.de
+   |  
+ bmel.de

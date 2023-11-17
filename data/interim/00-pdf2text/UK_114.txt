@@ -1,0 +1,486 @@
+[Page #0]
+How can you prepare now for the quantum computing future? EY Quantum Readiness Survey 2022 
+June 2022 
+[Page #1]
+Contents
+Foreword from the National Quantum Computing Centre (NQCC)  ....................................................04
+01. Quantum outlook and intentions ......................................08
+02. Use-case exploration .......................................................12
+03. Becoming quantum ready  ...............................................18
+Summary  ............................................................................22
+About the research  ..............................................................24
+[Page #2]
+None
+[Page #3]
+Foreword from the National Quantum Computing Centre (NQCC)
+Quantum technologies are just emerging but progress has been rapid over recent years. They offer the potential to unlock new, disruptive capabilities across computing, communications, sensing and more.
+perceived first-mover advantage in being prepared to harness the capabilities as they emerge and build resilience into forward plans. 
+But how quantum ready is UK business more widely? EY’s report seeks to address the central question of how organisations are preparing for quantum computing. It therefore represents a first-of-kind survey, an early bellwether of quantum readiness for the wider business community, and stands as a benchmark for where we go next. 
+The UK is well-positioned to the realise the benefits thanks to a world-class research base, a vibrant community of start-up and scale-up companies, established suppliers and mature sectors that represent early adopters. With engagement from industry, academia, and government, £1 billion of public and private investment is being delivered through a national programme designed to commercialise quantum technologies and place the UK among the global leaders. As a result, we have witnessed the emergence of a vibrant high-tech quantum industry here in the UK.
+Globally, the picture is one of increased business activity, with continuing investment, mergers, acquisitions, and IPOs for the tech developers. Early quantum computers are available via the cloud, including access to a system located in the UK, enabling exploration by programmers. 
+Quantum computing is expected to significantly speed up the time to solution for certain tasks, addressing computational problems that are currently intractable using conventional digital technologies. Although nascent, the pace of development is accelerating, and the question is how and when—not if—quantum computing can address industrially-relevant use cases. There is a 
+Businesses will understandably want to engage early on, as first adopters stand to build expertise, gain market insights and generate intellectual property. Of the 501 respondents at executive 
+4
+[Page #4]
+On behalf of the NQCC, I’d like to thank EY for publishing this research and I look forward to working with the UK’s businesses to build their quantum readiness.
+It’s clear that use-case exploration remains a key enabler for adoption and a tool to understand its value. EY’s report identifies an exponential trend for the growth of use cases. From the survey, the top-ranked use cases across the sectors relate to AI, machine learning and simulation and modelling tasks. In canvassing opinion from practitioners who stand as champions within their organisations, it’s clear that small, early gains from quantum computing could lead to big wins in the longer term.
+level who completed EY’s survey, more than three-quarters expect quantum computing to play a significant role in their industry by 2030. And how prepared are they? Almost a third are involved in strategic planning related to the use of quantum computing; one in five is already appointing a lead for their quantum computing efforts, with just under half of respondents planning to do so within the next two years.
+Dr Simon Plant Deputy Director for Innovation National Quantum Computing Centre June 2022
+But the view exactly as to when quantum computing will reach sufficient maturity to have an impact differs, depending on the sector. The range of sectors already engaging on quantum computing is remarkable, and includes financial services, consumer products and retail, advanced manufacturing, health and life sciences, and more – a total of 11 sectors in all. 
+More than 1,000 recipients lacked sufficient familiarity with quantum to complete the survey fully, which shows that readiness is evolving. We must continue to raise awareness, engage businesses, develop talent and promote responsible adoption to ensure that we capture the opportunity this technology represents.
+5
+[Page #5]
+In brief
+The basic mathematical framework for quantum mechanics – the behaviour of tiny particles of matter – was originally developed in the early part of the 20th century by Niels Bohr, Werner Heisenberg, Erwin Schrödinger and Paul Dirac, among others.1,2,3,4 Now, 100 years later, the EY quantum readiness survey 2022 investigates how UK organisations are beginning to explore a fundamentally different type of computer, capable of exploiting these remarkable physical properties to tackle problems that would otherwise remain intractable.
+•  Quantum computing may just be emerging from science labs but its transformative potential suggests that businesses have no time to lose in preparing for it.
+•  When it will become commercially viable is uncertain, but UK executives and experts expect quantum computing to be disruptive in several sectors.
+It is time for business leaders to begin planning for this new era of quantum computing. Although a commercially viable, fault-tolerant and fully error-corrected quantum computer is yet to be built, the power of quantum computers is increasing rapidly. In addition, public and private investment is growing quickly; new technology start-ups are being created every year; and higher-education institutions have begun to answer the call for more quantum talent. Already, organisations have access, via the cloud, to quantum computers that allow them to start developing solutions for challenges that will never be fully solved using classical computers in areas such as optimisation, search and materials discovery. 
+•  Fewer than one-third (33%) of UK organisations 
+have embarked on strategic planning for quantum, highlighting the importance of becoming quantum ready.
+If current trends persist, quantum computing is likely to cause disruption sooner than many people think. For some organisations, this will create enormous opportunities, for others, considerable risk. Whether a business thrives or fails in the coming years will depend, we believe, on its overall readiness as determined by an array of commercial and technology-related factors, which we have measured through quantitative and qualitative research in this survey.
+Our data show that, in the UK, nearly all (97%) of the 501 executives we surveyed expect quantum computing to disrupt their sectors to a high or moderate extent. Nearly half (48%) believe that quantum computing will reach sufficient maturity to play a significant role in the activities of most companies in their respective sectors by 2025. Yet, no more than one-third (33%) of organisations have already begun strategic planning to prepare for the technology’s commercialisation. And only 24% have set up pilot teams to explore its potential or are currently working to do so. 
+1. Neils Bohr, “On the Constitution of Atoms and Molecules”, 
+Philosophical Magazine and Journal of Science, Sixth Series, July 1913
+Given that quantum computing is emerging at different rates in different sectors, it is, perhaps, unsurprising that there is such a patchwork of maturity levels in the UK. The practitioners we consulted predict different rates of commercial maturation, but none doubts its potential impact. “Start preparing” now is their message.
+2. Werner Heisenberg, “On the quantum theory of line structure and 
+anomalous zeemanelect”, Journal of Physics, Vol. 8, December 1922
+3. Erwin Schrödinger, “Quantization as an eigenvalue problem (Part I)”, 
+Vol 384, Annalen Phys, 1926
+4. Paul Dirac, “The quantum theory of the electron”, Volume 117, Issue 778, Proceedings of the Royal Society A, 1 February 1928
+6
+[Page #6]
+Defining quantum computing
+based on classical physics. Other technologies include quantum sensing (detecting small changes in physical properties in the world) and quantum communication (communication using a quantum layer of information for speed, security or integrity advantages). Although this study discusses some aspects of these associated fields, it focuses primarily on quantum computing.
+Quantum computing harnesses the peculiar behaviour of atomic and subatomic particles to execute certain types of algorithms faster and more efficiently than the most powerful supercomputers available today. Such acceleration could offer solutions to previously intractable problems, with significant impacts on individual businesses as well as on entire sectors and economies.
+Computing is one of several quantum technologies that offer considerable performance improvements over techniques 
+7
+[Page #7]
+1
+Quantum outlook and intentions
+Figure 1: At what point do you believe that quantum computing will reach sufficient maturity to play a significant role in the activities of most companies in your industry? (N=501 respondents)When quantum is expected to reach sufficient maturity to play a significant role in respondents’ industries
+Despite the hype and uncertainty surrounding quantum computing, many of the executives who completed our survey are convinced of its development trajectory and potential impact. For example, nearly half (48%) believe quantum computing will play a significant role in their industries by 2025. The vast majority (97%) think quantum will disrupt their industries—as well as the UK economy—to at least some extent by 2027.
+It already does
+Why such optimism? Our survey was designed to ensure that respondents were familiar with the concept of quantum computing, so that we could understand in more detail what UK companies and public-sector organisations thought and were doing. Consequently, of the 1,516 individuals who received the survey, only 501 qualified to complete it. Of these respondents, almost two-thirds (64%) claim a high level of understanding of quantum computing, and all have some knowledge. Almost the same figure—65%—say their organisations have a high degree of interest in developing quantum capabilities. Despite the lack of any notable differences in the demographics between those who completed the survey and those who did not—such as the geographic region, industry sector or size of the organisation—we recognise that there is inevitably a more positive bias toward quantum within the sample of respondents.
+3%
+During 2022
+18%
+2023-25
+27%
+2026-30
+33%
+2031-35
+Apprehensiveness about competitors’ plans is also contributing to quantum zeal. Almost half (47%) of respondents believe rival firms are working to develop quantum computing capabilities or at least evaluating its potential. Only 3% think the technology is not on their competitors’ agendas.
+14%
+Sometime after 2035
+4%
+Figure 2: To what extent do you believe that quantum computing will disrupt each of the following in the next five years? (N=501 respondents)The anticipated extent of quantum disruption in the next five years
+Not at all
+Limited extent
+Moderate extent
+High extent
+80%
+0%
+20%
+40%
+60%
+100%
+1%
+On your organisationas a whole
+3%
+54%
+42%
+2%
+33%
+64%
+On your sector
+On the UK economy
+3%
+59%
+38%
+8
+[Page #8]
+48%
+believe quantum computing will play a significant role in their industries by 2025
+Expected quantum maturation curves, by industry
+Executive views differ—in some cases significantly—as to when quantum computing will play a significant role in their respective industries. Consumer products and retail executives are most optimistic: 70% foresee a decisive degree of maturity by 2025. A majority (56%) of telecoms, media and entertainment, and technology (TMT) executives expect the same in their sector within the same time. However, most respondents in health and life sciences firms, in contrast, anticipate progress to take longer, with maturation being reached at some point between 2026 and 2035.
+Figure 3: At what point do you believe that each of the following technologies will reach sufficient maturity to play a significant role in the activities of most companies in your industry? (Automotive and transportation: N=49 respondents; consumer products and retail, N=42; financial services: N=111; advanced manufacturing: N=41; telecoms, media and entertainment, technology: N=46; health and life sciences: N=59)When quantum computing will play a significant role in the respondents’ industries
+Advancedmanufacturing/diversiﬁedindustrial products
+Telecoms, media& entertainment,technology (TMT)
+Consumerproducts& retail
+Health &life sciences
+Financialservices
+Automotive & transportation
+4%
+It already does
+10%
+6%
+5%
+0%
+0%
+During 2022
+24%
+23%
+17%
+22%
+10%
+16%
+2023-2025
+36%
+19%
+15%
+30%
+25%
+33%
+2026-2030
+17%
+32%
+34%
+24%
+49%
+31%
+2031-2035
+12%
+18%
+20%
+7%
+15%
+16%
+4%
+2%
+3%
+Sometime after 2035
+10%
+13%
+0%
+9
+[Page #9]
+The practitioners we interviewed for the study, all of whom are closely involved in their organisations’ quantum-related efforts, are more circumspect about the timing of commercialisation and impact. Yet they are confident that quantum computing will eventually have a disruptive impact.
+“
+Quantum will be a hugely disruptive technology, causing shifts in business models. The biggest risk for companies is missing when this shift is happening.
+“We’re several years off from full-scale quantum computers, but banks like ours are looking at the potential value now,” says Philip Intallura, Global Business Lead for Quantum Computing at HSBC. “Our current priority is to develop our understanding and focus our research effort on things that, ultimately, we can apply within the bank.”
+Steve BrierleyChief Executive Officer, Riverlane
+Morag Watson, Senior Vice President of Digital Science & Engineering at energy firm BP, avoids predicting time frames for maturation. “That risks missing the disruption when it comes, because you won’t be out there spotting the weak signals,” she suggests. However, there is already quantum impact for BP. “We are doing work in areas of non-pure quantum computing, building algorithms and use cases, for example in optimisation.”
+According to Paul Coby, Chief Information Officer of Johnson Matthey, a global sustainable technologies company, “Taking a five-year view, quantum is just over the horizon. IT’s role at this stage is to support our R&D team, including by finding them the compute power they need in the cloud. Then, we’re trying to understand what the applications will be for quantum.”
+Steve Brierley, Chief Executive Officer of Riverlane, a Cambridge, UK quantum engineering and software firm developing an operating system for error-corrected quantum computers, also takes the long view. He emphasises that while the most transformative applications require quantum computers with far more qubits than are currently available and with the ability to correct data errors, learning and experimentation have huge benefits today. Nevertheless, he says, “Quantum will be a hugely disruptive technology, causing shifts in business models. The biggest risk for companies is missing when this shift is happening.”
+10
+[Page #10]
+11
+[Page #11]
+2
+Use-case exploration
+As we said in Becoming ‘quantum ready’, quantum computers are not just faster versions of classical computers — they are fundamentally different. Not all calculations currently conducted by classical computers can be speeded up. But there are certain types of problems for which quantum computers are perfectly suited, many of which are of strategic importance to organisations in all sectors. This has promoted an increasing focus on real-world exploration and experimentation in recent years. In the UK, during this ‘pre-commercialisation’ phase, organisations are focused on identifying those use cases most likely to generate value.
+72%
+of TMT respondents say future cryptography-related tasks are their top priority for using quantum computing and related technologies
+We presented respondents with five categories of applications and asked them to identify those with the greatest potential for their sectors. The most frequently cited categories overall involve the use of quantum computing to enhance artificial intelligence and machine learning (ranked first, for example, by financial services respondents) and in simulation and modelling tasks (involving, for example, better understanding of new materials or chemical reactions). 
+There is considerable variation across industries, however. For example, respondents from health and life sciences firms and from power and utilities companies point first to optimisation-related tasks—possibly in response to pricing, power distribution or supply-chain challenges. A large majority (72%) of TMT respondents, perhaps reflecting a heightened awareness within this sector of the possibility of cyber-attacks, say cryptography-related tasks are their top priority for quantum computing use, although it is unclear the extent to which related quantum communications and security technologies may be contributing to these levels of awareness. Nearly two-thirds of respondents (61%) in advanced manufacturing and other fields of industrial production, where the development and protection of intellectual property is vital, say the same.
+12
+12
+[Page #12]
+Figure 4: Which of the following types of applications do you believe hold the most potential for quantum computing in your sector? (N=501 respondents)Top-ranked types of application for quantum computing, overall and by industry
+Modelling chemicalreactions,simulating newmaterials, andother simulation/modelling-related tasks
+Enhancing machinelearning, improvingartiﬁcialintellegence, andother similar tasks
+Optimisation orpricing, supplychain, andoptimisationrelated tasks
+Improved databasesearches, mappingof DNA sequences,and other data-search relatedtasks
+Cryptography,prime factorisation,and other securityand encryptionrelated tasks
+2nd
+1st
+-
+-
+-
+Total
+Automotive &transport
+1st
+2nd
+-
+-
+-
+Real estate, hospitality& construction
+1st
+2nd
+-
+-
+-
+Consumer products& retail
+1st
+2nd
+-
+-
+-
+1st
+2nd
+-
+-
+-
+Financial services
+Advanced manufacturing/diversiﬁed industrialproducts
+2nd
+1st
+-
+-
+-
+Telecoms, media &entertainment technology
+2nd
+1st
+-
+-
+-
+2nd
+1st
+-
+-
+-
+Health & life sciences
+1st
+2nd
+2nd
+-
+-
+Power & utilities
+Private equity/venture capital
+2nd
+2nd
+2nd
+-
+-
+13
+[Page #13]
+Views from practitioners
+According to Elena Strbac, Global Head of Data Science Innovation at Standard Chartered,  quantum machine learning holds especially high potential in the financial services sector. “The use cases include the prediction of trading signals in financial markets, credit-decision outcomes and environmental impacts that are key for sustainable finance,” she says. Philip Intallura of HSBC sees quantum-powered portfolio-optimisation generating gains for many financial institutions in the next several years. “Just a 1% or 2% improvement in portfolios could be very significant from a commercial and customer-value perspective,” he says.
+Outside of computing, utilities such as Northumbrian Water are exploring the use of quantum sensing technology to address specific infrastructure challenges. Chris Jones, the company’s R&D Manager, says it is planning to use quantum gravimetric sensors to locate underground pipelines and other equipment, adding that construction, telecommunications and other types of utility company could benefit from adopting the technology. “Any organisation with buried infrastructure should be interested in using quantum sensors to map subsurface assets,” he says. Mr Jones also believes that quantum computing could eventually be used to support inversion modelling to generate patterns of gravimetric measurements, currently a difficult computational challenge.
+In power generation and natural resources, quantum computing is being explored across all areas of the upstream and downstream value chain, from assisting drill-path discovery in extraction to the efficient transportation and distribution of liquefied natural gas. Optimisation is a current focus for BP, says Morag Watson. For example, her team is writing quantum ready algorithms supporting the acceleration of complex computing tasks such as in logistical and maintenance activities. Chemistry is another focus, with potential application for the development of new lubricants and battery materials. 
+To complement the survey, we also conducted secondary research to gather intelligence (from publicly available English-language sources) on the use cases that large companies are actively pursuing in several sectors around the world. While a significant number of these announcements discuss the cyber-security implications of quantum computing, the majority of use cases that we discovered are focused on value creation and acceleration through new or improved revenue streams, or on sustainability, via improved product design, materials discovery and more general operational efficiencies. In particular, the data suggest a wide range of exploration in the automotive and transportation, financial services, and advanced manufacturing sectors. 
+In the advanced manufacturing sector, quantum capabilities stand to have a major impact on the execution of R&D tasks that currently require significant computer processing power. Glenn Jones, Research Manager in the Johnson Matthey Technology Centre, has hopes for using quantum to discover new materials or to make substantial improvements to existing ones, such as catalysts and electrocatalysts. “Quantum computing is likely to help us simulate the behaviour of such materials with much greater precision than is currently possible,” he says. More widely in manufacturing, quantum computing and related technologies can help on the factory floor, through process optimisation and quality assurance, and even in the design of components, for example by accurately simulating aerodynamics.
+Moreover, the timeline of sample use-case activity suggests that experimentation is increasing exponentially as more organisations become familiar with the transformative potential of universal fault-tolerant, error-corrected quantum computers. 
+“Quantum computing is likely to help 
+Quantum simulation also holds great potential for drug discovery, once life sciences firms can accurately simulate proteins and their interactions, says Piers Clinton-Tarestad, partner, technology risk at EY. The great advantage offered by quantum computing is in significantly accelerating drug discovery. Mr Clinton-Tarestad pointed to a significant amount of research and investment and strategic activity by commercial entities in this space.
+us simulate the behaviour of such materials with much greater precision than is currently possible.
+Glenn JonesResearch Manager, Johnson Matthey Technology Centre
+14
+[Page #14]
+Figure 5: Source: EY researchExamples of quantum technology use cases in development, by industry
+Consumerproducts& retail
+Financialservices
+Advancedmanufacturing/diversiﬁedindustrialproducts
+Telecoms,media & entertainment,technology
+Health &life sciences
+Power &utilities
+Real estate,hospitality &construction
+Automotive &transport
+Digitalmarketingoptimisation
+Batterymaterialsmodelling
+Portfoliooptimisation
+Quantum securecommunication
+Drug discovery& development
+Gas leakagedetection
+Resourceoptimisation
+Self-drivingcars
+Maintenancescheduleoptimisation
+Maritimeinventoryrouting
+Logisticsoptimisation
+Paymentcryptography
+ComputationalFluid Dynamics
+Quantumcryptography
+Proteinmodelling
+Scheduleoptimisation
+Riskanalysis, riskmanagement
+Maintenancescheduleoptimisation
+In-ﬂightnavigationsystem
+Monte Carlosimulations
+Transactionsettlement
+Logisticsoptimisation
+Trafﬁc ﬂowoptimisation
+Creditscoring
+Componentpurchasing
+Logisticsoptimisation
+Componentpurchasing
+Flight pathoptimisation
+Figure 6: Source: EY researchTimeline of quantum technology use-case development around the world (number of publicly-announced use-cases)
+105
+42
+25
+10
+5
+1
+1
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+15
+[Page #15]
+Figure 7: Survey question: How much attention is your organisation’s leadership currently paying to the following potential business risks posed by quantum computing? (N=501 respondents)Current level of attention paid by organisational leadership to business risks posed by quantum computing
+Understanding the challenges and risks of quantum
+The challenges facing businesses as quantum computing matures are similar to any emerging technology. However, two noteworthy issues top the list, according to survey respondents: accessing talent and skills; and integrating quantum computing into existing technology infrastructure.
+No attention at all
+The scarcity of quantum talent requires companies to pursue a multi-pronged strategy, developing skills in-house and recruiting from established physics and related degree and postgraduate courses, while simultaneously helping education providers to build future talent pools.
+Some but insufﬁcient attention
+Sufﬁcient attention
+There is less clarity around technology-integration challenges, given ongoing challenges with quantum hardware development. While most organisations may use capabilities provided by cloud service providers for the foreseeable future, other challenges await.
+13%
+Rapid obsolescence ofyour IT tools
+46%
+41%
+“If you want to develop quantum applications in the long run, you’ll need a tech stack that can deal with classical means of dealing with data, alongside the ability to run quantum algorithms,” says Philip Intallura. “To solve a classical problem on a quantum computer, you’ve got to map it to a quantum mechanical problem. How we build that capability is going to require some thinking.”
+11%
+The need to buildappropriate governancefor quantum technology
+Most survey respondents want their firms to focus more on technology-integration challenges, such as the possibility that quantum will accelerate obsolescence of current IT tools (cited by 54%). And 56% say greater attention should be paid to developing effective governance for quantum computing.
+44%
+45%
+“To solve a classical problem on a 
+quantum computer, you’ve got to map it to a quantum mechanical problem. How we build that capability is going to require some thinking.
+Philip IntalluraGlobal Business Lead for Quantum Computing, HSBC
+16
+[Page #16]
+A variety of risks
+Mira Pijselman, digital ethics consultant at EY, highlights two other examples of risks: first, third-party risk as new companies proliferate to service the expected high demand for quantum tools, applications and advice. Second is the threat of reputational damage — or, worse, damage to society — should, she says, “quantum be applied to use cases that are not in line with the public good or implemented in a way that is not fit for purpose”. These kinds of ethical considerations are critically important for all organisations seeking to use quantum computers and other quantum technologies, as discussed in Why innovation leaders must consider quantum ethics.
+Any discussion of quantum computing risks must include cybersecurity. The prospect of quantum being used to break existing encryption protocols cannot be discounted. Perhaps of greater significance, however, is the prospect of “store now, hack later” attacks—in which bad actors intercept valuable encrypted data now, because they believe that it can be decrypted within a few years, once sufficiently powerful quantum computers emerge.
+Most of the practitioners we consulted expressed confidence that quantum-based advances in encryption will keep pace with or overtake such threats. Nevertheless, the UK’s National Cyber Security Centre is already recommending that large organisations factor the threat of quantum computer attacks into their long-term planning.  
+17
+[Page #17]
+3
+Becoming quantum ready
+In keeping with their overall optimism, most survey respondents say that their firm will be taking concrete steps within 1-2 years to prepare for the arrival of quantum computing in their organisation. Within this timeframe:
+However, only between one-quarter and one-third (25% and 33%) of respondents say that they have begun undertaking such measures already. Leading the way are companies from the TMT, advanced manufacturing, and consumer products and retail sectors. For example, 56% of advanced manufacturing firms have begun strategic planning, and 52% have established, or are in the process of establishing, a pilot team. Among consumer products and retail businesses, 50% have assigned, or are assigning, someone to lead their quantum computing initiatives. 
+will have embarked onstrategic planning relatingto quantum computing
+72% 
+Interestingly, the gap between industry sectors, in terms of their overall reported readiness, is relatively small, despite some sectors (including TMT and financial services) often being much further ahead in related technology areas, such as high-performance computing and artificial intelligence. For example, 65% of financial services organisations report a high level of understanding of artificial intelligence, compared to a UK-wide average of 52%. This could simply be due to the nascent state of the quantum computing industry in general, or because organisations are gaining greater clarity around potential use cases, driven in part by news of what their competitors may be doing.
+will have set up a pilot teamto explore its potential fortheir businesses
+68% 
+will have appointedexecutives to lead quantum computing efforts
+71% 
+Figure 8: What is your best estimate of when your organisation will take the following actions in relation to quantum computing? (N=501 respondents)Timing of steps to prepare for quantum computing
+Already done
+Currently in progress
+Likely in the near-term(1-2 years)
+Likely in the mid-term(3-5 years)
+Likely in the long-term(5+ years)
+46%
+44%
+39%
+32%
+29%
+26%
+25%
+19%
+19%
+6%
+5%
+4%
+3%
+3%
+0%
+Appointing someone to lead onquantum copmuting efforts
+Setting up a plot team to explorethe potential for quantumcomputing in business
+Strategic planning in relation to useof quantum computing
+18
+[Page #18]
+56%
+of advanced manufacturing firms have begun strategic planning
+Most respondents have also begun or will soon begin efforts to understand the wider quantum ecosystem — the broader network of quantum computing researchers, start-ups and technology firms. Within two years, nearly two-thirds (65%) of organisations say that they will be actively monitoring the progress of vendors of quantum computing technology. Even more (71%) expect to have begun setting up partnerships with relevant suppliers or specialists by then.
+Figure 9: Which of the following do you think your organisation should be doing to prepare for quantum computing? (N=501 respondents)Top-priority initiatives to prepare for quantum computing
+1
+Developing/preparing relevant skills/talent for quantum computing
+This ecosystem is growing fast. “We’ve seen rapid development over the last two years, and the pace of growth is accelerating,” says BP’s Morag Watson. From universities and a few big technology firms, the ecosystem has expanded to include a plethora of start-ups, and acquisitions are increasing. “If such expansion continues, we could see the initial signs of an economically viable supply chain for quantum computing,” says Ms Watson.
+2
+Ensuring senior management is aware ofthe state of development and businesspotential of quantum computing
+3
+Maintaining technical awareness of therate of development and potentialapplications of quantum computing
+The importance of skills and awareness in readiness
+Organisations must also build the necessary skills and knowledge in the business to harness quantum. Asked what other measures their firms should be taking to become quantum ready, respondents assign highest priority to several aspects of skills and knowledge development.
+4
+Establishing relevant partnerships withexternal quantum computing specialists
+5
+Setting up the relevant technologyinfrastructure for quantum computing
+We believe that skills and awareness in quantum technologies are enablers for other important areas of readiness, such as maintaining awareness of technical developments in quantum computing and building partnerships with participants in the wider ecosystem. It will be increasingly important for organisations to have sufficient internal expertise to monitor for signals of disruption; see through hype; and avoid large imbalances in knowledge when seeking to engage with the ecosystem in more significant exploratory activities.
+6
+Allocation of budgets/funding forquantum computing
+All practitioners we interviewed are engaged in quantum awareness-building in their organisations. “Our team’s role,” says Ms Watson, “is to educate the company and get the right people involved in order to be quantum ready, such that, when the full universal quantum computer is available, BP can fully leverage the technology.”
+The skills and knowledge that businesses will require to exploit quantum technology extend well beyond the technical. “As we get further into it, we’ll need to bring much more of a business-analyst approach to understand how quantum will fit within our existing operating and asset-management practices,” says Chris Jones of Northumbrian Water, “That’s got to go hand in hand with ongoing technology development.”
+At HSBC, Philip Intallura and his research team are building quantum knowledge among managers and employees. “We’re investing significantly in training programmes in quantum to upskill not just the engineering team but the whole organisation,” he says. “Everyone should have a basic awareness of what quantum computing is, at the very least to be able to identify potential use cases.”
+Most survey respondents agree: the biggest skills challenge with quantum computing, say 55%, will not be in finding people who can make the technology work, but in finding business leaders who know how to take advantage of it.
+19
+[Page #19]
+From the NQCC’s perspective: Building quantum readiness
+The ambition of the National Quantum Computing Centre (NQCC) is to enable the UK as a quantum-ready economy, prepared to take full advantage of the benefits quantum computing can. Early adopters stand to gain expertise, market insights, intellectual property and increase preparedness ahead of more widespread adoption. Given the expectation highlighted in the survey that almost all organisations (97%) intend to conduct strategic planning on quantum computing within the next five years, users will want to understand how it can be incorporated into technology roadmaps and business workflows to create value.
+The engagement programme rests on four pillars:
+•  access to quantum computing
+•  access to technical expertise
+•  engagement and networking
+•  training, learning resources and skills development
+Access to assured quantum computing platforms will allow users to build knowledge and expertise around the end-to-end workflows involved in exploring early use cases. This process will allow developers to gain experience in coding early applications for quantum machines. 
+The UK is well-positioned in this respect due to the aligned public and private investments through the National Quantum Technologies Programme, comprising university-led research hubs, national labs, funding for industry-led innovation and more, coupled with mature end-use sectors. The NQCC is working across government, businesses and the research community to enable quantum readiness by delivering assured quantum computing capabilities for the UK and securing the benefits of this important technology. 
+Tackling the challenge of accessing relevant skills, identified by respondents in the survey, the NQCC will support the development of the talent and skills pipeline, including provision of tools and training opportunities for those interested in learning to code for quantum computing and more.
+The NQCC’s next step is to work with industry on early proof-of-concept solutions for “real-world” use cases. UK organisations will then be able to evaluate the performance and capabilities of the technology from an early stage and help to shape its evolution. This will provide a wealth of evidence based on technical evaluation and market insights, to underpin business cases, build the community of developers and end users, and grow quantum capabilities for the UK. These are all significant next-steps identified by respondents to the survey.
+Sector engagement is already under way, to raise awareness, understand needs and to identify where quantum computing can play a role in addressing key industrial challenges across optimisation, machine learning, simulation and cybersecurity. Identifying early on suitable use cases and opportunities for cross-sector solutions is key.
+This NQCC initiative aims to support businesses in preparing for the opportunity, build evidence and understand the potential impacts of quantum computing—all while promoting responsible and trusted research and innovation.
+Growing an expert UK user community from an early stage is vital to drive responsible adoption of the technology over the longer term. The NQCC is delivering activities to support users on the journey through the stages of awareness, engagement, evaluation, action and advocacy. There is a unique opportunity, as a national lab, to evaluate quantum computing technologies as they are developed, and offer insights into navigating the landscape.
+of organisations intend to conduct strategic planning in relation to the use of quantum computing within the next five years
+97%
+20
+[Page #20]
+21
+[Page #21]
+Summary
+Quantum computing technology is maturing fast and, as this study shows, UK organisations need to get ready.  Companies and public-sector bodies yet to embark on preparations should consider taking the following steps:
+1
+2
+3
+Monitor for signals of disruption
+Evaluate your organisation’s readiness
+Research and explore use cases
+R&D teams, long-range planners and risk managers should scan the technical and trade press and read analyst reports and competitor announcements about developments in quantum computing and related technologies. You should not be taken by surprise by sudden progress in the development of quantum computers or your rivals’ efforts to exploit them.
+Having identified areas that could benefit from quantum computing, you should study use cases in the business and consider external collaboration, tapping into networks of other like-minded organisations. 
+You should create a pilot team, preferably reporting to the business leadership, to gauge where quantum computing could enhance future products, services and business operations; the maturity of current ecosystem relationships; and availability of relevant skills. This should also include starting to evaluate the exposure of current data and processes to risks (such as security) posed by the technology and developing a roadmap for mitigating their impact.
+22
+[Page #22]
+Finally, Piers Clinton-Tarestad of EY recommends that companies see these steps as iterative and inter-related: “This report reveals a disconnect between the pace at which industry leaders expect quantum to start significantly transforming businesses and their general preparedness for its impact. Maximising the potential of quantum technologies will require early planning to build responsive and adaptable organisational capabilities. Quantum readiness is not so much a gap to be assessed as a road to be walked, with next steps being regularly revisited as the landscape evolves.  Businesses that expect industry disruption within the next three to five years, therefore, need to act now.”
+4
+5
+Scope out the ecosystem
+Educate, educate, educate
+The number and scale of technology suppliers and other potential quantum partners is growing and evolving. You should determine not only which partners are best positioned to help with sample problems, but also which are likely to have the staying power needed to address future strategic initiatives.
+Like artificial intelligence and machine learning before it, quantum computing can seem inaccessible to non-specialists. But, alongside other managers and employees in your organisation, you need to become familiar with quantum computing’s capabilities, in theory and practice. Your specialists should be designing training programmes with this in mind. As with previous emerging technologies, the best education is often experimentation — there is a dramatic difference between reading the theory and seeing it in practice.
+23
+[Page #23]
+About the research
+This report is part of the EY Quantum Intersection, a series of articles, surveys and opinions on the business impact of quantum computing, communication and sensing. The “intersection” refers to the tipping point that we have reached in the maturity of these technologies and their imminent acceleration towards commercial viability.
+technologies. The centre will work with businesses, government and the research community to deliver assured quantum computing capabilities for the UK, and support the growth of the emerging industry. The NQCC’s programme is being delivered jointly by the research councils, EPSRC and STFC.
+The centre will be headquartered in a purpose-built facility on STFC’s Rutherford Appleton Laboratory site at the Harwell Campus in Oxfordshire, which is due for completion in 2023. The NQCC is part of the National Quantum Technologies Programme, which began in 2014 and involves the delivery of £1 billion of public and private sector investment over 10 years, to develop and deliver quantum technologies across the areas of sensing, timing, imaging, communications and computing.
+About the NQCC
+This report has been completed in collaboration with the National Quantum Computing Centre. 
+The National Quantum Computing Centre (NQCC) is a new research institution, funded through UK Research and Innovation, which is dedicated to accelerating the development of quantum computing by addressing the challenges of scaling the emerging 
+We would like to thank all those who completed our survey. In addition, we are extremely grateful to the following executives for their time and insight during a series of in-depth interviews:
+Survey methodologyIn February-March 2022, a total of 1,516 UK-based executives were approached for their views on the opportunities and challenges associated with quantum computing and how, if at all, their organisations are preparing for it. To take part in the survey, executives had to demonstrate at least a moderate (but preferably a high) level of understanding of quantum computing. Of the 1,516 people approached, 501 met this requirement and completed the survey. All these respondents have senior roles in their organisations: 30% are C-suite executives or board members, and the other 70% are department heads, directors or vice-presidents. Just under one-quarter have IT or technology roles, and the rest work in different business roles, such as strategy, HR or risk management. 
+Steve Brierley Chief Executive Officer and Founder, Riverlane
+Paul Coby Chief Information Officer, Johnson Matthey
+Philip Intallura Global Business Lead, Quantum Computing, HSBC
+Chris Jones R&D Manager, Northumbrian Water
+Glenn Jones Research Manager, Johnson Matthey Technology Centre
+The respondents’ organisations are distributed across 11 sectors, with financial services, health and life sciences, and automotive and transportation the most widely represented. The respondents work in medium-size or large organisations, with annual revenues ranging from £350m to over £14bn.
+Elena Strbac Global Head of Data Science Innovation, CCIB Digital, Standard Chartered
+Morag Watson Senior Vice President, Digital Science & Engineering, BP
+The survey and interviews were conducted by Longitude, a Financial Times company, on behalf of EY.
+24
+[Page #24]
+Contact us
+EY  |  Building a better working world
+EY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.
+Catriona CampbellPartner and leader, client technology and innovation EY UK & Ireland catriona.campbell@uk.ey.com  +44 (0)20 7951 4822
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+Piers Clinton-TarestadPartner, technology risk EY UK & Ireland pclintontarestad@uk.ey.com +44 (0)12 1230 1137
+Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.
+EY refers to the global organization, and may refer to one or more, of the member firms of Ernst & Young Global Limited, each of which is a separate legal entity. Ernst & Young Global Limited, a UK company limited by guarantee, does not provide services to clients. Information about how EY collects and uses personal data and a description of the rights individuals have under data protection legislation are available via ey.com/privacy. EY member firms do not practice law where prohibited by local laws. For more information about our organization, please visit ey.com.
+Dr Harvey LewisAssociate partner EY UK & Ireland harvey.lewis@uk.ey.com +44 (0)207 980 0790
+Laura HenchozDirector EY UK & Ireland laura.henchoz@uk.ey.com +44 (0)20 7760 9330
+Ernst & Young LLP The UK firm Ernst & Young LLP is a limited liability partnership registered in England and Wales with registered number OC300001  and is a member firm of Ernst & Young Global Limited.
+Dr Simon PlantDeputy Director – Innovation National Quantum Computing Centre Simon.Plant@stfc.ac.uk +44 (0)7584 154 663
+Ernst & Young LLP, 1 More London Place, London, SE1 2AF. © 2022 Ernst & Young LLP. Published in the UK. All Rights Reserved.
+EYSCORE 005394-22-UK 
+220614_EY-Quantum_Computing_Report_4.0.indd (UK) 06/22.  Artwork by FT Longitude.  ED 0622
+Geoff BarnesBusiness Development Manager National Quantum Computing Centre geoff.barnes@stfc.ac.uk +44 (0) 1235 394454
+In line with EY’s commitment to minimise its impact on the environment, this document has been printed on paper with a high recycled content.
+Information in this publication is intended to provide only a general outline of the subjects covered. It should neither be regarded as comprehensive nor sufficient for making decisions, nor should it be used in place of professional advice. Ernst & Young LLP accepts no responsibility for any loss arising from any action taken or not taken by anyone using this material.
+ey.com/uk
