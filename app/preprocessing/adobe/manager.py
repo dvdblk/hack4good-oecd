@@ -159,7 +159,7 @@ class AdobeExtractAPIManager:
                 # Process the zip file and return the extracted PDF
                 return self._process_zip_file(zip_file)
             except ServiceApiException as e:
-                if e.error_code == "BAD_PDF_DAMAGED":
+                if e.error_code == "BAD_PDF_DAMAGED" or e.error_code == "BAD_PDF":
                     # File could not be processed
                     raise AdobeExtractAPIInvalidFileError() from e
                 else:

@@ -4,6 +4,7 @@ from argparse import ArgumentParser, FileType
 
 from dotenv import load_dotenv
 
+from app.preprocessing.adobe.exceptions import AdobeExtractAPIInvalidFileError
 from app.preprocessing.adobe.manager import AdobeExtractAPIManager
 
 
@@ -16,11 +17,13 @@ def main(args):
     )
 
     for file in args.file:
-        print(file)
-        # Extract PDF
-        _ = manager.get_document(file)
+        try:
+            # Extract PDF
+            _ = manager.get_document(file)
 
-        print(f"Extracted {file} to {args.out}.")
+            print(f"Done with {file}")
+        except AdobeExtractAPIInvalidFileError:
+            print(f"File {file} couldn't be processed with Adobe Extract API. skipping...")
 
 
 if __name__ == "__main__":

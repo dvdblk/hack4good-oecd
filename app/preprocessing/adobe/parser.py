@@ -1,6 +1,7 @@
 import re
 from typing import List, Optional, Set, Tuple, Union
 
+from app.logging import init_logger
 from app.preprocessing.adobe.model import (
     AdobeExtractedPDF,
     Document,
@@ -9,6 +10,8 @@ from app.preprocessing.adobe.model import (
     Section,
     TextOrigin,
 )
+
+logger = init_logger(__name__)
 
 
 class AdobeStructuredJSONParser:
@@ -257,7 +260,9 @@ class AdobeStructuredJSONParser:
                     continue
                 else:
                     add_paragraph(Paragraph(element.text, TextOrigin.PARAGRAPH), pages=element.page)
-                    print(f"Unknown element path: {element.path} in {extracted_pdf.file_path}")
+                    logger.warning(
+                        f"Unknown element path: {element.path} in {extracted_pdf.file_path}"
+                    )
                     # raise ValueError(f"Unknown element path: {element.path}")
         except StopIteration:
             pass
