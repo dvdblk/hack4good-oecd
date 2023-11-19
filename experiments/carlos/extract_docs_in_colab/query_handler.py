@@ -4,6 +4,7 @@ from pydantic.networks import KafkaDsn
 from topic import Topic
 import openai
 import json
+import tenacity
 
 class QueryHandler:
     def __init__(self, 
@@ -28,9 +29,12 @@ class QueryHandler:
 
         return
 
-    def run_query(self, rag_call, llm_call):
+    @tenacity.retry(
+        wait=tenacity.wait_fixed(1) + tenacity.wait_random(0, 1),
+        stop=tenacity.stop_after_attempt(10))
+    def run_query(self, rag_call, llm_call, dict_keys=None):
         rag_resp = self.vectorstore.similarity_search(rag_call, k=self.rag_topk)
-        query_wrapper = """Answer the binary questions at the end based only on the following excerpts of a policy document:
+        query_wrapper = """Answer the questions at the end based only on the following excerpts of a policy document:
         If something is not mentioned reply 0, do not make up things.
         {context}
         Question: {question}
@@ -44,6 +48,7 @@ class QueryHandler:
         query = query_wrapper.format(context=context, question=llm_call)
 
         client = openai.OpenAI()
+
         response = client.chat.completions.create(
             model=self.model_name,
             messages=[
@@ -51,8 +56,23 @@ class QueryHandler:
                 {"role": "user", "content": query}
             ],
             response_format={ "type": "json_object" },
+            timeout = 7
         )
-        return response.choices[0].message.content
+        resp_dict = json.loads(response.choices[0].message.content)
+
+        # print("debug: ")
+        # print("resp_dict: ", resp_dict.keys(), ", dict_keys: ", dict_keys)
+
+        # if not dict_keys is None:
+        #     print(dict_keys)
+
+        if not dict_keys is None and dict_keys != resp_dict.keys():
+            print("KEYS DONT MATCH")
+            print("is: ", resp_dict)
+            print("should: ", dict_keys)
+            raise ValueError("Keys dont match!")
+
+        return resp_dict
 
 
     def traverse_basic(self):
@@ -83,21 +103,14 @@ class QueryHandler:
                         my_q_dict[sub.name[0]+"_"+q.title()] += self.question_dict["formatting"][q]
 
                 question = "Fill in the following json:\n" + str(my_q_dict)
-                question += " Make sure that your response consists only of a valid json with keys identical to the input."
-                # question += " Don't use double quotes except to delimit json entries. "
-                # print(question)
+                question += " Make sure that your response consists of a valid json with all keys identical to the input."
 
                 rag_call = topic.name[0]
                 for s in sub_chunk:
                     rag_call += ", " + s.name[0]
 
-                reply = self.run_query(rag_call, question)
-                    # reply = reply.replace("'", '"')
-                    # # additional things, bc 1106 is stupid
-                    # reply = reply.replace("`", "")
-                    # reply = reply.replace("json", "")
-                    # print(reply)
-                topic_res.update(json.loads(reply))
+                reply = self.run_query(rag_call, question, my_q_dict.keys())
+                topic_res.update(reply)
                 time.sleep(self.sleep_time)
 
             
@@ -152,8 +165,7 @@ class QueryHandler:
                     question = "Fill in the following json: \n" + str(q_dict)
                     question += "\n Make sure that your response consists only of a valid json with keys identical to the input."
                     
-                    reply = self.run_query(rag_call+", "+k, question)
-                    reply = json.loads(reply)
+                    reply = self.run_query(rag_call+", "+k, question, dict_keys=q_dict.keys())
                     for k in reply.keys():
                         if not "summary" in k.lower():
                             reply[k] = int(reply[k])
