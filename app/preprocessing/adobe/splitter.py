@@ -5,8 +5,8 @@ from langchain.schema import Document as LangchainDocument
 from app.preprocessing.adobe.model import Document
 
 
-class AdobeDocumentSplitter:
-    """Create chunks from a structured document."""
+class DocumentSplitter:
+    """Create pure text chunks from a structured document."""
 
     def document_to_chunks(self, document: Document) -> List[LangchainDocument]:
         """Adobe Extract API Document to LangchainDocument chunks"""
@@ -19,7 +19,7 @@ class AdobeDocumentSplitter:
         while sections:
             section = sections.pop(0)
             # Get chunk text (just join all paragraphs for now)
-            chunk_content = "\n".join([p.text for p in section.paragraphs])
+            chunk_content = "\n".join([p.raw_text for p in section.paragraphs])
 
             # Get chunk metadata
             if section.section_type != "document":

@@ -1,8 +1,11 @@
+import io
 import re
 import weakref
 from dataclasses import dataclass
 from enum import StrEnum
 from typing import Any, Dict, List, Optional, Set
+
+import pandas as pd
 
 
 @dataclass
@@ -77,20 +80,28 @@ class TextOrigin(StrEnum):
 class Paragraph:
     """Describe a paragraph of text."""
 
-    def __init__(self, text: str, origin: TextOrigin, aside: bool = False) -> None:
+    def __init__(self, raw_text: str, origin: TextOrigin, aside: bool = False) -> None:
         """
         Args:
-            text (str): The text of the paragraph
+            raw_text (str): The text of the paragraph
             origin (TextOrigin): The origin of the text in this paragraph
             aside (bool, optional): Whether the paragraph is an aside (elements that are next to a table or a figure).
                                      Defaults to `False`.
         """
-        self.text = text
+        self.raw_text = raw_text
         self.origin = origin
         self.aside = aside
 
     def __repr__(self) -> str:
-        return f"<Paragraph ({self.origin}) text={self.text}>"
+        return f"<Paragraph ({self.origin}) text={self.raw_text}>"
+
+    @property
+    def text(self) -> Optional[str]:
+        if self.origin == TextOrigin.TABLE:
+            # csv to markdown
+            return pd.read_csv(io.StringIO(self.raw_text)).to_markdown()
+        else:
+            return self.raw_text
 
 
 class Section:
@@ -104,13 +115,25 @@ class Section:
 
     def __init__(
         self,
+        id: str,
         title: Optional[str] = None,
         pages: Optional[Set[int]] = None,
         section_type: Optional[str] = None,
-        paragraphs: Optional[List[str]] = None,
+        paragraphs: Optional[List[Paragraph]] = None,
         subsections: Optional[List["Section"]] = None,
         parent: Optional["Section"] = None,
     ) -> None:
+        """
+        Args:
+            id (str): The unique ID of the section used in the LLM context (e.g. 1.1.1)
+            title (Optional[str], optional): The title of the section. Defaults to `None`.
+            pages (Optional[Set[int]], optional): The pages that the section spans. Defaults to `None`.
+            section_type (Optional[str], optional): The type of the section. Defaults to `None`.
+            paragraphs (Optional[List[Paragraph]], optional): The paragraphs of the section. Defaults to `None`.
+            subsections (Optional[List[Section]], optional): The subsections of the section. Defaults to `None`.
+            parent (Optional[Section], optional): The parent section of the section. Defaults to `None`.
+        """
+        self.id = ""
         self.title = title
         self.pages = pages if pages else set()
         self.section_type = section_type
@@ -124,6 +147,19 @@ class Section:
     def __repr__(self) -> str:
         return f"<Section ({self.section_type}) title={self.title}>"
 
+    @property
+    def starting_page(self) -> Optional[int]:
+        """Return the starting page of the section if it has any pages"""
+        if pages := sorted(self.pages):
+            return pages[0]
+        else:
+            return None
+
+    @property
+    def title_clean(self) -> Optional[str]:
+        """Return a cleaned version of the title (without section number)"""
+        return re.sub(r"^(\d+\.?)+", "", self.title).lstrip()
+
 
 class Document(Section):
     """The root node to a tree of Sections"""
@@ -136,4 +172,4 @@ class Document(Section):
         subsections: Optional[List["Section"]] = None,
         parent: Optional["Section"] = None,
     ) -> None:
-        super().__init__(title, pages, "document", paragraphs, subsections, parent)
+        super().__init__("root", title, pages, "document", paragraphs, subsections, parent)

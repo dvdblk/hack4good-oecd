@@ -77,7 +77,7 @@ class AdobeStructuredJSONParser:
             return InterimElement(element, is_aside, path)
 
         def add_paragraph(paragraph: Paragraph, pages: Optional[Union[Set[int], int]]):
-            if paragraph.text is not None:
+            if paragraph.raw_text is not None:
                 curr_section.paragraphs.append(paragraph)
                 if pages:
                     if isinstance(pages, int):
@@ -143,6 +143,7 @@ class AdobeStructuredJSONParser:
 
                     # Create new section
                     new_section = Section(
+                        id="",
                         title=title,
                         section_type=section_type,
                     )
@@ -179,6 +180,17 @@ class AdobeStructuredJSONParser:
                             new_section.parent = curr_section.parent
 
                     curr_section = new_section
+
+                    # Set correct section ID
+                    if new_section.parent.section_type == "document":
+                        # Get index of new_section in document subsections
+                        new_section.id = str(len(document.subsections))
+                    else:
+                        # Get index of new_section in parent subsections
+                        new_section.id = (
+                            new_section.parent.id + "." + str(len(new_section.parent.subsections))
+                        )
+
                 elif match := re.match(
                     r"^\/L(\[\d+\])?\/LI(\[\d+\])?\/(Lbl|LBody).*$", element.path
                 ):
