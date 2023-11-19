@@ -1,0 +1,181 @@
+We would like to (<https://www.ons.gov.uk/cookies>)use cookies to collect information about how you use ons.gov.uk.
+We use this information to make the website work as well as possible and improve our services.
+Accept all cookies (<https://www.ons.gov.uk/cookies>)Set cookie preferences
+Data and analysis from Census 2021 Understanding AI uptake and sentiment among people and businesses in the UK: June 2023
+An exploration into the use of Artificial Intelligence (AI) and how people feel about its uptake in today’s society and business.
+Contact:
+(<mailto:policy.evidence.analysis@ons.gov.uk>)Emily Farbrace, Jeni Warren and Rhian Murphy
+Release date:
+16 June 2023
+Next release:
+to be announced
+Table of contents
+1. (<>)Main points
+2. (<>)Overview of AI in policy
+3. (<>)AI and automation in daily life
+4. (<>)Awareness, experience of and trust in AI among the general population
+5. (<>)Awareness and experience of AI among businesses
+6. (<>)AI impact on society
+7. (<>)AI uptake and sentiment data
+8. (<>)Data sources and quality
+9. (<>)Related links
+10. (<>)Cite this article
+1. Main points
+Public awareness of Artificial Intelligence (AI) appears to have increased over the past year; 72% of adults could give at least a partial explanation of AI in the Office for National Statistics (ONS) Opinions and Lifestyle Survey (OPN) collected in May 2023 compared with 56% in the Centre for Data Ethics and Innovation's Public Attitudes to Data and AI Tracker Survey (PADAI) collected in June to July 2022.
+When it comes to day-to-day use of AI, 5% of adults reported using AI a lot, 45% a little and 50% not at all in the month before data collection on the OPN.
+When asked about their expectations of the impact of AI on the UK, from very negative (0) to very positive (10); 32% of adults reported neutral impact (5) with slightly higher proportions of people giving positive responses (6-10) than negative (0-4).
+Our Business and Insights Conditions Survey (BICS) showed that approximately one in six businesses (16%) are currently implementing at least one of the AI applications asked about in the survey.
+Of those businesses currently using or planning to use one of the specified AI applications, the most common reasons for doing so was improving cybersecurity (35%) and creating efficiencies (35%).
+2. Overview of AI in policy
+The surge of Artificial Intelligence (AI) developments have been well documented in recent (<https://www.gov.uk/government/news/uk-unveils-world-leading-approach-to-innovation-in-first-artificial-intelligence-white-paper-to-turbocharge-growth>)months, increasing public awareness and the rst UK government white paper on AI regulation (https://www.gov.uk/government/news/uk-unveils-world-leading-approach-to-innovation-in-rst-articial-intelligence-white-paper-to-turbocharge-growth) was published in March 2023 to guide its use.
+(<https://www.gov.uk/government/organisations/office-for-artificial-intelligence>)The Oce for Articial Intelligence (https://www.gov.uk/government/organisations/oce-for-articial-intelligence) is responsible for AI policy relating to the wider economy, founded from a joint team of officials across the Department of Digital, Culture, Media and Sport and the Department for Business, Energy and Industrial Strategy. The Central Digital and Data Office is responsible for use of AI within government departments.
+We aim to understand people's sentiment towards AI and their engagement in both a social and business setting.
+3. AI and automation in daily life
+Artificial Intelligence (AI) is a term that is difficult to define given its broad use in a variety of settings. Here we clarify what we mean by AI and make the distinction between AI and automation; terms that relate to different things despite sometimes being used interchangeably.
+(<https://www.gov.uk/government/publications/national-ai-strategy/national-ai-strategy-html-version>)AI is an umbrella term for a group of interrelated technologies. The National AI Strategy (https://www.gov.uk/government/publications/national-ai-strategy/national-ai-strategy-html-version) published in September 2021 describes AI as "machines that perform tasks normally performed by human intelligence, especially when the machines learn from data how to do those tasks". In general, AI behaves in a way that mimics some human cognitive processes, using data to inform decisions. While the field of AI continues to develop rapidly, it has already become a part of our daily lives.
+Automation is the process of substituting a manual task with a physical device or computer program that can undertake the same task automatically with less or no human intervention. Automation has been happening for a long time, at least since the Industrial Revolution and pre-dates the invention of computers. An automated process typically operates within a pre-defined set of rules and reaches a pre-defined outcome.
+Figure 1: Examples of the use of AI and automation in daily life
+Click on the items in the rooms to nd out more about how AI and automation is being used in our every day lives. Start
+Embed code
+How AI and automation relate to each other
+While both automation and AI have similar purposes, there are important differences between the two terms as highlighted in A pro-innovation approach to AI regulation white
+paper (PDF 1.2 MB)
+(https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_ data/file/1146542/a_pro-innovation_approach_to_AI_regulation.pdf). Firstly, AI is more adaptable than automation alone and can infer patterns and perform new functions that are beyond those initially envisioned by their human programmers. Additionally, some but not all AI systems can make decisions without interacting with a human, which is not typical of automated processes.
+Robotics
+Robotics is an area where it is easy to mix-up the two terms as robots are often used to simply automate physical tasks but will increasingly use AI to perform physical or cognitive tasks. There is some complexity with people's understanding of these differences, which can influence their perception of use and experience in business and society. We have aimed to (<https://www.publications.parliament.uk/pa/cm201617/cmselect/cmsctech/145/145.pdf>)capture this perception in our business and social surveys. See more information in and articial intelligence from the House of Commons Science and Technology Committee (PDF, 502KB)
+(https://www.publications.parliament.uk/pa/cm201617/cmselect/cmsctech/145/145.pdf).
+4. Awareness, experience of and trust in AI among the general population
+Awareness of AI
+There is some indication of increased public awareness of Artificial Intelligence (AI) over the (<https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/methodologies/opinionsandlifestylesurveyqmi>)past year when we compare results from the Oce for National Statistics (ONS) Opinions and Lifestyle Survey (https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlif eexpectancies/methodologies/opinionsandlifestylesurveyqmi) (OPN) with results from the (<https://www.gov.uk/government/publications/public-attitudes-to-data-and-ai-tracker-survey-wave-2>)Centre for Data Ethics and Innovation Public Attitudes to Data and AI Tracker Survey (https://www.gov.uk/government/publications/public-attitudes-to-data-and-ai-tracker-survey-wave-2) (PADAI). Results from the two surveys are shown in Figure 2.
+Figure 2: Recent OPN findings indicate a greater public understanding of AI than previous PADAI survey results
+Proportion of adults in the UK, 27 June to 18 July 2022 (PADAI) and Great Britain, 4 to 14 May 2023 (OPN)
+OPN, 2023
+PADAI, 2022
+Heard of AI and could explain in detail Heard of AI and could give partial explanation Heard of AI but could not explain what it is Never heard of AI 0 10 20 30 40 50 60 %
+Source: Opinions and Lifestyle Survey from the Office for National Statistics and Public Attitudes to Data and AI from the Office for AI Notes:
+1. Base: all adults (16 and above for OPN data; 18 and above for PADAI).
+2. PADAI data was collected between 27 June to 18 July 2022. OPN data was collected between 4 to 14 May 2023.
+A higher proportion of OPN respondents reported that they can explain what AI is in detail (19%) or partially (53%) than PADAI respondents (10% and 46% respectively).
+This may indicate increased public awareness of AI over the past year; PADAI data collection took place in June to July 2022 and OPN data collection in May 2023. However, there are differences in sample coverage between the two surveys. More information on the OPN and (<>)PADAI surveys can be found in Section 8: Measuring the data
+(<>)(https://www.ons.gov.uk/businessindustryandtrade/itandinternetindustry/articles/understan dingaiuptakeandsentimentamongpeopleandbusinessesintheuk/june2023#data-sources-and-quality).
+Experience of using AI
+In the OPN results, half (50%) of adults said they did not use AI at all in their day-to-day life in the month before data collection, 45% used it a little and 5% used it a lot. Self-reported use of AI was lowest among adults aged 70 years and over; 68% did not use AI at all.
+Figure 3: 68% of adults aged 70 and over reported to not have any daily AI use
+Proportion of adults in Great Britain, by age group, 4 to 14 May 2023
+Aged 16 to 29 Aged 30 to 49 Aged 50 to 69 Aged 70 and over Not at all A little A lot 0 20 40 60 80 %
+Source: Opinions and Lifestyle Survey from the Office for National Statistics Notes:
+1. Base: all adults aged 16 and above
+Around a third (34%) of adults said they had used AI chatbots in the past month. Among those, the most reported uses were customer service (50%), to try it out (33%), entertainment (19%) and advice (19%).
+Older adults aged 70 years and over most reported having used chatbots for customer service (63%) and advice (28%). Whereas younger adults aged 16 to 29 years most reported having used AI chatbots to try it out (58%) and for entertainment (29%).
+Trust in AI
+OPN respondents were asked about their expectations of the impact of Artificial Intelligence (AI) on society on a scale of 0 to 10, where 0 is a very negative impact and 10 is a very positive impact.
+The most common response appeared neutral (a score of 5 out of 10). Slightly more people reported neutral to positive scores (6-10) compared with neutral to negative (0-4).  A similar share of people gave scores on the extreme negative (6%) and extreme positive (5%) ends of the scale.
+Figure 4: More than 3 in 10 (32%) adults were neutral about their feelings towards AI and its impact on society
+Proportion of adults in Great Britain, 4 to 14 May 2023
+Very negative 2 4 6 8 Very positive 0 5 10 15 20 25 30 35 %
+Source: Opinions and Lifestyle Survey from the Office for National Statistics Notes:
+1. Base: all adults aged 16 years and over.
+2. These questions are answered on a scale of 0 to 10, where 0 is "very negative impact" and 10 is "very positive impact".
+The OPN results were very similar to the Centre for Data Ethics and Innovation's PADAI 2022 survey. In PADAI, 21% gave a negative impact score (0 to 3), 58% gave a moderate impact score (4 to 7) and 16% gave a positive impact score (8 to 10). This compares with 21% negative, 62% moderate and 18% positive using equivalent groupings and OPN data.
+The OPN results did not find significant differences between age groups whereas PADAI found that older people were more likely to expect a negative impact compared with younger people.
+Another example of change in public attitudes over time is a global study by KPMG looking at trust in AI (https://policy-
+futures.centre.uq.edu.au/files/16650/Trust%20in%20AI%20Global%20Report_2023_UQ.pdf) (PDF 4.8 MB). In 2023, 34% of UK respondents in the KPMG study reported that they were somewhat, mostly or completely willing to trust the use of AI and this has increased from 26% in KPMG's 2021 study (https://www.researchgate.net/profile/Caitlin-
+(<https://www.researchgate.net/profile/Caitlin-Curtis/publication/356842206_Trust_in_artificial_Intelligence_a_five_country_study/links/61b0342cc2e267424d0fd68f/Trust-in-artificial-Intelligence-a-five-country-study.pdf>)Curtis/publication/356842206_Trust_in_articial_Intelligence_a_ve_country_study/links/61b 0342cc2e267424d0fd68f/Trust-in-articial-Intelligence-a-ve-country-study.pdf) (PDF 4.5
+MB). In KPMG's 2023 global research study, the UK was reported to have the same or similar levels of trust in AI as France (31%), Canada (32%), Australia (34%), and Germany (35%) and a slightly lower level of trust than the United States (40%). The countries with the highest willingness to trust AI, reported by this study, were India (75%) and China (67%), which were also among the countries reporting the highest subjective knowledge of AI; 82% reported moderate to high subjective knowledge of AI in China, and 77% in India compared with 32% in the UK.
+5. Awareness and experience of AI among businesses
+(<https://www.ons.gov.uk/economy/economicoutputandproductivity/output/datasets/businessinsightsandimpactontheukeconomy>)Our fortnightly Business Insights and Conditions Survey (BICS) (https://www.ons.gov.uk/economy/economicoutputandproductivity/output/datasets/busine ssinsightsandimpactontheukeconomy) collects data on nancial performance, workforce, prices, trade and business resilience. Between 3 to 16 April 2023, it reported that 16% of businesses across the UK are currently using at least one of the Artificial Intelligence (AI) technologies asked about in the survey. Of those, spam filters were the most specified (11%), with fewer businesses currently using chatbots (4%), facial recognition (3%), voice assistants (1%) and personalised shopping (1%).
+Figure 5: 78% of businesses reported that the current use of Artificial Intelligence (AI) question was not applicable to their business
+Percentage of businesses not permanently stopped trading, weighted by count, UK, 3 to 16 April 2023
+Not applicable Spam lters Not sure Chatbots Facial recognition Voice assistants Personalised shopping 0 10 20 30 40 50 60 70 80 90 %
+Source: Business Insights and Conditions Survey from the Office for National Statistics Notes:
+1. Businesses were able to select multiple options (excluding "Not applicable") therefore totals do not sum 100%.
+This is similar to the Department for Digital, Culture, Media and Sport's (DCMS's) 2022 study (<https://www.gov.uk/government/publications/ai-activity-in-uk-businesses>)measuring Articial Intelligence (AI) activity in UK businesses (https://www.gov.uk/government/publications/ai-activity-in-uk-businesses). This study found that:
+15% of all businesses were estimated to have adopted at least one AI technology
+around 2% of businesses were in the process of piloting AI
+10% planned to adopt AI in the future
+(<https://policy-futures.centre.uq.edu.au/files/16650/Trust%20in%20AI%20Global%20Report_2023_UQ.pdf>)More recently, a global survey conducted by KPMG looking at trust in AI (PDF, 4.8MB) (https://policy-futures.centre.uq.edu.au/les/16650/Trust%20in%20AI%20Global%20Report_2023_UQ.pdf), published in 2023 found that 20% of UK respondents reported AI is used by their employing organisation.
+In terms of industries, the businesses most likely to report that the question about current AI use was not applicable to them were within:
+arts, entertainment, and recreation (92%)
+transportation and storage (89%)
+construction (87%)
+Conversely, the industries that suggest more current use of AI were within Information and communication and Wholesale and retail trade, with only 63% and 71% reporting non applicability to the question, respectively.
+Businesses with less than 10 employees were most likely to report that the question about current AI use was not relevant to them (79%), compared with businesses with the largest (<https://www.gov.uk/government/publications/ai-activity-in-uk-businesses>)workforces of more than 250 people (48%). This is similar to the 2022 DCMS study measuring AI activity in UK businesses (https://www.gov.uk/government/publications/ai-activity-in-uk-businesses) that found larger businesses were more likely to adopt AI technologies.
+BICS also asked about planned future use and found that:
+13% of businesses specified at least one planned use
+15% were unsure about future use
+74% responded that the question was not applicable to their business
+While this may suggest limited application of AI within UK businesses, all businesses including those currently using AI were asked about future use, indicating further uptake of AI applications. Also, with new developments and the fast-paced nature of the AI sector, it is difficult to categorise all use of AI. This was suggested by some of our free text responses that may indicate a wider uptake than captured in our survey categories:
+"The AI section did not really ask the right questions for our business - AI is integrated into our cell technology manufacturing process."
+"We aim to use AI to reduce the number of false alarms we receive from the sensor equipment we hire out and monitor. Couldn't see where this would go."
+"We make extensive use of AI but none of the categories fit."
+For those businesses reporting that the AI questions were applicable to them, the most reported intentions for current or future AI use were to improve cybersecurity (35%) and to create efficiencies (35%). More than a quarter (27%) noted that AI would be used to provide a personalised service to customers. Fewer businesses reported that they already or would like to use AI to develop a new product or service (18%).
+Figure 6: Construction and manufacturing industries prioritise improving cybersecurity in their use of Artificial Intelligence (AI)
+Percentage of businesses not permanently stopped trading that either use AI applications or intend to use them, broken down by industry, weighted by count, UK, 3 to 16 April 2023
+0 20 40 Improving cybersecurity Create eciencies Provide a more personalised service Develop a new product or service Other 0 20 40 0 20 40 % 0 20 40 Improving cybersecurity Create eciencies Provide a more personalised service Develop a new product or service Other 0 20 40 0 20 40 % 0 20 40 % Improving cybersecurity Create eciencies Provide a more personalised service Develop a new product or service Other Manufacturing Construction Retail Hospitality Information and communication Professional and scientic Administration
+Source: Office for National Statistics
+Embed code Notes:
+1. Base: all businesses.
+2. Businesses were able to select multiple options therefore totals do not sum 100%.
+3. The following industries have been excluded for presentational purposes because of low response: water supply, sewerage, waste management and remediation activities, transportation and storage, real estate activities, education, human health and social work activities, arts, entertainment and recreation, other service activities.
+Download the data
+(<https://www.ons.gov.uk/visualisations/dvc2616b/bar-chart/datadownload.xlsx>).xlsx (https://www.ons.gov.uk/visualisations/dvc2616b/bar-chart/datadownload.xlsx)
+6. AI impact on society
+World Economic
+(<https://www.gov.uk/government/publications/public-attitudes-to-data-and-ai-tracker-survey-wave-2/public-attitudes-to-data-and-ai-tracker-survey-wave-2>)Public perceptions of the impact of Articial Intelligence (AI) on jobs is mixed. The Public Attitudes to Data and AI (PADAI) Tracker Survey (https://www.gov.uk/government/publications/public-attitudes-to-data-and-ai-tracker-survey-wave-2/public-attitudes-to-data-and-ai-tracker-survey-wave-2) found that 34% of UK adults believed the impact of AI on job opportunities has been negative and 33% believed it (<https://www3.weforum.org/docs/WEF_Future_of_Jobs_2023.pdf>)has been positive. A similar picture emerges among businesses; in the Forum's Future of Jobs Report 2023 (PDF, 20.9 MB) (https://www3.weforum.org/docs/WEF_Future_of_Jobs_2023.pdf), a global study, 50% of surveyed companies expect AI to create job growth and 25% expect it to create job losses between 2023 and 2027.
+As exposure to AI in everyday life continues to increase, we recognise the importance of tracking public perceptions over time and plan to continue to look at awareness, experience of and sentiment towards AI in our social surveys.
+(<https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/whichoccupationsareathighestriskofbeingautomated/2019-03-25#:~:text=of%20being%20automated%3F-,Which,-occupations%20are%20at>)Our Which occupations are at highest risk of being automated? article (https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandempl oyeetypes/articles/whichoccupationsareathighestriskofbeingautomated/2019-03-25#:~:text=of%20being%20automated%3F-,Which,-occupations%20are%20at) estimated that 7.4% of people in England were employed in jobs at high risk of automation in 2017. We are currently exploring whether this research can be updated to provide an estimate of exposure to AI among the UK labour market.
+We also plan to explore the impact of AI beyond jobs in areas such as productivity and the economy as well as impacts in specific sectors such as health, education, and the environment. There is no definitive measure of the impact of AI and it is important that we consider how impacts, both positive and negative, may be experienced differently by different people.
+7. AI uptake and sentiment data
+Artificial Intelligence (AI) awareness, use and impact, Great Britain
+(<https://www.ons.gov.uk/businessindustryandtrade/itandinternetindustry/datasets/artificialintelligenceaiawarenessuseandimpactgreatbritain>)(https://www.ons.gov.uk/businessindustryandtrade/itandinternetindustry/datasets/articialintelligenceaiawarenessuseandimpactgreatbritain)
+Dataset | Released 16 June 2023
+Data from the Opinion and Lifestyle Survey (OPN) on the use of Artificial Intelligence (AI) and how people feel about its uptake in today's society.
+8. Data sources and quality
+Opinions and Lifestyle Survey
+This release contains data and indicators from the Office for National Statistics' (ONS') Opinions and Lifestyle Survey (OPN). In the period between 4 to 14 May 2023, we sampled 4,961 individuals aged 16 and over. The responding sample contained 2,045 individuals, representing a 41% response rate.
+Weights were adjusted for non-response and attrition. The weights were then calibrated considering the Great Britain (GB) population distributions of sex by age, region, tenure group, education group and employment group. Population totals for age, sex and region were based on ONS population estimates. Further information on the survey design and quality can be found in our Opinions and Lifestyle Survey Quality and Methodology Information (QMI)
+(https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlif eexpectancies/methodologies/opinionsandlifestylesurveyqmi).
+Business Insights and Conditions Survey
+In wave 80 (when the survey was live from 3 to 16 April 2023), we sampled 39,338 businesses and received 9,399 responses, representing a 23.9% response rate. Response rates can be different for different questions in the Business Insights and Conditions Survey (BICS), depending on the routing of the questions in the survey. BICS publish weighted estimates that scale up responses to represent the non-responding businesses. Further (<https://www.ons.gov.uk/economy/economicoutputandproductivity/output/methodologies/businessinsightsandconditionssurveybicsqmi>)information is available in our Business Insights and Conditions Survey (BICS) QMI (https://www.ons.gov.uk/economy/economicoutputandproductivity/output/methodologies/ businessinsightsandconditionssurveybicsqmi).
+BICS release
+(<https://www.ons.gov.uk/economy/economicoutputandproductivity/output/datasets/businessinsightsandimpactontheukeconomy>)The BICS dataset for wave 80 of the survey is published as part of our fortnightly (https://www.ons.gov.uk/economy/economicoutputandproductivity/output/datasets/busine
+(<https://www.ons.gov.uk/economy/economicoutputandproductivity/output/datasets/businessinsightsandimpactontheukeconomy>)ssinsightsandimpactontheukeconomy). Estimates included in Table 1 were calculated for
+this article and not included in the original dataset.
+Table 1: AI applications in UK businesses
+Percentage of businesses not permanently stopped trading, weighted by count, UK, 3 to 16 April 2023
+|    | Question                                                                                   | Base                                                                                        | Estimate     |
+|---:|:-------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------------|
+|  0 | Does your business currently use any of the following artiﬁcial intelligence applications? | % of businesses that selected at least one option excluding “not sure” and “not applicable” | 13%          |
+|  1 | Does your business plan to use any of the following artiﬁcial intelligence applications?   | % of businesses that selected at least one option excluding “not sure” and “not applicable” | 16%          |
+Source: Business Insights and Conditions Survey from the Office for National Statistics
+Notes:
+1. Proportions are rounded to 0 decimal place.
+2. Businesses were asked for their experiences for the period when the survey was live.
+3. Businesses could choose more than one option.
+4. Caution should be taken when interpreting expectations questions as the employees responding on behalf of businesses may not have full oversight of all their business' future expectations.
+5. Weighted estimates from the voluntary fortnightly business survey (BICS) about financial performance, workforce, prices, trade, and business resilience. See the full (<https://www.ons.gov.uk/economy/economicoutputandproductivity/output/datasets/businessinsightsandimpactontheukeconomy>)Business insights and impact on the UK economy dataset (https://www.ons.gov.uk/economy/economicoutputandproductivity/output/datasets/bu sinessinsightsandimpactontheukeconomy).
+Public Attitudes to Data and AI
+This release contains data and indicators from the Public Attitudes to Data and AI (PADAI) survey, commissioned by the Centre for Data, Ethics and Information (CDEI).
+Wave 2 completed a total of 4,320 online Interviews across a demographically representative sample of UK adults (aged 18 years and over). This survey ran from 27 June 2022 to 18 July 2022. A further 200 UK adults were interviewed via telephone between 1 and 20 July 2022.
+The online sample is representative of the UK adult population, based on age, gender, socioeconomic grade, ethnicity, and region. More information can be found in the methodology (<https://www.gov.uk/government/publications/public-attitudes-to-data-and-ai-tracker-survey-wave-2/public-attitudes-to-data-and-ai-tracker-survey-wave-2#methodology>)section of their Public attitudes to data and AI: Tracker survey (Wave 2) report (https://www.gov.uk/government/publications/public-attitudes-to-data-and-ai-tracker-survey-wave-2/public-attitudes-to-data-and-ai-tracker-survey-wave-2#methodology).
+9. Related links
+Which occupations are at highest risk of being automated?
+(<https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/whichoccupationsareathighestriskofbeingautomated/2019-03-25>)(https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentand employeetypes/articles/whichoccupationsareathighestriskofbeingautomated/2019-03-25)
+Article | Released 25 March 2019
+Potential automation of occupations may have an impact on the labour market in future. Which jobs are most at risk, and what do we know about the people who do these jobs?
+(<https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/publicopinionsandsocialtrendsgreatbritain/4to14may2023>)Public opinions and social trends, Great Britain: 4 to 14 May 2023 (https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/publicopi nionsandsocialtrendsgreatbritain/4to14may2023)
+Bulletin | Released 19 May 2023
+Social insights on daily life and events, including the cost of living, and shortages of goods from the Opinions and Lifestyle Survey (OPN).
+(<https://www.ons.gov.uk/businessindustryandtrade/business/businessservices/bulletins/businessinsightsandimpactontheukeconomy/8june2023>)Business insights and impact on the UK economy: 8 June 2023 (https://www.ons.gov.uk/businessindustryandtrade/business/businessservices/bulletins /businessinsightsandimpactontheukeconomy/8june2023)
+Bulletin | Released 8 June 2023
+The impact of challenges facing the economy and other events on UK businesses. Based on responses from the voluntary fortnightly business survey (BICS) to deliver real-time information to help assess issues affecting UK businesses and economy, including financial performance, workforce, trade, and business resilience.
+Public attitudes to data and AI: Tracker survey (Wave 2
+(<https://www.gov.uk/government/publications/public-attitudes-to-data-and-ai-tracker-survey-wave-2/public-attitudes-to-data-and-ai-tracker-survey-wave-2>)(https://www.gov.uk/government/publications/public-attitudes-to-data-and-ai-tracker-survey-wave-2/public-attitudes-to-data-and-ai-tracker-survey-wave-2))
+Report | Released 2 November 2022
+Building on Wave 1, this second iteration of the Public Attitudes to Data and AI (PADAI)
+Tracker Survey provides insight into issues including where citizens see the greatest value in data use, where they see the greatest risks, trust in institutions to use data, and preferences for data sharing.
+10. Cite this article
+Office for National Statistics (ONS), released 16 June 2023, ONS website, article, (<https://www.ons.gov.uk/businessindustryandtrade/itandinternetindustry/articles/understandingaiuptakeandsentimentamongpeopleandbusinessesintheuk/june2023>)Understanding AI uptake and sentiment among people and businesses in the UK: June (https://www.ons.gov.uk/businessindustryandtrade/itandinternetindustry/articles/under standingaiuptakeandsentimentamongpeopleandbusinessesintheuk/june2023)
+Contact details for this article
+Emily Farbrace, Jeni Warren and Rhian Murphy (<mailto:policy.evidence.analysis@ons.gov.uk>)policy.evidence.analysis@ons.gov.uk
+Telephone: +44 300 0671543

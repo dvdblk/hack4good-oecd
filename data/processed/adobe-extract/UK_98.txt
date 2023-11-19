@@ -1,0 +1,1021 @@
+Home (<https://www.gov.uk/government/publications/quantifying-the-uk-data-skills-gap>)Quantifying the UK Data Skills Gap Department for
+Digital, Culture,
+Media & Sport
+Department for Science, Innovation
+& Technology
+Policy paper Quantifying the UK Data Skills Gap - Full report
+Published 18 May 2021
+Contents
+(<>)Ministerial foreword
+(<>)Introduction
+(<>)Executive summary
+(<>)Dening data skills
+(<>)Measuring the need for data skills
+(<>)The demand for data skills
+(<>)Specic data skills needed (the skills gap)
+(<>)Training and development
+(<>)Conclusions/observations
+(<>)Methodology
+(<>)Appendix
+(<>)Data on Devolved Administrations and English Regions
+(<>)Bibliography
+(<>)Footnotes
+© Crown copyright 2021
+licence/version/3
+This publication is licensed under the terms of the Open Government Licence v3.0 except where (<https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3>)otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government- or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: (<mailto:psi@nationalarchives.gov.uk>)psi@nationalarchives.gov.uk.
+Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+This publication is available at https://www.gov.uk/government/publications/quantifying-the-uk-data-skills-gap/quantifying-the-uk-data-skills-gap-full-report
+Ministerial foreword
+As set out in the National Data Strategy
+(https://www.gov.uk/government/publications/uk-national-data-strategy/national-data-
+(<https://www.gov.uk/government/publications/uk-national-data-strategy/national-data-strategy#data-1-2>)strategy#data-1-2), data is now the driving force of the world’s modern economies. It fuels innovation in businesses large and small and has been a lifeline during the global coronavirus pandemic. Effective use of data can boost productivity, create new businesses and jobs, improve public services and position the UK as the forerunner of the next wave of innovation. Notably, scarce data skills have been critical in the deployment of research capabilities to the coronavirus response.
+Data skills are important not only for companies but also individuals. Data-literate individuals are more likely to benefit from and contribute to the increasingly data-rich environments they live and work in.
+I want to ensure that businesses across all sectors can get the data literate employees they need. Many companies are experiencing real difficulties in finding such employees. With demand growing, there is an urgent need to intensify efforts to boost the number of skilled workers. We should be looking to all areas of society to find people with potential and talent to fill these roles. I also want to ensure individuals have the opportunities to develop their data skills.
+To develop solutions and ensure we focus efforts in the right place, we need to better understand the demand and supply for data skills. To do this, and to inform Government policy, the Department for Digital, Culture, Media and Sport
+commissioned Opinium to undertake research. To inform their research Opinium contacted 1,045 businesses, 5,000 workers and 1,000 students in higher education or training across the UK.
+The research found that there is significant demand for data skills with UK companies recruiting for 178,000 to 234,000 roles requiring hard data skills. Almost half of businesses (48%) are recruiting for roles that require hard data skills but under half (46%) have struggled to recruit for these roles over the last 2 years. The supply of graduates with specialist data skills from universities is limited. While many companies undertake to train their own workers internally, half of all workers surveyed reported they had not received any data skills training within the last two years despite considerable interest in undertaking training.
+The government is already taking action to address the data skills gap. In Autumn 2020 DCMS and the Office for AI launched a degree conversion course programme in data science and AI. The programme will create at least 2,500 graduates over 3 years. The Department for Education is rolling out digital bootcamps in all English regions that include courses in data analysis. The National Data Strategy commits the government to test effective ways to teach foundational data skills to all undergraduates. We will also be looking at further ways, using the insight from the research, to help provide the data skills industry requires whilst recognising that this should be a joint effort between industry, government, academia and other training providers.
+I am delighted to lend my support to this research which provides detailed insight into the current supply and demand for data skills. This information can help address an increasingly important and urgent challenge - how to resolve the UK’s growing data skills gap.
+The Rt Hon John Whittingdale OBE MP
+Minister of State for Media and Data
+Introduction
+estimated that in 2016 the value of the UK data
+(https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_da
+In our hyper-digital world, data has become integral to the UK economy. With the ever-increasing advancement and adoption of technology, consumers and businesses are generating more data than ever before. As technological progress continues, the demand for ‘data skills’ is rising. The estimates of the data economy’s size vary depending on its definition. The Department for Digital, (<https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/807517/National_Data_Strategy__Review_of_commonly_quoted_statistics.pdf>)Culture, Media and Sport (DCMS) economy was between £61.3 billion and £73.3 billion ta/le/807517/National_Data_Strategy__Review_of_commonly_quoted_statistics.pdf). Some researchers believe that the full potential value of the country’s data economy could be considerably more. Digital Reality, a data centre provider, (<https://www.dataiq.co.uk/articles/articles/uks-data-economy-worth-ps73-billion-potential-greater>)estimates that the UK data economy could have potentially been worth as much as
+£125 billion in 2016
+ps73-billion-potential-greater)
+(<https://www.dataiq.co.uk/articles/articles/uks-data-economy-worth-ps73-billion-potential-greater>)(https://www.dataiq.co.uk/articles/articles/uks-data-economy-worth-.
+[footnote 1]
+[footnote 2]
+analysis.
+National
+As technology changes, the nature of jobs is changing too. This is increasing the demand for data skills: fewer good jobs are focused on routine tasks, and a greater number of jobs now require complex expert thinking and communication.For our businesses to remain globally competitive, the UK must improve its (<https://www.gov.uk/government/publications/uk-national-data-strategy/national-data-strategy>)capabilities in data Published in September 2020, the Data Strategy (https://www.gov.uk/government/publications/uk-national-data-strategy/national-data-strategy) recognises that the data revolution has implications not only for experts with advanced analytical skills, but for the entire UK workforce. While not every worker needs to become a data scientist, everyone will need a basic level of data literacy to operate and thrive in increasingly ‘data-rich’ environments.
+[footnote 3]
+Research has also shown that effective data use can deliver significant productivity benefits to a business and the wider economy. Nesta, an innovation foundation, has proven that data-active companies are more productive than those who are more reluctant to embrace data.A report by the University of Brussels and McKinsey (consulting firm) finds that more productive firms are also faster adopters of “big data” compared to their industry peers.(<>)[footnote 4]
+As strong data capabilities become more important, employers are looking for professionals with skills in the architecture, retrieval, and analysis of large sets of data. Research from DCMS predicts that data analysis will become the fastest growing digital skills cluster, increasing by an estimated 33% in the next five years.
+ta/le/807830/No_Longer_Optional_Employer_Demand_for_Digital_Skills.pdf)
+(<https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/807830/No_Longer_Optional_Employer_Demand_for_Digital_Skills.pdf>)It is therefore important for policy makers to understand the existing and future supply of skills in order to meet this demand in the UK (https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_da .
+A considerable body of research has demonstrated that the UK suffers from a data skills gap. However, there is disagreement over its size, and whether this gap will grow as a result of the UK’s post-Brexit relationship with the EU. In this context, DCMS has commissioned a quantitative assessment of the mismatch between the demand and supply of data skills, recommending regional and industry-specific measures wherever possible.
+Opinium Research was commissioned to:
+Define the ‘data skills gap’ in order to measure it.
+Measure and monitor the ‘data skills gap’, determine the origin of the skills gap, identify the sectors most in demand for skilled workers, and understand the current supply of skilled workers.
+Investigate drivers behind the demand for ‘data skills’
+The findings of this report are based both on desk research and quantitative online surveys. The researchers would like to thank Danya Long and Sandy Grom at DCMS, Dr Matthew Forshaw from the Alan Turing Institute and Newcastle University, members of the Data Skills Taskforce and Professor Pat Tissington Academic Director: Employability and Skills of Warwick University.
+Recruitment freezes experienced in the early stages of the COVID-19 pandemic may have impacted the estimates of data skills demand incorporated in this report. It is still too soon to understand the medium-term impacts of the pandemic, which could conceivably decrease or increase data skills training and recruitment. This will depend largely on whether companies try and afford to “catch-up” after losing revenue. Some businesses, particularly tech companies, have even thrived during the pandemic.
+Executive summary
+This report seeks to define the data skills gap in the UK. Our definition of data skills is “any skill that involves the gathering, interpretation and communication of data, often as part of a team”. We take a holistic approach recognising that, within individual businesses, skills needs are different and not met by single employees, but by teams working together. These skills cover a range of technical (hard) skills and generalist (softer) skills relating to good work practices in the context of data.
+To understand the UK’s data skills gap, we spoke to 1,045 businesses, 5,000 workers and 1,000 students in higher education or training across the UK. This large-scale study of businesses, employees and students provides evidence on: (i) the overall need for data skills in the UK economy; (ii) the specific needs for data skills, depending on business sizes and sectors; and (iii) where a future focus on training and recruitment might lie.
+The scale of demand
+Nearly half (48%) of businesses we interviewed were recruiting for data roles. However, this varied hugely depending on businesses’ size, with smaller businesses much less inclined to recruit for these roles. This survey was conducted during the COVID-19 pandemic. We further discuss the pandemic’s impact on recruitment in subsequent sections of the report. It is likely that the pandemic has lowered recruitment for data roles, with some companies pausing talent acquisition.
+This suggests that our estimates may underestimate the number of recruiting companies and data-specific vacancies in the UK. According to the ONS’ labour market survey
+(https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemploye etypes/bulletins/jobsandvacanciesintheuk/july2020), job vacancies in the UK between April to June 2020 hit their lowest level since the survey began in 2001, with vacancies decreasing in most sectors.
+When recruiting for data roles, businesses were most often looking for a “data analyst” (12% of businesses surveyed were recruiting for this role), especially at junior or entry level.
+There are potentially 178,000 to 234,000 data roles to be filled
+[footnote 5]
+[footnote 6]
+[footnote 7]
+Hard data skillsare relevant to a range of workers, not just those in specialist data roles. We estimate on this broader level that UK businesses, in need of hard data skills, are recruiting for 215,000-234,000 roles:215,000 roles in businesses that require hard data skills, beyond basic IT skills,and a further 19,000 roles in businesses that require only basic IT skills as a hard skill. Our broad definition of ‘data skills’ covers a range of roles, from more data-heavy specialist roles, where employees are using data for the majority of their work, to more generalist ones, requiring some hard data skills for a smaller proportion of the work. When narrowing down the definition to look at businesses recruiting for specific data specialist roles and those that require ‘hard’ data skills, we estimated 178,000 vacancies. In these roles, the majority of the work is centred around data and requires more advanced data knowledge.
+Almost half of businesses (46%) have struggled to recruit for roles that require data skills
+Over the last two years, just under half (46%) of businesses have struggled to recruit for roles that require data skills. The difficulty of recruitment differs by business size, although this is also the result of smaller businesses being less likely to recruit for data roles in the first place (explored further in the report). Over half (55%) of large and medium (54%) sized businesses have struggled to recruit, compared to three in ten (30%) of smaller businesses and one in ten micro businesses. Businesses tend to find it difficult to recruit for roles in higher demand . One in ten (9%) have difficulty filling a “data analyst” role, with a similar proportion (8%) findng it difficult to fill a “Head of Data” position.
+The skills UK businesses need
+Most businesses think they have the skills they need
+Despite the fact that almost half of businesses are seeking to fill data roles, almost three fifths (58%) think that their organisation has sufficient data skills to meet their current and future needs, while one in seven (14%) do not think they do, and over one in four (27%) are neutral on whether they do or not. Many companies may believe that they have the skills they need due to the lack of understanding of how data skills can benefit them in the future.
+Businesses need more information management skills, knowledge of emerging technologies and solutions, data communication skills, and database management skills
+Based on respondents’ views on the importance of data skills and their current levels of performance, we have identified the skills that companies most require. These are: information management, knowledge of emerging technologies and solutions, data communication skills, communication and database management. Overall, these cover a range of hard and soft skills.(<>)[footnote 8]
+Of the top three soft skills required by employers, the gap in communication and adaptability skills is more acute in medium-sized businesses; whilst the need for an “analytical mindset” was felt most strongly in small businesses.
+For hard skills, the gap in information management and data communication is particularly acute in small businesses. This may be caused by small businesses showing a generally lower performance across all data skills, compared to other business sizes. In particular, small businesses show poorer performance in hard data skills compared to medium and large sized businesses.
+Small businesses are significantly more likely than medium and large sized businesses to have no existing data roles, both at board level and at lower levels, with a third of small businesses having no existing data roles. They are also significantly less likely than medium and large businesses to be recruiting for any data roles.
+Around a quarter of businesses said that their sectors had insufficient data skills in machine learning (25%), programming (22%), knowledge of emerging technologies and solutions (23%), and advanced statistics (22%).
+The supply of data skills
+[footnote 9]
+This report considers two key sources of data skills supply: new talent and up-skilled workers. New talent primarily consists of students from Higher Education. However, the analysis of Higher Education Statistics Agency data prepared for the Data Skills Taskforceestimated that there is very limited scope, especially in the short run, for Higher Education to fill the gap alone. The estimated potential supply of data scientists from UK universities is unlikely to be more than 10,000 per year, based on data on graduates from UK universities between 2017-2018. It is therefore vital to look at upskilling the current workforce to try and plug the gap in demand for data skills.
+Future skills provision
+Employers are positive about their ability to identify and address training needs, often because it is happening internally
+Employers express positive attitudes to data skills training. Two thirds of employers report that they are confident in identifying skills gaps within their workforce (64%). A slightly smaller proportion of employers indicate that they are confident in finding resources to train their employees (57%).
+Training is most likely to be taking place internally. Over half (56%) of businesses surveyed said that their organisation preferred to develop data skills internally rather than outsource or recruit new workers with these skills. Despite this apparent preference for internal training, UK businesses are still recruiting for up to 234,000 data roles.
+In our survey, employers highlighted cost as one of the biggest barriers to data skills training. This was followed by difficulties in finding training that is relevant to an organisation and has practical relevance to an individual’s day-to-day job. Universities were not seen by employers as a significant source of data skills training for staff. Only one in seven (14%) businesses who have sent employees to data skills training in the last two years have put them through university taught programmes, while only one in fourteen (7%) have sent their employees to university continuing professional development courses.
+As set out above, employers cite high costs (29%) as the main barrier to seeking out more data related training for their employees. This rises to over a third (35%) for businesses in the South West, and a third in the North West, Yorkshire and the Humber and the East of England (all 32%). In fact, cost was identified as a key barrier across all sizes of business, although the size of its importance varies across them. Small businesses (10-49 employees) are more likely to say cost is a barrier (36%) compared to medium (30%) and large (28%) businesses.
+Interestingly, smaller businesses (49% of micro businesses vs 23% of large businesses) are more likely to say that there are no barriers, despite or perhaps because they are less likely to access data training for their employees.
+Three in five (60%) workers who have not received any data skills training said data skills do not add any significant value, compared to 19% of those who have received this type of training. This suggests that those who do receive training may be significantly more likely to see the value of data skills in their job. Similarly, our research shows that smaller companies are less likely to offer data skills training. Workers in smaller businesses are also less likely to say that data skills add significant value to their job or company. Two thirds (68%) of sole traders and half (48%) of those working in micro businesses (2-9 employees) said that there was no significant impact, compared to over a third (35%) of those in medium sized businesses (50-249 employees), and 36% in large businesses (250+ employees).
+For workers, cost and time constraints were the biggest barriers to accessing data skills training. Cost (29%) and lack of time (28%) were the most common barriers to
+data skills training cited by workers, followed by a lack of availability of the kind of training they are interested in (13%).
+Data skills training is felt to improve productivity and reduce stress, but there isn’t enough
+Workers told us that when data skills training was relevant to their day-to-day job, it improved their productivity or innovation and reduced stress levels. It is also apparent that the need for data skills is increasing, and that the majority of workers are interested in acquiring these skills. Seven in ten (70%) workers interviewed expressed interest in seeking out data skills training, and half (46%) stated that the need for them to have data skills has increased over the past five years (in contrast, only 4% said the need has decreased). In spite of this, we found that across all employees, half had not received any data skills training within the last two years. The lack of training despite high demand from both employers and employees suggests that the challenge of ensuring appropriate training provision is complex.
+The current priorities for businesses for specific hard data skills training are data ethics and basic IT skills. These also represent two of the top five data skills that employees currently receive training for, along with leadership, project management and industry expertise.
+For soft skills, communication, professionalism and problem solving are the priorities.
+The next generation
+There is a mismatch between students’ self-assessment of their industry or subject matter expertise and the reality. Businesses also want them to develop leadership and communication skills
+Around a quarter of businesses said that graduates who work with data need to develop their leadership (26%) and communication (23%) skills.
+Students (classified as any adults in higher education or training) are generally optimistic about their current skills and expect to improve further. For example, over two fifths (45%) of students rate their current industry/sector expertise as excellent/good, while over two thirds (68%) expect it to be excellent/good at the end of their studies. More than half expect to be good or excellent at advanced statistics (61%), data visualisation (69%), machine learning (59%) and knowledge of emerging technologies (68%).
+Half (49%) of those in higher education or training felt that the training or education path to becoming a data scientist is clear, while two fifths (39%) thought it was unclear.
+215,000–234,000: the number of roles that require the hard data skills that UK businesses are seeking.
+178,000: the number of specialist data roles that require technical or specialist knowledge that UK businesses are seeking.
+Top 10 roles organisations are currently recruiting for:
+ Data Analyst
+ Head of Data
+ Data Manager
+ Chief Technology Officer
+ Data Protection Officer
+ Chief Information Officer
+ Data Scientist
+ Data Technician
+ Chief Data Officer
+Top 10 skills that companies need to improve (based on a comparison of Importance and current Performance):
+ Information management
+ Knowledge of emerging technologies and solutions
+ Data communication skills
+ Communication
+ Database management
+ Data literacy
+ Data ethics
+ Analysis skills
+ Analytical mindset
+ Adaptability
+Top 10 skills businesses say their sector has insufficient skills in Top 10 skills that businesses say graduates are lacking
+Top 5 priority skills businesses want to improve in the context of working with data:
+ Communication
+ Professionalism
+ Problem-solving
+ Data ethics
+ Basic IT skills
+Top 5 data skills that employees currently receive training for:
+ Leadership
+ Basic IT skills
+ Project management
+ Industry/ sector expertise
+ Data ethics
+Defining data skills
+How existing literature defines data skills
+There is no agreed definition in the existing literature of what data skills encompass, or even exactly what constitutes a data scientist. Instead, there are several definitions that range from relatively narrow to relatively broad perspectives.
+[footnote 10]
+Literature that followed a narrow definition focused on expert technical skills. For example, The Data Economy Report defines the data economy as: “the financial and economic value created by the storage, retrieval and analysis - via sophisticated software and other tools - of large volumes of highly detailed business and organisational data at very high speeds”. With this definition, 3.3% of national employment is accounted for by the data economy.
+However, most literature focuses on a more comprehensive picture, combining technical skills with other skills that help to interpret data. The Model Workers report from Nesta & RSS argues that a data scientist should have programming
+and database skills to access data effectively. They should also have the statistical skills, according to the report, needed to extract insights from data, as well as the business knowledge to transform data insights into impacts. The report includes a profile of the ideal data analyst, who has a combination of hard and soft skills. (<>)[footnote 11]
+Similarly, reports from International Business Machines Corporation (IBM), SAS Institute Inc. and the Graduate Employability and University of Warwick Graduate Skills(<>)[footnote 12] show that a range of skills are required that could be grouped as ‘data skills’. These include analysing data, numeracy, information management, analysis skills, critical thinking, ethical use of data, the application of results to learning and decision making, and problem solving.
+[footnote 13]
+In line with this, the Data Governance, Data Literacy and the Management of Data Quality Report suggests that, taking all these definitions together, data literacy can be defined as a specific skill set and knowledge base, which empowers individuals to transform data into information and actionable knowledge by enabling them to access, interpret, critically assess, manage and ethically use data.
+[footnote 14]
+Likewise, in an attempt to assess the productivity and data capabilities of an organization, the Joint National Conservation Committee presents a report outlining a framework for the assessment of data skills within seven categories (requirements and business analysis, data governance, data management, access and security, data manipulation, analysis and modelling, and communication and visualisation) across three tiers (foundation, intermediate and advanced).
+recent article
+(<https://blogs.oracle.com/datascience/skills-that-linkedin-looks-for-in-a-data-scientist>)In a (https://blogs.oracle.com/datascience/skills-that-linkedin-looks-for-in-a-data-scientist), the social media company LinkedIn summarised what they look for when recruiting for a data scientist candidate.This involved a combination of hard and soft skills: “Ultimately, the goal is to take the insights generated from the analysis and effectively influence critical decision-making, which drives business impact. The ‘hard skills’ and ‘soft skills’ need to work together for the success of a data scientist.” They identified some key overarching skills required such as data wrangling/manipulation, statistics knowledge and statistical modelling/machine learning. Soft skills such as communication, project management and influence, and problem-solving abilities were also required.
+Our approach to measuring data skills
+Most of the literature refers to a wide definition of data skills. Real-world examples of recruitment also highlight a combination of soft and hard skills. As a result, this report uses a broad definition of data skills, but also sub-categorises them into smaller, more specific skills. This provides us with a range of distinct soft and hard skills to measure, and allows us to use a number of measures to understand data skills and, in particular, which skills are needed most. Our definition of data skills also accounts for the fact that employees in many organisations operate as a team, and no single person has all the necessary skills to meet an organisation’s data skills needs.
+In short, we define data skills as skills that involve the gathering, interpretation and communication of data, often as part of a team.
+We included the following skills as part of our survey:
+ Subject matter expertise
+ Industry/sector expertise
+ Collaboration (e.g. collaboration and teamwork)
+ Project management
+ Critical thinking
+ Creativity (generating unexpected and novel solutions)
+ Curiosity
+ Storytelling (developing a narrative using findings from data to provide actionable recommendations to business problems)
+ Adaptability
+ Analytical mindset (being able to formulate complex questions as analytical tasks)
+ Professionalism
+ Leadership
+ Communication
+ Basic IT skills
+ Information management (finding information, quality assurance, storing and sharing information)
+ Analysis skills (drawing conclusions/forecasts for the future by acquiring relevant information from different sources)
+ Data ethics (knowing the right way to handle data, i.e. generation, recording, curation, procession, dissemination, sharing and use)
+ Programming (R, Python, Java, SQL, etc.)
+ Database management (the organisation, storing and retrieval of data)
+ Data processing (the ability to process raw data using Excel or specialist software into a readable format, which can then be used to analyse the data)
+ Data literacy (ability to draw information out of data and turn it into actionable knowledge)
+ Data visualisation
+ Advanced statistics
+ Machine learning
+ Data communication skills (ability to communicate data outputs in lay terms)
+ Knowledge of emerging technologies and solutions
+ Problem solving
+We have also mapped out where these skills meet apprenticeship standards according to the criteria listed by the Institute for Apprenticeships. This information can be found in the appendix of this report.
+Measuring the need for data skills
+Current existence of data skills
+data professionals have been proven to be up to 10% more productive than their
+(<https://media.nesta.org.uk/documents/analytic_britain.pdf>)Companies that are supported by data-enabled infrastructure and a high number of counterparts (https://media.nesta.org.uk/documents/analytic_britain.pdf). In the last decade, economic growth has been hampered by financial crises, and there is also currently considerable uncertainty caused by the COVID-19 pandemic. In this context, a rigorous assessment and understanding of the current state of UK data skills is a necessary and useful step to improve the country’s economic future. (<>)[footnote 15] Later in this report, we examine the demand for and supply of data-related jobs in the UK. But before that, we must first take a wider view of the current prevalence of data roles in UK businesses.
+More than one in five employers (22%) in our survey do not have any data professionals employed within their organisation. There is a significant correlation between employment of data professionals and business size. Three in four (75%) micro businesses do not have anyone employed in a data role, compared to one in ten (9%) large businesses.
+Figure 1. Percentage of companies that do not have anyone in a data role by business size
+[footnote 16]
+[footnote 17]
+Overall, around three in ten businesses employ ‘generalist’data professionals (27%), whilst fewer have ‘specialist’data professionals in their workforce (17%).
+[footnote 19]
+Data roles are also not that common at a senior level, with only one in five (22%) businesses surveyed saying that they have a data role at a senior management level.(<>)[footnote 18] At a more junior level this drops further, with under a fth (17%) of businesses employing someone at a standard executive levelwithin a data role.
+The relative prevalence of each role is presented in the chart below:
+Figure 2. Percentage of companies with a given data role One in five data professionals are outsourced
+[footnote 20]
+Costs are a significant barrier to establishing data teams within a business. The relative shortage of people with sufficient data skills frequently leads businesses to outsource work, or stretch budgets to attract talent. “Data engineering” roles are paid the highest median salary, and have experienced the greatest growth in salary between 2013-2017 of all skills clusters.
+[footnote 21]
+Across the data roles we surveyed, on average,six in ten data professionals were employed on a company payroll (59%). Meanwhile, one in ten data professionals were outsourced domestically (9%), with a slightly smaller proportion of professionals outsourced internationally (7%). See Figure 3 for more detail. A further 3% of data roles were outsourced through a mixture of domestic and international recruitment. Generally, rates of employment and outsourcing are unaffected by a role’s seniority, though chief executives employed in data roles are
+around 10% more likely to exist on a company’s payroll compared to other data roles.
+The breakdown of recruitment methods by relative levels of seniority are presented in the chart below:
+Figure 3. Percentage of data roles by method of recruitment – by seniority
+Typically, these trends are consistent amongst all surveyed employers. Those working within the public and third sectors have a greater tendency to keep data professionals on an internal company payroll (an average of around 80%). In the private sector, skilled data professionals were somewhat less likely to be employed on internal payrolls.
+Machine learning and artificial intelligence specialists are much less likely to be on a company payroll than other data roles, which are more likely to be filled through domestic outsourcing. The percentage differences are presented in the chart below.
+Figure 4. Top 5 roles least likely to be on payroll, % difference vs. UK average Two thirds of companies have someone at board level responsible for data
+[footnote 23]
+As employers prepare their businesses for the “data economy”, the appointment of a Chief Data Officer (CDO) is often considered as a signal of intent to develop the company’s data capability. Researchers have found that businesses with a CDO are twice as likely to have a clear digital strategy as those without.(<>)[footnote 22] Around two thirds of businesses with a CDO self-report that they outperform rivals in terms of market share and data-driven innovation.
+Our research has found that two thirds (67%) of businesses have an employee at board level overseeing or focused on the application of data, even if they do not have the title of CDO. Employees overseeing the application of data may have other responsibilities. The existence of a person in these roles is strongly correlated with internal resource. Large businesses (75%) are significantly more likely to have a data-focused employee at board level (compared to 34% of micro-businesses). Public (71%) and private (67%) sector businesses are also more likely to have a board-level data specialist than third sector businesses (61%).
+Figure 5. Existence of board-level employees responsible for data – by business size and sector Summary and implications
+The current state of data roles and skills in UK business is highly varied, and is particularly impacted by business size.
+Smaller businesses are much less likely to have an employee in a data role, and are less likely to have someone at a board level overseeing data. This suggests they are missing opportunities to make better use of harnessing
+data. Across all businesses, the widespread outsourcing of ‘specialist’ data professionals casts doubt over the preparedness of UK businesses, and the ability of companies to develop this expertise internally.
+There are fewer qualified applicants for specialist roles than generalist roles, meaning that wages in specialist roles are likely to be higher. These higher staff costs have the potential to be a significant barrier for UK businesses.
+The demand for data skills
+As technology continues to advance and the volume of available data expands, demand for data skills is increasing. This demand is further accelerating as new technologies such as cloud infrastructure services are reducing the cost of storing and managing data.(<>)[footnote 24] More workers will need at least a base level of data skills to adequately perform their jobs.
+[footnote 25]
+Levels of demand for data skills vary across different organisations, and depend on how data is used during the day to day work. Nesta’s ‘Skills of the Datavores’ report identified four groups based on their research of 400 companies.Datavores make up 16% of companies; they make heavy use of data and analysis for decision making. Data builders (22%) use ‘big’ datasets requiring dedicated servers or ‘possibly multiple’ clusters for parallel processing. The third group is data mixers (31%); these are companies that collect and combine data from various sources. The final group is Dataphobes (30%); companies that work with small datasets, few data sources, and do not use data or analysis to make decisions.
+Very little in the existing literature provides a clear number specifying the demand for data jobs, particularly in the UK. In the US, an IBM/Burning Glass report suggests that by 2020 the number of data and analytics jobs will be almost 3 million, and job vacancies for ‘data scientists and similar advanced analytical roles will reach 61,799’.(<>)[footnote 26] 3 million jobs equates to roughly 2% of the US workforce. Loosely applied to the UK, 2% would equal roughly 650,000 jobs in the UK.
+[footnote 27]
+The estimated 61,799 advanced analytical roles suggested in the IBM/Burning Glass report ‘represents just 2% of the projected demand across all job roles requiring data and analytics skill’.This lack of demand highlights a need for research into existing levels of demand for data skills in the UK. The next section of this report quantifies the demand for data skills by looking at recruitment needs.
+Hiring/roles needed (the recruitment gap)
+To understand the need for data skills in the UK, and establish the existence - or lack thereof - a recruitment gap, we first need to understand current recruitment patterns. Each business in our survey was asked to tell us how many data skills roles they were currently recruiting for, and we then extrapolated how many data skills roles businesses are looking to fill across the UK.
+Half of businesses are recruiting for roles that require data skills
+[footnote 28]
+Half (48%) of the businesses we spoke to were recruiting for roles that required data skills. The most common type of data role sought by businesses was a data analyst (12% of businesses were recruiting for this role). This is one of the most common roles that currently exists, and likely encompasses many junior or entry-level roles. After this, the most common roles being sought were fairly senior positions; one in ten (10%) were recruiting for a Head of Data, with similar proportions recruiting for a Data Manager (9%), a Chief Technology Officer (8%) and a Data Protection Officer (8%). It is important to note that the need for data skills is not only confined to people in specialist data roles; virtually all white-collar workers will increasingly need to have a basic understanding of data. As mentioned in the Analytic Britain report, “The data revolution has implications…for the entire workforce. We all need to become more data literate to operate successfully in increasingly ‘data-rich’ environments.”
+Figure 6. Percentage of companies currently recruiting for each of the following roles
+There were regional variations in desired positions. A data analyst was the most common type of role being sought by businesses in the North West, East Midlands (both 15%), London (16%) and South East (13%). Meanwhile, in Scotland, the most common role was data scientist (19%). Businesses in the West Midlands were most likely to be recruiting for a Head of Data. In contrast, businesses in the East of England were most likely to be recruiting for either a Head of Data or a Chief Technology Officer (both 8%).
+There were also variations across business sizes. The smaller a business, the less likely they were to be recruiting for any of these roles. Nine in ten (91%) micro-businesses were not recruiting for any of these roles, compared to two thirds (67%) of small businesses, just under half (46%) of medium-sized businesses and two fifths (40%) of large businesses.
+Number of roles sought by UK businesses
+The number of data roles that UK businesses are seeking depends on our definition of data skills. Referring to the wide and narrow definitions of data skills identified in the existing literature, we have arrived at two figures to provide a fair range.
+[footnote 29]
+Hard data skills are relevant to a range of workers, not just those in specialist data roles. We estimate, on this broader level, that UK businesses in need of hard data skills are recruiting for 215,000-234,000 roles incorporating such skills.As previously mentioned, within this wider definition there will be a range of roles, from the more data heavy specialist roles (where they are using data for the majority of their work), to more generalist roles that (requiring some hard data skills that may only make up a smaller proportion of their work). Other research has argued that as data skills are relevant to a wide range of workers, all workers
+should have a base level of data skill, as it affects every business. Steven Miller, a previous Talent & Skills Ecosystem Strategist at IBM, argues that data does not just impact IT and tech jobs, but a wider range of roles, such as sales, marketing, manufacturing etc. Consequently, ‘data and analytics literacy must become an expectation across all curricula, regardless of the ultimate field or degree pursued’. (<>)[footnote 30]
+Narrowing the definition to look at those recruiting for specific data specialist roles and businesses requiring ‘hard’ data skills, we estimate that UK businesses are recruiting for 178,000 data specialist roles. In these roles, the majority of the work will centre around data, and the job would require more advanced data knowledge.
+Just over a fifth of businesses (22%) said they require Basic IT skills. This is perhaps unsurprising, with many modern white-collar jobs requiring at least a basic understanding of IT. After Basic IT skills, the top 5 skills needed are all soft skills; a fifth (21%) of businesses said they were in need of project management or problem-solving skills, and over one in six (18%) were in need of critical thinking skills and professionalism. This is followed by hard data skills, with the same proportion saying they need analysis and database management skills (both 18%).
+Figure 7. Top 10 skills UK businesses are in need of
+The skills required vary slightly by company size. The most commonly cited skills required for micro businesses (2-9 employees) and medium sized businesses (26%) are Basic IT skills. For small businesses (10-49 employees) it is communication skills (22%) and for large businesses (250+ employees) it is problem solving skills (24%).The biggest variations by business size are for those who do not require any data skills. Micro businesses (9 or fewer employees) and smaller businesses are more likely to say they do not require these skills (46% and 25% respectively), compared to medium sized and large businesses (13% and 15% respectively). The next chapter also corroborates this, with micro businesses being less likely than larger businesses to say that data skills are important to their business. There were some regional variations in the proportion of businesses that said they needed particular skills.
+Businesses in the East of England were more likely to say they are not in need of any of these data skills (38% vs the average of 20%).
+Meanwhile, businesses in London were more likely to require basic IT skills (27% vs the average of 22%) and database management skills (24% vs the average of 18%).
+Those based in Yorkshire and the Humber and the Southwest were more likely to need professionalism (both 25% vs the average of 18%).
+Conversely, businesses in the North West tended to be more in need of hard data skills compared to the national average: data processing (22% vs average of 17%), data ethics (20% vs average of 15%), knowledge of emerging technologies and solutions (21% vs average of 14%), subject matter expertise (19% vs average of 13%), and machine learning (18% vs average of 13%).
+Those in the East Midlands were more likely to need data visualisation skills (22% vs average of 14%), data communication skills (22% vs average of 14%),
+and collaboration and creativity skills (both 18% vs average of 12%)
+Businesses in the West Midlands were more likely to need advanced statistics skills (19% vs 14% respectively)
+Barriers to recruitment
+Just under half of businesses have struggled when recruiting for roles requiring data skills in the last two years
+Over the last two years, just under half (46%) of businesses have struggled to recruit for roles requiring data skills. Difficulties in recruiting vary by business size, although this is also the result of smaller businesses being less likely to recruit for data roles. Over half (55%) of large and medium (54%) size businesses have struggled with recruitment compared to 30% of smaller businesses and one in ten micro businesses.
+Figure 8. Percentage of UK businesses who have struggled to recruit for a data role over the last two years – by business size
+Businesses in the Midlands have faced particular difficulties filling roles; over half (55%) of businesses in the Midlands have struggled to recruit for data roles in the last 2 years compared to the national average of 46%. Public sector companies were also more likely to struggle with this compared to private sector companies (58% vs 43% respectively).
+Looking at only the companies that have previously tried to recruit for data roles, business size again has an impact on recruitment. Just under half (46%) of micro/small companies that have previously tried to recruit for data roles have struggled with filling a post in the last 2 years, compared to seven in ten (69%) medium sized businesses and two thirds (66%) of large businesses.
+[footnote 31]
+As other research has shown, this struggle with recruitment leads to skills-shortage vacancies (i.e. the percentage of vacancies that are difficult to fill due to skill shortages). The Employer Skills survey in 2017 found that total vacancies, as a result of all skills shortages, have remained stable at 22% since 2013.
+The most common roles that businesses have struggled to fill generally mirror the most common roles being recruited for. One in ten (9%) have struggled to fill a data analyst role, with a similar proportion (8%) struggling with recruiting for a Head of Data. While the struggle for both is a concern, the difficulties in recruiting for a Head of Data (or other senior roles for which there is only one person in the organisation responsible for that area) is particularly important, as the impact of not having a Head of Data (where one is sought) is likely to have a greater impact on the data capability and vision of an organisation as a whole.
+Figure 9. Percentage of UK businesses who have struggled to recruit for the following data roles in the last two years vs those who are currently recruiting for this role
+Success rates in recruitment depend on the size of the business. Micro/small businesses (28%) that have struggled to fill data roles in the past two years, are more likely to have struggled with recruiting for a Head of Data in comparison to medium (19%) and large businesses (16%). Currently, one in five (20%) micro/small businesses are recruiting for a Head of Data role, compared to one in seven (14%) of medium sized businesses and over a fifth (21%) of large businesses. This indicates that, while a similar proportion of large and micro/small businesses are hiring for a Head of Data, micro and small businesses are finding it harder than large businesses to recruit for this type of role.
+However, this is not the case for all roles. A similar proportion of micro/small and large businesses are currently recruiting for an Intelligence Analyst (both 11%).
+Financial costs and a lack of individuals with the right skills are the biggest barriers to establishing data competency in a business
+[footnote 32]
+We asked businesses about their ability to build data teams (and not just hire individuals). Teams of individuals with complementary skills are usually required as it is unlikely that any one individual will have the perfect mix of technical and soft skills required.
+For many businesses in our survey, financial costs and a lack of people with the right skills were the most significant barriers to establishing a data role or team within their organisation. Over a fifth (22%) of businesses in our survey said that salary expectations of new hires were a barrier, while a similar number (21%) mentioned that the financial costs of implementation were a limitation.
+Figure 10. Biggest barriers to establishing a data role/team in UK businesses
+There are regional differences for the most significant barriers. The salary expectations of new hires was the biggest barrier in the East Midlands, West Midlands (both 30%), South East (23%) and South West (21%). For businesses in the East of England (25%) and London (26%), the financial cost of creating a data role or team was the biggest barrier. Conversely, the top barrier for businesses in Scotland (31%) and the North West (24%) was a lack of workers with the right level of experience and skills. Businesses in Yorkshire and the Humber are most likely to say that the limitations of current IT architecture are the biggest barrier. Third sector businesses (25%) were also the most likely to mention limitations of IT architecture, while businesses in the private (22%) and public sector (26%) mentioned salary expectations of new hires as the most significant obstacle.
+Perceptions of barriers also vary according to business size, although this can be partly attributed to the fact that many smaller businesses are not trying to establish these teams or roles at all. Just under half (48%) of micro businesses are not establishing data roles or teams, compared to a fifth (20%) of small businesses, one in ten (11%) medium sized businesses and one in fourteen (7%) large businesses.
+Salary was one of the most commonly cited reasons for businesses struggling to recruit over the past 2 years:
+“There seems to be intense competition for talent at the moment and I don’t think our salary rates are competitive enough.”
+“My company significantly underestimated the salary requirements of these specialist positions.”
+”Salaries in [the] charity sector not being competitive.”
+“We are a small firm and these roles are scarce and expensive.”
+“There is never enough funding for these high-end roles.”
+[footnote 33]
+It should also be noted that smaller businesses often struggle with funding for investment due to difficulty of securing finance from lenders.
+Key barriers to company recruitment included; a lack of people with the right level of skill and experience (20%), a lack of people with the right mix of data skills (20%), with one in six (17%) citing the extensive training required for new recruits. This mirrors findings from other surveys and reports. The Model Workers report found that four in five companies were experiencing difficulties finding the people that they needed, particularly businesses outside of London. Overall, people with good data skills were in short supply, and the candidates available in the labour market lacked the right skills and experience. Additionally, available data talent often lacked the right combination of skills: good analysts often cannot code, and good coders often cannot analyse.(<>)[footnote 34] The Making the Most of Data report also found that employers struggle with finding people with the right mix of skills. (<>)[footnote 35]
+Companies that struggled to recruit during the past two years gave similar responses:
+“There [are] not many people qualified to work with big data”
+“Not many people are getting degrees in that sector”
+“Less people are training for this type of job and not enough qualified ones are available”
+“Because there are many people whose majors do not meet the requirements of our organization. A lot of people apply for jobs that don’t match their majors”
+“Lack of high level qualifications. We seek personnel who have achieved a master’s degree and upwards in the field of computer science”
+Higher education qualifications are a core requirement when recruiting for these positions, particularly for more specialist data roles.
+A lack of candidates with the right mix of skills and expertise was another commonly cited reason for struggling with recruitment:
+“Our market is quite niche, and finding good data analysts who can put things into context has been difficult.”
+“There is a shortage of well-qualified data workers with sector knowledge”
+“There are not many experienced data analysts available or have the correct sector experience“
+“We want people with experience to do this job, and not just a degree. Data is something confidential, and we don’t want to take any kind of risk”
+“There are simply too few people with the right skillset available. Those that are tend to want unrealistic benefits packages that are outside of the remit for our company.”
+A shortage of people with the right level of experience, skills and qualifications has meant that businesses must compete over those that do tick all the right boxes:
+“We are in a competitive market and require very specific skills for our industry so there aren’t that many candidates with the right combination of skill and experience that are looking for new positions.”
+“Few qualified people are available in my industry, there is fierce competition to fill roles/vacancies as they arise in changing circumstances.”
+“A role that all organisations need and finding someone with the right experience was hard as the market has been very competitive in this area over the last few years.”
+Other reasons for recruitment challenges
+There was also a sense that a business’s location led to difficulties with recruitment, with some areas being more desirable than others.
+“There [aren’t] many people with the right qualifications or work experience in our local area” “No one around wales has the qualifications”
+“Because it is a small town in the north and not many people trained for these roles outside of big cities.”
+“We think it is down to location and in general, most engineers being based in main cities such as London, Birmingham or Manchester.”
+“We can’t pay enough and no one wants to live in mid Wales doing this.”
+As well as location, there was a sense among some businesses that certain types of organisations and sectors were less attractive than others, making it difficult to fill data roles:
+“Not many people want to work in the health service.”
+“Few people with the required skills want to work in education as they can command better salaries and career prospects in other sectors.”
+“Not many willing to work for a private school.”
+Some businesses also mentioned that Brexit was making it harder for them to recruit and keep talent:
+“People who come from [the] EU now [don’t] want to do it up to Brexit.”
+“Many of our non-British citizen staff have gone home because of Brexit. We don’t train for these skills in the UK.”
+“We have struggled to recruit for data roles because [of the] UK getting out of [the] EU.”
+Many businesses mentioned that they were struggling to recruit for data roles because there was a shortage of people applying for those roles. Certain businesses even suggested that no-one wants to do those roles. To overcome this recruitment barriers, businesses have reacted in various ways, including by re-advertising a position, with many struggling to find alternatives:
+“Had to re-advertise as not enough interest”
+“[W]e have had to redefine the role duties 2 or 3 times to try and attract more people for the post”
+“The suitable person has not applied. It is difficult to know why and how we can get around this.”
+[footnote
+Almost one in five (18%) businesses in our survey mentioned that a lack of local staff expertise was a barrier to establishing a data team or role. The Model Workers report by Nesta & the Royal Statistical Society also found that some companies that were finding this to be a barrier were offshoring or considering offshoring their data analysis capabilities to a location outside the UK (e.g. China or India), where data experts were often cheaper.(<>)[footnote 36] Our survey found that one in ve data professionals in UK businesses are outsourced. Previous research has revealed that a lack of local expertise does create barriers to recruitment for some businesses. This can prevent businesses from establishing experienced data (<>)teams, as they often struggle to understand the specialist roles they require.37]
+[footnote 38]
+Existing literature also identifies the education system as one reason for companies not finding the data skills they are seeking. The State of the Nation report by the British Academy and the National Institute of Economic and Social Research (NIESR) states that data governance is not given sufficient prominence in the academic syllabus, despite the ethical handling of data being an important issue. The risks associated with data (i.e. GDPR, IT security, and ethical considerations) was a barrier for (14%) of companies in establishing a data function.This highlights the importance of a business having a basic level of data knowledge in order to mitigate these risks. Some businesses also cited lack of rigour in our education system as a barrier:
+“There is no rigorous maths education in this country whatsoever. All of our highly specialized maths-oriented roles require overseas recruits.”
+For some businesses, the COVID-19 pandemic has created further difficulties in recruiting individuals with data skills. One in ten (10%) businesses that have struggled to recruit in the last two years cited this reason for their difficulties. Some businesses paused recruitment or were too afraid to hire. As many UK businesses had to close and put workers on the government’s furlough scheme, it is perhaps not surprising that the pandemic has led to a pause in recruitment. With the economic fallout of Covid-19 yet to be fully realised, it may be a while until many (<https://www.business-live.co.uk/enterprise/jobs-market-on-pause-coronavirus-18060393>)rms are ready to hire again. A KPMG and REC report on Jobs: South of England (https://www.business-live.co.uk/enterprise/jobs-market-on-pause-coronavirus-18060393) showed that the coronavirus pandemic resulted in a significant decrease in hiring across the region in March 2020, with the fastest rate of reduction in over 11 years. Despite this, half (48%) of companies in our survey were still recruiting for data roles. Some firms that continued to advertise vacancies during the pandemic found that fewer people were applying, or that people were not willing to move during lockdown. However, the most commonly cited reasons for difficulties in recruitment are the longer-standing issues of financial cost and a lack of the right talent.
+Many students aren’t clear on how to become a data scientist
+It is also important to look at barriers from the perspective of the people who will fill these roles. Students are one key source of recruitment. In our survey of students, half (49%) of those in higher education or training felt that the training or education path to become a data scientist is clear, while two fifths (39%) thought it was unclear, and one in eight (12%) were not sure.
+Lack of clarity is higher among certain demographics. Regionally, the lack of clarity is highest in Scotland (48%), the South East and South West (44%). Females are more likely than males to say that the path is unclear (43% compared to 34%). Younger students are also more likely to be unclear (49% of those aged under 21 vs. 31% of those over 21). In line with this, undergraduates (44%) are more likely to feel unclear than Master’s and PhD students (38% and 26% respectively). Meanwhile, almost a third (32%) of apprentices felt unclear, as did over a third (37%) of BTEC students. It is apparent that an awareness gap exists. This gap
+needs to be addressed when informing students about education and career choices that could lead to a future career in data related roles.
+Of those students who said that the path to becoming a data scientist was unclear to them or they were not sure, two in five (39%) had not sought advice to guide them on this, while three in five (61%) had. Students sought guidance from a range of sources. These include the internet (39%), speaking to careers advisors at university (15%), and speaking to university staff (15%). This suggests that there is more that could be done to improve guidance on how best to pursue a data related career.
+Figure 11. Chosen channels of information about the path to becoming a data scientist – among businesses who feel unclear about it
+Specific demographics are more likely to seek advice than others. Males who are unclear or unsure about the path to becoming a data scientist are more likely to seek information than their female counterparts (68% of males vs 56% of females).
+As well as being the region with the lowest level of clarity, those in Scotland are also less likely to seek information than other regions (47% in Scotland, compared to averages of 60%+ in other regions). Ethnic minorities are also more likely to seek information than those from a white background (71% vs 56% respectively). Those from social backgrounds C2DE are also more likely to seek information than those from ABC1 (67% vs. 56% respectively).
+Across all types of study, those who are unclear or unsure about the pathway to become a data scientist are most likely to turn to the internet for more clarity. Those studying for a Master’s degree are more likely to turn to a careers advisor at their university for guidance (21%) than those at an Undergraduate level (14%).
+Summary and implications
+There are between 178,000-234,000 data roles in the UK that businesses are currently being recruited for, depending on whether a broad or narrow definition of “data skills” is used. However, many companies have found it difficult to fill these roles, with financial costs and a lack of the right combination of skills being key reasons.
+Furthermore, many students do not feel that there is a clear pathway to becoming a data scientist, even when they have sought guidance.Together these act as barriers to UK businesses building efficient data capabilities, which in turn adversely impacts on their performance and decision making.
+Specific data skills needed (the skills gap)
+The supply of data skills
+[footnote 39]
+A review of curriculum content and mathematical literacy demonstrates the need for rapid change to ensure a “fully data-literate population”. Despite the UK’s well-developed economy, the country is frequently positioned mid-rank in mathematical skills – alarmingly, the numeracy skills of 75% of Britons aged 16-65 may prevent them from comparative price analysis of products and services, as well as household budgeting.Unlike our higher performing peers, research indicates that the UK does not place quantitative skills at the core of curriculum content. In tertiary education specifically, researchers highlight non-standard skills in statistics from comparable degrees across institutions. This creates a disempowered graduate workforce, who lack confidence in the application of these skills, with troubling implications for business productivity. Arguably, this may be exacerbated by an under-skilled management population within the workforce, as 58% of people in “higher managerial and professional” occupations were found not to have numeracy skills above level 2.(<>)[footnote 40]
+Student confidence
+Many students (45%) surveyed did not feel well-equipped to carry out future data roles when they enter or re-enter the workplace. This feeling was highest among BTEC students (53%) and Foundation degree students (50%). However, a high proportion of apprentices (46%), undergraduates (46%) and Master’s students shared this perspective (44%). Those pursuing a PhD were some of the least likely to concur (39%).
+Over a third (35%) of workers in our survey said that their data skills left them feeling ill-equipped to perform their current role. Younger workers are more likely to feel a similar way than older workers (38% of 18-34 year olds vs. 36% of 35-54 year olds vs. 31% of those aged 55+). Workers in medium (38%) and large (37%) businesses were also more likely to agree compared to workers in micro (32%) or small (34%) businesses. Interestingly, senior members of staff were also more likely to say they did not feel well-equipped, in comparison with staff occupying more junior positions. Half (49%) of senior managers and directors did not feel well-equipped, compared to almost two fifths of middle managers (39%) and junior managers or supervisors (37%) and a third (34%) of executive workers with no managerial responsibility. Ethnic minorities (42%) reported higher levels of not feeling well-equipped than workers from a white background (35%).
+When asked about the future,over a third (35%) of workers stated that they do not feel well equipped with data skills to perform their role over the next five years.
+Measuring the data skills gap
+We focused on two metrics in our survey to measure the supply, demand and the data skills gap in the UK: Importance and Performance.
+Employers in our survey evaluated how important each skill, that makes up our definition of data skills, is to the business’ day-to-day functioning and evaluated how their organisation performs for each skill at an organisation/team level.
+The employers answered the question for each skill on a 4-point scale, ranging from ‘Not at all important’ to ‘Very important’ with an optional ‘Don’t know’ opt-out. The points ‘Very important’ and ‘Somewhat important’ were then added together to represent Importance.
+The Performance question asked employers across the UK to evaluate how their organisation performs at each skill at an organisation/team level. The employers answered each skill question on a 5-point scale, ranging from ‘Very poor’ to ‘Excellent’ with two opt-outs: ‘Don’t know’ and ‘NA / Not applicable for our organisation’. We used the latter to exclude those to whom a particular skill was not applicable from the Performance calculation for that particular skill, so as not to judge a company on a skill that does not apply to them. The points for ‘Excellent’ and ‘Good’ were then added together to represent Performance.
+From this, we have created three measures. The Importance measure shows the average importance of all skills for employers– which may vary across regions, industries and business sizes.
+The Performance measure represents the average (mean) performance of all skills for employers. The data skills gap is a measure where Performance is subtracted from Importance. This shows the perception gap between Importance and Performance to show where gaps exist in the relative Importance and relative Performance of each skill.
+We take a look at variations in the three measures by region, industry and business size below.
+NB: The industries shown below were selected due to having a large enough base size to be reported on.
+The data skills’ Importance, Performance, and gap measures by region
+When we look at Importance by region, it is clear that the importance of data skills is in line with national needs in regions like the North West, Yorkshire and the Humber, East Midlands, West Midlands, South East, South West, Wales and Scotland. However, data skills are less important in the East of England which has an Importance measure of 70%. London sees a marginally higher need for data skills with an Importance measure of 86%, as does Northern Ireland (85%, note the low base size).
+Figure 12. Percentage of employers saying that data skills are very or somewhat important to their company – by region
+When we look at Performance by region, the picture is different. While the North West, Yorkshire and the Humber, South West, North East and Scotland are in line with the national average, data skills performance differs across the other regions. The West Midlands, Wales, Northern Ireland and London have the highest percentages. The East Midlands, East of England and South East regions see relatively worse performance than the national average.
+Figure 13. Percentage of employers saying that data skills are performed very or somewhat well in their company – by region
+Putting these data points together, we can see that when we account for Importance and Performance in each region, the size of the data skills gap varies across regions. At the lower end, regions such as the North West, Yorkshire and the Humber, West Midlands, South West, Wales and Northern Ireland have a small data skills gap. At the higher end, the East Midlands seems to suffer from the most significant data skills gap in the UK, followed by the South East, North East and London.
+Figure 14. Data skills gap calculated by subtracting the Performance measure from the Importance measure as identified by employers – by region
+Data skills Importance, Performance, and gap measures by industry
+When we look at the Importance measure by industry, the difference between industries is relatively small. Only Computer Services, Hardware and Software and Manufacturing sectors stand out as having a larger need for data skills than other industries.
+Figure 15. Percentage of employers saying that data skills are very or somewhat important to their company – by industry
+When we look at the Performance measure by industry, Manufacturing has the highest Performance measure (75%), followed by Banking and Retail (both 72%).
+Figure 16. Percentage of employers saying that data skills are performed very or somewhat well in their company – by industry
+Putting these data points together, we can see that when we account for Importance and Performance in each industry, the size of the data skills gap is more varied. At the lower end, industries such as Banking and Retail have a smaller data skills gap, while the size of the gap in Computers, Education and Manufacturing suggests that these industries would benefit from increased investment in data skills training or hiring.
+Figure 17. Data skills gap calculated by subtracting the Performance measure from the Importance measure as identified by employers – by industry
+The data skills Importance, Performance, and gap measures by business size
+Looking at the Importance measure by business size, it immediately becomes clear that the Importance of data skills for micro businesses is lower than for other business sizes, while large companies report a bigger need.
+Figure 18. Percentage of employers saying that data skills are very or somewhat important to their company – by business size
+When we look at the Performance measure by business size, we see that Performance is lower for small businesses relative to larger businesses.
+Figure 19. Percentage of employers saying that data skills are performed very or somewhat well in their company – by business size
+Putting these data points together, we can see that when we account for Importance and Performance, micro businesses have a negative measure – this is because Performance in micro businesses is higher than the importance of each skill. On the other hand, small and medium businesses have quite a large gap in data skills.
+Figure 20. Data skills gap calculated by subtracting the Performance measure from the Importance measure as identified by employers – by business size
+Exploring the relative Importance and Performance of individual skills
+Looking at the different skills individually, the top 5 skills that have the biggest gap between Importance and Performance (as indicated by UK employers) are ‘Information management’, ‘Communication’, ‘Data communication skills’, ‘Knowledge of emerging technologies and solutions’ and ‘Data literacy’. These top 5 skills are a mix of soft (e.g. ‘Communication’) and hard (e.g. ‘Information management’) skills, indicated below in pink and green respectively.
+Table 1. Top 5 data skills that have the biggest gap between Importance and Performance
+|    | Unnamed: 0                                       | Importance     | Performance     | Gap     |
+|---:|:-------------------------------------------------|:---------------|:----------------|:--------|
+|  0 | Information management                           | 87%            | 68 %            | 19%     |
+|  1 | Communication                                    | 89%            | 71%             | 18%     |
+|  2 | Data communication skills                        | 84%            | 66%             | 18%     |
+|  3 | Knowledge of emerging technologies and solutions | 80%            | 62%             | 18%     |
+|  4 | Data literacy                                    | 84%            | 67%             | 17%     |
+The below section explores the need for both soft and hard skills in more detail.
+Gaps exist across all soft skills, but most notably for ‘communication’, ‘adaptability’ and ‘critical thinking ‘
+Gaps between Importance and Performance exist across all soft skills.
+Figure 21. Percentage of employers saying that the following soft data skills are very or somewhat important to their company (Importance), versus the percentage of employers saying that data skills are performed very or somewhat well in their company (Performance)
+C1. How important is it that those working with data possess the following skills for the day-to-day functioning of the business? Very/somewhat important
+C2. How would you rate your organisation’s performance for each of the following skills? Excellent/good, excluding those to whom skill not applicable
+Base: 1,045 UK employers
+The skills that have the biggest disparity between Importance and Performance, are ‘communication’, ‘adaptability’ and ‘analytical mindset’ – with ‘industry/sector expertise’, ‘curiosity’ and ‘leadership’ seeing less of a gap between Importance and Performance.
+Table 2. Percentage of employers saying that the following soft data skills are very or somewhat important to their company (Importance) versus percentage of employers saying that data skills are performed very or somewhat well in their company (Performance) – ranked by size of gap
+C1. How important is it that those working with data possess the following skills for the day-to-day functioning of the business? Very/somewhat important C2. How would you rate your organisation’s performance for each of the following skills? Excellent/good, excluding those to whom skill not applicable
+Base: 1,045 UK employers
+The gap for the top 3 soft skills is driven by different company sizes, sectors and industries. For example, the gap for ‘communication’ is larger in medium sized businesses (23%) and those in the public sector (24%) and local government (29%), compared to the UK average (18%). ‘Communication’ was also seen to be lacking more in the education industry (25%), as well as computer services, software and hardware (29%).
+Looking at ‘adaptability’, the gap between Importance and Performance was seen more in medium sized businesses (22%), local government (27%) and manufacturing (29%), compared to the UK average of 16%.
+Finally, the gap for ‘analytical mindset’ was most strongly felt in small businesses (26%) and education (27%), compared to the UK average of 16%.
+UK workers believe they meet employers’ demand for communication skills and adaptability but say they lack an ‘analytical mindset’ and ‘project management’ skills
+Looking at individual workers’ confidence in their Performance, it’s clear that while workers are confident in their ‘communication’ and ‘adaptability’ skills, a large gap exists for ‘analytical mindset’. Currently, just over (54%) of workers who feel this skill is applicable to their role would rate themselves as ‘excellent’ or ‘good’ at demonstrating an ‘analytical mindset’.
+Other soft data skills with a large gap include ‘critical thinking’, ‘creativity’, ‘project management’, ‘storytelling’, ‘subject matter expertise’, ‘industry/sector expertise’ and ‘leadership’.
+Table 3. Percentage of employers saying that the following soft data skills are very or somewhat important to their company (Importance) versus the percentage of workers saying that they perform these data skills very or somewhat well (Performance) – ranked by size of gap
+|    | Unnamed: 0                  | Importance (employers)     | Individual performance (Workers)     | Gap     |
+|---:|:----------------------------|:---------------------------|:-------------------------------------|:--------|
+|  0 | Analytical mindset          | 82%                        | 54%                                  | 28%     |
+|  1 | Project management          | 80%                        | 52%                                  | 28%     |
+|  2 | Creativity                  | 81%                        | 60%                                  | 21%     |
+|  3 | Leadership                  | 78%                        | 57%                                  | 21%     |
+|  4 | Industry / sector expertise | 82%                        | 62%                                  | 20%     |
+|  5 | Storytelling                | 74%                        | 56%                                  | 18%     |
+|  6 | Subject matter expertise    | 83%                        | 66%                                  | 17%     |
+|  7 | Critical thinking           | 84%                        | 69%                                  | 15%     |
+|  8 | Problem solving             | 88%                        | 77%                                  | 11%     |
+|  9 | Communication               | 89%                        | 80%                                  | 9%      |
+| 10 | Adaptability                | 85%                        | 77%                                  | 8%      |
+| 11 | Collaboration               | 85%                        | 77%                                  | 8%      |
+| 12 | Professionalism             | 90%                        | 83%                                  | 7%      |
+| 13 | Curiosity                   | 75%                        | 73%                                  | 2%      |
+C1. How important is it that those working with data possess the following skills for the day-to-day functioning of the business? Very/somewhat important Base: 1,045 UK employers
+B1. How would you rate your performance in your current role for each of the following skills? Excellent/good, excluding those to whom skill not applicable
+Base: 5,000 UK workers
+Hard skills are also lacking, particularly ‘information management’ and ‘knowledge of emerging technologies’
+As with soft skills, there is a gap between Importance and Performance for all hard data skills.
+Figure 22. Percentage of employers saying that the following hard data skills are very or somewhat important to their company (Importance) versus the percentage of employers saying that data skills are performed very or somewhat well in their company (Performance)
+C1. How important is it that those working with data possess the following skills for the day-to-day functioning of the business? Very/somewhat important
+C2. How would you rate your organisation’s performance for each of the following skills? Excellent/good, excluding those to whom skill not applicable
+Base: 1,045 UK employers
+The top 3 hard data skills that have the biggest gaps between Importance and Performance, are ‘information management’, ‘data communication skills’ and ‘knowledge of emerging technologies and solutions’.‘Basic IT skills’, ‘machine learning’ and ‘programming’ see less of a gap.
+Table 4. Percentage of employers saying that the following soft data skills are very or somewhat important to their company (Importance) versus the percentage of employers saying that data skills are performed very or somewhat well in their company (Performance) – ranked by size of gap
+|    | Unnamed: 0                                       | Importance     | Performance     | Gap     |
+|---:|:-------------------------------------------------|:---------------|:----------------|:--------|
+|  0 | Information management                           | 87%            | 68%             | 19%     |
+|  1 | Data communication skills                        | 84%            | 66%             | 18%     |
+|  2 | Knowledge of emerging technologies and solutions | 80%            | 62%             | 18%     |
+|  3 | Data literacy                                    | 84%            | 67%             | 17%     |
+|  4 | Data ethics                                      | 84%            | 67%             | 17%     |
+|  5 | Database management                              | 84%            | 67%             | 17%     |
+|  6 | Analysis skills                                  | 84%            | 67%             | 17%     |
+|  7 | Data visualisation                               | 79%            | 64%             | 15%     |
+|  8 | Data processing                                  | 81%            | 67%             | 14%     |
+|  9 | Advanced statistics                              | 72%            | 61%             | 11%     |
+| 10 | Basic IT skills                                  | 87%            | 77%             | 10%     |
+| 11 | Machine learning                                 | 68%            | 58%             | 10%     |
+| 12 | Programming                                      | 68%            | 59%             | 9%      |
+C1. How important is it that those working with data possess the following skills for the day-to-day functioning of the business? Very/somewhat important
+C2. How would you rate your organisation’s performance for each of the following skills? Excellent/good, excluding those to whom skill not applicable
+Base: 1,045 UK employers
+As with soft data skills, the gap for the top 3 hard skills differs by company size, sector and industry. The gap for ‘information management’ is most prominent among small businesses, with a gap of 31% compared to the UK average of 19%. For ‘data communication skills’, the gap is significantly larger in small businesses (26%), employers in the public sector (25%) and companies in the East Midlands (33%), compared to the average of 18%. Finally, the gap for ‘knowledge of emerging technologies and solutions’ is more prominent with employers in the public sector (25%), education (29%) and companies in London (24%), compared to an average of 18% across the UK.
+Individual workers lack good hard data skills, with their Performance of only ‘basic IT skills’ closely matching employer demand
+Looking at individual workers’ capabilities, there is consistently a much larger gap for hard data skills in comparison to soft data skills. Focusing on those who see each skill as relevant to their job, ‘basic IT skills’ and ‘machine learning’ are covered fairly well. However, UK workers feel they could perform better on ‘programming’, ‘knowledge of emerging technologies and solutions’, and ‘advanced statistics’, with these three skills having the biggest gap between employers’ expectations and workers’ individual Performance.
+Table 5. Percentage of employers saying that the following hard data skills are very or somewhat important to their company (Importance) versus the percentage of workers saying that they perform these data skills very or somewhat well (Performance) – ranked by size of gap
+|    | Unnamed: 0                                       | Importance (employers)     | Individual performance (Workers)     | Gap     |
+|---:|:-------------------------------------------------|:---------------------------|:-------------------------------------|:--------|
+|  0 | Programming                                      | 68%                        | 27%                                  | 41%     |
+|  1 | Knowledge of emerging technologies and solutions | 80%                        | 44%                                  | 36%     |
+|  2 | Advanced statistics                              | 72%                        | 37%                                  | 35%     |
+|  3 | Data visualisation                               | 79%                        | 49%                                  | 30%     |
+|  4 | Database management                              | 84%                        | 56%                                  | 28%     |
+|  5 | Analysis skills                                  | 84%                        | 57%                                  | 27%     |
+|  6 | Data processing                                  | 81%                        | 54%                                  | 27%     |
+|  7 | Data literacy                                    | 84%                        | 60%                                  | 24%     |
+|  8 | Data ethics                                      | 84%                        | 61%                                  | 23%     |
+|  9 | Information management                           | 87%                        | 65%                                  | 22%     |
+| 10 | Data communication skills                        | 84%                        | 62%                                  | 22%     |
+| 11 | Machine learning                                 | 68%                        | 51%                                  | 17%     |
+| 12 | Basic IT skills                                  | 87%                        | 75%                                  | 12%     |
+C1. How important is it that those working with data possess the following skills for the day-to-day functioning of the business? Very/somewhat important Base: 1,045 UK employers
+B1. How would you rate your performance in your current role for each of the following skills? Excellent/good, excluding those to whom skill not applicable
+Base: 5,000 UK workers
+Female workers rate themselves highly in soft skills such as ‘professionalism’ and ‘curiosity’, while male workers feel strong in ‘industry/sector expertise’ and ‘leadership’ skills.
+Looking at gender differences in the way that individual workers’ rate their performance, female workers believe they are generally strong in soft skills. Women tend to feel they have good ‘professionalism’, ‘communication’, ‘adaptability’ and ‘curiosity’ skills, while men tend to feel they have strong ‘industry/sector expertise’ and ‘leadership skills’.
+Table 6. Percentage of workers saying that they perform these soft data skills very or somewhat well – by gender Female workers rate themselves highly in ‘basic IT skills’ – male workers, in contrast, rate themselves highly across a number of hard skills
+The skills highlighted below show where each group performs relative to the other.
+Table 7. Percentage of workers saying that they perform these hard data skills very or somewhat well – by gender
+B1. How would you rate your performance in your current role for each of the following skills? Excellent/good, excluding those to whom skill not applicable
+Base: Female workers (2,650), male workers (2,344)
+Workers under the age of 35 have the strongest data skills
+There is a positive reported relationship between the Performance of data skills and age, with younger workers aged 18-34 reporting the strongest data skills. This correlation is consistent across the majority of data skills, both soft and hard, with the only skills that are consistent across the three age bands being ‘communication’ and ‘professionalism’.
+The table shows the mean percentage of the Performance measure across different data skills (adding up Performance measures across all skills and dividing by the number of skills). The Performance measure reflects the percentage of
+workers who rate themselves as excellent or good at different data skills, excluding those for whom a particular skill is not applicable.
+Table 8. Percentage of workers saying that they perform data skills very or somewhat well (average across all skills) – by age
+B1. How would you rate your performance in your current role for each of the following skills? Excellent/good, excluding those to whom skill not applicable
+Base: Workers aged 18-34 (1,307), 35-54 (2,445), 55+ (1,248)
+Soft Skills - ‘Industry’, ‘sector’, and ‘subject matter expertise’ and an ‘analytical mindset’ see the biggest gaps between employers’ expectations and student Performance
+Table 9. Percentage of employers saying that the following soft data skills are very or somewhat important to their company (Importance) versus the percentage of students saying that they will perform these data skills very or somewhat well in the future (Future performance) – ranked by size of gap
+|    | Skill                       | Importance (employers)     | Future performance (students)     | Gap     |
+|---:|:----------------------------|:---------------------------|:----------------------------------|:--------|
+|  0 | Industry / sector expertise | 82%                        | 68%                               | 14%     |
+|  1 | Subject matter expertise    | 83%                        | 71%                               | 12%     |
+|  2 | Analytical mindset          | 82%                        | 70%                               | 12%     |
+|  3 | Problem solving             | 88%                        | 77%                               | 11%     |
+|  4 | Professionalism             | 90%                        | 80%                               | 10%     |
+|  5 | Project management          | 80%                        | 71%                               | 9%      |
+|  6 | Communication               | 89%                        | 80%                               | 9%      |
+|  7 | Adaptability                | 85%                        | 77%                               | 8%      |
+|  8 | Collaboration               | 85%                        | 79%                               | 6%      |
+|  9 | Critical thinking           | 84%                        | 78%                               | 6%      |
+| 10 | Creativity                  | 81%                        | 76%                               | 5%      |
+| 11 | Leadership                  | 78%                        | 75%                               | 3%      |
+|    | Skill        | Importance (employers)     | Future performance (students)     | Gap     |
+|---:|:-------------|:---------------------------|:----------------------------------|:--------|
+|  0 | Storytelling | 74%                        | 73%                               | 1%      |
+|  1 | Curiosity    | 75%                        | 81%                               | -6%     |
+C1. How important is it that those working with data possess the following skills for the day-to-day functioning of the business? Very/somewhat important Base: 1,045 UK employers
+DA2. How do you think you will rate your performance for the following data skills once you have finished your current programme of study? Excellent/good
+Base: 1,000 UK students
+When asked what skills graduates lack the most, employers say that about a quarter of graduates join their organisation with a lack of ‘leadership’, ‘communication’, ‘critical thinking skills’ and ‘professionalism’, with a fifth of non-graduate new joiners also lacking ‘problem-solving abilities’. This is supported by how students see themselves, as similar numbers rate their Performance in these skills as only adequate or worse.
+However, it’s important to note that, while employers consider many of these skills to be important, they do not necessarily expect graduates to perform at a high level. There are some skills (highlighted below) where students judge themselves more harshly than employers, such as ‘project management’, ‘industry/sector expertise’, ‘subject matter expertise’ and having an ‘analytical mindset’. For example, more than a quarter (27%) of students predict they will only be adequate or worse at having an ‘analytical mindset’ after their studies. In contrast, only one in eight (13%) employers say graduates lack this skill.
+Table 10. Percentage of employers who say students are lacking the following soft data skills, and % of students who see themselves as underperforming
+C4. Generally, which of the following skills, if any, are university graduates joining your organisation who are working with data lacking
+Base: 846 UK employers who hire graduates
+C5. And generally, which of the following skills, if any, are other new joiners (e.g. interns, work placements students, people without graduate experience coming from elsewhere in the industry) to your organisation who are working with data lacking?
+Base: 893 UK employers who hire new entrants
+DA1 How would you currently rate your performance for the following ‘data skills’? Base: 1,000 UK students
+‘Programming’, ‘database management’ and ‘data ethics’ top the list of most underdeveloped hard data skills with students
+There is a clear general underperformance amongst students’ hard skills. However, the top 3 biggest gaps between Importance and students’ Future performance lie in ‘programming’ (20% gap), ‘database management’ (19%) and ‘data ethics’ (19%) skills. As students make up a large proportion of the supply pipeline of data skills, it’s unsurprising that employers identify these gaps in both their data teams and individual workers.
+At the bottom of the table, only two hard skills see a gap of 10% or less: data ‘visualisation’ and ‘machine learning’ – however, the latter is a hard skill that also has the lowest importance to UK employers because it is a highly specialist skill.
+Table 11. Percentage of employers saying that the following hard data skills are very or somewhat important to their company (Importance) versus the percentage of students saying that they will perform these data skills very or somewhat well in the future (Future performance) – ranked by size of gap
+|    | Skill                                            | Importance (employers)     | Future performance (students)     | Gap     |
+|---:|:-------------------------------------------------|:---------------------------|:----------------------------------|:--------|
+|  0 | Programming                                      | 68%                        | 48%                               | 20%     |
+|  1 | Database management                              | 84%                        | 65%                               | 19%     |
+|  2 | Data ethics                                      | 84%                        | 65%                               | 19%     |
+|  3 | Data processing                                  | 81%                        | 63%                               | 18%     |
+|  4 | Information management                           | 87%                        | 71%                               | 16%     |
+|  5 | Data communication skills                        | 84%                        | 69%                               | 15%     |
+|  6 | Data literacy                                    | 84%                        | 71%                               | 13%     |
+|  7 | Basic IT skills                                  | 87%                        | 74%                               | 13%     |
+|  8 | Knowledge of emerging technologies and solutions | 80%                        | 68%                               | 12%     |
+|  9 | Analysis skills                                  | 84%                        | 72%                               | 12%     |
+| 10 | Advanced statistics                              | 72%                        | 61%                               | 11%     |
+| 11 | Data visualisation                               | 79%                        | 69%                               | 10%     |
+|    | Skill            | Importance (employers)     | Future performance (students)     | Gap     |
+|---:|:-----------------|:---------------------------|:----------------------------------|:--------|
+|  0 | Machine learning | 68%                        | 59%                               | 9%      |
+C1. How important is it that those working with data possess the following skills for the day-to-day functioning of the business? Very/somewhat important
+Base: 1,045 UK employers
+DA2. And now, how do you think you will rate your performance for the following data skills once you have finished your current programme of study? Excellent/good
+Base: 1,000 UK students
+When asked specifically what hard data skills university graduates lack, employers note that about 16-18% of graduates join their company with insufficient ‘basic IT skills’, ‘data ethics’ and ‘machine learning’ skills. Meanwhile, 15% of other new joiners also lack ‘advanced statistics’ skills.
+Table 12. Percentage of employers who say students are lacking the following hard data skills, and % of students who see themselves as underperforming
+C4. Generally, which of the following skills, if any, are university graduates joining your organisation who are working with data lacking?
+Base: 846 UK employers who hire graduates
+C5. And generally, which of the following skills, if any, are other new joiners (e.g. interns, work placements students, people without graduate experience coming from elsewhere in the industry) to your organisation who are working with data lacking?
+Base: 893 UK employers who hire new entrants
+Students expect their studies to significantly improve their hard data skills – expected improvements on soft skills are smaller
+The development of students’ skills may be negatively affected by the level of expectation that students have of their studies or training. With some skills, students expect large leaps in the improvement of their performance: for example, over two fifths (45%) of students rate their ‘industry/sector expertise’ as currently excellent/good, while over two thirds (68%) expect to be excellent/good at this skill at the end of their studies, meaning that there is an expectation in improvement from 23% of students. In particular, over one in six (18%) students feel they currently have excellent ‘subject matter expertise’, while over a third (35%) believe they will have excellent ‘subject matter expertise’ after finishing their studies. There
+is a similar story regarding ‘industry/sector expertise’, with one in eight (13%) students feeling they are proficient now, and 30% expecting that they will be proficient at the end of their studies.
+Students also have high expectations for their hard data skills, with more than half expecting to be good or excellent at ‘advanced statistics’, ‘data visualisation’, ‘machine learning’ and ‘knowledge of emerging technologies’. Students who expect to be good at these skills in the future are more likely to be studying Accounting & Finance, Aeronautical & Manufacturing Engineering or Economics. They are also significantly more likely to have received hard data skills training in their studies. Furthermore, those who expect to be good or excellent at machine learning are more likely to be in a further year of study (4th year and beyond).
+Regionally, students from London are more likely to expect stronger hard data skills at the end of their studies – they are also more likely to expect this if they intend to work in London after their studies.
+Looking at students’ future choice of industry, those who expect to possess stronger hard data skills in the future are generally seeking to go into Banking & Financial Services, Engineering and Chemistry.
+In particular, those who expect good machine learning skills are more likely to be seeking to go into Advertising & Marketing or Aerospace/Aviation. They are also more likely to be relatively certain of their future choice of career. However, expectations around most soft skills are smaller amongst these students. When it comes to ‘problem-solving’, ‘professionalism’, ‘curiosity’, ‘communication’ and ‘adaptability’, students believe that their performance won’t see much of a change between now and after their studies – potentially due to these skills’ more abstract nature.
+Table 13. Percentage of students saying they will be performing skills very or somewhat well in the future (Future performance) compared to the percentage of students saying they perform these skills very or somewhat well currently (Current performance), and the gap between the two
+|    | Skill                                            | Future performance (students)     | Current performance (students)     | Gap     |
+|---:|:-------------------------------------------------|:----------------------------------|:-----------------------------------|:--------|
+|  0 | Industry / sector expertise                      | 68%                               | 45%                                | 23%     |
+|  1 | Programming                                      | 48%                               | 34%                                | 14%     |
+|  2 | Advanced statistics                              | 61%                               | 48%                                | 13%     |
+|  3 | Data visualisation                               | 69%                               | 56%                                | 13%     |
+|  4 | Machine learning                                 | 59%                               | 47%                                | 12%     |
+|  5 | Knowledge of emerging technologies and solutions | 68%                               | 56%                                | 12%     |
+|  6 | Project management                               | 71%                               | 59%                                | 12%     |
+|  7 | Data literacy                                    | 71%                               | 60%                                | 11%     |
+|  8 | Subject matter expertise                         | 71%                               | 60%                                | 11%     |
+|  9 | Database management                              | 65%                               | 54%                                | 11%     |
+| 10 | Data processing                                  | 63%                               | 53%                                | 10%     |
+| 11 | Data communication skills                        | 69%                               | 59%                                | 10%     |
+| 12 | Analytical mindset                               | 70%                               | 61%                                | 9%      |
+| 13 | Data ethics                                      | 65%                               | 56%                                | 9%      |
+| 14 | Analysis skills                                  | 72%                               | 63%                                | 9%      |
+| 15 | Leadership                                       | 75%                               | 66%                                | 9%      |
+| 16 | Storytelling                                     | 73%                               | 65%                                | 8%      |
+| 17 | Creativity                                       | 76%                               | 69%                                | 7%      |
+| 18 | Collaboration                                    | 79%                               | 74%                                | 5%      |
+| 19 | Information management                           | 71%                               | 66%                                | 5%      |
+| 20 | Critical thinking                                | 78%                               | 74%                                | 4%      |
+| 21 | Adaptability                                     | 77%                               | 73%                                | 4%      |
+| 22 | Communication                                    | 80%                               | 76%                                | 4%      |
+| 23 | Curiosity                                        | 81%                               | 78%                                | 3%      |
+| 24 | Professionalism                                  | 80%                               | 77%                                | 3%      |
+| 25 | Basic IT skills                                  | 74%                               | 73%                                | 1%      |
+| 26 | Problem solving                                  | 77%                               | 77%                                | 0%      |
+DA1. How would you currently rate your performance for the following ‘data skills’?
+DA2. And now, how do you think you will rate your performance for the following data skills once you have finished your current programme of study? Excellent/good
+Base: 1,000 UK students
+It is important to note that a significant proportion of the student population does not yet know what industry or area of work they will be entering, with only a third (32%) being certain about their choice of career after finishing further education/training. Meanwhile, a third (34%) are quite uncertain or not certain at all about where they want to work in the future, while another third (34%) say they have a good idea of what they’re interested in, but have not yet narrowed it down.
+Summary and implications
+Overall, skills gaps exist across all soft skills, most notably for ‘communication’, ‘adaptability’ and ‘critical thinking’, with UK workers lacking an ‘analytical mindset’ and ‘project management’ skills. Without strong soft skills, there is a risk that data will be misread or miscommunicated, and some insight may be lost.
+Hard skills across companies are also lacking, particularly ‘information management’ and ‘knowledge of emerging technologies’. Individual workers lack strong hard data skills, with their Performance of only ‘basic IT skills’ matching the demand from employers. When hard data skills are underdeveloped, teams may risk being unable to use their data to answer business questions, information might be mismanaged, and companies may miss opportunities to use data to improve their performance.
+[footnote 41]
+Employers note a shortage of advanced hard skills at a sector level, such as ‘machine learning’ and ‘advanced statistics’. These skills are often the “bread and butter” of some companies and sectors – when such skills are lacking, a company may not function or provide its services to their full potential. As 80% of the 2030 workforce are already employed,training of the existing workforce will be crucial. However, as we will see in the next chapter, there are gaps in training.
+When it comes to employers’ expectations of graduates and other new joiners, ‘industry’, ‘sector’, ‘subject matter expertise’ and an ‘analytical mindset’ present the biggest soft skills gaps. Meanwhile ‘programming’, ‘database management’ and ‘data ethics’ top the list of most underdeveloped hard data skills for students.
+Students expect their studies to significantly improve their hard data skills. Employers may therefore need to assess whether further training is needed to ensure students have the hard skills needed to perform their jobs effectively.
+NB Employers, workers and students were asked to self-rate abilities. This means that the data collected is based on individual perception. These perceptions are viable and important to collect, because perceptions influence decisions, and because this acts as a useful calibration against employers’ assessments of needs and capability (though we should once again caveat that these ratings are subjective).
+Training and development
+Training and development (how skills are being developed)
+[footnote 42]
+As data becomes an increasingly important commodity, recruiting trained professionals and upskilling workers cost effectively (to increase overall productivity) will be a primary concern for employers. Recent research conducted by the Open University estimates that the cost of remaining productive; increasing available salaries on offer, training those hired at lower levels, temporary staffing, and associated recruitment costs totalled around £6.33 billion a year in 2018 alone. Additionally, three-in-five senior managers reported that the skills shortage in industry had worsened between 2017 and 2018 (61%).
+[footnote 43]
+Existing research has highlighted that university students are a key source of talent for companies seeking data skills and employers often look to specialist subjects when recruiting new graduates. In the Nesta & RSS Model Workers report, a majority of companies preferred to recruit people from quantitative disciplines like statistics, applied statistics, the physical sciences, computer sciences and engineering. They also looked for candidates with strong computing skills, including computer programming, and database design and operation.However, companies will need to look further than university students in these specialist subjects to meet their supply needs, particularly given the competition for such graduates. The potential supply of data scientists from UK universities is unlikely to be more than 10,000 per year, based on data on graduates from UK universities between 2017-2018. This is nowhere enough to meet the demand for workers with sufficient data skills. Upskilling the existing workforce will therefore have to be a key part of any strategy to meet the high and growing demand for data skills in the UK.
+In this next section we look at what businesses are doing to train their existing staff, and what training students are currently accessing.
+Three in five employers are confident in identifying and providing for training needs
+Encouragingly, we found that employers report fairly positive attitudes to data skills training. Just over three in five (64%) employers say they are confident in identifying skills gaps within their workforce, with a slightly smaller proportion of employers indicating that they are confident they know where to find resources to train their employers (57%).
+More than half (56%) of employers indicated a preference to train professionals internally. This may be related to the high costs associated with recruiting data professionals, as well as the shortage of external talent with the right data skills. Larger businesses are more likely to prefer upskilling their own workforce to recruiting new workers; three fifths (59%) of large businesses (250+ employees) agreed with this, compared to just under half (48%) of micro businesses.
+Figure 23. Employers’ attitudes towards data skills training Figure 23B. Employers’ attitudes towards data skills training by sector (% Agree) Figure 23C. Employers’ attitudes towards data skills training by business size (% Agree)
+This level of confidence also appears to be echoed by employees within the workforce – more than half believe they have the adequate skills necessary for the future (56%) and are confident in identifying gaps in their teams’ training (55%).
+Generally, employees and employers within the private sector or larger businesses report slight increases in almost all statements presented.
+Improving data skills is a medium priority across organisations – soft skills are a higher priority
+[footnote 44]
+Presented with the same list of data skills, we asked employers to indicate which skills their employees currently receive training for, and to indicate how high a priorityit is to improve these skills within their workforce.
+Figure 24. Priority ranking of data skills employers seek to improve
+Though existing training for hard data skills tends to be more prevalent across employers, on average, we find that improving soft skills is considered the highest priority.
+candidate)
+How can this apparent disconnect be explained? In 2018, Michael Li, who at the time was Head of Analytics & Data Science at LinkedIn, detailed four key areas of assessment for data professionals: data wrangling, experimental design, statistical modelling/ machine learning and soft skills. Within the first three areas, he said that the professional needs rigid quantitative hard skills, identification of programming capabilities and advanced statistical techniques relevant to the area a business (<https://blogs.oracle.com/datascience/skills-that-linkedin-looks-for-in-a-data-scientist-candidate>)operates in. However, when it comes to soft skills, the guidelines are more subjective. For instance, the candidate would be assessed on the way that they communicate data and their past achievements (https://blogs.oracle.com/datascience/skills-that-linkedin-looks-for-in-a-data-scientist-. This method of assessment for soft skills (compared to that described for hard skills) is more subjective in nature, and possibly leads to non-standard levels of competencies in soft skills across a workforce.
+Figure 25A. Data Skills training currently undertaken by workers (Top 10)
+There appears to be a significant overlap between the key areas of improvement identified by employers and the training currently undertaken by employees. Around three in ten (29%) graduates receive training for ‘basic IT skills’, with a quarter also receiving training in ‘communication’ (25%), ‘leadership’ (25%), and ‘critical thinking’ (25%).
+Figure 25B. Data Skills training currently undertaken by students (Top 10)
+Concerns have been raised that the
+(https://www.ncub.co.uk/blog/who-will-
+As Higher Education institutions and other providers create more courses in data science (and associated technologies), it is vital that new curricula offer students (<https://www.ncub.co.uk/blog/who-will-take-responsibility-for-the-soft-skills>)the ability to learn both hard and soft skills. development of soft skills may have suffered with remote learning and lack of work placement opportunities during the pandemic. take-responsibility-for-the-soft-skills)
+Training for “soft” skills tends to be more difficult to find
+Of the skills presented in the survey, employers were then asked to consider which skills are hardest to find training for. Though there are marginal differences between those reporting difficulties across any given skill, softer skills ranked the highest (‘Critical thinking’ 13%, ‘Leadership’ 12%), achieving a higher average score vs hard skills amongst employers.
+Figure 26. Most difficult data skills to find training for (Top 10)
+More than one in three (34%) employers reported no difficulty in sourcing training for the data skills surveyed. Micro businesses (68%) are more likely to say they have no difficulty, with this dropping significantly as business size increases (small 44%, medium 27%, large 25%).
+These findings prompt several questions for further analysis. How do smaller enterprises utilise data skills in their “typical” operations? Perhaps, due to a lack of internal resources, do smaller enterprises rely far more on internal knowledge transfer to train employees? To further our understanding, we looked at barriers to implementing training, examining specific differences across sectors and business sizes.
+Figure 27. Barriers to training and employment (employers) Price is a considerable barrier, but relevance and practicality are also important Figure 28. Biggest barriers to data-related training by sector and business size
+High cost (29%), relevance to organisation (25%) and practical relevance for the individual’s day job (23%) are the main concerns amongst employers surveyed. These barriers are consistent across sectors. There are however notable differences in the case of third sector employees, where concerns around cost rise significantly (40%), in addition to concerns around relevancy (32%). Similarly, the same trends apply across business sizes – concerns around cost rise significantly among small enterprises, classified as 10-49 employees, (36%).
+Beyond these three key concerns, employers also identified a disinterest among tech workers and the need for more bespoke training sessions:
+“[There’s] a lack of interest in softer skills by those in technology jobs”- Middle manager in the training and development industry, working within the private sector
+“[There’s] a lack of training that fits in with fast paced changing demands” - Partner in the automotive industry, working within the private sector.
+Figure 29. Barriers to data skills training (students)
+Students cited cost as the biggest barrier to acquiring data skills training, followed by a lack of knowledge of where to go for this training. Three in ten (30%) are also not sure of the types of skills they need training in.
+There were some differences depending on gender. Females were more likely than males to say that cost (42% vs 37% respectively) was a barrier, that they did not know where to get this training (37% vs 33% respectively) and that they did not have time to participate in training (24% vs 18% respectively). Cost being a barrier was highest among PhD students (56%) and lowest among apprentices (25%). Meanwhile, undergraduates (38%) and master’s students (36%) were more likely than PhD students (30%) to say that they did not know where to go for training.
+When workers are asked about the ways in which the use of data skills has added value to their job, the issue of relevancy is again mentioned. Though a quarter (25%) of workers say that data skills training has improved their efficiency and one in five (19%) cite productivity improvements, just under half (48%) of all workers say that the data skills training they have received has not added any significant value to their daily operations.
+Figure 30. According to workers - ways data skills have added value to their jobs
+Types of training undertaken
+Over half (56%) of businesses surveyed said that their organisation preferred to develop data skills internally, rather than outsource or recruit new workers with these skills. This training is being provided through a mixture of methods. Half (49%) of businesses were providing in-house training, while a similar proportion (47%) were utilising external training to upskill their workforce in data skills.
+There was also a mixture of online and in-person training. Two in five (41%) businesses made use of online courses such as webinars, and one in five (21%) used online communities, while one in three (33%) sent staff to attend meetups and events. A smaller proportion used more formal academic training; only one in seven (14%) businesses sent their staff to university-taught programmes, while one in fourteen (7%) utilised continuing professional development (CPD).
+In recent research, three fifths (61%) of business leaders identified the use of the apprenticeship levy as a key route to closing the skills gap over the next three years (while noting some preliminary issues in the implementation of the new
+[footnote 45]
+apprentice system, and also expressing concerns about the lack of flexibility in the use of the apprenticeship levy).
+Figure 31. Ways in which data skills training was delivered
+There are some demographic differences in companies that conduct in-house training versus those that do not. The companies that conduct in-house training are significantly more likely to be large (250+ employees), and significantly less likely to be micro companies. The companies that conduct internal training are also more likely to be in the Banking & Financial Services and Education sectors. These companies are also significantly more likely to have someone at board level responsible for data. Roles they have struggled to recruit for include C-suite roles, Head of Data, Data Director, Data Analyst/Scientist/Technician/Engineer, Machine Learning Engineer, AI Director/Specialist or Intelligence Analyst. Finally, they are significantly more likely to require hard data skills, and significantly less likely to not need any data skills at all (hard or soft).
+Half of employees have not received any data skills training within the last two years
+Half (51%) of workers surveyed have not undertaken any data skills related training in the last two years. There is a correlation between business size and receiving data skills training. Two in three (64%) workers in micro businesses had not received any data skills training in the last two years, compared to over half (55%) of workers from small businesses, and just under half of those from medium sized (47%) and large (46%) businesses. There was also an age correlation. Older workers were more likely to have not had any data skills training in the last two years; two thirds (64%) of those aged 55+ have not had any training, compared with half (52%) of those aged 35-54 and over a third (36%) of those aged 18-34. This is a concern as regular training, regardless of age, is important to keep up to date with the latest developments, and to refresh knowledge. Additionally, employees want training; seven in ten (70%) workers are interested in seeking out data skills training and just under half (46%) say the need for them to have data skills has increased over the past five years. Unfortunately, however, this is not currently translating into high levels of training provision.
+Of the skills training received, ‘IT training’ ranked the highest with almost one in six (15%) workers participating in this form of training. This was followed by training on ‘communication’ (13%), ‘problem solving’ (11%) and ‘leadership’ (10%).
+The main motivations for workers seeking data skills training were to stay competitive and progress in their career. Just under three in ten are driven by keeping pace with the changing requirements of their role (28%), while a quarter cited career advancement (24%), and a comparable portion are seeking to diversify their skillset (22%). A quarter of workers cite their own personal interests as a key driver (25%), but at the same time three in ten report they are not at all interested in data skills training.
+Figure 32. Workers’ motivations to seek data skills training
+These findings alongside concerns raised by employers around practicality and relevance,suggest more can be done to contextualise available skills training for employees and to communicate the importance of data skills when preparing for the future.
+Figure 33. Students’ motivations to seek data skills training
+The top three motivators for students seeking data skills training are improving general career prospects (37%), personal interest (36%) and diversifying their skills set (32%). Encouragingly, only one in ten (9%) students said they had no interest in seeking out data skills training. Women were more likely than men to say that improving their general career prospects is a motivator for seeking data skills training (43% vs 31% respectively). The top motivation for those in the C2DE(<>)[footnote 46] social grades was personal interest (39%), as opposed to ABC1 students’ topmost motivation being to improve their general career prospects (42%). Similarly, those from an ethnic minority background were also most likely to cite personal interest (40%) as a motivator, while those from a white background were most likely to cite improving career prospects (37%) as their motivation.
+Most businesses are positive about having the skills they need
+Figure 34. Employers’ overall assessment of data skills and preparedness Figure 34B. Employers’ assessment of data skills and preparedness by sector (% Agree) Figure 34C. Employers’ assessment of data skills and preparedness by business size (% Agree)
+In a fast-paced world, the skills that organisations require are constantly changing. Half (47%) of businesses we surveyed mentioned that the skillset for their organisation has completely changed compared to five years ago. Data skills are a key area of change, with almost three fifths (58%) of businesses mentioning that data is both seen to be a team effort, and a critical asset for every part of their organisation. A similar proportion (54%) stated that decision makers in their organisation appreciate the importance of data skills.
+Overall, most businesses (58%) agree that their organisation has sufficient data skills to meet their current needs, while one in seven (14%) disagree. It is interesting that a large number of micro businesses (66%) feel their organisation has sufficient data skills to meet their current needs, despite most micro businesses (64%) not having provided data skills training to their employees in the last two years. There is also confidence in the future; three fifths (59%) of businesses surveyed thought their organisation has the data skills necessary to succeed in the future, while one in five (19%) disagreed. Across the board, agreement on these statements was higher amongst private sector organisations than public sector organisations. For instance, almost two thirds (63%) of private sector organisations thought that they had the necessary data skills to succeed in the future, compared to half (49%) of public sector organisations. Those in private sector organisations
+were also more likely to agree that decision makers in their organisation appreciated the importance of data skills, compared to those in public sector organisations (56% vs 42% respectively).
+Summary and implications
+There are apparent contradictions in the findings relating to training. Despite half (48%) of companies actively seeking new recruits with data skills, employers report high levels of confidence with both employees current data skills, and their ability to identify knowledge gaps within their current workforce. The main concern among employers seeking skills training is cost, but the high proportion of employers opting for in-house knowledge sharing conveys that some necessary steps are being taken to upskill workers at an efficient cost.
+Yet strikingly, half of all workers surveyed reported no data skills training within the last two years, and sizeable proportions reported a complete lack of interest. While noting that two in three (64%) workers in micro businesses had not received any data skills training in the last 2 years, companies report little difficulty in sourcing data skills training. It is also concerning that both employers and employees agree that the training offered to them does not seem relevant for their jobs or wider business needs.
+Three in five (60%) workers who have not received any data skills training said data skills do not add any significant value, compared to a fifth (19%) of those who have received this type of training. This suggests that those that do receive training are significantly more likely to see the value of data skills in their job.
+Much more could be done by employers, particularly senior managers and CEOs, in stressing the importance of all aspects of data skills training, both for employees’ day-to-day work, and their future career prospects in the fast changing work environment. Educators and private training companies also have a critical role to play in shaping curricula that are up to date, dynamic and relevant, whilst also offering a diversity of training options catering to those at lower price points.
+Conclusions/observations
+This research has identified significant demand for data skills in the UK workplace, which corroborates previous studies commissioned by the Royal Society and DCMS.
+(<https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/807830/No_Longer_Optional_Employer_Demand_for_Digital_Skills.pdf>)(https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_da ta/le/807830/No_Longer_Optional_Employer_Demand_for_Digital_Skills.pdf). There are between 178,000-234,000 data related roles in UK companies to be filled, but the UK’s ability to meet this demand remains a concern, particularly in the short term.
+Internal analysis of Higher Education Statistics Agency data prepared for the Data Skills Taskforce estimated that the potential supply of data scientists from UK
+universities is unlikely to be more than 10,000 per year, based on data on graduates from UK universities between 2017-2018. While these findings are tentative, recognising that data science related undergraduate and postgraduate courses are relatively few but growing in number, the potential supply is significantly below the number of roles to be filled. As outlined by the Royal Society and DCMS commissioned studies, demand for data skills is also rising quickly. Some of the rising demand will undoubtedly be driven by emerging technologies such as artificial intelligence or driverless cars.
+Companies have told us they’ve found it challenging to fill data roles in the past two years, with financial costs and a lack of talent with the right skills combinations being the biggest barriers. There also appears to be a knowledge/communication gap that could pose a barrier to fulfilling this demand. Many students told us that they do not feel clear about the path to becoming a data scientist, even when they’ve sought guidance.
+Given the limited supply of graduates likely to fill data roles, upskilling the workforce is vital to bridging the data skills gap. Strikingly, half of all workers surveyed reported no data skills training within the last two years, and sizeable proportions reported a complete lack of interest. There is however a correlation between those that receive training and their perceptions of data skills; those that have received data skills training are much more likely to say that data skills add significant value in their job.
+Interestingly, universities were not seen as a significant source of training by businesses; only one in seven (14%) businesses who have sent employees to data skills training in the last two years have put them through university taught programmes, and only one in fourteen (7%) have sent their employees to CPD courses at a university. Most internal training is happening either in-house, via private training companies, or through online programmes (e.g. webinars).
+There is a need to develop a suite of skills across both hard and soft skills. Overall, skills gaps exist across all soft skills, most notably for ‘communication’, ‘adaptability’ and ‘critical thinking’, with UK employers reporting insufficient ‘analytical mindset’ and ‘project management’ skills. These soft skills are hugely important; without them there is the potential for data to be misread or miscommunicated, which can have significant implications for businesses and the decisions they make. These skills could be developed through measures such as encouraging work experience for all undergraduates in the course of their studies.
+Hard data skills across companies are also lacking, particularly ‘information management’ and ‘knowledge of emerging technologies’. Individual workers lack good hard data skills, with their Performance of only ‘basic IT skills’ matching the demand from employers. This underdevelopment of hard skills in data teams makes it more difficult for companies to confidently use data to answer business questions, and adds to the risk of information being mismanaged.
+Education and training providers have a critical role to play in shaping curricula that looks to address these particular skill gaps and to offer a diversity of training options that also cater to those at lower price points.
+Methodology
+To understand the data skills gap in the UK, we conducted an online survey among 1,045 UK businesses, 5,000 UK workers and 1,000 students in higher education or training in the UK. No weighting was applied.
+To quantify the demand for data skills, within our survey we asked UK businesses how many roles requiring data skills they were hiring for. They entered the number in a numerical text box. In our analysis we looked at the median value for each business size (micro, small, medium and large) and multiplied it by the number of businesses in the UK within that size bracket. We then added up the total grossed up figure for micro, small, medium and large businesses to arrive at our final figures.
+To come to each of the calculations for population size, the median for each business size (micro, small, medium, large) was applied rather than the mean, as the median reduces the extremes of the larger figures we see with the mean. From the median, we grossed up for each business size, and then added these together to come to the overall figures. Once we got to the last 2 narrow definitions (recruiting for specific data specialist roles and businesses that require ‘hard’ data skills), only 12 micro businesses from our sample were included. The median for the 12 was 1 role, however we kept the median to 0 rather than 1 as the small base size had a larger margin of error and would have inflated numbers for micro businesses as a whole.
+Appendix
+NB: Industries shown here are those that had a large enough base size to be reported on.
+Banking and Financial Services
+Companies in the Banking and Financial Services sectors are significantly more likely to have existing data roles compared to other industries. More than half (52%) have an existing Data Analyst role, followed by 42% who employ a Chief Technology Officer and 41% have existing Data Managers. Banking companies are also significantly less likely to have no data roles at all, with only 10% having no data roles compared to the industry average of 22%.
+The importance of ‘machine learning’ in Banking & Financial Services is significantly higher than in other industries. This is reflected in the prevalence of ‘machine learning’ specialists and engineers, as this industry employs almost twice as many people in these roles compared to other industries.
+Performance is higher than the average across industries in the following skills: ‘analytical mindset’, ‘communication’, ‘data literacy’, ‘analysis skills’ and ‘data ethics’.
+Banking and Financial Services has a cross-skill gap that is significantly smaller than that of other industries, as overall Performance in data skills is higher. The top 5 largest gaps between Importance and company Performance in Banking are for ‘Data communication skills’ (18%), ‘Machine learning’ (18%), ‘Data processing’ (16%), ‘Subject matter expertise’ (15%) and ‘Programming’ (15%), suggesting that Banking workers would benefit from training in these areas.
+Skills gap index (employers)
+All industries indexed at 100
+The employee-reported skills gap between Importance to employers and individual worker Performance* is slightly smaller. The further away it gets from 100, the smaller it is, with an index of 74 compared to the employer reported skills gap of 79. The biggest gaps that individual workers see in their Performance are in ‘Programming’ (51%), ‘Knowledge of emerging technologies and solutions’ (40%), ‘Machine learning’ (39%) and ‘Advanced statistics’ (39%).
+Skills gap index (workers)
+All industries indexed at 100
+Banking graduates and other new entrants lack ‘database management’ and ‘information management’ skills, while other new joiners also lack ‘professionalism’.
+*The Employers Skills Gap Index used a Performance measure that is rebased to only include the skills that are relevant to each employer. The Workers Skills Gap Index looks at workers’ Performance regardless of whether it is relevant to their job.
+Based on 107 companies and 263 workers in the Banking and Financial Services sector.
+Demographic considerations: the Banking companies Opinium surveyed were more likely than other industries to have 25,000+ employees (10% vs. 4%). This may be a contributing factor to the differences between this industry and other industries.
+Computer Services, Hardware and Software
+Companies in the Computer Services, Hardware and Software sector (hereafter Computer Services) are significantly more likely to have some existing data roles compared to other industries. Four-in-ten (41%) computer companies have an existing Chief Information Officer role, followed by 24% who employ a Data Architect or Developer, and 24% with an existing Data Director role. Computer companies are also significantly less likely to have no data roles at all (4%).
+The importance of different professional skills in Computer Services is generally higher, than in other industries, for ‘database management’, ‘analysis skills’, ‘data literacy,’ ‘knowledge of emerging technologies and solutions’ and other skills, which is unsurprising considering the focus on data in this industry.
+When it comes to Performance, Computer Services has better ‘analytical mindset’, ‘programming’, ‘knowledge of emerging technologies and solutions’ and ‘machine learning’ skills compared to other industries. However, it also performs significantly worse than other industries for ‘professionalism’ and ‘communication’.
+Computer Services has a cross-skill gap that is significantly bigger than in other industries, as the overall importance of data skills is higher. The top 5 biggest gaps between Importance and company Performance in the sector are for ‘communication’ (29%), ‘analysis skills’ (29%), ‘database management’ (25%), ‘professionalism’ (24%), and ‘knowledge of emerging technologies and solutions’ (22%), suggesting that Computer Services workers would benefit from training in these areas.
+The only skills where the gap is smaller are ‘programming’ (8%), ‘machine learning’ (9%), ‘storytelling’ (13%) and ‘basic IT skills’ (13%).
+Skills gap index (employers)
+All industries indexed at 100
+Looking at the gap between Importance to employers and individual worker Performance*, typically, individuals rate themselves as performing better than is indicated by employers. The biggest gaps that individual workers see in their Performance are in ‘advanced statistics’ (42%), ‘programming’ (40%), ‘database management’ (39%) and ‘leadership’ (39%).
+Skills gap index (workers)
+All industries indexed at 100
+Employers in Computer Services identified a small number of distinct skills lacking more in graduates (and other new entrants) than in other industries. More than in other industries, Computer Services graduates lack ‘information management’ and ‘basic IT skills’, but fewer lack ‘industry/sector expertise’. Meanwhile, other new joiners also lack ‘programming’ skills.
+*The Employers Skills Gap Index used a Performance measure that is rebased to only include the skills that are relevant to each employer. The Workers Skills Gap Index looks at workers’ Performance regardless of whether it is relevant to their job.
+Based on 120 companies and 129 workers in the Computer Services, Hardware and Software sector.
+Demographic considerations: the Computer Services companies Opinium surveyed were more likely to be based in the East Midlands than other industries (17% vs. 7%) and be made up of 50-99 people (27% vs. 10%). This may be a contributing factor to the differences between this industry and other industries.
+Education
+Institutions in the Education sector are significantly less likely to have existing data roles compared to other industries. While the most popular existing role of a Data Protection Officer exists in a third (34%) of Education institutions, only 16% have a Chief Information Officer, compared to more than a quarter (28%) of companies in other industries. Other roles less common than in other industries are Data Engineer, Data Director, Data Architect/Developer and Artificial Intelligence Director. The existence of all other data roles is in line with other industries.
+In terms of the Importance of different skills, Education is largely in line with other industries, except for the Importance of ‘storytelling’ and ‘basic IT skills’, which are more important in Education institutions.
+When it comes to Performance, the Education sector has worse ‘analytical mindset’, ‘knowledge of emerging technologies and solutions’, ‘data visualisation’ and ‘machine learning’ skills in comparison to other industries.
+Education has a cross-skill gap that is significantly higher than in other industries, as the overall Performance of data skills is lower. The top 5 biggest gaps between Importance and institution Performance in Education are for ‘data visualisation’ (31%), ‘knowledge of emerging technologies and solutions’ (29%), ‘data ethics’ (27%), ‘analytical mindset’ (27%) and ‘data literacy’ (27%), suggesting that Education workers would benefit from training in these areas.
+Skills gap index (employers)
+All industries indexed at 100
+Looking at the gap between Importance to employers and individual worker Performance*, typically, individuals in Education rate themselves as better performing than indicated by employers. The biggest gaps that individual workers see in their Performance are in ‘programming’ (50%), ‘knowledge of emerging technologies and solutions’ (50%), ‘data processing’ (46%), ‘data visualisation’ (45%) and ‘advanced statistics’ (44%).
+Skills gap index (workers)
+All industries indexed at 100
+Finally, there are a few distinct skills that employers in the Education sector find incoming graduates and other new entrants lacking more than in other industries. Graduates coming to work in the education sector are more likely to lack ‘adaptability’, ‘industry/sector expertise’, ‘critical thinking’ and ‘leadership skills’, while other new joiners lack only ‘critical thinking’ skills.
+*The Employers Skills Gap Index used a Performance measure that is rebased to only include the skills that are relevant to each employer. The Workers Skills Gap Index looks at workers’ Performance regardless of whether it is relevant to their job.
+Based on 94 institutions and 571 workers in the Education sector.
+Demographic considerations: the Education institutions Opinium surveyed were more likely to be based in the South West than other industries (14% vs. 7%), be
+less likely to be based in Yorkshire and the Humber (1% vs. 7%), and be more likely to be made up of 100-249 employees (27% vs. 15%) or 2,500-4,999 employees (13% vs. 7%). This may be a contributing factor to the differences between this industry and other industries.
+Manufacturing
+Companies in the Manufacturing sector are significantly more likely to have the following two data roles compared to other industries: four-in-ten (41%) have an existing Chief Information Officer role, followed by over a third (36%) who employ a Data Technician. Manufacturing companies are also significantly less likely to have no data roles at all, with only 10% having no data roles compared to the 22% industry average.
+Manufacturing employers place a very high importance on most skills.
+In terms of Performance, the Manufacturing industry reports on average better ‘basic IT skills’, ‘professionalism’, ‘knowledge of data ethics’, ‘critical thinking’ skills and others, compared to averages in other industries.
+Skills gap index (employers)
+Manufacturing has a cross-skill gap that is directionally higher than other industries, as the overall importance of data skills is higher. The top 5 biggest gaps between Importance and company Performance in Manufacturing are for ‘adaptability’ (29%), ‘information management’ (24%), ‘problem solving’ (20%), ‘analytical mindset’ (19%) and ‘data communication’ skills (19%), suggesting that Manufacturing workers would benefit from training in these areas.
+All industries indexed at 100
+Skills gap index (workers)
+Typically, the employee-reported skills gap between Importance to employers and individual worker Performance is slightly greater, with an index of 130 compared to the employer reported skill gap of 113. The biggest gaps in individual workers’ Performance* are in ‘programming’ (57%), ‘knowledge of emerging technologies and solutions’ (52%), ‘advanced statistics’ (52%) and ‘data visualisation’ (50%).
+All industries indexed at 100
+% who say advanced statistics skills is lacking in their new joiners who are working with data
+Finally, ‘advanced statistics’ is the only skill that employers in the Manufacturing sector find lacking in other new entrants, compared to other industries. However, the top 3 skills that Manufacturing employers typically find lacking in graduates are ‘leadership’ (29%), ‘project management’ (25%) and ‘communication’ (24%).
+Index looks at workers’ Performance regardless of whether it is relevant to their job.
+Based on 59 companies and 243 workers in the Manufacturing sector.
+Demographic considerations: the Manufacturing companies Opinium surveyed were more likely than other industries to have 100-249 employees (25% vs. 15) or 500-999 employees (22% vs. 12%) and be significantly less likely to be in the public sector (2% vs. 17%). This may be a contributing factor to the differences between this industry and other industries.
+Retail and Wholesale Trade
+Existing data roles in the Retail and Wholesale Trade sectors are relatively in line with other industries. The top 5 data roles this industry is most likely to have are Data Analysts (32%), Data Managers (31%), Chief Technology Officers (30%), Chief Information Officers (28%) and Data Protection Officers (26%). Interestingly, a third (31%) of Retail and Wholesale Trade companies have no data roles at all, compared to the industry average of 22%.
+Retail is largely in line with other industries when it comes to the Importance of different skills. The top 5 most important skills in Retail are ‘professionalism’ (89%), ‘communication’ (89%), ‘basic IT skills’ (89%), ‘problem solving’ (86%) and ‘database management’ (85%) skills.
+When it comes to Performance, the Retail and Wholesale Trade industry has better ‘problem solving’ and ‘leadership’ skills than other industries. Retail performs strongest in ‘professionalism’ (84%) and ‘industry/sector expertise’ (80%).
+Retail and Wholesale Trade has a cross-skill gap that is significantly smaller than in other industries as the overall importance of data skills is lower. The top 5 largest gaps between Importance and company Performance in Retail are for ‘database management’ (16%), ‘analysis skills’ (16%), ‘data ethics’ (15%), ‘data processing’ (14%) and ‘information management’ (14%), suggesting Retail workers would benefit from training in these areas.
+Skills gap index (employers)
+All industries indexed at 100
+Looking at the gap between Importance to employers and individual worker Performance, individuals tend to rate themselves much worse than employers, with an index of 116 compared to the employers’ 52. The biggest gaps that individual workers see in their Performance* are in ‘database management ‘(50%), ‘analysis skills’ (47%) and ‘programming’ (45%).
+Skills gap index (workers)
+All industries indexed at 100
+There are no significant differences between the Retail sector and other industries when it comes to the skills of graduates and other new joiners.
+*The Employers Skills Gap Index used a Performance measure that is rebased to only include the skills that are relevant to each employer. The Workers Skills Gap Index looks at workers’ Performance regardless of whether it is relevant to their job.
+Based on 59 companies and 243 workers in the Manufacturing sector.
+Demographic considerations: the Retail companies Opinium surveyed are more likely than other industries to be based in the North East (6% vs. 3%). This may be a contributing factor to the differences between this industry and other industries.
+Data on Devolved Administrations and English Regions
+North West
+The prevalence of data roles in companies in the North West is relatively in line with the rest of the UK. The 5 roles that this region is most likely to have are Data Analysts (41%), Chief Technology Officers (35%), Data Managers (34%), Data Protection Officers (32%) and Chief Data Officers (26%). A little less than a quarter (23%) of companies in the North West currently have no existing data roles. When it comes to the importance of different skills, the North West is also largely in line with the rest of the UK. The top 5 most important skills in the North West are ‘professionalism’ (91%), ‘communication’ (89%), ‘problem solving’ (88%), ‘industry/sector expertise’ (85%) and ‘analysis skills’ (85%).
+When it comes to Performance, the North West has better ‘analysis skills’, ’communication’, ‘data communication’ skills, ‘knowledge of emerging technologies and solutions’ and ‘creativity’ compared to the rest of the UK. Looking at the skills that are strongest in the North West, ‘professionalism’ (91%), ‘communication’ (89%) and ‘problem solving’ (88%) top the list.
+The North West has a cross-skill gap that is relatively smaller than the rest of the UK. The top 5 biggest gaps between Importance and company Performance in the North West are in ‘knowledge of emerging technologies and solutions’ (20%), ‘creativity’ (19%), ‘professionalism’ (17%), ‘analysis skills’ (16%) and ‘data visualisation’ (16%), suggesting North West workers would benefit from training in these areas.
+Workers in the North West perform almost exactly in line with the rest of the UK, in terms of the gap between Importance to employers and individual worker Performance. The biggest gaps that individual workers see in their Performance are in ‘programming’ (46%), ‘knowledge of emerging technologies and solutions’ (36%) and ‘advanced statistics’ (32%).
+Skills gap index (employers)
+All regions indexed at 100
+North Western companies are largely in line with the rest of the UK when it comes to graduates and other new joiners and their skills. More than a tenth (15%) of companies in the North West say they do not hire graduates, while the top 3 skills graduates are lacking most are ‘leadership’ (21%), ‘project management’ (19%) and ‘adaptability’ (19%). Looking at other new joiners, North Western companies mostly see a lack of ‘leadership skills’ (22%), ‘critical thinking’ (20%) and ‘problem solving’ (20%).
+Skills gap index (workers)
+All regions indexed at 100
+Both the Employers Skills Gap Index and the Workers Skills Gap Index use a Performance measure that is rebased to only include the skills that are relevant to each employer or workers’ job.
+Based on 117 companies and 619 workers in the North West.
+Demographic considerations: the North West companies that Opinium surveyed were more likely than in other regions to be Healthcare (9% vs. 5%) and Telecommunications Equipment (2% vs. 0%) companies. This may be a contributing factor to the differences between this region and other regions.
+North East*
+*low base size, differences not significant
+Companies in the North East are relatively in line with the rest of the UK when it comes to existing data roles. The top 5 roles that this region is most likely to have are Head of Data (36%), Data Managers (32%), a Chief Technology Officer (29%), Chief Information Officer (29%) and Data Analysts (29%). A little more than a fifth (21%) of companies in the North East currently have no existing data roles.
+When it comes to the importance of different skills, the North East is also largely in line with the rest of the UK. The top 5 most important skills in the North East are ‘problem solving’ (93%), ‘data communication skills’ (93%), ‘communication’ (93%), ‘creativity’ (93%) and ‘advanced statistics’ (89%).
+When it comes to Performance, the North East is worse at ‘knowledge of emerging technologies and solutions’, ‘data ethics’, ‘programming’, ‘curiosity’ and ‘communication’ compared to the rest of the UK.
+The North East has a cross-skill gap that is significantly larger than that of the rest of the UK due to lower Performance, while Importance is on par with the rest of the UK. The top 5 biggest gaps between Importance and company Performance in the North East are in ‘knowledge of emerging technologies and solutions’ (32%), ‘communication’ (32%), ‘programming’ (32%), ‘analysis skills’ (32%) and ‘data literacy’ (32%), suggesting workers in the North East would benefit from training in these areas.
+Skills gap index (employers)
+All regions indexed at 100
+Workers in the North East perform worse than the rest of the UK in terms of the gap between Importance to employers and individual worker Performance*. The biggest gaps that individual workers see in their Performance are in ‘advanced statistics’ (54%), ‘programming’ (53%), ‘analysis skills’ (36%), ‘data communications skills’ (35%) and ‘database management’ (34%).
+Skills gap index (workers)
+All regions indexed at 100
+There are no significant differences between the North East and the rest of the UK when it comes to graduates and other new joiners and their skills. A quarter (25%) of companies in the North East say they do not hire graduates, while the top 3 most lacking skills are ‘leadership’ (25%), ‘problem solving’ (25%) and ‘project management’ (21%).
+*Both the Employers Skills Gap Index and the Workers Skills Gap Index use a Performance measure that is rebased to only include relevant skills to each employer or workers’ job.
+Based on 28 companies and 236 workers in the North East.
+Demographic considerations: the companies in the North East that Opinium surveyed were more likely than in other regions to be in the following industries: Retail / Wholesale Trade (21% vs. 9% in the UK), Property / Real Estate (7% vs. 1% in the UK) and Communications and Information (7% vs. 1% in the UK). This may be a contributing factor to the differences between this region and other regions.
+Yorkshire and the Humber
+Companies in the Yorkshire and the Humber region are relatively in line with the rest of the UK for the prevalence of existing data roles. Looking at the top 5, this region is most likely to have Data Analysts (38%), Chief Technology Officers (37%), Chief Information Officers (27%), Chief Data Officers (25%) and Data Managers (24%). A quarter (25%) of companies in Yorkshire and the Humber currently have no existing data roles.
+When it comes to the importance of different skills, Yorkshire and the Humber is also largely in line with the rest of the UK. The top 5 most important skills in Yorkshire and the Humber are ‘professionalism’ (90%), ‘communication’ (87%), ‘problem solving’ (87%), ‘critical thinking’ (86%) and ‘adaptability’ (86%).
+When it comes to Performance, Yorkshire and the Humber has better ‘machine learning’ and ‘data literacy’ skills compared to the rest of the UK. Looking at the skills where Yorkshire and the Humber is the strongest, ‘basic IT skills’ (83%), ‘industry/sector expertise’ (76%) and ‘data literacy’ (75%) skills top the list.
+Yorkshire and the Humber has a cross-skill gap that is relatively smaller than that of the rest of the UK. The top 5 biggest gaps between Importance and company Performance in Yorkshire and the Humber are for ‘adaptability’ (22%), ‘communication’ (22%), ‘data visualisation’ (21%), ‘data communication skills’ (18%) and ‘collaboration’ (18%), suggesting that workers in Yorkshire and the Humber would benefit from training in these areas.
+Skills gap index (employers)
+All regions indexed at 100
+Skills gap index (workers)
+All regions indexed at 100
+Workers in Yorkshire and the Humber perform almost exactly in line with the rest of the UK in terms of the gap between Importance to employers and individual worker Performance. The biggest gaps that individual workers see in their Performance are in ‘programming’ (38%), ‘knowledge of emerging technologies and solutions’ (35%) and ‘data processing’ (33%).
+Finally, the only skill that employers in Yorkshire and the Humber find other new entrants lacking more than in other industries is ‘professionalism’. However, the top 3 skills that Yorkshire and the Humber employers find lacking in graduates typically are ‘leadership’ (29%), ‘professionalism’ (27%) and ‘project management’ (27%).
+Both the Employers Skills Gap Index and the Workers Skills Gap Index use a Performance measure that is rebased to only include the skills that are relevant to each employer or workers’ job.
+Based on 71 companies and 440 workers in Yorkshire and the Humber.
+Demographic considerations: the companies in Yorkshire and the Humber that Opinium surveyed were more likely than in other regions to be micro companies with 2-5 employees (18% vs. 9%), be based in the private sector (86% vs. 74%) and be in the Food/Beverage/Restaurant industry (7% vs. 3%). They are also less likely to be in the Education sector (1% vs. 9%). This may be a contributing factor to the differences between this region and other regions.
+East Midlands
+Existing data roles in the East Midlands are relatively in line with the rest of the UK. The top 5 roles that this region is most likely to have are Data Analysts (33%), Chief Information Officers (29%), Heads of Data (29%), Data Engineers (29%) and Data Managers (22%). A little less than a fifth (18%) of companies in the East Midlands currently have no existing data roles.
+When it comes to the Importance of different skills, the East Midlands is also largely in line with the rest of the UK. The top 5 most important skills in the East Midlands are ‘professionalism’ (90%), ‘information management’ (86%), ‘adaptability’ (85%), ‘communication’ (85%), and ‘data communication skills’ (85%).
+When it comes to Performance, the East Midlands reports greater shortages in ‘data literacy’, ‘data processing’, ‘industry/sector expertise’, ‘project management’ and ‘knowledge of emerging technologies and solutions’ compared to the rest of the UK, amongst ten other skills where there is a significant difference in Performance.
+The East Midlands has a cross-skill gap that is significantly larger than that of the rest of the UK due to lower Performance, while Importance is on par with the rest of the UK. The top 5 biggest gaps between Importance and company Performance in the East Midlands are in ‘data literacy’ (34%), ‘data communication skills’ (33%), ‘data processing’ (30%), ‘information management’ (27%) and ‘database management’ (27%), suggesting East Midlands workers would benefit from training in these areas.
+Skills gap index (employers)
+All regions indexed at 100
+Skills gap index (workers)
+All regions indexed at 100
+Workers in the East Midlands perform almost exactly in line with the rest of the UK the gap between Importance to employers and individual worker Performance. The biggest gaps that individual workers see in their Performance are in ‘programming’ (39%), ‘advanced statistics’ (39%) and ‘knowledge of emerging technologies and solutions’ (30%).
+When it comes to graduates and other new joiners and their skills, the East Midlands companies are largely in line with the rest of the UK. More than a tenth (15%) of companies in the East Midlands say they do not hire graduates, while the top 3 skills that graduates are most lacking are ‘project management’ (22%), ‘critical thinking’ (21%) and ‘basic IT skills’ (18%). Looking at other new joiners, the East Midlands companies mostly see a lack of ‘programming’ (16%), ‘leadership’ (14%) and ‘problem solving’ (14%) skills.
+Both the Employers Skills Gap Index and the Workers Skills Gap Index use a Performance measure that is rebased to only include the skills that are relevant to each employer or workers’ job.
+Based on 73 companies and 378 workers in the East Midlands.
+Demographic considerations: the companies in the East Midlands that Opinium surveyed were more likely than in other regions to have 50-99 employees (30% vs. 10%), and less likely to have 500- 2,499 employees (4% vs. 23%). They are also more likely to be in the Public sector (36% vs. 17%) and be in the following industries: Computer Services (25% vs. 7%), Law / Legal Services (4% vs. 1%) and Textiles (1% vs. 0%). This may be a contributing factor to the differences between this region and other regions.
+West Midlands
+Companies in the West Midlands region are significantly more likely to already have an existing role of Artificial Intelligence Specialist (20% vs. 12% in the rest of the UK). Looking at the top 5 most prevalent roles, this region is most likely to have Data Analysts (37%), Data Managers (37%), Chief Information Officers (33%), Chief Technology Officers (32%) and Data Protection Officers (31%). A little more than one in ten (14%) companies in the West Midlands currently have no existing data roles.
+When it comes to the Importance of different skills, the West Midlands is also largely in line with the rest of the UK, except for one skill – ‘programming’ seems to be more important than the rest of the UK (79% vs. 68%). The top 5 most important skills in the West Midlands are ‘basic IT skills’ (90%), ‘adaptability’ (89%), ‘analysis skills’ (89%), ‘problem solving’ (89%) and ‘subject matter expertise’ (88%).
+Meanwhile, when it comes to performance, the West Midlands has better Critical thinking, Knowledge of emerging technologies and solutions, Creativity, Storytelling and Machine learning skills compared to the rest of the UK. Looking at the skills the West Midlands is the strongest at, Problem solving (83%), Critical thinking (82%) and professionalism (80%) skills top the list.
+Overall, looking at the data skills gap index, the West Midlands has a cross-skill gap that is relatively smaller than that of the rest of the UK due to marginally higher performance in data skills. The top 5 biggest gaps between importance and company performance in the West Midlands are in Information management (16%), Data visualisation (15%), Subject matter expertise (13%), Analysis skills (13%) and Curiosity (12%), suggesting West Midlands workers would benefit from training in these areas.
+Skills gap index (employers)
+All regions indexed at 100
+Skills gap index (workers)
+All regions indexed at 100
+Looking at the gap between importance to employers and individual worker performance, workers in West Midlands perform almost exactly in line with the rest of the UK. The biggest gaps that individual workers see in their performance are in Programming (49%), Knowledge of emerging technologies and solutions (38%) and Advanced statistics (33%).
+When it comes to graduates and other new joiners and their skills, West Midlands companies are largely in line with the rest of the UK, with the exception of seeing more of a lack of Data literacy (17% vs. 10% in the UK). More than a tenth (14%) of companies in West Midlands say they do not hire graduates, while the top 3 skills graduates are lacking most are Project management (22%), Professionalism (17%) and Data processing (17%). Looking at other new joiners, West Midlands companies are most seeing a lack in Adaptability (21%), Industry / sector expertise (20%) and Leadership (18%).
+Both the Employers Skills Gap Index and the Workers Skills Gap Index use a performance measure that is rebased to only include the skills that are relevant to each employer or workers’ job.
+Based on 99 companies and 448 workers in the West Midlands.
+Demographic considerations: the companies in the West Midlands that Opinium surveyed were more likely than in other regions to be in Local government authority (8% vs. 4%), the Automotive industry (7% vs. 2%), Property/Real Estate (4% vs. 1%) and Public Relations (1% vs. 0%). This may be a contributing factor to the differences between this region and other regions.
+East of England
+Companies in the East of England are significantly less likely than the rest of the UK to have existing data roles, with 39% having no data roles compared to the 22% UK average. Looking at the top 5, this region is most likely to have Data Protection Officers (29%), Data Analysts (28%), Chief Information Officers (26%), Chief Technology Officers (21%) and Data Managers (18%).
+When it comes to the importance of different skills, the East of England has a significantly lower importance than the rest of the UK across the board of data skills. The top 5 most important skills in the East of England are Information management (88%), Professionalism (81%), Communication (81%), Basic IT skills (79%) and Collaboration (78%).
+Meanwhile, when it comes to performance, the East of England is more lacking in Machine learning skills, Data literacy, Programming, Adaptability, Database management and Curiosity compared to the rest of the UK. Looking at the skills the East of England is the strongest at, Professionalism (70%), Problem solving (68%) and Basic IT skills (66%) top the list.
+Overall, looking at the data skills gap index, the East of England has a cross-skill gap that is in line with the rest of the UK due to both lower importance and performance. The top 5 biggest gaps between importance and company performance in the East of England are in Information management (28%), Machine learning (25%), Data literacy (23%), Adaptability (23%) and Database management (21%), suggesting East of England workers would benefit from training in these areas.
+Skills gap index (employers)
+All regions indexed at 100
+Skills gap index (workers)
+All regions indexed at 100
+Looking at the gap between importance to employers and individual worker performance, workers in East of England see a much bigger gap than the rest of
+the UK. The biggest gaps that individual workers see are in Programming (27%), Information management (27%) and Advanced statistics (23%).
+When it comes to graduates and other new joiners and their skills, East of England companies are largely in line with the rest of the UK. The biggest difference is that more than a third (38%) of companies in the East of England say they do not hire graduates. The top 3 skills graduates are lacking most are Leadership (19%), Communication (17%) and Critical thinking (17%). Looking at other new joiners, East of England companies are most seeing a lack in Critical thinking (19%), Project management (18%) and Professionalism (17%).
+Both the Employers Skills Gap Index and the Workers Skills Gap Index use a performance measure that is rebased to only include the skills that are relevant to each employer or workers’ job.
+Based on 72 companies and 380 workers in the East of England.
+Demographic considerations: the companies in the East of England that Opinium surveyed were more likely than in other regions to have 250-499 employees (24% vs. 9%) and less likely to have 500-999 employees (1% vs. 12%). They were also significantly more likely to be in the Public sector (29% vs. 17%) and in the Chemicals/Plastics industry (15% vs. 2%). This may be a contributing factor to the differences between this region and other regions.
+London
+Companies in London are significantly more likely to already have certain existing data roles compared to other regions. More than a third (35%) have an existing Chief Information Officer role, followed by 35% who employ a Chief Technology Officer, 31% who have an existing Chief Data Officer, 30% who have a Head of Data, 27% who have a Data Technician, 19% who have a Data Architect/Developer and 15% who have an AI Strategy Manager. London is also significantly less likely to have no data roles at all, with only 14% having no data roles.
+When it comes to the importance of different skills, a majority of data skills are significantly more important in London than the rest of the UK, including hard skills such as Analysis skills, Data literacy, Database management and Data processing as well as soft skills such as Collaboration, Project management and Storytelling.
+Meanwhile, when it comes to performance, London is only somewhat better at certain skills. Advanced statistics and Programming are the only skills London is significantly better performing at compared to the rest of the country. Looking at the skills London is the strongest at overall, Basic IT skills (78%), Professionalism (77%), and Collaboration (76%) skills top the list.
+Overall, looking at the data skills gap index, London has a cross-skill gap that is in line with that of the rest of the UK. The top 5 biggest gaps between importance and company performance in London are in Knowledge of emerging technologies and solutions (24%), Data communication skills (20%), Communication (20%), Data processing (20%) and Analysis skills (19%).
+Skills gap index (employers)
+All regions indexed at 100
+Skills gap index (workers)
+All regions indexed at 100
+Looking at the gap between importance to employers and individual worker performance, workers in London see a slightly bigger gap than the rest of the UK. The biggest gaps that individual workers see are in Programming (46%), Knowledge of emerging technologies and solutions (41%) and Advanced statistics (40%).
+When it comes to graduates and other new joiners and their skills, London companies are significantly more likely than the rest of the UK to see a gap in Machine learning (17% vs. 13% in the UK), Data communication skills (17% vs. 11% in the UK), Storytelling (15% vs. 11% in the UK), Database management (14% vs. 10% in the UK) and Information management (12% vs. 8% in the UK). They are also significantly less likely to not hire graduates (12% vs. 19% in the UK). Looking at other new joiners, London companies are most seeing a lack in Leadership (23%), Adaptability (20%) and Communication (18%).
+Both the Employers Skills Gap Index and the Workers Skills Gap Index use a performance measure that is rebased to only include the skills that are relevant to each employer or workers’ job.
+Based on 266 companies and 590 workers in London.
+Demographic considerations: the companies in London that Opinium surveyed were more likely than in other regions to have 500-999 employees (20% vs. 12%) or 10,000-24,999 employees (6% vs. 3%) and less likely to have 2-5 employees (3% vs. 9%). They were also significantly more likely to be in the Law / Legal Services industry (3% vs. 1%) and in Defence / Military Services (1% vs. 0%). This may be a contributing factor to the differences between this region and other regions.
+South East
+Companies in the South East are relatively in line with the rest of the UK when it comes to having existing data roles. Looking at the top 5, this region is most likely to have Data Analysts (36%), Data Managers (33%), Data Protection Officers (28%), Chief Technology Officers (24%) and Heads of Data (20%). A quarter (25%) of companies in the South East currently have no existing data roles.
+When it comes to the importance of different skills, the South East is also largely in line with the rest of the UK. The top 5 most important skills in the South East are Problem solving (91%), Information management (89%), Communication (88%), Professionalism (88%) and Basic IT skills (87%).
+Meanwhile, when it comes to performance, the South East has skills gaps in a number of areas compared to the rest of the UK. Problem solving, Leadership, Data ethics and a number of others see a company performance at least 9% lower than that of the rest of the UK.
+Overall, looking at the data skills gap index, the South East has a cross-skill gap that is bigger than that of the rest of the UK due to worse performance at data skills. The top 5 biggest gaps between importance and company performance in the South East are in Information management (29%), Analytical mindset (28%), Communication (25%), Problem solving (25%) and Storytelling (24%), suggesting South East workers would benefit from training in these areas.
+Skills gap index (employers)
+All regions indexed at 100
+Skills gap index (workers)
+All regions indexed at 100
+Looking at the gap between importance to employers and individual worker performance, workers in South East perform almost exactly in line with the rest of the UK. The biggest gaps that individual workers see in their performance are in Knowledge of emerging technologies and solutions (39%), Advanced statistics (39%) and Programming (36%).
+When it comes to graduates and other new joiners and their skills, South Eastern companies are largely in line with the rest of the UK, with exceptions of seeing less of a lack of Project management skills (9% vs. 17% in the UK), Programming (5% vs. 12% in the UK) and Advanced statistics (4% vs. 10% in the UK). More than a quarter (24%) of companies in the South East say they do not hire graduates, while the top 3 skills graduates are lacking most are Communication (24%), Leadership (22%) and Professionalism (19%). Looking at other new joiners, South Eastern companies are most seeing a lack in Leadership (22%), Communication (20%) and Critical thinking (19%).
+Both the Employers Skills Gap Index and the Workers Skills Gap Index use a performance measure that is rebased to only include the skills that are relevant to each employer or workers’ job.
+Based on 127 companies and 727 workers in the South East.
+Demographic considerations: the companies in the South East that Opinium surveyed were more likely than in other regions to be in the Aerospace/Aviation industry (6% vs. 1%) and in Mining/Quarrying (1% vs. 0%). This may be a contributing factor to the differences between this region and other regions.
+South West
+Companies in the South West are significantly less likely than the rest of the UK to have existing data roles, with 35% having no data roles compared to the 22% UK
+average. This region is also much less likely than the rest of the country to have Chief Technology Officers, Data Architects/Developers, AI Specialists and AI Strategy Managers.
+When it comes to the importance of different skills, the South West is largely in line with the rest of the UK, except for having less need for Knowledge of emerging technologies and solutions (69% vs. 80% UK average). The top 5 most important skills in the South West are Adaptability (91%), Problem Solving (90%), Data ethics (88%), Basic IT skills (88%) and Professionalism (88%).
+Meanwhile, when it comes to performance, the South West has better Subject matter expertise compared to the rest of the UK, but worse Analysis skills. Looking at the skills the South West is the strongest at, Subject matter expertise (83%) and Professionalism (79%) top the list.
+Overall, looking at the data skills gap index, the South West has a cross-skill gap that is relatively smaller than that of the rest of the UK. The top 5 biggest gaps between importance and company performance in the South West are in Information management (22%), Data literacy (22%), Data ethics (21%), Critical thinking (19%) and Analysis skills (19%), suggesting South West workers would benefit from training in these areas.
+Skills gap index (employers)
+All regions indexed at 100
+Skills gap index (workers)
+All regions indexed at 100
+Looking at the gap between importance to employers and individual worker performance, workers in the South West perform almost exactly in line with the rest of the UK. The biggest gaps that individual workers see in their performance are in Programming (33%), Data ethics (31%), and Knowledge of emerging technologies and solutions (30%).
+When it comes to graduates and other new joiners and their skills, South Western companies are largely in line with the rest of the UK, with the exception of seeing less of a lack of Adaptability (6% vs. 15% in the UK). Significantly different is the proportion that hire graduates: three in ten (30%) companies in the South West say they do not hire graduates, compared to 19% in the UK. The top 3 skills graduates are lacking most are Leadership (23%), Industry/sector expertise (16%) and Professionalism (14%). Looking at other new joiners, South Western companies are most seeing a lack in Communication (17%), Industry/sector expertise (14%) and Subject matter expertise (13%).
+Both the Employers Skills Gap Index and the Workers Skills Gap Index use a performance measure that is rebased to only include the skills that are relevant to each employer or workers’ job.
+Based on 77 companies and 410 workers in the South West.
+Demographic considerations: the companies in the South East that Opinium surveyed were more likely than in other regions to have 50-249 employees (44% vs. 25%) and less likely to have 500-999 employees (3% vs. 12%). They were also more likely to be in the Public sector (30% vs. 17%) and in the following industries: Education (17% vs. 9%), Communications and Information (5% vs. 1%), Agriculture and Fishing (3% vs. 0%), Cosmetic Products (1% vs. 0%) and Pharmaceutical/Chemical (1% vs. 0%). This may be a contributing factor to the differences between this region and other regions.
+Scotland
+Companies in Scotland are relatively in line with the rest of the UK when it comes to having existing data roles. Looking at the top 5, this region is most likely to have a Chief Technology Officer (35%), a Data Protection Officer (32%), Data Analysts (27%), Data Managers (27%) and a Chief Data Officer (23%). A little more than a fifth (23%) of companies in Scotland currently have no existing data roles.
+When it comes to the importance of different skills, Scotland is also largely in line with the rest of the UK. The top 5 most important skills in Scotland are Professionalism (95%), Adaptability (92%), Communication (92%), Problem solving (90%) and Basic IT skills (89%).
+Scotland is also in line with the rest of the UK when it comes to performance, with marginally worse performance at Advanced statistics, Critical thinking and Curiosity compared to the rest of the UK, while being marginally better at Knowledge of emerging technologies and solutions.
+Overall, looking at the data skills gap index, Scotland has a cross-skill gap that is slightly smaller than that of the rest of the UK. The top 5 biggest gaps between importance and company performance in Scotland are in Adaptability (27%), Communication (19%), Critical thinking (18%), Advanced statistics (18%) and Data literacy (18%), suggesting workers in Scotland would benefit from training in these areas.
+Skills gap index (employers)
+All regions indexed at 100
+Skills gap index (workers)
+All regions indexed at 100
+Looking at the gap between importance to employers and individual worker performance, workers in Scotland perform slightly better than the rest of the UK. The biggest gaps that individual workers see in their performance are in Programming (35%), Advanced statistics (34%) and Knowledge of emerging technologies and solutions (32%).
+When it comes to graduates and other new joiners and their skills, Scottish companies are more likely than those in other regions to say their graduates lack Subject matter expertise (29% vs. 14% in the UK) and Problem solving (26% vs.
+15% in the UK). One tenth (13%) of companies in Scotland say they do not hire graduates, while the top 3 skills graduates are lacking most are Subject matter expertise (29%), Problem solving (26%) and Leadership (23%). Looking at other new joiners, Scottish companies are more likely than those in other regions to say they lack Problem solving skills (27% vs. 17% in the UK), Advanced statistics (26% vs. 13% in the UK), Data ethics (23% vs. 10% in the UK), Collaboration (19% vs. 9% in the UK) and Storytelling (19% vs. 10% in the UK).
+Both the Employers Skills Gap Index and the Workers Skills Gap Index use a performance measure that is rebased to only include the skills that are relevant to each employer or workers’ job.
+Based on 62 companies and 444 workers in Scotland.
+Demographic considerations: the companies in Scotland that Opinium surveyed were more likely than in other regions to have 10,000-24,999 employees (8% vs. 3% in the UK) and be in the following industries: Computer Hardware (3% vs. 1% in the UK), and Religious / Not-For-Profit (3% vs. 1%). This may be a contributing factor to the differences between this region and other regions.
+Wales*
+*low base size, differences not significant
+Companies in Wales are relatively in line with the rest of the UK when it comes to having existing data roles; however, Welsh companies are significantly less likely to have Data Managers than other regions (6% vs. 29% in the UK). Looking at the top 5, this region is most likely to have a Data Protection Officer (29%), a Chief Data Officer (26%), a Chief Technology Officer (23%), Data Technicians (23%) and a Chief Information Officer (23%). More than a third (35%) of companies in Wales currently have no existing data roles.
+When it comes to the importance of different skills, Wales is also largely in line with the rest of the UK. The top 5 most important skills in Wales are Professionalism (97%), Problem solving (94%), Communication (94%), Basic IT skills (90%) and Database management (87%). When it comes to performance, Wales has slightly better performance than the rest of the UK. Looking at specific skills, Wales is better at Problem solving, Basic IT skills, Data ethics, Communication and Adaptability.
+Overall, looking at the data skills gap index, Wales has a cross-skill gap that is significantly smaller than that of the rest of the UK. The top 5 biggest gaps between importance and company performance in Wales are in Leadership (13%), Knowledge of emerging technologies and solutions (12%) and an Analytical mindset (11%), suggesting workers in Wales may benefit from training in these areas.
+Skills gap index (employers)
+All regions indexed at 100
+Skills gap index (workers)
+All regions indexed at 100
+Looking at the gap between importance to employers and individual worker performance, workers in Wales perform better than the rest of the UK. The biggest gaps that individual workers see in their performance are in Programming (35%), Knowledge of emerging technologies and solutions (33%) and Database management (30%).
+When it comes to graduates and other new joiners and their skills, Welsh companies are largely in line with the rest of the UK. A quarter (23%) of companies in Wales say they do not hire graduates, while the top 3 skills graduates are lacking most are Leadership (23%), Industry/sector expertise (19%) and Machine learning (19%). Looking at other new joiners, Welsh companies are more likely than those in other regions to say they lack Leadership skills (39% vs. 19% in the UK), and less likely to say they lack Industry/sector expertise (0% vs. 15% in the UK). To caveat, this difference could be due to the low base size of companies surveyed in Wales and therefore is not robust for analysis.
+Both the Employers Skills Gap Index and the Workers Skills Gap Index use a performance measure that is rebased to only include the skills that are relevant to each employer or workers’ job.
+Based on 31 companies and 231 workers in Wales.
+Demographic considerations: the companies in Wales that Opinium surveyed were more likely than in other regions to have 6-9 employees (13% vs. 4% in the UK) or 5,000-9,999 employees (13% vs. 4% in the UK) and be in the following industries: Food / Beverage / Restaurant (10% vs. 3% in the UK) and Government (6% vs. 2%). This may be a contributing factor to the differences between this region and other regions.
+Northern Ireland*
+*low base size, differences not significant
+Companies in Northern Ireland are relatively in line with the rest of the UK when it comes to having existing data roles. Looking at the top 5, this region is most likely to have a Data Protection Officer (48%), a Chief Technology Officer (33%), a Chief Information Officer (33%), Data Managers (33%) and Data Analysts (29%). A quarter (24%) of companies in Northern Ireland currently have no existing data roles.
+When it comes to the importance of different skills, Northern Ireland is also largely in line with the rest of the UK. The top 5 most important skills in Northern Ireland are Professionalism (100%), Project Management (95%), Adaptability (95%), Communication (95%) and Basic IT skills (95%).
+When it comes to performance, Northern Ireland has slightly better performance than the rest of the UK. Looking at specific skills, Northern Ireland is directionally
+better at Project management, Information management, Data processing, Communication and Subject matter expertise.
+Overall, looking at the data skills gap index, Northern Ireland has a cross-skill gap that is significantly smaller than that of the rest of the UK. The top 5 biggest gaps between importance and company performance in Northern Ireland are in Machine learning (26%), Knowledge of emerging technologies and solutions (26%), Storytelling (23%), Data ethics (21%) and Adaptability (19%), suggesting workers in the Northern Ireland may benefit from training in these areas.
+Skills gap index (employers)
+All regions indexed at 100
+Skills gap index (workers)
+All regions indexed at 100
+Looking at the gap between importance to employers and individual worker performance, workers in Northern Ireland perform almost exactly in line with the rest of the UK. The biggest gaps that individual workers see in their performance are in Project management (45%), Programming (45%) and Knowledge of emerging technologies and solutions (42%).
+When it comes to graduates and other new joiners and their skills, Northern Irish companies are largely in line with the rest of the UK. A quarter (24%) of companies in Northern Ireland say they do not hire graduates, while the top 3 skills graduates are lacking most are Leadership (33%), Critical thinking (33%) and Professionalism (29%). Looking at other new joiners, NI companies are most seeing a lack in Communication skills (33%), Problem solving (24%) and Industry/sector expertise (24%).
+Both the Employers Skills Gap Index and the Workers Skills Gap Index use a performance measure that is rebased to only include the skills that are relevant to each employer or workers’ job.
+Based on 21 companies and 92 workers in Northern Ireland.
+Demographic considerations: the companies in Northern Ireland that Opinium surveyed were more likely than in other regions to have 500-999 employees (29% vs. 12% in the UK) and be in the following industries: Civil Service / Local Government / Social Services (14% vs. 3% in the UK), Food / Beverage / Restaurant (14% vs. 3%), Government (10% vs. 2%), Telesales / Telemarketing (5% vs. 0%) or Training / Development (5% vs. 1%). This may be a contributing factor to the differences between this region and other regions.
+Bibliography
+(<https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/807830/No_Longer_Optional_Employer_Demand_for_Digital_Skills.pdf>)Burning Glasses Technologies (2019). No Longer Optional: Employer Demands for Digital Skills
+ta/le/807830/No_Longer_Optional_Employer_Demand_for_Digital_Skills.pdf)
+(<https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/807830/No_Longer_Optional_Employer_Demand_for_Digital_Skills.pdf>)(https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_da
+Department for Digital, Culture, Media & Sport (2019). National Data Strategy: Review of commonly quoted statistics
+Consultation (https://www.gov.uk/government/publications/uk-national-data-
+(<https://www.gov.uk/government/publications/uk-national-data-strategy/national-data-strategy>)Department for Digital, Culture, Media & Sport (2020). National Data Strategy strategy/national-data-strategy)
+Department for Education (2018). Employer skills survey 2017: UK findings
+Digital Realty. (2018). The Data Economy Report
+ECORYS UK, DCMS, DBIS (2016). Digital skills for the UK economy
+Eszterházy Károly Uni/IFLA Journal (2016). Data Governance, data literacy and the management of data quality
+Science. (https://towardsdatascience.com/the-most-in-demand-skills-for-data-scientists-
+(<https://towardsdatascience.com/the-most-in-demand-skills-for-data-scientists-4a4a8db896db>)Hale, J (2018). The Most in Demand Skills for Data Scientists. Towards Data 4a4a8db896db)
+Harvey Nash/ KPMG (2018). CIO Survey 2018: The Transformational CIO
+IBM (2016). The Chief Data Officer playbook: creating a game plan to sharpen your digital edge
+IBM/Burning Glass Technologies (2017). The Quant Crunch: How the demand for data science skills is disrupting the job market
+Industrial Strategy Council (2019). Skills Mismatch 2030
+Joint Nature Conservation Committee (2018). Data Skills Framework: A generic approach to assessing and developing data related competencies and skills
+(https://blogs.oracle.com/datascience/skills-that-linkedin-looks-for-in-a-data-scientist-
+(<https://blogs.oracle.com/datascience/skills-that-linkedin-looks-for-in-a-data-scientist-candidate>)Li, Michael. (2018). Skills that LinkedIn Looks for in a Data Scientist Candidate. candidate)
+Mateos-Garcia,J.Bakhsi,H & Windsore,G (2015). Skills of the Datavores: Talent and the Data Revolution.
+Miller, S. (2014). Collaborative Approaches Needed to Close the Big Data Skills Gap. Journal of Organization Design, 3(1), 26-30.
+the soft skills
+(<https://www.ncub.co.uk/blog/who-will-take-responsibility-for-the-soft-skills>)National Centre for Universities and Business(2020), Who will take responsibility for (https://www.ncub.co.uk/blog/who-will-take-responsibility-for-the-soft-skills)
+National Institute of Economic and Social Research, British Academy (2015). State of the Nation: A Review of Evidence on the Supply and Demand of Quantitative Skills
+Nesta (2015). Skills of the Datavores: Talent and the Data Revolution
+Nesta & RSS. (2014). Model Workers: How leading companies are recruiting and managing their data talent
+Nesta & Universities UK (2015). Analytic Britain, Securing the Right Skills for the Data Driven Economy
+(https://doi.org/10.1787/1f029d8f-en)
+(<https://doi.org/10.1787/1f029d8f-en>)OECD (2019). Skills Matter: Additional Results from the Survey of Adult Skills, OECD Skills Studies, OECD Publishing, Paris
+ONS (2016). Analysis of the UK labour market - estimates of skills mismatch using measures of over and under education: 2015
+ONS (2020). Vacancies, jobs and public sector employment in the UK: July 2020.
+Open University (2018). Business Barometer 2018
+Open University (2019). Bridging the Digital Divide
+PwC (2017). Sizing the prize: What’s the real value of AI for your business and how can you capitalise?
+(<https://www.dataiq.co.uk/articles/articles/uks-data-economy-worth-ps73-billion-potential-greater>)Reed, D(2018). UK’s economy worth £73 billion, but potential is greater. DataIQ. (https://www.dataiq.co.uk/articles/articles/uks-data-economy-worth-ps73-billion-potential-greater)
+Royal Society/ Burning Glass (2019). Dynamics of Data science skills: how can all sectors benefit from data science talent?
+SAS/The Tech Partnership (2014). Big Data Analytics: Assessment of Demand for Labour and Skills, 2013-2020.
+Tech UK (2016). Understanding, Demystifying and Addressing the UK’s Big Data Skills Gap
+(https://www.business-live.co.uk/enterprise/jobs-market-on-pause-coronavirus-
+(<https://www.business-live.co.uk/enterprise/jobs-market-on-pause-coronavirus-18060393>)Telford, W (2020). Jobs market ‘on pause’ as coronavirus takes its toll on employers. Business live. Jobs market ‘on pause’ as coronavirus takes its toll on employers 18060393)
+University of Brussels & McKinsey&Co (2016). Big Data, Big Bang?
+Universities UK (2015). Making the most of data: Data skills training in English universities
+Warwick Institute for Employment Research University of Warwick (2019). Graduate Employability and University of Warwick Graduate Skills
+Footnotes
+1. OECD (2019). Skills Matter: Additional Results from the Survey of Adult Skills, OECD Skills Studies, OECD Publishing, Paris, https://doi.org/10.1787/1f029d8f-
+en.
+2. SAS/The Tech Partnership (2014). Big Data Analytics: Assessment of Demand for Labour and Skills, 2013-2020.
+3. Nesta (2015). Skills of the Datavores: Talent and the Data Revolution
+4. University of Brussels & McKinsey & Co. (2016). Big Data, Big Bang?
+5. Hard data skills include: Basic IT skills, Information management, analysis skills, data ethics, programming, database management, data processing, data literacy, data visualisation, advanced statistics, machine learning, data communication skills, knowledge of emerging technologies and solutions.
+6. This range is based on 215,000 companies that are seeking hard data skills beyond just basic IT skills, while a further 19,000 companies only mentioned Basic IT skills as a hard skill that their business needs.
+7. Basic IT skills as part of a wider set of skills required to analyse data
+8. Soft data skills include: professionalism, communication, problem solving, collaboration, adaptability, critical thinking, subject matter expertise, industry/sector expertise, analytical mindset, creativity, project management, leadership, curiosity and storytelling.
+9. The Data Skills Taskforce was set up – partly in response to a recommendation in Nesta’s Analytic Britain report – to act as a knowledge and best practice-sharing forum across key participants from industry and higher education, and to promote data skills and analytics. It has a wide range of members from industry, academia, Royal Societies and government
+10. Digital Realty. (2018). The Data Economy Report
+11. Nesta & RSS. (2014). Model Workers: How leading companies are recruiting and managing their data talent
+12. IBM/Burning Glass Technologies (2017). The Quant Crunch: How the demand for data science skills is disrupting the job market; SAS/The Tech Partnership (2014). Big Data Analytics: Assessment of Demand for Labour and Skills, 2013-2020; Warwick Institute for Employment Research University of Warwick (2019). Graduate Employability and University of Warwick Graduate Skills
+13. Eszterházy Károly Uni/IFLA Journal (2016). Data Governance, data literacy and the management of data quality
+14. Joint Nature Conservation Committee (2018). Data Skills Framework: A generic approach to assessing and developing data related competencies and skills
+15. ECORYS UK, DCMS, DBIS (2016). Digital skills for the UK economy.
+16. Generalist data roles include: Data Analyst,Chief Technology Officer, Data Protection Officer, Data Manager, Chief Information Officer, Head of Data, Chief Data Officer, Data Director
+17. Specialist data roles include: Data Technician, Data Engineer, Data Architect/Developer, Data Scientist, Machine Learning Engineer, Machine
+Learning Specialist, Artificial Intelligence Specialist, Artificial Intelligence Director, Intelligence Analyst, Artificial Intelligence Strategy Manager
+18. Senior management includes: Chief Technology Officer, Data Protection Officer, Data Manager, Chief Information Officer, Head of Data, Chief Data Officer, Data Director, Artificial Intelligence Director, Artificial Intelligence Strategy Manager
+19. Executive roles include: Data Analyst, Data Technician, Data Engineer, Data Architect/Developer, Data Scientist, Machine Learning Engineer, Machine Learning Specialist, Artificial Intelligence Specialist, Intelligence Analyst
+20. Royal Society/ Burning Glass (2019). Dynamics of Data science skills: how can all sectors benefit from data science talent?
+21. Median average has been calculated
+22. IBM (2016). The Chief Data Officer playbook: creating a game plan to sharpen your digital edge
+23. Harvey Nash/ KPMG (2018). CIO Survey 2018: The Transformational CIO
+24. Nesta & RSS. (2014). Model Workers: How leading companies are recruiting and managing their data talent
+25. Nesta (2015). Skills of the Datavores: Talent and the Data Revolution
+26. IBM/Burning Glass Technologies (2017). The Quant Crunch: How the demand for data science skills is disrupting the job market
+27. Ibid.
+28. Nesta & Universities UK (2015). Analytic Britain, Securing the Right Skills for the Data Driven Economy
+29. This range is based on including and excluding those companies that only mention Basic IT skills as a hard skill that their business needs. The former figure excludes these businesses, and the latter includes these businesses.
+30. Miller, S. (2014). Collaborative Approaches Needed to Close the Big Data Skills Gap. Journal of Organization Design, 3(1), 26-30.
+31. Department for Education (2018). Employer skills survey 2017: UK findings
+32. SAS/The Tech Partnership (2014). Big Data Analytics: Assessment of Demand for Labour and Skills, 2013-2020.
+33. Digital Realty. (2018). The Data Economy Report
+34. Nesta & RSS. (2014). Model Workers: How leading companies are recruiting and managing their data talent
+35. Universities UK (2015). Making the most of data: Data skills training in English universities
+36. Nesta & RSS. (2014). Model Workers: How leading companies are recruiting and managing their data talent
+37. Ibid
+38. National Institute of Economic and Social Research, British Academy (2015). State of the Nation: A Review of Evidence on the Supply and Demand of Quantitative Skills
+39. The British Academy (2015). Count us in: Quantitative skills for a new generation
+40. National Institute of Economic and Social Research, British Academy (2015). State of the Nation: A Review of Evidence on the Supply and Demand of Quantitative Skills
+41. Industrial Strategy Council (2019). Skills Mismatch 2030
+42. The Open University (2018). Business Barometer 2018
+43. Nesta & RSS. (2014). Model Workers: How leading companies are recruiting and managing their data talent
+44. Ranking on a scale of 1 (low) to 3 (high) the mean is calculated across all employers surveyed and used to rank
+45. The Open University (2018). Business Barometer 2018
+46. ABC1 / CDE refer to NRS Social grade classification. ABC1 refers to middle and upper-class society, whereas CDE refers to working class society. ABC1 includes the following classifications: ‘Higher managerial, administrative and professional, Intermediate managerial, administrative and professional, Supervisory, clerical and junior managerial, administrative and professional’. C2DE includes the following classifications: ‘Skilled manual workers, Semi-skilled and unskilled manual workers, State pensioners, casual and lowest grade workers, unemployed with state benefits only’. See: http://www.nrs.co.uk/nrs-print/lifestyle-and-classification-data/social-grade/
+(<>)Back to top
+v3.0
+(<https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/>)All content is available under the Open Government Licence , except where otherwise stated
+(<https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/>)© Crown copyright

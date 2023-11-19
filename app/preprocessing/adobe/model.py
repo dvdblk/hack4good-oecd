@@ -160,6 +160,17 @@ class Section:
         """Return a cleaned version of the title (without section number)"""
         return re.sub(r"^(\d+\.?)+", "", self.title).lstrip()
 
+    @property
+    def text(self) -> Optional[str]:
+        """Create a simple linear text representation of the document"""
+        text = ""
+        for paragraph in self.paragraphs:
+            text += paragraph.text + "\n"
+        for subsection in self.subsections:
+            text += subsection.title + "\n"
+            text += subsection.text
+        return text
+
 
 class Document(Section):
     """The root node to a tree of Sections"""

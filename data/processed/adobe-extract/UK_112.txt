@@ -1,0 +1,386 @@
+A vision for quantum technologies in the UK
+(<https://www.iop.org/>)iop.org
+ Executive summary
+ About this report
+ A vision for quantum technologies in the UK
+ Realising the vision:
+ Roadmap
+ Ecosystem – start up
+ Ecosystem – scale up
+ Skills
+ Wider enablers
+ Conclusions and recommendations
+ (<>)Appendix 1: Case studies: (<>)Quantum-based businesses in the UK
+ Appendix 2: Relevant IOPP content
+Roadmap
+Ecosystem start up
+Ecosystem scale up
+Skills
+Wider enablers
+This report presents evidence drawn from the IOP’s engagement with the quantum sector through stakeholder events and commissioned research. It was compiled to support the UK Government to develop its quantum strategy. In presenting this evidence, we support the vision to create a quantum enabled economy, and make ten recommendations to enable the realisation of this vision. We also identify areas where the IOP has the potential to support a UK quantum strategy.
+Our recommendations address the key elements of a successful UK quantum strategy identified in consultation: a joined up approach to supporting research, development and innovation, leveraging the increasing convergence between disciplines; business support that accelerates the adoption of quantum technologies by existing businesses, and enables a quantum ecosystem generating healthy levels of start-ups, with the scale to attract large-scale investment and ability to protect key sovereign capabilities; and an integrated approach to skills development at every stage, where there are inclusive opportunities for people with different skills, from all backgrounds, to play roles in this new sector, and with a key focus on technical skills, to secure the sector’s growth. All of this has to be underpinned by a proactive and collaborative approach to international partnerships where there is mutual benefit as well as shared values, and supported by a clear and high-profile communications strategy – which in turn has to be built on an ambitious vision for the sector.
+A vision for quantum technologies in the UK
+The National Quantum Technologies Programme strategic intent document set out a vision to ‘Create a ‘quantum enabled economy’, in which quantum technologies are an integral part of the UK’s digital backbone and advanced manufacturing base; unlocking innovation across sectors to drive growth and help build a thriving and resilient economy and society’.
+We believe this vision can be realised and government strategy has a key role to play. We argue that the government’s focus should be broader than quantum computing alone because of the strength in depth of UK quantum, across a wide range of technologies which impact multiple sectors. Quantum will transform global economies, so the government strategy must be bold and ambitious to position the UK as an innovation world leader and dominant player in the global quantum technologies market over the coming decades.
+A UK quantum strategy needs to support each stage of the journey towards commercialised quantum-based products and services, from foundational research through to market, through the provision of direct and indirect support, coordination and planning, and aligned policies addressing skills and other enabling factors. This report presents evidence under each of these headings.
+Sector growth ambition
+Quantum technologies have the potential to transform the way people live and to revolutionise industries as diverse as computing, communications, security, defence, healthcare and pharmaceuticals. As an enabling technology, quantum devices could enable step changes in anything from drug discovery (through the use of quantum computing) through to energy efficiency (through the use of advanced sensors). The level of ambition for quantum businesses in the UK is rightly high. The physics community believes the government should target significant growth of the sector in terms of the overall value of the sector, the numbers of businesses and employees, and the extent to which the quantum ecosystem is driven by high-productivity companies.
+To plan the scale and scope of strategic support, there needs to be a clear ambition for the growth of the sector. This should be realistic and evidence based, drawing on lessons from the growth trajectories of other high-tech sectors in the UK and articulating the opportunities not just in terms of end-product manufacture but also supply chain and design within a global emerging industry.
+More work is required to determine a precise level of ambition for the sector.
+Ten recommendations
+IOP engagement with the physics community found there was consensus that the UK quantum strategy should be broad-based, addressing each stage of the process that takes foundational research through to commercialised products and services. It is vital that the different parts of this complex system – including an appropriate regulatory environment, the necessary support and infrastructure, and an underpinning of enhanced skills to help grow the sector – are coordinated through effective planning.
+Alongside setting out a vision and growth ambition that enunciates the role for the UK in a global quantum technologies sector and supply chain, IOP engagement suggests the strategy should:
+Roadmap
+ Set an ambition for government to fund and lead the development of mission-led roadmaps for quantum impact, building on previous work and  spanning the breadth of fundamental research, development and innovation – leveraging convergence opportunities with related and enabling disciplines.
+Ecosystem – start up
+ Incentivise start-ups and support the research base to spin out more quantum businesses, in line with specific growth ambitions, building on the success of the Quantum Technologies Programme. This should be presented in a coordinated way across the landscape of bodies providing support, and include consideration of simplification of IP licensing to companies and of challenge-prize mechanisms.
+ Establish a network of accelerators linked with venture capitalists and larger businesses that builds on existing efforts to create clusters and increase the number of start-ups and SMEs and increase efforts to connect with user communities to understand market needs, raise awareness of quantum solutions and bridge the divide between research and business.
+ Establish a research and innovation organisation(s) to deliver the build of quantum technology device demonstrators and commercialisation partnerships with SMEs, integrators and end users.
+Ecosystem – scale up
+ Provide greater financial support around IP protection, for both businesses and universities, and broaden the pool of investment at Series B/C and beyond in the UK, to ensure high-growth start-ups are scaled and retained in the UK.
+ Scope out and create small sovereign foundry capabilities to scale up initial manufacturing of QT devices, components and packaging and maintain optionality in the face of uncertainty as to which technologies will ultimately prevail.
+ Build on existing strengths to establish the UK as a global leader in quantum standards, test, compliance and certification capability, and use this to influence internationally.
+Skills
+ Require government departments to work together to create an integrated national skills programme which includes quantum technology spanning all educational stages and retraining. There should be a key focus on technical education
+to ensure that supply can meet demand and that opportunities are available for people with different skills, from all backgrounds, to play roles in this new sector, including consideration of upskilling, reskilling, and CPD approaches.
+Wider enablers
+ Set out a policy for international partnerships to draw in critical capabilities and build supply chain opportunities, whilst establishing a clear position that protects the national sovereignty of key technologies linked to homeland security and competitiveness.
+ Seed a broad-based and strategic approach to communications with tailored messages to inspire all in the UK to consider what role they can play in this priority tech sector, and develop a credible narrative to convince skilled people, companies and investors to think of the UK first. This should include healthy, open, public debate around the challenges and risks of quantum technology, to ensure positive public perception of the sector and to help attract talent into the skills pipeline.
+The IOP has a strong track record of supporting strategic technology policy development. Within the quantum policy agenda there are several specific areas where the IOP could play an important enabling role. These include:
+A Workshopping and community engagement to support mission-led roadmapping. Good examples exist of such processes having positive impacts: the IOP supported a successful partnership with the Royce Institute1 on a community developed roadmap for materials to help deliver net zero targets.
+B A new IOP Quantum and Business group, bringing together quantum technology innovators, entrepreneurs and adopters, including the finance community, with a sponsored prize for early-stage quantum start-ups, linked to the UK Quantum and IET Quantum engineering forum – which should play a role in supporting roadmap definition and ecosystem development. This builds on the 51 existing IOP interest groups, which draw from
+more than 20,000 members across the physics community.
+C Professional registration support for the quantum physics and engineering workforce.
+D Support for skills development as part of our wider work on physics skills – covering curriculum, teacher development, technical skills and apprenticeships. A specific early contribution could be an annual quantum challenge for A level students to inspire the next generation, working with Orca Computing / UK Quantum, following a successful pilot in April.
+E Support in establishing international dialogues of expert communities with prioritised international partners for strategic impact.
+F Support for the communications strategy through extending public reach and curating discussions around inclusion, sustainability and ethical issues.
+This report documents views held within the physics community about how government can support the quantum sector’s future growth. It draws on comments from 120 participants at IOP engagement events, along with previously commissioned evidence and data. It is not intended as a detailed analysis of the quantum sector, but is designed to provide a general understanding of the UK quantum sector to help the UK Government to develop its quantum strategy.
+Evidence was gathered from three online events hosted and facilitated by the IOP:
+– 18th March 2022: first quantum strategy workshop for IOP members and wider community
+– 24th March 2022: roundtable discussion with senior executives (CTOs and equivalent) from large businesses
+– 25th March 2022: second quantum strategy workshop for IOP members and wider community
+The IOP took notes from these meetings but they were held under the Chatham House rule, so all comments or perspectives recorded in this report are unattributed.
+This report also draws on statistical data compiled by CBI Economics for the IOP in 2021, published in the ‘Paradigm Shift’ report.2 The full Paradigm Shift report looked at the volume and type of physics-based innovation taking place in companies in the UK and Ireland, and assessed the barriers to innovation
+identified by survey participants from across the CBI membership. For this quantum report, CBI Economics provided an analysis of the survey data specific to those survey participants who indicated that quantum technologies were relevant to their business.
+The appendices present short case studies highlighting companies and activities in the UK quantum sector. We also present a range of content on these topics published by IOP Publishing, part of the IOP group of companies.
+Our analysis is also informed by other ongoing conversations with IOP members and stakeholders across the quantum community.
+The evidence in this report comes on top of additional support from IOP for the government’s policymaking process. IOP worked with the Department of Business, Energy and Industrial Strategy (BEIS) during early 2022 to help form ideas for the UK’s quantum strategy, hosting events at the IOP in London in February, March and April, at which BEIS officials spoke directly with IOP members engaged with quantum research and technology development. This report does not draw on evidence from those events.
+This report is for submission to BEIS for consideration in the development of government policy. For transparency, it is also published by IOP for the benefit of IOP members and to support public understanding of the quantum technologies sector and its promise for the wider UK economy.
+iop.org/strategy/productivity-programme/innovation-survey#gref
+In recent years, the UK government has indicated a high level of ambition for the future of the UK quantum sector.
+The National Quantum Technology Programme’s strategic intent document, published in November 2020, set out a vision to “Create a ‘quantum enabled economy’, in which quantum technologies are an integral part of the UK’s digital backbone and advanced manufacturing base; unlocking innovation across sectors to drive growth and help build a thriving and resilient economy and society.”
+A year later, in November 2021, UK Prime Minister Boris Johnson stated an ambition for the UK to capture 50% of the quantum computing global market by 2040.
+The Institute of Physics is the membership organisation and learned society for physics in the UK and Ireland, representing c. 20,000 physicists from industry and academia. We want to help shape the UK’s vision for quantum technology in the UK so that it meets the level of ambition the government has described. We see this as beneficial to the UK’s economy and society, bringing forth opportunities for life-enhancing technological innovation, high-skilled jobs, enhanced national security and international competitiveness.
+We share the belief that we should push forward and build on UK successes in quantum computing. But to do this most effectively, we must ensure that strategy focuses on the broader scope of quantum technologies.
+A successful strategy must play to our strengths. The UK physics community is world-leading in its research and innovation capabilities in quantum imaging, sensing, timing, navigation, metrology, communication and secure encryption technologies. We must capitalise now on this breadth of world-leading quantum knowhow to disrupt multiple sectors and markets around the world. These range from medical, healthcare, defence and national security, to autonomous vehicles/transport, environmental monitoring and finance.
+While many speak of quantum as a technology of the future, there are concrete examples of prototype quantum technology devices already entering some of these markets today. A selection of successful UK quantum companies are listed as case studies in appendix 1. These indicate the potential for near-term economic and societal impact.
+We must also ensure national sovereignty of critical quantum technologies to meet domestic needs, along with resilient national supply chains.
+As the global market grows – how much of that value will be realised by the UK? The national strategy needs to set out our stall.
+Questions to the quantum community
+With this in mind, we sought to address three key questions in our stakeholder events. We asked participants to consider how government strategy can help to create the conditions for a flourishing quantum ecosystem, fuelled by new start-ups and supportive of their development and scale up; how opportunities for convergence with other technologies can help to drive markets and businesses; and how large businesses can be involved as systems integrators and end-users to support a thriving SME sector. The recommendations in this report correspond to five key themes that emerged from these discussions:
+– Roadmap
+– Ecosystem – start up
+– Ecosystem – scale up
+– Skills
+– Other enablers
+Evidence is presented according to these themes in the following sections.
+Roadmap
+Discussions at the IOP events reflected on the process of taking an innovation derived from basic research andtranslating it into a marketable product or service. This journey takes place within a massively complex systemcomprising many different entities, including universities, spin-off and start-up companies, small and mediumsized enterprises, systems integrators and end-users, as well research and innovation organisations, researchcouncils, other funding bodies and private investors. Each of these parties operate in their own context, with their own set of stakeholders, their own distinct pressures and, inevitably, their own timeframes and planning cycles. Quantum is an emerging technology which is highly capital-intensive and takes a long time to reach the market. To speed the development of the UK quantum sector, support is needed to enable the many players within the system to understand the stateof the sector as a whole and plan with confidence.
+We believe scoping and developing mission-led roadmaps that build on previous work is the best way to achieve this.
+Scale of ambition for the quantum sector
+One of the first questions asked of participants at the IOP stakeholder events was what the scale of ambition should be for the quantum sector in the UK.
+Participants listed a wide range of potential applications for quantum technologies. There was a strong shared view that quantum technology is a technology of the foreseeable future; that quantum-enabled devices will reach the market, and will be transformative for sectors including healthcare, communications, transport, environment, finance, defence and security, as well as in the green economy.
+Participants were clear that government has a vital role to play in supporting the development of a quantum sector – as a supporter of foundational research, research and development and commercialisation, and as a customer. Government involvement needed to be at all stages of the process, from initial research to commercialisation, to being the first customer. Several participants pointed to what they saw as effective government interventions in other territories:
+“The EU have a Digital Europe programme – now at the stage of deploying quantum technologies. They have a plan to deploy quantum communication all across Europe, and the government will be the first user of that network. I would like to see something similar in the UK.”
+– Business roundtable participant
+Why quantum?
+There were many ‘positive arguments’ for why Quantum investment would create jobs and economic growth.
+The improvements to classical technologies that would result from moves towards quantum would be disruptive - change the way we live our every day lives.
+The UK is well placed to harness quantum, with potential for UK businesses to be manufacturers of high value, niche devices across many sectors as well as systems integrators.
+In discussions, participants also highlighted the dangers the UK faces if it fails to take the initiative on quantum technologies, including notably a lack of sovereign capability and a strategic deficit in security and defence capability. This argument ran that while quantum investment is risky, it would be too costly not to invest.
+Valuing the quantum technology sector
+There was no consensus opinion on what the potential value of the quantum sector could be to the UK, and many participants at our workshops noted how difficult it is to estimate the value of technologies and associated software which, in many cases, do not yet exist.
+In considering the potential value of quantum, it is useful to consider the opportunity to build on the UK’s successful growth of quantum technology start-ups since 2014. There is also the potential multiplier for other sectors that quantum could generate. Examples included healthcare (e.g. quantum imaging), finance (e.g. security and cryptography) and defence (e.g. AI-enabled battlefield analysis). UK strengths in adjacent technology sectors such as photonics, semiconductors and AI are also positive signs for the UK quantum sector.
+The opportunities that quantum developments would create for improving classical technologies were also highlighted.
+“[My company] are end users. We have computational ambitions, for instance for testing and simulation. In this sense, the quantum vs classical – we see applications for us as likely to be hybrid. Quantum capability is likely to be limited by classical processing.”
+–
+ Business roundtable participant
+One more cautious voice pointed out that just because you have the technology does not mean the market will desire it. There needs to be an ‘industry pull’ – and this is not always evident.
+“…the National programme has been going for seven years and prior to that there was investment in quantum technology. I’m looking at what the industrial pull might be – rather than declaring what the next technological infrastructure might be. … I’m interested in why there isn’t greater demand for QKD. Atomic clocks is another area: great technology is in place but where is the national demand? That vision of where the UK wants to be should be the basis of the strategy.”
+–
+ Business roundtable participant
+Quantum computing (QC)
+The media narrative and to some extent the attention of politicians has a tendency to focus on quantum computing rather than quantum technology as a whole. While the potential of quantum computing is vast, the quantum ‘space’ includes a host of other technologies with applications ranging across health, defence, finance, communications and other fields – with the potential to be as, or more, transformative.
+Many participants in our workshops felt that quantum computing seems to be of interest to the government, but expressed skepticism that it should be the sole focus for an effective quantum strategy.
+Several pointed out that other countries are already investing heavily in QC and are more developed, whereas in the UK it is mostly start-ups who are developing hardware.
+Some noted that the UK has actually done well in QC despite the negative comments that the UK will never be good at computing hardware.
+One participant argued that they thought large companies were likely to develop quantum computers for their own purposes.
+There were voices in support of government investment in quantum computing:
+“Public investment in quantum computing start-ups may end up benefiting all regardless of whether these companies end up succeeding or not. For example, funding will help bring in maths graduates and getting them started/trained in quantum algorithms, which will partly address some of the issues around skills.”
+– Workshop participant
+Others argued that while QC is still a long way off, investment towards it could reap other benefits in the way of improvements in other technologies, such as more efficient materials and improved classical computers.
+However, an opinion more widely held was that, rather than targeting a segment of the market for quantum computing, government strategy should seek to support aspects of the quantum computing supply chain and supporting infrastructure. For example, focusing on the development of components for quantum computing, such as qubits, could enable the UK to play an important role in the development of quantum computing.
+Others pointed out that, in classical computing, more money has been made by software developers than hardware manufacturers, so focusing on the software and algorithms needed to effectively use quantum computers might be a better use of funding.
+Some of the ‘QC-adjacent’ developments may be more promising – sensors, devices, software, algorithms. These could be niches but offered an opportunity for the UK to be world-leading.
+Coordinating role
+In identifying the need for a government strategy with a more multi-faceted objective of supporting the quantum technologies sector, participants pointed to the need for government involvement and many stressed the importance of a coordinating role, coordinating across government departments, as well as looking across the different parts of the sector and enabling them to work together efficiently.
+Several participants stressed the need for leadership and a strategy to set the framework for state support, including at the ‘innovator ground level’.
+Further ‘downstream’, several discussions at the IOP events highlighted the so-called ‘Valley of death’ – the particularly challenging phase of development to move to higher TRL levels, which requires significant investment for fabrication and prototyping prior to commercialisation. Coordination is needed with funding at all stages to ensure the development of companies and an effective ecosystem.
+Convergence opportunities
+Part of the coordinating role of government and organisations like the IOP is to find opportunities for convergence with existing technologies and supply chains.
+These offer opportunities for quantum companies based in the UK to thrive and add value to other parts of the UK economy. The application of quantum technologies within UK industry also provides a way for that intellectual capacity to be retained in the UK – addressing issues of sovereign capability that many participants in the IOP events identified.
+Participants at IOP events identified a range of areas where there could be convergence between quantum and other technologies, both in terms of the use of quantum components in ‘classical’ systems, but also where infrastructure and capability developed for quantum could benefit other sectors. Photonics, compound semiconductors and cryogenics were often cited as ‘enabling technologies’ where advances would support the realisation of quantum devices.
+“[The] majority of quantum technologies we are talking about rely on single photon technology. The semiconductor industry is therefore pivotal in developing the enabling technologies for many of the single photon devices that are required for QKD, covert comms, covert active sensing [and so on]” – Business Roundtable participant
+“Quantum sensors … will ultimately lead to the quantum computer. This includes also classical semiconductors. Supply chains for quantum computing and quantum technologies require lots of electronics – cryo-electronics, III-V semiconductor technologies where the UK is also very strong.”
+– Business Roundtable participant
+Quantum computing was recognised as an area where quantum hardware would create opportunities for other types of activity – in particular software development and algorithms – which could be significant sectors in their own right.
+One speaker pointed out the interdependence of different sectors in bringing forward other technologies, implying that the same could be true for quantum:
+“Military applications of compound semiconductors and photonics only really took off when commercial activities reduced the cost of individual components.” – Business roundtable participant
+It is clear that there is an essential role for government in providing leadership and coordination so that investment can happen across the quantum sector and in concert with other parts of the economy. The direct role of government and the shape of the infrastructure needed to provide support for businesses was discussed further and is outlined in the following section (Ecosystem: start up). Other policy considerations are outlined in subsequent sections on scaling up, skills and wider enablers.
+CBI Economics Report findings: Quantum innovation activity
+The CBI Economics report shows companies that indicated quantum technologies to be relevant to their business are amongst the most active innovators out of those companies engaged in physics innovation in the UK and Ireland. Respondents to the CBI Economics survey engaged in quantum innovation often reported the high cost and risky nature of innovation. They were also more likely to point to government policy/regulation as a barrier to innovation – alongside cultural barriers and lack of equipment.
+“Across the UK and the Republic of Ireland (RoI), quantum innovators are actively investing in scientific discovery and technology, driven by the goal of developing new products or services and adapting to the emergence of new technologies.”
+– CBI Economics, Paradigm Shift: Quantum Innovation
+– Quantum innovators were more likely to be motivated by the need to adapt to the emergence of new technologies (72% vs 53%) and by advancing general scientific understanding (50% vs 24%) than their non-quantum counterparts.
+– When asked about significant challenges to undertaking R&D/innovation activities, a majority of quantum innovators pointed to the direct costs of innovation (57%) and uncertainties of risks related to undertaking such activity (51%).
+– Quantum innovators were more likely to identify government policy and/or regulation (37% vs 21%), organisational or cultural barriers (29% vs 12%), or a lack of equipment (29% vs 14%) as barriers to innovation compared with their non-quantum counterparts [Paradigm Shift: Quantum Innovation, chart 1].
+Recommendation
+1 Set an ambition for government to fund and lead the development of mission-led roadmaps for quantum impact, building on previous work and  spanning the breadth of fundamental research, development and innovation – leveraging convergence opportunities with related and enabling disciplines.
+Ecosystem – start up
+A measure of success for any quantum strategy will be its capacity for supporting the creation of start-ups in the quantum space.
+The UK is already in an enviable position for the amount of world-leading foundational research taking place in quantum physics. There has also been much success in the creation of start-ups. Around forty start-ups have been spun out of the National Quantum Technology Programme. Government investment to date has largely been effective at targeting the development of applications of quantum technology. Many in the sector recognise that the focus on applications has led to commercial development in the UK that otherwise would not have happened.
+However, there is much more that needs to be done to create a fully-fledged quantum ecosystem in the UK. Start-ups, by definition, may fail as there will not always be a market for every new technology or they run out of money before the product reaches market maturity. But even for viable technologies, there may not be the ‘industry pull’ required to secure private investment in a product. Markets are dynamic: as customer needs change and ‘classical’ technologies continue to evolve, so the long-term viability of some developments is not secure.
+Support for research and innovation
+The shape of government support for quantum technology research and innovation was discussed a lot during the IOP workshops – particularly because the current Hubs are approaching the end of their funding period, raising questions about how successful they have been, and what should come next.
+Participants supported more focus on bridging communities – research, translation, demonstrators, systems integrators, early adopters, end users – to understand market needs and realise solutions. There was a strong view that quantum demonstrators are needed to build markets and should be done in partnership with end users.
+Several participants praised the Hubs for the work they have done. They were recognised for having ‘hothoused’ development and start-ups that would not otherwise have happened. There was a strong sense that new infrastructure and start-up support needs to be introduced as soon as possible, but also recognition among participants that ‘difficult decisions’ may need to follow about the nature of future support:
+“… [a] thing that’s going well is the ability of industry to see what’s going on in the quantum hubs. What’s not going well is lack of persistence of funding and perhaps having to make some difficult decisions about who gets continued funding and who doesn’t.
+– Note from workshop session
+Comments reinforced the need for alignment of various state-funded schemes as well as access to finance, affordable workspace, facilities and business support.
+“One thing that has gone well has been the coordination between the science funding from the EPSRC, the slightly higher TRL industry-led funding from Innovate UK, the quantum DSTL funding for the defence aspects of the work, and the links with GCHQ. Also the work that NPL have been funded to do together.”
+– Note from workshop session
+Other observers felt there was good alignment in the past but that ‘it’s drifting away’ and new alignment is needed now. There is an important role for government in providing leadership and coordination.
+Support across the research and innovation process
+Participants agreed that public sector funding for research and innovation as well as business support is important to ensure growth of the sector.
+“I very much support quantum hubs – they are moving towards applications. But there’s a risk of losing focus on fundamental research.” Workshop participant
+“Provide productivity incentives as in US and India to support growth of SMEs by incentivising the manufacture of prototypes and collaborations with larger companies.” Workshop participant
+“Create more calls for multidisciplinary, academia-industry collaborations to build prototype QT devices to test in real-word applications.” Workshop participant
+“The IOP Accelerator affordable workspace is brilliant, giving us a bit of kudos and business support, and it’s great value for money.” Workshop participant
+CBI Economics report findings: Public funding
+“Public funding for quantum-related R&D/innovation projects helps attract private investment and generates a return for wider society through the development of new quantum-based products and services that otherwise would not have been produced. Public investment also leaves a legacy of higher skills and technological capabilities. Improved access to support could spread these benefits among a wider range of businesses”
+– CBI Economics, Paradigm Shift: Quantum Innovators
+– Quantum firms were more likely to have been recipients of UK government funding for R&D/ innovation activity than non-quantum innovators (77% vs 43%, respectively). Quantum firms were also more likely to have used funding from devolved governments or EU institutions. A majority of quantum innovators that received public funding said it was very important to the R&D/innovation activity taking place (65%).
+– Quantum innovators were more likely than non-quantum innovators to say that public funding was very important where relevant (65% vs 53%), and less likely to say it was not important (9% vs 16%).
+– A majority of quantum innovators that received public funding believed it fills a financing gap without which the activity could not take place (68%).
+– 42% of quantum innovators said that public funding attracts additional private funding, compared with 16% that said it acts as an alternative to private funding. This suggests that public funding is more likely to have a “crowding in” effect rather than a “crowding out” effect.
+To accelerate further applications of QT, one suggestion was to have ‘vertical’ hubs – such as materials, algorithms, design, applications – rather than thematic hubs as currently constituted. The participant cited the NIQI (National Institute for Quantum Integration) as an example.
+Other models were also discussed as potential means of going forward:
+DARPA (Defense Advanced Research Projects Agency), the US funding body, was noted to have brought government procurement and challenge together well. One participant asked whether the UK could do that better, suggesting as an example, a prize for a new atomic clock.
+The German Fraunhofer model was also cited. This is a state agency that contracts with industry or government to deliver planned development in specific areas. The model combines fundamental and applied research and is funded through a mix of 30% core funding from Government, 30% competitive grant funding and 30% from companies.
+“There is definitely a need for a Quantum intermediary, like the Fraunhofers model, that can do the translation piece from research to innovation: support build of demonstrators, make the wider industry linkages and able to build grant applications and supply chain consortia.”
+Workshop participant
+On issues of critical national infrastructure, one workshop participant called for a specific government department to lead on key capabilities, for instance the Ministry of Defence to lead on positioning navigation and timing. Others also noted that ARIA should play a role, with one suggesting it play a part in coordinating activities across the industrial and academic community.
+There is much to learn from each of these and the ideal solution would be to take forward those aspects of the current model that have worked well, ensuring it is focused on the right parts of the sector (in terms of applications and TRL levels) and coordinate with other bodies such as EPSRC in its support for foundational research, support from Innovate UK, sector-specific support from bodies such as GCHQ, DSTI, and initiatives such as ISCF.
+Recommendations
+ Incentivise start-ups and support the research base to spin out more quantum businesses, in line with specific growth ambitions, building on the success of the Quantum Technologies Programme. This should be presented in a coordinated way across the landscape of bodies providing support, and include consideration of simplification of IP licensing to companies and of challenge-prize mechanisms.
+ Establish a network of accelerators linked with venture capitalists and larger businesses that builds on existing efforts to create clusters and increase the number of start-ups and SMEs and increase efforts to connect with user communities to understand market needs, raise awareness of quantum solutions and bridge the divide between research and business.
+ Establish a research and innovation organisation(s) to deliver the build of quantum technology device demonstrators and commercialisation partnerships with SMEs, integrators, and end users.
+Ecosystem – scale up
+Another measure of success for the national quantum strategy must be the scale up of quantum technology within existing businesses - large, medium and small. This is critical for sector growth. Existing businesses with established markets must see the benefit of incorporating quantum technologies into their products. Demonstrating that quantum technology can offer significant competitive advantage for the cost of investment will be key. Application demonstrators, product development support, access to facilities and IP will go a long way to overcome adoption issues. The national strategy should also consider evaluation support for businesses so that the benefits of quantum technology can be realised in their products whilst ensuring net zero impact.
+Government strategy must also support an environment where existing existing businesses and start up companies are well placed to attract investment and grow.
+A key area discussed widely at IOP’s events was how to attract capital into companies. Linked to this was the question of how intellectual property is managed.
+Venture capital
+The need to attract venture capital investment in quantum technologies arose in several discussions at the IOP events, with most observers pointing to the relative difficulty of attracting finance in the UK compared with European countries and the US.
+Particular challenges identified include the different risk profiles of investors in the UK compared with US investors, as well as the amount of money available to invest. Since most quantum technologies are still several years away from commercialisation, returns are generally not possible in the short and medium term. UK VC investors were felt to be less likely to invest on that basis, compared with their counterparts in the US, where longer term bets are more common.
+Without access to UK capital for business growth, the most likely source of investment is from overseas, which poses a risk to UK intellectual property, jobs and skills, as well as the loss of sovereign capability in strategic technologies.
+CBI Economics report findings: Public funding
+“Public funding for quantum-related R&D/innovation projects helps attract private investment and generates a return for wider society through the development of new quantum-based products and services that otherwise would not have been produced. Public investment also leaves a legacy of higher skills and technological capabilities. Improved access to support could spread these benefits among a wider range of businesses”
+–
+ CBI Economics, Paradigm Shift: Quantum Innovators
+–
+Quantum firms were more likely to have been recipients of UK government funding for R&D/ innovation activity than non-quantum innovators (77% vs 43%, respectively). Quantum firms were also more likely to have used funding from devolved governments or EU institutions.
+A majority of quantum innovators that received public funding said it was very important to the R&D/ innovation activity taking place (65%).
+– Quantum innovators were more likely than non-quantum innovators to say that public funding was very important where relevant (65% vs 53%), and less likely to say it was not important (9% vs 16%).
+– A majority of quantum innovators that received public funding believed it fills a financing gap without which the activity could not take place (68%).
+– 42% of quantum innovators said that public funding attracts additional private funding, compared with 16% that said it acts as an alternative to private funding. This suggests that public funding is more likely to have a “crowding in” effect rather than a “crowding out” effect.
+Intellectual property (IP)
+The quantum strategy needs to address how to optimize the ecosystem so that businesses can harness and commercialise Intellectual Property. It was generally felt that the way IP is managed in the UK is problematic.
+A big problem of commercialising university IP is its handling and the value attached to the IP by the university. Companies and young academic entrepreneurs have voiced this opinion several times. The universities tend to overvalue their IP or are fearful that they will lose out on big returns, should that IP attract significant sums in future. This is a hindrance when licensing the IP to companies or academic researchers who want to spin out.
+Some academic participants pointed out that there is no single way to get funding to protect IP in universities – individual researchers have to negotiate with the university to secure this support. Universities will not make money from most IP, and have no research council funding set aside to cover costs of protection.
+However, several participants pointed out the relatively short lifetime of patents, compared to the long timeframe required to commercialise quantum technology. A researcher could patent something early, but by the time it is ready to be exploited the patent is out of validity, which militates against investment for commercial exploitation.
+To attract more VC investment, universities need a portfolio of long-term prospects. And to support the system to function effectively, strategy must address how national-level interventions could support costs of protection.
+“The UK is very good at developing IP; China is very good at exploiting it”
+– Note from workshop discussion
+CBI Economics report findings: Patents and copyright
+Quantum innovators were asked in the CBI Economics survey about their views on government policy and regulation. Respondents generally saw the administrative burden of patents and copyright as a barrier to innovation.
+– The administrative burden of securing and maintaining protections such as patents and copyright was generally viewed as having a negative impact on quantum innovators’ abilities to undertake R&D/innovation activity (7% saw this as a positive aspect, 23% saw it as negative, giving a weighted balance of -16%), although this was viewed less negatively by quantum innovators than it was by non-quantum innovators (-38%).
+Photonic Quantum Communication Quantum Nanotechnology Semiconductor devices with quantum effect structure Quantum semiconductor lasers Quantum well devices Quantum Computing 500 0 1000 1500 2000 2500 3000 GB   EP   US   CN   JP – However, the innovation protections themselves were seen as positively impacting their ability to undertake R&D/innovation activity (balance of +23% vs +26% for non-quantum innovators), as were standards and certification rules (+6% vs +5% for non-quantum innovators).
+Total number of patent families according to technology (classification code) in key patent-filing territories.
+Facilities and foundries
+Access to facilities was cited by several workshop participants as important for developing technologies. While some argued that there needed to be more large-scale public facilities, available to both researchers and business (doing research at a pre-competitive stage), others stressed the importance of greater promotion of existing facilities.
+A key facilities challenge for quantum is the specific requirement for commercial spaces that have designated clean environments. These exist in small sites for example at universities, but large ones are needed to be able to set up clean and high-quality production line.
+Several speakers from workshops and the business roundtable voiced their support for open access foundries dedicated to quantum applications, though others pointed out that these would require massive investments and are unlikely to be commercially viable.
+A contributor from the business roundtable floated the idea of an ‘intermediate’ foundry to enable prototyping and some scale up, as they exist in other parts in Europe.
+“The need for foundries goes across the board for all quantum devices. The big foundries don’t want to touch this [quantum devices] yet. It’s too small and specific. A clear exception is the PsiQuantum Global Foundries Partnership, but across the board there is a need for quantum specific foundries to start with. There is no commercially available foundry in the UK. Foundries for prototyping and scale are going to be a key aspect for growing this market.”
+– Business roundtable participant
+Another participant pointed to pockets within the UK where there is aspiration for developing ‘foundry-type’ capability:
+“There are some groups with aspirations to offer foundry-type capability around Glasgow at the James Watt Technology Centre and the Compound Semiconductor cluster in South Wales.”
+– Business roundtable participant
+Several business roundtable participants identified facilities and foundries as critical missing infrastructure for the UK quantum industry.
+“We need to see industrial research seen exactly the same way as academic research when it comes to accessibility of NQCC for testing of applications. Free of charge access if you are in the pre-competitive field. I feel the UK quantum technology programme is a bit ring-fenced currently. The boundary should be more porous.”
+– Business roundtable participant
+“One area that is important is a foundry for photonic integrated circuits – these exist in Europe but [there is[ no facility like that in the UK. That would be beneficial for many quantum technologies in the UK. A commercial foundry to do jobs for industry would be good for the UK.”
+– Business roundtable participant
+“Packaging is also important for the supply chain. In the UK we don’t have good foundries for packaging” – Business roundtable participant
+Standardisation and testing
+The need for standardisation and testing facilities in the UK was highlighted by several people in different sessions at the IOP workshops and during the business roundtable discussion. Examples include:
+– Applications that need to be tested in cryogenic conditions. Specialist facilities are required to do this.
+– The security certification process. One participant suggested the government (GCHQ) should take the lead on this.
+Some speakers identified a dilemma around standardisation. If you standardise too soon, you may stifle innovation; but if you don’t standardise it is hard to create applications that buyers have faith in. The solution, argued others, is to standardise at the right stage of development – that is, for higher TRLs.
+Several participants argued that other countries are leading on standardisation. China, Japan Germany and the EU were all cited in discussions as being further ahead in this area.
+One participant in the business roundtable cited the importance of a security verification process and argued that GCHQ should play a role in this for the UK:
+- Business roundtable participant
+Recommendations
+ Provide greater financial support around IP protection, for both businesses and universities, and broaden the pool of investment at Series B/C and beyond in the UK, to ensure high growth start-ups are scaled and retained in the UK.
+ Scope out and create small sovereign foundry capabilities to scale up initial manufacturing of QT devices, components and packaging and maintain optionality in the face of uncertainty as to which technologies will ultimately prevail.
+ Build on existing strengths to establish the UK as a global leader in quantum standards, test, compliance and certification capability, and use this to influence internationally.
+Factors which limit the ability of physics innovators in undertaking R&D/innovation activity (% of respondents)
+Source: CBI Economics, Paradigm Shift: Quantum Innovators, p14.  Quantum innovators  Non-quantum innovators Accreditation for National Measurement System (such as by NPL/NSAI) Suitable facilities (buildings and space) Access to laboratories Access to physical testing equipment Other (please specify) Access to demonstration space / equipment Access to digital technologies (e.g. AI, data analytics) Access to simulation facilities N/A 0 5 10 15 20 25 30 35 40 45 50
+Skills
+Skills were seen by many participants at the IOP events to be a key issue for the development of a healthy quantum ecosystem, and were a recurring theme throughout the discussions (skills issues were also flagged in conversations about start-ups and intellectual property). This section points to specific examples of where skills were mentioned in relation to quantum businesses, and lists some of the ideas shared for developing a broader base of skills for the quantum sector.
+The difficulty in retaining good people in the sector was raised in several conversations. One participant commented there were ‘plenty of postdocs but not many students’ – indicating a ‘pipeline’ issue for companies in need of people coming through into the field.
+Most jobs in quantum are in research and development as that is what most companies are doing. One participant pointed out that there are skills gaps in less developed parts of the sector:
+Quantum has two goals – hardware and software. There is still a lot of work to be done on algorithms etc to solve problems in a smarter way. Finding the right ways to educate people in universities. A good opportunity for direct collaboration in STFC.
+– Business roundtable participant
+It was also suggested that broader skillsets are needed to help businesses and the sector grow, including those of non-scientists. However, one participant argued that the volatility of the sector makes it difficult to recruit non-academics.
+Many participants noted the support from EPSRC for CDTs (Centres for Doctoral Training), which focus on transferable skills useful for businesses, as well as research:
+“Funding mechanisms that promote collaboration between universities and industry are valuable. The UK has done this well in the past, for example Innovate UK, CDTs. We need to keep doing this in the future.”
+- Business roundtable participant
+While CDTs were generally praised for the quality of training they provide, it was pointed out that they were only available to a limited number of people.
+Participants proposed several practical suggestions for increasing the prevalence of skills for quantum
+businesses. These ranged from specialised training to increased ‘quantum literacy’ in society as a whole:
+- Apprenticeships. Current standards should be reviewed to determine their relevance and sufficiency for the quantum technologies workforce.
+- Funded studentships (MSc, PhD) for people within large organisations and SMEs. This would provide a way to hook in business support for research at a level that is easily affordable for business and has attractive outcomes, such as better trained staff to lead internal projects.
+- Ensure sufficient provision and awareness raising of CPD training for physicists and non-physicists, building upon existing best practice such as the University of Bristol & NQCC. Short courses would enable other professionals, such as engineers, to use quantum devices. This has parallels with semiconductor technology, where users do not necessarily need to know how the devices work, just how to use them.
+- Increased quantum literacy (including in schools and for the public). The phrase ‘demystifying quantum’ was used by one workshop participant, who felt that greater public understanding of quantum science and its applications could make it easier for quantum businesses to attract funding. A participant in the business roundtable argued that awareness of the potential of quantum technology was important for securing more investment from industry, commenting: “How do we attract industry to understand the competitive edge they can get from adopting quantum technologies? Use cases are important – we need to communicate these. We need more public engagement about what quantum can do.”
+A further suggestion was that IOP and other learned societies should align curriculum content to include quantum, to build an understanding of quantum science or applications into different areas of expertise:
+“[Our company] submits many proposals with a classical computing element and we would love to see transitioning to a quantum element. Fundamental quantum content needs to flow into other curricula.”
+- Business roundtable participant
+Inspiring the next generation
+The IOP has a long history of working to inspire future generations to pursue physics. This work begins in schools where we are seeking to address some of the disparities in the uptake of physics. Girls are less likely to take physics than boys, and children from Black and minority ethnic backgrounds are less likely to take physics than white children. Two of the six key aspirations in our strategy. ‘Unlocking the Future’ are to ensure that all secondary school pupils have access to a specialist physics teacher; and to increase the proportion of girls aged 16-19 taking physics to 30%, and doubling the number of children from Black and minority ethnic backgrounds.
+The challenges to achieving greater diversity in physics have consequences for young people who miss out on opportunities for fulfilling careers, but also impact on the health of physics as a discipline and the physics ecosystem. Until physics is fully inclusive it will miss out on talent, and physics departments and businesses will not benefit from the full range of lived experience to inform decision-making.
+It is essential for a healthy quantum sector that any future quantum skills programme must be designed with full consideration for equality diversity and inclusion.
+Recommendation
+ Require government departments to work together to create an integrated national skills programme which includes quantum technology spanning all educational stages and retraining. There should be a key focus on technical education to ensure that supply can meet demand and that opportunities are available for people with different skills, from all backgrounds, to play roles in this new sector, including consideration of upskilling, reskilling, and CPD approaches.
+CBI Economics Report findings: skills
+The CBI Economics Paradigm Shift report identified concerns around workforce skills that were felt particularly acutely by organisations engaged in quantum innovation. 85% of the quantum innovators surveyed reported that R&D activity had been suspended or delayed because of skills shortages.
+- 37% of quantum innovators reported skills shortages as a significant barrier to undertaking R&D/innovation activity.
+- Quantum innovators were broadly unsatisfied with their ability to attract and retain talent at the commercialisation stage of the R&D/ innovation pipeline (balance of -7%; 36% were satisfied and 42% unsatisfied), as well as at the large-scale prototype stage (balance of -3%).
+- Average satisfaction of recruitment/retention ability across the different R&D/innovation pipeline stages was lower for quantum innovators than for non-quantum innovators (+16% from +23%), with the latter group not posting negative balances for any pipeline stage.
+- Quantum innovators were most likely to struggle to recruit people with specialist physics-related knowledge (60%), followed by people with data analytics skills (54%) and people with a combination of commercial and technical skills (54%).
+- The figures for the first two of these categories were higher than for non-quantum innovators (24% and 22% respectively), suggesting a specific skills problem for quantum innovators.
+- 85% of quantum innovators reported that skills shortages led to R&D/innovation activity being suspended or delayed in the five-year period up until the respondent answered, this compared with 62% for non-quantum innovators.
+Wider enablers
+Beyond the direct and indirect support that government can provide for the development of UK quantum tech businesses, is the wider strategic picture for the UK as a trading nation. The quantum technology market is international. For companies to attract investment there needs to be a clear pathway to international markets and the UK needs to be competitively placed. However, government policy needs to balance this against the need for national sovereignty and the strategic need for domestic capacity in some areas of quantum application.
+Many conversations at the IOP events touched on the UK’s position relative to other countries. Several participants voiced concerns about sovereign capability for the UK, especially in the defence and security fields:
+“In defence and security, things tend to break down along national lines when it comes to quantum. The extent to which we can share what we are doing … is limited so to some extent, certainly in the context of defence, each country has to plough its own furrow  My view is that the UK is in a great place in terms of research but are we going to fall into the trap of going from research to industrial exploitation? Is the UK going to fall behind?”
+– Business roundtable participant
+This issue also relates to the many UK start-ups being bought up by big US companies or seeking large scale investment from US VCs. There are security concerns about this for defence technology and a risk of lost opportunities for UK Plc.
+On the other hand, there were participants who argued for greater collaboration, especially with the EU.
+“I think it’s important that Europe strengthen ties … and they have been drifting apart in the last few years, with Brexit, and Switzerland is no longer in the Horizon Europe framework. This is weakening efforts in research and technology … Companies want to collaborate – they have people all over the world and don’t want to focus on just one country. The research path has to refocus and strengthen ties within Europe.”
+– Business roundtable participant
+And others recognised the potential importance of multinationals to the quantum ecosystem – as end users and systems integrators, multinational companies could provide the bedrock of a market for UK SMEs in the quantum space:
+“Large multinationals hold the key to quantum computing. We need an IBM or a Google to come and set something up in the UK. The government needs to make this appealing and enable the sector to organise around supply chains to serve those interests.”
+– Note from workshop discussion
+Business participants pointed to the importance of a benign trading environment for UK companies if they were to invest in quantum R&D:
+“Translation from research into something meaningful happens with a lot more SMEs taking up the mantle, combined with the larger organisations. In order for that to happen we have to make the UK a more attractive place for SMEs to set up and grow. That needs to be identified as a concern, in the sense of 1) is the UK devising such SMEs? Other countries offer production incentives, like the US and India, and 2) the UK as a country has too small a quantum market
+–
+ companies need to set up in the UK but trade globally – that is where companies grow. While there is a need for [a] UK supply chain this only happens if trading globally is made easier.”
+–
+ Business roundtable participant
+Recommendations
+ Set out a policy for international partnerships to draw in key capabilities and build supply chain opportunity, whilst establishing a clear position that protects the national sovereignty of key technologies linked to homeland security and competitiveness.
+ Seed a broad-based and strategic approach to communications with tailored messages to inspire all in the UK to consider what role they can play in this priority tech sector, and develop a credible narrative to convince skilled people, companies and investors to think of the UK first. This should include healthy, open, public debate around the challenges and risks of quantum technology, to ensure positive public perception of the sector and to help attract talent into the skills pipeline.
+Roadmap
+ It is essential that there are roadmaps for quantum technology so that all stakeholders understand the timescales and dependencies for research and development throughout the chain from foundational research through to commercialisation. Government should lead this work, and in doing so establish working groups with business and academia to ensure progress.
+Set an ambition for government to fund and lead the development of mission-led roadmaps for quantum impact, building on previous work and  spanning the breadth of fundamental research, development and innovation – leveraging convergence opportunities with related and enabling disciplines.
+Ecosystem – start up
+ UK success in quantum technology so far has come from the successful spin out of around 40 companies through the NQTP. Government strategy must further incentivise the research base to spin out more companies and help build an ecosystem of start-ups and SMEs for innovation, growth and jobs.
+Incentivise start-ups and support the research base to spin out more quantum businesses, in line with specific growth ambitions, building on the success of the National Quantum Technologies Programme. This should be presented in a coordinated way across the landscape of bodies providing support, and include consideration of simplification of IP licensing to companies and of challenge-prize mechanisms.
+ The community of start-up companies that we build needs ongoing support to improve survival rates and encourage investment and growth. Government strategy should include a network of accelerators with the capacity to support this development. Further, ongoing support for start-ups should help to ensure principles of equality, diversity and inclusion in the leadership and workforce, to build a stronger and more vibrant sector for the long term.
+Establish a network of accelerators linked with venture capitalists and larger businesses that builds on existing efforts to create clusters and increase the number of start-ups and SMEs and increase efforts to connect with user communities to understand market needs, raise awareness of quantum solutions and bridge the divide between research and business.
+ Businesses need help to accelerate the build of quantum technology device demonstrators across fields including sensing, imaging, encryption, metrology and computing. Good demonstrators can in turn support commercialisation partnerships with SMEs, integrators and end users. A research and innovation organisation, could support this.
+Establish a research and innovation organisation(s) to deliver the build of quantum technology device demonstrators and commercialisation partnerships with SMEs, integrators, and end users.
+Ecosystem – scale up
+ Government strategy must address the reality that for most start-ups the only prospect of longterm success is VC investment from overseas or acquisition by a foreign company, resulting in a failure to retain these companies as UK owned. Greater support around IP protection, and stronger early-stage investment in the UK will help to ensure high-growth start-ups remain in the UK.
+Provide greater financial support around IP protection, for both businesses and universities, and broaden the pool of investment at Series B/C and beyond in the UK, to ensure high-growth start-ups are scaled and retained in the UK.
+ As companies look to scale up, the UK needs sovereign foundry capability to provide initial manufacture of single photon detectors, qubits, chips, components, QT devices and packaging. Government has a role to play here, as currently the market is not providing this capability to move from prototype to batch.
+Scope out and create small sovereign foundry capabilities to scale up initial manufacturing of QT devices, components and packaging and maintain optionality in the face of uncertainty as to which technologies will ultimately prevail.
+ To help companies prepare products for market, the UK needs to establish standards, test, compliance and certification capability. Other countries are setting the pace in this area. Government could work with the Association for Independent, Research and Technology Organisations to enable this.
+Build on existing strengths to establish the UK as a global leader in quantum standards, test, compliance and certification capability, and use this to influence internationally.
+Skills
+ Skills are an essential element of a healthy quantum sector and should form part of the government’s quantum strategy. This should include coordination between BEIS and the Department for Education to engage technical education providers as well as universities. The sector needs a wide range of skills and quantum businesses need to be accessible to non-physicists.
+Require government departments to work together to create an integrated national skills programme which includes quantum technology spanning all educational stages and retraining. There should be a key focus on technical education to ensure that supply can meet demand and that opportunities are available for people with different skills, from all backgrounds, to play roles in this new sector, including consideration of upskilling, reskilling, and CPD approaches.
+Wider enablers
+ In setting strategy, government is likely to face choices about what to prioritise. Part of this calculation must be linked to homeland security and national competitiveness. The UK’s quantum strategy must be aligned with a policy for national sovereignty: which technologies does the UK need to have at home to remain secure and competitive?
+Set out a policy for international partnerships to draw in critical capabilities and build supply chain opportunities, whilst establishing a clear position that protects the national sovereignty of key technologies linked to homeland security and competitiveness.
+ For the quantum sector to flourish, quantum technology needs to be ‘demystified’ so that a broader range of skills can enter the sector.
+Seed a broad-based and strategic approach to communications with tailored messages to inspire all in the UK to consider what role they can play in this priority tech sector, and develop a credible narrative to convince skilled people, companies and investors to think of the UK first. This should include healthy, open, public debate around the challenges and risks of quantum technology, to ensure positive public perception of the sector and to help attract talent into the skills pipeline.
+Roles for IOP
+Alongside our recommendations for government, we identify a set of potential roles for the IOP to play that could help to enable the realisation of the UK quantum strategy.
+A. Workshopping and community engagement to support mission-led roadmapping. Good examples exist of such processes having positive impacts: the IOP supported a successful partnership with the Royce Institute1 on a community developed roadmap for materials to help deliver net zero targets.
+B. A new IOP Quantum and Business group, bringing together quantum technology innovators, entrepreneurs and adopters, including the finance community, with a sponsored prize for early-stage Quantum start-ups, linked to the UK Quantum and IET Quantum engineering forum – which should play a role in supporting roadmap definition and ecosystem development. This builds on the 51 existing IOP interest groups, which draw from more than 20,000 members across the physics community.
+C. Professional registration support for the quantum physics and engineering workforce.
+D. Support for skills development as part of our wider work on physics skills – covering curriculum, teacher development, technical skills and apprenticeships. A specific early contribution could be an annual quantum challenge for A level students to inspire the next generation, working with Orca Computing / UK Quantum, following a successful pilot in April.
+E. Support in establishing international dialogues of expert communities with prioritised international partners for strategic impact.
+F. Support for the communications strategy through extending public reach and curating discussions around inclusion, sustainability and ethical issues.
+Case studies: quantum-based businesses in the UK
+Environmental
+QLM uses single-photon quantum technology to build highly accurate, long-range and low-cost cameras that can see and quantify industrial greenhouse gas leaks, supporting the achievement of zero-emissions industry.
+Healthcare
+Cerca Magnetics uses magnetoencephalography (MEG) to measure magnetic fields generated by current flow in assemblies of neurons in the brain. Conventionally, scanning magnetic fields in the brain requires cryogenic cooling. Cerca has exploited quantum processes to create optically-pumped magnetometers (OPMs) which do not need liquid helium cooling, and so are wearable, enabling images showing moment-to-moment changes in brain activity.
+Quantum computing
+Orca Computing is developing a new approach to quantum computing which addresses scalability and connectivity challenges for quantum hardware. Its quantum optical memory device allows broadband single photons and multiple entangled photon states to be stored and retrieved on demand. The approach requires fewer components and can use optical fibre instead of silicone, reducing proton loss and enabling easier connection between qubits.
+Quantum communications
+Aegiq is a spin-out from the University of Sheffield. It created a system built around an artificial atom, known as a quantum dot, in an on-chip optical resonator, capable of delivering a train of single photon pulses through an optical fibre with deterministic operation. Because it works at telecommunications wavelengths, it offers potential for the development of quantum secure communication networks.
+Security
+Quantum Dice is a start-up that has developed innovative encryption technology. A quantum random number generator uses the principles of quantum mechanics to generate truly random numbers. Quantum Dice has developed a self-certification routine that maximises the amount of randomness that can be extracted. This has big implications for the security of information as the encryption cannot be broken.
+Nanomedicine
+A spin-out from Oxford University, Oxford HighQ is developing a technology called optical microcavity analysis (OMCA), which enables particle-level measurement using micro-scale optical microcavities. Its first product addresses a crucial application in nanomedicine to provide single particle measurement of drug loading. The process has significant impact for drug development but also enables better regulation and quality assurance.
+Manufacturing
+M-Squared is a photonics and quantum technology company, formed in 2006 with the goal of developing a best-in-class laser system for research applications. M-Squared’s products are used by researchers in universities and diverse industry sectors including aerospace, defence, oil and gas, healthcare, and food and drink.
+(<https://qlmtec.com/logosliderwp/qlm/>)qlmtec.com
+(<https://www.cercamagnetics.com/>)cercamagnetics.com
+(<https://www.orcacomputing.com/>)orcacomputing.com
+(<https://www.aegiq.com/>)aegiq.com
+(<https://quantum-dice.com/>)quantum-dice.com
+(<https://www.oxfordhighq.com/>)oxfordhighq.com
+(<https://www.m2lasers.com/>)m2lasers.com
+IOPP content
+Supporting the scale-up of quantum computers
+23 Aug 2021
+Interview with Martin Weides Oxford Instruments NanoScience
+(<https://physicsworld.com/a/supporting-the-scale-up-of-quantum-computers/>)physicsworld.com/a/supporting-the-scale-up-of-(<https://physicsworld.com/a/supporting-the-scale-up-of-quantum-computers/>)quantum-computers
+Setting the scene for a quantum marketplace: where quantum business is up to and how it might unfold
+02 Dec 2021
+Feature on the quantum marketplace
+(<https://physicsworld.com/a/setting-the-scene-for-a-quantum-marketplace-where-quantum-business-is-up-to-and-how-it-might-unfold/>)physicsworld.com/a/setting-the-scene-for-a-(<https://physicsworld.com/a/setting-the-scene-for-a-quantum-marketplace-where-quantum-business-is-up-to-and-how-it-might-unfold/>)quantum-marketplace-where-quantum-business-is-(<https://physicsworld.com/a/setting-the-scene-for-a-quantum-marketplace-where-quantum-business-is-up-to-and-how-it-might-unfold/>)up-to-and-how-it-might-unfold
+Securing the key to our quantum future
+04 Dec 2021
+Interview with Chris Erven
+KETS Quantum Security
+(<https://physicsworld.com/a/securing-the-key-to-our-quantum-future/>)physicsworld.com/a/securing-the-key-to-our-(<https://physicsworld.com/a/securing-the-key-to-our-quantum-future/>)quantum-future
+IOP Publishing (IOPP) is a wholly owned subsidiary of the IOP and one of the world’s leading publishers in physics and related disciplines.
+Sensing gravity, the quantum way
+08 Dec 2021
+Feature on quantum sensors
+(<https://physicsworld.com/a/sensing-gravity-the-quantum-way/>)physicsworld.com/a/sensing-gravity-the-quantum-(<https://physicsworld.com/a/sensing-gravity-the-quantum-way/>)way
+Innovation, investment and collaboration in the quantum sector
+09 Dec 2021
+Interview with Ilana Wisby
+Oxford Quantum Circuits
+(<https://physicsworld.com/a/building-a-firm-foundation-investment-and-innovation-in-the-quantum-sector/>)physicsworld.com/a/building-a-firm-foundation-(<https://physicsworld.com/a/building-a-firm-foundation-investment-and-innovation-in-the-quantum-sector/>)investment-and-innovation-in-the-quantum-sector
+The Institute of Physics is a charity registered in England and Wales (no. 293851) and Scotland (no. SC040092). Photo credit: Shutterstock.
+(<https://www.iop.org/>)iop.org
+The IOP is the professional body and learned society for physics in the UK and Ireland, with an active role in promoting cooperation in physics around the world. We strive to make physics accessible to people from all backgrounds. Our 22,000 members demonstrate their professional expertise in physics in settings ranging from schools, universities and national research facilities, to businesses of all sizes, and in roles as varied as teacher, researcher, apprentice, technician, engineer and product developer.
+Report published August 2022.

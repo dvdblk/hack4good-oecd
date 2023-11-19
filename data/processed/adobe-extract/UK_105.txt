@@ -1,0 +1,78 @@
+(<https://www.salesforce.com/uk/news/>)News & Insights — UK & Ireland
+ARTIFICIAL INTELLIGENCE
+New Study Reveals 1 in 10 UK Workers have In-Demand AI Skills
+APRIL 20, 2023
+Salesforce, the global leader in CRM, today released data revealing that just one in 10 UK workers feel they have AI skills – further evidencing the digital skills crisis currently facing the UK. With the rise of transformative technologies like generative AI, this represents a growing concern for UK business.
+Generative AI
+has the potential to fundamentally transform how work gets done across all industries and workers agree that AI skills are important. Nearly a
+digital skills right now, and believe AI will be the most important skill to have over the next five years. Half understand how this technology will impact their work and job.
+However, 3 in 4 (75%) of UK workers say they do not feel ready to operate in a digital world. And whilst the same percentage report using digital skills in their day-to-day, few report skills beyond collaboration technology, digital administration, and digital project management.
+Salesforce’s research points to a lack of digital confidence across the UK workforce, and the need for business to better explain just how accessible digital skills can be – especially those related to AI.
+Not everyone needs to learn how to code in the generative AI era… It’s about showing people where exactly, and often how easily, they can fit into the digital-first workplace.
+ZAHRA BAHROLOULOUMI, CEO, SALESFORCE UKI
+most in-demand digital skills today. But not everyone needs to learn how to code in the generative AI era,” said Zahra Bahrololoumi, CEO, Salesforce UKI. “Like all technology, generative AI will need deep machine learning experts and engineers as much as it will creatives and storytellers – people who understand how to work alongside AI, building on the content it generates. It’s about showing people where exactly, and often how easily, they can fit into the digital-first workplace.
+Employees recognise the value of AI
+More UK workers are excited about generative AI’s use in their workplace (49%) than worried about it replacing them in their job (38%). This is in line with interest from management: almost half (46%) of UK people leaders say that their company is considering ways to use generative AI.
+Workers clearly recognise that the path forward requires reskilling, and want to be part of it. An emphatic 96% believe businesses should prioritise AI skills as part of the strategy to develop their workforce.
+Without the necessary skills and knowledge of how to
+integrate technology effectively and responsibly, businesses will continue to face barriers to successful implementation.
+ZAHRA BAHROLOULOUMI, CEO, SALESFORCE UKI
+“This is a watershed moment for the tech industry. Digital transformation remains firmly at the top of the CEO agenda and many leaders that I speak to see AI as a game changer for their business – a tool to better connect with their customers, personalise experiences, and operate more efficiently,” said Bahrololoumi. “However, AI is only as good as the data that serves it and the people that work with it. Without the necessary skills and knowledge of how to use generative AI and integrate this technology effectively and responsibly, businesses will continue to face barriers to successful implementation.”
+The UK is moving towards skills-based hiring
+The vast majority (87%) of UK workers consider skills-based experience more important than a degree when trying to land a job in today’s market.
+leaders (82%) surveyed say that skills are the most important attribute when evaluating candidates. Only 18% believe that relevant degrees are the most important.
+It’s a transformative approach to recruitment that stands to deliver better business performance in several areas. Over half of people leaders (55%) cite talent retention as a key business benefit to skills-based hiring. Increased knowledge sharing (48%) and workforce diversity (42%) also rank highly.
+Additionally, most people leaders believe that prioritising employees’ digital skills development will have similarly positive impacts on business performance – including increased productivity (47%), team performance (43%), and problem-solving capabilities (40%).
+Employees rank digital skills training as the second most important workplace benefit, over and above pay bonuses and wellbeing benefits. How people work, and what they value about their jobs, is fundamentally changing in the digital-first era.
+Addressing the UK’s widening digital skills gap
+UK business and
+(<https://www.salesforce.com/uk/news/press-releases/2022/11/30/uk-digital-skills-gap/>)Salesforce is urging government to work together to establish a national online digital skills platform to
+Trailhead
+The company is providing skills-based training modules on , Salesforce’s free online learning platform.
+Trailhead
+Salesforce role
+is available to everyone and can take them from a low level of technical knowledge into a in as little as six months. It is currently helping more than (<https://trailhead.salesforce.com/en/trailblazercommunity/?d=cta-body-promo-8>)ve million people learn in-demand skills.
+“As AI, data and automation innovation accelerates, so too will the urgency for UK businesses to adapt. By taking action to close the digital skills gap now we can better support the millions of UK workers to navigate this new era,” added Bahrololoumi.
+Explore further:
+• Visit the Salesforce (<https://www.salesforce.com/news/the-future-of-digital-skills/?d=cta-body-promo-8>)Digital Skills page for more on this topic.
+• Trailhead Coach
+Learn how helps people build a skills-based career.
+• Trailhead
+Trailblazer
+(<https://trailhead.salesforce.com/en/trailblazercommunity/?d=cta-body-promo-8>)Learn about and the Community.
+• (<https://public.tableau.com/app/profile/jessica.galiana/viz/JobsintheSalesforceEcosystem2/ByCareers>)Deep dive into jobs in the Salesforce Ecosystem.
+• here
+Get more insights on how Salesforce develops and uses AI .
+Research Methodology
+Salesforce’s Digital Skills Survey was conducted by TRUE Global Intelligence in
+adults and 633 UK people managers. The figures are representative of working adult populations (ages 18+).
+Share
+Tags
+(<https://www.salesforce.com/uk/news/topics/artificial-intelligence/>)ARTIFICIAL INTELLIGENCE (<https://www.salesforce.com/uk/news/topics/future-of-work/>)MODERN WORK (<https://www.salesforce.com/uk/news/content-types/snapshots/>)SNAPSHOTS
+Related
+MODERN WORK Salesforce Survey Finds Digital Skills Ranked #1 Workplace Skill in UK, but the Next Generation Isn’t Convinced NOV 30, 2022
+DIGITAL TRANSFORMATION
+Nine in 10 U.K. Workers Must Learn New Digital Skills by 2030, According to New Salesforce and IDC Research
+JUL 07, 2021
+MODERN WORK ARTIFICIAL INTELLIGENCE (<https://www.salesforce.com/uk/news/stories/salesforce-workforce-development-grants-december-2022/>)Salesforce Gives $5M to Create More Career Opportunities in Tech
+DEC 08, 2022
+Salesforce Execs Weigh In: What Is Generative AI?
+MAR 31, 2023
+Get the latest Salesforce news
+Sign up to get news alerts, behind-the-scenes insights, and research from Salesforce News & Insights
+Email Address
+you@example.com
+Subscribe
+(<https://www.salesforce.com/uk/news/all-news/>)News
+(<https://www.salesforce.com/uk/news/all-stories/>)Stories
+(<https://www.salesforce.com/uk/news/press-releases/>)Press Releases
+Follow us
+WORLDWIDE
+© Copyright 2023 Salesforce, Inc. All rights reserved. Various trademarks held by their respective owners. salesforce UK Limited, village 9, floor 26 Salesforce Tower, 110 Bishopsgate, London, UK, EC2N 4AY. General Enquiries: 0800 0921223 | Fax: +44 870 351 5473 | Sales: 00800 7253 3333
+Terms of Service
+Contact Us
+(<https://www.salesforce.com/company/legal/>)Legal (<https://www.salesforce.com/uk/company/privacy/>)Privacy (<https://www.salesforce.com/uk/company/disclosure/>)Responsible Disclosure
+(<https://www.salesforce.com/company/legal/compliance.jsp#ukmsa>)Modern Slavery Act Transparency Statement
+Trust
+Cookie Preferences
+(<https://www.salesforce.com/form/other/privacy-request/>)Your Privacy Choices
