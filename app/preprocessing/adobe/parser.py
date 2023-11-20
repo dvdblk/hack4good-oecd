@@ -129,7 +129,10 @@ class AdobeStructuredJSONParser:
                         if next_match := re.match(
                             r"^\/(H\d)(\[\d+\])?(\/Sub(\[\d+\])?)?$", next_element.path
                         ):
-                            if next_match.group(1) == section_type:
+                            if (
+                                next_match.group(1) == section_type
+                                and next_element.page == element.page
+                            ):
                                 next_title = next_element.text or ""
                                 if not title.endswith(" ") and not next_title.startswith(" "):
                                     title += " "
@@ -146,6 +149,7 @@ class AdobeStructuredJSONParser:
                         id="",
                         title=title,
                         section_type=section_type,
+                        pages=set([element.page]),
                     )
 
                     # Check if new section is a subsection

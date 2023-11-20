@@ -171,6 +171,17 @@ class Section:
             text += subsection.text
         return text
 
+    @property
+    def all_sections(self) -> List["Section"]:
+        """Return a list of all sections including all subsections"""
+        sections = []
+        if subsections := self.subsections:
+            for subsection in subsections:
+                sections.append(subsection)
+                if s := subsection.all_sections:
+                    sections.extend(s)
+        return sections
+
 
 class Document(Section):
     """The root node to a tree of Sections"""

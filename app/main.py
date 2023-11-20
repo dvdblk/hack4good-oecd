@@ -1,30 +1,14 @@
-import base64
 import os
 
+import pandas as pd
 import streamlit as st
 from dotenv import load_dotenv
+from langchain.chat_models import ChatOpenAI
 
+from app.gui.utils import display_pdf, display_section_tree
+from app.llm import OpenAIPromptExecutor
 from app.preprocessing.adobe.manager import AdobeExtractAPIManager
-from app.preprocessing.splitter import AdobeDocumentSplitter
-
-
-@st.cache_data
-def displayPDF(uploaded_file):
-    """Display PDF file in Streamlit app."""
-    # FIXME: Data caching should work with page numbers e.g.: #page=4
-    # pdf_display = f'<iframe src="data:application/pdf;base64,{base64_pdf}#page=4" width="100%" height="320" type="application/pdf"></iframe>'
-
-    # Read file as bytes:
-    bytes_data = uploaded_file.getvalue()
-
-    # Convert to utf-8
-    base64_pdf = base64.b64encode(bytes_data).decode("utf-8")
-
-    # Embed PDF in HTML
-    pdf_display = f'<iframe src="data:application/pdf;base64,{base64_pdf}" width="100%" height="320" type="application/pdf"></iframe>'
-
-    # Display file
-    st.markdown(pdf_display, unsafe_allow_html=True)
+from app.preprocessing.adobe.splitter import DocumentSplitter
 
 
 def init_state():
@@ -40,112 +24,136 @@ def init_state():
 
 
 def query_llm(question, model):
-    from langchain.agents.agent_toolkits import (
-        create_conversational_retrieval_agent,
-        create_retriever_tool,
-    )
-    from langchain.chat_models import ChatOpenAI
-    from langchain.embeddings import OpenAIEmbeddings
-    from langchain.vectorstores import FAISS
-
-    vectorstore = FAISS.from_documents(
-        AdobeDocumentSplitter().document_to_chunks(st.session_state.current_document),
-        embedding=OpenAIEmbeddings(),
-    )
-    retriever = vectorstore.as_retriever()
-
-    tool = create_retriever_tool(
-        retriever,
-        "search_document",
-        "Searches and returns the most relevant parts of a document discussing economic policies, technologies and skills.",
-    )
-    tools = [tool]
-
-    llm = ChatOpenAI(model=model, temperature=0)
-    agent_executor = create_conversational_retrieval_agent(llm, tools, verbose=True)
-
-    result = agent_executor({"input": question})
-    st.write(result["output"])
+    if prompt_executor := st.session_state.prompt_executor:
+        result = prompt_executor.temp(question)
+        print(prompt_executor.total_cost)
+        print(prompt_executor.n_prompt_tokens)
+        st.write(result)
 
 
 def main():
-    st.set_page_config(page_title="Policy Explorer 🔎", page_icon="💼")
+    st.set_page_config(page_title="OECD Policy Explorer", page_icon="💼")
 
-    # Create a sidebar for docs manager
-    with st.sidebar.expander("⚙️ LLModel options"):
-        st.write("Choose a model to use for the analysis.")
-        openai_models_tab, local_models_tab = st.tabs(["OpenAI", "Ollama (local)"])
-
-        with openai_models_tab:
-            st.write("Models provided by OpenAI hosted on their servers and require an API key.")
-
-            # TODO: scrape openai for latest models here or use a local list with a warning
-            st.session_state.oai_model = st.selectbox(
-                "OpenAI Model",
-                [
-                    "gpt-3.5-turbo-0613",
-                    "gpt-3.5-turbo-1106",
-                    "gpt-4",
-                    "gpt-4-1106-preview",
-                ],
-                help="The model choice determines the quality of the answers and price.",
-            )
-            st.markdown(
-                "Please refer to the [OpenAI Models documentation](https://platform.openai.com/docs/models/) for more information."
-            )
-
-        with local_models_tab:
-            st.write("Models provided by Ollama that can run locally but require setup.")
-
-            local_model = st.selectbox(
-                "Ollama Model",
-                # TODO: implement GET localhost/api/tags https://github.com/jmorganca/ollama/blob/main/docs/api.md#list-local-models to populate the list below
-                ["mistral:7b", "llama2"],
-            )
-
-    with st.sidebar.expander("📖 Documents", expanded=True):
+    # Sidebar - Expander: Document selection
+    with st.sidebar.expander("📖 Document", expanded=True):
         st.write(
-            "Here you can upload any policy document(s) in PDF format. To update the list simply remove or add more docs below and click on 'Upload PDF(s)'."
+            "Upload any policy document in PDF format. To change the file simply upload a new one and click on 'Process' again."
         )
-        # Store the uploaded PDF documents in a list
-        raw_pdf_documents = st.file_uploader(
-            "Upload your PDF document(s)",
+        # Store the uploaded PDF document in a list
+        raw_pdf_document = st.file_uploader(
+            "Browse local files to upload a document:",
             type="pdf",
-            accept_multiple_files=True,
-            help="Upload any document(s) in .pdf format. 🏛️",
+            accept_multiple_files=False,
+            help="📁 Allowed document file format: '.pdf'",
         )
-        if st.button("Process"):
+        print(raw_pdf_document)
+        if st.button("Process", type="primary"):
             with st.spinner("Processing..."):
-                # TODO: Identify if the PDF documents are new (hash the first few and last pages + page count)
-                # TODO: Identify the language of the documents (load with pypdf2 and use langdetect)
+                # TODO: Identify if the PDF document is new (hash the first few and last pages + page count)
+                # TODO: Identify the language of the document (load with pypdf2 and use langdetect)
 
-                if not raw_pdf_documents:
+                if not raw_pdf_document:
                     st.warning("Please select a PDF document first.")
                 else:
                     # Call extract API here
                     document = st.session_state.adobe_extract_api_manager.get_document(
-                        raw_pdf_documents[0].getvalue(), input_file_name=raw_pdf_documents[0].name
+                        raw_pdf_document.getvalue(), input_file_name=raw_pdf_document.name
                     )
                     st.session_state.current_document = document
-                    plural = "s" if len(raw_pdf_documents) > 1 else ""
-                    st.write(f"Done! Uploaded {len(raw_pdf_documents)} document{plural}.")
+                    st.write("Done processing selected document!")
+                    st.write(f"Document has {len(document.subsections)} main sections.")
                     print(document.subsections, document.title)
-                    displayPDF(raw_pdf_documents[0])
+                    display_pdf(raw_pdf_document)
+
+    # Sidebar - Expander: LLM Options
+    with st.sidebar.expander("⚙️ LLModel options"):
+        st.write("Choose a model to use for the analysis.")
+
+        st.write("Models provided by OpenAI are hosted on their servers and require an API key.")
+
+        # TODO: scrape openai for latest models here or use a local list with a warning
+        model = st.selectbox(
+            "OpenAI Model",
+            [
+                "gpt-3.5-turbo-1106",
+                "gpt-4",
+            ],
+            # index=None,
+            placeholder="Choose a model",
+            help="💡 The model choice determines the quality of the answers and overall price.",
+        )
+        # init / update oai_model
+        if "oai_model" not in st.session_state:
+            st.session_state.oai_model = model
+        elif st.session_state.oai_model != model:
+            st.session_state.oai_model = model
+        # init / update prompt_executor
+        if "prompt_executor" not in st.session_state:
+            st.session_state["prompt_executor"] = OpenAIPromptExecutor(llm=ChatOpenAI(model=model))
+        else:
+            if model != st.session_state.prompt_executor.llm:
+                st.session_state.prompt_executor.llm = ChatOpenAI(model=model)
+
+        st.caption(
+            "Please refer to the [OpenAI Models documentation](https://platform.openai.com/docs/models/) for more information."
+        )
+
+    # Sidebar - Expander: Cost Breakdown
+    with st.sidebar.expander("💵 Cost breakdown", expanded=False):
+        st.write(
+            "Here you can find the total cost breakdown of the analysis and QnA. The values get reset when you change the model or fully refresh the page (F5)."
+        )
+        if prompt_executor := st.session_state.prompt_executor:
+            st.markdown(
+                f"| input tokens | output tokens | # llm requests |\n| --- | --- | --- |\n| {prompt_executor.n_prompt_tokens} | {prompt_executor.n_completion_tokens} | {prompt_executor.n_successful_requests} |"
+            )
+            st.subheader(
+                f"Total cost: ${prompt_executor.total_cost:.6f}",
+                help="💡 Press '**R**' to refresh the cost breakdown values.",
+            )
+        st.caption(
+            "The cost is calculated based on the model choice and the number of *tokens* needed to answer all prompts. To find out more please refer to [OpenAI pricing](https://openai.com/pricing)."
+        )
 
     st.title("OECD Policy Doc Explorer 🔎")
 
-    analysis_tab, chat_tab = st.tabs(["📊 Analysis", "💬 Chat"])
+    analysis_tab, qna_tab = st.tabs(["📊 Analysis", "💬 QnA"])
 
     with analysis_tab:
-        st.header("Analysis")
-
+        # Section tree with summaries
+        st.subheader("Document overview", help="💡 Sections are provided by Adobe Extract API.")
+        st.caption("Click on a section to see the summary and reveal respective subsections.")
+        if "current_document" in st.session_state:
+            display_section_tree(_document=st.session_state.current_document, summaries={})
+            st.caption(
+                "Summaries are generated only for the paragraphs in the section (not including paragraphs from subsections)."
+            )
         with st.container():
+            df = pd.read_csv("data/UK_34_binary_datasheet.csv")
+
+            import json
+
+            sheet = json.load(open("data/binary_datasheet.json"))
+            existing_stis = [key for key in list(sheet.keys()) if sheet[key]["general"] == "1"]
+
+            st.selectbox("Select STIs", existing_stis)
+
+            st.dataframe(df)
+
+        with st.expander("Mini-report #1: Summary of the document"):
             st.write("<Summarized document goes here>")
 
-        with st.container():
-            st.write("<Skills go here>")
+        with st.expander("Mini-report #2: ..."):
+            st.write("")
 
-    with chat_tab:
+    with qna_tab:
+        st.write(
+            "Here you can ask any questions about the document and get answers from the model."
+        )
+        st.markdown(
+            "> Note that this is not a chatbot, but a question answering system without memory. Each question is treated independently."
+        )
+
         chat_input = st.text_input("Ask a question here")
 
         if chat_input:
