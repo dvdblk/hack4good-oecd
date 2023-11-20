@@ -25,7 +25,7 @@ class AdobeStructuredJSONParser:
         #     "H2": "subsection",
         #     "H3": "subsubsection",
         # }
-        document = Document()
+        document = Document(file_path=extracted_pdf.file_path)
 
         curr_section = document
         section_to_insert_header = {}

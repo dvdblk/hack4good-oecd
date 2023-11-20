@@ -12,7 +12,7 @@ from langchain.schema.messages import HumanMessage, SystemMessage
 _human_type_tip_message = HumanMessage(content="Tip: Make sure to answer in the correct format")
 
 _CREATE_SUMMARIES_SYSTEM_PROMPT = """
-You're an expert policy analyst that is analyzing an economic policy document. Your goal is to summarize a given section text of a document in no more than 15-20 sentences. Don't make a longer summary than the original text.
+You're an expert policy analyst that is analyzing an economic policy document. Your goal is to summarize a given section text of a document with 13-20 sentences.
 
 The section text will be given to you in the following json format:
 ```json
@@ -31,8 +31,9 @@ Make sure to follow these rules while summarizing (as if your life depended on i
 4. mention any discussion of funding, investments or budget allocations.
 5. in the summary, make sure to mention whether there is a certain future need for any skills or technologies
 6. mention any explicit skill needs that are mentioned in the text.
-7. if the section is a table of contents or an index, just return "table of contents" as the summary
-8. if the entire section contains only publication citations, don't summarize it just return "references" as the summary.
+7. if the entire section is a table of contents (e.g. line after line of headings followed by page number) just return "table of contents" as the summary
+8. if the entire section contains only publication citations and nothing else, just return "references" as the summary.
+9. make a shorter summary than the original section text
 """
 
 _CREATE_SUMMARIES_INPUT_PROMPT = """
@@ -50,9 +51,11 @@ Here is the section json of a document to summarize:
 
 create_summaries_prompt_template = ChatPromptTemplate.from_messages(
     [
-        SystemMessage(content=_CREATE_SUMMARIES_SYSTEM_PROMPT),
-        HumanMessage(content=_CREATE_SUMMARIES_INPUT_PROMPT),
-        _human_type_tip_message,
+        # SystemMessage(content=_CREATE_SUMMARIES_SYSTEM_PROMPT),
+        ("system", _CREATE_SUMMARIES_SYSTEM_PROMPT),
+        # HumanMessage(content=_CREATE_SUMMARIES_INPUT_PROMPT),
+        ("human", _CREATE_SUMMARIES_INPUT_PROMPT),
+        # _human_type_tip_message,
     ]
 )
 

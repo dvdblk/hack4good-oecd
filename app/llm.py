@@ -112,7 +112,6 @@ def track_costs(func):
             self.n_prompt_tokens += cb.prompt_tokens
             self.n_completion_tokens += cb.completion_tokens
             self.total_cost += cb.total_cost
-            print(cb)
         return result
 
     return wrapper
@@ -156,17 +155,24 @@ class OpenAIPromptExecutor:
             SectionSummaryOutput, self.llm, create_summaries_prompt_template
         )
         # Generate summaries for each section
+        i = 0
         for section in sections:
-            section_text = section.text
+            section_text = section.paragraph_text
 
             # Check if we need to call the API (only if text exists)
             if len(section_text) > 0:
                 response = summary_runnable.invoke(
-                    {"section_title": section.title_clean, "section_text": section.text}
+                    {"section_title": section.title_clean, "section_text": section_text}
                 )
                 summary_dict[section.id] = response.summary
+                i += 1
             else:
                 summary_dict[section.id] = None
+
+            if i == 20:
+                break
+
+        return summary_dict
 
     @track_costs
     def generic_question_chain(

@@ -67,20 +67,22 @@ def display_section_tree(_document: Document, summaries: dict):
 
     def add_hierarchy_tree(section, level=0):
         result_markdown = '<div id="tree">'
-        should_add_expander = summaries.get(section.id) or section.subsections
+        # should_add_expander = summaries.get(section.id) or section.subsections
+        # always add expander
+        should_add_expander = True
         if should_add_expander:
             # Add details tag
             result_markdown += "<details><summary>"
 
         # Add section title and page number
-        result_markdown += f'<span id="treeTitle">{section.title}</span><span id="pageNr">{section.starting_page}</span>'
+        result_markdown += f'<span id="treeTitle">{section.title}</span><span id="pageNr">{section.starting_page+1}</span>'
 
         if should_add_expander:
             # Close details tag
             result_markdown += "</summary>"
 
-        if summary := summaries.get(section.id):
-            result_markdown += f"<blockquote>{summary}</blockquote>"
+        summary = summaries.get(section.id)
+        result_markdown += f"<blockquote>Section summary: {summary or 'This section has no standalone text in its paragraphs.'}</blockquote>"
 
         if section.subsections:
             result_markdown += "<ul>"

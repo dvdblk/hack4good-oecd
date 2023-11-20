@@ -161,6 +161,11 @@ class Section:
         return re.sub(r"^(\d+\.?)+", "", self.title).lstrip()
 
     @property
+    def paragraph_text(self) -> str:
+        """Return the text of all paragraphs in the section"""
+        return "\n".join([p.text for p in self.paragraphs if p.text])
+
+    @property
     def text(self) -> Optional[str]:
         """Create a simple linear text representation of the document"""
         text = ""
@@ -188,10 +193,19 @@ class Document(Section):
 
     def __init__(
         self,
+        file_path: str,
         title: Optional[str] = None,
         pages: Optional[Set[int]] = None,
         paragraphs: Optional[List[str]] = None,
         subsections: Optional[List["Section"]] = None,
         parent: Optional["Section"] = None,
     ) -> None:
+        # The file_path of the document (.../UK_02.pdf)
+        self.file_path = file_path
         super().__init__("root", title, pages, "document", paragraphs, subsections, parent)
+
+    @property
+    def n_pages(self) -> int:
+        """Return the number of pages in the document"""
+        # Recursively go to the last nested subsection and get the last page
+        return sorted(self.all_sections[-1].pages)[-1]
