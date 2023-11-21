@@ -7,9 +7,8 @@ from langchain.prompts import (
     HumanMessagePromptTemplate,
     SystemMessagePromptTemplate,
 )
-from langchain.schema.messages import HumanMessage, SystemMessage
 
-_human_type_tip_message = HumanMessage(content="Tip: Make sure to answer in the correct format")
+_human_type_tip_message = ("human", "Tip: Make sure to answer in the correct format")
 
 _CREATE_SUMMARIES_SYSTEM_PROMPT = """
 You're an expert policy analyst that is analyzing an economic policy document. Your goal is to summarize a given section text of a document with 13-20 sentences.
@@ -81,25 +80,53 @@ _STRUCTURED_METADATA_INPUT_PROMPT = """
 
 structured_metadata_prompt_template = ChatPromptTemplate.from_messages(
     [
-        SystemMessage(content=_STRUCTURED_METADATA_SYSTEM_PROMPT),
-        HumanMessage(content=_STRUCTURED_METADATA_INPUT_PROMPT),
+        # SystemMessage(content=_STRUCTURED_METADATA_SYSTEM_PROMPT),
+        ("system", _STRUCTURED_METADATA_SYSTEM_PROMPT),
+        # HumanMessage(content=_STRUCTURED_METADATA_INPUT_PROMPT),
+        ("human", _STRUCTURED_METADATA_INPUT_PROMPT),
     ]
 )
 
-_REFINE_ANSWER_SYSTEM_PROMPT = """
+"""
 You're a world class policy analyst that is analyzing an economic policy document by going section over section. Your goal is to answer the question based on the given section text and intermediate_answer.
+
+You will be given the task in the following format:
+```
+<< Intermediate answer json >>
+{{
+    "intermediate_answer": <your intermediate answer from previous sections>
+    "section_ids": <list of section IDs that produced the intermediate answer>
+}}
+
+<< New section >>
+< the section text that you need to use to answer the question and refine the intermediate_answer at the same time >
+
+<< Question >>
+< the question that you must answer>
+```
+
+Rules you must follow (as if your life depended on it):
+1. don't mention that you're refining or updating your previous intermediate_answer or any intermediate answers.
+2. always focus on answering the question in the intermediate_answer field
+3. focus on adding information rather than completely rewriting the intermediate_answer
+"""
+
+_REFINE_ANSWER_SYSTEM_PROMPT = """
+You're a world class policy analyst that is analyzing an economic policy document by going section over section. Answer the question based on the given section text and intermediate_answer.
 """
 
 _REFINE_ANSWER_INPUT_PROMPT = """
 Here is the intermediate_answer you generated along with the section IDs that were used to generate it: \n{refine_io}
+
 Use the given format to refine your previous intermediate_answer with the following section: \n{section}
-Here is the question that you need to answer in intermediate_answer: {question}
+
+Here is the question that you need to answer in intermediate_answer: \n{question}
 """
 
 refine_answer_prompt_template = ChatPromptTemplate.from_messages(
     [
-        SystemMessage(content=_REFINE_ANSWER_SYSTEM_PROMPT),
-        HumanMessage(content=_REFINE_ANSWER_INPUT_PROMPT),
+        ("system", _REFINE_ANSWER_SYSTEM_PROMPT),
+        ("human", _REFINE_ANSWER_INPUT_PROMPT),
         _human_type_tip_message,
     ]
 )
