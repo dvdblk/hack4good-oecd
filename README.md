@@ -49,17 +49,28 @@ conda env remove -n hack4good
 ```
 python -m streamlit run app/main.py
 ```
+
+3. Access the streamlit app at [http://localhost:8501](http://localhost:8501)
 </details>
 
 <details>
 <summary><b><font size="+1">Docker</font></b></summary>
 
-1. Pull (or build) the docker image
+1. Run (or build) the docker image
 
-To **pull** the latest docker image:
+To **run** the latest docker image:
 ```
-docker pull ghc
+docker run -p 8501:8501 --env-file .env ghcr.io/dvdblk/hack4good:latest
 ```
+
+To **build** the docker image locally and run it:
+```
+docker build -t hack4good .
+docker run -p 8501:8501 --env-file .env hack4good
+```
+
+2. Access the streamlit app at [http://localhost:8501](http://localhost:8501)
+
 </details>
 
 ## Contributing
