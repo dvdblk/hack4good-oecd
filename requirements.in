@@ -1,0 +1,12 @@
+pdfplumber
+pdfminer.six
+tqdm
+torch
+nougat-ocr
+streamlit
+langchain
+python-dotenv
+openai
+python-multipart
+pdfservices-sdk
+requests
