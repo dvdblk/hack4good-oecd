@@ -23,7 +23,7 @@ def init_state():
             client_id=os.getenv("ADOBE_CLIENT_ID"),
             client_secret=os.getenv("ADOBE_CLIENT_SECRET"),
             # FIXME: Path selectable by user?
-            extract_dir_path="data/interim/000-adobe-extract",
+            extract_dir_path="/app/app/data/interim/000-adobe-extract",
         )
 
     if "qna_input" not in st.session_state:

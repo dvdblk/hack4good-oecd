@@ -208,7 +208,10 @@ class Document(Section):
     def n_pages(self) -> int:
         """Return the number of pages in the document"""
         # Recursively go to the last nested subsection and get the last page
-        return sorted(self.all_sections[-1].pages)[-1]
+        if self.all_sections:
+            return sorted(self.all_sections[-1].pages)[-1]
+        else:
+            return 0
 
     def get_section_by_id(self, section_id: str) -> Optional[Section]:
         """Return a section by its ID"""

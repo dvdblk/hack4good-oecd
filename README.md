@@ -16,7 +16,7 @@ Create an `.env` file in the root of the repo (you can use `cp .env.default .env
 | `ADOBE_CLIENT_SECRET` | Copy from "Get credentials" [here](https://developer.adobe.com/document-services/docs/overview/pdf-extract-api/) as with `ADOBE_CLIENT_ID` |
 | `OPENAI_API_KEY` | Get the [OpenAI API key](https://help.openai.com/en/articles/4936850-where-do-i-find-my-api-key) |
 
-After setting the environment variables, you can run the code in one of two ways:
+After setting the environment variables (make sure to to **not** enclose the env variables in quotes), you can run the code in one of two ways:
 
 <details>
 <summary><b><font size="+1">Conda Environment</font></b></summary>
@@ -66,7 +66,7 @@ docker run -p 8501:8501 --env-file .env ghcr.io/dvdblk/hack4good:latest
 (Optional) To **build** the docker image locally and run it:
 ```
 docker build -t hack4good .
-docker run -p 8501:8501 --env-file .env hack4good
+docker run -p 8501:8501 --env-file .env --volume $PWD/data:/app/app/data hack4good
 ```
 
 2. Access the streamlit app at [http://localhost:8501](http://localhost:8501)

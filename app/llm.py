@@ -111,7 +111,6 @@ def track_costs(func):
             self.n_prompt_tokens += cb.prompt_tokens
             self.n_completion_tokens += cb.completion_tokens
             self.total_cost += cb.total_cost
-            print(cb)
         return result
 
     return wrapper
@@ -274,7 +273,6 @@ class OpenAIPromptExecutor:
                 intermediate_answer=fetched_sections,
                 section_ids=[],
             )
-        print(fetched_sections)
         refine_io = RefineIO(intermediate_answer="", section_ids=[])
         refine_answer_runnable = create_structured_output_runnable(
             RefineIO, self.llm, refine_answer_prompt_template
