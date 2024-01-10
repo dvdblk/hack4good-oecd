@@ -8,7 +8,7 @@ This project was created for the [Hack4Good 2023](https://www.analytics-club.org
 ## GUI Quickstart
 
 Environment variables need to be set in order to run the code.
-Create a `.env` (you can use `cp .env.default .env`) file in the root of the repo with the following contents:
+Create an `.env` file in the root of the repo (you can use `cp .env.default .env`) with the following variables:
 
 | Environment Variable | Description |
 | --- | --- |
@@ -56,14 +56,14 @@ python -m streamlit run app/main.py
 <details>
 <summary><b><font size="+1">Docker</font></b></summary>
 
-1. Run (or build) the docker image
+1. Run (or build) the [Docker](https://docs.docker.com/get-docker/) image
 
 To **run** the latest docker image:
 ```
 docker run -p 8501:8501 --env-file .env ghcr.io/dvdblk/hack4good:latest
 ```
 
-To **build** the docker image locally and run it:
+(Optional) To **build** the docker image locally and run it:
 ```
 docker build -t hack4good .
 docker run -p 8501:8501 --env-file .env hack4good
