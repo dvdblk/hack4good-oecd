@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/dvdblk/hack4good-oecd/compare/v0.1.0...v0.1.1) (2024-01-11)
+
+
+### Miscellaneous Chores
+
+* release 0.1.1 ([2330c6e](https://github.com/dvdblk/hack4good-oecd/commit/2330c6e3b3209f79b22cff08311435d3eeaf54ae))
+
 ## 0.1.0 (2024-01-11)
 
 
