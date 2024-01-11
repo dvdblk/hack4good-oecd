@@ -5,9 +5,22 @@
 
 This project was created for the [Hack4Good 2023](https://www.analytics-club.org/hack4good) hackathon in collaboration with [OECD](https://www.oecd.org/switzerland/).
 
+<p align="center" width="100%">
+<img src="docs/preview.png" alt="image" width="75%" height="auto">
+</p>
+
+
+* GUI via Streamlit
+* Extracts semi-structured PDF into structured text using [Adobe PDF Extract API](https://developer.adobe.com/document-services/docs/overview/pdf-extract-api/)
+* Uses PDFTriage[^1] style prompting (similar to ReAct) to answer questions about the documents.
+* Answers to questions provide the section where they were found in the document.
+
+
+[^1]: Saad-Falcon, J., Barrow, J., Siu, A., Nenkova, A., Yoon, D. S., Rossi, R. A., & Dernoncourt, F. (2023). [*PDFTriage: Question Answering over Long, Structured Documents*](https://arxiv.org/abs/2309.08872). arXiv preprint arXiv:2309.08872
+
 ## GUI Quickstart
 
-Environment variables need to be set in order to run the code.
+Environment variables need to be set in order to run the interactive GUI.
 Create an `.env` file in the root of the repo (you can use `cp .env.default .env`) with the following variables:
 
 | Environment Variable | Description |
