@@ -8,6 +8,7 @@ import base64
 
 import streamlit as st
 
+from app.gui.css import css_mini_report, section_tree_css
 from app.preprocessing.adobe.model import Document
 
 
@@ -30,40 +31,9 @@ def display_pdf(uploaded_file):
     st.markdown(pdf_display, unsafe_allow_html=True)
 
 
-_section_tree_css = """
-<style>
-#tree {
-    border: 1px solid #aaa;
-    border-radius: 4px;
-    padding: 0.5em 0.5em 0;
-}
-
-#treeTitle {
-    font-weight: bold;
-    margin: -0.5em -0.5em 0;
-    padding: 0.5em;
-}
-
-#tree[open] {
-    padding: 0.5em;
-}
-
-#pageNr {
-    font-size: 0.8em;
-    float: right;
-    text-color: #959698;
-}
-
-#tree ul {
-  list-style-type: none;
-}
-</style>
-"""
-
-
 def display_section_tree(_document: Document, summaries: dict):
     """Display section tree in Streamlit app."""
-    result_markdown = _section_tree_css
+    result_markdown = section_tree_css
 
     def add_hierarchy_tree(section, level=0):
         result_markdown = '<div id="tree">'
@@ -108,3 +78,74 @@ def display_section_tree(_document: Document, summaries: dict):
         result_markdown,
         unsafe_allow_html=True,
     )
+
+
+@st.cache_data(show_spinner=False)
+def get_summaries(_document, file_path):
+    """
+    Args:
+        _document: AdobeExtractAPIManager.get_document() object
+        file_path: path to the file (not used within the method, only used as the st.cache_data caching key)
+    """
+    if prompt_executor := st.session_state.prompt_executor:
+        if document := st.session_state.current_document:
+            # Summaries
+            summaries_gen = prompt_executor.create_summaries_chain(document.all_sections)
+            summary_progress_text = "Summarizing sections..."
+            summary_progress_bar = st.progress(0, text=summary_progress_text)
+            summary_dict = None
+            for value in summaries_gen:
+                summary_progress_bar.progress(value[0], text=summary_progress_text)
+                summary_dict = value[1]
+            st.session_state.summaries_dict = summary_dict
+        else:
+            st.warning("Please select a document first.")
+    else:
+        st.warning("Please select a document first.")
+
+
+def qna_flow():
+    """Called on qna input 'Enter' press"""
+    st.session_state.qna_input = st.session_state.qna_input_element
+    st.session_state.qna_input_element = ""
+
+    question = st.session_state.qna_input
+
+    if prompt_executor := st.session_state.prompt_executor:
+        result = prompt_executor.generic_question_chain(
+            st.session_state.current_document, st.session_state.summaries_dict, question
+        )
+
+        st.session_state.qna_pairs.append((question, result))
+
+
+@st.cache_data
+def create_mini_report(question, document_fp):
+    """
+    Creates a new mini report (visual element) for the given question.
+
+    Args:
+        question: question to answer
+        document_fp: path to the document (not used within the method, only used as the st.cache_data caching key)
+    """
+    with st.expander(f"📋 {question}"):
+        if prompt_executor := st.session_state.prompt_executor:
+            result = prompt_executor.generic_question_chain(
+                st.session_state.current_document, st.session_state.summaries_dict, question
+            )
+            st.write(result.intermediate_answer)
+            st.markdown(
+                css_mini_report,
+                unsafe_allow_html=True,
+            )
+            result_markdown = "<div class='badge-container'>"
+            for s_id in result.section_ids:
+                if section := st.session_state.current_document.get_section_by_id(s_id):
+                    clamped_section_title = (
+                        section.title[:22].lstrip() + "..."
+                        if len(section.title) > 22
+                        else section.title
+                    )
+                    result_markdown += f"<span class='badge'>{clamped_section_title}</span>"
+            result_markdown += "</div>"
+            st.markdown(result_markdown, unsafe_allow_html=True)

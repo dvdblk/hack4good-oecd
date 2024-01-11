@@ -10,3 +10,4 @@ openai
 python-multipart
 pdfservices-sdk
 requests
+pydantic-settings

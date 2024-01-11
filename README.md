@@ -63,7 +63,7 @@ To **run** the latest docker image:
 docker run -p 8501:8501 --env-file .env ghcr.io/dvdblk/hack4good:latest
 ```
 
-(Optional) To **build** the docker image locally and run it:
+(Optional) To **build** the docker image locally (after cloning the repo) and run it:
 ```
 docker build -t hack4good .
 docker run -p 8501:8501 --env-file .env --volume $PWD/data:/app/app/data hack4good
