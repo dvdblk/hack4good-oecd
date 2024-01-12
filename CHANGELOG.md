@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.4](https://github.com/dvdblk/hack4good-oecd/compare/v0.1.3...v0.1.4) (2024-01-12)
+
+
+### Build System
+
+* remove Dockerfile platform ([a58cb11](https://github.com/dvdblk/hack4good-oecd/commit/a58cb1102ccfc872a888284043b49c561d01e5f1))
+
 ## [0.1.3](https://github.com/dvdblk/hack4good-oecd/compare/v0.1.2...v0.1.3) (2024-01-12)
 
 
