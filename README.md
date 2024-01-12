@@ -1,7 +1,8 @@
 # Hack4Good - NLP for policy trend analysis (OECD)
 
-[![Code style](https://img.shields.io/badge/code%20style-black-000000.svg)](pyproject.toml)
+[![Release](https://img.shields.io/github/v/release/dvdblk/hack4good-oecd)](https://github.com/dvdblk/hack4good-oecd/releases)
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)](.pre-commit-config.yaml)
+[![Code style](https://img.shields.io/badge/code%20style-black-000000.svg)](pyproject.toml)
 
 This project was created for the [Hack4Good 2023](https://www.analytics-club.org/hack4good) hackathon in collaboration with [OECD](https://www.oecd.org/switzerland/).
 
@@ -73,7 +74,7 @@ python -m streamlit run app/main.py
 
 To **run** the latest docker image:
 ```
-docker run -p 8501:8501 --env-file .env ghcr.io/dvdblk/hack4good:latest
+docker run -p 8501:8501 --env-file .env --volume $PWD/data:/app/app/data ghcr.io/dvdblk/hack4good-oecd/app:latest
 ```
 
 (Optional) To **build** the docker image locally (after cloning the repo) and run it:
